@@ -1,6 +1,7 @@
 # 《赋法战争》汉化协作规则
 
-开始前阅读 [README.md](README.md)、[MEMORY.md](MEMORY.md) 和 [PLAN.md](PLAN.md)。只有用户授权进入翻译阶段后，才处理计划中的对应批次。
+开始前阅读 [README.md](README.md)、[MEMORY.md](MEMORY.md) 和 [PLAN.md](PLAN.md)。
+所有的翻译标准和内容语境、名词、世界观设定等需要符合《赋法战争》游戏标准和语境。
 
 ## 数据契约
 
