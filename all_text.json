@@ -156426,7 +156426,7 @@
   "offset": "1EEC",
   "jp": "ここが火山道かぁ",
   "en": "So this is the Volcanic Path?",
-  "zh": ""
+  "zh": "这里就是火山道啊"
  },
  {
   "id": "MSG/MSG8000/C3CD1",
@@ -156435,7 +156435,7 @@
   "offset": "1EFE",
   "jp": "この先を進めば、#CFF697DBE賢者の塔#cに着くわけね",
   "en": "We can get to the #CFF697DBESage's Tower#c by following\nthis path, right?",
-  "zh": ""
+  "zh": "沿着这里往前走，就能到达#CFF697DBE贤者之塔#c了吧"
  },
  {
   "id": "MSG/MSG8000/C3CD2",
@@ -156444,7 +156444,7 @@
   "offset": "1F3C",
   "jp": "・・・はぁ",
   "en": "...Yes.",
-  "zh": ""
+  "zh": "……唉"
  },
  {
   "id": "MSG/MSG8000/C3CD3",
@@ -156453,7 +156453,7 @@
   "offset": "1F48",
   "jp": "ライガさん、元気出して行こうぜ！",
   "en": "Cheer up, Raigar! Come on!",
-  "zh": ""
+  "zh": "莱加先生，打起精神来往前走吧！"
  },
  {
   "id": "MSG/MSG8000/C3D02",
@@ -156462,7 +156462,7 @@
   "offset": "1F6A",
   "jp": "賢者の塔って、あれかしら？",
   "en": "So that must be the Sage's Tower?",
-  "zh": ""
+  "zh": "所谓贤者之塔，就是那个吗？"
  },
  {
   "id": "MSG/MSG8000/C3D03",
@@ -156471,7 +156471,7 @@
   "offset": "1F86",
   "jp": "そう、みたいだな",
   "en": "Looks like it.",
-  "zh": ""
+  "zh": "看、看起来是的呢"
  },
  {
   "id": "MSG/MSG8000/C3D04",
@@ -156480,7 +156480,7 @@
   "offset": "1F98",
   "jp": "残念ながら、その通りです",
   "en": "Unfortunately... it is.",
-  "zh": ""
+  "zh": "遗憾的是，正是如此"
  },
  {
   "id": "MSG/MSG8000/C3D05",
@@ -156489,7 +156489,7 @@
   "offset": "1FB2",
   "jp": "なにが残念なのよ、まったく！\n賢者さんって、そんなにいやな人なの？%J803000",
   "en": "What do you mean, unfortunately?! Is this\nSage that unpleasant?!%J803000",
-  "zh": ""
+  "zh": "有什么好遗憾的啊，真是的！\n那位贤者大人，是个那么讨厌的人吗？%J803000"
  },
  {
   "id": "MSG/MSG8000/C3D06",
@@ -156498,7 +156498,7 @@
   "offset": "2006",
   "jp": "もうさ、ライガのオッサンはほっといて\nとにかく、さきに進もうよ",
   "en": "Okay, ignore Raigar! And off we go!",
-  "zh": ""
+  "zh": "行了啦，别管莱加大叔了\n总之，我们快往前走吧"
  },
  {
   "id": "MSG/MSG8000/C3D07",
@@ -156507,7 +156507,7 @@
   "offset": "2046",
   "jp": "おお",
   "en": "Yeah!",
-  "zh": ""
+  "zh": "哦！"
  },
  {
   "id": "MSG/MSG8000/C3D08",
@@ -156516,7 +156516,7 @@
   "offset": "204C",
   "jp": "・・・やはり、来たのか",
   "en": "...I knew you'd come.",
-  "zh": ""
+  "zh": "……果然，还是来了吗"
  },
  {
   "id": "MSG/MSG8000/C3D09",
@@ -156525,7 +156525,7 @@
   "offset": "2064",
   "jp": "え？",
   "en": "What?",
-  "zh": ""
+  "zh": "咦？"
  },
  {
   "id": "MSG/MSG8000/C3D0A",
@@ -156534,7 +156534,7 @@
   "offset": "206A",
   "jp": "アツマ、賢者の塔へ行く気か？",
   "en": "Atsuma, you plan on going to the Sage's\nTower?",
-  "zh": ""
+  "zh": "阿茨玛，你打算去贤者之塔吗？"
  },
  {
   "id": "MSG/MSG8000/C3D0B",
@@ -156543,7 +156543,7 @@
   "offset": "2088",
   "jp": "あー、アンタか・・・",
   "en": "Oh... you again....",
-  "zh": ""
+  "zh": "啊——是你啊……"
  },
  {
   "id": "MSG/MSG8000/C3D0C",
@@ -156552,7 +156552,7 @@
   "offset": "209E",
   "jp": "ああ、トウヤを救う手段を探しに\n賢者の塔に行くんだ",
   "en": "Yeah, I'm gonna find a way to save Toya\nat the Sage's Tower.",
-  "zh": ""
+  "zh": "是啊，为了寻找拯救托亚的手段，\n我要去贤者之塔"
  },
  {
   "id": "MSG/MSG8000/C3D0D",
@@ -156561,7 +156561,7 @@
   "offset": "20D2",
   "jp": "無駄だ",
   "en": "Pointless.",
-  "zh": ""
+  "zh": "徒劳而已"
  },
  {
   "id": "MSG/MSG8000/C3D0E",
@@ -156570,7 +156570,7 @@
   "offset": "20DA",
   "jp": "なんだと？",
   "en": "What?!",
-  "zh": ""
+  "zh": "你说什么？！"
  },
  {
   "id": "MSG/MSG8000/C3D0F",
@@ -156579,7 +156579,7 @@
   "offset": "20E6",
   "jp": "無駄だと、言ったのだ",
   "en": "I'm telling you, it's pointless.",
-  "zh": ""
+  "zh": "我说，这是徒劳的"
  },
  {
   "id": "MSG/MSG8000/C3D10",
@@ -156588,7 +156588,7 @@
   "offset": "20FC",
   "jp": "私はすでに、賢者にも会いｱ",
   "en": "I have been to see the Sage...",
-  "zh": ""
+  "zh": "我已经去见过贤者了"
  },
  {
   "id": "MSG/MSG8000/C3D11",
@@ -156597,7 +156597,7 @@
   "offset": "2118",
   "jp": "八方手をつくし調べたが・・・\nトウヤを救う#W術#Rすべ#rはない",
   "en": "I've done everything possible... there's no\nway to save Toya.",
-  "zh": ""
+  "zh": "想尽了各种办法调查，但是……\n根本没有拯救托亚的#W办法#R法门#r"
  },
  {
   "id": "MSG/MSG8000/C3D12",
@@ -156606,7 +156606,7 @@
   "offset": "215C",
   "jp": "けど、あきらめなきゃｱ",
   "en": "But I'm not giving up!",
-  "zh": ""
+  "zh": "但是，只要不放弃的话"
  },
  {
   "id": "MSG/MSG8000/C3D13",
@@ -156615,7 +156615,7 @@
   "offset": "2174",
   "jp": "カリンのときみたいに、うまくいくやり方が\n見つかるかもしれねーだろ！",
   "en": "There may be a way to save him, just like\nthere was with Karin!",
-  "zh": ""
+  "zh": "说不定就能像卡琳那时一样，\n找到顺利解决的办法啊！"
  },
  {
   "id": "MSG/MSG8000/C3D14",
@@ -156624,7 +156624,7 @@
   "offset": "21BA",
   "jp": "フ・・・\nあるいは、そうかもしれない",
   "en": "Well... that might be true.",
-  "zh": ""
+  "zh": "呵……\n或许，确实如此吧"
  },
  {
   "id": "MSG/MSG8000/C3D15",
@@ -156633,7 +156633,7 @@
   "offset": "21E0",
   "jp": "だが、救う#W術#Rすべ#rの有無は・・・\nもはや問題ではないのだ",
   "en": "But finding a way to save him... that is not\nthe problem.",
-  "zh": ""
+  "zh": "但是，有没有解救的#W办法#R法门#r……\n已经不是问题所在了"
  },
  {
   "id": "MSG/MSG8000/C3D16",
@@ -156642,7 +156642,7 @@
   "offset": "2224",
   "jp": "なん・・・だと？",
   "en": "Why... not...?",
-  "zh": ""
+  "zh": "你……说什么？"
  },
  {
   "id": "MSG/MSG8000/C3D17",
@@ -156651,7 +156651,7 @@
   "offset": "2236",
   "jp": "トウヤ自身が\nお前の助けを求めていないのだからな",
   "en": "Because Toya himself doesn't want to be\nsaved.",
-  "zh": ""
+  "zh": "因为托亚自己，\n根本就没有寻求你的帮助啊"
  },
  {
   "id": "MSG/MSG8000/C3D18",
@@ -156660,7 +156660,7 @@
   "offset": "2268",
   "jp": "だからｱ",
   "en": "So...",
-  "zh": ""
+  "zh": "所以说"
  },
  {
   "id": "MSG/MSG8000/C3D19",
@@ -156669,7 +156669,7 @@
   "offset": "2272",
   "jp": "お前はトウヤを救うことはできない",
   "en": "You cannot save him!",
-  "zh": ""
+  "zh": "你是不可能救得了托亚的"
  },
  {
   "id": "MSG/MSG8000/C3D1A",
@@ -156678,7 +156678,7 @@
   "offset": "2294",
   "jp": "うそつけよ！",
   "en": "You're lying!",
-  "zh": ""
+  "zh": "少骗人了！"
  },
  {
   "id": "MSG/MSG8000/C3D1B",
@@ -156687,7 +156687,7 @@
   "offset": "22A2",
   "jp": "なんでそんなことが、お前にわかるんだ！",
   "en": "How can you know that?!",
-  "zh": ""
+  "zh": "这种事情，你怎么可能会明白！"
  },
  {
   "id": "MSG/MSG8000/C3D1C",
@@ -156696,7 +156696,7 @@
   "offset": "22CA",
   "jp": "会って話したからだ",
   "en": "Because I talked with him.",
-  "zh": ""
+  "zh": "因为我跟他当面谈过了"
  },
  {
   "id": "MSG/MSG8000/C3D1D",
@@ -156705,7 +156705,7 @@
   "offset": "22DE",
   "jp": "なっ！",
   "en": "What!",
-  "zh": ""
+  "zh": "什么！"
  },
  {
   "id": "MSG/MSG8000/C3D1E",
@@ -156714,7 +156714,7 @@
   "offset": "22E6",
   "jp": "トウヤはｱ",
   "en": "Do you know what Toya said?",
-  "zh": ""
+  "zh": "托亚他啊"
  },
  {
   "id": "MSG/MSG8000/C3D1F",
@@ -156723,7 +156723,7 @@
   "offset": "22F2",
   "jp": "お前のことを“本当に迷惑なやつだ”\n・・・と言っていた",
   "en": "He called you a total pain. A total\nnuisance!",
-  "zh": ""
+  "zh": "说你“真是个惹人嫌的累赘”\n……他是这么说的"
  },
  {
   "id": "MSG/MSG8000/C3D20",
@@ -156732,7 +156732,7 @@
   "offset": "232A",
   "jp": "うそだ！",
   "en": "You're lying!",
-  "zh": ""
+  "zh": "骗人！"
  },
  {
   "id": "MSG/MSG8000/C3D21",
@@ -156741,7 +156741,7 @@
   "offset": "2334",
   "jp": "トウヤは本心から\nクイーンオブアイスと共にいる",
   "en": "Toya is with the Queen of Ice because he\nwants to be.",
-  "zh": ""
+  "zh": "托亚是真心想要\n留在冰之女王身边的"
  },
  {
   "id": "MSG/MSG8000/C3D22",
@@ -156750,7 +156750,7 @@
   "offset": "2364",
   "jp": "うそだうそだうそだっ！",
   "en": "That's a lie! A lie!",
-  "zh": ""
+  "zh": "骗人骗人骗人的吧！"
  },
  {
   "id": "MSG/MSG8000/C3D23",
@@ -156759,7 +156759,7 @@
   "offset": "237C",
   "jp": "トウヤはもう・・・\n人間であることをやめようとしている",
   "en": "Toya is attempting to cast off his\nlimitations as a mortal.",
-  "zh": ""
+  "zh": "托亚已经……\n打算不做人类了"
  },
  {
   "id": "MSG/MSG8000/C3D24",
@@ -156768,7 +156768,7 @@
   "offset": "23B4",
   "jp": "トウヤは・・・いや、やつはｱ",
   "en": "Toya... that fool...",
-  "zh": ""
+  "zh": "托亚他……不，那家伙啊"
  },
  {
   "id": "MSG/MSG8000/C3D25",
@@ -156777,7 +156777,7 @@
   "offset": "23D2",
   "jp": "クイーンオブアイスと融合しようとしているのだ",
   "en": "Is planning on becoming one with the Queen\nof Ice.",
-  "zh": ""
+  "zh": "正打算与冰之女王融合呢"
  },
  {
   "id": "MSG/MSG8000/C3D26",
@@ -156786,7 +156786,7 @@
   "offset": "2400",
   "jp": "クイーンオブアイスと・・・融合？",
   "en": "Becoming... one...?",
-  "zh": ""
+  "zh": "和冰之女王……融合？"
  },
  {
   "id": "MSG/MSG8000/C3D27",
@@ -156795,7 +156795,7 @@
   "offset": "2422",
   "jp": "ああ、自らがデビルゴーレムの\n一部となることでｱ",
   "en": "Yes. By choosing to become part of the\nactual Devil Golem...",
-  "zh": ""
+  "zh": "不错，通过让自己成为\n魔王魔像的一部分"
  },
  {
   "id": "MSG/MSG8000/C3D28",
@@ -156804,7 +156804,7 @@
   "offset": "2454",
   "jp": "人を超えた存在となること・・・",
   "en": "He can transcend mortal bounds.",
-  "zh": ""
+  "zh": "化身为超越人类的存在……"
  },
  {
   "id": "MSG/MSG8000/C3D29",
@@ -156813,7 +156813,7 @@
   "offset": "2474",
   "jp": "それが、いまのトウヤの目的だ",
   "en": "That is what Toya wants.",
-  "zh": ""
+  "zh": "这就是如今托亚的目的"
  },
  {
   "id": "MSG/MSG8000/C3D2A",
@@ -156822,7 +156822,7 @@
   "offset": "2492",
   "jp": "ふざけんなよ？",
   "en": "You're joking!",
-  "zh": ""
+  "zh": "少开玩笑了！"
  },
  {
   "id": "MSG/MSG8000/C3D2B",
@@ -156831,7 +156831,7 @@
   "offset": "24A2",
   "jp": "お前の言葉なんて、信じられるか！",
   "en": "I'm not gonna believe anything you say!",
-  "zh": ""
+  "zh": "我怎么可能信你的鬼话！"
  },
  {
   "id": "MSG/MSG8000/C3D2C",
@@ -156840,7 +156840,7 @@
   "offset": "24C4",
   "jp": "フ・・・なら、トウヤの言葉ならばどうなのだ？",
   "en": "Hah... you refuse to believe Toya himself?",
-  "zh": ""
+  "zh": "呵……那要是托亚亲口说的，你又当如何？"
  },
  {
   "id": "MSG/MSG8000/C3D2D",
@@ -156849,7 +156849,7 @@
   "offset": "24F2",
   "jp": "なにっ！？",
   "en": "What?!",
-  "zh": ""
+  "zh": "你说什么！？"
  },
  {
   "id": "MSG/MSG8000/C3D2E",
@@ -156858,7 +156858,7 @@
   "offset": "24FE",
   "jp": "いままで、トウヤがお前に\n投げかけてきた言葉を思い起こすんだな",
   "en": "Remember everything Toya has said to you\nup to this point!",
-  "zh": ""
+  "zh": "好好回想一下\n托亚至今为止对你说过的那些话吧"
  },
  {
   "id": "MSG/MSG8000/C3D2F",
@@ -156867,7 +156867,7 @@
   "offset": "253E",
   "jp": "あれは・・・\nトウヤはあやつられて・・・",
   "en": "But that was because... Toya was being\ncontrolled...!",
-  "zh": ""
+  "zh": "那是……\n托亚是被操纵了才……"
  },
  {
   "id": "MSG/MSG8000/C3D30",
@@ -156876,7 +156876,7 @@
   "offset": "2568",
   "jp": "どこに、あやつられているという根拠がある？",
   "en": "What proof do you have that he's being\ncontrolled?",
-  "zh": ""
+  "zh": "你凭什么断定他是被操纵的？"
  },
  {
   "id": "MSG/MSG8000/C3D31",
@@ -156885,7 +156885,7 @@
   "offset": "2594",
   "jp": "そ、それは・・・",
   "en": "But...!",
-  "zh": ""
+  "zh": "那、那是……"
  },
  {
   "id": "MSG/MSG8000/C3D32",
@@ -156894,7 +156894,7 @@
   "offset": "25A6",
   "jp": "すべて、お前の都合のいい願望にすぎない%J802100",
   "en": "You are just twisting the truth to suit what\nyou want to believe!%J802100",
-  "zh": ""
+  "zh": "这一切，不过是你一厢情愿的妄想罢了%J802100"
  },
  {
   "id": "MSG/MSG8000/C3D34",
@@ -156903,7 +156903,7 @@
   "offset": "25DE",
   "jp": "“トウヤを救うこと”はクイーンオブアイスから\nやつを解放することじゃない",
   "en": "Saving Toya from the Queen of Ice no longer\nmeans releasing him from her clutches.",
-  "zh": ""
+  "zh": "“拯救托亚”可不再意味着\n将他从冰之女王手中解放出来"
  },
  {
   "id": "MSG/MSG8000/C3D35",
@@ -156912,7 +156912,7 @@
   "offset": "2628",
   "jp": "いまとなっては、お前の手で殺してやることが\nトウヤを救う・・・ただ一つの道だ%J802103",
   "en": "The only way to save him now... is to kill\nhim.%J802103",
-  "zh": ""
+  "zh": "事到如今，亲手杀了他\n才是拯救托亚的……唯一出路%J802103"
  },
  {
   "id": "MSG/MSG8000/C3D37",
@@ -156921,7 +156921,7 @@
   "offset": "2686",
   "jp": "勝手なこと言ってんじゃねぇ！",
   "en": "That's not for you to decide!",
-  "zh": ""
+  "zh": "少在那自说自话！"
  },
  {
   "id": "MSG/MSG8000/C3D38",
@@ -156930,7 +156930,7 @@
   "offset": "26A4",
   "jp": "フン・・・",
   "en": "Hah...",
-  "zh": ""
+  "zh": "哼……"
  },
  {
   "id": "MSG/MSG8000/C3D39",
@@ -156939,7 +156939,7 @@
   "offset": "26B0",
   "jp": "世界中の人間にとってｱ",
   "en": "And you can make that decision, can you?",
-  "zh": ""
+  "zh": "对于全世界的人类而言"
  },
  {
   "id": "MSG/MSG8000/C3D3A",
@@ -156948,7 +156948,7 @@
   "offset": "26C8",
   "jp": "どちらが勝手な言い草かを、良く考えることだな%J802108",
   "en": "On behalf of everyone in the world?!%J802108",
-  "zh": ""
+  "zh": "到底是谁在任性妄为，你最好给我想清楚了%J802108"
  },
  {
   "id": "MSG/MSG8000/C3D3C",
@@ -156957,7 +156957,7 @@
   "offset": "2706",
   "jp": "さらばだ",
   "en": "Think on that! Farewell!",
-  "zh": ""
+  "zh": "告辞了"
  },
  {
   "id": "MSG/MSG8000/C3D3D",
@@ -156966,7 +156966,7 @@
   "offset": "2710",
   "jp": "くそ・・・！",
   "en": "Damn...!",
-  "zh": ""
+  "zh": "可恶……！"
  },
  {
   "id": "MSG/MSG8000/C3D3E",
@@ -156975,7 +156975,7 @@
   "offset": "271E",
   "jp": "アツマ・・・%J802113",
   "en": "Atsuma...%J802113",
-  "zh": ""
+  "zh": "阿茨玛……%J802113"
  },
  {
   "id": "MSG/MSG8000/C3D41",
@@ -156984,7 +156984,7 @@
   "offset": "273C",
   "jp": "あんなやつの言うこと、気にする必要なんかない%J802115",
   "en": "I'm not paying attention to anything he\nsays!%J802115",
-  "zh": ""
+  "zh": "那种家伙说的话，根本不用放在心上%J802115"
  },
  {
   "id": "MSG/MSG8000/C3D42",
@@ -156993,7 +156993,7 @@
   "offset": "277A",
   "jp": "早く、#CFF697DBE賢者#cのところに行こう%F",
   "en": "Come on, to the #CFF697DBESage#c!%F",
-  "zh": ""
+  "zh": "快，去#CFF697DBE贤者#c那里吧%F"
  },
  {
   "id": "MSG/MSG8000/C3D43",
@@ -157002,7 +157002,7 @@
   "offset": "27B2",
   "jp": "迷っているヒマがあるなら、とにかく進むんだ",
   "en": "We can't afford to waste any more time here!",
-  "zh": ""
+  "zh": "与其在这犹豫不决，不如直接前进吧"
  },
  {
   "id": "MSG/MSG8000/C40B8",
@@ -157011,7 +157011,7 @@
   "offset": "27DE",
   "jp": "いえ、気持ちよすぎるくらい気持ちの\nよい方ですよ？　ハハ・・・%J802054",
   "en": "Ah, no, she's almost... too nice... ha\nha...%J802054",
-  "zh": ""
+  "zh": "不，她是一位爽朗到甚至让人有点吃不消的\n大好人哦？哈哈……%J802054"
  },
  {
   "id": "MSG/MSG8000/C5A1C",
@@ -157020,7 +157020,7 @@
   "offset": "282E",
   "jp": "我は、神の宮への扉を護りし\n四聖獣が一人、スザク",
   "en": "I am Phoenicia, one of the four Holy\nBeasts who guard the Shrine of God.",
-  "zh": ""
+  "zh": "我乃守护通往神之宫殿大门的\n四圣兽之一，朱雀"
  },
  {
   "id": "MSG/MSG8000/C5A1D",
@@ -157029,7 +157029,7 @@
   "offset": "2860",
   "jp": "一千年の眠りにつきし神にまみえること叶うは\n我ら四聖獣に選ばれし、力あるモノのみ",
   "en": "Only those powerful ones chosen by us four\nHoly Beasts may meet the Slumbering God.",
-  "zh": ""
+  "zh": "唯有被我等四圣兽所选中、拥有强大力量之人，\n方能觐见沉睡了千年的神明"
  },
  {
   "id": "MSG/MSG8000/C5A1E",
@@ -157038,7 +157038,7 @@
   "offset": "28B2",
   "jp": "“神獣宮”への扉の鍵となる\n“火のオーブ”を手にしたくばｱ",
   "en": "If you wish to obtain the \"Fire Orb\" to\nenter the \"Holy Beast Shrine\"...",
-  "zh": ""
+  "zh": "若想得到作为通往“神兽宫”大门钥匙的\n“火之宝珠”——"
  },
  {
   "id": "MSG/MSG8000/C5A1F",
@@ -157047,7 +157047,7 @@
   "offset": "28EE",
   "jp": "我が猛き火炎の前に\n汝が力を示すのです",
   "en": "Stand your ground and show your power\nbefore my blazing flames!",
-  "zh": ""
+  "zh": "便在我这凶猛的烈焰面前，\n展现你的力量吧"
  },
  {
   "id": "MSG/MSG8000/C5A20",
@@ -157056,7 +157056,7 @@
   "offset": "2916",
   "jp": "戦う%M809600",
   "en": "Fight%M809600",
-  "zh": ""
+  "zh": "战斗%M809600"
  },
  {
   "id": "MSG/MSG8000/C5A21",
@@ -157065,7 +157065,7 @@
   "offset": "292C",
   "jp": "戦わない%M809700",
   "en": "Don't fight%M809700",
-  "zh": ""
+  "zh": "不战%M809700"
  },
  {
   "id": "MSG/MSG8000/C5A80",
@@ -157074,7 +157074,7 @@
   "offset": "2946",
   "jp": "よっしゃあ！　いっちょやってやるぜ！%S998096",
   "en": "Okay! We can take him!%S998096",
-  "zh": ""
+  "zh": "好嘞！看本大爷收拾你！%S998096"
  },
  {
   "id": "MSG/MSG8000/C5A81",
@@ -157083,7 +157083,7 @@
   "offset": "297C",
   "jp": "いいでしょう・・・　ゆきますよ",
   "en": "Very well then. Let us begin!",
-  "zh": ""
+  "zh": "很好……这就出招了"
  },
  {
   "id": "MSG/MSG8000/C5AE4",
@@ -157092,7 +157092,7 @@
   "offset": "299C",
   "jp": "今はまだ・・・、やめておこう・・・%S998097",
   "en": "I think we'd better... come back again\nonce we're stronger...%S998097",
-  "zh": ""
+  "zh": "现在还是……先算了吧……%S998097"
  },
  {
   "id": "MSG/MSG8000/C5AE5",
@@ -157101,7 +157101,7 @@
   "offset": "29D0",
   "jp": "いつでも来なさい、相手になりましょう",
   "en": "I will fight you any time you wish!",
-  "zh": ""
+  "zh": "随时恭候，我定奉陪到底"
  },
  {
   "id": "MSG/MSG8000/C5B48",
@@ -157110,7 +157110,7 @@
   "offset": "29F6",
   "jp": "負けた",
   "en": "Defeated...",
-  "zh": ""
+  "zh": "输了"
  },
  {
   "id": "MSG/MSG8000/C5BAC",
@@ -157119,7 +157119,7 @@
   "offset": "29FE",
   "jp": "へっへーんっ！　見たかよ！　オレ様の力！",
   "en": "Hah! Strong enough for you?",
-  "zh": ""
+  "zh": "哼哼！看到没！这就是本大爷的力量！"
  },
  {
   "id": "MSG/MSG8000/C5BAD",
@@ -157128,7 +157128,7 @@
   "offset": "2A28",
   "jp": "さてと、石碑の“火のオーブ”を取らないとな！",
   "en": "I guess this means the \"Fire Orb\" is ours!",
-  "zh": ""
+  "zh": "好啦，得把石碑上的“火之宝珠”拿走才行！"
  },
  {
   "id": "MSG/MSG8100/C63E0",
