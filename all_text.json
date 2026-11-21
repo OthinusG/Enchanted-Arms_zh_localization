@@ -87342,7 +87342,7 @@
   "offset": "47196",
   "jp": "殴る？",
   "en": "Punched?!",
-  "zh": ""
+  "zh": "揍她？"
  },
  {
   "id": "MSG/MSG4100/665CA",
@@ -87351,7 +87351,7 @@
   "offset": "4719E",
   "jp": "ああ",
   "en": "Yeah.",
-  "zh": ""
+  "zh": "嗯。"
  },
  {
   "id": "MSG/MSG4100/665CB",
@@ -87360,7 +87360,7 @@
   "offset": "471A4",
   "jp": "・・・はぁ、なんだかよくわかんないけど\nやっぱり助けにいくのね",
   "en": "...Okay, well, I didn't understand half of\nthat, but we're going to save her, right?",
-  "zh": ""
+  "zh": "……唉，虽然搞不太懂，\n不过终究还是要回去救她对吧？"
  },
  {
   "id": "MSG/MSG4100/665CC",
@@ -87369,7 +87369,7 @@
   "offset": "471E4",
   "jp": "ダメか？",
   "en": "You don't want to?",
-  "zh": ""
+  "zh": "不行吗？"
  },
  {
   "id": "MSG/MSG4100/665CD",
@@ -87378,7 +87378,7 @@
   "offset": "471EE",
   "jp": "いいわよ、べつに\nアツマが納得してるなら",
   "en": "No, no, I'm fine with it. If you are.",
-  "zh": ""
+  "zh": "无所谓啊，\n只要阿茨玛你接受就行。"
  },
  {
   "id": "MSG/MSG4100/665CE",
@@ -87387,7 +87387,7 @@
   "offset": "47218",
   "jp": "アツマ・・・すまぬ",
   "en": "Atsuma... my thanks.",
-  "zh": ""
+  "zh": "阿茨玛……抱歉了。"
  },
  {
   "id": "MSG/MSG4100/665CF",
@@ -87396,7 +87396,7 @@
   "offset": "4722C",
   "jp": "気にすんなよ、ライガさん\nオレは、オレのために行くんだ",
   "en": "Don't worry about it, Raigar. I'm doing\nthis for my own sake.",
-  "zh": ""
+  "zh": "别放在心上，莱加先生。\n我这也是为了我自己才去的。"
  },
  {
   "id": "MSG/MSG4100/665D0",
@@ -87405,7 +87405,7 @@
   "offset": "47264",
   "jp": "さあ、ずいぶん時間くっちまったな",
   "en": "Well, we're wasting time.",
-  "zh": ""
+  "zh": "好啦，已经耽搁了不少时间了。"
  },
  {
   "id": "MSG/MSG4100/665D1",
@@ -87414,7 +87414,7 @@
   "offset": "47286",
   "jp": "行こうぜ、カリンが待ってる",
   "en": "Come on, Karin is waiting.",
-  "zh": ""
+  "zh": "走吧，卡琳还在等我们呢。"
  },
  {
   "id": "MSG/MSG4100/665E4",
@@ -87423,7 +87423,7 @@
   "offset": "472A2",
   "jp": "こんなチビで色気のない、密偵いるわけ\nないじゃん",
   "en": "Have you ever seen a spy that's a midget?",
-  "zh": ""
+  "zh": "哪有密探长得这么矮小，\n而且一点女人味都没有的啊。"
  },
  {
   "id": "MSG/MSG4100/665E5",
@@ -87432,7 +87432,7 @@
   "offset": "472D4",
   "jp": "密偵って言ったら、ボン、キュ、ボンッの\n色気ムンムンに決まってんじゃん？%J412186",
   "en": "Come on! Her, a female spy?! Where's the\nsex appeal? The curves?!%J412186",
-  "zh": ""
+  "zh": "说到密探，不都得是前凸后翘、\n性感火辣的尤物嘛？%J412186"
  },
  {
   "id": "MSG/MSG4100/665E7",
@@ -87441,7 +87441,7 @@
   "offset": "4732E",
   "jp": "これも、親孝行の一つか・・・\n",
   "en": "This is another way of repaying my father\nfor all he has done for me...",
-  "zh": ""
+  "zh": "这也是一种孝敬父母的方式吧……"
  },
  {
   "id": "MSG/MSG4100/665E9",
@@ -87450,7 +87450,7 @@
   "offset": "4734E",
   "jp": "こうして、雨風を防げる場所を提供して\nいただけるだけで十分・・・",
   "en": "I'm just glad to have a place like this\nthat's simply out of the wind and rain.",
-  "zh": ""
+  "zh": "像这样能为我们提供一个\n遮风避雨的容身之所，就已经足够了……"
  },
  {
   "id": "MSG/MSG4100/665EA",
@@ -87459,7 +87459,7 @@
   "offset": "47390",
   "jp": "孝行息子も付き添ってくれておるし\nありがたいことですじゃ",
   "en": "My son is here with me, too, so everything\nis all right...",
-  "zh": ""
+  "zh": "孝顺的儿子也一直陪在我身边，\n真是太让人感激了啊。"
  },
  {
   "id": "MSG/MSG4100/665EE",
@@ -87468,7 +87468,7 @@
   "offset": "473CA",
   "jp": "カリン様もきっと、先王カリヴァン様に\nおとらぬｱ",
   "en": "Lady Karin will make a fine Queen...",
-  "zh": ""
+  "zh": "卡琳大人也一定能成为不输给先王\n卡利班大人ｱ"
  },
  {
   "id": "MSG/MSG4100/665EF",
@@ -87477,7 +87477,7 @@
   "offset": "473FC",
   "jp": "立派な君主におなりになるでしょう\n",
   "en": "Easily an equal to King Caliban, I'm sure.",
-  "zh": ""
+  "zh": "的一位出色君主吧。"
  },
  {
   "id": "MSG/MSG4100/665F1",
@@ -87486,7 +87486,7 @@
   "offset": "47420",
   "jp": "復興のお手伝いすらできない病弱な\nこの身がうらめしい・・・",
   "en": "I'm too weak to aid the repairs... though I\nwish that I could...",
-  "zh": ""
+  "zh": "真恨自己这副体弱多病的身体，\n连战后重建的忙都帮不上……"
  },
  {
   "id": "MSG/MSG4100/665F3",
@@ -87495,7 +87495,7 @@
   "offset": "4745C",
   "jp": "家を失ったいま、たとえこのような\n場所であれｱ",
   "en": "I lost my home...!",
-  "zh": ""
+  "zh": "如今失去了家园，\n哪怕是像这样的地方ｱ"
  },
  {
   "id": "MSG/MSG4100/665F4",
@@ -87504,7 +87504,7 @@
   "offset": "4748C",
   "jp": "ガレキに囲まれて眠るよりも、よほど\nマシというもの",
   "en": "So even if I have to sleep in a place like\nthis, surrounded by garbage...",
-  "zh": ""
+  "zh": "也总比在废墟瓦砾堆里露宿\n要强得多了。"
  },
  {
   "id": "MSG/MSG4100/665F5",
@@ -87513,7 +87513,7 @@
   "offset": "474C0",
   "jp": "避難所を用意してくだすった、カリン様には\n感謝せねばなりませんわ",
   "en": "It's better than being on the streets!\nPraise be to Queen Karin!",
-  "zh": ""
+  "zh": "卡琳大人为我们准备了避难所，\n真得好好感激她才是呢。"
  },
  {
   "id": "MSG/MSG4100/665F8",
@@ -87522,7 +87522,7 @@
   "offset": "47502",
   "jp": "力に対して力を行使するという短絡極まりない\n発想、とても我々の未来を託すに値しない器だ！%J412289",
   "en": "One who can only think to resist evil with \ngreater evil is not suited to lead us!%J412289",
-  "zh": ""
+  "zh": "用暴力来对抗暴力，这种极端短视的想法，根本不配将我们的未来托付给他！%J412289"
  },
  {
   "id": "MSG/MSG4100/665FD",
@@ -87531,7 +87531,7 @@
   "offset": "4756C",
   "jp": "我々は、そのような詭弁にだまされたりはしない%J412293",
   "en": "We must not fall for this ploy!%J412293",
-  "zh": ""
+  "zh": "我们绝不会被这种诡辩所蒙骗！%J412293"
  },
  {
   "id": "MSG/MSG4100/66602",
@@ -87540,7 +87540,7 @@
   "offset": "475AA",
   "jp": "おや・・・こんな山奥までお客さんとは珍しい",
   "en": "We rarely get guests out here...",
-  "zh": ""
+  "zh": "哎呀……能有客人来到这种深山老林，还真是稀客。"
  },
  {
   "id": "MSG/MSG4100/66603",
@@ -87549,7 +87549,7 @@
   "offset": "475D6",
   "jp": "ここは、以前アーセナルのアジトに\nなってたところなんだけどｱ",
   "en": "This place was formerly the Arsenal hideout.",
-  "zh": ""
+  "zh": "这里从前曾是“阿森纳”的秘密据点，不过ｱ"
  },
  {
   "id": "MSG/MSG4100/66604",
@@ -87558,7 +87558,7 @@
   "offset": "47614",
   "jp": "アーセナルがレジスタンスから民兵組織に\n改変されてね",
   "en": "Arsenal has changed from a resistance\nmovement to a militia. ",
-  "zh": ""
+  "zh": "阿森纳已经从反抗军改编成了民兵组织。"
  },
  {
   "id": "MSG/MSG4100/66605",
@@ -87567,7 +87567,7 @@
   "offset": "4764A",
   "jp": "いまは、騎士団とアーセナルの物資保管場所\nとして、活用されることになってるんだ",
   "en": "We're using this place as a storehouse for\nKnight and Arsenal materials.",
-  "zh": ""
+  "zh": "现在这里被用作骑士团与阿森纳的物资保管库。"
  },
  {
   "id": "MSG/MSG4100/6660C",
@@ -87576,7 +87576,7 @@
   "offset": "4769A",
   "jp": "騎士団からは僕が、アーセナルからは\n物資管理の代表者が駐留することになったんだ",
   "en": "I've been asked by the Knights and the\nArsenal to manage this place.",
-  "zh": ""
+  "zh": "骑士团派了我过来，而阿森纳那边也派了一位物资管理的代表驻留在此。"
  },
  {
   "id": "MSG/MSG4100/6660D",
@@ -87585,7 +87585,7 @@
   "offset": "476EA",
   "jp": "・・・あぁ、それと以前アーセナルで\n裏切り行為を働いた連中がｱ",
   "en": "...Also, we have those who betrayed the\nResistance movement working here.",
-  "zh": ""
+  "zh": "……啊，另外以前在阿森纳干过背叛勾当的那些家伙ｱ"
  },
  {
   "id": "MSG/MSG4100/6660E",
@@ -87594,7 +87594,7 @@
   "offset": "4772A",
   "jp": "罰として奉仕活動させられてるよ\n",
   "en": "As punishment, really. So what does that\nmake my job...?",
-  "zh": ""
+  "zh": "也被罚在这里进行义务劳动呢。"
  },
  {
   "id": "MSG/MSG4100/66616",
@@ -87603,7 +87603,7 @@
   "offset": "4774C",
   "jp": "いよぅ、カリンちゃん！\n・・・て、いまや女王さまか",
   "en": "Hey, Karin...! Ah, I mean, my Queen.",
-  "zh": ""
+  "zh": "哟，卡琳酱！\n……呃，现在该叫女王陛下啦。"
  },
  {
   "id": "MSG/MSG4100/66617",
@@ -87612,7 +87612,7 @@
   "offset": "47780",
   "jp": "かつてのアジトも、いまや物資保管所だよ\n・・・騎士団と共同のね",
   "en": "Our former Hideout is now a massive store-\nhouse... for the Knights stuff, too.",
-  "zh": ""
+  "zh": "以前的秘密基地，现在也成了物资保管所啦\n……还是和骑士团共用的呢"
  },
  {
   "id": "MSG/MSG4100/6661B",
@@ -87621,7 +87621,7 @@
   "offset": "477C0",
   "jp": "・・・こいつらは、裏切り行為の罰ってことで\nしばらくここで奉仕活動に従事させてんだ",
   "en": "...This poor wretch has to work off his\ncrimes here.",
-  "zh": ""
+  "zh": "……这帮家伙因为背叛行为受罚，\n暂时被留在这里服劳役呢"
  },
  {
   "id": "MSG/MSG4100/6661C",
@@ -87630,7 +87630,7 @@
   "offset": "47814",
   "jp": "・・・おらぁ、お前ら！\n手が止まってるぞ！",
   "en": "...Hey, it isn't your break yet!",
-  "zh": ""
+  "zh": "……喂，你们几个！\n手上的活别停！"
  },
  {
   "id": "MSG/MSG4100/6661D",
@@ -87639,7 +87639,7 @@
   "offset": "47840",
   "jp": "へ～い！\n",
   "en": "Sorry! Sorry!",
-  "zh": ""
+  "zh": "好～的！"
  },
  {
   "id": "MSG/MSG4100/66625",
@@ -87648,7 +87648,7 @@
   "offset": "4784C",
   "jp": "じょ・・・じょじょ・・・女王様！\nご機嫌うるわしく・・・",
   "en": "Q... Queen Karin...! Please, forgive me!",
-  "zh": ""
+  "zh": "女……女女……女王大人！\n祝您贵安……"
  },
  {
   "id": "MSG/MSG4100/66626",
@@ -87657,7 +87657,7 @@
   "offset": "47886",
   "jp": "そこ！　ムダ口叩いてねぇで、働け！",
   "en": "Hey, cut that chatter!",
-  "zh": ""
+  "zh": "那边那个！少废话，快干活！"
  },
  {
   "id": "MSG/MSG4100/66627",
@@ -87666,7 +87666,7 @@
   "offset": "478AA",
   "jp": "ひぃ！\n",
   "en": "Sorry! Sorry!",
-  "zh": ""
+  "zh": "噫！"
  },
  {
   "id": "MSG/MSG4100/6662F",
@@ -87675,7 +87675,7 @@
   "offset": "478B4",
   "jp": "ひとつみがいて国のため\n二つみがいて女王様のためｱ",
   "en": "I work for Queen and country! Now and\nforever!",
-  "zh": ""
+  "zh": "擦一下为了国家\n擦两下为了女王大人ｱ"
  },
  {
   "id": "MSG/MSG4100/66630",
@@ -87684,7 +87684,7 @@
   "offset": "478E8",
   "jp": "カリン女王様ばんざ～～い！\n",
   "en": "Huzzah for Queen Karin! Huzzah!",
-  "zh": ""
+  "zh": "卡琳女王大人万岁～～！"
  },
  {
   "id": "MSG/MSG4100/66634",
@@ -87693,7 +87693,7 @@
   "offset": "47906",
   "jp": "なんで俺様がこんなこと・・・\n・・・っは！",
   "en": "Why do I have to do this...?! Ah!",
-  "zh": ""
+  "zh": "凭什么本大爷要做这种事……\n……哈！"
  },
  {
   "id": "MSG/MSG4100/66635",
@@ -87702,7 +87702,7 @@
   "offset": "47932",
   "jp": "あ、いや、その・・・クヒ！\nクヒクヒ！　働けるってすばらしい！",
   "en": "Ah, well... ku he... Isn't working fun?!",
-  "zh": ""
+  "zh": "啊，不，那个……嘻嘻！\n嘻嘻嘻！能干活真是太棒了！"
  },
  {
   "id": "MSG/MSG4100/66639",
@@ -87711,7 +87711,7 @@
   "offset": "47972",
   "jp": "クヒィ！ さぼってませんさぼってません！\n一生けん命働かさせていただいております！！",
   "en": "Ku he! I'm not slacking off! I'm working as\nhard as I possibly can!",
-  "zh": ""
+  "zh": "嘻！我没偷懒，绝对没偷懒！\n小的正拼尽全力努力干活呢！！"
  },
  {
   "id": "MSG/MSG4100/6663E",
@@ -87720,7 +87720,7 @@
   "offset": "479C8",
   "jp": "アツマ\n気合入れなおしてやるぞ！",
   "en": "Atsuma, I'm going to wake you up to\nyourself!",
-  "zh": ""
+  "zh": "阿茨玛，\n我要给你重新注入干劲！"
  },
  {
   "id": "MSG/MSG4100/6663F",
@@ -87729,7 +87729,7 @@
   "offset": "479EA",
   "jp": "“その顔”をしているからには\nふぬけてるのは許さないからな！",
   "en": "That face of yours needs to look active!\nIt has to!",
-  "zh": ""
+  "zh": "既然顶着“那张脸”，\n我可不允许你这么萎靡不振！"
  },
  {
   "id": "MSG/MSG4100/66640",
@@ -87738,7 +87738,7 @@
   "offset": "47A28",
   "jp": "“その顔”・・・って、なんのことだよ？",
   "en": "What's my face got to do with all this?!",
-  "zh": ""
+  "zh": "“那张脸”……到底是指什么啊？"
  },
  {
   "id": "MSG/MSG4100/66641",
@@ -87747,7 +87747,7 @@
   "offset": "47A50",
   "jp": "うるさい、モンドウムヨウ！\n勝負だぞ！",
   "en": "I might tell you later! For now... fight me!",
-  "zh": ""
+  "zh": "少罗嗦，休得多言！\n来决胜负吧！"
  },
  {
   "id": "MSG/MSG4100/66652",
@@ -87756,7 +87756,7 @@
   "offset": "47A78",
   "jp": "くっ、やるじゃん",
   "en": "Pretty good.",
-  "zh": ""
+  "zh": "切，挺能干的嘛"
  },
  {
   "id": "MSG/MSG4100/66653",
@@ -87765,7 +87765,7 @@
   "offset": "47A8A",
   "jp": "けっこう、気合入ってきたってことね",
   "en": "I think that's fired you up again!",
-  "zh": ""
+  "zh": "看来干劲已经提上来了呢"
  },
  {
   "id": "MSG/MSG4100/66654",
@@ -87774,7 +87774,7 @@
   "offset": "47AAE",
   "jp": "けどｱ",
   "en": "But hold on!",
-  "zh": ""
+  "zh": "不过ｱ"
  },
  {
   "id": "MSG/MSG4100/66655",
@@ -87783,7 +87783,7 @@
   "offset": "47AB6",
   "jp": "このキングオブゴーレムハンターユウキ様を\nそう簡単に倒せるなんて思わないことね",
   "en": "You think the ultimate Golem Hunter Yuki\nis going to be defeated so easily?!",
-  "zh": ""
+  "zh": "可别以为能这么轻易打倒\n我这个魔像猎人之王勇树大人哦"
  },
  {
   "id": "MSG/MSG4100/66656",
@@ -87792,7 +87792,7 @@
   "offset": "47B06",
   "jp": "ズバっと、底力を見せてやるわ",
   "en": "I'll show you my fearsome reserves of\npower!",
-  "zh": ""
+  "zh": "这就让你见识见识我真正的底力"
  },
  {
   "id": "MSG/MSG4100/66666",
@@ -87801,7 +87801,7 @@
   "offset": "47B24",
   "jp": "ライガッ！",
   "en": "Raigar!",
-  "zh": ""
+  "zh": "莱加！"
  },
  {
   "id": "MSG/MSG4100/66667",
@@ -87810,7 +87810,7 @@
   "offset": "47B30",
   "jp": "私は貴様を倒す！",
   "en": "I'm going to beat you!",
-  "zh": ""
+  "zh": "我一定会打倒你！"
  },
  {
   "id": "MSG/MSG4100/66668",
@@ -87819,7 +87819,7 @@
   "offset": "47B42",
   "jp": "私は貴様を殺す！",
   "en": "I'm going to kill you!",
-  "zh": ""
+  "zh": "我一定会杀了你！"
  },
  {
   "id": "MSG/MSG4100/66669",
@@ -87828,7 +87828,7 @@
   "offset": "47B54",
   "jp": "そして、私は貴様を超える！",
   "en": "I'm going to surpass you!",
-  "zh": ""
+  "zh": "而且，我一定会超越你！"
  },
  {
   "id": "MSG/MSG4100/6666A",
@@ -87837,7 +87837,7 @@
   "offset": "47B70",
   "jp": "絶対になぁっ！！",
   "en": "I will!",
-  "zh": ""
+  "zh": "绝对会！！"
  },
  {
   "id": "MSG/MSG4100/6666B",
@@ -87846,7 +87846,7 @@
   "offset": "47B82",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG4100/6666C",
@@ -87855,7 +87855,7 @@
   "offset": "47B96",
   "jp": "な、なんだこいつ？\nライガさんしか眼中にないみたいだな",
   "en": "Who is this guy? He seems totally fixated\non Raigar...",
-  "zh": ""
+  "zh": "这、这家伙是谁啊？\n眼里好像只有莱加先生呢"
  },
  {
   "id": "MSG/MSG4100/66670",
@@ -87864,7 +87864,7 @@
   "offset": "47BCE",
   "jp": "・・・アツマ、なにしてるの？\nどこにいくつもり？",
   "en": "...Atsuma, what're you doing? Where do you\nthink you are going?",
-  "zh": ""
+  "zh": "……阿茨玛，你在干什么呢？\n打算去哪儿？"
  },
  {
   "id": "MSG/MSG4100/66671",
@@ -87873,7 +87873,7 @@
   "offset": "47C00",
   "jp": "敵は外だ\n・・・早く支援に向かうぞ",
   "en": "The enemy are outside... we need to go and\nhelp!",
-  "zh": ""
+  "zh": "敌人在外面\n……快去支援吧"
  },
  {
   "id": "MSG/MSG4200/368DA",
