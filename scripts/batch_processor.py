@@ -167,12 +167,13 @@ def save_all_text_crlf(data, path="all_text.json"):
     with open(path, 'wb') as f:
         f.write(json_str.encode('utf-8'))
 
-def process_batch(batch_info, all_data, chunk_size=30, max_workers=4):
+def process_batch(batch_info, all_data, batch_idx=0, total_batches=52, chunk_size=30, max_workers=4):
     start_idx = batch_info['start']
     end_idx = batch_info['end']
     b_name = f"{batch_info['file']} {batch_info['part']}".strip()
+    progress_pct = (end_idx / 21522.0) * 100.0
     print(f"\n==================================================")
-    print(f"Processing Batch: {b_name} ({start_idx}..{end_idx}, {batch_info['count']} items)")
+    print(f"[{batch_idx+1}/{total_batches}] Processing Batch: {b_name} ({start_idx}..{end_idx}, {batch_info['count']} items) - Overall MSG: {progress_pct:.1f}%")
     print(f"==================================================")
     
     # Save previous input state before modifying
@@ -296,7 +297,7 @@ def main():
             print(f"Skipping already completed batch {i}: {b['file']} {b['part']}")
             continue
             
-        success = process_batch(b, all_data)
+        success = process_batch(b, all_data, batch_idx=i, total_batches=len(batches))
         if not success:
             print(f"Stopping batch processor due to failure at batch {i} ({b['file']}).")
             sys.exit(1)
