@@ -187008,7 +187008,7 @@
   "offset": "80F8",
   "jp": "　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64321",
@@ -187017,7 +187017,7 @@
   "offset": "8116",
   "jp": "　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64322",
@@ -187026,7 +187026,7 @@
   "offset": "8136",
   "jp": "　　　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64323",
@@ -187035,7 +187035,7 @@
   "offset": "815A",
   "jp": "“我が力を解き放て”%F",
   "en": "%F",
-  "zh": ""
+  "zh": "“解放我的力量吧”%F"
  },
  {
   "id": "MSG/MSG9600/64324",
@@ -187044,7 +187044,7 @@
   "offset": "8174",
   "jp": "　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64325",
@@ -187053,7 +187053,7 @@
   "offset": "8192",
   "jp": "　　　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64326",
@@ -187062,7 +187062,7 @@
   "offset": "81B6",
   "jp": "我が力を解き放て！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "解放我的力量吧！%F"
  },
  {
   "id": "MSG/MSG9600/64327",
@@ -187071,7 +187071,7 @@
   "offset": "81CE",
   "jp": "ちくしょぉぉぉぉぉ！！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "可恶啊啊啊啊啊！！%F"
  },
  {
   "id": "MSG/MSG9600/64328",
@@ -187080,7 +187080,7 @@
   "offset": "81EA",
   "jp": "運命に身を委ねるのだ！！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "顺应命运吧！！%F"
  },
  {
   "id": "MSG/MSG9600/64329",
@@ -187089,7 +187089,7 @@
   "offset": "8208",
   "jp": "　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6432A",
@@ -187098,7 +187098,7 @@
   "offset": "8226",
   "jp": "　　　　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6432B",
@@ -187107,7 +187107,7 @@
   "offset": "824C",
   "jp": "　　　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6432C",
@@ -187116,7 +187116,7 @@
   "offset": "8270",
   "jp": "　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64384",
@@ -187125,7 +187125,7 @@
   "offset": "8290",
   "jp": "　　　　　　　　　　　　　　　　　　　　　　%F",
   "en": "%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/64385",
@@ -187134,7 +187134,7 @@
   "offset": "82C2",
   "jp": "カリン！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "卡琳！%F"
  },
  {
   "id": "MSG/MSG9600/64386",
@@ -187143,7 +187143,7 @@
   "offset": "82D0",
   "jp": "ギリギリセーフ・・・だ%F",
   "en": "%F",
-  "zh": ""
+  "zh": "勉强……赶上了啊%F"
  },
  {
   "id": "MSG/MSG9600/64387",
@@ -187152,7 +187152,7 @@
   "offset": "82EC",
   "jp": "ホント・・・世話焼かせるよな%F",
   "en": "%F",
-  "zh": ""
+  "zh": "真是……净让人操心%F"
  },
  {
   "id": "MSG/MSG9600/669CC",
@@ -187161,7 +187161,7 @@
   "offset": "830E",
   "jp": "ウォオォオオォォッ！！%F",
   "en": "Whaoooaoh!%F",
-  "zh": ""
+  "zh": "哇啊啊啊啊啊啊！！%F"
  },
  {
   "id": "MSG/MSG9600/669CD",
@@ -187170,7 +187170,7 @@
   "offset": "832A",
   "jp": "炎帝！%F",
   "en": "Emperor of Fire!%F",
-  "zh": ""
+  "zh": "炎帝！%F"
  },
  {
   "id": "MSG/MSG9600/669CE",
@@ -187179,7 +187179,7 @@
   "offset": "8336",
   "jp": "ちょ、ちょっとどうするのよ！？%F",
   "en": "What should we do?!%F",
-  "zh": ""
+  "zh": "等、等等，现在怎么办啊！？%F"
  },
  {
   "id": "MSG/MSG9600/669CF",
@@ -187188,7 +187188,7 @@
   "offset": "835A",
   "jp": "おい、アンタ\n右腕を使うって、どうすりゃいいんだ？%F",
   "en": "You said to use my arm? How?!%F",
-  "zh": ""
+  "zh": "喂，你这家伙\n说要用右臂，到底该怎么做啊？%F"
  },
  {
   "id": "MSG/MSG9600/669D0",
@@ -187197,7 +187197,7 @@
   "offset": "8392",
   "jp": "うーむ・・・まあ、説明は後だ%F",
   "en": "Hummm... I'll explain later.%F",
-  "zh": ""
+  "zh": "唔……算了，解释等会儿再说%F"
  },
  {
   "id": "MSG/MSG9600/669D1",
@@ -187206,7 +187206,7 @@
   "offset": "83B4",
   "jp": "とりあえず、こいつを倒して大人しくさせてくれ%F",
   "en": "You need to subdue him first.%F",
-  "zh": ""
+  "zh": "总之，先打倒这家伙让它老实下来%F"
  },
  {
   "id": "MSG/MSG9600/669D2",
@@ -187215,7 +187215,7 @@
   "offset": "83E6",
   "jp": "クイーンオブアイスと戦い、傷ついた炎帝\nならば、なんとかなるかもしれん%F",
   "en": "He's injured after the battle with the\nQueen of Ice. You can do it!%F",
-  "zh": ""
+  "zh": "要是跟冰之女王交过手、负伤的炎帝，\n说不定还有点办法%F"
  },
  {
   "id": "MSG/MSG9600/669D3",
@@ -187224,7 +187224,7 @@
   "offset": "8432",
   "jp": "ちょ、ちょっと・・・！\nこんな怪獣と戦えっての？%F",
   "en": "Wait...! You want us to fight this monster?!%F",
-  "zh": ""
+  "zh": "等等、等等……！\n要我们跟这种怪物打吗？%F"
  },
  {
   "id": "MSG/MSG9600/669D4",
@@ -187233,7 +187233,7 @@
   "offset": "8468",
   "jp": "タンマタンマタンマ！%F",
   "en": "Time out! Time out!%F",
-  "zh": ""
+  "zh": "暂停暂停暂停！%F"
  },
  {
   "id": "MSG/MSG9600/669D5",
@@ -187242,7 +187242,7 @@
   "offset": "8482",
   "jp": "どうやら、あちらは待ってくれそうにない%F",
   "en": "I don't think he's listening to you, Yuki.%F",
-  "zh": ""
+  "zh": "看来，对方可不打算等我们%F"
  },
  {
   "id": "MSG/MSG9600/669D6",
@@ -187251,7 +187251,7 @@
   "offset": "84AE",
   "jp": "来るぞ！%F",
   "en": "Here he comes!%F",
-  "zh": ""
+  "zh": "要来了！%F"
  },
  {
   "id": "MSG/MSG9600/669D7",
@@ -187260,7 +187260,7 @@
   "offset": "84BC",
   "jp": "おう！%F",
   "en": "Okay!%F",
-  "zh": ""
+  "zh": "哦！%F"
  },
  {
   "id": "MSG/MSG9600/669D8",
@@ -187269,7 +187269,7 @@
   "offset": "84C8",
   "jp": "　　　　　　　　　　　　　　%F",
   "en": "Whaoooaoh!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/669D9",
@@ -187278,7 +187278,7 @@
   "offset": "84EA",
   "jp": "ユウキ！%F",
   "en": "Yuki!%F",
-  "zh": ""
+  "zh": "勇树！%F"
  },
  {
   "id": "MSG/MSG9600/67520",
@@ -187287,7 +187287,7 @@
   "offset": "84F8",
   "jp": "早くカリン様を・・・炎帝を追わねば！",
   "en": "We have to go after Lady Karin... after the\nEmperor!",
-  "zh": ""
+  "zh": "必须快点去追卡琳大人……去追炎帝！"
  },
  {
   "id": "MSG/MSG9600/67521",
@@ -187296,7 +187296,7 @@
   "offset": "851E",
   "jp": "そうだ、カリンは・・・\nカリンはどうなった！？",
   "en": "Karin... what happened to her?",
-  "zh": ""
+  "zh": "对了，卡琳她……\n卡琳怎么样了！？"
  },
  {
   "id": "MSG/MSG9600/67522",
@@ -187305,7 +187305,7 @@
   "offset": "854E",
   "jp": "知りたいか？",
   "en": "Do you really want to know?",
-  "zh": ""
+  "zh": "想知道吗？"
  },
  {
   "id": "MSG/MSG9600/67523",
@@ -187314,7 +187314,7 @@
   "offset": "855C",
   "jp": "だ、だれだ！？",
   "en": "Who's there?!",
-  "zh": ""
+  "zh": "谁、谁啊！？"
  },
  {
   "id": "MSG/MSG9600/67524",
@@ -187323,7 +187323,7 @@
   "offset": "856C",
   "jp": "あの#Wお嬢さん#Rシニョリーナ#rが\nどうなったのか、知りたいか？",
   "en": "Do you really want to know what happened\nto our Senorita?",
-  "zh": ""
+  "zh": "那位#W小姐#Rシニョリーナ#r\n现在怎么样了，你想知道吗？"
  },
  {
   "id": "MSG/MSG9600/67525",
@@ -187332,7 +187332,7 @@
   "offset": "85B2",
   "jp": "お、お前は・・・",
   "en": "You...!",
-  "zh": ""
+  "zh": "你、你是……"
  },
  {
   "id": "MSG/MSG9600/67526",
@@ -187341,7 +187341,7 @@
   "offset": "85C4",
   "jp": "イケメン野郎",
   "en": "It's the handsome guy!",
-  "zh": ""
+  "zh": "帅哥混蛋"
  },
  {
   "id": "MSG/MSG9600/67527",
@@ -187350,7 +187350,7 @@
   "offset": "85D2",
   "jp": "フッ、“謎の男”と呼んでくれないか\n#Wお嬢ちゃん#Rバンビーナ#r",
   "en": "Please, call me \"Mystery Man,\" Bambina.",
-  "zh": ""
+  "zh": "呵，叫我“神秘人”如何？\n#W小姑娘#Rバンビーナ#r"
  },
  {
   "id": "MSG/MSG9600/67528",
@@ -187359,7 +187359,7 @@
   "offset": "8618",
   "jp": "お前の呼び名なんか、どうでもいいんだ！",
   "en": "Who cares what we should call you!",
-  "zh": ""
+  "zh": "谁管你怎么称呼啊！"
  },
  {
   "id": "MSG/MSG9600/67529",
@@ -187368,7 +187368,7 @@
   "offset": "8640",
   "jp": "カリンがどうなったのか\n知ってるなら、教えろ！",
   "en": "If you know what's happened to Karin, tell\nus!",
-  "zh": ""
+  "zh": "要是知道卡琳怎么样了，\n就快告诉我！"
  },
  {
   "id": "MSG/MSG9600/6752A",
@@ -187377,7 +187377,7 @@
   "offset": "8670",
   "jp": "・・・あの#Wお嬢さん#Rシニョリーナ#rはいま\n炎帝の体内にいる",
   "en": "...She is inside the Emperor of Fire.",
-  "zh": ""
+  "zh": "……那位#W小姐#Rシニョリーナ#r现在\n在炎帝的体内"
  },
  {
   "id": "MSG/MSG9600/6752B",
@@ -187386,7 +187386,7 @@
   "offset": "86B4",
   "jp": "そんなのは知ってる\nそれからどうなった！？",
   "en": "I know that much! And?",
-  "zh": ""
+  "zh": "那种事我早就知道了！\n后来呢，怎么样了！？"
  },
  {
   "id": "MSG/MSG9600/6752C",
@@ -187395,7 +187395,7 @@
   "offset": "86E0",
   "jp": "クイーンオブアイスと\n炎帝との戦いの最中ｱ",
   "en": "In the battle between the Queen of Ice and\nthe Emperor of Fire...",
-  "zh": ""
+  "zh": "在冰之女王与\n炎帝交战的过程中"
  },
  {
   "id": "MSG/MSG9600/6752D",
@@ -187404,7 +187404,7 @@
   "offset": "870C",
   "jp": "炎帝の魔導器が砕けた",
   "en": "The Emperor's Magicore was shattered.",
-  "zh": ""
+  "zh": "炎帝的魔导器碎了"
  },
  {
   "id": "MSG/MSG9600/6752E",
@@ -187413,7 +187413,7 @@
   "offset": "8722",
   "jp": "炎帝の魔導器が！？",
   "en": "Shattered?!",
-  "zh": ""
+  "zh": "炎帝的魔导器碎了！？"
  },
  {
   "id": "MSG/MSG9600/6752F",
@@ -187422,7 +187422,7 @@
   "offset": "8736",
   "jp": "それゆえ、炎帝は今\n暴走状態にあるがｱ",
   "en": "As a result, the Emperor of Fire has gone \nberserk.",
-  "zh": ""
+  "zh": "正因如此，炎帝现在\n处于暴走状态"
  },
  {
   "id": "MSG/MSG9600/67530",
@@ -187431,7 +187431,7 @@
   "offset": "875E",
   "jp": "やがてそれも収束するだろう",
   "en": "This will pass, however.",
-  "zh": ""
+  "zh": "不过很快就会平息下来的吧"
  },
  {
   "id": "MSG/MSG9600/67531",
@@ -187440,7 +187440,7 @@
   "offset": "877A",
   "jp": "どういうことだ？",
   "en": "What do you mean?",
-  "zh": ""
+  "zh": "这是什么意思？"
  },
  {
   "id": "MSG/MSG9600/67532",
@@ -187449,7 +187449,7 @@
   "offset": "878C",
   "jp": "体内にあるもう一つの魔導器を\n炎帝が受け入れ、同化した段階でｱ",
   "en": "Once he absorbs the second Magicore he now\nhas inside...",
-  "zh": ""
+  "zh": "等到炎帝接纳了体内的另一个魔导器、\n并完成同化后"
  },
  {
   "id": "MSG/MSG9600/67533",
@@ -187458,7 +187458,7 @@
   "offset": "87CC",
   "jp": "やつの暴走は止まるはずだ",
   "en": "His rampage should cease.",
-  "zh": ""
+  "zh": "那家伙的暴走理应就会停下"
  },
  {
   "id": "MSG/MSG9600/67534",
@@ -187467,7 +187467,7 @@
   "offset": "87E6",
   "jp": "もう一つの魔導器って、なによ？",
   "en": "What second Magicore?",
-  "zh": ""
+  "zh": "另一个魔导器……指的是什么啊？"
  },
  {
   "id": "MSG/MSG9600/67535",
@@ -187476,7 +187476,7 @@
   "offset": "8806",
   "jp": "もしや・・・！　カリン様のことか！",
   "en": "No...! You mean Lady Karin?!",
-  "zh": ""
+  "zh": "难道说……！是指卡琳大人吗！"
  },
  {
   "id": "MSG/MSG9600/67536",
@@ -187485,7 +187485,7 @@
   "offset": "882A",
   "jp": "#Wすばらしい#Rブラーヴォ#r！\n察しがいいな、#W騎士殿#Rキャバリエール#r",
   "en": "Bravo, Cavalier! Such quick reasoning!",
-  "zh": ""
+  "zh": "#W太棒了#Rブラーヴォ#r！\n反应真快啊，#W骑士阁下#Rキャバリエール#r"
  },
  {
   "id": "MSG/MSG9600/67537",
@@ -187494,7 +187494,7 @@
   "offset": "887E",
   "jp": "古代人の血を引くもの・・・\nたとえば、ロンドン王家の直系はｱ",
   "en": "Those bearing the blood of ancients...\nlike the royal family of London...",
-  "zh": ""
+  "zh": "流淌着古代人之血的人……\n例如伦敦王家的直系血脉"
  },
  {
   "id": "MSG/MSG9600/67538",
@@ -187503,7 +187503,7 @@
   "offset": "88BC",
   "jp": "デビルゴーレムの魔導器となりうる",
   "en": "Can become a Devil Golem's Magicore.",
-  "zh": ""
+  "zh": "是有可能成为恶魔魔像的魔导器的"
  },
  {
   "id": "MSG/MSG9600/67539",
@@ -187512,7 +187512,7 @@
   "offset": "88DE",
   "jp": "魔導器になった人間は・・・どうなるんだ？",
   "en": "What happens to someone who becomes a\nMagicore?!",
-  "zh": ""
+  "zh": "变成魔导器的人类……会怎么样？"
  },
  {
   "id": "MSG/MSG9600/6753A",
@@ -187521,7 +187521,7 @@
   "offset": "8908",
   "jp": "さあな、そこまではさすがの私にもわからない",
   "en": "I'm afraid I do not know....",
-  "zh": ""
+  "zh": "谁知道呢，即便是无所不知的我，也不得而知"
  },
  {
   "id": "MSG/MSG9600/6753B",
@@ -187530,7 +187530,7 @@
   "offset": "8934",
   "jp": "ただ・・・私が調べたところではｱ",
   "en": "But... my research suggests...",
-  "zh": ""
+  "zh": "不过……据我调查的结果来看"
  },
  {
   "id": "MSG/MSG9600/6753C",
@@ -187539,7 +187539,7 @@
   "offset": "8956",
   "jp": "完全に同化したあとに、助け出すのは\nむずかしいと言わざるを得ないな",
   "en": "Once they have completely fused together,\nseparating them is almost impossible.",
-  "zh": ""
+  "zh": "在完全同化之后，不得不说\n想把人救出来恐怕就难如登天了"
  },
  {
   "id": "MSG/MSG9600/6753D",
@@ -187548,7 +187548,7 @@
   "offset": "899A",
   "jp": "なんだと！？",
   "en": "What?!",
-  "zh": ""
+  "zh": "你说什么？！"
  },
  {
   "id": "MSG/MSG9600/6753E",
@@ -187557,7 +187557,7 @@
   "offset": "89A8",
   "jp": "おっと\n話は、最後まで聞いてもらおう",
   "en": "Hold on, listen to all I have to say!",
-  "zh": ""
+  "zh": "等等\n听我把话说完"
  },
  {
   "id": "MSG/MSG9600/6753F",
@@ -187566,7 +187566,7 @@
   "offset": "89CE",
   "jp": "“完全に同化したあと”には\nむずかしいと言っただろう",
   "en": "I said, once they have completely fused\ntogether, okay?",
-  "zh": ""
+  "zh": "我不是说过，要是“彻底同化之后”\n就很难办了吗"
  },
  {
   "id": "MSG/MSG9600/67540",
@@ -187575,7 +187575,7 @@
   "offset": "8A04",
   "jp": "いまならば、まだ救うことは可能だ",
   "en": "There is still a chance to save her, if you\nhurry.",
-  "zh": ""
+  "zh": "现在的话，还来得及救出来"
  },
  {
   "id": "MSG/MSG9600/67541",
@@ -187584,7 +187584,7 @@
   "offset": "8A26",
   "jp": "助け出すったって、どうやって？",
   "en": "How? How can we save her?",
-  "zh": ""
+  "zh": "说能救出来，到底要怎么做？"
  },
  {
   "id": "MSG/MSG9600/67542",
@@ -187593,7 +187593,7 @@
   "offset": "8A46",
   "jp": "炎帝の口の中に腕でも、突っ込んで\n引きずり出すとか？",
   "en": "Stick your arm in his mouth and pull her\nout, maybe?",
-  "zh": ""
+  "zh": "把手伸进炎帝的嘴里\n把她硬拽出来之类的吗？"
  },
  {
   "id": "MSG/MSG9600/67543",
@@ -187602,7 +187602,7 @@
   "offset": "8A7C",
   "jp": "さえてるな、#Wお嬢ちゃん#Rバンビーナ#r\n“腕”を使うところはあっている",
   "en": "You are partly correct, Bambina. About him\nusing his arm, at least.",
-  "zh": ""
+  "zh": "挺聪明嘛，#W小姑娘#R班比娜#r\n用“手臂”这点倒是蒙对了"
  },
  {
   "id": "MSG/MSG9600/67544",
@@ -187611,7 +187611,7 @@
   "offset": "8ACA",
   "jp": "腕・・・？\nひょっとして、この右腕を使うってことか？",
   "en": "My arm...? I should use my right arm?",
-  "zh": ""
+  "zh": "手臂……？\n难不成，是要用我这只右手？"
  },
  {
   "id": "MSG/MSG9600/67545",
@@ -187620,7 +187620,7 @@
   "offset": "8B00",
   "jp": "その通り",
   "en": "Correct.",
-  "zh": ""
+  "zh": "正是如此"
  },
  {
   "id": "MSG/MSG9600/67546",
@@ -187629,7 +187629,7 @@
   "offset": "8B0A",
   "jp": "アツマの右腕をどうするというのだ？",
   "en": "What should he do with it?",
-  "zh": ""
+  "zh": "要拿阿茨玛的右手做什么？"
  },
  {
   "id": "MSG/MSG9600/67547",
@@ -187638,7 +187638,7 @@
   "offset": "8B2E",
   "jp": "それは・・・",
   "en": "Well...",
-  "zh": ""
+  "zh": "那个嘛……"
  },
  {
   "id": "MSG/MSG9600/67548",
@@ -187647,7 +187647,7 @@
   "offset": "8B3C",
   "jp": "う・・・うわ・・・何だ？",
   "en": "Wha... wha...! What now?!",
-  "zh": ""
+  "zh": "哇……哇啊……什么情况？"
  },
  {
   "id": "MSG/MSG9600/67549",
@@ -187656,7 +187656,7 @@
   "offset": "8B56",
   "jp": "また、地震？",
   "en": "Another earthquake?!",
-  "zh": ""
+  "zh": "又是地震？"
  },
  {
   "id": "MSG/MSG9600/6754A",
@@ -187665,7 +187665,7 @@
   "offset": "8B64",
   "jp": "どうやら、悠長に説明している暇は\nなくなったようだな%F",
   "en": "It doesn't look like we have any more time\nfor long explanations.%F",
-  "zh": ""
+  "zh": "看来，没工夫慢条斯理地\n给你们解释了呢%F"
  },
  {
   "id": "MSG/MSG9600/67584",
@@ -187674,7 +187674,7 @@
   "offset": "8B9E",
   "jp": "ウォオォオオォォッ！！",
   "en": "Whaoooaoh!",
-  "zh": ""
+  "zh": "吼喔喔喔喔喔喔ッ！！"
  },
  {
   "id": "MSG/MSG9600/67585",
@@ -187683,7 +187683,7 @@
   "offset": "8BB6",
   "jp": "こいつ・・・！\n与えた傷が・・・治ってる？",
   "en": "He's... healing himself?!",
-  "zh": ""
+  "zh": "这家伙……！\n给它造成的伤口……正在痊愈？"
  },
  {
   "id": "MSG/MSG9600/67586",
@@ -187692,7 +187692,7 @@
   "offset": "8BE2",
   "jp": "体を再構築しているのだよ",
   "en": "Repairing his body, yes.",
-  "zh": ""
+  "zh": "它正在重构身体呢"
  },
  {
   "id": "MSG/MSG9600/67587",
@@ -187701,7 +187701,7 @@
   "offset": "8BFC",
   "jp": "いくらダメージを与えても、倒すことはできない",
   "en": "No matter how much damage you inflict, you\ncannot actually defeat him.",
-  "zh": ""
+  "zh": "无论造成多少伤害，都是无法打倒它的"
  },
  {
   "id": "MSG/MSG9600/67588",
@@ -187710,7 +187710,7 @@
   "offset": "8C2A",
   "jp": "これが、デビルゴーレムだ",
   "en": "That's a Devil Golem for you.",
-  "zh": ""
+  "zh": "这就是恶魔魔像啊"
  },
  {
   "id": "MSG/MSG9600/67589",
@@ -187719,7 +187719,7 @@
   "offset": "8C44",
   "jp": "じゃあ、どうすりゃいいんだよ！",
   "en": "Then what should I do?!",
-  "zh": ""
+  "zh": "那到底该怎么办啊！"
  },
  {
   "id": "MSG/MSG9600/6758A",
@@ -187728,7 +187728,7 @@
   "offset": "8C64",
   "jp": "右腕で、やつを“吸収”するんだ",
   "en": "Use your arm to \"absorb\" him.",
-  "zh": ""
+  "zh": "用右手，把那家伙“吸收”掉"
  },
  {
   "id": "MSG/MSG9600/6758B",
@@ -187737,7 +187737,7 @@
   "offset": "8C84",
   "jp": "なんだと？",
   "en": "What?!",
-  "zh": ""
+  "zh": "你说什么？"
  },
  {
   "id": "MSG/MSG9600/6758C",
@@ -187746,7 +187746,7 @@
   "offset": "8C90",
   "jp": "“やつを吸収しろ”と言ったんだ\nそれこそが、お前の右腕の能力だ",
   "en": "Absorb him! That is the power of your arm!",
-  "zh": ""
+  "zh": "我说了“把它吸收掉”\n那才是你右手的真正力量"
  },
  {
   "id": "MSG/MSG9600/6758D",
@@ -187755,7 +187755,7 @@
   "offset": "8CD0",
   "jp": "オレの右腕の能力はエンチャントの\n“無効化”じゃないのか？",
   "en": "I thought it negated Enchants?",
-  "zh": ""
+  "zh": "我右手的能力不是赋法的\n“无效化”吗？"
  },
  {
   "id": "MSG/MSG9600/6758E",
@@ -187764,7 +187764,7 @@
   "offset": "8D0C",
   "jp": "エーテルを“吸収”してしまうからｱ",
   "en": "Because it absorbs Ether...",
-  "zh": ""
+  "zh": "正因为把以太“吸收”了ｱ"
  },
  {
   "id": "MSG/MSG9600/6758F",
@@ -187773,7 +187773,7 @@
   "offset": "8D30",
   "jp": "表面上は“無効化”しているように\n見えるだけの話だ",
   "en": "It only appears to negate Enchants...",
-  "zh": ""
+  "zh": "表面上看起来才像是\n“无效化”而已"
  },
  {
   "id": "MSG/MSG9600/67590",
@@ -187782,7 +187782,7 @@
   "offset": "8D64",
   "jp": "その本質を理解すれば、右腕の力を\nコントロールしやすくなるはずだ",
   "en": "Now that you understand this principle you\nmight find it easier to control your arm.",
-  "zh": ""
+  "zh": "只要理解了其本质，应该就能更轻松地\n控制右手的力量了"
  },
  {
   "id": "MSG/MSG9600/67591",
@@ -187791,7 +187791,7 @@
   "offset": "8DA6",
   "jp": "わかったよ、理屈はいい・・・\nそれでカリンが助かるんだな？",
   "en": "Okay, no more explanations needed... I can\nsave Karin with this, right?",
-  "zh": ""
+  "zh": "行了行了，大道理我懂了……\n这样就能救卡琳了吧？"
  },
  {
   "id": "MSG/MSG9600/67592",
@@ -187800,7 +187800,7 @@
   "offset": "8DE2",
   "jp": "ああ、おそらくな",
   "en": "I believe so.",
-  "zh": ""
+  "zh": "嗯，大概吧"
  },
  {
   "id": "MSG/MSG9600/67593",
@@ -187809,7 +187809,7 @@
   "offset": "8DF4",
   "jp": "で、吸収ってのは、どうすりゃいいんだ？",
   "en": "So how do I absorb him?",
-  "zh": ""
+  "zh": "那么，那个吸收到底该怎么做啊？"
  },
  {
   "id": "MSG/MSG9600/67594",
@@ -187818,7 +187818,7 @@
   "offset": "8E1C",
   "jp": "右腕に意識を集中しｱ",
   "en": "Concentrate on your arm.",
-  "zh": ""
+  "zh": "把意识集中在右臂上"
  },
  {
   "id": "MSG/MSG9600/67595",
@@ -187827,7 +187827,7 @@
   "offset": "8E32",
   "jp": "その手のひらに、すべてを吸い込むことを\nイメージしろ",
   "en": "Imagine absorbing everything in through your\npalm.",
-  "zh": ""
+  "zh": "去想象手掌将一切都\n吸收进去的画面"
  },
  {
   "id": "MSG/MSG9600/67596",
@@ -187836,7 +187836,7 @@
   "offset": "8E68",
   "jp": "手のひらに・・・吸い込むイメージ・・・",
   "en": "Imagine... absorbing...",
-  "zh": ""
+  "zh": "手掌……吸收的画面……"
  },
  {
   "id": "MSG/MSG9600/67597",
@@ -187845,7 +187845,7 @@
   "offset": "8E90",
   "jp": "わかった、やってみる",
   "en": "Okay! I'm gonna do it!",
-  "zh": ""
+  "zh": "明白了，我试试看"
  },
  {
   "id": "MSG/MSG9600/67598",
@@ -187854,7 +187854,7 @@
   "offset": "8EA6",
   "jp": "あ、アツマ・・・危ないよ！",
   "en": "Hey, Atsuma... careful!",
-  "zh": ""
+  "zh": "啊，阿茨玛……太危险了！"
  },
  {
   "id": "MSG/MSG9600/67599",
@@ -187863,7 +187863,7 @@
   "offset": "8EC2",
   "jp": "やってやるさ！\nそれで、本当にカリンが助かるんならな",
   "en": "Don't worry! I'm gonna save her!",
-  "zh": ""
+  "zh": "包在我身上！\n只要真能救得了卡琳！"
  },
  {
   "id": "MSG/MSG9600/6759A",
@@ -187872,7 +187872,7 @@
   "offset": "8EF8",
   "jp": "アツマ・・・",
   "en": "Atsuma...",
-  "zh": ""
+  "zh": "阿茨玛……"
  },
  {
   "id": "MSG/MSG9600/6759B",
@@ -187881,7 +187881,7 @@
   "offset": "8F06",
   "jp": "ライガさん\n頼りなくて悪いけど、任せてくれる？",
   "en": "Raigar, can you trust me with this task?",
-  "zh": ""
+  "zh": "莱加先生，\n虽然我不太靠得住，但能交给我吗？"
  },
  {
   "id": "MSG/MSG9600/6759C",
@@ -187890,7 +187890,7 @@
   "offset": "8F36",
   "jp": "・・・すまぬ",
   "en": "...Please.",
-  "zh": ""
+  "zh": "……拜托了"
  },
  {
   "id": "MSG/MSG9600/6759D",
@@ -187899,7 +187899,7 @@
   "offset": "8F44",
   "jp": "ウォオォオオォォッ！！",
   "en": "Whaoooaoh!",
-  "zh": ""
+  "zh": "吼嗷嗷嗷嗷嗷——！！"
  },
  {
   "id": "MSG/MSG9600/6759E",
@@ -187908,7 +187908,7 @@
   "offset": "8F5C",
   "jp": "うるせぇよ、炎帝！",
   "en": "Whaoooaoh to you too, Emperor of Fire!",
-  "zh": ""
+  "zh": "吵死了，炎帝！"
  },
  {
   "id": "MSG/MSG9600/6759F",
@@ -187917,7 +187917,7 @@
   "offset": "8F70",
   "jp": "いま、だまらせてやるからな！",
   "en": "I'm gonna shut you up! Right now!",
-  "zh": ""
+  "zh": "现在就让你闭嘴！"
  },
  {
   "id": "MSG/MSG9600/6DDD0",
@@ -187926,7 +187926,7 @@
   "offset": "8F8E",
   "jp": "よーし、やっつけたわね！",
   "en": "",
-  "zh": ""
+  "zh": "太好了，搞定它了！"
  },
  {
   "id": "MSG/MSG9600/6DDD1",
@@ -187935,7 +187935,7 @@
   "offset": "8FA8",
   "jp": "これで、この先に進めるな",
   "en": "",
-  "zh": ""
+  "zh": "这样一来，就能继续前进了"
  },
  {
   "id": "MSG/MSG9600/6DDD2",
@@ -187944,7 +187944,7 @@
   "offset": "8FC2",
   "jp": "・・・！？",
   "en": "",
-  "zh": ""
+  "zh": "……！？"
  },
  {
   "id": "MSG/MSG9600/6DDD3",
@@ -187953,7 +187953,7 @@
   "offset": "8FCE",
   "jp": "・・・ぐ・・・ぐぉ・・・！",
   "en": "",
-  "zh": ""
+  "zh": "……呃……呃啊……！"
  },
  {
   "id": "MSG/MSG9600/6DDD4",
@@ -187962,7 +187962,7 @@
   "offset": "8FEA",
   "jp": "右腕が・・・",
   "en": "",
-  "zh": ""
+  "zh": "右臂……"
  },
  {
   "id": "MSG/MSG9600/6DDD5",
@@ -187971,7 +187971,7 @@
   "offset": "8FF8",
   "jp": "・・・はぁはぁはぁ・・・",
   "en": "",
-  "zh": ""
+  "zh": "……哈啊、哈啊、哈啊……"
  },
  {
   "id": "MSG/MSG9600/6DDD6",
@@ -187980,7 +187980,7 @@
   "offset": "9012",
   "jp": "右腕が共鳴したってことは・・・\nいよいよって、ことか",
   "en": "",
-  "zh": ""
+  "zh": "右臂产生了共鸣，也就是说……\n终于要动真格的了吗"
  },
  {
   "id": "MSG/MSG9600/6DDD7",
@@ -187989,7 +187989,7 @@
   "offset": "9048",
   "jp": "行くわよ・・・",
   "en": "",
-  "zh": ""
+  "zh": "我们走……"
  },
  {
   "id": "MSG/MSG9600/6DDD8",
@@ -187998,7 +187998,7 @@
   "offset": "9058",
   "jp": "御意",
   "en": "",
-  "zh": ""
+  "zh": "遵命"
  },
  {
   "id": "MSG/MSG9600/6DE34",
@@ -188007,7 +188007,7 @@
   "offset": "905E",
   "jp": "ハァハァ%F",
   "en": "Haah, haah...%F",
-  "zh": ""
+  "zh": "哈啊、哈啊%F"
  },
  {
   "id": "MSG/MSG9600/6DE35",
@@ -188016,7 +188016,7 @@
   "offset": "906C",
   "jp": "カリン、戻れーっ！！%F",
   "en": "Karin, wait, come back!%F",
-  "zh": ""
+  "zh": "卡琳，快回来——！！%F"
  },
  {
   "id": "MSG/MSG9600/6DE36",
@@ -188025,7 +188025,7 @@
   "offset": "9086",
   "jp": "ハァハァ%F",
   "en": "%F",
-  "zh": ""
+  "zh": "哈啊、哈啊%F"
  },
  {
   "id": "MSG/MSG9600/6DE37",
@@ -188034,7 +188034,7 @@
   "offset": "9094",
   "jp": "これは、“私の”・・・戦い！%F",
   "en": "This is... my fight!%F",
-  "zh": ""
+  "zh": "这是……“我的”战斗！%F"
  },
  {
   "id": "MSG/MSG9600/6DE38",
@@ -188043,7 +188043,7 @@
   "offset": "90B6",
   "jp": "っ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "唔！%F"
  },
  {
   "id": "MSG/MSG9600/6DE39",
@@ -188052,7 +188052,7 @@
   "offset": "90C0",
   "jp": "はっ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "哈！%F"
  },
  {
   "id": "MSG/MSG9600/6DE3A",
@@ -188061,7 +188061,7 @@
   "offset": "90CC",
   "jp": "ヤアァアッ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "呀啊啊啊！%F"
  },
  {
   "id": "MSG/MSG9600/6DE3B",
@@ -188070,7 +188070,7 @@
   "offset": "90DE",
   "jp": "ハァッ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "喝啊！%F"
  },
  {
   "id": "MSG/MSG9600/6DE3C",
@@ -188079,7 +188079,7 @@
   "offset": "90EC",
   "jp": "てやっ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "看招！%F"
  },
  {
   "id": "MSG/MSG9600/6DE3D",
@@ -188088,7 +188088,7 @@
   "offset": "90FA",
   "jp": "　　　お父様・・・%F",
   "en": "Father...%F",
-  "zh": ""
+  "zh": "父亲大人……%F"
  },
  {
   "id": "MSG/MSG9600/6DE3E",
@@ -188097,7 +188097,7 @@
   "offset": "9112",
   "jp": "抜かれた！？%F",
   "en": "%F",
-  "zh": ""
+  "zh": "被拔掉了！？%F"
  },
  {
   "id": "MSG/MSG9600/6DE3F",
@@ -188106,7 +188106,7 @@
   "offset": "9124",
   "jp": "　　　　　　　%F",
   "en": "...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE40",
@@ -188115,7 +188115,7 @@
   "offset": "9138",
   "jp": "　　　　　%F",
   "en": "...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE41",
@@ -188124,7 +188124,7 @@
   "offset": "9148",
   "jp": "・・・炎帝・・・\nお父様の仇を・・・%F",
   "en": "...Emperor of Fire... my father's killer\nis right there...!%F",
-  "zh": ""
+  "zh": "……炎帝……\n父亲大人的仇……%F"
  },
  {
   "id": "MSG/MSG9600/6DE42",
@@ -188133,7 +188133,7 @@
   "offset": "9172",
   "jp": "お願い\nみんなを助けて・・・%F",
   "en": "Please... save everyone...!%F",
-  "zh": ""
+  "zh": "拜托了\n救救大家吧……%F"
  },
  {
   "id": "MSG/MSG9600/6DE43",
@@ -188142,7 +188142,7 @@
   "offset": "9194",
   "jp": "・・・・・・・・・？%F",
   "en": "...?%F",
-  "zh": ""
+  "zh": "………………？%F"
  },
  {
   "id": "MSG/MSG9600/6DE44",
@@ -188151,7 +188151,7 @@
   "offset": "91AE",
   "jp": "　　　　　　　%F",
   "en": "...!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE45",
@@ -188160,7 +188160,7 @@
   "offset": "91C2",
   "jp": "・・・どうして？%F",
   "en": "...Why?!%F",
-  "zh": ""
+  "zh": "……为什么？%F"
  },
  {
   "id": "MSG/MSG9600/6DE46",
@@ -188169,7 +188169,7 @@
   "offset": "91D8",
   "jp": "何で動いてくれないのよぉぉぉぉっ！！%F",
   "en": "Why won't you move?!%F",
-  "zh": ""
+  "zh": "为什么不动啊啊啊啊！！%F"
  },
  {
   "id": "MSG/MSG9600/6DE47",
@@ -188178,7 +188178,7 @@
   "offset": "9202",
   "jp": "　　　　　%F",
   "en": "!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE48",
@@ -188187,7 +188187,7 @@
   "offset": "9212",
   "jp": "残念ねぇ%F",
   "en": "Oh my, what a pity.%F",
-  "zh": ""
+  "zh": "真遗憾呢%F"
  },
  {
   "id": "MSG/MSG9600/6DE49",
@@ -188196,7 +188196,7 @@
   "offset": "9220",
   "jp": "魔導器にｱ%F",
   "en": "That Magicore you found...%F",
-  "zh": ""
+  "zh": "难道是魔导器%F"
  },
  {
   "id": "MSG/MSG9600/6DE4A",
@@ -188205,7 +188205,7 @@
   "offset": "9230",
   "jp": "欠陥でもあったのかしら%F",
   "en": "…looks like it's been damaged.%F",
-  "zh": ""
+  "zh": "有什么缺陷吗%F"
  },
  {
   "id": "MSG/MSG9600/6DE4B",
@@ -188214,7 +188214,7 @@
   "offset": "924C",
   "jp": "　　　　　　　%F",
   "en": "...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE4C",
@@ -188223,7 +188223,7 @@
   "offset": "9260",
   "jp": "ん・・・？%F",
   "en": "What now...?%F",
-  "zh": ""
+  "zh": "嗯……？%F"
  },
  {
   "id": "MSG/MSG9600/6DE4D",
@@ -188232,7 +188232,7 @@
   "offset": "9270",
   "jp": "カリン様！%F",
   "en": "No! My lady!%F",
-  "zh": ""
+  "zh": "卡琳大人！%F"
  },
  {
   "id": "MSG/MSG9600/6DE4E",
@@ -188241,7 +188241,7 @@
   "offset": "9280",
   "jp": "カリン！%F",
   "en": "Karin! Stop!%F",
-  "zh": ""
+  "zh": "卡琳！%F"
  },
  {
   "id": "MSG/MSG9600/6DE4F",
@@ -188250,7 +188250,7 @@
   "offset": "928E",
   "jp": "いかん！！%F",
   "en": "Please! Don't!%F",
-  "zh": ""
+  "zh": "不可！！%F"
  },
  {
   "id": "MSG/MSG9600/6DE50",
@@ -188259,7 +188259,7 @@
   "offset": "929E",
   "jp": "なりませぬ\nカリン様ぁーーー！！%F",
   "en": "No! My lady! Don't do this!%F",
-  "zh": ""
+  "zh": "万万不可啊\n卡琳大人——！！%F"
  },
  {
   "id": "MSG/MSG9600/6DE51",
@@ -188268,7 +188268,7 @@
   "offset": "92C4",
   "jp": "ごめんね・・・%F",
   "en": "I'm sorry...%F",
-  "zh": ""
+  "zh": "对不起……%F"
  },
  {
   "id": "MSG/MSG9600/6DE52",
@@ -188277,7 +188277,7 @@
   "offset": "92D8",
   "jp": "　　　　　　　　　　　　　%F",
   "en": "Owhaaaa!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE53",
@@ -188286,7 +188286,7 @@
   "offset": "92F8",
   "jp": "おいっ！\nおい、ライガさん！%F",
   "en": "Hey! Hey, Raigar!%F",
-  "zh": ""
+  "zh": "喂！\n喂，莱加先生！%F"
  },
  {
   "id": "MSG/MSG9600/6DE54",
@@ -188295,7 +188295,7 @@
   "offset": "931A",
   "jp": "カリンはっ！！？%F",
   "en": "What about Karin?!%F",
-  "zh": ""
+  "zh": "卡琳呢！！？%F"
  },
  {
   "id": "MSG/MSG9600/6DE55",
@@ -188304,7 +188304,7 @@
   "offset": "9330",
   "jp": "　　　　　　　　　　　　　%F",
   "en": "Wah!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE56",
@@ -188313,7 +188313,7 @@
   "offset": "9350",
   "jp": "バカ、いまは逃げないとｱ%F",
   "en": "You moron, let's get out of here!%F",
-  "zh": ""
+  "zh": "笨蛋，现在不逃的话%F"
  },
  {
   "id": "MSG/MSG9600/6DE57",
@@ -188322,7 +188322,7 @@
   "offset": "936E",
   "jp": "みんな死んじゃうでしょーー！%F",
   "en": "We're toast otherwise!%F",
-  "zh": ""
+  "zh": "大家都会死的吧——！%F"
  },
  {
   "id": "MSG/MSG9600/6DE58",
@@ -188331,7 +188331,7 @@
   "offset": "9390",
   "jp": "カリン様・・・%F",
   "en": "My lady...%F",
-  "zh": ""
+  "zh": "卡琳大人……%F"
  },
  {
   "id": "MSG/MSG9600/6DE59",
@@ -188340,7 +188340,7 @@
   "offset": "93A4",
   "jp": "　　　　　　　　　　　　　%F",
   "en": "...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6DE5A",
@@ -188349,7 +188349,7 @@
   "offset": "93C4",
   "jp": "お遊びが過ぎたかしら？%F",
   "en": "Perhaps I toyed with her a little too long.%F",
-  "zh": ""
+  "zh": "我是不是玩过头了呢？%F"
  },
  {
   "id": "MSG/MSG9600/6DE5B",
@@ -188358,7 +188358,7 @@
   "offset": "93E0",
   "jp": "面倒なことになったわね%F",
   "en": "This is... worrisome.%F",
-  "zh": ""
+  "zh": "事情变得麻烦起来了呢%F"
  },
  {
   "id": "MSG/MSG9600/6DE5C",
@@ -188367,7 +188367,7 @@
   "offset": "93FC",
   "jp": "しかし・・・\nこれは良い機会とも言える%F",
   "en": "Although... maybe we should look upon it\nas a divine opportunity...%F",
-  "zh": ""
+  "zh": "不过……\n也可以说这是一个好机会%F"
  },
  {
   "id": "MSG/MSG9600/6DE5D",
@@ -188376,7 +188376,7 @@
   "offset": "9428",
   "jp": "フフ、いいわ、炎帝%F",
   "en": "Very well then, Emperor of Fire.%F",
-  "zh": ""
+  "zh": "呵呵，很好，炎帝%F"
  },
  {
   "id": "MSG/MSG9600/6DE5E",
@@ -188385,7 +188385,7 @@
   "offset": "9440",
   "jp": "束の間のｱ%F",
   "en": "Let us enjoy a little...%F",
-  "zh": ""
+  "zh": "就让我们好好享受这片刻的ｱ%F"
  },
  {
   "id": "MSG/MSG9600/6DE5F",
@@ -188394,7 +188394,7 @@
   "offset": "9450",
   "jp": "“ゴーレムウォー”を楽しみましょう%F",
   "en": "Golem War.%F",
-  "zh": ""
+  "zh": "“魔像战争”吧%F"
  },
  {
   "id": "MSG/MSG9600/6E5A0",
@@ -188403,7 +188403,7 @@
   "offset": "9478",
   "jp": "ここが・・・炎帝神殿か",
   "en": "This is... the Inferno Temple...",
-  "zh": ""
+  "zh": "这里就是……炎帝神殿吗"
  },
  {
   "id": "MSG/MSG9600/6E5A1",
@@ -188412,7 +188412,7 @@
   "offset": "9490",
   "jp": "まさか、ダムの底にあるなんてな",
   "en": "It's inside the dam...!",
-  "zh": ""
+  "zh": "真没想到，竟然会在大坝底部"
  },
  {
   "id": "MSG/MSG9600/6E5A2",
@@ -188421,7 +188421,7 @@
   "offset": "94B0",
   "jp": "カリン",
   "en": "Karin.",
-  "zh": ""
+  "zh": "卡琳"
  },
  {
   "id": "MSG/MSG9600/6E5A3",
@@ -188430,7 +188430,7 @@
   "offset": "94B8",
   "jp": "クイーンオブアイスが言ってた\n“炎帝の間”ってのはどこにあるんだ？",
   "en": "Where's the \"Royal Chamber\" the Queen\nof Ice talked about?",
-  "zh": ""
+  "zh": "冰之女王提到的\n“炎帝之室”到底在哪里？"
  },
  {
   "id": "MSG/MSG9600/6E5A4",
@@ -188439,7 +188439,7 @@
   "offset": "94FC",
   "jp": "#CFF697DBE炎帝の間#cは、この神殿の#CFF697DBE最奥#cにあるわ",
   "en": "The #CFF697DBERoyal Chamber#c is #CFF697DBEat the heart#c of the\nTemple.",
-  "zh": ""
+  "zh": "#CFF697DBE炎帝之室#c就在这座神殿的#CFF697DBE最深处#c哦"
  },
  {
   "id": "MSG/MSG9600/6E5A5",
@@ -188448,7 +188448,7 @@
   "offset": "9550",
   "jp": "そうか、わかったぜ\nそこに・・・トウヤもいるんだな",
   "en": "OK. So we just keep going until we get\nthere, right? That's where Toya is...",
-  "zh": ""
+  "zh": "这样啊，我明白了\n……托亚也在那里吧"
  },
  {
   "id": "MSG/MSG9600/6E5D2",
@@ -188457,7 +188457,7 @@
   "offset": "9584",
   "jp": "フフフフフ・・・",
   "en": "Huh hu hu hu...",
-  "zh": ""
+  "zh": "呵呵呵呵呵……"
  },
  {
   "id": "MSG/MSG9600/6E5D3",
@@ -188466,7 +188466,7 @@
   "offset": "9596",
   "jp": "久しいわね、炎帝",
   "en": "So glad to see you again, Emperor of Fire.",
-  "zh": ""
+  "zh": "好久不见了呢，炎帝"
  },
  {
   "id": "MSG/MSG9600/6E5D4",
@@ -188475,7 +188475,7 @@
   "offset": "95A8",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG9600/6E5D5",
@@ -188484,7 +188484,7 @@
   "offset": "95BC",
   "jp": "フフフフ\nアナタには、存分に役立ってもらうわよ",
   "en": "I have a little job for you, OK?",
-  "zh": ""
+  "zh": "呵呵呵呵\n接下来，可要让你充分发挥作用呢"
  },
  {
   "id": "MSG/MSG9600/6E5D6",
@@ -188493,7 +188493,7 @@
   "offset": "95EC",
   "jp": "１０００年ぶりの再会なのに\nまた、すぐお別れしちゃうのはｱ",
   "en": "Though I do hate to have to part again so\nsoon...",
-  "zh": ""
+  "zh": "虽然是时隔1000年的重逢\n但马上又要分别了ｱ"
  },
  {
   "id": "MSG/MSG9600/6E5D7",
@@ -188502,7 +188502,7 @@
   "offset": "9628",
   "jp": "残念だけれどね",
   "en": "It has been a 1000 years, after all.",
-  "zh": ""
+  "zh": "真叫人遗憾呢"
  },
  {
   "id": "MSG/MSG9600/6E5D8",
@@ -188511,7 +188511,7 @@
   "offset": "9638",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG9600/6E5D9",
@@ -188520,7 +188520,7 @@
   "offset": "964C",
   "jp": "悪く、思わないでね",
   "en": "Don't think badly of me, OK?",
-  "zh": ""
+  "zh": "可别怪我哦"
  },
  {
   "id": "MSG/MSG9600/6E5DA",
@@ -188529,7 +188529,7 @@
   "offset": "9660",
   "jp": "コマンドを優先したいのはアナタも私も同じこと",
   "en": "We both have to prioritize our commands,\nafter all.",
-  "zh": ""
+  "zh": "优先执行指令这一点，你我都是一样的"
  },
  {
   "id": "MSG/MSG9600/6E5DB",
@@ -188538,7 +188538,7 @@
   "offset": "968E",
   "jp": "それがｱ",
   "en": "That is, I suppose...",
-  "zh": ""
+  "zh": "毕竟那ｱ"
  },
  {
   "id": "MSG/MSG9600/6E5DC",
@@ -188547,7 +188547,7 @@
   "offset": "9698",
   "jp": "私たちの存在している意義ですもの",
   "en": "The whole reason we exist.",
-  "zh": ""
+  "zh": "就是我们存在的意义啊"
  },
  {
   "id": "MSG/MSG9600/6E5DD",
@@ -188556,7 +188556,7 @@
   "offset": "96BA",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG9600/6E5DE",
@@ -188565,7 +188565,7 @@
   "offset": "96CE",
   "jp": "それに、どちらにせよ\n“最後は同じ”こと",
   "en": "But whatever happens, we know better than\nmost, that it will all be the same in the end.",
-  "zh": ""
+  "zh": "而且，反正无论如何\n“结局都是一样的”"
  },
  {
   "id": "MSG/MSG9600/6E5DF",
@@ -188574,7 +188574,7 @@
   "offset": "96F8",
   "jp": "すべて、無意味なのよ",
   "en": "Everything is meaningless.",
-  "zh": ""
+  "zh": "一切，都毫无意义呢"
  },
  {
   "id": "MSG/MSG9600/6E5E0",
@@ -188583,7 +188583,7 @@
   "offset": "970E",
   "jp": "まるで、真夏の夜の夢みたいにね",
   "en": "Like a midsummer night's dream.",
-  "zh": ""
+  "zh": "就如同一场仲夏夜之梦一样"
  },
  {
   "id": "MSG/MSG9600/6E5E1",
@@ -188592,7 +188592,7 @@
   "offset": "972E",
   "jp": "ねぇ、そうでしょうトウヤ？",
   "en": "Isn't that right, Toya?",
-  "zh": ""
+  "zh": "呐，对吧，托亚？"
  },
  {
   "id": "MSG/MSG9600/6E5E2",
@@ -188601,7 +188601,7 @@
   "offset": "974A",
   "jp": "ハイ、クイーン",
   "en": "Yes, my Queen.",
-  "zh": ""
+  "zh": "是的，女王"
  },
  {
   "id": "MSG/MSG9600/6E5E3",
@@ -188610,7 +188610,7 @@
   "offset": "975A",
   "jp": "フフ、可愛い子、チュッ",
   "en": "Oh, my darling boy!",
-  "zh": ""
+  "zh": "呵呵，真乖，啾"
  },
  {
   "id": "MSG/MSG9600/6E5E4",
@@ -188619,7 +188619,7 @@
   "offset": "9772",
   "jp": "どう？\n私の魔導器は、可愛いでしょう？",
   "en": "Isn't my Magicore just delightful?",
-  "zh": ""
+  "zh": "如何？\n我的魔导器很可爱吧？"
  },
  {
   "id": "MSG/MSG9600/6E5E5",
@@ -188628,7 +188628,7 @@
   "offset": "979A",
   "jp": "アナタのも、もうすぐ来るわ",
   "en": "Yours will be here soon, Emperor.",
-  "zh": ""
+  "zh": "你的那份，很快也会送来哦"
  },
  {
   "id": "MSG/MSG9600/6E5E6",
@@ -188637,7 +188637,7 @@
   "offset": "97B6",
   "jp": "少し、はねっかえりの魔導器がね",
   "en": "A slightly... excitable Magicore.",
-  "zh": ""
+  "zh": "虽然是个有点叛逆的魔导器呢"
  },
  {
   "id": "MSG/MSG9600/6E604",
@@ -188646,7 +188646,7 @@
   "offset": "97D6",
   "jp": "良く聞け、カリン",
   "en": "Listen to me, Karin.",
-  "zh": ""
+  "zh": "仔细听好，卡琳"
  },
  {
   "id": "MSG/MSG9600/6E605",
@@ -188655,7 +188655,7 @@
   "offset": "97E8",
   "jp": "カリン、この先の炎帝の間には\n我ら王族の者はｱ",
   "en": "We of royal blood must never enter the Royal \nChamber, ahead.",
-  "zh": ""
+  "zh": "卡琳，前面的炎帝之间\n我们王族成员绝对……"
  },
  {
   "id": "MSG/MSG9600/6E606",
@@ -188664,7 +188664,7 @@
   "offset": "9818",
   "jp": "決して、立ち入ってはならん",
   "en": "Never!",
-  "zh": ""
+  "zh": "绝不能踏入半步"
  },
  {
   "id": "MSG/MSG9600/6E607",
@@ -188673,7 +188673,7 @@
   "offset": "9834",
   "jp": "お父様",
   "en": "Father...?",
-  "zh": ""
+  "zh": "父亲大人……？"
  },
  {
   "id": "MSG/MSG9600/6E608",
@@ -188682,7 +188682,7 @@
   "offset": "983C",
   "jp": "“王族の者以外”ではなく、“王族の者”が\n立ち入ってはならないのですか？",
   "en": "Why are royals not allowed inside? It should\nbe the other way around!",
-  "zh": ""
+  "zh": "不是“王族以外的人”，而是“王族成员”\n不能踏入吗？"
  },
  {
   "id": "MSG/MSG9600/6E609",
@@ -188691,7 +188691,7 @@
   "offset": "9886",
   "jp": "そうだ",
   "en": "No, Karin, it should not.",
-  "zh": ""
+  "zh": "正是如此"
  },
  {
   "id": "MSG/MSG9600/6E60A",
@@ -188700,7 +188700,7 @@
   "offset": "988E",
   "jp": "魔導器を持っていない限りはｱ",
   "en": "So long as they do not hold the Magicore...",
-  "zh": ""
+  "zh": "只要手中没有魔导器……"
  },
  {
   "id": "MSG/MSG9600/6E60B",
@@ -188709,7 +188709,7 @@
   "offset": "98AC",
   "jp": "ほかのだれが入ろうとも、さして意味はない",
   "en": "Anyone else may enter.",
-  "zh": ""
+  "zh": "无论换成谁进去，都没有太大意义"
  },
  {
   "id": "MSG/MSG9600/6E60C",
@@ -188718,7 +188718,7 @@
   "offset": "98D6",
   "jp": "・・・炎帝を復活させることはかなわぬ",
   "en": "...Because they would be unable to revive\nthe Devil Golem.",
-  "zh": ""
+  "zh": "……他们根本无法让炎帝复活"
  },
  {
   "id": "MSG/MSG9600/6E60D",
@@ -188727,7 +188727,7 @@
   "offset": "98FC",
   "jp": "だが、我ら古代人の末裔たる王族だけはべつだ",
   "en": "But we, descendants of the ancient royal\nline, are different.",
-  "zh": ""
+  "zh": "但我们这些身为古代人后裔的王族却不同"
  },
  {
   "id": "MSG/MSG9600/6E60E",
@@ -188736,7 +188736,7 @@
   "offset": "9928",
   "jp": "我ら王家直系の者の血肉はｱ",
   "en": "Because our bodies...",
-  "zh": ""
+  "zh": "我们王室直系之人的血肉……"
  },
  {
   "id": "MSG/MSG9600/6E60F",
@@ -188745,7 +188745,7 @@
   "offset": "9944",
   "jp": "デビルゴーレムの“魔導器”となりうるのだ",
   "en": "Can become a Magicore for a Devil Golem.",
-  "zh": ""
+  "zh": "是有可能成为恶魔魔像的“魔导器”的"
  },
  {
   "id": "MSG/MSG9600/6E610",
@@ -188754,7 +188754,7 @@
   "offset": "996E",
   "jp": "デビルゴーレムの“魔導器”に・・・？",
   "en": "I could be... a Magicore...?",
-  "zh": ""
+  "zh": "成为恶魔魔像的“魔导器”……？"
  },
  {
   "id": "MSG/MSG9600/6E611",
@@ -188763,7 +188763,7 @@
   "offset": "9994",
   "jp": "いまある魔導器とは・・・\nなにが、ちがうのですか？",
   "en": "But what about the Magicore we already have?",
-  "zh": ""
+  "zh": "这和现存的魔导器……\n有什么不同吗？"
  },
  {
   "id": "MSG/MSG9600/6E612",
@@ -188772,7 +188772,7 @@
   "offset": "99C8",
   "jp": "いま、我々が魔導器と呼んでいるものは\n言うなれば、“レプリカ”だ",
   "en": "Well, we may call it a Magicore, but really\nit's a replica at best.",
-  "zh": ""
+  "zh": "如今我们称之为魔导器的东西，\n说白了只是个“复制品”罢了"
  },
  {
   "id": "MSG/MSG9600/6E613",
@@ -188781,7 +188781,7 @@
   "offset": "9A0A",
   "jp": "人の身を犠牲にせず、デビルゴーレムを\nあやつるために作り出されたものだ",
   "en": "Created so that a Devil Golem can be\noperated without sacrificing human life.",
-  "zh": ""
+  "zh": "那是为了无需牺牲人身，\n操纵恶魔魔像而制造出来的造物"
  },
  {
   "id": "MSG/MSG9600/6E614",
@@ -188790,7 +188790,7 @@
   "offset": "9A52",
   "jp": "レプリカと人が魔導器になることは\nなにがちがうのですか、お父様？",
   "en": "So what's the difference between using a\nreplica and a human?",
-  "zh": ""
+  "zh": "复制品和由人化作魔导器，\n究竟有什么差别呢，父亲大人？"
  },
  {
   "id": "MSG/MSG9600/6E615",
@@ -188799,7 +188799,7 @@
   "offset": "9A94",
   "jp": "古代では魔導器である人間が\nある程度、デビルゴーレムを制御できたと聞く",
   "en": "In ancient times, a human Magicore was able\nto exert some control over the Golem.",
-  "zh": ""
+  "zh": "据闻在古代，充当魔导器的人类\n在某种程度上是能够控制恶魔魔像的"
  },
  {
   "id": "MSG/MSG9600/6E616",
@@ -188808,7 +188808,7 @@
   "offset": "9ADC",
   "jp": "だが時を経て、徐々に薄まった我らの血では\nそれもかなわぬだろう",
   "en": "But time has passed, and royal blood grows \nthin. I doubt the same could be said now...",
-  "zh": ""
+  "zh": "但随着岁月变迁，我们体内逐渐淡薄的血脉，\n恐怕早已无法做到那一点了"
  },
  {
   "id": "MSG/MSG9600/6E617",
@@ -188817,7 +188817,7 @@
   "offset": "9B1C",
   "jp": "とくにカリン・・・お前は王族直系にしては\nわしとくらべても、かなり血が薄い",
   "en": "Especially you, Karin... a royal descendant\nyou may be, but your royal blood is diluted.",
-  "zh": ""
+  "zh": "尤其是卡琳……你虽为王族直系，\n但与为父相比，血脉也相当稀薄"
  },
  {
   "id": "MSG/MSG9600/6E618",
@@ -188826,7 +188826,7 @@
   "offset": "9B68",
   "jp": "お前が魔導器になろうなどとしたらｱ",
   "en": "If you were to become the Emperor of Fire's\nMagicore...",
-  "zh": ""
+  "zh": "若是你想成为魔导器的话……"
  },
  {
   "id": "MSG/MSG9600/6E619",
@@ -188835,7 +188835,7 @@
   "offset": "9B8C",
   "jp": "おそらく、炎帝に飲まれ\n存在自体が消滅してしまうだろう",
   "en": "You might be swallowed up, your identity\nextinguished in a second.",
-  "zh": ""
+  "zh": "恐怕会被炎帝吞噬，\n导致自身的存在彻底消亡吧"
  },
  {
   "id": "MSG/MSG9600/6E61A",
@@ -188844,7 +188844,7 @@
   "offset": "9BC4",
   "jp": "お前の母なら、あるいは可能だったかも\nしれないがな・・・",
   "en": "Perhaps your mother could have controlled\nit... I don't know...",
-  "zh": ""
+  "zh": "若是换作你的母亲，或许还能办到\n也说不定呢……"
  },
  {
   "id": "MSG/MSG9600/6E61B",
@@ -188853,7 +188853,7 @@
   "offset": "9BFE",
   "jp": "・・・私は、お母様とちがい\n出来が悪いですからね",
   "en": "...I'm just a poor substitute for her,\naren't I.",
-  "zh": ""
+  "zh": "……我和母亲不同，\n是个没用的女儿，真是对不起您呢"
  },
  {
   "id": "MSG/MSG9600/6E61C",
@@ -188862,7 +188862,7 @@
   "offset": "9C30",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG9600/6E61D",
@@ -188871,7 +188871,7 @@
   "offset": "9C3E",
   "jp": "なにか仰ったらどうです、お父様？",
   "en": "Say something, father.",
-  "zh": ""
+  "zh": "您倒是说句话呀，父亲大人？"
  },
  {
   "id": "MSG/MSG9600/6E61E",
@@ -188880,7 +188880,7 @@
   "offset": "9C60",
   "jp": "わしは、たとえ命果てたとしても\nデビルゴーレムを復活させぬ",
   "en": "Even if it should cost me my life, I will\nnever allow this Devil Golem to be revived.",
-  "zh": ""
+  "zh": "为父纵使搭上性命，\n也决不让恶魔魔像复活"
  },
  {
   "id": "MSG/MSG9600/6E61F",
@@ -188889,7 +188889,7 @@
   "offset": "9C9C",
   "jp": "カリン・・・お前も、そうするのだ",
   "en": "Karin... you too must swear to it.",
-  "zh": ""
+  "zh": "卡琳……你也必须这么做"
  },
  {
   "id": "MSG/MSG9600/6E620",
@@ -188898,7 +188898,7 @@
   "offset": "9CBE",
   "jp": "はい、お父様\nお母様の名にかけて・・・誓います",
   "en": "Yes, father. I swear... in the name of my\nmother.",
-  "zh": ""
+  "zh": "好的，父亲大人\n我以母亲的名义……起誓"
  },
  {
   "id": "MSG/MSG9600/6E668",
@@ -188907,7 +188907,7 @@
   "offset": "9CEE",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG9600/6E669",
@@ -188916,7 +188916,7 @@
   "offset": "9CFC",
   "jp": "カリン・・・？　どうかしたのか？",
   "en": "Karin...? What's wrong?",
-  "zh": ""
+  "zh": "卡琳……？你怎么了吗？"
  },
  {
   "id": "MSG/MSG9600/6E66A",
@@ -188925,7 +188925,7 @@
   "offset": "9D1E",
   "jp": "・・・なんでもないわ",
   "en": "...It's nothing.",
-  "zh": ""
+  "zh": "……没什么"
  },
  {
   "id": "MSG/MSG9600/6E66B",
@@ -188934,7 +188934,7 @@
   "offset": "9D34",
   "jp": "・・・？",
   "en": "...?",
-  "zh": ""
+  "zh": "……？"
  },
  {
   "id": "MSG/MSG9600/6E66C",
@@ -188943,7 +188943,7 @@
   "offset": "9D3E",
   "jp": "さて、“炎帝の間”とかいうところに\n行くのはいいんだけどさ",
   "en": "So, going to this \"Royal Chamber\" place is\nall very well...",
-  "zh": ""
+  "zh": "我说，去那个叫什么“炎帝之间”的\n地方倒是没问题啦"
  },
  {
   "id": "MSG/MSG9600/6E66D",
@@ -188952,7 +188952,7 @@
   "offset": "9D7A",
   "jp": "アツマの右腕で、ホントに倒せるの？",
   "en": "But can your arm really defeat Queen of Ice?",
-  "zh": ""
+  "zh": "但凭阿茨玛的右臂，真的能打倒它吗？"
  },
  {
   "id": "MSG/MSG9600/6E66E",
@@ -188961,7 +188961,7 @@
   "offset": "9D9E",
   "jp": "わかんねぇ・・・\nひょっとしたら、余計にひどいことになるかも",
   "en": "I don't know... It could just make things\nworse.",
-  "zh": ""
+  "zh": "我也不知道……\n搞不好，事情还会变得更糟"
  },
  {
   "id": "MSG/MSG9600/6E66F",
@@ -188970,7 +188970,7 @@
   "offset": "9DDC",
   "jp": "けど、やるしかない",
   "en": "But we have no choice.",
-  "zh": ""
+  "zh": "但现在只能硬上了"
  },
  {
   "id": "MSG/MSG9600/6E670",
@@ -188979,7 +188979,7 @@
   "offset": "9DF0",
   "jp": "いいかげんねぇ・・・",
   "en": "That's so reckless!",
-  "zh": ""
+  "zh": "真是太乱来了……"
  },
  {
   "id": "MSG/MSG9600/6E671",
@@ -188988,7 +188988,7 @@
   "offset": "9E06",
   "jp": "いっそのこと・・・\nやっぱり、炎帝を復活させちゃわない？",
   "en": "Maybe we should just... revive the Emperor\nafter all?",
-  "zh": ""
+  "zh": "干脆……\n我们还是把炎帝复活算了？"
  },
  {
   "id": "MSG/MSG9600/6E672",
@@ -188997,7 +188997,7 @@
   "offset": "9E40",
   "jp": "怪獣には、怪獣をぶつけるのよ！",
   "en": "Set one monster against another!",
-  "zh": ""
+  "zh": "对付怪兽，就该用怪兽去撞啊！"
  },
  {
   "id": "MSG/MSG9600/6E673",
@@ -189006,7 +189006,7 @@
   "offset": "9E60",
   "jp": "・・・ぇ～・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……呃～……"
  },
  {
   "id": "MSG/MSG9600/6E674",
@@ -189015,7 +189015,7 @@
   "offset": "9E72",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG9600/6E675",
@@ -189024,7 +189024,7 @@
   "offset": "9E80",
   "jp": "・・・勝手なこと、言わないで",
   "en": "...That's not for you to decide.",
-  "zh": ""
+  "zh": "……别自作主张、胡说八道了"
  },
  {
   "id": "MSG/MSG9600/6E676",
@@ -189033,7 +189033,7 @@
   "offset": "9E9E",
   "jp": "なによ、アタシは少しでも\n場を盛り上げようと・・・",
   "en": "I was just trying to lighten the mood, OK?",
-  "zh": ""
+  "zh": "干嘛啊，人家明明只是想\n稍微活跃一下气氛嘛……"
  },
  {
   "id": "MSG/MSG9600/6E677",
@@ -189042,7 +189042,7 @@
   "offset": "9ED2",
   "jp": "いま、盛り上げる必要ないんだよ",
   "en": "There's no need for levity right now!",
-  "zh": ""
+  "zh": "现在根本不需要你活跃气氛啦"
  },
  {
   "id": "MSG/MSG9600/6E678",
@@ -189051,7 +189051,7 @@
   "offset": "9EF2",
   "jp": "カリン、心配すんな",
   "en": "Karin, don't worry.",
-  "zh": ""
+  "zh": "卡琳，别担心"
  },
  {
   "id": "MSG/MSG9600/6E679",
@@ -189060,7 +189060,7 @@
   "offset": "9F06",
   "jp": "オレが・・・なんとかする",
   "en": "I... I'll do something.",
-  "zh": ""
+  "zh": "我……一定会想办法解决的"
  },
  {
   "id": "MSG/MSG9600/6E67A",
@@ -189069,7 +189069,7 @@
   "offset": "9F20",
   "jp": "ありが・・・とう・・・",
   "en": "Thank... you.",
-  "zh": ""
+  "zh": "谢……谢……"
  },
  {
   "id": "MSG/MSG9600/6E67B",
@@ -189078,7 +189078,7 @@
   "offset": "9F38",
   "jp": "カリン様？",
   "en": "My lady?",
-  "zh": ""
+  "zh": "卡琳小姐？"
  },
  {
   "id": "MSG/MSG9600/6E67C",
@@ -189087,7 +189087,7 @@
   "offset": "9F44",
   "jp": "さあ、グズグズしていられないわ\n#CFF697DBE炎帝の間#cへ向かうわよ",
   "en": "No more wasting time! To the #CFF697DBERoyal Chamber#c!",
-  "zh": ""
+  "zh": "好了，可没时间磨磨蹭蹭了\n我们去#CFF697DBE炎帝之间#c吧"
  },
  {
   "id": "MSG/MSG9600/6E6CC",
@@ -189096,7 +189096,7 @@
   "offset": "9F92",
   "jp": "あれ・・・\nこの扉、開かないみたいだな",
   "en": "",
-  "zh": ""
+  "zh": "哎……\n这扇门，好像打不开啊"
  },
  {
   "id": "MSG/MSG9600/6E6CD",
@@ -189105,7 +189105,7 @@
   "offset": "9FBA",
   "jp": "たぶん、どこかにスイッチがあるんじゃない？\nスイッチを動かしてみようよ",
   "en": "",
-  "zh": ""
+  "zh": "可能哪儿有机关开关吧？\n去开一下开关试试看吧"
  },
  {
   "id": "MSG/MSG9600/6E6CE",
@@ -189114,7 +189114,7 @@
   "offset": "A002",
   "jp": "ん？\nスイッチ動かしたのに、開いてないな%J452304",
   "en": "%J452304",
-  "zh": ""
+  "zh": "嗯？\n明明扳动了开关，怎么还没开啊%J452304"
  },
  {
   "id": "MSG/MSG9600/6E6D0",
@@ -189123,7 +189123,7 @@
   "offset": "A03C",
   "jp": "この扉は、#CFF697DBE二つスイッチを作動させれば\n動く#cはずよ",
   "en": "",
-  "zh": ""
+  "zh": "这扇门只要#CFF697DBE启动两个开关\n应该就能打开#c了"
  },
  {
   "id": "MSG/MSG9600/6E6FE",
@@ -189132,7 +189132,7 @@
   "offset": "A086",
   "jp": "なんか、仰々しい扉だな・・・",
   "en": "",
-  "zh": ""
+  "zh": "总觉得这扇门造得挺夸张的啊……"
  },
  {
   "id": "MSG/MSG9600/6E6FF",
@@ -189141,7 +189141,7 @@
   "offset": "A0A4",
   "jp": "この先に進めば、もうすぐ#CFF697DBE“炎帝の間”#cよ",
   "en": "",
-  "zh": ""
+  "zh": "穿过这里，马上就是#CFF697DBE“炎帝之间”#c了"
  },
  {
   "id": "MSG/MSG9600/6E700",
@@ -189150,7 +189150,7 @@
   "offset": "A0E4",
   "jp": "行きましょう",
   "en": "",
-  "zh": ""
+  "zh": "走吧"
  },
  {
   "id": "MSG/MSG9600/6E730",
@@ -189159,7 +189159,7 @@
   "offset": "A0F2",
   "jp": "なんだ、こいつ？%F",
   "en": "What's this watery thing?%F",
-  "zh": ""
+  "zh": "这什么玩意儿？%F"
  },
  {
   "id": "MSG/MSG9600/6E731",
@@ -189168,7 +189168,7 @@
   "offset": "A108",
   "jp": "　　　　　　　　　　　　　　%F",
   "en": "Guwahaaaaaaa!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG9600/6E732",
@@ -189177,7 +189177,7 @@
   "offset": "A12A",
   "jp": "どきなさい・・・！%F",
   "en": "Out of my way!%F",
-  "zh": ""
+  "zh": "让开……！%F"
  },
  {
   "id": "MSG/MSG9600/6E733",
@@ -189186,7 +189186,7 @@
   "offset": "A142",
   "jp": "話の通じる相手ではありません\n来ますぞ、カリン様！%F",
   "en": "I fear we must fight this enemy, my lady.\nHere it comes!%F",
-  "zh": ""
+  "zh": "这不是能讲道理的对手\n要攻过来了，卡琳大人！%F"
  },
  {
   "id": "MSG/MSG9600/6E762",
@@ -189195,7 +189195,7 @@
   "offset": "A17A",
   "jp": "この向こうが、“炎帝の間”ですな",
   "en": "The \"Royal Chamber\" lies beyond here.",
-  "zh": ""
+  "zh": "穿过这道门，就是“炎帝之室”了吧"
  },
  {
   "id": "MSG/MSG9600/6E763",
@@ -189204,7 +189204,7 @@
   "offset": "A19C",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG9600/6E764",
@@ -189213,7 +189213,7 @@
   "offset": "A1AA",
   "jp": "カリン様？",
   "en": "My lady?",
-  "zh": ""
+  "zh": "卡琳大人？"
  },
  {
   "id": "MSG/MSG9600/6E765",
@@ -189222,7 +189222,7 @@
   "offset": "A1B6",
   "jp": "・・・ねぇ、アツマ",
   "en": "...Atsuma.",
-  "zh": ""
+  "zh": "……我说，阿茨玛"
  },
  {
   "id": "MSG/MSG9600/6E766",
@@ -189231,7 +189231,7 @@
   "offset": "A1CA",
   "jp": "なんだ？",
   "en": "What?",
-  "zh": ""
+  "zh": "怎么了？"
  },
  {
   "id": "MSG/MSG9600/6E767",
@@ -189240,7 +189240,7 @@
   "offset": "A1D4",
   "jp": "アナタのお友達の・・・トラジくん？",
   "en": "Your friend... Toraji?",
-  "zh": ""
+  "zh": "你那位朋友……叫虎次来着？"
  },
  {
   "id": "MSG/MSG9600/6E768",
@@ -189249,7 +189249,7 @@
   "offset": "A1F8",
   "jp": "トウヤ、だ",
   "en": "Toya.",
-  "zh": ""
+  "zh": "是托亚"
  },
  {
   "id": "MSG/MSG9600/6E769",
@@ -189258,7 +189258,7 @@
   "offset": "A204",
   "jp": "とにかく、あのクイーンオブアイスと\n一緒にいる彼ってｱ",
   "en": "Well, that guy with the Queen of Ice...",
-  "zh": ""
+  "zh": "算了，总之就是和冰之女王\n待在一起的那个家伙……"
  },
  {
   "id": "MSG/MSG9600/6E76A",
@@ -189267,7 +189267,7 @@
   "offset": "A23C",
   "jp": "ひょっとして、古代人の血を・・・\n引いていたりする？",
   "en": "Does he have the blood of the ancients?",
-  "zh": ""
+  "zh": "该不会……\n流着古代人的血统吧？"
  },
  {
   "id": "MSG/MSG9600/6E76B",
@@ -189276,7 +189276,7 @@
   "offset": "A272",
   "jp": "古代人・・・？",
   "en": "The ancients...?",
-  "zh": ""
+  "zh": "古代人……？"
  },
  {
   "id": "MSG/MSG9600/6E76C",
@@ -189285,7 +189285,7 @@
   "offset": "A282",
   "jp": "そう、ヨコハマシティの創始者の\n#W末裔#Rまつえい#rだったりしない？",
   "en": "Yes. Is he a direct descendant of those who\nfounded Yokohama City?",
-  "zh": ""
+  "zh": "对，难道他不是横滨市创立者的\n#W后裔#Rまつえい#r吗？"
  },
  {
   "id": "MSG/MSG9600/6E76D",
@@ -189294,7 +189294,7 @@
   "offset": "A2CC",
   "jp": "なんでいま、そんな話を・・・？",
   "en": "Why are you asking this now?",
-  "zh": ""
+  "zh": "怎么突然提这个……？"
  },
  {
   "id": "MSG/MSG9600/6E76E",
@@ -189303,7 +189303,7 @@
   "offset": "A2EC",
   "jp": "いいから、答えて",
   "en": "Just answer me.",
-  "zh": ""
+  "zh": "别管那么多，快回答我"
  },
  {
   "id": "MSG/MSG9600/6E76F",
@@ -189312,7 +189312,7 @@
   "offset": "A2FE",
   "jp": "うーん・・・そういや\nたしか、そういう話を聞いたことがある",
   "en": "OK, OK... yeah, actually, I think I did\nhear something like that.",
-  "zh": ""
+  "zh": "唔……说起来\n我确实隐约听过类似的话"
  },
  {
   "id": "MSG/MSG9600/6E770",
@@ -189321,7 +189321,7 @@
   "offset": "A33A",
   "jp": "トウヤは、べつに創始者の#W末裔#Rまつえい#rとかじゃ\nないけど・・・",
   "en": "I don't know if he's directly descended from\nthe founders of Yokohama...",
-  "zh": ""
+  "zh": "不过托亚倒不是什么创立者的#W后裔#Rまつえい#r\n就是了……"
  },
  {
   "id": "MSG/MSG9600/6E771",
@@ -189330,7 +189330,7 @@
   "offset": "A384",
   "jp": "なんだっけ・・・\nたしか、“覚醒異変”がどうとか・・・",
   "en": "But I remember a term he used... he's a\n\"revision,\" I think!",
-  "zh": ""
+  "zh": "叫什么来着……\n好像是什么“觉醒异变”来着……"
  },
  {
   "id": "MSG/MSG9600/6E772",
@@ -189339,7 +189339,7 @@
   "offset": "A3BC",
   "jp": "“隔世遺伝”ね",
   "en": "You mean \"reversion.\"",
-  "zh": ""
+  "zh": "是“隔代遗传”吧"
  },
  {
   "id": "MSG/MSG9600/6E773",
@@ -189348,7 +189348,7 @@
   "offset": "A3CC",
   "jp": "・・・そうか・・・\nやっぱり・・・そうなんだ・・・",
   "en": "...That makes sense, then. As I thought...",
-  "zh": ""
+  "zh": "……这样啊……\n果然……是这样吗……"
  },
  {
   "id": "MSG/MSG9600/6E774",
@@ -189357,7 +189357,7 @@
   "offset": "A400",
   "jp": "カリン様？",
   "en": "My lady?",
-  "zh": ""
+  "zh": "卡琳大人？"
  },
  {
   "id": "MSG/MSG9600/6E775",
@@ -189366,7 +189366,7 @@
   "offset": "A40C",
   "jp": "ううん、なんでもないわ",
   "en": "Oh, it's nothing.",
-  "zh": ""
+  "zh": "没什么，别在意"
  },
  {
   "id": "MSG/MSG9600/6E776",
@@ -189375,7 +189375,7 @@
   "offset": "A424",
   "jp": "さあ、行きましょう、ライガ",
   "en": "Come on, Raigar.",
-  "zh": ""
+  "zh": "好了，我们走吧，莱加"
  },
  {
   "id": "MSG/MSG9600/6E777",
@@ -189384,7 +189384,7 @@
   "offset": "A440",
   "jp": "お父様の仇を！%F",
   "en": "Time to deal with my father's murderer!%F",
-  "zh": ""
+  "zh": "去为父亲大人报仇！%F"
  },
  {
   "id": "MSG/MSG9600/6E794",
@@ -189393,7 +189393,7 @@
   "offset": "A454",
   "jp": "待っていたわ",
   "en": "I've been waiting for you.",
-  "zh": ""
+  "zh": "我等你们很久了"
  },
  {
   "id": "MSG/MSG9600/6E795",
@@ -189402,7 +189402,7 @@
   "offset": "A462",
   "jp": "ねぇ、アナタ\n炎帝を復活させる、決心がついたかしら？",
   "en": "Have you finally decided to revive the\nEmperor then, girl?",
-  "zh": ""
+  "zh": "我说，小姑娘\n你下定决心要复活炎帝了吗？"
  },
  {
   "id": "MSG/MSG9600/6E796",
@@ -189411,7 +189411,7 @@
   "offset": "A498",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG9600/6E797",
@@ -189420,7 +189420,7 @@
   "offset": "A4A6",
   "jp": "カリンは下がってろ\nここは・・・オレがやる",
   "en": "Get back, Karin. I'll deal with this.",
-  "zh": ""
+  "zh": "卡琳你退后\n这里……由我来"
  },
  {
   "id": "MSG/MSG9600/6E798",
@@ -189429,7 +189429,7 @@
   "offset": "A4D2",
   "jp": "アラアラ、その右腕を使う気？",
   "en": "Oh, you plan on using your right arm?",
-  "zh": ""
+  "zh": "哎呀呀，打算用那只右臂吗？"
  },
  {
   "id": "MSG/MSG9600/6E799",
@@ -189438,7 +189438,7 @@
   "offset": "A4F0",
   "jp": "私の相手をするのは“まだ、早い”\nって言ったでしょう？",
   "en": "I told you, it's still too soon for us to fight.",
-  "zh": ""
+  "zh": "我不是说过，要和我交手\n“还太早了”吗？"
  },
  {
   "id": "MSG/MSG9600/6E79A",
@@ -189447,7 +189447,7 @@
   "offset": "A528",
   "jp": "うるせぇ、オレはお前をぶっつぶす！\nそんで、トウヤを取り戻す！",
   "en": "Shut up! I'm gonna destroy you, OK?\nI'm gonna take Toya back!",
-  "zh": ""
+  "zh": "吵死了，老子要把你打个稀巴烂！\n然后再把托亚夺回来！"
  },
  {
   "id": "MSG/MSG9600/6E79B",
@@ -189456,7 +189456,7 @@
   "offset": "A568",
   "jp": "トウヤを取り戻す・・・ねぇ",
   "en": "Take Toya back... oh my.",
-  "zh": ""
+  "zh": "把托亚夺回来……是吗？"
  },
  {
   "id": "MSG/MSG9600/6E79C",
@@ -189465,7 +189465,7 @@
   "offset": "A584",
   "jp": "アナタの意気込みは、わかったけれど\nトウヤの方はどうかしらねぇ",
   "en": "You've made your feelings clear... Let's\njust see how Toya feels about it, shall we?",
-  "zh": ""
+  "zh": "你的干劲我是感受到了\n不过托亚那边又是怎么想的呢？"
  },
  {
   "id": "MSG/MSG9600/6E79D",
@@ -189474,7 +189474,7 @@
   "offset": "A5C4",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG9600/6E79E",
@@ -189483,7 +189483,7 @@
   "offset": "A5D2",
   "jp": "トウヤ・・・？",
   "en": "Toya...?",
-  "zh": ""
+  "zh": "托亚……？"
  },
  {
   "id": "MSG/MSG9600/6E79F",
@@ -189492,7 +189492,7 @@
   "offset": "A5E2",
   "jp": "アツマ・・・",
   "en": "Atsuma...",
-  "zh": ""
+  "zh": "阿茨玛……"
  },
  {
   "id": "MSG/MSG9600/6E7A0",
@@ -189501,7 +189501,7 @@
   "offset": "A5F0",
   "jp": "クイーンに手を出すなって、言っただろう？",
   "en": "I told you not to challenge the Queen.",
-  "zh": ""
+  "zh": "我不是说过，不要对女王出手吗？"
  },
  {
   "id": "MSG/MSG9600/6E7A1",
@@ -189510,7 +189510,7 @@
   "offset": "A61A",
   "jp": "トウ・・・ヤ・・・",
   "en": "To... ya...!",
-  "zh": ""
+  "zh": "托……亚……"
  },
  {
   "id": "MSG/MSG9600/6E7A2",
@@ -189519,7 +189519,7 @@
   "offset": "A62E",
   "jp": "フフフ\n文句があるなら、ボクが相手になるよ？",
   "en": "If you have a problem with her then you'll\nhave to fight me.",
-  "zh": ""
+  "zh": "呵呵呵\n要是你有意见，就由我来做你的对手吧？"
  },
  {
   "id": "MSG/MSG9600/6E7A3",
@@ -189528,7 +189528,7 @@
   "offset": "A65C",
   "jp": "フフ・・・ですって？",
   "en": "Well... there's your answer.",
-  "zh": ""
+  "zh": "呵呵……听到没有？"
  },
  {
   "id": "MSG/MSG9600/6E7A4",
@@ -189537,7 +189537,7 @@
   "offset": "A672",
   "jp": "テメエ、トウヤをあやつりやがって！",
   "en": "You're controlling him!",
-  "zh": ""
+  "zh": "你这家伙，竟然敢操纵托亚！"
  },
  {
   "id": "MSG/MSG9600/6E7A5",
@@ -189546,7 +189546,7 @@
   "offset": "A696",
   "jp": "アツマ・・・\nこれはボクの意思だって、言ってるじゃないか",
   "en": "Atsuma... how many times must I say this?\nThis is my own will. My own!",
-  "zh": ""
+  "zh": "阿茨玛……\n我不是说过了吗，这是我自己的意志。"
  },
  {
   "id": "MSG/MSG9600/6E7A6",
@@ -189555,7 +189555,7 @@
   "offset": "A6D0",
   "jp": "トウヤ、どけ！\nオレがこいつを倒して、自由にしてやる",
   "en": "Toya, out of my way! I'm going to defeat\nher and free you!",
-  "zh": ""
+  "zh": "托亚，让开！\n等我打倒这家伙，就会让你重获自由！"
  },
  {
   "id": "MSG/MSG9600/6E7A7",
@@ -189564,7 +189564,7 @@
   "offset": "A706",
   "jp": "どかないよ",
   "en": "I'm not moving.",
-  "zh": ""
+  "zh": "我不会让开的。"
  },
  {
   "id": "MSG/MSG9600/6E7A8",
@@ -189573,7 +189573,7 @@
   "offset": "A712",
   "jp": "くそ・・・どうしてだよ、トウヤァ！？",
   "en": "Why! What's wrong, Toya?",
-  "zh": ""
+  "zh": "可恶……为什么啊，托亚——！？"
  },
  {
   "id": "MSG/MSG9600/6E7A9",
@@ -189582,7 +189582,7 @@
   "offset": "A738",
   "jp": "アツマ",
   "en": "Atsuma.",
-  "zh": ""
+  "zh": "阿茨玛。"
  },
  {
   "id": "MSG/MSG9600/6E7AA",
@@ -189591,7 +189591,7 @@
   "offset": "A740",
   "jp": "なんだよ？\nカリンは下がってろって、言っただろ",
   "en": "What? Karin, I said stay back!",
-  "zh": ""
+  "zh": "干嘛啊？\n我不是叫卡琳你退下了吗？"
  },
  {
   "id": "MSG/MSG9600/6E7AB",
@@ -189600,7 +189600,7 @@
   "offset": "A770",
   "jp": "下がっているのは、アナタよ",
   "en": "You're the one who needs to get back.",
-  "zh": ""
+  "zh": "该退下的人，是你才对吧。"
  },
  {
   "id": "MSG/MSG9600/6E7AC",
@@ -189609,7 +189609,7 @@
   "offset": "A78C",
   "jp": "え？",
   "en": "Eh?",
-  "zh": ""
+  "zh": "诶？"
  },
  {
   "id": "MSG/MSG9600/6E7AD",
@@ -189618,7 +189618,7 @@
   "offset": "A792",
   "jp": "カリン様？",
   "en": "My lady?",
-  "zh": ""
+  "zh": "卡琳大人？"
  },
  {
   "id": "MSG/MSG9600/6E7AE",
@@ -189627,7 +189627,7 @@
   "offset": "A79E",
   "jp": "アラアラ、どうしたのかしら、お嬢さん？",
   "en": "Uh-oh, and what are you planning,\nlittle girl?",
-  "zh": ""
+  "zh": "哎呀哎呀，这是怎么了呢，小姑娘？"
  },
  {
   "id": "MSG/MSG9600/6E7AF",
@@ -189636,7 +189636,7 @@
   "offset": "A7C6",
   "jp": "クイーンオブアイス！　言ったでしょう？",
   "en": "I told you, Queen of Ice!",
-  "zh": ""
+  "zh": "冰之女王！我应该说过了吧？"
  },
  {
   "id": "MSG/MSG9600/6E7B0",
@@ -189645,7 +189645,7 @@
   "offset": "A7EE",
   "jp": "私は・・・",
   "en": "I'm going...",
-  "zh": ""
+  "zh": "我……"
  },
  {
   "id": "MSG/MSG9600/6E7B1",
@@ -189654,7 +189654,7 @@
   "offset": "A7FA",
   "jp": "絶対に！",
   "en": "..to...",
-  "zh": ""
+  "zh": "绝对！"
  },
  {
   "id": "MSG/MSG9600/6E7B2",
@@ -189663,7 +189663,7 @@
   "offset": "A804",
   "jp": "お前を",
   "en": "...kill...",
-  "zh": ""
+  "zh": "要将你"
  },
  {
   "id": "MSG/MSG9600/6E7B3",
@@ -189672,7 +189672,7 @@
   "offset": "A80C",
   "jp": "殺す！！",
   "en": "you!",
-  "zh": ""
+  "zh": "碎尸万段！！"
  },
  {
   "id": "MSG/MSG9600/6E7B4",
@@ -189681,7 +189681,7 @@
   "offset": "A816",
   "jp": "そして、ロンドンは私が守る",
   "en": "I'm going to protect London!",
-  "zh": ""
+  "zh": "而且，伦敦由我来守护。"
  },
  {
   "id": "MSG/MSG9600/6E7B5",
@@ -189690,7 +189690,7 @@
   "offset": "A832",
   "jp": "アツマ・・・",
   "en": "Atsuma...",
-  "zh": ""
+  "zh": "阿茨玛……"
  },
  {
   "id": "MSG/MSG9600/6E7B6",
@@ -189699,7 +189699,7 @@
   "offset": "A840",
   "jp": "殴ってあげられなくて、ごめんね？",
   "en": "Sorry. I'm not going to be able to punch\nyou, after all.",
-  "zh": ""
+  "zh": "没能揍你一顿，对不起了哦？"
  },
  {
   "id": "MSG/MSG9600/6E7B7",
@@ -189708,7 +189708,7 @@
   "offset": "A862",
   "jp": "カリン？",
   "en": "Karin?",
-  "zh": ""
+  "zh": "卡琳？"
  },
  {
   "id": "MSG/MSG9600/6E7B8",
@@ -189717,7 +189717,7 @@
   "offset": "A86C",
   "jp": "カ、カリン様、まさかっ！\nおやめください！",
   "en": "My lady! No! Stop!",
-  "zh": ""
+  "zh": "卡、卡琳大人，难道说！\n请住手啊！"
  },
  {
   "id": "MSG/MSG9600/6FF68",
@@ -189726,7 +189726,7 @@
   "offset": "A898",
   "jp": "あ、あれ！？\n炎帝のＨＰとＥＰが勝手に回復しちゃったぞ！",
   "en": "Hey! The Emperor of Fire is recovering\nHP and EP!",
-  "zh": ""
+  "zh": "咦、奇怪！？\n炎帝的HP和EP怎么自己恢复了啊！"
  },
  {
   "id": "MSG/MSG9600/6FF69",
@@ -189735,7 +189735,7 @@
   "offset": "A8D2",
   "jp": "ダメージを与えても、放っておけば\n元にもどってしまうということか・・・",
   "en": "If we don't follow up our attacks quickly\nthen he'll recover from the damage...",
-  "zh": ""
+  "zh": "就算给予伤害，只要放着不管\n就会恢复原状吗……"
  },
  {
   "id": "MSG/MSG9600/6FF6A",
@@ -189744,7 +189744,7 @@
   "offset": "A91A",
   "jp": "放っておけば元にもどる？",
   "en": "Hmmm... hold on...",
-  "zh": ""
+  "zh": "放着不管就会恢复原状？"
  },
  {
   "id": "MSG/MSG9600/6FF6B",
@@ -189753,7 +189753,7 @@
   "offset": "A934",
   "jp": "そういえば、クイーンオブアイスも\n似たような能力をもっていた気がする・・・",
   "en": "I seem to remember the Queen of Ice having\nthe same sort of ability...",
-  "zh": ""
+  "zh": "这么说来，冰之女王好像也\n拥有类似的能力……"
  },
  {
   "id": "MSG/MSG9600/6FF6C",
@@ -189762,7 +189762,7 @@
   "offset": "A980",
   "jp": "アツマ、いまは悩むべきときではない\nカリン様を救うぞ",
   "en": "No time to worry about that now, Atsuma!\nWe need to save Lady Karin!",
-  "zh": ""
+  "zh": "阿茨玛，现在不是纠结的时候\n先救卡琳大人"
  },
  {
   "id": "MSG/MSG9600/6FF7C",
@@ -189771,7 +189771,7 @@
   "offset": "A9B6",
   "jp": "なんだ？\n炎帝の魔導器が、光っている？",
   "en": "What now? The Emperor's Magicore is...\nglowing?",
-  "zh": ""
+  "zh": "怎么了？\n炎帝的魔导器在发光？"
  },
  {
   "id": "MSG/MSG9600/6FF7D",
@@ -189780,7 +189780,7 @@
   "offset": "A9DE",
   "jp": "フ・・・説明してやろう",
   "en": "Allow me to explain.",
-  "zh": ""
+  "zh": "呵……就让我来给你们说明一下吧"
  },
  {
   "id": "MSG/MSG9600/6FF7E",
@@ -189789,7 +189789,7 @@
   "offset": "A9F6",
   "jp": "うわ、いきなりイケメンが出た！？",
   "en": "Wah! It's the handsome guy again!",
-  "zh": ""
+  "zh": "哇，怎么突然冒出个帅哥！？"
  },
  {
   "id": "MSG/MSG9600/6FF7F",
@@ -189798,7 +189798,7 @@
   "offset": "AA18",
   "jp": "炎帝の魔導器の光は、取り込まれた\n#Wお嬢さん#Rシニョリーナ#rの意識が露出している証拠だ",
   "en": "That light is a sign that the Senorita\ntrapped inside is currently self-aware.",
-  "zh": ""
+  "zh": "炎帝魔导器的光芒，正是被吸入其中的\n#W大小姐#Rシニョリーナ#r意识显露出来的证据"
  },
  {
   "id": "MSG/MSG9600/6FF80",
@@ -189807,7 +189807,7 @@
   "offset": "AA76",
   "jp": "#Wお嬢さん#Rシニョリーナ#rを助けたければ\nこの状態のときは、炎帝を攻撃しないことだな",
   "en": "If you wish to avoid hurting her do not\nattack the Emperor when you see that light!",
-  "zh": ""
+  "zh": "要是想救那位#W大小姐#Rシニョリーナ#r的话\n在这个状态下，就别去攻击炎帝"
  },
  {
   "id": "MSG/MSG9600/6FF81",
@@ -189816,7 +189816,7 @@
   "offset": "AAD2",
   "jp": "光っていないときを狙えばよい・・・\nということか",
   "en": "So we need to wait until the light goes\nout...",
-  "zh": ""
+  "zh": "只要瞄准不发光的时候动手……\n是这个意思吧"
  },
  {
   "id": "MSG/MSG9600/6FF82",
@@ -189825,7 +189825,7 @@
   "offset": "AB04",
   "jp": "承知した",
   "en": "Understood.",
-  "zh": ""
+  "zh": "明白了"
  },
  {
   "id": "MSG/MSG9600/6FF90",
@@ -189834,7 +189834,7 @@
   "offset": "AB0E",
   "jp": "なにをしている",
   "en": "What are you doing?!",
-  "zh": ""
+  "zh": "你们在干什么"
  },
  {
   "id": "MSG/MSG9600/6FF91",
@@ -189843,7 +189843,7 @@
   "offset": "AB1E",
   "jp": "光っている状態の炎帝を\n攻撃するなと言っただろう",
   "en": "Didn't I just tell you not to attack the\nEmperor while the Magicore is lit?!",
-  "zh": ""
+  "zh": "我不是说过了吗\n别攻击处于发光状态的炎帝"
  },
  {
   "id": "MSG/MSG9600/6FFA4",
@@ -189852,7 +189852,7 @@
   "offset": "AB50",
   "jp": "馬鹿な",
   "en": "You fools!",
-  "zh": ""
+  "zh": "真是愚蠢"
  },
  {
   "id": "MSG/MSG9600/6FFA5",
@@ -189861,7 +189861,7 @@
   "offset": "AB58",
   "jp": "#Wお嬢さん#Rシニョリーナ#rを殺す気か？",
   "en": "Do you want to kill her?!",
-  "zh": ""
+  "zh": "你们是想杀了那位#W大小姐#Rシニョリーナ#r吗？"
  },
  {
   "id": "MSG/MSG9600/6FFA6",
@@ -189870,7 +189870,7 @@
   "offset": "AB86",
   "jp": "いいか、もう一度言うぞ\n光っている状態の炎帝を攻撃するな",
   "en": "I'll say it again! Do not attack the\nEmperor while the Magicore is lit!",
-  "zh": ""
+  "zh": "听好了，我再说一遍\n别攻击发光状态下的炎帝"
  },
  {
   "id": "MSG/MSG9600/6FFB8",
@@ -189879,7 +189879,7 @@
   "offset": "ABC0",
   "jp": "耳はついているのか？",
   "en": "Clean out your ears, please!",
-  "zh": ""
+  "zh": "你们长耳朵是用来当摆设的吗？"
  },
  {
   "id": "MSG/MSG9600/6FFB9",
@@ -189888,7 +189888,7 @@
   "offset": "ABD6",
   "jp": "これ以上攻撃したら\n#Wお嬢さん#Rシニョリーナ#rの存在自体が破壊されるぞ",
   "en": "Keep on attacking like this and you'll kill\nher! Understand?!",
-  "zh": ""
+  "zh": "再继续攻击的话\n那位#W大小姐#Rシニョリーナ#r的存在本身就要被彻底摧毁了"
  },
  {
   "id": "MSG/MSG9600/6FFCC",
@@ -189897,7 +189897,7 @@
   "offset": "AC24",
   "jp": "・・・・・・愚かな",
   "en": "You fools…",
-  "zh": ""
+  "zh": "……真是一群蠢货"
  },
  {
   "id": "MSG/MSG9600/6FFCD",
@@ -189906,7 +189906,7 @@
   "offset": "AC38",
   "jp": "いまの攻撃で、#Wお嬢さん#Rシニョリーナ#rの意識は完全に\n砕け散った",
   "en": "That final attack has totally shattered\nthe Senorita's awareness.",
-  "zh": ""
+  "zh": "刚才的那一下攻击，让那位#W大小姐#Rシニョリーナ#r的意识已经彻底\n烟消云散了"
  },
  {
   "id": "MSG/MSG9600/6FFCE",
@@ -189915,7 +189915,7 @@
   "offset": "AC82",
   "jp": "え・・・？",
   "en": "Eh...?",
-  "zh": ""
+  "zh": "诶……？"
  },
  {
   "id": "MSG/MSG9600/6FFCF",
@@ -189924,7 +189924,7 @@
   "offset": "AC8E",
   "jp": "カリンが・・・死んだってこと・・・？",
   "en": "You mean... she's dead?",
-  "zh": ""
+  "zh": "这意思是……卡琳……死了吗……？"
  },
  {
   "id": "MSG/MSG9600/6FFD0",
@@ -189933,7 +189933,7 @@
   "offset": "ACB4",
   "jp": "な、なんと言うことだ・・・",
   "en": "No...!",
-  "zh": ""
+  "zh": "怎、怎么会发生这种事……"
  },
  {
   "id": "MSG/MSG9600/6FFD1",
@@ -189942,7 +189942,7 @@
   "offset": "ACD0",
   "jp": "カリン様ーーー！！！",
   "en": "My lady!!",
-  "zh": ""
+  "zh": "卡琳大人——！！！"
  },
  {
   "id": "MSG/MSG9600/6FFFE",
@@ -189951,7 +189951,7 @@
   "offset": "ACE6",
   "jp": "転送装置は機能していないようだ",
   "en": "The teleporter doesn't seem to be working.",
-  "zh": ""
+  "zh": "传送装置似乎没有运转"
  },
  {
   "id": "MSG/MSG9600/70030",
@@ -189960,7 +189960,7 @@
   "offset": "AD06",
   "jp": "あれ・・・\n動かないや",
   "en": "Hmmm... no response.",
-  "zh": ""
+  "zh": "咦……\n动不了呢"
  },
  {
   "id": "MSG/MSG9600/70031",
@@ -189969,7 +189969,7 @@
   "offset": "AD1E",
   "jp": "注入器もあるみたいだし\nどっかからエーテルを集めてくればいいのか",
   "en": "It has an input device... I guess we need\nto find some Ether from somewhere.",
-  "zh": ""
+  "zh": "看起来也有注入装置的样子\n只要从哪里收集一些以太带过来就行了吗"
  },
  {
   "id": "MSG/MSG9900/F1B31",
