@@ -163923,7 +163923,7 @@
   "offset": "B64",
   "jp": "我はすべてを破壊する！%F",
   "en": "I destroy all...%F",
-  "zh": ""
+  "zh": "吾乃毁灭一切之存在！%F"
  },
  {
   "id": "MSG/MSG8300/CAA31",
@@ -163932,7 +163932,7 @@
   "offset": "B80",
   "jp": "グオォォォォォッ！！%F",
   "en": "Guhaaaaaaaaaaa!!%F",
-  "zh": ""
+  "zh": "哇啊啊啊啊啊啊！！%F"
  },
  {
   "id": "MSG/MSG8300/CCB64",
@@ -163941,7 +163941,7 @@
   "offset": "B9A",
   "jp": "石碑に文字が彫りこまれている",
   "en": "There are letters carved in the tablet.",
-  "zh": ""
+  "zh": "石碑上刻着文字"
  },
  {
   "id": "MSG/MSG8300/CCB65",
@@ -163950,7 +163950,7 @@
   "offset": "BB8",
   "jp": "“猛き火を捧げよ”",
   "en": "\"Offer up blazing fire\"",
-  "zh": ""
+  "zh": "“献上烈火”"
  },
  {
   "id": "MSG/MSG8300/CCB78",
@@ -163959,7 +163959,7 @@
   "offset": "BCC",
   "jp": "石碑には、火のオーブがはめ込まれている",
   "en": "The Fire Orb is set in the tablet.",
-  "zh": ""
+  "zh": "石碑上镶嵌着火之宝珠"
  },
  {
   "id": "MSG/MSG8300/CCB8C",
@@ -163968,7 +163968,7 @@
   "offset": "BF4",
   "jp": "石碑に赤い光がともった",
   "en": "The tablet glows red.",
-  "zh": ""
+  "zh": "石碑亮起了红光"
  },
  {
   "id": "MSG/MSG8300/CCBA0",
@@ -163977,7 +163977,7 @@
   "offset": "C0C",
   "jp": "石碑に文字が彫りこまれている",
   "en": "There are letters carved in the tablet.",
-  "zh": ""
+  "zh": "石碑上刻着文字"
  },
  {
   "id": "MSG/MSG8300/CCBA1",
@@ -163986,7 +163986,7 @@
   "offset": "C2A",
   "jp": "“清き水を捧げよ”",
   "en": "\"Offer up gushing water\"",
-  "zh": ""
+  "zh": "“献上清泉”"
  },
  {
   "id": "MSG/MSG8300/CCBB4",
@@ -163995,7 +163995,7 @@
   "offset": "C3E",
   "jp": "石碑には、水のオーブがはめ込まれている",
   "en": "The Water Orb is set in the tablet.",
-  "zh": ""
+  "zh": "石碑上镶嵌着水之宝珠"
  },
  {
   "id": "MSG/MSG8300/CCBC8",
@@ -164004,7 +164004,7 @@
   "offset": "C66",
   "jp": "石碑に青い光がともった",
   "en": "The tablet glows blue.",
-  "zh": ""
+  "zh": "石碑亮起了蓝光"
  },
  {
   "id": "MSG/MSG8300/CCBDC",
@@ -164013,7 +164013,7 @@
   "offset": "C7E",
   "jp": "石碑に文字が彫りこまれている",
   "en": "There are letters carved in the tablet.",
-  "zh": ""
+  "zh": "石碑上刻着文字"
  },
  {
   "id": "MSG/MSG8300/CCBDD",
@@ -164022,7 +164022,7 @@
   "offset": "C9C",
   "jp": "“疾き風を捧げよ”",
   "en": "\"Offer up howling wind\"",
-  "zh": ""
+  "zh": "“献上疾风”"
  },
  {
   "id": "MSG/MSG8300/CCBF0",
@@ -164031,7 +164031,7 @@
   "offset": "CB0",
   "jp": "石碑には、風のオーブがはめ込まれている",
   "en": "The Wind Orb is set in the tablet.",
-  "zh": ""
+  "zh": "石碑上镶嵌着风之宝珠"
  },
  {
   "id": "MSG/MSG8300/CCC04",
@@ -164040,7 +164040,7 @@
   "offset": "CD8",
   "jp": "石碑に緑の光がともった",
   "en": "The tablet glows green.",
-  "zh": ""
+  "zh": "石碑亮起了绿光"
  },
  {
   "id": "MSG/MSG8300/CCC18",
@@ -164049,7 +164049,7 @@
   "offset": "CF0",
   "jp": "石碑に文字が彫りこまれている",
   "en": "There are letters carved in the tablet.",
-  "zh": ""
+  "zh": "石碑上刻着文字"
  },
  {
   "id": "MSG/MSG8300/CCC19",
@@ -164058,7 +164058,7 @@
   "offset": "D0E",
   "jp": "“固き地を捧げよ”",
   "en": "\"Offer up solid earth\"",
-  "zh": ""
+  "zh": "“献上坚土”"
  },
  {
   "id": "MSG/MSG8300/CCC2C",
@@ -164067,7 +164067,7 @@
   "offset": "D22",
   "jp": "石碑には、地のオーブがはめ込まれている",
   "en": "The Earth Orb is set in the tablet.",
-  "zh": ""
+  "zh": "石碑上镶嵌着土之宝珠"
  },
  {
   "id": "MSG/MSG8300/CCC40",
@@ -164076,7 +164076,7 @@
   "offset": "D4A",
   "jp": "石碑に黄の光がともった",
   "en": "The tablet glows yellow.",
-  "zh": ""
+  "zh": "石碑亮起了黄光"
  },
  {
   "id": "MSG/MSG8300/DDEC8",
@@ -164085,7 +164085,7 @@
   "offset": "D62",
   "jp": "#CFFFF0000メイド会話チェック用【ダミー】",
   "en": "",
-  "zh": ""
+  "zh": "#CFFFF0000女仆对话检查用【占位】"
  },
  {
   "id": "MSG/MSG8300/DDED2",
@@ -164094,7 +164094,7 @@
   "offset": "D96",
   "jp": "#CFFFF0000セバス会話チェック用【ダミー】",
   "en": "",
-  "zh": ""
+  "zh": "#CFFFF0000塞巴斯对话检查用【占位】"
  },
  {
   "id": "MSG/MSG8300/DDEDC",
@@ -164103,7 +164103,7 @@
   "offset": "DCA",
   "jp": "あｈちゃ",
   "en": "",
-  "zh": ""
+  "zh": "啊h恰"
  },
  {
   "id": "MSG/MSG8300/DDEE6",
@@ -164112,7 +164112,7 @@
   "offset": "DD4",
   "jp": "ぐひ",
   "en": "",
-  "zh": ""
+  "zh": "咕嘿"
  },
  {
   "id": "MSG/MSG8300/DDEF0",
@@ -164121,7 +164121,7 @@
   "offset": "DDA",
   "jp": "ぶぶ",
   "en": "",
-  "zh": ""
+  "zh": "噗噗"
  },
  {
   "id": "MSG/MSG8300/DDEFA",
@@ -164130,7 +164130,7 @@
   "offset": "DE0",
   "jp": "さぃ",
   "en": "",
-  "zh": ""
+  "zh": "撒i"
  },
  {
   "id": "MSG/MSG8300/DDF04",
@@ -164139,7 +164139,7 @@
   "offset": "DE6",
   "jp": "れあｒぎｋ",
   "en": "",
-  "zh": ""
+  "zh": "勒a r gi k"
  },
  {
   "id": "MSG/MSG8300/DDF0E",
@@ -164148,7 +164148,7 @@
   "offset": "DF2",
   "jp": "ｋさｂねいおがｌｊ",
   "en": "",
-  "zh": ""
+  "zh": "k sa b 内 i o 嘎 l j"
  },
  {
   "id": "MSG/MSG8300/DDF18",
@@ -164157,7 +164157,7 @@
   "offset": "E06",
   "jp": "せｋじだｋｌｇ",
   "en": "",
-  "zh": ""
+  "zh": "塞 k 记 达 k l g"
  },
  {
   "id": "MSG/MSG8300/DDF22",
@@ -164166,7 +164166,7 @@
   "offset": "E16",
   "jp": "むだいｄない",
   "en": "",
-  "zh": ""
+  "zh": "没用d没"
  },
  {
   "id": "MSG/MSG8300/DDF2C",
@@ -164175,7 +164175,7 @@
   "offset": "E24",
   "jp": "いみないよ",
   "en": "",
-  "zh": ""
+  "zh": "毫无意义哦"
  },
  {
   "id": "MSG/MSG8400/CD910",
