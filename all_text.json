@@ -31245,7 +31245,7 @@
   "offset": "F0B0",
   "jp": "なんだ、ありゃあ？%F",
   "en": "Whoa! What is that thing?%F",
-  "zh": ""
+  "zh": "那、那是啥玩意啊？%F"
  },
  {
   "id": "MSG/MSG0700/11172",
@@ -31254,7 +31254,7 @@
   "offset": "F0C8",
   "jp": "ゴーレム？%F",
   "en": "Wait... A Golem?%F",
-  "zh": ""
+  "zh": "魔像？%F"
  },
  {
   "id": "MSG/MSG0700/11174",
@@ -31263,7 +31263,7 @@
   "offset": "F0D8",
   "jp": "死がい・・・かしら？%F",
   "en": "Is it... dead?%F",
-  "zh": ""
+  "zh": "是尸体……吗？%F"
  },
  {
   "id": "MSG/MSG0700/11176",
@@ -31272,7 +31272,7 @@
   "offset": "F0F2",
   "jp": "いや・・・%F",
   "en": "No...%F",
-  "zh": ""
+  "zh": "不……%F"
  },
  {
   "id": "MSG/MSG0700/11178",
@@ -31281,7 +31281,7 @@
   "offset": "F102",
   "jp": "こいつは・・・%F",
   "en": "It's alive...%F",
-  "zh": ""
+  "zh": "这家伙……%F"
  },
  {
   "id": "MSG/MSG0700/1117A",
@@ -31290,7 +31290,7 @@
   "offset": "F116",
   "jp": "生きている・・・\nこんな状態になっても%F",
   "en": "I can't believe it. Even in this state, it's still alive!%F",
-  "zh": ""
+  "zh": "还活着……\n即便伤成这样了也依然活着%F"
  },
  {
   "id": "MSG/MSG0700/1117C",
@@ -31299,7 +31299,7 @@
   "offset": "F142",
   "jp": "トウヤ・・・？%F",
   "en": "Toya...?%F",
-  "zh": ""
+  "zh": "托亚……？%F"
  },
  {
   "id": "MSG/MSG0700/1117E",
@@ -31308,7 +31308,7 @@
   "offset": "F156",
   "jp": "　　　　　　　　　　%F",
   "en": "Guuuuuuuwah!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/11180",
@@ -31317,7 +31317,7 @@
   "offset": "F170",
   "jp": "アツマ・・・？%F",
   "en": "No, Atsuma?!%F",
-  "zh": ""
+  "zh": "阿茨玛……？%F"
  },
  {
   "id": "MSG/MSG0700/11182",
@@ -31326,7 +31326,7 @@
   "offset": "F184",
   "jp": "　　　　　　　　　　%F",
   "en": "Wha!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/11184",
@@ -31335,7 +31335,7 @@
   "offset": "F19E",
   "jp": "いけないっ！！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "不好！！%F"
  },
  {
   "id": "MSG/MSG0700/11186",
@@ -31344,7 +31344,7 @@
   "offset": "F1B2",
   "jp": "ヒイィィ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "咿——！！%F"
  },
  {
   "id": "MSG/MSG0700/11188",
@@ -31353,7 +31353,7 @@
   "offset": "F1C2",
   "jp": "アツマ！！\nダメだっ！！%F",
   "en": "Atsuma!\nDon't!%F",
-  "zh": ""
+  "zh": "阿茨玛！！\n住手啊！！%F"
  },
  {
   "id": "MSG/MSG0700/1118A",
@@ -31362,7 +31362,7 @@
   "offset": "F1E0",
   "jp": "アツマ・・・%F",
   "en": "Atsuma... No!%F",
-  "zh": ""
+  "zh": "阿茨玛……%F"
  },
  {
   "id": "MSG/MSG0700/1118C",
@@ -31371,7 +31371,7 @@
   "offset": "F1F2",
   "jp": "　　　　　　　　　　%F",
   "en": "!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/1118E",
@@ -31380,7 +31380,7 @@
   "offset": "F20C",
   "jp": "こ、これは・・・%F",
   "en": "This... this is...?!%F",
-  "zh": ""
+  "zh": "这、这是……%F"
  },
  {
   "id": "MSG/MSG0700/11190",
@@ -31389,7 +31389,7 @@
   "offset": "F222",
   "jp": "はっ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "哈啊！%F"
  },
  {
   "id": "MSG/MSG0700/11192",
@@ -31398,7 +31398,7 @@
   "offset": "F22E",
   "jp": "アツマァァァッ！！%F",
   "en": "Atsumaaaaa!%F",
-  "zh": ""
+  "zh": "阿茨玛——！！%F"
  },
  {
   "id": "MSG/MSG0700/11194",
@@ -31407,7 +31407,7 @@
   "offset": "F246",
   "jp": "あんた！！%F",
   "en": "You!%F",
-  "zh": ""
+  "zh": "你这家伙！！%F"
  },
  {
   "id": "MSG/MSG0700/11196",
@@ -31416,7 +31416,7 @@
   "offset": "F256",
   "jp": "トウヤの%F",
   "en": "You're...%F",
-  "zh": ""
+  "zh": "妨碍到%F"
  },
  {
   "id": "MSG/MSG0700/11198",
@@ -31425,7 +31425,7 @@
   "offset": "F264",
   "jp": "ジャマに%F",
   "en": "getting...%F",
-  "zh": ""
+  "zh": "托亚的%F"
  },
  {
   "id": "MSG/MSG0700/1119A",
@@ -31434,7 +31434,7 @@
   "offset": "F272",
   "jp": "なってんのよっ！！%F",
   "en": "in the way!%F",
-  "zh": ""
+  "zh": "事了啦！！%F"
  },
  {
   "id": "MSG/MSG0700/1119C",
@@ -31443,7 +31443,7 @@
   "offset": "F28A",
   "jp": "アツマはＯＫ！！%F",
   "en": "Atsuma is clear!%F",
-  "zh": ""
+  "zh": "阿茨玛脱离危险！！%F"
  },
  {
   "id": "MSG/MSG0700/1119E",
@@ -31452,7 +31452,7 @@
   "offset": "F2A0",
   "jp": "よしっ！！%F",
   "en": "Okay!%F",
-  "zh": ""
+  "zh": "好咧！！%F"
  },
  {
   "id": "MSG/MSG0700/111A0",
@@ -31461,7 +31461,7 @@
   "offset": "F2B0",
   "jp": "　　　　　　　　　　%F",
   "en": "Whaa!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/111A2",
@@ -31470,7 +31470,7 @@
   "offset": "F2CA",
   "jp": "　　　　　　　　　　%F",
   "en": "Uh-oh!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/111A4",
@@ -31479,7 +31479,7 @@
   "offset": "F2E4",
   "jp": "おもしろい%F",
   "en": "How amusing!%F",
-  "zh": ""
+  "zh": "真有意思%F"
  },
  {
   "id": "MSG/MSG0700/111A6",
@@ -31488,7 +31488,7 @@
   "offset": "F2F4",
   "jp": "デビルゴーレムが、なぜ\n“神に最も近い存在”と呼ばれたのか%F",
   "en": "Do you see child, why Devil Golems were\ntreated as nothing less than gods?%F",
-  "zh": ""
+  "zh": "恶魔魔像为何会\n被称为“最接近神的存在”%F"
  },
  {
   "id": "MSG/MSG0700/111A7",
@@ -31497,7 +31497,7 @@
   "offset": "F334",
   "jp": "それは、この無限の“再構築能力”\n不死身の力のためなの%F",
   "en": "Our ability to regenerate is unlimited.\nWe are immortal!%F",
-  "zh": ""
+  "zh": "就是因为这无限的“再构建能力”\n以及这不死之躯的力量哦%F"
  },
  {
   "id": "MSG/MSG0700/111A8",
@@ -31506,7 +31506,7 @@
   "offset": "F370",
   "jp": "もっとも、いまは魔導器がないから\n本来の力は発揮できていないけれど%F",
   "en": "Of course, without a Magicore I'm not able to\ndeploy my full power...%F",
-  "zh": ""
+  "zh": "不过，现在没有魔导器在身，\n还无法发挥出原本的力量就是了%F"
  },
  {
   "id": "MSG/MSG0700/111A9",
@@ -31515,7 +31515,7 @@
   "offset": "F3B8",
   "jp": "例え、ボウヤが普通の人間を超える\n古代人の力を持っていてもｱ%F",
   "en": "%F",
-  "zh": ""
+  "zh": "就算小弟弟你拥有超越常人的\n古代人力量%F"
  },
  {
   "id": "MSG/MSG0700/111AA",
@@ -31524,7 +31524,7 @@
   "offset": "F3FA",
   "jp": "私を倒すことは不可能\nフフ・・・残念、ね%F",
   "en": "%F",
-  "zh": ""
+  "zh": "想打倒我也是不可能的。\n呵呵……真可惜呢%F"
  },
  {
   "id": "MSG/MSG0700/111AB",
@@ -31533,7 +31533,7 @@
   "offset": "F428",
   "jp": "　　　　　　　　　　　%F",
   "en": "...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/111AC",
@@ -31542,7 +31542,7 @@
   "offset": "F444",
   "jp": "じゃあ、そろそろ\n終わりにしましょう%F",
   "en": "Enough! It's time to end this!%F",
-  "zh": ""
+  "zh": "那么，差不多该\n做个了结了%F"
  },
  {
   "id": "MSG/MSG0700/111D4",
@@ -31551,7 +31551,7 @@
   "offset": "F46E",
   "jp": "また、地震だ！%F",
   "en": "Whoa, whoa... Another earthquake?!%F",
-  "zh": ""
+  "zh": "又地震了？！%F"
  },
  {
   "id": "MSG/MSG0700/111D5",
@@ -31560,7 +31560,7 @@
   "offset": "F482",
   "jp": "ひぃぃ！",
   "en": "Not again!",
-  "zh": ""
+  "zh": "噫——！"
  },
  {
   "id": "MSG/MSG0700/111D6",
@@ -31569,7 +31569,7 @@
   "offset": "F48C",
   "jp": "アツマ、なんだかいやな予感が・・・",
   "en": "Atsuma, I have a bad feeling about this...",
-  "zh": ""
+  "zh": "阿茨玛，我总有种不祥的预感……"
  },
  {
   "id": "MSG/MSG0700/111D7",
@@ -31578,7 +31578,7 @@
   "offset": "F4B0",
   "jp": "いやな予感？\nああ・・・突然、この床が崩れるとか？",
   "en": "A bad feeling? Like... maybe this floor is\nabout to collapse?",
-  "zh": ""
+  "zh": "不祥的预感？\n啊……比如地板突然塌掉之类的？"
  },
  {
   "id": "MSG/MSG0700/111D8",
@@ -31587,7 +31587,7 @@
   "offset": "F4E4",
   "jp": "うん、そう",
   "en": "Yeah, that feeling.",
-  "zh": ""
+  "zh": "嗯，没错。"
  },
  {
   "id": "MSG/MSG0700/111D9",
@@ -31596,7 +31596,7 @@
   "offset": "F4F0",
   "jp": "まさか、そんなご都合主義的なことが\n起こるわけが・・・%F",
   "en": "Come on, just because you said it\ndoesn't mean it's gonna happen...!%F",
-  "zh": ""
+  "zh": "怎么可能会发生\n那么巧合的事……%F"
  },
  {
   "id": "MSG/MSG0700/111DA",
@@ -31605,7 +31605,7 @@
   "offset": "F52C",
   "jp": "・・・って、うわっ！！？%F",
   "en": "...It is!%F",
-  "zh": ""
+  "zh": "……等等，哇啊！！？%F"
  },
  {
   "id": "MSG/MSG0700/111DB",
@@ -31614,7 +31614,7 @@
   "offset": "F54A",
   "jp": "まじかよぉぉぉーーーー！%F",
   "en": "No waaaaaaaaaaay!%F",
-  "zh": ""
+  "zh": "不是吧啊啊啊——！%F"
  },
  {
   "id": "MSG/MSG0700/111DC",
@@ -31623,7 +31623,7 @@
   "offset": "F568",
   "jp": "　ぎえぇぇ～～～！！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "咿呀啊啊～～～！！%F"
  },
  {
   "id": "MSG/MSG0700/111DD",
@@ -31632,7 +31632,7 @@
   "offset": "F582",
   "jp": "やっぱりね～～～%F",
   "en": "I knew it.%F",
-  "zh": ""
+  "zh": "我就知道～～～%F"
  },
  {
   "id": "MSG/MSG0700/11201",
@@ -31641,7 +31641,7 @@
   "offset": "F598",
   "jp": "ってててて・・・",
   "en": "...Ouch!",
-  "zh": ""
+  "zh": "好痛痛痛痛……"
  },
  {
   "id": "MSG/MSG0700/11206",
@@ -31650,7 +31650,7 @@
   "offset": "F5AA",
   "jp": "なんなんだよ、ここはっ！？",
   "en": "Where are we now?!",
-  "zh": ""
+  "zh": "这到底是什么鬼地方啊！？"
  },
  {
   "id": "MSG/MSG0700/11207",
@@ -31659,7 +31659,7 @@
   "offset": "F5C6",
   "jp": "この床に刻まれた紋様とか・・・",
   "en": "The crest on the floor here...",
-  "zh": ""
+  "zh": "这地板上雕刻的纹样……"
  },
  {
   "id": "MSG/MSG0700/11208",
@@ -31668,7 +31668,7 @@
   "offset": "F5E6",
   "jp": "壁の素材・・・建築様式・・・",
   "en": "The material used on the walls... the\nstyle of the construction...",
-  "zh": ""
+  "zh": "墙壁的材质……还有建筑风格……"
  },
  {
   "id": "MSG/MSG0700/11209",
@@ -31677,7 +31677,7 @@
   "offset": "F604",
   "jp": "これは、ボクの記憶と推測が確かならばｱ",
   "en": "If I recall and my hypothesis is correct...",
-  "zh": ""
+  "zh": "如果我的记忆和推测没错的话，"
  },
  {
   "id": "MSG/MSG0700/1120A",
@@ -31686,7 +31686,7 @@
   "offset": "F62C",
   "jp": "まえに家の蔵書で見た、ゴーレムウォー以前の\n古代建造物じゃないかな",
   "en": "This is an ancient structure from before the\nGolem War. I saw pictures in a book at home.",
-  "zh": ""
+  "zh": "这大概就是以前在家里藏书上看过的、\n魔像战争之前的古代建筑吧。"
  },
  {
   "id": "MSG/MSG0700/1120B",
@@ -31695,7 +31695,7 @@
   "offset": "F670",
   "jp": "・・・ホントにあるとは、思わなかったけど",
   "en": "...Though I never expected to actually\nbe here, inside such a place.",
-  "zh": ""
+  "zh": "……不过真没想到，它竟然真的存在。"
  },
  {
   "id": "MSG/MSG0700/1120C",
@@ -31704,7 +31704,7 @@
   "offset": "F69A",
   "jp": "すっげーな、トウヤんちって\nそんな本まであるのか？",
   "en": "Wow! You have all kinds of books at your\nhouse, don't you!",
-  "zh": ""
+  "zh": "太厉害了，托亚你家里\n连那种书都有啊？"
  },
  {
   "id": "MSG/MSG0700/1120D",
@@ -31713,7 +31713,7 @@
   "offset": "F6CE",
   "jp": "アンタとはちがうのよ、#W頭#Rここ#rのデキが",
   "en": "He's not like you, you know. Toya is \nintelligent, knowledgable, well-read...",
-  "zh": ""
+  "zh": "人家跟你可不同，#W脑子#R这里#r的灵光程度都不一样！"
  },
  {
   "id": "MSG/MSG0700/1120E",
@@ -31722,7 +31722,7 @@
   "offset": "F700",
   "jp": "直情バカのアンタより、ここはトウヤに\nリーダーをまかせちゃった方が安心ね",
   "en": "We'd be much better off if we let him lead\nthis little expedition, not you.",
-  "zh": ""
+  "zh": "比起你这种单细胞笨蛋，这里还是交给托亚\n来当队长更让人安心呢。"
  },
  {
   "id": "MSG/MSG0700/1120F",
@@ -31731,7 +31731,7 @@
   "offset": "F74A",
   "jp": "ねえ、トウヤ？",
   "en": "What do you say, Toya?",
-  "zh": ""
+  "zh": "对吧，托亚？"
  },
  {
   "id": "MSG/MSG0700/11210",
@@ -31740,7 +31740,7 @@
   "offset": "F75A",
   "jp": "さあね、リーダーは少しおバカなくらいが\nちょうどいいんじゃない？",
   "en": "I think a leader needs a slightly hot-\nblooded side, don't you?",
-  "zh": ""
+  "zh": "难说呢，队长稍微笨一点\n不是正好合适吗？"
  },
  {
   "id": "MSG/MSG0700/11211",
@@ -31749,7 +31749,7 @@
   "offset": "F79C",
   "jp": "アツマの方が、適任だと思うよ",
   "en": "Atsuma is more suited for this job than I am.",
-  "zh": ""
+  "zh": "我觉得阿茨玛更适合当队长哦。"
  },
  {
   "id": "MSG/MSG0700/11212",
@@ -31758,7 +31758,7 @@
   "offset": "F7BA",
   "jp": "だろ？",
   "en": "You got that right!",
-  "zh": ""
+  "zh": "对吧？！"
  },
  {
   "id": "MSG/MSG0700/11213",
@@ -31767,7 +31767,7 @@
   "offset": "F7C2",
   "jp": "アンタって、ほんっと・・・",
   "en": "Why you little...!",
-  "zh": ""
+  "zh": "你这家伙，真是的……"
  },
  {
   "id": "MSG/MSG0700/11214",
@@ -31776,7 +31776,7 @@
   "offset": "F7DE",
   "jp": "・・・で、この先どうするの、リーダー？",
   "en": "...So what's the next move, leader?",
-  "zh": ""
+  "zh": "……所以呢，接下来该怎么走啊，队长？"
  },
  {
   "id": "MSG/MSG0700/11215",
@@ -31785,7 +31785,7 @@
   "offset": "F806",
   "jp": "とりあえず、進むか！",
   "en": "Advance! Forward!",
-  "zh": ""
+  "zh": "总之，先往前走吧！"
  },
  {
   "id": "MSG/MSG0700/11216",
@@ -31794,7 +31794,7 @@
   "offset": "F81C",
   "jp": "決断、はやっ！",
   "en": "At least give it a little thought!",
-  "zh": ""
+  "zh": "决定得也太快了吧！"
  },
  {
   "id": "MSG/MSG0700/11238",
@@ -31803,7 +31803,7 @@
   "offset": "F82C",
   "jp": "あれは・・・",
   "en": "Look at this!",
-  "zh": ""
+  "zh": "那是……"
  },
  {
   "id": "MSG/MSG0700/11239",
@@ -31812,7 +31812,7 @@
   "offset": "F83A",
   "jp": "へぇ・・・これはすごい",
   "en": "Wow... This is amazing!",
-  "zh": ""
+  "zh": "哎呀……这可真厉害"
  },
  {
   "id": "MSG/MSG0700/1123A",
@@ -31821,7 +31821,7 @@
   "offset": "F852",
   "jp": "なに？　なに？\nこれ、なんなんだ？",
   "en": "What? What? What is it?!",
-  "zh": ""
+  "zh": "什么？什么？\n这到底是什么玩意儿啊？"
  },
  {
   "id": "MSG/MSG0700/1123B",
@@ -31830,7 +31830,7 @@
   "offset": "F876",
   "jp": "これは、古代につくられた\nエンチャントで動く装置みたいだね",
   "en": "It appears to be an ancient device that\nworks via Enchanting.",
-  "zh": ""
+  "zh": "这看起来像是由古代制造的、\n靠赋法运转的装置呢"
  },
  {
   "id": "MSG/MSG0700/1123C",
@@ -31839,7 +31839,7 @@
   "offset": "F8B2",
   "jp": "たぶん、エーテルを込めれば\n動くんじゃないかな・・・",
   "en": "Maybe it'll work if we use some Ether...",
-  "zh": ""
+  "zh": "我想，要是注入以太的话\n说不定就能动起来了……"
  },
  {
   "id": "MSG/MSG0700/1123D",
@@ -31848,7 +31848,7 @@
   "offset": "F8E8",
   "jp": "とてつもなく古いものだろうけど\nまだしっかり機能は生きているみたい",
   "en": "Even though it's remarkably old, it seems\nto be in perfect working order.",
-  "zh": ""
+  "zh": "虽然看起来年代极其久远，\n但似乎机能依然保存完好"
  },
  {
   "id": "MSG/MSG0700/1123E",
@@ -31857,7 +31857,7 @@
   "offset": "F92C",
   "jp": "すごい、テクノロジーだ%F",
   "en": "What incredible technology!%F",
-  "zh": ""
+  "zh": "真是惊人的技术啊%F"
  },
  {
   "id": "MSG/MSG0700/1123F",
@@ -31866,7 +31866,7 @@
   "offset": "F948",
   "jp": "すごいテクノロジー、ねぇ・・・？%F",
   "en": "Incredible technology, huh...%F",
-  "zh": ""
+  "zh": "惊人的技术，是吗……？%F"
  },
  {
   "id": "MSG/MSG0700/11240",
@@ -31875,7 +31875,7 @@
   "offset": "F96E",
   "jp": "う、うわっ！\nな、なんだ！？%F",
   "en": "Wha, what?\nNow what?!%F",
-  "zh": ""
+  "zh": "哇、哇啊！\n怎、怎么回事！？%F"
  },
  {
   "id": "MSG/MSG0700/11241",
@@ -31884,7 +31884,7 @@
   "offset": "F990",
   "jp": "ちょ、ちょ、ちょっと、アンタ！\nその右腕！",
   "en": "Hey, hey, hey! Your arm! What's wrong?!",
-  "zh": ""
+  "zh": "等、等、等等，我说你啊！\n你的右手怎么了！"
  },
  {
   "id": "MSG/MSG0700/11242",
@@ -31893,7 +31893,7 @@
   "offset": "F9BC",
   "jp": "知るか！\nくそ・・・急に、な、なんだってんだ！%F",
   "en": "As if I understand anything this thing does!%F",
-  "zh": ""
+  "zh": "我哪知道啊！\n可恶……突然之间搞什么鬼啊！%F"
  },
  {
   "id": "MSG/MSG0700/11243",
@@ -31902,7 +31902,7 @@
   "offset": "F9F0",
   "jp": "ふー、びびったー\nやれやれだぜ・・・",
   "en": "That was a close one!",
-  "zh": ""
+  "zh": "呼，吓死我了\n真是服了……"
  },
  {
   "id": "MSG/MSG0700/1124C",
@@ -31911,7 +31911,7 @@
   "offset": "FA16",
   "jp": "ふー、びびったー",
   "en": "Man, I almost had a heart attack.",
-  "zh": ""
+  "zh": "呼，吓死我了"
  },
  {
   "id": "MSG/MSG0700/1124D",
@@ -31920,7 +31920,7 @@
   "offset": "FA28",
   "jp": "ったく、まいるよな、この右腕は",
   "en": "This right arm is a real pain.",
-  "zh": ""
+  "zh": "真是的，这只右手真让人伤脑筋啊"
  },
  {
   "id": "MSG/MSG0700/1124E",
@@ -31929,7 +31929,7 @@
   "offset": "FA48",
   "jp": "エンチャントされたものに触ると\nいっつも、誤作動とか起こすんだからよ",
   "en": "Whenever it touches something Enchanted,\nthings start malfunctioning.",
-  "zh": ""
+  "zh": "每次一碰到赋法制品，\n总是会引发误操作什么的"
  },
  {
   "id": "MSG/MSG0700/1124F",
@@ -31938,7 +31938,7 @@
   "offset": "FA8E",
   "jp": "やれやれだぜ・・・",
   "en": "Give me a break...",
-  "zh": ""
+  "zh": "真是服了……"
  },
  {
   "id": "MSG/MSG0700/11250",
@@ -31947,7 +31947,7 @@
   "offset": "FAA2",
   "jp": "“やれやれ”はこっちのセリフよ\nなんなのぉ、もう、その右腕は！",
   "en": "That's my line! I want a break, from you!",
-  "zh": ""
+  "zh": "“真是服了”是人家的台词好不好！\n真是的，你那只右手到底怎么回事嘛！"
  },
  {
   "id": "MSG/MSG0700/11251",
@@ -31956,7 +31956,7 @@
   "offset": "FAE2",
   "jp": "さあな、#W右腕#Rコイツ#rに聞いてくれよ%F",
   "en": "Tell it to the arm, Makoto.%F",
-  "zh": ""
+  "zh": "谁知道呢，你去问#W右腕#R这家伙#r啊%F"
  },
  {
   "id": "MSG/MSG0700/11252",
@@ -31965,7 +31965,7 @@
   "offset": "FB14",
   "jp": "右腕に聞く・・・か・・・%F",
   "en": "%F",
-  "zh": ""
+  "zh": "问右手……吗……%F"
  },
  {
   "id": "MSG/MSG0700/1126A",
@@ -31974,7 +31974,7 @@
   "offset": "FB32",
   "jp": "ふぅー・・・これでいいのか？%J070252",
   "en": "Phew... So that should be it, yeah?%J070252",
-  "zh": ""
+  "zh": "呼……这样就可以了吗？%J070252"
  },
  {
   "id": "MSG/MSG0700/1126C",
@@ -31983,7 +31983,7 @@
   "offset": "FB60",
   "jp": "たぶんね・・・ほら",
   "en": "I believe so... Look.",
-  "zh": ""
+  "zh": "大概吧……你看"
  },
  {
   "id": "MSG/MSG0700/1126E",
@@ -31992,7 +31992,7 @@
   "offset": "FB74",
   "jp": "きゃ、トウヤ、あたしこわい～",
   "en": "",
-  "zh": ""
+  "zh": "呀，托亚，人家好怕怕～"
  },
  {
   "id": "MSG/MSG0700/11270",
@@ -32001,7 +32001,7 @@
   "offset": "FB92",
   "jp": "ひぃ・・・\nう、うおっ！　あぶなっ！",
   "en": "",
-  "zh": ""
+  "zh": "噫……\n哇、哇啊！危险！"
  },
  {
   "id": "MSG/MSG0700/11272",
@@ -32010,7 +32010,7 @@
   "offset": "FBB8",
   "jp": "すげー、仕かけだなー！！%F",
   "en": "Wow! Now that's a wild ride!%F",
-  "zh": ""
+  "zh": "太猛了，这机关好厉害啊！！%F"
  },
  {
   "id": "MSG/MSG0700/11274",
@@ -32019,7 +32019,7 @@
   "offset": "FBD6",
   "jp": "そうだね\n%F",
   "en": "Wow, impressive.%F",
-  "zh": ""
+  "zh": "是啊\n%F"
  },
  {
   "id": "MSG/MSG0700/11276",
@@ -32028,7 +32028,7 @@
   "offset": "FBE6",
   "jp": "キミはその右腕が嫌いみたいだけど\nキミのその腕は役立たずなんかじゃ・・・%F",
   "en": "You may not be happy with it but you've got\nto admit it's proving to be quite useful.%F",
-  "zh": ""
+  "zh": "虽然你好像很讨厌那只右手，\n但你的那只手臂可绝不是毫无用处……%F"
  },
  {
   "id": "MSG/MSG0700/11278",
@@ -32037,7 +32037,7 @@
   "offset": "FC34",
   "jp": "お、すっげえ、あそこが終着点かな？%F",
   "en": "Hey, Toya, what do you think? Are we nearly there yet?%F",
-  "zh": ""
+  "zh": "哦，太赞了，那里就是终点了吧？%F"
  },
  {
   "id": "MSG/MSG0700/1127A",
@@ -32046,7 +32046,7 @@
   "offset": "FC5C",
   "jp": "・・・そう、みたいだね%F",
   "en": "Yeah... I think so.%F",
-  "zh": ""
+  "zh": "……好像，是的呢%F"
  },
  {
   "id": "MSG/MSG0700/1127B",
@@ -32055,7 +32055,7 @@
   "offset": "FC78",
   "jp": "でも、すごいのはこの仕かけって\nいうよりも、むしろキミの・・・%F",
   "en": "I'm beginning to see that arm of yours in a whole new\nlight...%F",
-  "zh": ""
+  "zh": "不过，厉害的与其说是这个机关，\n不如说是你的……%F"
  },
  {
   "id": "MSG/MSG0700/1129C",
@@ -32064,7 +32064,7 @@
   "offset": "FCBC",
   "jp": "注入完了っと%F",
   "en": "That should do it!%F",
-  "zh": ""
+  "zh": "注入完成啦%F"
  },
  {
   "id": "MSG/MSG0700/1129D",
@@ -32073,7 +32073,7 @@
   "offset": "FCCE",
   "jp": "よっしゃ、到着～！",
   "en": "Here we are then!",
-  "zh": ""
+  "zh": "好嘞，到啦～！"
  },
  {
   "id": "MSG/MSG0700/1129E",
@@ -32082,7 +32082,7 @@
   "offset": "FCE2",
   "jp": "なにはしゃいでんのよ・・・\nバカじゃないの？",
   "en": "What are you so excited about, anyway?!",
-  "zh": ""
+  "zh": "吵吵闹闹地兴奋个什么劲啊……\n你是笨蛋吗？"
  },
  {
   "id": "MSG/MSG0700/1129F",
@@ -32091,7 +32091,7 @@
   "offset": "FD10",
   "jp": "なんだよ、マコト\n珍しく元気ねーな",
   "en": "You're in a rare bad mood today, Makoto.",
-  "zh": ""
+  "zh": "怎么了啊，马科托，\n难得看你这么没精神啊。"
  },
  {
   "id": "MSG/MSG0700/112A0",
@@ -32100,7 +32100,7 @@
   "offset": "FD34",
   "jp": "うるさいわね\nなんだかちょっと寒いのよ、ここ・・・%J070306",
   "en": "Shut it. Isn't it getting cold down here?%J070306",
-  "zh": ""
+  "zh": "吵死啦，\n总觉得这里有点冷嘛……%J070306"
  },
  {
   "id": "MSG/MSG0700/112A1",
@@ -32109,7 +32109,7 @@
   "offset": "FD78",
   "jp": "アタシ、冷え性なんだからね",
   "en": "",
-  "zh": ""
+  "zh": "人家可是体质虚寒容易怕冷呢。"
  },
  {
   "id": "MSG/MSG0700/112A2",
@@ -32118,7 +32118,7 @@
   "offset": "FD94",
   "jp": "寒い？",
   "en": "Cold?",
-  "zh": ""
+  "zh": "冷？"
  },
  {
   "id": "MSG/MSG0700/112A3",
@@ -32127,7 +32127,7 @@
   "offset": "FD9C",
   "jp": "そうよ　\nトウヤ、アタシを暖めてぇ～⑲%F",
   "en": "I might freeze solid!  Toya, warm me up a \nlittle⑲%F",
-  "zh": ""
+  "zh": "是啊　\n托亚，快来给人家暖暖身子嘛～⑲%F"
  },
  {
   "id": "MSG/MSG0700/112CE",
@@ -32136,7 +32136,7 @@
   "offset": "FDC8",
   "jp": "我が導きに従い、進め",
   "en": "Follow my command. Advance!",
-  "zh": ""
+  "zh": "遵从吾之指引，前行吧。"
  },
  {
   "id": "MSG/MSG0700/112CF",
@@ -32145,7 +32145,7 @@
   "offset": "FDDE",
   "jp": "さすれば、道は開かれよう%J070358",
   "en": "Do so, and the way shall open.%J070358",
-  "zh": ""
+  "zh": "若能如此，道路自会开启。%J070358"
  },
  {
   "id": "MSG/MSG0700/112D1",
@@ -32154,7 +32154,7 @@
   "offset": "FE08",
   "jp": "・・・なんだ？",
   "en": "",
-  "zh": ""
+  "zh": "……什么声音？"
  },
  {
   "id": "MSG/MSG0700/112D3",
@@ -32163,7 +32163,7 @@
   "offset": "FE18",
   "jp": "我が導きに従い、進め",
   "en": "",
-  "zh": ""
+  "zh": "遵从吾之指引，前行吧。"
  },
  {
   "id": "MSG/MSG0700/112D4",
@@ -32172,7 +32172,7 @@
   "offset": "FE2E",
   "jp": "それが己の進むべき道と知れ",
   "en": "",
-  "zh": ""
+  "zh": "切记，此乃汝应行之道。"
  },
  {
   "id": "MSG/MSG0700/112D6",
@@ -32181,7 +32181,7 @@
   "offset": "FE4A",
   "jp": "右腕が・・・語りかけてきた？\nそんなことって・・・%J070366",
   "en": "My arm is... talking to me...?\nHow could this be happening?!%J070366",
-  "zh": ""
+  "zh": "右臂……在对我说话？\n怎么可能会有这种事……%J070366"
  },
  {
   "id": "MSG/MSG0700/112D8",
@@ -32190,7 +32190,7 @@
   "offset": "FE8E",
   "jp": "アツマ？%J070362",
   "en": "%J070362",
-  "zh": ""
+  "zh": "阿茨玛？%J070362"
  },
  {
   "id": "MSG/MSG0700/112DA",
@@ -32199,7 +32199,7 @@
   "offset": "FEA8",
   "jp": "っ！%J070364",
   "en": "%J070364",
-  "zh": ""
+  "zh": "唔！%J070364"
  },
  {
   "id": "MSG/MSG0700/112DC",
@@ -32208,7 +32208,7 @@
   "offset": "FEBE",
   "jp": "・・・声が、止んだ？\n今のはいったい・・・\n%J070366",
   "en": "%J070366",
-  "zh": ""
+  "zh": "……声音，停了？\n刚才到底是什么……\n%J070366"
  },
  {
   "id": "MSG/MSG0700/112DE",
@@ -32217,7 +32217,7 @@
   "offset": "FEFC",
   "jp": "アツマ、いったいどうしたの？\n大丈夫？%J070368",
   "en": "Atsuma, what's wrong? Are you okay?%J070368",
-  "zh": ""
+  "zh": "阿茨玛，你到底怎么了？\n没事吧？%J070368"
  },
  {
   "id": "MSG/MSG0700/112E0",
@@ -32226,7 +32226,7 @@
   "offset": "FF34",
   "jp": "なんでもない・・・さあ、先に進もうぜ%J072710",
   "en": "Yeah... it's nothing. Come on.%J072710",
-  "zh": ""
+  "zh": "没什么……走吧，继续往前走。%J072710"
  },
  {
   "id": "MSG/MSG0700/112E2",
@@ -32235,7 +32235,7 @@
   "offset": "FF6A",
   "jp": "でかっ！",
   "en": "Whoa!",
-  "zh": ""
+  "zh": "好大！"
  },
  {
   "id": "MSG/MSG0700/112E4",
@@ -32244,7 +32244,7 @@
   "offset": "FF74",
   "jp": "バカ！\nノンキなこと言ってる場合じゃないだろ！！",
   "en": "",
-  "zh": ""
+  "zh": "笨蛋！\n现在是优哉游哉感叹的时候吗！！"
  },
  {
   "id": "MSG/MSG0700/112E6",
@@ -32253,7 +32253,7 @@
   "offset": "FFA6",
   "jp": "おわっ！\nアブねー",
   "en": "",
-  "zh": ""
+  "zh": "哇啊！\n好险好险——"
  },
  {
   "id": "MSG/MSG0700/112E8",
@@ -32262,7 +32262,7 @@
   "offset": "FFBA",
   "jp": "“危ねー”じゃないわよ\nこの愚図愚図愚図！",
   "en": "",
-  "zh": ""
+  "zh": "什么“好险”啊，\n你这个大笨蛋笨蛋笨蛋！"
  },
  {
   "id": "MSG/MSG0700/112EA",
@@ -32271,7 +32271,7 @@
   "offset": "FFE6",
   "jp": "なんだとー！",
   "en": "",
-  "zh": ""
+  "zh": "你说什么——！"
  },
  {
   "id": "MSG/MSG0700/112EC",
@@ -32280,7 +32280,7 @@
   "offset": "FFF4",
   "jp": "二人ともケンカは・・・\nあとにした方がいいみたいだよ",
   "en": "",
-  "zh": ""
+  "zh": "你们两个要吵架……\n还是等之后再说比较好哦。"
  },
  {
   "id": "MSG/MSG0700/11303",
@@ -32289,7 +32289,7 @@
   "offset": "10042",
   "jp": "・・・このときまで、オレはｱ%F",
   "en": "...Up until that point, well.%F",
-  "zh": ""
+  "zh": "……直到这个时候，我都啊%F"
  },
  {
   "id": "MSG/MSG0700/11304",
@@ -32298,7 +32298,7 @@
   "offset": "10064",
   "jp": "“トウヤは最強なんだ”って、信じてた%F",
   "en": "I'd always believed that Toya was the\ngreatest. The strongest.%F",
-  "zh": ""
+  "zh": "坚信着“托亚是最强的”%F"
  },
  {
   "id": "MSG/MSG0700/11305",
@@ -32307,7 +32307,7 @@
   "offset": "1008E",
   "jp": "“いつかはトウヤに追いつくんだ”\n・・・って%F",
   "en": "That one day... I would finally\ncatch up with him. Stand as his equal.%F",
-  "zh": ""
+  "zh": "心想“总有一天我要追上托亚”\n……一直如此%F"
  },
  {
   "id": "MSG/MSG0700/11306",
@@ -32316,7 +32316,7 @@
   "offset": "100C0",
   "jp": "そう、願ってた%F",
   "en": "I wished for that more than anything.%F",
-  "zh": ""
+  "zh": "如此，期盼着%F"
  },
  {
   "id": "MSG/MSG0700/1130A",
@@ -32325,7 +32325,7 @@
   "offset": "100D4",
   "jp": "“トウヤは、一人で何でも\n　できるすごいやつだ”って%F",
   "en": "That he could do anything, single-handed.%F",
-  "zh": ""
+  "zh": "“托亚是个单凭自己\n　什么都能做到的厉害家伙”%F"
  },
  {
   "id": "MSG/MSG0700/11332",
@@ -32334,7 +32334,7 @@
   "offset": "1010E",
   "jp": "ぐ、ぐあぁぁぁっ・・・ぐぅぅっ・・・！！！",
   "en": "Aaaaaah!  Oww!",
-  "zh": ""
+  "zh": "咕、呜啊啊啊……咕呜呜……！！！"
  },
  {
   "id": "MSG/MSG0700/11333",
@@ -32343,7 +32343,7 @@
   "offset": "1013A",
   "jp": "な、アツマ・・・どうしたってのよ？",
   "en": "Atsuma... what's wrong?!",
-  "zh": ""
+  "zh": "喂、阿茨玛……你到底怎么了啊？"
  },
  {
   "id": "MSG/MSG0700/11334",
@@ -32352,7 +32352,7 @@
   "offset": "1015E",
   "jp": "み、右腕が、また急に・・・\nくそう、なんだってんだ、いったい！？",
   "en": "My arm... suddenly...\nWhat's going on here...?!",
-  "zh": ""
+  "zh": "右、右臂又突然……\n可恶，到底是怎么回事啊！？"
  },
  {
   "id": "MSG/MSG0700/11335",
@@ -32361,7 +32361,7 @@
   "offset": "101A0",
   "jp": "その右腕・・・なるほど・・・\nおもしろいわね・・・ククククク%J070490",
   "en": "Ah, that arm... I see! This should prove\namusing! Ha ha ha!%J070490",
-  "zh": ""
+  "zh": "那条右臂……原来如此……\n真是有意思呢……呵呵呵呵呵%J070490"
  },
  {
   "id": "MSG/MSG0700/11338",
@@ -32370,7 +32370,7 @@
   "offset": "101EE",
   "jp": "我が名は、“クイーンオブアイス”\n私は、神に最も近い存在",
   "en": "My name is Queen of Ice. If you think of me\nas a goddess, well, you'll be close enough.",
-  "zh": ""
+  "zh": "吾之名为“冰之女王”\n吾乃最接近神的存在"
  },
  {
   "id": "MSG/MSG0700/11339",
@@ -32379,7 +32379,7 @@
   "offset": "10228",
   "jp": "そう、かつて“デビルゴーレム”と呼ばれた存在",
   "en": "Yes! For I am one of those once known as\n\"Devil Golems.\"",
-  "zh": ""
+  "zh": "没错，正是曾经被称为“恶魔魔像”的存在"
  },
  {
   "id": "MSG/MSG0700/1133A",
@@ -32388,7 +32388,7 @@
   "offset": "10256",
   "jp": "デビルゴーレムっていえばｱ",
   "en": "Devil Golems?!",
-  "zh": ""
+  "zh": "说起恶魔魔像的话――"
  },
  {
   "id": "MSG/MSG0700/1133B",
@@ -32397,7 +32397,7 @@
   "offset": "10272",
   "jp": "あのゴーレムウォーの時代に生み出された\n最強のゴーレムたち・・・！",
   "en": "The most powerful Golems created during the\nGolem War?!",
-  "zh": ""
+  "zh": "就是在那场魔像战争时代被制造出来的\n最强魔像们……！"
  },
  {
   "id": "MSG/MSG0700/1133C",
@@ -32406,7 +32406,7 @@
   "offset": "102B6",
   "jp": "あんなのが、ここに封印されていたって\nいうの・・・？",
   "en": "You were sealed away down here?",
-  "zh": ""
+  "zh": "那种怪物，竟然被封印在\n这种地方吗……？"
  },
  {
   "id": "MSG/MSG0700/1133D",
@@ -32415,7 +32415,7 @@
   "offset": "102EC",
   "jp": "その封印が解かれたってことは・・・",
   "en": "And now that seal is broken...",
-  "zh": ""
+  "zh": "那个封印被解开了的话，岂不是说……"
  },
  {
   "id": "MSG/MSG0700/1133E",
@@ -32424,7 +32424,7 @@
   "offset": "10310",
   "jp": "冗談じゃないわ！\nゴーレムウォーが、また起きちゃうじゃない！",
   "en": "No! Another Golem War is going to happen?!",
-  "zh": ""
+  "zh": "开什么玩笑啊！\n魔像战争不是又要爆发了吗！"
  },
  {
   "id": "MSG/MSG0700/1133F",
@@ -32433,7 +32433,7 @@
   "offset": "1034E",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "…………"
  },
  {
   "id": "MSG/MSG0700/11340",
@@ -32442,7 +32442,7 @@
   "offset": "1035C",
   "jp": "ゴーレムウォーなんて、起こらないさ",
   "en": "There's not going to be a Golem War, Makoto.",
-  "zh": ""
+  "zh": "魔像战争什么的，才不会爆发呢"
  },
  {
   "id": "MSG/MSG0700/11341",
@@ -32451,7 +32451,7 @@
   "offset": "10380",
   "jp": "このボクがいる限りはね",
   "en": "Not while I'm around.",
-  "zh": ""
+  "zh": "只要还有我在这儿"
  },
  {
   "id": "MSG/MSG0700/11342",
@@ -32460,7 +32460,7 @@
   "offset": "10398",
   "jp": "ニンゲン風情が・・・\nこの私に勝てるとでも思っているのかしら？",
   "en": "Ha! Pathetic human!\nDo you really think you can defeat me?!",
-  "zh": ""
+  "zh": "区区人类……\n难道以为能胜得过我吗？"
  },
  {
   "id": "MSG/MSG0700/11343",
@@ -32469,7 +32469,7 @@
   "offset": "103D8",
   "jp": "さあね？",
   "en": "We'll see.",
-  "zh": ""
+  "zh": "谁知道呢？"
  },
  {
   "id": "MSG/MSG0700/11344",
@@ -32478,7 +32478,7 @@
   "offset": "103E2",
   "jp": "トウヤ、待てよ・・・オレも戦う・・・ぜ",
   "en": "Toya, wait...! I'll... I'll fight...\nI'll fight with you!",
-  "zh": ""
+  "zh": "托亚，等等……我也能……战斗……"
  },
  {
   "id": "MSG/MSG0700/11345",
@@ -32487,7 +32487,7 @@
   "offset": "1040A",
   "jp": "はっ、冗談！\n足手まといの単細胞バカは、下がっててよ",
   "en": "Very funny! Your one brain cell won't help\nmuch in this battle! Get back!",
-  "zh": ""
+  "zh": "哈，开玩笑！\n碍手碍脚的单细胞笨蛋，给我退后去"
  },
  {
   "id": "MSG/MSG0700/11346",
@@ -32496,7 +32496,7 @@
   "offset": "10440",
   "jp": "テメェ・・・なんだと・・・ぐっ・・・あっ！",
   "en": "Toya! I'm going to... remember you said...\nthat...!",
-  "zh": ""
+  "zh": "你这家伙……你说什么……唔……啊！"
  },
  {
   "id": "MSG/MSG0700/11347",
@@ -32505,7 +32505,7 @@
   "offset": "1046C",
   "jp": "マコト\nその単細胞の面倒をみてやって",
   "en": "Makoto, try and keep his remaining brain\ncell safe, okay?",
-  "zh": ""
+  "zh": "马科托\n照顾好那个单细胞生物"
  },
  {
   "id": "MSG/MSG0700/11348",
@@ -32514,7 +32514,7 @@
   "offset": "10492",
   "jp": "放っておくと、ムチャして戦おうとするから",
   "en": "He must stay out of this battle, understand?",
-  "zh": ""
+  "zh": "放着不管的话，他又会乱来想要逞强战斗了"
  },
  {
   "id": "MSG/MSG0700/11349",
@@ -32523,7 +32523,7 @@
   "offset": "104BC",
   "jp": "“一人で”戦う気？",
   "en": "You're going to fight alone?!",
-  "zh": ""
+  "zh": "你打算“一个人”去战？"
  },
  {
   "id": "MSG/MSG0700/1134A",
@@ -32532,7 +32532,7 @@
   "offset": "104D0",
   "jp": "ムチャよ、トウヤ\n相手はデビルゴーレムなのよ！！",
   "en": "That's suicide, Toya! She's a Devil Golem!",
-  "zh": ""
+  "zh": "太乱来了，托亚\n对方可是恶魔魔像啊！！"
  },
  {
   "id": "MSG/MSG0700/1134B",
@@ -32541,7 +32541,7 @@
   "offset": "10502",
   "jp": "“魔導器”のないデビルゴーレムが\n動くことはない",
   "en": "A Devil Golem cannot operate without a\nMagicore.",
-  "zh": ""
+  "zh": "没有“魔导器”的恶魔魔像\n是不可能活动的"
  },
  {
   "id": "MSG/MSG0700/1134C",
@@ -32550,7 +32550,7 @@
   "offset": "10534",
   "jp": "えっ？",
   "en": "What?",
-  "zh": ""
+  "zh": "诶？"
  },
  {
   "id": "MSG/MSG0700/1134D",
@@ -32559,7 +32559,7 @@
   "offset": "1053C",
   "jp": "授業で習っただろう？\nこれは、法則だ",
   "en": "Don't you remember the lecture?\nThat's one of the basic principles.",
-  "zh": ""
+  "zh": "课上学过的吧？\n这是法则"
  },
  {
   "id": "MSG/MSG0700/1134E",
@@ -32568,7 +32568,7 @@
   "offset": "10562",
   "jp": "こいつだって、例外じゃないはずだ",
   "en": "Even she can't be exempt from it.",
-  "zh": ""
+  "zh": "这家伙应该也不例外才对"
  },
  {
   "id": "MSG/MSG0700/1134F",
@@ -32577,7 +32577,7 @@
   "offset": "10584",
   "jp": "無茶をしているのは、ボクじゃなくて\nこのご立派なゴーレムの方さ",
   "en": "The one at risk is not me...\nIt's that frosty ice queen.",
-  "zh": ""
+  "zh": "在逞强乱来的不是我\n而是这位了不起的魔像大人呢"
  },
  {
   "id": "MSG/MSG0700/11350",
@@ -32586,7 +32586,7 @@
   "offset": "105C4",
   "jp": "魔導器なしで、どれだけ動けるのかな？\n五分？　一分？",
   "en": "How long can you operate without a Magicore,\nthen? Five minutes? One?",
-  "zh": ""
+  "zh": "没有魔导器，你到底能动多久呢？\n五分钟？还是一分钟？"
  },
  {
   "id": "MSG/MSG0700/11351",
@@ -32595,7 +32595,7 @@
   "offset": "105FA",
   "jp": "そんな短い時間でｱ",
   "en": "Do you really believe that such a short\ntime...",
-  "zh": ""
+  "zh": "在这么短的时间里——"
  },
  {
   "id": "MSG/MSG0700/11352",
@@ -32604,7 +32604,7 @@
   "offset": "1060E",
   "jp": "ゴーレム風情が・・・\nこのボクに勝てるとでも思っているのかな？",
   "en": "Is enough for a pathetic Golem like you to\ndefeat me?",
-  "zh": ""
+  "zh": "区区魔像……\n难道还真以为能赢得了我吗？"
  },
  {
   "id": "MSG/MSG0700/11353",
@@ -32613,7 +32613,7 @@
   "offset": "1064E",
   "jp": "良く口のまわる、ボウヤね\n頭の良い子は好きよ",
   "en": "You've got a fast mouth, child. I admire\nintelligence, too.",
-  "zh": ""
+  "zh": "还挺能说会道的嘛，小弟弟。\n我挺喜欢聪明的孩子呢。"
  },
  {
   "id": "MSG/MSG0700/11354",
@@ -32622,7 +32622,7 @@
   "offset": "1067C",
   "jp": "いいわ・・・おいでなさい、ボウヤ",
   "en": "Very well then... join me.",
-  "zh": ""
+  "zh": "好吧……过来吧，小弟弟。"
  },
  {
   "id": "MSG/MSG0700/11355",
@@ -32631,7 +32631,7 @@
   "offset": "1069E",
   "jp": "一緒に踊ってあげる",
   "en": "Let us dance a little.",
-  "zh": ""
+  "zh": "我就陪你跳一支舞吧。"
  },
  {
   "id": "MSG/MSG0700/1135A",
@@ -32640,7 +32640,7 @@
   "offset": "106B2",
   "jp": "お前は・・・ひょっとして・・・！？%J070456",
   "en": "You! Could it be...?!%J070456",
-  "zh": ""
+  "zh": "你这家伙……难不成是……！？%J070456"
  },
  {
   "id": "MSG/MSG0700/11364",
@@ -32649,7 +32649,7 @@
   "offset": "106E6",
   "jp": "　　　　　　　　%F",
   "en": "My dear...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/11365",
@@ -32658,7 +32658,7 @@
   "offset": "106FC",
   "jp": "　　　%F",
   "en": "What are you doing?%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/11366",
@@ -32667,7 +32667,7 @@
   "offset": "10708",
   "jp": "冗談でしょぉぉ！？%F",
   "en": "Stop this!%F",
-  "zh": ""
+  "zh": "开什么玩笑啊啊！？%F"
  },
  {
   "id": "MSG/MSG0700/11367",
@@ -32676,7 +32676,7 @@
   "offset": "10720",
   "jp": "　　　　　　　%F",
   "en": "No!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/11368",
@@ -32685,7 +32685,7 @@
   "offset": "10734",
   "jp": "アツマァッー！！%F",
   "en": "Atsuma!%F",
-  "zh": ""
+  "zh": "阿茨玛——！！%F"
  },
  {
   "id": "MSG/MSG0700/11369",
@@ -32694,7 +32694,7 @@
   "offset": "1074A",
   "jp": "・・・ほんっと・・・%F",
   "en": "I gotta tell you... You really are...%F",
-  "zh": ""
+  "zh": "……真受不了你……%F"
  },
  {
   "id": "MSG/MSG0700/1136A",
@@ -32703,7 +32703,7 @@
   "offset": "10764",
   "jp": "キミって・・・迷惑な・・・やつ・・・%F",
   "en": "A pain... in the...%F",
-  "zh": ""
+  "zh": "你这家伙……还真是个……净会添乱的……混蛋……%F"
  },
  {
   "id": "MSG/MSG0700/1136B",
@@ -32712,7 +32712,7 @@
   "offset": "1078E",
   "jp": "トウヤァァァーーーー！！！%F",
   "en": "Toyaaaaa!%F",
-  "zh": ""
+  "zh": "托亚————！！！%F"
  },
  {
   "id": "MSG/MSG0700/11396",
@@ -32721,7 +32721,7 @@
   "offset": "107AE",
   "jp": "トウヤ！%F",
   "en": "Toya... Toya!%F",
-  "zh": ""
+  "zh": "托亚！%F"
  },
  {
   "id": "MSG/MSG0700/11397",
@@ -32730,7 +32730,7 @@
   "offset": "107BC",
   "jp": "起きろよ、トウヤ！\nなにやってんだよ、起きろって！%F",
   "en": "Wake up! Toya, come on! What're you doing?! Toya!%F",
-  "zh": ""
+  "zh": "快醒醒啊，托亚！\n你在干嘛啊，叫你快醒醒啊！%F"
  },
  {
   "id": "MSG/MSG0700/11398",
@@ -32739,7 +32739,7 @@
   "offset": "107F4",
   "jp": "お前が、この程度で\nやられるわけねぇだろ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "凭你的本事，怎么可能\n会被这种程度的攻击打倒啊！%F"
  },
  {
   "id": "MSG/MSG0700/11399",
@@ -32748,7 +32748,7 @@
   "offset": "10824",
   "jp": "オレは、お前に追いつくんだ！\n先に死なれてたまるかよ！！%F",
   "en": "I'm gonna be as strong as you, someday!\nYou can't die before then!%F",
-  "zh": ""
+  "zh": "我将来可是要赶超你的！\n怎么能让你先走一步啊！！%F"
  },
  {
   "id": "MSG/MSG0700/1139A",
@@ -32757,7 +32757,7 @@
   "offset": "10862",
   "jp": "ニンゲンって本当に愚かねぇ%F",
   "en": "How stupid you humans are.%F",
-  "zh": ""
+  "zh": "人类可真是愚蠢呢%F"
  },
  {
   "id": "MSG/MSG0700/1139B",
@@ -32766,7 +32766,7 @@
   "offset": "10882",
   "jp": "“生命活動の維持”という\nコマンドと比べたらｱ%F",
   "en": "I'll never understand how you can place the\nsurvival of others...%F",
-  "zh": ""
+  "zh": "与“维持生命活动”这种\n核心指令相比——%F"
  },
  {
   "id": "MSG/MSG0700/1139C",
@@ -32775,7 +32775,7 @@
   "offset": "108B6",
   "jp": "他の個体のことなど\n優先順位は格段に低いでしょうに%F",
   "en": "…before the preservation of your own existence.\nIt's so pathetic.%F",
-  "zh": ""
+  "zh": "其他个体什么的，\n优先级明明要低得多了呀%F"
  },
  {
   "id": "MSG/MSG0700/1139D",
@@ -32784,7 +32784,7 @@
   "offset": "108EE",
   "jp": "トウヤ！\nおい、トウ・・・・・・っ！%F",
   "en": "Toya! Come back to us... Toya!%F",
-  "zh": ""
+  "zh": "托亚！\n喂，托…………！%F"
  },
  {
   "id": "MSG/MSG0700/1139E",
@@ -32793,7 +32793,7 @@
   "offset": "10918",
   "jp": "トウヤ！　・・・生きて・・・%F",
   "en": "Toya! You're alive!%F",
-  "zh": ""
+  "zh": "托亚！……还活着……%F"
  },
  {
   "id": "MSG/MSG0700/1139F",
@@ -32802,7 +32802,7 @@
   "offset": "1093A",
   "jp": "　　　　　　%F",
   "en": "Guwah!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/113A0",
@@ -32811,7 +32811,7 @@
   "offset": "1094C",
   "jp": "あら、この子\nおもしろい素材ね%F",
   "en": "Oh my, my my. He has some real potential.%F",
-  "zh": ""
+  "zh": "哎呀，这孩子\n还真是有趣的素材呢%F"
  },
  {
   "id": "MSG/MSG0700/113A1",
@@ -32820,7 +32820,7 @@
   "offset": "10970",
   "jp": "ぐぅぅぅ・・・%F",
   "en": "%F",
-  "zh": ""
+  "zh": "呜呜呜……%F"
  },
  {
   "id": "MSG/MSG0700/113A2",
@@ -32829,7 +32829,7 @@
   "offset": "10984",
   "jp": "フフ、この子なら\nかわいいお人形さんになりそう%F",
   "en": "I can't wait. He'll make a fine puppet for my collection.%F",
-  "zh": ""
+  "zh": "呵呵，这孩子的话，\n感觉能做成一个可爱的小人偶呢%F"
  },
  {
   "id": "MSG/MSG0700/113A3",
@@ -32838,7 +32838,7 @@
   "offset": "109B8",
   "jp": "我が導きに従い、進め%F",
   "en": "Follow my command. Advance!%F",
-  "zh": ""
+  "zh": "顺从吾之引导，前进吧%F"
  },
  {
   "id": "MSG/MSG0700/113A4",
@@ -32847,7 +32847,7 @@
   "offset": "109D2",
   "jp": "　我が力を欲するならば、怒れ　　%F",
   "en": "If you desire strength, unleash your rage.%F",
-  "zh": ""
+  "zh": "若渴望吾之力量，便愤怒吧　　%F"
  },
  {
   "id": "MSG/MSG0700/113A5",
@@ -32856,7 +32856,7 @@
   "offset": "109F8",
   "jp": "　　そして・・・破壊せよ！　　%F",
   "en": "Destroy... everything!%F",
-  "zh": ""
+  "zh": "然后……彻底破坏吧！　　%F"
  },
  {
   "id": "MSG/MSG0700/113A6",
@@ -32865,7 +32865,7 @@
   "offset": "10A1C",
   "jp": "アラアラ\nあなた、そのまま触れていると%F",
   "en": "I don't think you want to touch me, child.%F",
-  "zh": ""
+  "zh": "哎呀哎呀\n你再这么碰着我的话%F"
  },
  {
   "id": "MSG/MSG0700/113A7",
@@ -32874,7 +32874,7 @@
   "offset": "10A48",
   "jp": "・・・せ%F",
   "en": "...Let go of him...%F",
-  "zh": ""
+  "zh": "……开%F"
  },
  {
   "id": "MSG/MSG0700/113A8",
@@ -32883,7 +32883,7 @@
   "offset": "10A56",
   "jp": "なぁに？%F",
   "en": "%F",
-  "zh": ""
+  "zh": "你说什么？%F"
  },
  {
   "id": "MSG/MSG0700/113A9",
@@ -32892,7 +32892,7 @@
   "offset": "10A64",
   "jp": "・・・ヤ・・・せ%F",
   "en": "I mean it! Let... Go...!%F",
-  "zh": ""
+  "zh": "……托亚……放开%F"
  },
  {
   "id": "MSG/MSG0700/113AA",
@@ -32901,7 +32901,7 @@
   "offset": "10A7A",
   "jp": "なにをブツブツ言って・・・\n・・・っ！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "在那嘀嘀咕咕些什么呢……\n……呃！%F"
  },
  {
   "id": "MSG/MSG0700/113AB",
@@ -32910,7 +32910,7 @@
   "offset": "10AA6",
   "jp": "トウヤから、この汚ねぇ手を\n放せっつってんだよ！！%F",
   "en": "Get your cold icicle fingers off Toya\nright now!%F",
-  "zh": ""
+  "zh": "我叫你把那只脏手\n从托亚身上拿开啊！！%F"
  },
  {
   "id": "MSG/MSG0700/113AC",
@@ -32919,7 +32919,7 @@
   "offset": "10ADE",
   "jp": "この年増ババァがぁっ！！！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "你个老太婆！！！%F"
  },
  {
   "id": "MSG/MSG0700/113AD",
@@ -32928,7 +32928,7 @@
   "offset": "10AFE",
   "jp": "くっ・・・！\nずいぶん、早いじゃない%F",
   "en": "Uh...! You're quick!%F",
-  "zh": ""
+  "zh": "咕……！\n速度挺快的嘛%F"
  },
  {
   "id": "MSG/MSG0700/113AE",
@@ -32937,7 +32937,7 @@
   "offset": "10B28",
   "jp": "もう止まらねえ、絶対に%F",
   "en": "You can't stop me now!%F",
-  "zh": ""
+  "zh": "老子绝不会停下来，绝对%F"
  },
  {
   "id": "MSG/MSG0700/113AF",
@@ -32946,7 +32946,7 @@
   "offset": "10B44",
   "jp": "テメエを、ぶっつぶすまで！\n止まらねえぞっ！！！%F",
   "en": "Nothing in this world can stop me! Not until you are dead!%F",
-  "zh": ""
+  "zh": "在把你彻底砸烂之前！\n老子绝不会停手！！！%F"
  },
  {
   "id": "MSG/MSG0700/113B0",
@@ -32955,7 +32955,7 @@
   "offset": "10B7A",
   "jp": "　さすがに、#W右腕#Rそれ#rだけは危険ね　%F",
   "en": "That right arm, at least, is dangerous.%F",
-  "zh": ""
+  "zh": "果然只有那只#W右臂#R右手#r比较危险呢　%F"
  },
  {
   "id": "MSG/MSG0700/113B1",
@@ -32964,7 +32964,7 @@
   "offset": "10BAE",
   "jp": "この私も万全ではないとはいえｱ%F",
   "en": "I may not be at full strength yet, but\nstill...%F",
-  "zh": ""
+  "zh": "虽说我也并非处于全盛状态ｱ%F"
  },
  {
   "id": "MSG/MSG0700/113B2",
@@ -32973,7 +32973,7 @@
   "offset": "10BD2",
   "jp": "まったく力をコントロールできていないのに\n\"再構築能力\"がここまで・・・%F",
   "en": "To impair my ability to regenerate so badly,\nand with such a lack of control!%F",
-  "zh": ""
+  "zh": "明明完全无法控制力量\n\"再构建能力\"竟然能达到这种程度……%F"
  },
  {
   "id": "MSG/MSG0700/113B3",
@@ -32982,7 +32982,7 @@
   "offset": "10C20",
   "jp": "フフ、おもしろくなってきたわね%F",
   "en": "Things are getting interesting.%F",
-  "zh": ""
+  "zh": "呵呵，越来越有意思了呢%F"
  },
  {
   "id": "MSG/MSG0700/113C8",
@@ -32991,7 +32991,7 @@
   "offset": "10C44",
   "jp": "　　　　　　　　%F",
   "en": "Guuuuuuh!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/113C9",
@@ -33000,7 +33000,7 @@
   "offset": "10C5A",
   "jp": "・・・まだ・・・だ・・・まだ%F",
   "en": "%F",
-  "zh": ""
+  "zh": "……还……没完……还没完%F"
  },
  {
   "id": "MSG/MSG0700/113CA",
@@ -33009,7 +33009,7 @@
   "offset": "10C7C",
   "jp": "残念、時間切れよ\nやっぱり、まだあなたには早かったようね%F",
   "en": "Time's up, I'm afraid. I think this was all\nstill a little too soon for you.%F",
-  "zh": ""
+  "zh": "真遗憾，时间到了\n对你来说果然还是太早了呢%F"
  },
  {
   "id": "MSG/MSG0700/113CB",
@@ -33018,7 +33018,7 @@
   "offset": "10CBA",
   "jp": "さようなら\n赤いお猿さん%F",
   "en": "Goodbye, little red monkey.%F",
-  "zh": ""
+  "zh": "再见啦\n红色的小猴子%F"
  },
  {
   "id": "MSG/MSG0700/113CC",
@@ -33027,7 +33027,7 @@
   "offset": "10CD8",
   "jp": "　　　　　　　%F",
   "en": "Gwah!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0700/113CD",
@@ -33036,7 +33036,7 @@
   "offset": "10CEC",
   "jp": "そして、こんにちは\n青いお人形さん%F",
   "en": "And hello, my dear little blue puppet.%F",
-  "zh": ""
+  "zh": "然后，你好啊\n蓝色的小人偶%F"
  },
  {
   "id": "MSG/MSG0700/113CE",
@@ -33045,7 +33045,7 @@
   "offset": "10D14",
   "jp": "ちょっと、アンタ！\nアタシのトウヤにｱ%F",
   "en": "Get your hands off him! Toya is mine!%F",
-  "zh": ""
+  "zh": "喂，你这家伙！\n别把你的脏脸湊到ｱ%F"
  },
  {
   "id": "MSG/MSG0700/113CF",
@@ -33054,7 +33054,7 @@
   "offset": "10D40",
   "jp": "その、みにくい顔を\n近づけんじゃないわよ！！%F",
   "en": "You get that ugly face away from him!%F",
-  "zh": ""
+  "zh": "我家托亚身边来啊！！%F"
  },
  {
   "id": "MSG/MSG0700/113D0",
@@ -33063,7 +33063,7 @@
   "offset": "10D72",
   "jp": "私の顔が・・・みにくい？%F",
   "en": "My face... ugly?!%F",
-  "zh": ""
+  "zh": "你说我的脸……丑陋？%F"
  },
  {
   "id": "MSG/MSG0700/113D1",
@@ -33072,7 +33072,7 @@
   "offset": "10D90",
   "jp": "だって、そうでしょ%F",
   "en": "That's right, sister!%F",
-  "zh": ""
+  "zh": "本来就是嘛%F"
  },
  {
   "id": "MSG/MSG0700/113D3",
@@ -33081,7 +33081,7 @@
   "offset": "10DA8",
   "jp": "みにくいって言って\nなにが悪いのよっ！%F",
   "en": "I'm just telling it like it is, honey!%F",
-  "zh": ""
+  "zh": "我说你丑\n有什么不对的吗！%F"
  },
  {
   "id": "MSG/MSG0700/113D4",
@@ -33090,7 +33090,7 @@
   "offset": "10DD4",
   "jp": "私の顔がみにくいだと！！%F",
   "en": "You think my face is ugly?!%F",
-  "zh": ""
+  "zh": "竟敢说我的脸丑陋！！%F"
  },
  {
   "id": "MSG/MSG0700/113D5",
@@ -33099,7 +33099,7 @@
   "offset": "10DF2",
   "jp": "逃げろ、マコトォォォ！！%F",
   "en": "Makoto, run!%F",
-  "zh": ""
+  "zh": "快逃，马科托——！！%F"
  },
  {
   "id": "MSG/MSG0700/113D6",
@@ -33108,7 +33108,7 @@
   "offset": "10E10",
   "jp": "マコ・・・ト・・・%F",
   "en": "No, Makoto...!%F",
-  "zh": ""
+  "zh": "马科……托……%F"
  },
  {
   "id": "MSG/MSG0700/113D7",
@@ -33117,7 +33117,7 @@
   "offset": "10E28",
   "jp": "フフ、無粋なおバカさんには\nステージから退場いただいたわ%F",
   "en": "There comes a time for the worthless to\nstep down from the stage.%F",
-  "zh": ""
+  "zh": "呵呵，不识趣的蠢货\n已经请她退场了%F"
  },
  {
   "id": "MSG/MSG0700/113D8",
@@ -33126,7 +33126,7 @@
   "offset": "10E66",
   "jp": "さ、いきましょう\nかわいい私のマリオネット%F",
   "en": "Now then, my sweet marionette, let us depart\nthis place.%F",
-  "zh": ""
+  "zh": "好了，我们走吧\n我可爱的小提线木偶%F"
  },
  {
   "id": "MSG/MSG0700/113DA",
@@ -33135,7 +33135,7 @@
   "offset": "10E96",
   "jp": "フフフ\n盛大なパーティの始まりよ%F",
   "en": "Ah, such a wonderful party is about to begin! Come!%F",
-  "zh": ""
+  "zh": "呵呵呵\n盛大的派对要开始了哦%F"
  },
  {
   "id": "MSG/MSG0700/113DB",
@@ -33144,7 +33144,7 @@
   "offset": "10EBC",
   "jp": "トウヤっ！\n行くなーーーーーっっ！！%F",
   "en": "Toya! Don't go!%F",
-  "zh": ""
+  "zh": "托亚！\n别去啊————！！%F"
  },
  {
   "id": "MSG/MSG0700/113DC",
@@ -33153,7 +33153,7 @@
   "offset": "10EE6",
   "jp": "トウヤ・・・マコト・・・\nオレは・・・・・・%F",
   "en": "Toya... Makoto...!%F",
-  "zh": ""
+  "zh": "托亚……马科托……\n我…………%F"
  },
  {
   "id": "MSG/MSG0700/113DD",
@@ -33162,7 +33162,7 @@
   "offset": "10F18",
   "jp": "くそぉぉぉぉっっーー！！！%F",
   "en": "Noooooo!%F",
-  "zh": ""
+  "zh": "可恶啊啊啊啊——！！！%F"
  },
  {
   "id": "MSG/MSG0700/11431",
@@ -33171,7 +33171,7 @@
   "offset": "10F50",
   "jp": "この向こうに、いったい何があるんだろう",
   "en": "",
-  "zh": ""
+  "zh": "在这对面，到底会有什么呢"
  },
  {
   "id": "MSG/MSG0700/11436",
@@ -33180,7 +33180,7 @@
   "offset": "10F78",
   "jp": "・・・・・・さあな、行こうぜ",
   "en": "",
-  "zh": ""
+  "zh": "……谁知道呢，走吧"
  },
  {
   "id": "MSG/MSG0700/11558",
@@ -33189,7 +33189,7 @@
   "offset": "10F96",
   "jp": "右腕が・・・語りかけてきた？\nそんなことって・・・%J070366",
   "en": "%J070366",
-  "zh": ""
+  "zh": "右臂……在对我说话？\n怎么可能会有这种事……%J070366"
  },
  {
   "id": "MSG/MSG0700/11940",
@@ -33198,7 +33198,7 @@
   "offset": "10FDA",
   "jp": "中に入ったのはいいけど・・・\nここって、いったい何なのかしらね？",
   "en": "So we're inside... but just what is this\nplace?",
-  "zh": ""
+  "zh": "进来是进来了……\n但这里到底是什么地方啊？"
  },
  {
   "id": "MSG/MSG0700/11941",
@@ -33207,7 +33207,7 @@
   "offset": "1101C",
   "jp": "様式からするとｱ",
   "en": "From the construction...",
-  "zh": ""
+  "zh": "从样式来看的话——"
  },
  {
   "id": "MSG/MSG0700/11942",
@@ -33216,7 +33216,7 @@
   "offset": "1102E",
   "jp": "かなり、古い時代に作られたのは\nたしかだと思うよ",
   "en": "I'd say that it was built in ancient times.",
-  "zh": ""
+  "zh": "我想，肯定是在相当古老的时代\n建造出来的吧"
  },
  {
   "id": "MSG/MSG0700/11943",
@@ -33225,7 +33225,7 @@
   "offset": "11060",
   "jp": "そうか・・・？　けっこう新しそうだぜ？",
   "en": "Really? It all looks pretty new to me.",
-  "zh": ""
+  "zh": "是吗……？看起来还挺新的啊？"
  },
  {
   "id": "MSG/MSG0700/11944",
@@ -33234,7 +33234,7 @@
   "offset": "11088",
   "jp": "劣化があまり進んでいないから\nそう見えるだけだよ、きっと",
   "en": "That's because this place has been sealed\nup for so long.",
-  "zh": ""
+  "zh": "一定只是因为老化得不太明显，\n才让人觉得很新而已啦"
  },
  {
   "id": "MSG/MSG0700/11945",
@@ -33243,7 +33243,7 @@
   "offset": "110C2",
   "jp": "トウヤの言う通りよ、きっと！",
   "en": "I'm sure you're right, Toya!",
-  "zh": ""
+  "zh": "一定正如托亚所说的那样！"
  },
  {
   "id": "MSG/MSG0700/11946",
@@ -33252,7 +33252,7 @@
   "offset": "110E0",
   "jp": "・・・まあ、そんなことはどうでもいいや",
   "en": "...Yeah, well, forget that.",
-  "zh": ""
+  "zh": "……算了，那种事怎样都无所谓啦"
  },
  {
   "id": "MSG/MSG0700/11947",
@@ -33261,7 +33261,7 @@
   "offset": "11108",
   "jp": "さっさと、行こうぜ",
   "en": "Let's get going.",
-  "zh": ""
+  "zh": "动作快点，走吧"
  },
  {
   "id": "MSG/MSG0700/11948",
@@ -33270,7 +33270,7 @@
   "offset": "1111C",
   "jp": "コータが待ってる",
   "en": "Cota is waiting for me!",
-  "zh": ""
+  "zh": "柯达还在等着呢"
  },
  {
   "id": "MSG/MSG0700/11949",
@@ -33279,7 +33279,7 @@
   "offset": "1112E",
   "jp": "アンタ、そればっかりね・・・",
   "en": "Total fixation is bad for the skin, you\nknow...",
-  "zh": ""
+  "zh": "你这家伙，满脑子都是那只狗呢……"
  },
  {
   "id": "MSG/MSG0700/11972",
@@ -33288,7 +33288,7 @@
   "offset": "1114C",
   "jp": "じゃあ、リーダーも即決したことだし\n先に進もうか",
   "en": "Now that we have a leader, let's get moving.",
-  "zh": ""
+  "zh": "那么，既然队长也当场定下来了，\n我们就继续往前走吧"
  },
  {
   "id": "MSG/MSG0700/11973",
@@ -33297,7 +33297,7 @@
   "offset": "1117E",
   "jp": "登って戻るのは、とてもじゃないけど\n無理そうだしね",
   "en": "It doesn't look like we can climb back out\nthe way we came in.",
-  "zh": ""
+  "zh": "而且怎么看都不可能\n再原路爬回去了呢"
  },
  {
   "id": "MSG/MSG0700/11974",
@@ -33306,7 +33306,7 @@
   "offset": "111B2",
   "jp": "おし、行くぞ",
   "en": "Let's go!",
-  "zh": ""
+  "zh": "好嘞，出发！"
  },
  {
   "id": "MSG/MSG0700/11975",
@@ -33315,7 +33315,7 @@
   "offset": "111C0",
   "jp": "ハイハイ・・・行けばいんでしょぉ、もぅ！",
   "en": "Yes, yes... I'm coming, okay?",
-  "zh": ""
+  "zh": "好啦好啦……走就是了吧，真是的！"
  },
  {
   "id": "MSG/MSG0700/11990",
@@ -33324,7 +33324,7 @@
   "offset": "111EA",
   "jp": "これは・・・\nボクの記憶が確かならばｱ",
   "en": "This... if I recall correctly...",
-  "zh": ""
+  "zh": "这是……\n如果我的记忆没错的话——"
  },
  {
   "id": "MSG/MSG0700/11991",
@@ -33333,7 +33333,7 @@
   "offset": "11212",
   "jp": "#CFF697DBE“エンチャントキューブ”#cだね",
   "en": "Is an #CFF697DBEEnchant Cube#c.",
-  "zh": ""
+  "zh": "是#CFF697DBE“赋法魔方”#c呢"
  },
  {
   "id": "MSG/MSG0700/11992",
@@ -33342,7 +33342,7 @@
   "offset": "11248",
   "jp": "エンチャントキューブって、何だ？",
   "en": "What does it do?",
-  "zh": ""
+  "zh": "赋法魔方，是什么玩意儿？"
  },
  {
   "id": "MSG/MSG0700/11993",
@@ -33351,7 +33351,7 @@
   "offset": "1126A",
   "jp": "乗ってエンチャントすることで\n動く石のことだよ",
   "en": "If we climb on board and Enchant, it should \nmove.",
-  "zh": ""
+  "zh": "是指站上去施加赋法后\n就会移动的石头哦"
  },
  {
   "id": "MSG/MSG0700/11994",
@@ -33360,7 +33360,7 @@
   "offset": "1129A",
   "jp": "へー・・・移動手段として使えるってことだな！",
   "en": "I see... so we can get around on it!",
-  "zh": ""
+  "zh": "嘿……也就是说能当作代步工具用啊！"
  },
  {
   "id": "MSG/MSG0700/11995",
@@ -33369,7 +33369,7 @@
   "offset": "112C8",
   "jp": "その通り、アツマにしては察しがいいね",
   "en": "You caught on fast, for once.",
-  "zh": ""
+  "zh": "没错，对阿茨玛来说这回倒是挺机灵的嘛"
  },
  {
   "id": "MSG/MSG0700/11996",
@@ -33378,7 +33378,7 @@
   "offset": "112EE",
   "jp": "・・・で、どうやって動かすんだ？",
   "en": "...But how exactly do we make it move?",
-  "zh": ""
+  "zh": "……所以，这玩意儿要怎么让它动起来啊？"
  },
  {
   "id": "MSG/MSG0700/11997",
@@ -33387,7 +33387,7 @@
   "offset": "11310",
   "jp": "えーと、じゃあ、動かし方の説明をしようか",
   "en": "Okay, I'll explain how it works.",
-  "zh": ""
+  "zh": "嗯，那么，我就来解释一下怎么让它动起来吧"
  },
  {
   "id": "MSG/MSG0700/11998",
@@ -33396,7 +33396,7 @@
   "offset": "1133A",
   "jp": "コホン・・・",
   "en": "Ahem...",
-  "zh": ""
+  "zh": "咳咳……"
  },
  {
   "id": "MSG/MSG0700/11999",
@@ -33405,7 +33405,7 @@
   "offset": "11348",
   "jp": "まず、エンチャントキューブに乗って\n①を押すとｱ",
   "en": "First, get on the Enchant Cube and press ①.",
-  "zh": ""
+  "zh": "首先，站上赋法魔方，\n按下①的话ｱ"
  },
  {
   "id": "MSG/MSG0700/1199A",
@@ -33414,7 +33414,7 @@
   "offset": "1137A",
   "jp": "#CFF697DBEエンチャントキューブが、起動した状態に\nなる#cんだ",
   "en": "This will #CFF697DBEactivate the Enchant Cube.",
-  "zh": ""
+  "zh": "#CFF697DBE赋法魔方就会进入启动状态#c。"
  },
  {
   "id": "MSG/MSG0700/1199B",
@@ -33423,7 +33423,7 @@
   "offset": "113C4",
   "jp": "その状態で⑤を動かすとエンチャントキューブを\n動かすことができる",
   "en": "Now use ⑤ to move the Enchant Cube.",
-  "zh": ""
+  "zh": "在这种状态下推动⑤，就可以\n移动赋法魔方了。"
  },
  {
   "id": "MSG/MSG0700/1199C",
@@ -33432,7 +33432,7 @@
   "offset": "11406",
   "jp": "これは、#CFF697DBE平行移動タイプのエンチャントキューブ\nだから前後左右、四方向の移動が可能#cだね",
   "en": "This #CFF697DBEEnchant Cube moves horizontally. But\nothers may move in other directions#c.",
-  "zh": ""
+  "zh": "因为这个是#CFF697DBE平移类型的赋法魔方，\n所以能够进行前后左右四向移动#c呢。"
  },
  {
   "id": "MSG/MSG0700/1199D",
@@ -33441,7 +33441,7 @@
   "offset": "11474",
   "jp": "ちなみに降りるときは①で、エンチャント\nキューブを、待機状態に戻せばいいよ",
   "en": "To get off, press ① to restore the Enchant\nCube to standby mode, then dismount.",
-  "zh": ""
+  "zh": "顺便说一下，想下来的时候按①，\n让赋法魔方恢复待机状态就行了。"
  },
  {
   "id": "MSG/MSG0700/1199E",
@@ -33450,7 +33450,7 @@
   "offset": "114C0",
   "jp": "以上、説明終わり%J072100",
   "en": "That's it.%J072100",
-  "zh": ""
+  "zh": "以上，说明完毕%J072100"
  },
  {
   "id": "MSG/MSG0700/119A4",
@@ -33459,7 +33459,7 @@
   "offset": "114E2",
   "jp": "これで、わかったかな？%J072101",
   "en": "Did you get all that?%J072101",
-  "zh": ""
+  "zh": "这样听明白了吗？%J072101"
  },
  {
   "id": "MSG/MSG0700/119A5",
@@ -33468,7 +33468,7 @@
   "offset": "1150A",
   "jp": "わかった！%M072106",
   "en": "Yeah!%M072106",
-  "zh": ""
+  "zh": "明白了！%M072106"
  },
  {
   "id": "MSG/MSG0700/119A6",
@@ -33477,7 +33477,7 @@
   "offset": "11526",
   "jp": "もう一回お願い%M072111",
   "en": "Tell me again.%M072111",
-  "zh": ""
+  "zh": "请再说一遍%M072111"
  },
  {
   "id": "MSG/MSG0700/119AA",
@@ -33486,7 +33486,7 @@
   "offset": "11546",
   "jp": "ふむふむ・・・わかったぜ%J072110",
   "en": "Okay, okay... I got it.%J072110",
-  "zh": ""
+  "zh": "嗯嗯……我懂了%J072110"
  },
  {
   "id": "MSG/MSG0700/119AE",
@@ -33495,7 +33495,7 @@
   "offset": "11570",
   "jp": "①で乗り降りで、⑤で移動だな%F",
   "en": "① to get on and off, and ⑤ to move.%F",
-  "zh": ""
+  "zh": "用①上下，用⑤移动对吧%F"
  },
  {
   "id": "MSG/MSG0700/119AF",
@@ -33504,7 +33504,7 @@
   "offset": "11592",
   "jp": "悪い、もう一回頼むわ",
   "en": "Sorry, could you tell me again?",
-  "zh": ""
+  "zh": "抱歉，再跟我讲一遍吧"
  },
  {
   "id": "MSG/MSG0700/119B0",
@@ -33513,7 +33513,7 @@
   "offset": "115A8",
   "jp": "はいはい・・・\n今度は、よく聞いてね%J072088",
   "en": "Okay. Listen carefully this time.%J072088",
-  "zh": ""
+  "zh": "好啦好啦……\n这次要好好听哦%J072088"
  },
  {
   "id": "MSG/MSG0700/119B8",
@@ -33522,7 +33522,7 @@
   "offset": "115DE",
   "jp": "うんうん\nうまく渡れたね",
   "en": "",
-  "zh": ""
+  "zh": "嗯嗯，\n顺利过来了呢。"
  },
  {
   "id": "MSG/MSG0700/119B9",
@@ -33531,7 +33531,7 @@
   "offset": "115F8",
   "jp": "エンチャントキューブの動かし方は\nもうマスターしたみたいだね",
   "en": "",
-  "zh": ""
+  "zh": "看来赋法魔方的操纵方法，\n你已经彻底掌握了呢。"
  },
  {
   "id": "MSG/MSG0700/119BA",
@@ -33540,7 +33540,7 @@
   "offset": "11636",
   "jp": "モチロン！\n余裕だっての！",
   "en": "",
-  "zh": ""
+  "zh": "当然了！\n小菜一碟啦！"
  },
  {
   "id": "MSG/MSG0700/119D6",
@@ -33549,7 +33549,7 @@
   "offset": "11652",
   "jp": "これは・・・！",
   "en": "Look...!",
-  "zh": ""
+  "zh": "这是……！"
  },
  {
   "id": "MSG/MSG0700/119D7",
@@ -33558,7 +33558,7 @@
   "offset": "11662",
   "jp": "お前の記憶が確かならば・・・\nこれは、何なんだ？",
   "en": "If you recall correctly... this is?",
-  "zh": ""
+  "zh": "如果你的记忆靠谱的话……\n这到底是什么啊？"
  },
  {
   "id": "MSG/MSG0700/119D8",
@@ -33567,7 +33567,7 @@
   "offset": "11694",
   "jp": "・・・これは、たぶん“魔導”で動く\n動力機関だね",
   "en": "...A power plant... that runs on magic.",
-  "zh": ""
+  "zh": "……这个大概是靠“魔导”运转的\n动力机关吧。"
  },
  {
   "id": "MSG/MSG0700/119D9",
@@ -33576,7 +33576,7 @@
   "offset": "116C6",
   "jp": "へー",
   "en": "Wow.",
-  "zh": ""
+  "zh": "哈啊——"
  },
  {
   "id": "MSG/MSG0700/119DA",
@@ -33585,7 +33585,7 @@
   "offset": "116CC",
   "jp": "\"へー\"って、わかってんの？",
   "en": "\"Wow\"? Is that all you can say?\nDo you understand what it means?",
-  "zh": ""
+  "zh": "“哈啊——”什么啊，你到底懂不懂啊？"
  },
  {
   "id": "MSG/MSG0700/119DB",
@@ -33594,7 +33594,7 @@
   "offset": "116EA",
   "jp": "お前の方こそ、わかってんのかよ？",
   "en": "Do you?",
-  "zh": ""
+  "zh": "你自己又懂了吗？"
  },
  {
   "id": "MSG/MSG0700/119DC",
@@ -33603,7 +33603,7 @@
   "offset": "1170C",
   "jp": "アンタと一緒にしないでよ\nさっきも、話してたでしょ",
   "en": "You and I are totally different! Weren't\nyou listening just now?!",
-  "zh": ""
+  "zh": "少拿我和你相提并论啦！\n刚才不是才聊过吗？"
  },
  {
   "id": "MSG/MSG0700/119DD",
@@ -33612,7 +33612,7 @@
   "offset": "11740",
   "jp": "“魔導”ってのは、１０００年前の\nゴーレムウォー以前の技術・・・",
   "en": "Magic is technology from before the Golem\nWar, a thousand years ago...",
-  "zh": ""
+  "zh": "所谓的“魔导”，可是1000年前\n魔像战争之前的技术……"
  },
  {
   "id": "MSG/MSG0700/119DE",
@@ -33621,7 +33621,7 @@
   "offset": "11782",
   "jp": "魔導もエーテルを使い、その法則に\n支配されることは変わらないけどｱ",
   "en": "Magic also uses Ether and is still bound by\nthose laws and principles...",
-  "zh": ""
+  "zh": "虽然魔导同样利用以太，且受其法则\n支配这点并没有改变，但是ｱ"
  },
  {
   "id": "MSG/MSG0700/119DF",
@@ -33630,7 +33630,7 @@
   "offset": "117C6",
   "jp": "アタシたちの使ってるエンチャントより\nずっと強力な力を生み出すことができるの%J072165",
   "en": "But it is capable of creating power far\ngreater than anything an Enchanter does.%J072165",
-  "zh": ""
+  "zh": "它却能产生远比我们所使用的赋法\n要强大得多的力量哦%J072165"
  },
  {
   "id": "MSG/MSG0700/119E0",
@@ -33639,7 +33639,7 @@
   "offset": "11824",
   "jp": "その魔導の力で、この機関は動いてるってわけよ%J072166",
   "en": "And this machine is operated by... magic.%J072166",
-  "zh": ""
+  "zh": "也就是说，这个机关就是靠魔导之力在运转的啦%J072166"
  },
  {
   "id": "MSG/MSG0700/119E1",
@@ -33648,7 +33648,7 @@
   "offset": "11862",
   "jp": "・・・しっかし、でっけーなー",
   "en": "...Man, it's big.",
-  "zh": ""
+  "zh": "……不过，还真是大得离谱啊。"
  },
  {
   "id": "MSG/MSG0700/119E2",
@@ -33657,7 +33657,7 @@
   "offset": "11880",
   "jp": "それだけ、この施設で使われている\nエネルギーが多いってことだろうね・・・",
   "en": "Which means this facility uses a lot of\nenergy.",
-  "zh": ""
+  "zh": "这就说明，这座设施消耗的\n能量相当庞大吧……"
  },
  {
   "id": "MSG/MSG0700/119E3",
@@ -33666,7 +33666,7 @@
   "offset": "118CA",
   "jp": "ふーん、何に使ってんだろうな？",
   "en": "Yeah, but what for?",
-  "zh": ""
+  "zh": "哼——到底是用在什么地方的啊？"
  },
  {
   "id": "MSG/MSG0700/119E4",
@@ -33675,7 +33675,7 @@
   "offset": "118EA",
   "jp": "・・・・・・さあ？%F",
   "en": "Now that... I don't know.%F",
-  "zh": ""
+  "zh": "……谁知道呢？%F"
  },
  {
   "id": "MSG/MSG0700/119E5",
@@ -33684,7 +33684,7 @@
   "offset": "11902",
   "jp": "というより、エンチャントはその魔導の\nほんの一部でしかないのよ%J072160",
   "en": "Put simply, Enchanting is just one small \nfacet of magic.%J072160",
-  "zh": ""
+  "zh": "倒不如说，赋法不过是那种魔导的\n一小部分而已%J072160"
  },
  {
   "id": "MSG/MSG0700/119E6",
@@ -33693,7 +33693,7 @@
   "offset": "11952",
   "jp": "ふーん、でも失われたんだよな、魔導って\nなんでいまでも、動いてんだ？%J072161",
   "en": "But all that magic was lost, right?\nSo why is this thing still working?%J072161",
-  "zh": ""
+  "zh": "哼嗯，不过魔导不是早就失传了吗，\n为什么到现在还在运转啊？%J072161"
  },
  {
   "id": "MSG/MSG0700/11A08",
@@ -33702,7 +33702,7 @@
   "offset": "119A8",
   "jp": "うおっ！　なんかたくさんいる！",
   "en": "Whoa! Look at all these things!",
-  "zh": ""
+  "zh": "哇！怎么有这么多！"
  },
  {
   "id": "MSG/MSG0700/11A09",
@@ -33711,7 +33711,7 @@
   "offset": "119C8",
   "jp": "トウヤ？",
   "en": "Toya?!",
-  "zh": ""
+  "zh": "托亚？"
  },
  {
   "id": "MSG/MSG0700/11A0A",
@@ -33720,7 +33720,7 @@
   "offset": "119D2",
   "jp": "ええと、古代につくられたゴーレムだね",
   "en": "Ah yes. Ancient Golems, from the look of\nthem.",
-  "zh": ""
+  "zh": "嗯……看起来是古代制造的魔像呢"
  },
  {
   "id": "MSG/MSG0700/11A0B",
@@ -33729,7 +33729,7 @@
   "offset": "119F8",
   "jp": "これ、ぜんぶゴーレム！？",
   "en": "These are all Golems?",
-  "zh": ""
+  "zh": "这些，全都是魔像！？"
  },
  {
   "id": "MSG/MSG0700/11A0C",
@@ -33738,7 +33738,7 @@
   "offset": "11A12",
   "jp": "これはどちらかというと、意匠的な意味合いが\n強いんじゃないかな",
   "en": "Well, I think they are intended more as\nan expression of potential power.",
-  "zh": ""
+  "zh": "这硬要说的话，感觉更偏向于\n装饰性意味吧"
  },
  {
   "id": "MSG/MSG0700/11A0D",
@@ -33747,7 +33747,7 @@
   "offset": "11A52",
   "jp": "へ？",
   "en": "What?",
-  "zh": ""
+  "zh": "诶？"
  },
  {
   "id": "MSG/MSG0700/11A0E",
@@ -33756,7 +33756,7 @@
   "offset": "11A58",
   "jp": "お飾りってことよ",
   "en": "They're only for show.",
-  "zh": ""
+  "zh": "就是摆设的意思啦"
  },
  {
   "id": "MSG/MSG0700/11A0F",
@@ -33765,7 +33765,7 @@
   "offset": "11A6A",
   "jp": "あ、そうなんだ",
   "en": "Oh, okay.",
-  "zh": ""
+  "zh": "啊，原来是这样"
  },
  {
   "id": "MSG/MSG0700/11A10",
@@ -33774,7 +33774,7 @@
   "offset": "11A7A",
   "jp": "あるいは、“脅し”かな",
   "en": "Or to threaten, perhaps.",
-  "zh": ""
+  "zh": "或者说是“威慑”吧"
  },
  {
   "id": "MSG/MSG0700/11A11",
@@ -33783,7 +33783,7 @@
   "offset": "11A92",
   "jp": "脅し？",
   "en": "What kind of threat?",
-  "zh": ""
+  "zh": "威慑？"
  },
  {
   "id": "MSG/MSG0700/11A12",
@@ -33792,7 +33792,7 @@
   "offset": "11A9A",
   "jp": "“この先はやばいぞ”ってこと・・・",
   "en": "Like... \"Don't go any further,\" maybe?",
-  "zh": ""
+  "zh": "就是警告“前面很危险”的意思……"
  },
  {
   "id": "MSG/MSG0700/11A3D",
@@ -33801,7 +33801,7 @@
   "offset": "11ABE",
   "jp": "どこかに#CFF697DBEスイッチ#cがあるってことだな！",
   "en": "So there's a #CFF697DBEswitch#c around here somewhere?",
-  "zh": ""
+  "zh": "也就是说这附近肯定有#CFF697DBE开关#c对吧！"
  },
  {
   "id": "MSG/MSG0700/11A3E",
@@ -33810,7 +33810,7 @@
   "offset": "11AFC",
   "jp": "そうそう、良く気づいたね",
   "en": "Yes, there should be. Well done.",
-  "zh": ""
+  "zh": "对对，注意得很敏锐呢"
  },
  {
   "id": "MSG/MSG0700/11A3F",
@@ -33819,7 +33819,7 @@
   "offset": "11B16",
   "jp": "へへ・・・へへへー\nトウヤに、ほめられちったぞ、マコト",
   "en": "Heh heh... you hear that, Makoto? Toya\nthinks I did well!",
-  "zh": ""
+  "zh": "嘿嘿……嘿嘿嘿——\n马科托，托亚夸我了哦"
  },
  {
   "id": "MSG/MSG0700/11A40",
@@ -33828,7 +33828,7 @@
   "offset": "11B4E",
   "jp": "キー！　アタシ、アンタがねたましい！",
   "en": "Bah! I can't believe I'm jealous of you!",
-  "zh": ""
+  "zh": "呀——！老娘我真嫉妒死你了！"
  },
  {
   "id": "MSG/MSG0700/11A41",
@@ -33837,7 +33837,7 @@
   "offset": "11B74",
   "jp": "ねたましいわぁ！！",
   "en": "Jealous!",
-  "zh": ""
+  "zh": "好嫉妒啊！！"
  },
  {
   "id": "MSG/MSG0700/11A44",
@@ -33846,7 +33846,7 @@
   "offset": "11B88",
   "jp": "うーん、扉への行く手がふさがれているね",
   "en": "The path to the doorway is blocked...",
-  "zh": ""
+  "zh": "唔……通往大门的去路被挡住了呢"
  },
  {
   "id": "MSG/MSG0700/11A45",
@@ -33855,7 +33855,7 @@
   "offset": "11BB0",
   "jp": "どうすりゃいいんだ？",
   "en": "What should we do?",
-  "zh": ""
+  "zh": "那该怎么办啊？"
  },
  {
   "id": "MSG/MSG0700/11A46",
@@ -33864,7 +33864,7 @@
   "offset": "11BC6",
   "jp": "おそらく、行く手をふさいでいるゴーレムに\n動力を供給すればｱ",
   "en": "If we supply power to the Golems blocking\nthe way...",
-  "zh": ""
+  "zh": "恐怕，只要给挡路的魔像\n提供动力的话……"
  },
  {
   "id": "MSG/MSG0700/11A47",
@@ -33873,7 +33873,7 @@
   "offset": "11C04",
   "jp": "ゴーレムが起動して、道を開けてくれるはずだ",
   "en": "They should move, letting us through.",
-  "zh": ""
+  "zh": "魔像就会启动，为我们让开道路的"
  },
  {
   "id": "MSG/MSG0700/11A48",
@@ -33882,7 +33882,7 @@
   "offset": "11C30",
   "jp": "ゴーレムに動力を供給・・・・？%J072253",
   "en": "Supply power to the Golems?%J072253",
-  "zh": ""
+  "zh": "给魔像提供动力……？%J072253"
  },
  {
   "id": "MSG/MSG0700/11A6C",
@@ -33891,7 +33891,7 @@
   "offset": "11C60",
   "jp": "ねぇアツマ",
   "en": "Atsuma, one thing.",
-  "zh": ""
+  "zh": "话说阿茨玛"
  },
  {
   "id": "MSG/MSG0700/11A6D",
@@ -33900,7 +33900,7 @@
   "offset": "11C6C",
   "jp": "キミはどうして、学園に・・・",
   "en": "Why did you go back into the school?",
-  "zh": ""
+  "zh": "你究竟为什么要去学园……"
  },
  {
   "id": "MSG/MSG0700/11A6E",
@@ -33909,7 +33909,7 @@
   "offset": "11C8A",
   "jp": "どうして、封鎖区画の中に\n入りたかったんだっけ？",
   "en": "Why did you lead us down into the Sealed\nWard? Refresh my memory.",
-  "zh": ""
+  "zh": "又为什么非要进到\n封锁区划里面来着？"
  },
  {
   "id": "MSG/MSG0700/11A6F",
@@ -33918,7 +33918,7 @@
   "offset": "11CBC",
   "jp": "そりゃあ・・・えーと・・・",
   "en": "Ah, well... because...",
-  "zh": ""
+  "zh": "那个嘛……呃……"
  },
  {
   "id": "MSG/MSG0700/11A70",
@@ -33927,7 +33927,7 @@
   "offset": "11CD8",
   "jp": "そうそう、コータを探すためだぜ",
   "en": "Right. I was looking for Cota.",
-  "zh": ""
+  "zh": "对对，是为了找柯达啦"
  },
  {
   "id": "MSG/MSG0700/11A71",
@@ -33936,7 +33936,7 @@
   "offset": "11CF8",
   "jp": "・・・その割には、地下に落ちてから\nほとんどコータのこと、言わなかったよね",
   "en": "...But you've hardly mentioned him since\nwe got down here.",
-  "zh": ""
+  "zh": "……亏你这么说，掉到地下之后\n你可几乎提都没提过柯达的事呢"
  },
  {
   "id": "MSG/MSG0700/11A72",
@@ -33945,7 +33945,7 @@
   "offset": "11D44",
   "jp": "そんなこと・・・ないぜ%J072309",
   "en": "That isn't true! I have!\n...I think.%J072309",
-  "zh": ""
+  "zh": "才没……那回事呢%J072309"
  },
  {
   "id": "MSG/MSG0700/11A75",
@@ -33954,7 +33954,7 @@
   "offset": "11D6C",
   "jp": "さっきから、やけに先に進もうと\nはり切ってるし%J072311",
   "en": "You've seemed desperate to proceed, too.%J072311",
-  "zh": ""
+  "zh": "而且你刚才开始，就格外拼命地\n想往前走呢%J072311"
  },
  {
   "id": "MSG/MSG0700/11A77",
@@ -33963,7 +33963,7 @@
   "offset": "11DAC",
   "jp": "なにかにキミも導かれているんじゃないかなって\n思うんだけど",
   "en": "I'm starting to wonder if something is\nleading you?",
-  "zh": ""
+  "zh": "我总觉得你是不是也\n被什么东西给引导着呢"
  },
  {
   "id": "MSG/MSG0700/11A78",
@@ -33972,7 +33972,7 @@
   "offset": "11DE8",
   "jp": "なにかって、なにがだよ？",
   "en": "Something? What kind of something?",
-  "zh": ""
+  "zh": "什么东西，到底是啥啊？"
  },
  {
   "id": "MSG/MSG0700/11A79",
@@ -33981,7 +33981,7 @@
   "offset": "11E02",
   "jp": "例えば、その右腕とか？%J072326",
   "en": "Well, for example... your right arm?%J072326",
-  "zh": ""
+  "zh": "比如说，你的那条右臂？%J072326"
  },
  {
   "id": "MSG/MSG0700/11A7B",
@@ -33990,7 +33990,7 @@
   "offset": "11E2A",
   "jp": "いやん、トウヤぁ！\nこわいこと言わないでよぉ！",
   "en": "Oh Toya! Don't say such horrific things!",
-  "zh": ""
+  "zh": "讨厌啦，托亚～！\n别说这么吓人的话嘛！"
  },
  {
   "id": "MSG/MSG0700/11A7C",
@@ -33999,7 +33999,7 @@
   "offset": "11E5A",
   "jp": "トウヤ・・・",
   "en": "Toya...",
-  "zh": ""
+  "zh": "托亚……"
  },
  {
   "id": "MSG/MSG0700/11A7D",
@@ -34008,7 +34008,7 @@
   "offset": "11E68",
   "jp": "オレ、トウヤにだけは\n右腕のこと、とやかく言われたくない%J072323",
   "en": "I don't wanna discuss my arm with you.%J072323",
-  "zh": ""
+  "zh": "我最不希望右臂的事\n被托亚你说三道四了%J072323"
  },
  {
   "id": "MSG/MSG0700/11A83",
@@ -34017,7 +34017,7 @@
   "offset": "11EB2",
   "jp": "まあまあ",
   "en": "Let's keep it friendly, okay?",
-  "zh": ""
+  "zh": "好了好了"
  },
  {
   "id": "MSG/MSG0700/11A84",
@@ -34026,7 +34026,7 @@
   "offset": "11EBC",
   "jp": "とりあえず、どこかから#CFF697DBEエーテル#cを\n調達しましょうよ",
   "en": "The next step is to find some #CFF697DBEEther#c.",
-  "zh": ""
+  "zh": "总之，我们先从哪里搞点\n#CFF697DBE以太#c过来吧"
  },
  {
   "id": "MSG/MSG0700/11A85",
@@ -34035,7 +34035,7 @@
   "offset": "11F08",
   "jp": "トウヤが言ってたように\nこの装置を動かせるかもしれないわよ%F",
   "en": "Yes, and this machine may still work, just\nlike Toya said.%F",
-  "zh": ""
+  "zh": "说不定真能像托亚说的那样\n让这台装置运转起来呢%F"
  },
  {
   "id": "MSG/MSG0700/11A86",
@@ -34044,7 +34044,7 @@
   "offset": "11F48",
   "jp": "・・・・・・%J072315",
   "en": "...%J072315",
-  "zh": ""
+  "zh": "……%J072315"
  },
  {
   "id": "MSG/MSG0700/11A9E",
@@ -34053,7 +34053,7 @@
   "offset": "11F66",
   "jp": "あれれ、道が続いてないじゃん\n先に進めないじゃん",
   "en": "Hey... this is the end of the road. We\ncan't go on!",
-  "zh": ""
+  "zh": "咦咦，前面没有路了啊\n根本没法往前走嘛"
  },
  {
   "id": "MSG/MSG0700/11A9F",
@@ -34062,7 +34062,7 @@
   "offset": "11F98",
   "jp": "アツマ、こういう時は\n#CFF697DBE“エンチャントワイヤー”#cを使うといいよ",
   "en": "Atsuma, this is where the #CFF697DBEEnchant Wire#c\ncomes into play.",
-  "zh": ""
+  "zh": "阿茨玛，这种时候\n用#CFF697DBE“赋法钢索”#c就好了"
  },
  {
   "id": "MSG/MSG0700/11AA0",
@@ -34071,7 +34071,7 @@
   "offset": "11FEE",
   "jp": "エンチャントワイヤー？",
   "en": "Enchant Wire?",
-  "zh": ""
+  "zh": "赋法钢索？"
  },
  {
   "id": "MSG/MSG0700/11AA1",
@@ -34080,7 +34080,7 @@
   "offset": "12006",
   "jp": "エンチャントワイヤーっていうのはｱ\n",
   "en": "You can't have forgotten already.",
-  "zh": ""
+  "zh": "所谓的赋法钢索啊ｱ"
  },
  {
   "id": "MSG/MSG0700/11AA2",
@@ -34089,7 +34089,7 @@
   "offset": "1202C",
   "jp": "エンチャントの力を使って飛ばす\nフックつきのワイヤー発射装置のことだよ%J072356",
   "en": "The Enchant Wire is a grappling hook thrown\nusing Enchant power.%J072356",
-  "zh": ""
+  "zh": "就是利用赋法的力量射出带有挂钩的\n钢索发射装置啦%J072356"
  },
  {
   "id": "MSG/MSG0700/11AA4",
@@ -34098,7 +34098,7 @@
   "offset": "12084",
   "jp": "あ～あーあー、そういえば、そんなの\n持ってたかも",
   "en": "Oh right, that thing. I have one of those,\nI think.",
-  "zh": ""
+  "zh": "啊～啊啊，经你这么一说，我好像\n确实有这么个玩意儿"
  },
  {
   "id": "MSG/MSG0700/11AA5",
@@ -34107,7 +34107,7 @@
   "offset": "120B6",
   "jp": "ターゲットに対して、エンチャントワイヤーを\n飛ばしてひっかけるとｱ",
   "en": "If you throw the Enchant Wire at a target\nand hook onto it...",
-  "zh": ""
+  "zh": "只要瞄准目标，把赋法钢索\n发射过去钩住的话ｱ"
  },
  {
   "id": "MSG/MSG0700/11AA6",
@@ -34116,7 +34116,7 @@
   "offset": "120FA",
   "jp": "そこまで、飛んで移動できるんだ",
   "en": "You can leap over to it.",
-  "zh": ""
+  "zh": "就能一口气飞跃移动到那边哦"
  },
  {
   "id": "MSG/MSG0700/11AA7",
@@ -34125,7 +34125,7 @@
   "offset": "1211A",
   "jp": "こういう足場のない、はなれたところへ\n移動するときとかに便利だね",
   "en": "It's perfect for times like this when you\nneed to cross a gap.",
-  "zh": ""
+  "zh": "像这种没有落脚点、要跨越到较远的地方时\n用它就非常方便了呢"
  },
  {
   "id": "MSG/MSG0700/11AA8",
@@ -34134,7 +34134,7 @@
   "offset": "1215C",
   "jp": "フンフン、なるほど・・・\nニンジャの“かぎ縄”みたいなもんだな",
   "en": "Cool... like a Ninja or something!",
-  "zh": ""
+  "zh": "嗯嗯，原来如此……\n就像忍者的“飞爪绳梯”那样吧"
  },
  {
   "id": "MSG/MSG0700/11AA9",
@@ -34143,7 +34143,7 @@
   "offset": "1219C",
   "jp": "で・・・どうやって使えばいいんだ？",
   "en": "So how do I use it?",
-  "zh": ""
+  "zh": "那……这玩意儿要怎么用啊？"
  },
  {
   "id": "MSG/MSG0700/11AAA",
@@ -34152,7 +34152,7 @@
   "offset": "121C0",
   "jp": "えーと、じゃあ説明するね",
   "en": "Allow me to explain.",
-  "zh": ""
+  "zh": "呃，那我来说明一下吧"
  },
  {
   "id": "MSG/MSG0700/11AAB",
@@ -34161,7 +34161,7 @@
   "offset": "121DA",
   "jp": "コホン・・・%J072385",
   "en": "Ahem...%J072385",
-  "zh": ""
+  "zh": "咳哼……%J072385"
  },
  {
   "id": "MSG/MSG0700/11AAD",
@@ -34170,7 +34170,7 @@
   "offset": "121F8",
   "jp": "#CFF697DBEエンチャントワイヤーを、飛ばせる位置まで\n来ると#cｱ#CFF697DBE",
   "en": "Once you're #CFF697DBEclose enough for the Enchant\nWire to work#c...",
-  "zh": ""
+  "zh": "#CFF697DBE只要走到能发射赋法钢索的位置，\n就会#cｱ#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/11AAE",
@@ -34179,7 +34179,7 @@
   "offset": "12258",
   "jp": "#CFF697DBEアイコンが表示されるから、その位置で#c①#CFF697DBEを\n押すか、コントローラを振るんだ",
   "en": "#CFF697DBEAn icon will appear. Then press #c①#CFF697DBE or\nshake the SIXAXIS™ wireless controller.",
-  "zh": ""
+  "zh": "#CFF697DBE显示出图标，这时只要按下#c①#CFF697DBE，\n或者晃动手柄就行了"
  },
  {
   "id": "MSG/MSG0700/11AAF",
@@ -34188,7 +34188,7 @@
   "offset": "122CE",
   "jp": "そうすると、#CFF697DBEエンチャントワイヤーを\n発射して、移動することができる#cんだ",
   "en": "Then,#CFF697DBE fire the Enchant Wire and move across#c.",
-  "zh": ""
+  "zh": "这样一来，就能#CFF697DBE发射赋法钢索，\n完成移动#c了"
  },
  {
   "id": "MSG/MSG0700/11AB0",
@@ -34197,7 +34197,7 @@
   "offset": "1232E",
   "jp": "以上、説明終わり\nわかったかな？%J072370",
   "en": "That's all there is to it. Okay?%J072370",
-  "zh": ""
+  "zh": "以上就是全部说明啦，\n听懂了吗？%J072370"
  },
  {
   "id": "MSG/MSG0700/11AB2",
@@ -34206,7 +34206,7 @@
   "offset": "12360",
   "jp": "おう！%M072375",
   "en": "Yeah!%M072375",
-  "zh": ""
+  "zh": "噢！%M072375"
  },
  {
   "id": "MSG/MSG0700/11AB3",
@@ -34215,7 +34215,7 @@
   "offset": "12378",
   "jp": "ううん・・・？%M072380",
   "en": "Hmmmm... maybe not.%M072380",
-  "zh": ""
+  "zh": "嗯……？%M072380"
  },
  {
   "id": "MSG/MSG0700/11AB7",
@@ -34224,7 +34224,7 @@
   "offset": "12398",
   "jp": "おう！　わかったぜ！",
   "en": "Okay, I got it!",
-  "zh": ""
+  "zh": "哦！我明白了！"
  },
  {
   "id": "MSG/MSG0700/11AB8",
@@ -34233,7 +34233,7 @@
   "offset": "123AE",
   "jp": "#CFF697DBE引っかけたいものの近くで、#c①#CFF697DBEを押すか\nコントローラを振るんだな",
   "en": "#CFF697DBEPress #c①#CFF697DBE or shake the SIXAXIS™ wireless\ncontroller when I'm close to my target!",
-  "zh": ""
+  "zh": "#CFF697DBE在想钩住的目标附近，按下#c①#CFF697DBE或者\n挥动手柄就行了吧"
  },
  {
   "id": "MSG/MSG0700/11ABC",
@@ -34242,7 +34242,7 @@
   "offset": "1241A",
   "jp": "ううん・・・？　えーと・・・？",
   "en": "Hmmmm... maybe not?",
-  "zh": ""
+  "zh": "嗯……？呃……？"
  },
  {
   "id": "MSG/MSG0700/11ABD",
@@ -34251,7 +34251,7 @@
   "offset": "1243A",
   "jp": "はいはい、よくわからなかったんだね\nもう一回、説明するよ%J072363",
   "en": "Okay, then I'll explain it again.%J072363",
-  "zh": ""
+  "zh": "好啦好啦，没听明白对吧。\n那我再解释一次哦%J072363"
  },
  {
   "id": "MSG/MSG0700/11AC1",
@@ -34260,7 +34260,7 @@
   "offset": "12484",
   "jp": "まず、#CFF697DBEエンチャントワイヤーを\n引っかけたいターゲットの近くまでいく#cんだ%J072365",
   "en": "First, #CFF697DBEyou need to get close to the intended\ntarget#c.%J072365",
-  "zh": ""
+  "zh": "首先，#CFF697DBE要走到想用赋法钢丝\n钩住的目标附近才行#c%J072365"
  },
  {
   "id": "MSG/MSG0700/11AD0",
@@ -34269,7 +34269,7 @@
   "offset": "124F4",
   "jp": "あれ、トウヤ？\nこれって、なんだっけ？%J072402",
   "en": "Toya... I know I've seen one of these\nbefore...%J072402",
-  "zh": ""
+  "zh": "咦，托亚？\n这个是什么来着？%J072402"
  },
  {
   "id": "MSG/MSG0700/11AD2",
@@ -34278,7 +34278,7 @@
   "offset": "1252C",
   "jp": "これは、#CFF697DBE“エーテルポッド”",
   "en": "Indeed. It's an #CFF697DBEEther Pod#c.",
-  "zh": ""
+  "zh": "这是#CFF697DBE“以太仓”"
  },
  {
   "id": "MSG/MSG0700/11AD3",
@@ -34287,7 +34287,7 @@
   "offset": "1255C",
   "jp": "大量のエーテルを保持しておける\n素材でつくられた、エーテル備蓄装置だよ",
   "en": "A special storage device that can hold a\nlarge amount of Ether.",
-  "zh": ""
+  "zh": "是用能够储存大量以太的\n材料制成的以太储备装置哦"
  },
  {
   "id": "MSG/MSG0700/11AD4",
@@ -34296,7 +34296,7 @@
   "offset": "125A4",
   "jp": "この装置には、たくさんエーテルが\nたくわえられているってわけ",
   "en": "We should be able to get plenty of Ether\nfrom here.",
-  "zh": ""
+  "zh": "也就是说，这个装置里\n储备着大量的以太呢"
  },
  {
   "id": "MSG/MSG0700/11AD5",
@@ -34305,7 +34305,7 @@
   "offset": "125E2",
   "jp": "あー、そういえば、そんなことを授業で\n習ったかも・・・",
   "en": "I seem to remember learning about this...\nmaybe...",
-  "zh": ""
+  "zh": "啊——说起来，上课的时候\n好像学过这玩意……"
  },
  {
   "id": "MSG/MSG0700/11AD6",
@@ -34314,7 +34314,7 @@
   "offset": "1261A",
   "jp": "なるほど、ここからエーテルを集めて\n行けばいいのか？",
   "en": "Anyway, let's get some Ether!",
-  "zh": ""
+  "zh": "原来如此，只要从这里把以太收集起来\n带走就行了吧？"
  },
  {
   "id": "MSG/MSG0700/11AD7",
@@ -34323,7 +34323,7 @@
   "offset": "12650",
   "jp": "そうそう、アツマは飲み込みがよくって\nうれしいよ",
   "en": "I'm glad you have your priorities straight.",
-  "zh": ""
+  "zh": "对对，阿茨玛你理解得这么快，\n真让人高兴呢"
  },
  {
   "id": "MSG/MSG0700/11AD8",
@@ -34332,7 +34332,7 @@
   "offset": "12682",
   "jp": "でも、どうやってエーテルを移すんだ？",
   "en": "How do we transport Ether, though?",
-  "zh": ""
+  "zh": "可是，要怎么把以太转移过来啊？"
  },
  {
   "id": "MSG/MSG0700/11AD9",
@@ -34341,7 +34341,7 @@
   "offset": "126A8",
   "jp": "これだけの量のエーテルになるとｱ\n%J078002",
   "en": "When dealing with this amount of Ether...%J078002",
-  "zh": ""
+  "zh": "要是这么大量的以太的话……\n%J078002"
  },
  {
   "id": "MSG/MSG0700/11AE4",
@@ -34350,7 +34350,7 @@
   "offset": "126DC",
   "jp": "まったく・・・エンチャンターなら\n基礎の基礎でしょうに",
   "en": "Atsuma... you call yourself an Enchanter!\nThis is the most basic of basics!",
-  "zh": ""
+  "zh": "真是的……作为赋法师，\n这可是基础中的基础吧！"
  },
  {
   "id": "MSG/MSG0700/11AE5",
@@ -34359,7 +34359,7 @@
   "offset": "12714",
   "jp": "こんなことも、できないなんて\nホント役立たずよね、アツマって",
   "en": "You really are a waste of skin if you\ncan't even do this!",
-  "zh": ""
+  "zh": "连这种事都做不到，\n阿茨玛你可真是个派不上用场的废物呢"
  },
  {
   "id": "MSG/MSG0700/11AE6",
@@ -34368,7 +34368,7 @@
   "offset": "12752",
   "jp": "な、なんだよ・・・これくらいオレだって・・・",
   "en": "Hey! I can do it, just you watch!",
-  "zh": ""
+  "zh": "什、什么嘛……这点小事我也能……"
  },
  {
   "id": "MSG/MSG0700/11AE7",
@@ -34377,7 +34377,7 @@
   "offset": "12780",
   "jp": "ちょっと、待って！",
   "en": "Wait!",
-  "zh": ""
+  "zh": "等一下！"
  },
  {
   "id": "MSG/MSG0700/11AE8",
@@ -34386,7 +34386,7 @@
   "offset": "12794",
   "jp": "アツマが、右腕で触ったらポッドが壊れちゃうよ",
   "en": "If you use that right arm of yours, the\nPod will break!",
-  "zh": ""
+  "zh": "要是阿茨玛用右手碰的话，以太仓会坏掉的！"
  },
  {
   "id": "MSG/MSG0700/11AE9",
@@ -34395,7 +34395,7 @@
   "offset": "127C2",
   "jp": "あ・・・！%J078004",
   "en": "Ah...!%J078004",
-  "zh": ""
+  "zh": "啊……！%J078004"
  },
  {
   "id": "MSG/MSG0700/11AF2",
@@ -34404,7 +34404,7 @@
   "offset": "127DE",
   "jp": "えーと・・・エーテルポッドの近くに行くと\nアイコンが表示されるからｱ",
   "en": "When you get close to the Ether Pod,\nan icon will appear.",
-  "zh": ""
+  "zh": "呃……靠近以太仓后\n就会显示出图标……"
  },
  {
   "id": "MSG/MSG0700/11AF3",
@@ -34413,7 +34413,7 @@
   "offset": "12824",
   "jp": "そこで、①を押すと、エーテルを吸収できるよ",
   "en": "When that happens, press ① to absorb the \nEther.",
-  "zh": ""
+  "zh": "到时候只要按下①，就能吸收以太了哦"
  },
  {
   "id": "MSG/MSG0700/11AF4",
@@ -34422,7 +34422,7 @@
   "offset": "12850",
   "jp": "わかった？%J072440",
   "en": "You got that?%J072440",
-  "zh": ""
+  "zh": "明白了吗？%J072440"
  },
  {
   "id": "MSG/MSG0700/11AF8",
@@ -34431,7 +34431,7 @@
   "offset": "1286C",
   "jp": "わかった%M072443",
   "en": "Yep.%M072443",
-  "zh": ""
+  "zh": "明白了%M072443"
  },
  {
   "id": "MSG/MSG0700/11AF9",
@@ -34440,7 +34440,7 @@
   "offset": "12886",
   "jp": "よくわからない%M072446",
   "en": "Not quite...%M072446",
-  "zh": ""
+  "zh": "不太明白%M072446"
  },
  {
   "id": "MSG/MSG0700/11AFB",
@@ -34449,7 +34449,7 @@
   "offset": "128A6",
   "jp": "ああ、わかったぜ%J072445",
   "en": "Yep, no problem.%J072445",
-  "zh": ""
+  "zh": "嗯，我明白了！%J072445"
  },
  {
   "id": "MSG/MSG0700/11AFD",
@@ -34458,7 +34458,7 @@
   "offset": "128C8",
   "jp": "#CFF697DBEエーテルポッドの前で、#c①#CFF697DBEを押せばいいんだな%F",
   "en": "Just #CFF697DBEpress #c①#CFF697DBE in front of the Ether Pod#c.\nNo problem.%F",
-  "zh": ""
+  "zh": "#CFF697DBE只要在以太仓前按下#c①#CFF697DBE就行了吧%F"
  },
  {
   "id": "MSG/MSG0700/11AFE",
@@ -34467,7 +34467,7 @@
   "offset": "12924",
   "jp": "うーん・・・",
   "en": "Not quite...",
-  "zh": ""
+  "zh": "唔……"
  },
  {
   "id": "MSG/MSG0700/11AFF",
@@ -34476,7 +34476,7 @@
   "offset": "12932",
   "jp": "ちょっと、よくわかんなかったんで\nもう一回説明してもらってもいいか？",
   "en": "I kinda blanked out for a moment there.\nCan you explain it again?",
-  "zh": ""
+  "zh": "稍微有点没听懂，\n能麻烦你再给我讲一遍吗？"
  },
  {
   "id": "MSG/MSG0700/11B00",
@@ -34485,7 +34485,7 @@
   "offset": "12978",
   "jp": "了解、もう一回説明するね%J072434",
   "en": "Okay. One more time.%J072434",
-  "zh": ""
+  "zh": "了解，我再说明一次吧%J072434"
  },
  {
   "id": "MSG/MSG0700/11B02",
@@ -34494,7 +34494,7 @@
   "offset": "129A2",
   "jp": "よし・・・じゃあ、さっき言ったようにｱ",
   "en": "Okay, so like you said before...",
-  "zh": ""
+  "zh": "好……那么，就像刚才说的那样"
  },
  {
   "id": "MSG/MSG0700/11B03",
@@ -34503,7 +34503,7 @@
   "offset": "129CA",
   "jp": "ここの注入口に、さっき集めたエーテルを\n込めればいいんだな？",
   "en": "I just need to put the Ether I gathered\nearlier into this device...?",
-  "zh": ""
+  "zh": "只要把刚才收集的以太\n注入这里的注入口就行了吧？"
  },
  {
   "id": "MSG/MSG0700/11B04",
@@ -34512,7 +34512,7 @@
   "offset": "12A08",
   "jp": "おそらく、その通り",
   "en": "I presume so.",
-  "zh": ""
+  "zh": "大概正如你所说"
  },
  {
   "id": "MSG/MSG0700/11B05",
@@ -34521,7 +34521,7 @@
   "offset": "12A1C",
   "jp": "やり方を説明するね",
   "en": "I'll explain how.",
-  "zh": ""
+  "zh": "我来说明一下做法吧"
  },
  {
   "id": "MSG/MSG0700/11B06",
@@ -34530,7 +34530,7 @@
   "offset": "12A30",
   "jp": "コホン・・・",
   "en": "Ahem...",
-  "zh": ""
+  "zh": "咳咳……"
  },
  {
   "id": "MSG/MSG0700/11B07",
@@ -34539,7 +34539,7 @@
   "offset": "12A3E",
   "jp": "#CFF697DBEエーテル注入口に集めたエーテルを\n注入するには#cｱ#CFF697DBE",
   "en": "#CFF697DBETo put the Ether you've collected into the \ndevice...",
-  "zh": ""
+  "zh": "#CFF697DBE若要将收集到的以太注入\n以太注入口#c#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/11B08",
@@ -34548,7 +34548,7 @@
   "offset": "12A9C",
   "jp": "#CFF697DBEエーテル注入口の前で、#c①#CFF697DBEを押せばいいよ",
   "en": "#CFF697DBEStand in front of the Ether input and press\n#c①#CFF697DBE.",
-  "zh": ""
+  "zh": "#CFF697DBE只要在以太注入口前，按下#c①#CFF697DBE就行了"
  },
  {
   "id": "MSG/MSG0700/11B09",
@@ -34557,7 +34557,7 @@
   "offset": "12AF0",
   "jp": "わかったかな？%J072460",
   "en": "Can you handle that?%J072460",
-  "zh": ""
+  "zh": "明白了吗？%J072460"
  },
  {
   "id": "MSG/MSG0700/11B0C",
@@ -34566,7 +34566,7 @@
   "offset": "12B10",
   "jp": "バッチリだ%M072465",
   "en": "Yeah, no problem.%M072465",
-  "zh": ""
+  "zh": "完全明白了%M072465"
  },
  {
   "id": "MSG/MSG0700/11B0D",
@@ -34575,7 +34575,7 @@
   "offset": "12B2C",
   "jp": "よくわからん%M072470",
   "en": "Explain it again...?%M072470",
-  "zh": ""
+  "zh": "不太明白%M072470"
  },
  {
   "id": "MSG/MSG0700/11B11",
@@ -34584,7 +34584,7 @@
   "offset": "12B4A",
   "jp": "バッチリだ、やってみるぜ",
   "en": "Yeah, no problem!",
-  "zh": ""
+  "zh": "完全明白了，我这就试试"
  },
  {
   "id": "MSG/MSG0700/11B16",
@@ -34593,7 +34593,7 @@
   "offset": "12B64",
   "jp": "よくわかんなかったから\nもう一回言ってもらっていいかな？",
   "en": "Explain it again...? ",
-  "zh": ""
+  "zh": "刚才没太听懂\n能麻烦你再说一遍吗？"
  },
  {
   "id": "MSG/MSG0700/11B17",
@@ -34602,7 +34602,7 @@
   "offset": "12B9E",
   "jp": "うん、いいよ%J072454",
   "en": "Yeah, okay.%J072454",
-  "zh": ""
+  "zh": "嗯，可以啊%J072454"
  },
  {
   "id": "MSG/MSG0700/11B34",
@@ -34611,7 +34611,7 @@
   "offset": "12BBC",
   "jp": "よっしゃ、効いてるぞ\nやっぱ、オレたち最強だな",
   "en": "We're winning! We're unstoppable!",
-  "zh": ""
+  "zh": "太好了，见效了！\n我们果然是最强的啊"
  },
  {
   "id": "MSG/MSG0700/11B35",
@@ -34620,7 +34620,7 @@
   "offset": "12BEC",
   "jp": "アンタじゃなくて、トウヤのおかげでしょ！",
   "en": "All thanks to Toya, not you!",
-  "zh": ""
+  "zh": "明明全靠托亚，跟你有什么关系啦！"
  },
  {
   "id": "MSG/MSG0700/11B66",
@@ -34629,7 +34629,7 @@
   "offset": "12C16",
   "jp": "うわ、こいつ強えーな・・・\nオレ、やばいかも",
   "en": "Whoa... this guy is strong!",
-  "zh": ""
+  "zh": "哇，这家伙好强啊……\n我可能要撑不住了"
  },
  {
   "id": "MSG/MSG0700/11B67",
@@ -34638,7 +34638,7 @@
   "offset": "12C44",
   "jp": "アツマ、もうちょっと\nがんばってくれるとうれしいんだけど？",
   "en": "Atsuma, can you try a little harder please?",
-  "zh": ""
+  "zh": "阿茨玛，要是你能再稍微\n加把劲的话，我会很高兴的呢？"
  },
  {
   "id": "MSG/MSG0700/11B68",
@@ -34647,7 +34647,7 @@
   "offset": "12C80",
   "jp": "はっきり言って、足手まといね",
   "en": "What he means is, you're becoming a total \ndrag!",
-  "zh": ""
+  "zh": "说白了，你就是个拖后腿的啦"
  },
  {
   "id": "MSG/MSG0700/11B98",
@@ -34656,7 +34656,7 @@
   "offset": "12C9E",
   "jp": "ふー・・・なんとかやっつけたなー",
   "en": "Phew... we won!",
-  "zh": ""
+  "zh": "呼……总算把它打倒了啊——"
  },
  {
   "id": "MSG/MSG0700/11B99",
@@ -34665,7 +34665,7 @@
   "offset": "12CC0",
   "jp": "すげぇ、強いやつだった",
   "en": "That was a tough battle.",
-  "zh": ""
+  "zh": "真是个超强的家伙"
  },
  {
   "id": "MSG/MSG0700/11B9A",
@@ -34674,7 +34674,7 @@
   "offset": "12CD8",
   "jp": "たぶんこのゴーレムは、ここを守る\nガーディアンだったんだろうね%J072606",
   "en": "That Golem was definitely the guardian\nof this place.%J072606",
-  "zh": ""
+  "zh": "或许这只魔像，就是守护这里的\n守卫吧%J072606"
  },
  {
   "id": "MSG/MSG0700/11B9B",
@@ -34683,7 +34683,7 @@
   "offset": "12D28",
   "jp": "このゴーレムについては、文献で\n読んだことがある",
   "en": "",
-  "zh": ""
+  "zh": "关于这只魔像，我曾经在文献里\n读到过"
  },
  {
   "id": "MSG/MSG0700/11B9C",
@@ -34692,7 +34692,7 @@
   "offset": "12D5A",
   "jp": "本当なら、もっとずっと強いはずだけど\n力が弱まっていた・・・",
   "en": "",
-  "zh": ""
+  "zh": "照理说，原本应该要强得多的\n但它的力量减弱了……"
  },
  {
   "id": "MSG/MSG0700/11B9D",
@@ -34701,7 +34701,7 @@
   "offset": "12D98",
   "jp": "気のせい気のせい\n行こうぜ",
   "en": "",
-  "zh": ""
+  "zh": "错觉啦错觉\n我们走吧"
  },
  {
   "id": "MSG/MSG0700/11B9E",
@@ -34710,7 +34710,7 @@
   "offset": "12DB4",
   "jp": "アツマ、右腕は・・・平気なの？\nさっき・・・",
   "en": "Your arm, Atsuma... Is it okay?",
-  "zh": ""
+  "zh": "阿茨玛，你的右手……没事吗？\n刚才……"
  },
  {
   "id": "MSG/MSG0700/11B9F",
@@ -34719,7 +34719,7 @@
   "offset": "12DE2",
   "jp": "ん？　べつにケガとかしてないぜ",
   "en": "What? I'm not injured. I'm fine.",
-  "zh": ""
+  "zh": "嗯？又没受什么伤"
  },
  {
   "id": "MSG/MSG0700/11BA0",
@@ -34728,7 +34728,7 @@
   "offset": "12E02",
   "jp": "いや、そうじゃなくって・・・",
   "en": "That's not what I meant...",
-  "zh": ""
+  "zh": "不，我不是那个意思……"
  },
  {
   "id": "MSG/MSG0700/11BA1",
@@ -34737,7 +34737,7 @@
   "offset": "12E20",
   "jp": "平気だって言ってんだよ",
   "en": "I'm telling you, I'm fine!",
-  "zh": ""
+  "zh": "我都说了没事啦"
  },
  {
   "id": "MSG/MSG0700/11BA2",
@@ -34746,7 +34746,7 @@
   "offset": "12E38",
   "jp": "いいから、奥へ進もうぜ！\n異変の真相が、わかるかもしれないんだから",
   "en": "Come on! Let's get inside there! We might\nfinally understand what's caused all this!",
-  "zh": ""
+  "zh": "行了，继续往里走吧！\n说不定就能查明这场异变的真相了呢"
  },
  {
   "id": "MSG/MSG0700/11BA3",
@@ -34755,7 +34755,7 @@
   "offset": "12E7C",
   "jp": "・・・わかったよ、行こう",
   "en": "...All right then. Come on.",
-  "zh": ""
+  "zh": "……知道了，走吧"
  },
  {
   "id": "MSG/MSG0700/11BA4",
@@ -34764,7 +34764,7 @@
   "offset": "12E96",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG0700/11BFC",
@@ -34773,7 +34773,7 @@
   "offset": "12EA4",
   "jp": "ひぃ・・・ささささぶいわねぇ・・・ここ",
   "en": "It's c-c-c-c-cold down here!",
-  "zh": ""
+  "zh": "噫……好好好好冷啊……这里"
  },
  {
   "id": "MSG/MSG0700/11BFD",
@@ -34782,7 +34782,7 @@
   "offset": "12ECC",
   "jp": "凍りついてるな・・・\nなんだってんだ、いったい？",
   "en": "Everything's frozen! How could that be?!",
-  "zh": ""
+  "zh": "都结冰了啊……\n到底是怎么回事啊？"
  },
  {
   "id": "MSG/MSG0700/11BFE",
@@ -34791,7 +34791,7 @@
   "offset": "12EFE",
   "jp": "氷・・・",
   "en": "Ice...",
-  "zh": ""
+  "zh": "冰……"
  },
  {
   "id": "MSG/MSG0700/11BFF",
@@ -34800,7 +34800,7 @@
   "offset": "12F08",
   "jp": "古代・・・",
   "en": "Ancients...",
-  "zh": ""
+  "zh": "古代……"
  },
  {
   "id": "MSG/MSG0700/11C00",
@@ -34809,7 +34809,7 @@
   "offset": "12F14",
   "jp": "封印・・・",
   "en": "A seal...",
-  "zh": ""
+  "zh": "封印……"
  },
  {
   "id": "MSG/MSG0700/11C01",
@@ -34818,7 +34818,7 @@
   "offset": "12F20",
   "jp": "ゴーレム・・・",
   "en": "Golems...",
-  "zh": ""
+  "zh": "魔像……"
  },
  {
   "id": "MSG/MSG0700/11C02",
@@ -34827,7 +34827,7 @@
   "offset": "12F30",
   "jp": "ねえ、アツマ\nやっぱり、この先に進むのは・・・",
   "en": "Atsuma, I think maybe we'd better go back.",
-  "zh": ""
+  "zh": "喂，阿茨玛\n果然，再往前走还是……"
  },
  {
   "id": "MSG/MSG0700/11C03",
@@ -34836,7 +34836,7 @@
   "offset": "12F60",
   "jp": "アツマ？%F",
   "en": "Atsuma?%F",
-  "zh": ""
+  "zh": "阿茨玛？%F"
  },
  {
   "id": "MSG/MSG0700/11C04",
@@ -34845,7 +34845,7 @@
   "offset": "12F6E",
   "jp": "我が導きに従い、進め",
   "en": "Follow my command. Advance!",
-  "zh": ""
+  "zh": "遵从吾之指引，前进"
  },
  {
   "id": "MSG/MSG0700/11C05",
@@ -34854,7 +34854,7 @@
   "offset": "12F84",
   "jp": "・・・っ！%F",
   "en": "...!%F",
-  "zh": ""
+  "zh": "……唔！%F"
  },
  {
   "id": "MSG/MSG0700/11C06",
@@ -34863,7 +34863,7 @@
   "offset": "12F94",
   "jp": "アツマ、引き返そう\nきっとどこかに、出口が・・・",
   "en": "Atsuma, let's go back. There must be an\nexit somewhere...",
-  "zh": ""
+  "zh": "阿茨玛，折回去吧\n肯定在什么地方会有出口的……"
  },
  {
   "id": "MSG/MSG0700/11C07",
@@ -34872,7 +34872,7 @@
   "offset": "12FC6",
   "jp": "くどいぞ、トウヤ",
   "en": "No, Toya!",
-  "zh": ""
+  "zh": "你真啰嗦，托亚"
  },
  {
   "id": "MSG/MSG0700/11C08",
@@ -34881,7 +34881,7 @@
   "offset": "12FD8",
   "jp": "ひょっとしたら、シティの異変の原因がわかって\nみんな助かるかもしれないんだ",
   "en": "We might find out what happened to the City!\nWe might be able to save all those people!",
-  "zh": ""
+  "zh": "说不定能查明城市异变的原因，\n大家就能得救了啊"
  },
  {
   "id": "MSG/MSG0700/11C09",
@@ -34890,7 +34890,7 @@
   "offset": "13024",
   "jp": "それに・・・オレの右腕のことだって・・・",
   "en": "We might even learn something about... my\narm...",
-  "zh": ""
+  "zh": "而且……还有关于我的右臂的事……"
  },
  {
   "id": "MSG/MSG0700/11C0A",
@@ -34899,7 +34899,7 @@
   "offset": "1304E",
   "jp": "アツマ・・・",
   "en": "Atsuma...",
-  "zh": ""
+  "zh": "阿茨玛……"
  },
  {
   "id": "MSG/MSG0700/11C0B",
@@ -34908,7 +34908,7 @@
   "offset": "1305C",
   "jp": "トウヤ",
   "en": "Toya.",
-  "zh": ""
+  "zh": "托亚"
  },
  {
   "id": "MSG/MSG0700/11C0C",
@@ -34917,7 +34917,7 @@
   "offset": "13064",
   "jp": "どうせこいつは、殺したって死なないわよ",
   "en": "I think our leader might be right.",
-  "zh": ""
+  "zh": "反正这家伙命硬得很，想死都死不了啦"
  },
  {
   "id": "MSG/MSG0700/11C0D",
@@ -34926,7 +34926,7 @@
   "offset": "1308C",
   "jp": "おうよ！　行こうぜ！",
   "en": "I am! So come on!",
-  "zh": ""
+  "zh": "那当然！走吧！"
  },
  {
   "id": "MSG/MSG0700/11C0E",
@@ -34935,7 +34935,7 @@
   "offset": "130A2",
   "jp": "・・・・・・うん",
   "en": "...Okay.",
-  "zh": ""
+  "zh": "……嗯"
  },
  {
   "id": "MSG/MSG0700/11C2E",
@@ -34944,7 +34944,7 @@
   "offset": "130B4",
   "jp": "あれ？　これも、さっきのやつと同じか？",
   "en": "Hey... Is this the same as before?",
-  "zh": ""
+  "zh": "哎？这个也和刚才那个一样吗？"
  },
  {
   "id": "MSG/MSG0700/11C2F",
@@ -34953,7 +34953,7 @@
   "offset": "130DC",
   "jp": "そうだね、基本原理は同じだね",
   "en": "In principle, yes.",
-  "zh": ""
+  "zh": "是的，基本原理是一样的"
  },
  {
   "id": "MSG/MSG0700/11C30",
@@ -34962,7 +34962,7 @@
   "offset": "130FA",
   "jp": "これは、どうやら上下に動くタイプの\nエンチャントキューブみたいだけど",
   "en": "But this Enchant Cube looks like one that\nmoves up and down.",
-  "zh": ""
+  "zh": "不过这个看起来是上下移动类型的\n赋法方块呢"
  },
  {
   "id": "MSG/MSG0700/11C31",
@@ -34971,7 +34971,7 @@
   "offset": "13140",
   "jp": "ふーん、動かし方は？",
   "en": "So how do we make it move?",
-  "zh": ""
+  "zh": "哼——，那要怎么操作？"
  },
  {
   "id": "MSG/MSG0700/11C32",
@@ -34980,7 +34980,7 @@
   "offset": "13156",
   "jp": "説明するね",
   "en": "I'll explain.",
-  "zh": ""
+  "zh": "我来说明一下吧"
  },
  {
   "id": "MSG/MSG0700/11C33",
@@ -34989,7 +34989,7 @@
   "offset": "13162",
   "jp": "コホン・・・",
   "en": "Ahem...",
-  "zh": ""
+  "zh": "咳咳……"
  },
  {
   "id": "MSG/MSG0700/11C34",
@@ -34998,7 +34998,7 @@
   "offset": "13170",
   "jp": "これも、#CFF697DBE基本的な動かし方は、平行に動く\nタイプと同じ#cだね",
   "en": "This #CFF697DBEmoves in pretty much the same way\nas the horizontal Enchant Cube#c.",
-  "zh": ""
+  "zh": "这个#CFF697DBE基本的操作方法，也和平行移动的\n类型是一样#c的呢"
  },
  {
   "id": "MSG/MSG0700/11C35",
@@ -35007,7 +35007,7 @@
   "offset": "131C2",
   "jp": "#CFF697DBEエンチャントキューブの上に乗って\n#c①#CFF697DBEで起動して#cｱ#CFF697DBE",
   "en": "#CFF697DBEFirst get on the Enchant Cube, then press #c①#CFF697DBE.",
-  "zh": ""
+  "zh": "#CFF697DBE站上赋法方块，\n按#c①#CFF697DBE启动它#cｱ#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/11C36",
@@ -35016,7 +35016,7 @@
   "offset": "13238",
   "jp": "#CFF697DBE起動している状態で#c⑤#CFF697DBEを、上に入れると上に\n下に入れると、下に移動するよ",
   "en": "#CFF697DBENow use #c⑤#CFF697DBE to make the Enchant Cube move up\nor down.",
-  "zh": ""
+  "zh": "#CFF697DBE在启动状态下向上推#c⑤#CFF697DBE就会往上，\n向下推就会往下移动哦"
  },
  {
   "id": "MSG/MSG0700/11C37",
@@ -35025,7 +35025,7 @@
   "offset": "132AC",
   "jp": "以上、説明終わり\nわかった？%J0072765",
   "en": "That's it. Did you get it?%J0072765",
-  "zh": ""
+  "zh": "以上，说明完毕\n听懂了吗？%J0072765"
  },
  {
   "id": "MSG/MSG0700/11C3D",
@@ -35034,7 +35034,7 @@
   "offset": "132DC",
   "jp": "わかった！%M0072770",
   "en": "Yeah!%M0072770",
-  "zh": ""
+  "zh": "懂了！%M0072770"
  },
  {
   "id": "MSG/MSG0700/11C3E",
@@ -35043,7 +35043,7 @@
   "offset": "132FA",
   "jp": "わかんねー！%M0072775",
   "en": "Not really...!%M0072775",
-  "zh": ""
+  "zh": "没搞懂！%M0072775"
  },
  {
   "id": "MSG/MSG0700/11C42",
@@ -35052,7 +35052,7 @@
   "offset": "1331A",
   "jp": "わかった！\nよっしゃ、いっちょ乗ってみるぜ！",
   "en": "Yeah! Let's do it, then!",
-  "zh": ""
+  "zh": "懂了！\n好嘞，那就试着坐一次看看！"
  },
  {
   "id": "MSG/MSG0700/11C47",
@@ -35061,7 +35061,7 @@
   "offset": "13348",
   "jp": "わかんねー！\nもう一回説明してよ",
   "en": "Not really! Run it by me again!",
-  "zh": ""
+  "zh": "没搞懂！\n再跟我解释一遍啦"
  },
  {
   "id": "MSG/MSG0700/11C48",
@@ -35070,7 +35070,7 @@
   "offset": "1336A",
   "jp": "はいはい\n今度はよく聞いてね%J0072755",
   "en": "Okay, okay. Now pay attention.%J0072755",
-  "zh": ""
+  "zh": "好好好\n这次可要仔细听好咯%J0072755"
  },
  {
   "id": "MSG/MSG0700/130B2",
@@ -35079,7 +35079,7 @@
   "offset": "1339A",
   "jp": "普通は、いったん媒介になるようなものに\n移して運ぶんだけど・・・%J072420",
   "en": "The best way is for someone to become a\ntemporary carrier...%J072420",
-  "zh": ""
+  "zh": "通常来说，需要先转移到充当媒介的物体上\n才能运送……%J072420"
  },
  {
   "id": "MSG/MSG0700/130B4",
@@ -35088,7 +35088,7 @@
   "offset": "133EC",
   "jp": "まあ、右腕を使わなければ問題ないだろうけどね",
   "en": "So just don't use your right arm, okay?",
-  "zh": ""
+  "zh": "嘛，只要不用右手的话应该就没问题吧"
  },
  {
   "id": "MSG/MSG0700/130B5",
@@ -35097,7 +35097,7 @@
   "offset": "1341A",
   "jp": "そっか、そうだよな",
   "en": "Yeah, okay.",
-  "zh": ""
+  "zh": "这样啊，也是呢"
  },
  {
   "id": "MSG/MSG0700/130B6",
@@ -35106,7 +35106,7 @@
   "offset": "1342E",
   "jp": "・・・で、どうやってエーテルを集めれば\nいいんだ？%J072434",
   "en": "...So how do I gather the Ether?%J072434",
-  "zh": ""
+  "zh": "……所以，要怎么收集以太\n才好啊？%J072434"
  },
  {
   "id": "MSG/MSG0700/130B8",
@@ -35115,7 +35115,7 @@
   "offset": "13472",
   "jp": "おし、吸収できたぜ！%F",
   "en": "Okay! I absorbed it!%F",
-  "zh": ""
+  "zh": "好嘞，吸收成功了！%F"
  },
  {
   "id": "MSG/MSG0700/130B9",
@@ -35124,7 +35124,7 @@
   "offset": "1348C",
   "jp": "この状態のまま、さっきの仕かけのところに\n行けばいいのか？",
   "en": "",
-  "zh": ""
+  "zh": "只要保持这个状态，去刚才那个机关那里\n就可以了吗？"
  },
  {
   "id": "MSG/MSG0700/130BA",
@@ -35133,7 +35133,7 @@
   "offset": "134C8",
   "jp": "うん、そうだね",
   "en": "",
-  "zh": ""
+  "zh": "嗯，没错"
  },
  {
   "id": "MSG/MSG0700/13308",
@@ -35142,7 +35142,7 @@
   "offset": "134D8",
   "jp": "い、いったい、なんなんだコイツは！？",
   "en": "What's going on here?!",
-  "zh": ""
+  "zh": "这、这家伙到底是什么鬼东西啊！？"
  },
  {
   "id": "MSG/MSG0700/13309",
@@ -35151,7 +35151,7 @@
   "offset": "134FE",
   "jp": "アツマ、気をつけて！\nこいつは、ただのゴーレムじゃない",
   "en": "Watch out, Atsuma! This isn't a regular\nGolem!",
-  "zh": ""
+  "zh": "阿茨玛，小心！\n这家伙可不是普通的魔像"
  },
  {
   "id": "MSG/MSG0700/1330A",
@@ -35160,7 +35160,7 @@
   "offset": "13536",
   "jp": "そそそ、そうね\nなんだか、超ヤバイって感じがするわ",
   "en": "Toya's right! I have a bad feeling...",
-  "zh": ""
+  "zh": "是、是、是啊\n总觉得有种超不妙的预感呢"
  },
  {
   "id": "MSG/MSG0700/1330B",
@@ -35169,7 +35169,7 @@
   "offset": "1356A",
   "jp": "フフフ・・・そうおびえないで",
   "en": "Oh come now, children... don't be scared.",
-  "zh": ""
+  "zh": "呵呵呵……不用这么害怕"
  },
  {
   "id": "MSG/MSG0700/1330C",
@@ -35178,7 +35178,7 @@
   "offset": "13588",
   "jp": "ニンゲンが１０００年の時で\nどれほど成長したのか、見せてちょうだい",
   "en": "Show me how far humans have progressed in\nthe last thousand years!",
-  "zh": ""
+  "zh": "人类在这一千年间\n究竟成长了多少，就让我见识一下吧"
  },
  {
   "id": "MSG/MSG0700/1331C",
@@ -35187,7 +35187,7 @@
   "offset": "135CC",
   "jp": "ククク・・・無駄よ",
   "en": "Ha ha... how futile.",
-  "zh": ""
+  "zh": "呵呵呵……没用的"
  },
  {
   "id": "MSG/MSG0700/1331D",
@@ -35196,7 +35196,7 @@
   "offset": "135E0",
   "jp": "アナタたちには私を倒すことはできない",
   "en": "You can't defeat me!",
-  "zh": ""
+  "zh": "凭你们是不可能打倒我的"
  },
  {
   "id": "MSG/MSG0700/1331E",
@@ -35205,7 +35205,7 @@
   "offset": "13606",
   "jp": "なんだ、いまの？\n勝手に回復しやがったぞ",
   "en": "What just happened?! She... healed herself?!",
-  "zh": ""
+  "zh": "搞什么，刚才那是？\n居然擅自恢复了啊"
  },
  {
   "id": "MSG/MSG0700/1331F",
@@ -35214,7 +35214,7 @@
   "offset": "13630",
   "jp": "体を再構築する能力・・・！？\nまさか、このゴーレムは！",
   "en": "The power to regenerate her own body... How \ncan that be?!",
-  "zh": ""
+  "zh": "重构身体的能力……！？\n难道说，这尊魔像是！"
  },
  {
   "id": "MSG/MSG0700/13320",
@@ -35223,7 +35223,7 @@
   "offset": "13668",
   "jp": "体を再構築？\nそんなの、どうやって倒せばいいのよぅ！？",
   "en": "Regeneration?! So how can we beat her?!",
-  "zh": ""
+  "zh": "重构身体？\n那种东西，到底要怎么打倒才好啊！？"
  },
  {
   "id": "MSG/MSG0700/13330",
@@ -35232,7 +35232,7 @@
   "offset": "136A0",
   "jp": "よくがんばったわね、ボウヤたち",
   "en": "You've done well, children.",
-  "zh": ""
+  "zh": "表现得不错嘛，小男孩们"
  },
  {
   "id": "MSG/MSG0700/13331",
@@ -35241,7 +35241,7 @@
   "offset": "136C0",
   "jp": "けれど、もうそろそろ幕引きよ",
   "en": "But it is time to bring the festivities\nto a close.",
-  "zh": ""
+  "zh": "不过，也差不多该谢幕了"
  },
  {
   "id": "MSG/MSG0700/13332",
@@ -35250,7 +35250,7 @@
   "offset": "136DE",
   "jp": "余裕があれば、もう少し遊んであげても\n良かったのだけど",
   "en": "I would like to play with you a little more,\nbut I have... little time, right now.",
-  "zh": ""
+  "zh": "如果有闲裕的话，多陪你们玩一会儿\n倒也不错呢"
  },
  {
   "id": "MSG/MSG0700/13333",
@@ -35259,7 +35259,7 @@
   "offset": "13716",
   "jp": "く・・・うるせぇ・・・\nこのクソゴーレムが・・・",
   "en": "Ha... Like that's going to stop us!",
-  "zh": ""
+  "zh": "呃……吵死了……\n你这破烂魔像……"
  },
  {
   "id": "MSG/MSG0700/13334",
@@ -35268,7 +35268,7 @@
   "offset": "13748",
   "jp": "お前なんかに、負けるか・・・",
   "en": "You can't defeat us...!",
-  "zh": ""
+  "zh": "怎么可能会输给……你这种家伙……"
  },
  {
   "id": "MSG/MSG0700/13335",
@@ -35277,7 +35277,7 @@
   "offset": "13766",
   "jp": "・・・ぐっ！！",
   "en": "...Guaha!!",
-  "zh": ""
+  "zh": "……呃啊！！"
  },
  {
   "id": "MSG/MSG0700/13336",
@@ -35286,7 +35286,7 @@
   "offset": "13776",
   "jp": "あ、アツマ！？",
   "en": "A... Atsuma?!",
-  "zh": ""
+  "zh": "阿、阿茨玛！？"
  },
  {
   "id": "MSG/MSG0700/13344",
@@ -35295,7 +35295,7 @@
   "offset": "13786",
   "jp": "テメエ、絶対ぶっつぶす！",
   "en": "I'm going to smash you into pieces!",
-  "zh": ""
+  "zh": "混账，我绝对要把你砸个稀烂！"
  },
  {
   "id": "MSG/MSG0700/13345",
@@ -35304,7 +35304,7 @@
   "offset": "137A0",
   "jp": "フフ・・・どうやら、やっと覚醒したのね\nお寝坊さんね",
   "en": "Oh... so you've finally woken up.",
-  "zh": ""
+  "zh": "呵呵……看来你总算是觉醒了呢。\n真是个贪睡的家伙。"
  },
  {
   "id": "MSG/MSG0700/13346",
@@ -35313,7 +35313,7 @@
   "offset": "137D6",
   "jp": "けれど、いまはアナタではなくて\nアナタのお友達に用ができたの%J078664",
   "en": "I can't indulge you right now, though... I'm\ntoo busy with your little friend.%J078664",
-  "zh": ""
+  "zh": "不过，我现在找的不是你，\n而是你的那位小朋友呢%J078664"
  },
  {
   "id": "MSG/MSG0700/13347",
@@ -35322,7 +35322,7 @@
   "offset": "13824",
   "jp": "ちょうどいい私の魔導器になってくれそう\nなんだもの",
   "en": "",
-  "zh": ""
+  "zh": "因为他看起来正好适合做我的魔导器\n呢。"
  },
  {
   "id": "MSG/MSG0700/13348",
@@ -35331,7 +35331,7 @@
   "offset": "13858",
   "jp": "だからアナタの出番は、まだずっと先\n出る幕じゃないわ、どいてくれるかしら？",
   "en": "Your part to play comes a lot later, okay?\nNow out of my way!",
-  "zh": ""
+  "zh": "所以你的出场还早得很呢。\n还没轮到你登场，能麻烦你让开吗？"
  },
  {
   "id": "MSG/MSG0700/13349",
@@ -35340,7 +35340,7 @@
   "offset": "138A4",
   "jp": "うるせぇ！",
   "en": "Shut up!",
-  "zh": ""
+  "zh": "少啰嗦！"
  },
  {
   "id": "MSG/MSG0700/1334A",
@@ -35349,7 +35349,7 @@
   "offset": "138B0",
   "jp": "絶対、ぶっつぶすって言ってんだろ！！",
   "en": "I told you... I'm going to smash you! ",
-  "zh": ""
+  "zh": "老子说了，绝对要把你砸个稀烂！！"
  },
  {
   "id": "MSG/MSG0700/13358",
@@ -35358,7 +35358,7 @@
   "offset": "138D6",
   "jp": "その右腕・・・私の再構築を阻害しているのね？",
   "en": "That arm of yours... It's blocking my\nregeneration, isn't it?",
-  "zh": ""
+  "zh": "那条右臂……在阻碍我的再构建是吧？"
  },
  {
   "id": "MSG/MSG0700/13359",
@@ -35367,7 +35367,7 @@
   "offset": "13904",
   "jp": "“無効化”能力・・・というわけね",
   "en": "The power to \"negate\", is it...",
-  "zh": ""
+  "zh": "也就是说……是“无效化”能力吗。"
  },
  {
   "id": "MSG/MSG0700/1335A",
@@ -35376,7 +35376,7 @@
   "offset": "13926",
   "jp": "フフ・・・どうやらアタリのようね%F",
   "en": "Looks like you're the one for me, then...%F",
-  "zh": ""
+  "zh": "呵呵……看来是中头彩了呢%F"
  },
  {
   "id": "MSG/MSG0700/1335B",
@@ -35385,7 +35385,7 @@
   "offset": "1394C",
   "jp": "その右腕との共鳴が、私の戒めを解いて\nくれたのね%F",
   "en": "%F",
-  "zh": ""
+  "zh": "正是与那条右臂的共鸣，解开了我身上的\n束缚呢%F"
  },
  {
   "id": "MSG/MSG0700/1336C",
@@ -35394,7 +35394,7 @@
   "offset": "13982",
   "jp": "く・・・",
   "en": "Kuh...",
-  "zh": ""
+  "zh": "咕……"
  },
  {
   "id": "MSG/MSG0700/1336D",
@@ -35403,7 +35403,7 @@
   "offset": "1398C",
   "jp": "さすがに、やるわね",
   "en": "Impressive, I admit.",
-  "zh": ""
+  "zh": "真不愧是你，挺能干的嘛。"
  },
  {
   "id": "MSG/MSG0700/1336E",
@@ -35412,7 +35412,7 @@
   "offset": "139A0",
   "jp": "けれどその力、長続きするかしら？",
   "en": "But how long can you maintain this?",
-  "zh": ""
+  "zh": "但是那份力量，又能维持多久呢？"
  },
  {
   "id": "MSG/MSG0700/1336F",
@@ -35421,7 +35421,7 @@
   "offset": "139C2",
   "jp": "ククク・・・",
   "en": "Ha ha ha...",
-  "zh": ""
+  "zh": "库库库……"
  },
  {
   "id": "MSG/MSG0700/13370",
@@ -35430,7 +35430,7 @@
   "offset": "139D0",
   "jp": "アナタの右腕は、まだ目覚めたばかりなのよ？",
   "en": "Your right arm has only just awoken,\nhasn't it?",
-  "zh": ""
+  "zh": "你的右臂，才不过刚刚觉醒而已哦？"
  },
  {
   "id": "MSG/MSG0700/13371",
@@ -35439,7 +35439,7 @@
   "offset": "139FC",
   "jp": "べらべらべら、うるっせーんだよ！",
   "en": "Shut up! Stop flapping your lips, Golem!",
-  "zh": ""
+  "zh": "唧唧歪歪的，吵死人啦！"
  },
  {
   "id": "MSG/MSG0700/13372",
@@ -35448,7 +35448,7 @@
   "offset": "13A1E",
   "jp": "こなごなに、破壊してやる！%F",
   "en": "I'm going to grind you into powder!%F",
-  "zh": ""
+  "zh": "我要把你彻底粉碎！%F"
  },
  {
   "id": "MSG/MSG0700/13373",
@@ -35457,7 +35457,7 @@
   "offset": "13A3E",
   "jp": "そんで・・・%F",
   "en": "%F",
-  "zh": ""
+  "zh": "然后……%F"
  },
  {
   "id": "MSG/MSG0700/13374",
@@ -35466,7 +35466,7 @@
   "offset": "13A50",
   "jp": "トウヤを助ける！！%F",
   "en": "%F",
-  "zh": ""
+  "zh": "把托亚救出来！！%F"
  },
  {
   "id": "MSG/MSG0700/13380",
@@ -35475,7 +35475,7 @@
   "offset": "13A68",
   "jp": "なんだぁ？　こいつは？",
   "en": "Hey... what's this Golem doing here?",
-  "zh": ""
+  "zh": "搞什么啊？这家伙是？"
  },
  {
   "id": "MSG/MSG0700/13381",
@@ -35484,7 +35484,7 @@
   "offset": "13A80",
   "jp": "ボクの記憶が確かならばｱ",
   "en": "If I recall correctly...",
-  "zh": ""
+  "zh": "如果我没记错的话——"
  },
  {
   "id": "MSG/MSG0700/13382",
@@ -35493,7 +35493,7 @@
   "offset": "13A9A",
   "jp": "これは、#CFF697DBEはぐれゴーレム#cだね",
   "en": "This is a #CFF697DBElost Golem#c.",
-  "zh": ""
+  "zh": "这是#CFF697DBE流浪魔像#c呢。"
  },
  {
   "id": "MSG/MSG0700/13383",
@@ -35502,7 +35502,7 @@
   "offset": "13ACE",
   "jp": "はぐれゴーレム？",
   "en": "A lost Golem?",
-  "zh": ""
+  "zh": "流浪魔像？"
  },
  {
   "id": "MSG/MSG0700/13384",
@@ -35511,7 +35511,7 @@
   "offset": "13AE0",
   "jp": "コホン・・・",
   "en": "Ahem...",
-  "zh": ""
+  "zh": "咳咳……"
  },
  {
   "id": "MSG/MSG0700/13385",
@@ -35520,7 +35520,7 @@
   "offset": "13AEE",
   "jp": "はぐれゴーレムとは\n主人をなくしたゴーレムたちのことさ%J078727",
   "en": "Lost Golems are Golems who have lost their\nmasters.%J078727",
-  "zh": ""
+  "zh": "所谓流浪魔像，\n就是指那些失去了主人的魔像们%J078727"
  },
  {
   "id": "MSG/MSG0700/13386",
@@ -35529,7 +35529,7 @@
   "offset": "13B36",
   "jp": "#CFF697DBEゴーレムの前で、#c①#CFF697DBEボタンを押せば\n戦いを挑むことができるよ",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE在魔像面前按下#c①#CFF697DBE键，\n就可以向它发起挑战哦。"
  },
  {
   "id": "MSG/MSG0700/13387",
@@ -35538,7 +35538,7 @@
   "offset": "13B9E",
   "jp": "彼らとの#CFF697DBE戦闘に勝利したら、倒したゴーレムの\nコアマテリアルを手に入れることができる#cんだ",
   "en": "#CFF697DBEIf we defeat them in battle, we can obtain\ntheir Core Material#c.",
-  "zh": ""
+  "zh": "只要在与它们的#CFF697DBE战斗中获胜，就能获得被打倒魔像的\n核心素材#c了。"
  },
  {
   "id": "MSG/MSG0700/13388",
@@ -35547,7 +35547,7 @@
   "offset": "13C0E",
   "jp": "うおっ、それはうれしいな！",
   "en": "Hey, cool! Sounds like a good idea!",
-  "zh": ""
+  "zh": "喔，那敢情好啊！"
  },
  {
   "id": "MSG/MSG0700/13389",
@@ -35556,7 +35556,7 @@
   "offset": "13C2A",
   "jp": "#CFF697DBEはぐれゴーレムは、世界のあちこちにいる\nらしいから#cｱ#CFF697DBE",
   "en": "There are probably #CFF697DBElost Golems in every \ncorner of the world#c...",
-  "zh": ""
+  "zh": "#CFF697DBE听说流浪魔像遍布世界各地，\n所以#c啊#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/1338A",
@@ -35565,7 +35565,7 @@
   "offset": "13C8C",
   "jp": "積極的に探してみるといいと思うよ%F",
   "en": "Keep an eye out for them.%F",
-  "zh": ""
+  "zh": "我觉得积极去找找看比较好哦%F"
  },
  {
   "id": "MSG/MSG0700/1338B",
@@ -35574,7 +35574,7 @@
   "offset": "13CB2",
   "jp": "以上、説明終わり\nわかった？",
   "en": "",
-  "zh": ""
+  "zh": "以上，说明完毕。\n听懂了吗？"
  },
  {
   "id": "MSG/MSG0700/1338C",
@@ -35583,7 +35583,7 @@
   "offset": "13CD0",
   "jp": "バッチリ！%M078800",
   "en": "%M078800",
-  "zh": ""
+  "zh": "完全明白了！%M078800"
  },
  {
   "id": "MSG/MSG0700/1338D",
@@ -35592,7 +35592,7 @@
   "offset": "13CEC",
   "jp": "よくわからなかった%M078810",
   "en": "%M078810",
-  "zh": ""
+  "zh": "没太听懂%M078810"
  },
  {
   "id": "MSG/MSG0700/13394",
@@ -35601,7 +35601,7 @@
   "offset": "13D10",
   "jp": "フフ・・・",
   "en": "Oh...",
-  "zh": ""
+  "zh": "呵呵……"
  },
  {
   "id": "MSG/MSG0700/13395",
@@ -35610,7 +35610,7 @@
   "offset": "13D1C",
   "jp": "１０００年経ってもニンゲンなど\nやはり、この程度のものか",
   "en": "A thousand years is a long time... And this\nis all humans have to offer?",
-  "zh": ""
+  "zh": "就算过了1000年，人类这种东西\n果然也只有这种程度吗。"
  },
  {
   "id": "MSG/MSG0700/13396",
@@ -35619,7 +35619,7 @@
   "offset": "13D56",
   "jp": "悪いけれどｱ",
   "en": "I'm sorry, but...",
-  "zh": ""
+  "zh": "虽然很抱歉——"
  },
  {
   "id": "MSG/MSG0700/13397",
@@ -35628,7 +35628,7 @@
   "offset": "13D64",
   "jp": "時間もないから、そろそろカタを\nつけさせてもらうわね",
   "en": "I don't have time for this. Prepare to die!",
-  "zh": ""
+  "zh": "但我没时间了，差不多也该\n送你上路了呢。"
  },
  {
   "id": "MSG/MSG0700/13398",
@@ -35637,7 +35637,7 @@
   "offset": "13D9A",
   "jp": "１０００年・・・？",
   "en": "A thousand years...?",
-  "zh": ""
+  "zh": "1000年……？"
  },
  {
   "id": "MSG/MSG0700/13399",
@@ -35646,7 +35646,7 @@
   "offset": "13DAE",
   "jp": "やはり、こいつは・・・！",
   "en": "So you are...!",
-  "zh": ""
+  "zh": "难道说，这家伙是……！"
  },
  {
   "id": "MSG/MSG0700/133D0",
@@ -35655,7 +35655,7 @@
   "offset": "13DC8",
   "jp": "バッチリだぜ！",
   "en": "",
-  "zh": ""
+  "zh": "完全明白了！"
  },
  {
   "id": "MSG/MSG0700/133D1",
@@ -35664,7 +35664,7 @@
   "offset": "13DD8",
   "jp": "#CFF697DBEゴーレムの前で、#c①#CFF697DBEボタンを押せば戦闘開始",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE在魔像面前按#c①#CFF697DBE键就能开始战斗。"
  },
  {
   "id": "MSG/MSG0700/133D2",
@@ -35673,7 +35673,7 @@
   "offset": "13E2E",
   "jp": "#CFF697DBE倒したら、倒したやつのコアマテリアルが\nゲットできる#cってわけだな！",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE只要打倒它，就能获得被打倒那家伙的\n核心素材#c对吧！"
  },
  {
   "id": "MSG/MSG0700/133DA",
@@ -35682,7 +35682,7 @@
   "offset": "13E8A",
   "jp": "わりぃ、よくわかんなかった",
   "en": "",
-  "zh": ""
+  "zh": "抱歉，我没太听懂。"
  },
  {
   "id": "MSG/MSG0700/133DB",
@@ -35691,7 +35691,7 @@
   "offset": "13EA6",
   "jp": "やれやれ・・・\n仕方ないな、もう一度説明するよ%J078724",
   "en": "%J078724",
-  "zh": ""
+  "zh": "哎呀哎呀……\n真拿你没办法，那我再说明一次吧。%J078724"
  },
  {
   "id": "MSG/MSG0700/133E4",
@@ -35700,7 +35700,7 @@
   "offset": "13EE6",
   "jp": "・・・もう操作してあるか・・・\n意味ないじゃん",
   "en": "...It's already activated...\nThere's no point in doing that.",
-  "zh": ""
+  "zh": "……已经操作过了吗……\n那根本毫无意义嘛。"
  },
  {
   "id": "MSG/MSG0700/13498",
@@ -35709,7 +35709,7 @@
   "offset": "13F16",
   "jp": "＜戦闘の流れについて＞\n\n戦闘は、『ターン』と呼ばれる\n以下のサイクルを繰り返すことで進行します\n\n１．各キャラクターのコマンド選択\n２．先攻パーティの行動\n３．後攻パーティの行動\n\n戦闘の#CFF3366FF勝利条件#cは、\n#CFF3366FF“すべての敵のＨＰを０にすること”#c、\n#CFF3366FF敗北条件#cは、\n#CFF3366FF“味方全員のＨＰが０になること”#cです",
   "en": "",
-  "zh": ""
+  "zh": "＜关于战斗流程＞\n\n战斗将通过重复以下称为“回合”的\n周期来进行。\n\n１．各角色选择指令\n２．先攻队伍行动\n３．后攻队伍行动\n\n战斗的#CFF3366FF胜利条件#c为\n#CFF3366FF“所有敌人的ＨＰ归０”#c，\n#CFF3366FF败北条件#c为\n#CFF3366FF“我方全员的ＨＰ归０”#c。"
  },
  {
   "id": "MSG/MSG0700/13499",
@@ -35718,7 +35718,7 @@
   "offset": "1409C",
   "jp": "＜コマンド選択について＞\n\nコマンド選択は以下の手順で行います\n\n１．操作キャラクターの選択\n２．移動先の選択\n３．使用するスキルの選択\n\n\n全て⑤で選択し、\n①を押すことで決定します",
   "en": "",
-  "zh": ""
+  "zh": "＜关于指令选择＞\n\n指令选择按以下步骤进行：\n\n１．选择操作角色\n２．选择移动目标位置\n３．选择使用的技能\n\n全部使用⑤进行选择，\n按下①决定。"
  },
  {
   "id": "MSG/MSG0700/1349A",
@@ -35727,7 +35727,7 @@
   "offset": "14156",
   "jp": "＜スキルについて＞\n\n#CFF3366FF『スキル』#cには攻撃、回復など、様々な種類があります\n\nスキルは、使用することで\n#CFF3366FF『ＥＰ』（エーテル・ポイント）#cを消費します\n\nただし、ＥＰは、毎ターン一定量ずつ回復していきます\n\nまた、#CFF3366FF『エクストラスキル』#cと呼ばれる\n強力なスキルもあります\nエクストラスキルは、#CFF3366FF『ＥＸゲージ』#cを\n消費することで使用できます",
   "en": "",
-  "zh": ""
+  "zh": "＜关于技能＞\n\n#CFF3366FF『技能』#c包含攻击、恢复等多种类型。\n\n使用技能会消耗\n#CFF3366FF『ＥＰ』（以太点数）#c。\n\n不过，ＥＰ每回合都会恢复一定量。\n\n此外，还有被称为#CFF3366FF『额外技能』#c的\n强力技能。\n额外技能可以通过消耗#CFF3366FF『ＥＸ槽』#c来使用。"
  },
  {
   "id": "MSG/MSG0700/1349B",
@@ -35736,7 +35736,7 @@
   "offset": "14300",
   "jp": "＜ダメージボーナスについて＞\n\nスキルには#CFF3366FF『属性』#cがあります\nスキル名の左にアイコンで表示されています\n\n同じように、敵や味方キャラクター自身にも\n『属性』があります\n\nキャラクター名の横に表示されている属性と\n同じ属性のスキルで攻撃すると、ダメージがアップします\n\nまた、複数の味方で、連続で同じ敵を狙うと\n#CFF3366FF『ボーナスダメージ』#cが発生します",
   "en": "",
-  "zh": ""
+  "zh": "＜关于伤害加成＞\n\n技能具有#CFF3366FF『属性』#c。\n会以图标显示在技能名称的左侧。\n\n同样地，敌我双方角色自身\n也具有『属性』。\n\n使用与角色名旁显示的属性\n相同属性的技能进行攻击时，伤害会提升。\n\n此外，多名同伴连续攻击同一敌人时，\n会产生#CFF3366FF『加成伤害』#c。"
  },
  {
   "id": "MSG/MSG0700/1368C",
@@ -35745,7 +35745,7 @@
   "offset": "14488",
   "jp": "ちょっと待って、アツマ",
   "en": "Wait up, Atsuma.",
-  "zh": ""
+  "zh": "等一下，阿茨玛。"
  },
  {
   "id": "MSG/MSG0700/1368D",
@@ -35754,7 +35754,7 @@
   "offset": "144A0",
   "jp": "ん？　どうしたんだトウヤ？",
   "en": "Yeah? What's up Toya?",
-  "zh": ""
+  "zh": "嗯？怎么了，托亚？"
  },
  {
   "id": "MSG/MSG0700/1368E",
@@ -35763,7 +35763,7 @@
   "offset": "144BC",
   "jp": "さっきも言った通り、この先は危険そうだから\n戦闘の準備を整えた方がいいかもね",
   "en": "Like I said, it could be dangerous up ahead.\nAre you all ready for battle?",
-  "zh": ""
+  "zh": "正如我刚才所说，前面看起来很危险，\n最好还是做好战斗准备比较好呢。"
  },
  {
   "id": "MSG/MSG0700/1368F",
@@ -35772,7 +35772,7 @@
   "offset": "1450A",
   "jp": "ＥＸを使えば強い敵にも\n対抗できるはずだよ",
   "en": "Using EX attacks should allow us to take\ndown even really powerful enemies.",
-  "zh": ""
+  "zh": "使用ＥＸ的话，就算是强敌\n应该也能对抗才对。"
  },
  {
   "id": "MSG/MSG0700/13690",
@@ -35781,7 +35781,7 @@
   "offset": "14536",
   "jp": "ＥＸを使うための\nＥＸゲージは充分に溜まっているかい？",
   "en": "But the EX gauge needs to be full before\nan EX can be used.",
-  "zh": ""
+  "zh": "用来施展ＥＸ的\nＥＸ槽攒得足够充分了吗？"
  },
  {
   "id": "MSG/MSG0700/13691",
@@ -35790,7 +35790,7 @@
   "offset": "1456E",
   "jp": "ボクの記憶が確かならばｱ",
   "en": "If I recall correctly...",
-  "zh": ""
+  "zh": "如果我的记忆没出错的话——"
  },
  {
   "id": "MSG/MSG0700/13692",
@@ -35799,7 +35799,7 @@
   "offset": "14588",
   "jp": "ＥＸゲージは、#CFF697DBE“エンチャントダンス”#cを踊れば\n戦闘中以外でも溜めることができるんだ",
   "en": "You can charge the EX gauge outside of\ncombat using the \"#CFF697DBEEnchant Dance#c.\"",
-  "zh": ""
+  "zh": "只要跳起#CFF697DBE“赋法之舞”#c，\n即使在非战斗状态下也是能积攒ＥＸ槽的哦。"
  },
  {
   "id": "MSG/MSG0700/13693",
@@ -35808,7 +35808,7 @@
   "offset": "145F4",
   "jp": "エンチャントダンス？",
   "en": "Enchant Dance...?",
-  "zh": ""
+  "zh": "赋法之舞？"
  },
  {
   "id": "MSG/MSG0700/13694",
@@ -35817,7 +35817,7 @@
   "offset": "1460A",
   "jp": "学園の名物ダンスよ\nほらぁ、学園祭の時にみんなで踊ったじゃない",
   "en": "That special dance we learned in class! We\ndid it at the School Festival, remember?",
-  "zh": ""
+  "zh": "就是学园的招牌舞蹈啦。\n你看，学园祭的时候大家不是一起跳过嘛。"
  },
  {
   "id": "MSG/MSG0700/13695",
@@ -35826,7 +35826,7 @@
   "offset": "1464A",
   "jp": "ああ！　あれか！　覚えてる覚えてる！\n踊るの大、大、大好きだぜ！",
   "en": "Right! Right, of course! I remember!\nI love, love, love to dance!",
-  "zh": ""
+  "zh": "啊！那个啊！记得记得！\n我最、最、最喜欢跳舞了！"
  },
  {
   "id": "MSG/MSG0700/13696",
@@ -35835,7 +35835,7 @@
   "offset": "1468C",
   "jp": "あぁ～～っ！　ダメだ！　考えただけで\nムチャクチャ踊りたい気分になってきた！",
   "en": "Wow, just thinking about it makes me want to\nhit the dance floor and shake my stuff!",
-  "zh": ""
+  "zh": "啊啊～～！不行了！光是想想\n就超级想跳舞啊！"
  },
  {
   "id": "MSG/MSG0700/13697",
@@ -35844,7 +35844,7 @@
   "offset": "146DA",
   "jp": "よし！　踊る！",
   "en": "C'mon! Let's lay down some moves!",
-  "zh": ""
+  "zh": "好！跳舞！"
  },
  {
   "id": "MSG/MSG0700/13698",
@@ -35853,7 +35853,7 @@
   "offset": "146EA",
   "jp": "オレは踊るぞ！\n",
   "en": "I'm gonna dance!",
-  "zh": ""
+  "zh": "我要跳舞了！"
  },
  {
   "id": "MSG/MSG0700/13699",
@@ -35862,7 +35862,7 @@
   "offset": "146FC",
   "jp": "今すぐ踊る！",
   "en": "Right now, dance!",
-  "zh": ""
+  "zh": "现在马上就跳！"
  },
  {
   "id": "MSG/MSG0700/1369A",
@@ -35871,7 +35871,7 @@
   "offset": "1470A",
   "jp": "・・・って、アレ？\nどうやって踊るんだっけ？",
   "en": "...Hold on.\nHow does it go again...?",
-  "zh": ""
+  "zh": "……等等，咦？\n到底是该怎么跳来着？"
  },
  {
   "id": "MSG/MSG0700/1369B",
@@ -35880,7 +35880,7 @@
   "offset": "14738",
   "jp": "えーと、じゃあ説明するね",
   "en": "OK, I'll explain.",
-  "zh": ""
+  "zh": "呃，那我就来解释一下吧"
  },
  {
   "id": "MSG/MSG0700/1369C",
@@ -35889,7 +35889,7 @@
   "offset": "14752",
   "jp": "コホン・・・",
   "en": "Ahem...",
-  "zh": ""
+  "zh": "咳咳……"
  },
  {
   "id": "MSG/MSG0700/1369D",
@@ -35898,7 +35898,7 @@
   "offset": "14760",
   "jp": "エンチャントダンスは\nいつでもどこでも踊ることができるんだ",
   "en": "You can perform the Enchant Dance pretty\nmuch anytime, anywhere.",
-  "zh": ""
+  "zh": "赋法之舞\n是随时随地都可以跳的哦"
  },
  {
   "id": "MSG/MSG0700/1369E",
@@ -35907,7 +35907,7 @@
   "offset": "1479C",
   "jp": "ただし、はしごを昇り降りしている時や\nキューブに乗っている時なんかはｱ\n",
   "en": "But when you're climbing a ladder or\nriding on an Enchant Cube…",
-  "zh": ""
+  "zh": "不过，在爬梯子或者\n乘坐在方块上的时候ｱ"
  },
  {
   "id": "MSG/MSG0700/1369F",
@@ -35916,7 +35916,7 @@
   "offset": "147E6",
   "jp": "足場が不安定だから、当然ダンスはできないね",
   "en": "It goes without saying that you don't\nhave the footing to start dancing.",
-  "zh": ""
+  "zh": "因为立足点不稳定，自然是没法跳舞的呢"
  },
  {
   "id": "MSG/MSG0700/136A0",
@@ -35925,7 +35925,7 @@
   "offset": "14812",
   "jp": "踊りたい気分になったら\n#CFF697DBE立ち止まった状態から#cｱ#CFF697DBE",
   "en": "If you feel like dancing,\nfirst #CFF697DBEyou must stop moving.",
-  "zh": ""
+  "zh": "如果想要跳舞的话\n#CFF697DBE先在静止停步的状态下#cｱ#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/136A1",
@@ -35934,7 +35934,7 @@
   "offset": "1486E",
   "jp": "#CFF697DBEまず#c⑫#CFF697DBEボタンを押して\n“ダンス待機状態”にする#cんだ",
   "en": "Then #CFF697DBEpress the #c⑫#CFF697DBE button to enter\n\"Dance Ready Mode.\"",
-  "zh": ""
+  "zh": "#CFF697DBE按下#c⑫#CFF697DBE键\n进入“跳舞待机状态”#c"
  },
  {
   "id": "MSG/MSG0700/136A2",
@@ -35943,7 +35943,7 @@
   "offset": "148D2",
   "jp": "これで準備ＯＫ！　あとは魂の感じるままに\n#CFF697DBEコントローラを振る#cんだ",
   "en": "Now you're ready to get down!\nShake the SIXAXIS™ wireless controller!",
-  "zh": ""
+  "zh": "这样就准备OK！接下来只要随心所欲\n#CFF697DBE晃动手柄#c就行了"
  },
  {
   "id": "MSG/MSG0700/136A3",
@@ -35952,7 +35952,7 @@
   "offset": "1492C",
   "jp": "#CFF697DBEたくさん振れば振るほど\nＥＸゲージが大きく回復する#cはずだよ",
   "en": "#CFF697DBEThe more you shake it, the more your EX\ngauge will recover#c!",
-  "zh": ""
+  "zh": "#CFF697DBE晃动的次数越多\nEX槽应该就能大幅回复#c哦"
  },
  {
   "id": "MSG/MSG0700/136A4",
@@ -35961,7 +35961,7 @@
   "offset": "14980",
   "jp": "つまり、わざわざ必要以上に\n大きく振るよりはｱ",
   "en": "In other words, rather than large or\nexaggerated shakes...",
-  "zh": ""
+  "zh": "也就是说，比起特意大开大合\n用力猛晃ｱ"
  },
  {
   "id": "MSG/MSG0700/136A5",
@@ -35970,7 +35970,7 @@
   "offset": "149B0",
   "jp": "#CFF697DBE小さく振って、回数をたくさん稼ぐ#c方が\n賢い選択ってことだね",
   "en": "You might want to #CFF697DBEtry small, quick\nand rapid shakes for better results.",
-  "zh": ""
+  "zh": "#CFF697DBE小幅度晃动来增加晃动次数#c\n才是更聪明的选择呢"
  },
  {
   "id": "MSG/MSG0700/136A6",
@@ -35979,7 +35979,7 @@
   "offset": "14A04",
   "jp": "#CFF697DBE終了したい時は#c⑫#CFF697DBEか、#c②#CFF697DBEボタンを押せば\nまた移動できるようになる#cからね",
   "en": "#CFF697DBEWhen you're finished, press the #c⑫#CFF697DBE or #c②#CFF697DBE\nbutton and you'll be able to move again.",
-  "zh": ""
+  "zh": "#CFF697DBE想要结束的时候，只要按下#c⑫#CFF697DBE或#c②#CFF697DBE键\n就能恢复移动了#c"
  },
  {
   "id": "MSG/MSG0700/136A7",
@@ -35988,7 +35988,7 @@
   "offset": "14A92",
   "jp": "以上、説明終わり\nわかったかな？",
   "en": "That's it. Did you get all that?",
-  "zh": ""
+  "zh": "以上，说明完毕\n听懂了吗？"
  },
  {
   "id": "MSG/MSG0700/136A8",
@@ -35997,7 +35997,7 @@
   "offset": "14AB4",
   "jp": "おう！%M079531",
   "en": "Yep!%M079531",
-  "zh": ""
+  "zh": "噢！%M079531"
  },
  {
   "id": "MSG/MSG0700/136A9",
@@ -36006,7 +36006,7 @@
   "offset": "14ACC",
   "jp": "・・・えっと？%M079540",
   "en": "... Not really...%M079540",
-  "zh": ""
+  "zh": "……呃？%M079540"
  },
  {
   "id": "MSG/MSG0700/136AB",
@@ -36015,7 +36015,7 @@
   "offset": "14AEC",
   "jp": "おう！ #CFF697DBE#c⑫#CFF697DBEボタンで“ダンス待機状態”にしたら\nコントローラを振ればいい#cんだな！",
   "en": "Yep! Press the ⑫ button and then shake\nthe SIXAXIS™ wireless controller!",
-  "zh": ""
+  "zh": "噢！用#CFF697DBE#c⑫#CFF697DBE键进入“跳舞待机状态”后\n晃动手柄就行了#c对吧！"
  },
  {
   "id": "MSG/MSG0700/136AC",
@@ -36024,7 +36024,7 @@
   "offset": "14B6C",
   "jp": "ムチャクチャ踊りまくって\nムチャクチャＥＸゲージ溜めまくるぜっ！",
   "en": "Then just shake your booty and fill up that\nEX gauge!",
-  "zh": ""
+  "zh": "看我跳个痛快\n把EX槽彻底攒满！"
  },
  {
   "id": "MSG/MSG0700/136AD",
@@ -36033,7 +36033,7 @@
   "offset": "14BAE",
   "jp": "ああ、それとアツマ、１つだけ\n気をつけなくちゃいけないんだけど・・・",
   "en": "Oh, there's just one thing, Atsuma...",
-  "zh": ""
+  "zh": "啊，还有阿茨玛，只有一点\n必须要提醒你注意……"
  },
  {
   "id": "MSG/MSG0700/136AE",
@@ -36042,7 +36042,7 @@
   "offset": "14BF4",
   "jp": "エンチャントダンスを踊ったあとはｱ",
   "en": "The Enchant Dance also has a negative\neffect.",
-  "zh": ""
+  "zh": "跳完赋法之舞之后ｱ"
  },
  {
   "id": "MSG/MSG0700/136AF",
@@ -36051,7 +36051,7 @@
   "offset": "14C18",
   "jp": "ダンスにひきつけられて集まってきた敵に\nエンカウントしやすくなってしまうんだ",
   "en": "It attracts enemies, so after dancing you\nmay bump into more foes...",
-  "zh": ""
+  "zh": "会变得更容易遇上\n被舞蹈吸引聚集而来的敌人呢"
  },
  {
   "id": "MSG/MSG0700/136B0",
@@ -36060,7 +36060,7 @@
   "offset": "14C66",
   "jp": "無茶苦茶踊りまくるのはいいけどｱ",
   "en": "You can groove the night away if you like,\nsure...",
-  "zh": ""
+  "zh": "痛痛快快跳个够是没问题啦ｱ"
  },
  {
   "id": "MSG/MSG0700/136B1",
@@ -36069,7 +36069,7 @@
   "offset": "14C88",
   "jp": "あまり敵と戦いたくない時は\nダンスはひかえた方がいいかもね",
   "en": "But if you're looking to avoid battle it\nmight be better to lay off the dancing.",
-  "zh": ""
+  "zh": "但不太想与敌人战斗的时候\n最好还是克制一下别跳舞哦"
  },
  {
   "id": "MSG/MSG0700/136B4",
@@ -36078,7 +36078,7 @@
   "offset": "14CC4",
   "jp": "・・・えっと？　ゴメン、トウヤ\nどうすれば踊れるって？",
   "en": "...Not really... Sorry, how do you dance\nagain?",
-  "zh": ""
+  "zh": "……呃？抱歉，托亚\n到底是怎样才能跳舞来着？"
  },
  {
   "id": "MSG/MSG0700/136B5",
@@ -36087,7 +36087,7 @@
   "offset": "14CFC",
   "jp": "仕方ないな、踊れるようになるまで\nボクが手取り足取り教えてあげるよ%J079516",
   "en": "Okay, okay... I'll talk you through it until\nyou're ready to dance...%J079516",
-  "zh": ""
+  "zh": "真拿你没办法，在你能跳出来之前\n我就手把手仔细教你吧%J079516"
  },
  {
   "id": "MSG/MSG0700/136B9",
@@ -36096,7 +36096,7 @@
   "offset": "14D50",
   "jp": "これで準備ＯＫ！　あとは#CFF697DBEリズムに合わせて#c\n#CFF697DBEタイミングよくコントローラを振る#cんだ",
   "en": "Now you're ready! So #CFF697DBEstart to shake the\nSIXAXIS™ wireless controller!",
-  "zh": ""
+  "zh": "这样就准备OK！接下来只要#CFF697DBE配合节奏#c\n#CFF697DBE把握好时机晃动手柄#c就行了"
  },
  {
   "id": "MSG/MSG0700/136BA",
@@ -36105,7 +36105,7 @@
   "offset": "14DD0",
   "jp": "#CFF697DBEうまく振ることができれば\nそのぶん、ＥＸゲージも大きく回復する#cはずだよ",
   "en": "#CFF697DBEThe better the timing of your shakes, the\nmore your EX gauge will recover!",
-  "zh": ""
+  "zh": "#CFF697DBE只要摇晃得当，\nＥＸ槽也会相应地大幅恢复#c才对。"
  },
  {
   "id": "MSG/MSG0700/1387F",
@@ -36114,7 +36114,7 @@
   "offset": "14E30",
   "jp": "音声先読み用データ",
   "en": "",
-  "zh": ""
+  "zh": "语音预读用数据"
  },
  {
   "id": "MSG/MSG0700/F0FA0",
@@ -36123,7 +36123,7 @@
   "offset": "14E44",
   "jp": "うぉっ！　なんだ！？",
   "en": "Wah! What now?!",
-  "zh": ""
+  "zh": "哇！怎么回事！？"
  },
  {
   "id": "MSG/MSG0700/F0FA1",
@@ -36132,7 +36132,7 @@
   "offset": "14E5A",
   "jp": "きゃっ！\n",
   "en": "Kyaaah!",
-  "zh": ""
+  "zh": "呀！"
  },
  {
   "id": "MSG/MSG0700/F0FA2",
@@ -36141,7 +36141,7 @@
   "offset": "14E66",
   "jp": "アツマ！　“①を連打”だ！\nそれか、コントローラを振りまくって！",
   "en": "Atsuma! Tap ①, quickly! Or start shaking\nthe SIXAXIS™ wireless controller!",
-  "zh": ""
+  "zh": "阿茨玛！快“连按①”！\n不然就使劲摇晃手柄！"
  },
  {
   "id": "MSG/MSG0700/F0FA3",
@@ -36150,7 +36150,7 @@
   "offset": "14EA8",
   "jp": "え！　なんで！？",
   "en": "What? Why?!",
-  "zh": ""
+  "zh": "诶！为什么啊！？"
  },
  {
   "id": "MSG/MSG0700/F0FA4",
@@ -36159,7 +36159,7 @@
   "offset": "14EBA",
   "jp": "説明は後でするから！　早く！",
   "en": "I'll explain later! Quick!",
-  "zh": ""
+  "zh": "待会儿再解释！快点！"
  },
  {
   "id": "MSG/MSG0700/F0FB4",
@@ -36168,7 +36168,7 @@
   "offset": "14ED8",
   "jp": "なにしてるんだ、アツマ！",
   "en": "What are you doing, Atsuma?!",
-  "zh": ""
+  "zh": "你在干什么啊，阿茨玛！"
  },
  {
   "id": "MSG/MSG0700/F0FB5",
@@ -36177,7 +36177,7 @@
   "offset": "14EF2",
   "jp": "早く“①を連打”するか\nコントローラを振りまくるんだ！",
   "en": "Quickly, tap ① or shake the\nSIXAXIS™ wireless controller! Now!",
-  "zh": ""
+  "zh": "快点“连按①”\n或者使劲摇晃手柄啊！"
  },
  {
   "id": "MSG/MSG0700/F0FBE",
@@ -36186,7 +36186,7 @@
   "offset": "14F2A",
   "jp": "フゥ・・・おさまったみたいだな",
   "en": "Phew... it's over...",
-  "zh": ""
+  "zh": "呼……好像平静下来了啊。"
  },
  {
   "id": "MSG/MSG0700/F0FBF",
@@ -36195,7 +36195,7 @@
   "offset": "14F4A",
   "jp": "いまのは、なんだったんだ、トウヤ？",
   "en": "What was that all about?!",
-  "zh": ""
+  "zh": "刚才那是怎么回事，托亚？"
  },
  {
   "id": "MSG/MSG0700/F0FC0",
@@ -36204,7 +36204,7 @@
   "offset": "14F6E",
   "jp": "ボクの記憶が確かならば・・・\nいまのは、エンチャントもれじゃないかな",
   "en": "If I recall correctly, it was most likely\nan Ether leak.",
-  "zh": ""
+  "zh": "如果我没记错的话……\n刚才的大概是以太泄露吧。"
  },
  {
   "id": "MSG/MSG0700/F0FC1",
@@ -36213,7 +36213,7 @@
   "offset": "14FB4",
   "jp": "#W極稀#Rごくまれ#rにエンチャントキューブがエーテルもれを\n起こして故障することがあるらしいんだ",
   "en": "Enchant Cubes sometimes suffer from Ether \nleaks, which cause them to malfunction.",
-  "zh": ""
+  "zh": "#W极罕见#Rごくまれ#r的情况下，赋法魔方似乎会因以太泄露\n而发生故障。"
  },
  {
   "id": "MSG/MSG0700/F0FC2",
@@ -36222,7 +36222,7 @@
   "offset": "1501A",
   "jp": "そんな時は、①を連打するかコントローラを\n振りまくるかして、エーテルを再注入しｱ",
   "en": "You need to tap ① or shake the SIXAXIS™\nwireless controller to insert more Ether.",
-  "zh": ""
+  "zh": "这种时候，只要连按①或者使劲摇晃手柄，\n重新注入以太，"
  },
  {
   "id": "MSG/MSG0700/F0FC3",
@@ -36231,7 +36231,7 @@
   "offset": "1506C",
   "jp": "#CFF697DBEエンチャントしなおしてやればいい#cと\n書物で読んだことがある",
   "en": "That should #CFF697DBErepair the Enchant#c. Or so I\nread, anyway.",
-  "zh": ""
+  "zh": "我曾从书上看到过，\n只要#CFF697DBE重新赋法就行了#c。"
  },
  {
   "id": "MSG/MSG0700/F0FC4",
@@ -36240,7 +36240,7 @@
   "offset": "150C0",
   "jp": "今度から、もし同じようなことが起こったらｱ",
   "en": "If the same thing happens again, Atsuma...\n",
-  "zh": ""
+  "zh": "今后要是再发生类似的情况，"
  },
  {
   "id": "MSG/MSG0700/F0FC5",
@@ -36249,7 +36249,7 @@
   "offset": "150EC",
   "jp": "あせらずに“①を連打”するか\nコントローラを振るんだよ、アツマ",
   "en": "Calmly tap ① or shake the SIXAXIS™\nwireless controller, okay?",
-  "zh": ""
+  "zh": "不要慌张，记得“连按①”\n或者摇晃手柄哦，阿茨玛。"
  },
  {
   "id": "MSG/MSG0700/F0FC8",
@@ -36258,7 +36258,7 @@
   "offset": "1512C",
   "jp": "うっしゃ！%M987090",
   "en": "Got it!%M987090",
-  "zh": ""
+  "zh": "好嘞！%M987090"
  },
  {
   "id": "MSG/MSG0700/F0FC9",
@@ -36267,7 +36267,7 @@
   "offset": "15148",
   "jp": "ごめん、もっかい説明して%M987100",
   "en": "Sorry... explain it again?%M987100",
-  "zh": ""
+  "zh": "抱歉，能再解释一遍吗？%M987100"
  },
  {
   "id": "MSG/MSG0700/F0FD2",
@@ -36276,7 +36276,7 @@
   "offset": "15172",
   "jp": "うっしゃ！\n・・・でもさ、もし、失敗したら？",
   "en": "Okay! But what happens if I don't?",
-  "zh": ""
+  "zh": "好嘞！\n……不过要是失败了会怎样？"
  },
  {
   "id": "MSG/MSG0700/F0FD3",
@@ -36285,7 +36285,7 @@
   "offset": "151A0",
   "jp": "・・・さぁ？　おっこちるんじゃない？",
   "en": "...I guess we fall?",
-  "zh": ""
+  "zh": "……谁知道呢？可能会掉下去吧？"
  },
  {
   "id": "MSG/MSG0700/F0FDC",
@@ -36294,7 +36294,7 @@
   "offset": "151C6",
   "jp": "ごめん、もっかい説明して\n",
   "en": "Sorry... explain it again?",
-  "zh": ""
+  "zh": "抱歉，能再解释一遍吗？"
  },
  {
   "id": "MSG/MSG0700/F0FDD",
@@ -36303,7 +36303,7 @@
   "offset": "151E2",
   "jp": "もう一度説明するから\nちゃんと聞いていてね？%J987073",
   "en": "Okay, once more. Are you paying attention?%J987073",
-  "zh": ""
+  "zh": "我会再说明一次，\n这次要好好听着哦？%J987073"
  },
  {
   "id": "MSG/MSG0700/F0FE6",
@@ -36312,7 +36312,7 @@
   "offset": "15220",
   "jp": "・・・う～ん・・・\n",
   "en": "...Hmmmm...",
-  "zh": ""
+  "zh": "……唔～嗯……"
  },
  {
   "id": "MSG/MSG0700/F0FE7",
@@ -36321,7 +36321,7 @@
   "offset": "15236",
   "jp": "どうしたのよ、アツマ\n早く行きましょうよ",
   "en": "What're you doing, Atsuma? Come on, let's\nkeep going!",
-  "zh": ""
+  "zh": "怎么了嘛，阿茨玛。\n快点走啦。"
  },
  {
   "id": "MSG/MSG0700/F0FE8",
@@ -36330,7 +36330,7 @@
   "offset": "15260",
   "jp": "行き止まりじゃんか\n・・・どうしようかなぁと思ってさ",
   "en": "But it's a dead end. What can we do?",
-  "zh": ""
+  "zh": "前面是死路啊。\n……我正在想该怎么办呢。"
  },
  {
   "id": "MSG/MSG0700/F0FE9",
@@ -36339,7 +36339,7 @@
   "offset": "15296",
   "jp": "・・・アンタ、本気で言ってるの？\n",
   "en": "...Are you serious?",
-  "zh": ""
+  "zh": "……你，是认真的吗？"
  },
  {
   "id": "MSG/MSG0700/F0FEA",
@@ -36348,7 +36348,7 @@
   "offset": "152BA",
   "jp": "ほらアツマ、はしごがあるよ\n",
   "en": "Look, Atsuma, there's a ladder.",
-  "zh": ""
+  "zh": "看啊阿茨玛，那里有梯子哦。"
  },
  {
   "id": "MSG/MSG0700/F0FEB",
@@ -36357,7 +36357,7 @@
   "offset": "152D8",
   "jp": "#CFF697DBEはしごの前で、#c①#CFF697DBEではしごに取り付いたあと\n#c⑤#CFF697DBEで、上下に移動%J987117",
   "en": "#CFF697DBEPress #c①#CFF697DBE in front of the ladder to climb\nonto it, then use #c⑤#CFF697DBE to move up and down.%J987117",
-  "zh": ""
+  "zh": "#CFF697DBE在梯子前按#c①#CFF697DBE爬上梯子后，\n用#c⑤#CFF697DBE上下移动%J987117"
  },
  {
   "id": "MSG/MSG0700/F0FEC",
@@ -36366,7 +36366,7 @@
   "offset": "15368",
   "jp": "#CFF697DBE一番上か、一番下で、もう一度#c①#CFF697DBEを押せば\nはしごから降りることができるから#cｱ#CFF697DBE",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE在最上方或最下方再次按#c①#CFF697DBE，\n就可以从梯子上下来了哦#c，#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/F0FED",
@@ -36375,7 +36375,7 @@
   "offset": "153F8",
   "jp": "はしごを使えば、歩いて越えられない段差も\n昇ったり降りたりできるからね",
   "en": "Ladders can be used to reach places we\ncouldn't normally climb to.",
-  "zh": ""
+  "zh": "只要使用梯子，走不过去的高台\n也能爬上爬下了"
  },
  {
   "id": "MSG/MSG0700/F0FEE",
@@ -36384,7 +36384,7 @@
   "offset": "15440",
   "jp": "は・・・はしごくらい知ってらぃ！\n",
   "en": "Hey! I know all about ladders, okay?!",
-  "zh": ""
+  "zh": "梯……梯子这种东西我当然知道啦！"
  },
  {
   "id": "MSG/MSG0700/F0FEF",
@@ -36393,7 +36393,7 @@
   "offset": "15464",
   "jp": "じゃぁ、なんで“行き止まりだ”なんて\n言ったのよ？",
   "en": "Then why did you think this was a dead\nend!?",
-  "zh": ""
+  "zh": "那～你刚才干嘛还说什么“这里是死路”\n啊？"
  },
  {
   "id": "MSG/MSG0700/F0FF0",
@@ -36402,7 +36402,7 @@
   "offset": "15498",
   "jp": "ぎっくぅっ！\n",
   "en": "Oh, whatever.",
-  "zh": ""
+  "zh": "呃呜！"
  },
  {
   "id": "MSG/MSG0700/F0FF1",
@@ -36411,7 +36411,7 @@
   "offset": "154A8",
   "jp": "・・・で、アツマ\nボクの説明でわかってもらえたかな？",
   "en": "...So, Atsuma, you understand what to do?",
-  "zh": ""
+  "zh": "……那么，阿茨玛，\n听了我的说明明白了吗？"
  },
  {
   "id": "MSG/MSG0700/F0FF2",
@@ -36420,7 +36420,7 @@
   "offset": "154DE",
   "jp": "も、もっちろん！%M987130",
   "en": "Of... of course!%M987130",
-  "zh": ""
+  "zh": "当、当然啦！%M987130"
  },
  {
   "id": "MSG/MSG0700/F0FF3",
@@ -36429,7 +36429,7 @@
   "offset": "15500",
   "jp": "あ、え～っと・・・%M987140",
   "en": "Ah... well...%M987140",
-  "zh": ""
+  "zh": "啊，呃……%M987140"
  },
  {
   "id": "MSG/MSG0700/F0FFA",
@@ -36438,7 +36438,7 @@
   "offset": "15524",
   "jp": "も、もっちろん！\nてか、知ってったっての！　行こうぜ！",
   "en": "Of... of course! I knew all along! Come on\nthen!",
-  "zh": ""
+  "zh": "当、当然啦！\n话说，我早就知道了好不好！我们走！"
  },
  {
   "id": "MSG/MSG0700/F0FFB",
@@ -36447,7 +36447,7 @@
   "offset": "1555C",
   "jp": "はいはい、行きましょう行きましょう\n%F",
   "en": "Okay, let's go.%F",
-  "zh": ""
+  "zh": "好好好，快走吧快走吧。\n%F"
  },
  {
   "id": "MSG/MSG0700/F0FFC",
@@ -36456,7 +36456,7 @@
   "offset": "15586",
   "jp": "フフフ\n%F",
   "en": "%F",
-  "zh": ""
+  "zh": "呵呵呵。\n%F"
  },
  {
   "id": "MSG/MSG0700/F1004",
@@ -36465,7 +36465,7 @@
   "offset": "15594",
   "jp": "あ、え～っと・・・あははは・・・",
   "en": "Ah... well... ha ha ha...",
-  "zh": ""
+  "zh": "啊，呃……啊哈哈哈……"
  },
  {
   "id": "MSG/MSG0700/F1005",
@@ -36474,7 +36474,7 @@
   "offset": "155B6",
   "jp": "わからなかったんだね・・・\nじゃあ、もう一度説明するからよく聞いてね",
   "en": "You still don't get it, do you. Okay,\none more time.",
-  "zh": ""
+  "zh": "看来你没听懂呢……\n那我再解释一次，你要好好听哦。"
  },
  {
   "id": "MSG/MSG0700/F1006",
@@ -36483,7 +36483,7 @@
   "offset": "155FC",
   "jp": "#CFF697DBEはしごの前で#c①#CFF697DBEではしごに取り付いたあと\n#c⑤#CFF697DBEで上下に移動できるよ%J987144",
   "en": "#CFF697DBEPress #c①#CFF697DBE in front of the ladder to climb\nonto it, then use #c⑤#CFF697DBE to move up and down.%J987144",
-  "zh": ""
+  "zh": "#CFF697DBE在梯子前按#c①#CFF697DBE抓上梯子后，\n用#c⑤#CFF697DBE就可以上下移动了。%J987144"
  },
  {
   "id": "MSG/MSG0700/F1007",
@@ -36492,7 +36492,7 @@
   "offset": "15690",
   "jp": "#CFF697DBE一番上か、一番下で、もう一度#c①#CFF697DBEを押せば\nはしごから降りることができるから#cｱ#CFF697DBE",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE到了最上面或最下面，再次按下#c①#CFF697DBE\n就可以离开梯子了。#cｱ#CFF697DBE"
  },
  {
   "id": "MSG/MSG0700/F1008",
@@ -36501,7 +36501,7 @@
   "offset": "15720",
   "jp": "・・・わかったかい？\n%J987122",
   "en": "...Have you got that?%J987122",
-  "zh": ""
+  "zh": "……明白了吗？\n%J987122"
  },
  {
   "id": "MSG/MSG0700/F1018",
@@ -36510,7 +36510,7 @@
   "offset": "15748",
   "jp": "ん、何かあるぞ・・・なんだ、コレ？",
   "en": "Why... what's this, then?",
-  "zh": ""
+  "zh": "嗯，有东西在……这是什么啊？"
  },
  {
   "id": "MSG/MSG0700/F1019",
@@ -36519,7 +36519,7 @@
   "offset": "1576C",
   "jp": "ボクの記憶が確かならば・・・\nこれは#CFF697DBE“エンチャントアイテムボックス”#cだね",
   "en": "If I recall correctly, this is an #CFF697DBEEnchant\nItem Box#c.",
-  "zh": ""
+  "zh": "如果我没记错的话……\n这个是#CFF697DBE“赋法道具箱”#c吧。"
  },
  {
   "id": "MSG/MSG0700/F101A",
@@ -36528,7 +36528,7 @@
   "offset": "157CE",
   "jp": "え、エンチャント・・・なんだって？",
   "en": "An Enchant... what...?",
-  "zh": ""
+  "zh": "赋、赋法……什么来着？"
  },
  {
   "id": "MSG/MSG0700/F101B",
@@ -36537,7 +36537,7 @@
   "offset": "157F2",
   "jp": "“エンチャントアイテムボックス”よ！\n学園のコンテナ倉庫にあるでしょ・・・もう！",
   "en": "An Enchant Item Box! You must have seen\nthese at school! Come on!",
-  "zh": ""
+  "zh": "是“赋法道具箱”啦！\n学院的集装箱仓库里不就有的吗……真是的！"
  },
  {
   "id": "MSG/MSG0700/F101C",
@@ -36546,7 +36546,7 @@
   "offset": "15844",
   "jp": "アツマはコンテナ倉庫に出入り禁止だったね\n前に、貴重な保管品をこわしたとかで",
   "en": "Atsuma wasn't allowed into the school\nstoreroom, remember? Too risky.",
-  "zh": ""
+  "zh": "阿茨玛被禁止进入集装箱仓库呢，\n之前好像是把贵重的保管物品给弄坏了。"
  },
  {
   "id": "MSG/MSG0700/F101D",
@@ -36555,7 +36555,7 @@
   "offset": "15892",
   "jp": "ん～、そんなことあったっけかぁ？\nそれよか、何なんだよコレ",
   "en": "Yeah, far too risky. Never mind that.\nWhat do we do with this?",
-  "zh": ""
+  "zh": "嗯～有这回事来着吗？\n比起那个，这玩意儿到底是什么啊？"
  },
  {
   "id": "MSG/MSG0700/F101E",
@@ -36564,7 +36564,7 @@
   "offset": "158CE",
   "jp": "いわば、エンチャントされた“箱”かな\nエンチャントの力で中のものが劣化しないんだ",
   "en": "Put simply, it's an Enchanted box. The item\ninside should be perfectly preserved.",
-  "zh": ""
+  "zh": "可以说是被施加了赋法的“箱子”吧。\n借由赋法的力量，里面的东西不会发生劣化。"
  },
  {
   "id": "MSG/MSG0700/F101F",
@@ -36573,7 +36573,7 @@
   "offset": "15920",
   "jp": "たとえ、１０００年前の遺物であってもね\n箱の前で①を押してごらん？",
   "en": "It works even if the item is 1000 years old.\nTry pressing ① in front of the box...",
-  "zh": ""
+  "zh": "哪怕是1000年前的遗物也一样呢。\n在箱子前面按下①试试看？"
  },
  {
   "id": "MSG/MSG0700/F1020",
@@ -36582,7 +36582,7 @@
   "offset": "15964",
   "jp": "開けられると思うから\n",
   "en": "That should open it.",
-  "zh": ""
+  "zh": "我想应该就能打开了。"
  },
  {
   "id": "MSG/MSG0700/F1021",
@@ -36591,7 +36591,7 @@
   "offset": "1597C",
   "jp": "おっけおっけー%M987180",
   "en": "No problem!%M987180",
-  "zh": ""
+  "zh": "好嘞好嘞！%M987180"
  },
  {
   "id": "MSG/MSG0700/F1022",
@@ -36600,7 +36600,7 @@
   "offset": "1599C",
   "jp": "え、どうやって開けるって？%M987190",
   "en": "So... how do I open it?%M987190",
-  "zh": ""
+  "zh": "呃，要怎么打开来着？%M987190"
  },
  {
   "id": "MSG/MSG0700/F102C",
@@ -36609,7 +36609,7 @@
   "offset": "159C8",
   "jp": "おっけおっけー\nナニが入っているのかなぁ～♪",
   "en": "No problem! I wonder what's inside?",
-  "zh": ""
+  "zh": "好嘞好嘞！\n里面到底装着什么呢～♪"
  },
  {
   "id": "MSG/MSG0700/F1036",
@@ -36618,7 +36618,7 @@
   "offset": "159F6",
   "jp": "え、どうやって開けるって？\n",
   "en": "So... how do I open it?",
-  "zh": ""
+  "zh": "呃，要怎么打开来着？"
  },
  {
   "id": "MSG/MSG0700/F1037",
@@ -36627,7 +36627,7 @@
   "offset": "15A14",
   "jp": "もう、聞いてなかったの？\nほんっとに注意力散まんね、アンタ",
   "en": "I just told you! You need to concentrate!",
-  "zh": ""
+  "zh": "真是的，你刚才根本没在听吧？\n你这家伙注意力可真是散漫！"
  },
  {
   "id": "MSG/MSG0700/F1038",
@@ -36636,7 +36636,7 @@
   "offset": "15A50",
   "jp": "アツマ、箱の前で①、だよ\nわかったかい？%J987169",
   "en": "Try pressing ① in front of the box, okay?%J987169",
-  "zh": ""
+  "zh": "阿茨玛，在箱子前面按①哦。\n明白了吗？%J987169"
  },
  {
   "id": "MSG/MSG0700/F1040",
@@ -36645,7 +36645,7 @@
   "offset": "15A8A",
   "jp": "ひょっとして・・・スイッチって\nこれじゃねぇか？\n",
   "en": "Could this be... the switch?",
-  "zh": ""
+  "zh": "难不成……所谓的开关\n就是这个玩意儿？"
  },
  {
   "id": "MSG/MSG0700/F1041",
@@ -36654,7 +36654,7 @@
   "offset": "15ABE",
   "jp": "ボクの記憶が確かならば・・・きっとそうだね\n古い書物で見たことがある",
   "en": "If I remember the pictures I've seen...\nthat should be it.",
-  "zh": ""
+  "zh": "如果我的记忆没出错的话……应该就是它了。\n我在古籍上看到过相关记载。"
  },
  {
   "id": "MSG/MSG0700/F1042",
@@ -36663,7 +36663,7 @@
   "offset": "15B04",
   "jp": "この施設、やはり相当古いもの\nそれこそ１０００年近く・・・",
   "en": "This facility is very old, as I suspected.\nClose to 1000 years, I think...",
-  "zh": ""
+  "zh": "这座设施果然相当古老呢，\n恐怕差不多有上千年了……"
  },
  {
   "id": "MSG/MSG0700/F1043",
@@ -36672,7 +36672,7 @@
   "offset": "15B40",
   "jp": "よ～し！　早速、動かそうぜ！！\n・・・って、これどうすればいいんだ？",
   "en": "Okay, time to throw the switch!\nSo what should I do?",
-  "zh": ""
+  "zh": "好～咧！赶紧把它启动吧！！\n……呃，这玩意儿到底该怎么弄啊？"
  },
  {
   "id": "MSG/MSG0700/F1044",
@@ -36681,7 +36681,7 @@
   "offset": "15B86",
   "jp": "見た目こそ、ボクたちが日頃使ってる\nスイッチとは違うけど、構造的には一緒だよ",
   "en": "It may look different from the switches we\nuse every day, but it's easy enough to use.",
-  "zh": ""
+  "zh": "外观上虽然和我们平时用的\n开关不太一样，但构造其实是一样的。"
  },
  {
   "id": "MSG/MSG0700/F1045",
@@ -36690,7 +36690,7 @@
   "offset": "15BD4",
   "jp": "#CFF697DBEスイッチの前で#c①#CFF697DBEを押すことで\n切り替えられるはず",
   "en": "#CFF697DBEPress #c①#CFF697DBE in front of the switch to activate\nit.",
-  "zh": ""
+  "zh": "#CFF697DBE只要在开关前按下#c①#CFF697DBE\n应该就能切换了。"
  },
  {
   "id": "MSG/MSG0700/F1046",
@@ -36699,7 +36699,7 @@
   "offset": "15C32",
   "jp": "・・・わかったかい？\n",
   "en": "Like I said, easy enough... Right?",
-  "zh": ""
+  "zh": "……明白了吗？"
  },
  {
   "id": "MSG/MSG0700/F1047",
@@ -36708,7 +36708,7 @@
   "offset": "15C4A",
   "jp": "まかしとけ！%M987220",
   "en": "Oh yeah!%M987220",
-  "zh": ""
+  "zh": "包在我身上！%M987220"
  },
  {
   "id": "MSG/MSG0700/F1048",
@@ -36717,7 +36717,7 @@
   "offset": "15C68",
   "jp": "ん～・・・もう1回！%M987230",
   "en": "Hmm... better tell me again.%M987230",
-  "zh": ""
+  "zh": "唔～……再说一遍！%M987230"
  },
  {
   "id": "MSG/MSG0700/F1054",
@@ -36726,7 +36726,7 @@
   "offset": "15C8E",
   "jp": "まかしとけ！\nよ～し、スイッチ、オ～ン！",
   "en": "Oh yeah! Here we go, then! Switch... on!",
-  "zh": ""
+  "zh": "包在我身上！\n好～咧，开关——启动！"
  },
  {
   "id": "MSG/MSG0700/F105E",
@@ -36735,7 +36735,7 @@
   "offset": "15CB8",
   "jp": "ん～・・・もう1回！\nえへへ・・・わりぃわりぃ",
   "en": "Hmmm... better tell me again. Sorry!",
-  "zh": ""
+  "zh": "唔～……再说一遍！\n嘿嘿……不好意思不好意思。"
  },
  {
   "id": "MSG/MSG0700/F105F",
@@ -36744,7 +36744,7 @@
   "offset": "15CE8",
   "jp": "フゥ・・・キミらしいね\nいいかい、もう一回説明するよ？%J987204",
   "en": "All right, but this is the last time, okay?%J987204",
-  "zh": ""
+  "zh": "唉……真拿你没办法。\n听好哦，我再给你解释一遍。%J987204"
  },
  {
   "id": "MSG/MSG0700/F1068",
@@ -36753,7 +36753,7 @@
   "offset": "15D30",
   "jp": "おぉ！　動いた！！　いこーぜー！",
   "en": "",
-  "zh": ""
+  "zh": "喔！动起来了！！走起——！"
  },
  {
   "id": "MSG/MSG0700/F1069",
@@ -36762,7 +36762,7 @@
   "offset": "15D52",
   "jp": "はいはい・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "好啦好啦……"
  },
  {
   "id": "MSG/MSG0800/14050",
