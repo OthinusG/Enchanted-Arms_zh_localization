@@ -37,10 +37,10 @@ SYSTEM_PROMPT = """你是一名专业的日文游戏汉化翻译专家。请将�
 1. 以 jp（日文）为主进行翻译，en（英文）仅供辅助消歧。
 2. 绝对严格保留所有控制标记与排版符号：
    - 换行符 \\n 原样保留在译文相应位置。
-   - 颜色标签（如 #CFF697DBE午餐#c）成对保留，不得改变 #C... 或 #c 的十六进制代码。
+   - 颜色标签（如 #CFF697DBE午餐#c）按原文严格保留，不得改变 #C... 或 #c 的十六进制代码。若日文原文末尾未闭合 #c，亦切勿自行添加多余的 #c。
    - 引擎标记如 %F, %J008015, %M002030, %S101021, %s, %d, %02d, %% 原样保留在译文中。
    - 特殊符号（如 ⑲, ②, ③ 等）原样保留。
-3. 输出格式：必须仅输出一个合法的 JSON Object，键为条目的 id，值为对应的 zh 译文字符串。
+3. 输出格式：必须仅输出一个合法的 JSON Object，键为条目的 key，值为对应的 zh 译文字符串。
 禁止任何 markdown 代码块标记（如 ```json），禁止多余说明。
 """
 
@@ -55,39 +55,53 @@ def extract_tags(text):
 def fix_zh_tags(jp, zh):
     if not zh:
         zh = jp
-    # 1. Fix percent tags
+    # 1. Percent tags
     jp_percents = re.findall(r'%[A-Za-z0-9%]+', jp)
     zh_percents = re.findall(r'%[A-Za-z0-9%]+', zh)
     if jp_percents != zh_percents:
+        for p in set(zh_percents) - set(jp_percents):
+            zh = zh.replace(p, '')
         for p in jp_percents:
             if p not in zh:
                 if p.startswith('%J') or p.startswith('%M') or p.startswith('%S') or p == '%F':
                     zh = zh + p
                 else:
                     zh = p + zh
-    
-    # 2. Fix color tags
+
+    # 2. Color tags count matching
     jp_colors_open = re.findall(r'#C[0-9A-Fa-f]{8}', jp)
     jp_colors_close = re.findall(r'#c', jp)
     zh_colors_open = re.findall(r'#C[0-9A-Fa-f]{8}', zh)
     zh_colors_close = re.findall(r'#c', zh)
-    
-    if len(jp_colors_open) > len(zh_colors_open):
+
+    # Match open tags
+    if len(zh_colors_open) > len(jp_colors_open):
+        for c in zh_colors_open[len(jp_colors_open):]:
+            zh = zh.replace(c, '', 1)
+    elif len(zh_colors_open) < len(jp_colors_open):
         for c in jp_colors_open[len(zh_colors_open):]:
             zh = c + zh
-    if len(jp_colors_close) > len(zh_colors_close):
+
+    # Match close tags
+    if len(zh_colors_close) > len(jp_colors_close):
+        excess = len(zh_colors_close) - len(jp_colors_close)
+        parts = zh.rsplit('#c', excess)
+        zh = ''.join(parts)
+    elif len(zh_colors_close) < len(jp_colors_close):
         for _ in range(len(jp_colors_close) - len(zh_colors_close)):
-            zh = zh + "#c"
-            
-    # 3. Fix special circled numbers
+            zh = zh + '#c'
+
+    # 3. Special characters
     for sp in ['⑲', '②', '③', '④', '⑤', '⑨', '⑩', '⑫']:
         if sp in jp and sp not in zh:
             zh = zh + sp
+        elif sp not in jp and sp in zh:
+            zh = zh.replace(sp, '')
 
     return zh
 
 def translate_chunk(chunk, max_retries=3):
-    items_input = [{"id": item["id"], "jp": item["jp"], "en": item["en"]} for item in chunk]
+    items_input = [{"key": f"{item['file']}@{item['offset']}", "jp": item["jp"], "en": item["en"]} for item in chunk]
     user_prompt = f"{SYSTEM_PROMPT}\n待翻译条目：\n{json.dumps(items_input, ensure_ascii=False)}"
     
     for attempt in range(max_retries):
@@ -115,13 +129,17 @@ def translate_chunk(chunk, max_retries=3):
             data = json.loads(raw)
             result = {}
             for item in chunk:
-                iid = item["id"]
-                if iid in data and str(data[iid]).strip():
-                    translated = str(data[iid]).strip()
+                key = f"{item['file']}@{item['offset']}"
+                if key in data and str(data[key]).strip():
+                    translated = str(data[key]).strip()
                     translated = fix_zh_tags(item["jp"], translated)
-                    result[iid] = translated
+                    result[key] = translated
+                elif item['id'] in data and str(data[item['id']]).strip():
+                    translated = str(data[item['id']]).strip()
+                    translated = fix_zh_tags(item["jp"], translated)
+                    result[key] = translated
                 else:
-                    result[iid] = fix_zh_tags(item["jp"], item["jp"])
+                    result[key] = fix_zh_tags(item["jp"], item["jp"])
             return result
         except Exception as e:
             time.sleep(2)
@@ -130,7 +148,8 @@ def translate_chunk(chunk, max_retries=3):
     print(f"Warning: Chunk failed after {max_retries} retries, falling back to safe copy.")
     fallback = {}
     for item in chunk:
-        fallback[item["id"]] = fix_zh_tags(item["jp"], item["jp"])
+        key = f"{item['file']}@{item['offset']}"
+        fallback[key] = fix_zh_tags(item["jp"], item["jp"])
     return fallback
 
 def parse_batches_from_plan():
@@ -203,9 +222,11 @@ def process_batch(batch_info, all_data, batch_idx=0, total_batches=52, chunk_siz
     new_data = [dict(item) for item in all_data]
     for idx in range(start_idx - 1, end_idx):
         item = new_data[idx]
-        iid = item["id"]
-        if iid in translations:
-            item["zh"] = translations[iid]
+        key = f"{item['file']}@{item['offset']}"
+        if key in translations:
+            item["zh"] = translations[key]
+        elif item["id"] in translations:
+            item["zh"] = translations[item["id"]]
         else:
             item["zh"] = fix_zh_tags(item["jp"], item["jp"])
             
