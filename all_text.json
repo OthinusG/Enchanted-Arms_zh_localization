@@ -189978,7 +189978,7 @@
   "offset": "A1C8",
   "jp": "%sを手に入れた",
   "en": "Obtained %s",
-  "zh": ""
+  "zh": "获得了%s"
  },
  {
   "id": "MSG/MSG9900/F1B32",
@@ -189987,7 +189987,7 @@
   "offset": "A1DA",
   "jp": "%sを渡した",
   "en": "Gave %s",
-  "zh": ""
+  "zh": "交付了%s"
  },
  {
   "id": "MSG/MSG9900/F1B33",
@@ -189996,7 +189996,7 @@
   "offset": "A1E8",
   "jp": "%sが仲間になった！",
   "en": "%s joined the party!",
-  "zh": ""
+  "zh": "%s成为了同伴！"
  },
  {
   "id": "MSG/MSG9900/F1B34",
@@ -190005,7 +190005,7 @@
   "offset": "A1FE",
   "jp": "%sが仲間から外れた",
   "en": "%s left the party",
-  "zh": ""
+  "zh": "%s离开了队伍"
  },
  {
   "id": "MSG/MSG9900/F1B35",
@@ -190014,7 +190014,7 @@
   "offset": "A214",
   "jp": "%sを手に入れた",
   "en": "Obtained %s",
-  "zh": ""
+  "zh": "获得了%s"
  },
  {
   "id": "MSG/MSG9900/F1B36",
@@ -190023,7 +190023,7 @@
   "offset": "A226",
   "jp": "%sを使った",
   "en": "Used %s",
-  "zh": ""
+  "zh": "使用了%s"
  },
  {
   "id": "MSG/MSG9900/F1B37",
@@ -190032,7 +190032,7 @@
   "offset": "A234",
   "jp": "%sＴＢ 手に入れた",
   "en": "Obtained %s TB",
-  "zh": ""
+  "zh": "%s获得了 "
  },
  {
   "id": "MSG/MSG9900/F1B38",
@@ -190041,7 +190041,7 @@
   "offset": "A24A",
   "jp": "%sＴＢ 消費した",
   "en": "Used %s TB",
-  "zh": ""
+  "zh": "%s消耗了 "
  },
  {
   "id": "MSG/MSG9900/F1B39",
@@ -190050,7 +190050,7 @@
   "offset": "A25E",
   "jp": "中には何も入っていなかった・・・",
   "en": "There was nothing inside...",
-  "zh": ""
+  "zh": "里面什么也没有……"
  },
  {
   "id": "MSG/MSG9900/F1B3A",
@@ -190059,7 +190059,7 @@
   "offset": "A280",
   "jp": "エーテルを注入しました",
   "en": "Infused Ether.",
-  "zh": ""
+  "zh": "注入了以太"
  },
  {
   "id": "MSG/MSG9900/F1B3B",
@@ -190068,7 +190068,7 @@
   "offset": "A298",
   "jp": "エーテルを所持していないため、注入できません",
   "en": "There is no Ether to infuse.",
-  "zh": ""
+  "zh": "由于未持有以太，无法注入"
  },
  {
   "id": "MSG/MSG9900/F1B3C",
@@ -190077,7 +190077,7 @@
   "offset": "A2C6",
   "jp": "作動させるには、あと%sエーテル必要です",
   "en": "%s Ether is required to operate.",
-  "zh": ""
+  "zh": "若要启动，还需要%s以太"
  },
  {
   "id": "MSG/MSG9900/F1B6D",
@@ -190086,7 +190086,7 @@
   "offset": "A2F0",
   "jp": "%sを手に入れた",
   "en": "Obtained %s",
-  "zh": ""
+  "zh": "获得了%s"
  },
  {
   "id": "MSG/MSG9900/F1B6E",
@@ -190095,7 +190095,7 @@
   "offset": "A302",
   "jp": "%sを受け取った",
   "en": "Received %s",
-  "zh": ""
+  "zh": "收到了%s"
  },
  {
   "id": "MSG/MSG9900/F1B72",
@@ -190104,7 +190104,7 @@
   "offset": "A314",
   "jp": "%sを使った",
   "en": "Used %s",
-  "zh": ""
+  "zh": "使用了%s"
  },
  {
   "id": "MSG/MSG9900/F1B73",
@@ -190113,7 +190113,7 @@
   "offset": "A322",
   "jp": "%sを渡した",
   "en": "Gave %s",
-  "zh": ""
+  "zh": "交付了%s"
  },
  {
   "id": "MSG/MSG9900/F1B74",
@@ -190122,7 +190122,7 @@
   "offset": "A330",
   "jp": "%sが無くなった",
   "en": "Lost %s",
-  "zh": ""
+  "zh": "%s没有了"
  },
  {
   "id": "MSG/MSG9900/F1B77",
@@ -190131,7 +190131,7 @@
   "offset": "A342",
   "jp": "%sと%sを交換した",
   "en": "Exchanged %s and %s",
-  "zh": ""
+  "zh": "交换了%s与%s"
  },
  {
   "id": "MSG/MSG9900/F1B7C",
@@ -190140,7 +190140,7 @@
   "offset": "A358",
   "jp": "ＥＸ　%sを習得した",
   "en": "Mastered EX %s",
-  "zh": ""
+  "zh": "习得了ＥＸ　%s"
  },
  {
   "id": "MSG/MSG9900/F1B7D",
@@ -190149,7 +190149,7 @@
   "offset": "A36E",
   "jp": "%sは　ＥＸ　%sを習得した",
   "en": "%s mastered EX %s",
-  "zh": ""
+  "zh": "%s习得了　ＥＸ　%s"
  },
  {
   "id": "MSG/MSG9900/F1B81",
@@ -190158,7 +190158,7 @@
   "offset": "A38C",
   "jp": "%sが仲間になった",
   "en": "%s joined the party",
-  "zh": ""
+  "zh": "%s成为了同伴"
  },
  {
   "id": "MSG/MSG9900/F1B82",
@@ -190167,7 +190167,7 @@
   "offset": "A3A0",
   "jp": "%sが合流した",
   "en": "Met up with %s again",
-  "zh": ""
+  "zh": "%s归队了"
  },
  {
   "id": "MSG/MSG9900/F1B86",
@@ -190176,7 +190176,7 @@
   "offset": "A3B0",
   "jp": "%sが仲間から外れた",
   "en": "%s left the party",
-  "zh": ""
+  "zh": "%s离开了队伍"
  },
  {
   "id": "MSG/MSG9900/F1B8B",
@@ -190185,7 +190185,7 @@
   "offset": "A3C6",
   "jp": "%sＴＢ 手に入れた",
   "en": "Obtained %s TB",
-  "zh": ""
+  "zh": "%s获得了 "
  },
  {
   "id": "MSG/MSG9900/F1B8C",
@@ -190194,7 +190194,7 @@
   "offset": "A3DC",
   "jp": "%sＴＢ 受け取った",
   "en": "Received %s TB",
-  "zh": ""
+  "zh": "%s收到了 "
  },
  {
   "id": "MSG/MSG9900/F1B90",
@@ -190203,7 +190203,7 @@
   "offset": "A3F2",
   "jp": "%sＴＢ 払った",
   "en": "Paid %s TB",
-  "zh": ""
+  "zh": "%s支付了 "
  },
  {
   "id": "MSG/MSG9900/F1B91",
@@ -190212,7 +190212,7 @@
   "offset": "A404",
   "jp": "%sＴＢ 渡した",
   "en": "Gave %s TB",
-  "zh": ""
+  "zh": "%s交付了 "
  },
  {
   "id": "MSG/MSG9900/F1B92",
@@ -190221,7 +190221,7 @@
   "offset": "A416",
   "jp": "%sＴＢ 使った",
   "en": "Used %S TB",
-  "zh": ""
+  "zh": "%s使用了 "
  },
  {
   "id": "MSG/MSG9900/F1B94",
@@ -190230,7 +190230,7 @@
   "offset": "A428",
   "jp": "ゴーレムチケット　あと%s枚",
   "en": "%s Golem Tickets left",
-  "zh": ""
+  "zh": "魔像兑换券　还剩%s张"
  },
  {
   "id": "MSG/MSG9900/F1B95",
@@ -190239,7 +190239,7 @@
   "offset": "A446",
   "jp": "#CFF697DBEゴーレムチケット　収集完了",
   "en": "#CFF697DBEAll Golem Tickets collected!",
-  "zh": ""
+  "zh": "#CFF697DBE魔像兑换券　收集完毕"
  },
  {
   "id": "MSG/MSG9900/F1B96",
@@ -190248,7 +190248,7 @@
   "offset": "A476",
   "jp": "ゴーレムチケットの収集が完了した",
   "en": "Completed collection of Golem Tickets.",
-  "zh": ""
+  "zh": "魔像兑换券收集完毕"
  },
  {
   "id": "MSG/MSG9900/F1B9E",
@@ -190257,7 +190257,7 @@
   "offset": "A498",
   "jp": "復興のお手伝い　あと%sつ",
   "en": "%s rebuilding tasks remain",
-  "zh": ""
+  "zh": "协助复兴　还剩%s项"
  },
  {
   "id": "MSG/MSG9900/F1B9F",
@@ -190266,7 +190266,7 @@
   "offset": "A4B4",
   "jp": "#CFF697DBE復興お手伝い　完了",
   "en": "#CFF697DBERebuilding tasks complete!",
-  "zh": ""
+  "zh": "#CFF697DBE协助复兴　已完成"
  },
  {
   "id": "MSG/MSG9900/F1BA8",
@@ -190275,7 +190275,7 @@
   "offset": "A4DC",
   "jp": "捜査進行度　%s％",
   "en": "Investigation progress %s %",
-  "zh": ""
+  "zh": "调查进度　%s％"
  },
  {
   "id": "MSG/MSG9900/F1BA9",
@@ -190284,7 +190284,7 @@
   "offset": "A4F0",
   "jp": "#CFF697DBE捜査完了",
   "en": "#CFF697DBEInvestigation complete!",
-  "zh": ""
+  "zh": "#CFF697DBE调查完成"
  },
  {
   "id": "MSG/MSG9900/F1BF8",
@@ -190293,7 +190293,7 @@
   "offset": "A50E",
   "jp": "アツマの右腕の新たな力が覚醒した",
   "en": "Atsuma's right arm got a new power",
-  "zh": ""
+  "zh": "阿茨玛右臂的新力量觉醒了"
  },
  {
   "id": "MSG/MSG9900/F1C02",
@@ -190302,7 +190302,7 @@
   "offset": "A530",
   "jp": "馬鹿力がロンドン城に帰った",
   "en": "The strength returned to London Castle",
-  "zh": ""
+  "zh": "怪力回到了伦敦城"
  },
  {
   "id": "MSG/MSG9900/F1C03",
@@ -190311,7 +190311,7 @@
   "offset": "A54C",
   "jp": "ユウキは慰謝料を受け取った",
   "en": "Yuki received some compensation",
-  "zh": ""
+  "zh": "勇树收下了精神抚慰金"
  },
  {
   "id": "MSG/MSG9900/F1C04",
@@ -190320,7 +190320,7 @@
   "offset": "A568",
   "jp": "ユウキはゴーレム笛を奪った",
   "en": "Yuki stole the Golem Flute",
-  "zh": ""
+  "zh": "勇树抢走了魔像笛"
  },
  {
   "id": "MSG/MSG9900/F1C05",
@@ -190329,7 +190329,7 @@
   "offset": "A584",
   "jp": "この先に進むと、後戻りができません",
   "en": "There's no turning back beyond here",
-  "zh": ""
+  "zh": "继续前进将无法回头"
  },
  {
   "id": "MSG/MSG9900/F1C06",
@@ -190338,7 +190338,7 @@
   "offset": "A5A8",
   "jp": "カリンは白い花の綿毛を手に入れた",
   "en": "Karin took the white flower plumes",
-  "zh": ""
+  "zh": "卡琳获得了白花的绒毛"
  },
  {
   "id": "MSG/MSG9900/F1C07",
@@ -190347,7 +190347,7 @@
   "offset": "A5CA",
   "jp": "カリンは白い花の種を渡した",
   "en": "Karin gave the white flower seeds",
-  "zh": ""
+  "zh": "卡琳交出了白花的种子"
  },
  {
   "id": "MSG/MSG9900/F1C08",
@@ -190356,7 +190356,7 @@
   "offset": "A5E6",
   "jp": "謎の男はライガに手紙を渡した",
   "en": "The Mystery Man gave a letter to Raigar",
-  "zh": ""
+  "zh": "神秘男子交给了莱加一封信"
  },
  {
   "id": "MSG/MSG9900/F1C09",
@@ -190365,7 +190365,7 @@
   "offset": "A604",
   "jp": "この先に進むと、強力な敵が出現します",
   "en": "Powerful enemies lie beyond this point",
-  "zh": ""
+  "zh": "继续前进将出现强敌"
  },
  {
   "id": "MSG/MSG9900/F1F18",
@@ -190374,7 +190374,7 @@
   "offset": "A62A",
   "jp": "戦闘で、わからないことがあるようだね",
   "en": "You seem to need some help with combat.",
-  "zh": ""
+  "zh": "看来你在战斗方面有不明白的地方呢"
  },
  {
   "id": "MSG/MSG9900/F1F19",
@@ -190383,7 +190383,7 @@
   "offset": "A650",
   "jp": "ボクがチュートリアルするから\nしっかり学んでいってね",
   "en": "I can tutor you, if you like. Just so long\nas you pay attention!",
-  "zh": ""
+  "zh": "就由我来进行新手教学，\n可要好好学哦"
  },
  {
   "id": "MSG/MSG9900/F1F1A",
@@ -190392,7 +190392,7 @@
   "offset": "A686",
   "jp": "それじゃ、知りたい項目を⑤で選んで\n①で決定してみてね",
   "en": "Now, use ⑤ to highlight a category and\npress ① to select it.",
-  "zh": ""
+  "zh": "那么，用⑤选择想了解的项目，\n再按①确定吧"
  },
  {
   "id": "MSG/MSG9900/F1F22",
@@ -190401,7 +190401,7 @@
   "offset": "A6BE",
   "jp": "このまま、ゴーレムと模擬戦闘になるけど\nチュートリアルはもういいのかな？",
   "en": "We are about to go into combat. Are you\nfinished with the tutorial?",
-  "zh": ""
+  "zh": "接下来就要与魔像进行模拟战了，\n教程这样就可以了吗？"
  },
  {
   "id": "MSG/MSG9900/F1F23",
@@ -190410,7 +190410,7 @@
   "offset": "A708",
   "jp": "#CFF697DBE終了するなら#c①#CFF697DBEを、チュートリアルを続けるなら\n#c②#CFF697DBEを決定してね",
   "en": "#CFF697DBEPress #c①#CFF697DBE to finish, or #c②#CFF697DBE to continue with\nthe tutorial#c.",
-  "zh": ""
+  "zh": "#CFF697DBE如果想结束请按#c①#CFF697DBE，若要继续教程\n请按#c②#CFF697DBE确认哦"
  },
  {
   "id": "MSG/MSG9900/F1FE0",
@@ -190419,7 +190419,7 @@
   "offset": "A78A",
   "jp": "このチュートリアルでは、戦闘の流れについて\n教えるよ",
   "en": "This tutorial will focus on battle flow.",
-  "zh": ""
+  "zh": "在这个教程里，我来向你讲解\n战斗的基本流程吧"
  },
  {
   "id": "MSG/MSG9900/F1FE1",
@@ -190428,7 +190428,7 @@
   "offset": "A7C0",
   "jp": "いまいる場所は#CFF697DBE“フィールド”#cと呼ばれ\n戦闘は、ここで行われるんだよ",
   "en": "This place is called the #CFF697DBEfield#c. It is where\nbattles take place.",
-  "zh": ""
+  "zh": "现在所在的地方被称为#CFF697DBE“场地”#c，\n战斗就是在这里展开的哦"
  },
  {
   "id": "MSG/MSG9900/F1FE2",
@@ -190437,7 +190437,7 @@
   "offset": "A81C",
   "jp": "フィールドは“グリッド”と呼ばれる格子で\n区切られていてｱ",
   "en": "As you can see, the field is divided into\nsquares; this is called the #CFF697DBEgrid#c.",
-  "zh": ""
+  "zh": "场地被分割成被称为“网格”的格子ｱ"
  },
  {
   "id": "MSG/MSG9900/F1FE3",
@@ -190446,7 +190446,7 @@
   "offset": "A858",
   "jp": "攻撃も移動も、すべてこのグリッド単位で\n行われるよ",
   "en": "All movements and attacks occur within the\ngrid.",
-  "zh": ""
+  "zh": "无论攻击还是移动，全都以这个网格为单位\n来进行哦"
  },
  {
   "id": "MSG/MSG9900/F1FE4",
@@ -190455,7 +190455,7 @@
   "offset": "A88C",
   "jp": "フィールドは、手前と奥でわかれているけどｱ",
   "en": "The field is also divided into two\nsections.",
-  "zh": ""
+  "zh": "场地被划分为靠前和靠后两部分ｱ"
  },
  {
   "id": "MSG/MSG9900/F1FE5",
@@ -190464,7 +190464,7 @@
   "offset": "A8B8",
   "jp": "奥のフィールドに配置されるのが#CFF697DBE“敵”",
   "en": "#CFF697DBEEnemies #care in the field on the right.",
-  "zh": ""
+  "zh": "配置在靠后场地的就是#CFF697DBE“敌人”"
  },
  {
   "id": "MSG/MSG9900/F1FE6",
@@ -190473,7 +190473,7 @@
   "offset": "A8F2",
   "jp": "手前のフィールドに配置されるのが#CFF697DBE“味方”#cに\nなるんだよ",
   "en": "And #CFF697DBEallies#c are in the field on the left.",
-  "zh": ""
+  "zh": "而配置在靠前场地的就是#CFF697DBE“己方”#c\n了哦"
  },
  {
   "id": "MSG/MSG9900/F1FE7",
@@ -190482,7 +190482,7 @@
   "offset": "A942",
   "jp": "戦闘は、味方に指示を出して\n敵を全滅させれば勝利",
   "en": "To win a battle you need to command your\nallies and defeat your enemies.",
-  "zh": ""
+  "zh": "在战斗中向己方下达指令，\n全歼敌人即可获胜"
  },
  {
   "id": "MSG/MSG9900/F1FE8",
@@ -190491,7 +190491,7 @@
   "offset": "A974",
   "jp": "逆に、敵に全滅させられると敗北、になるね",
   "en": "Obviously, if your allies are all \nannihilated by the enemy, you lose!",
-  "zh": ""
+  "zh": "反过来，如果被敌人全歼就算败北了呢"
  },
  {
   "id": "MSG/MSG9900/F1FE9",
@@ -190500,7 +190500,7 @@
   "offset": "A99E",
   "jp": "勝利すると、倒した敵からいろいろなものを\n獲得できるよ",
   "en": "Victory means you can acquire various items\nfrom your enemy.",
-  "zh": ""
+  "zh": "获胜后，可以从打倒的敌人身上\n获得各种各样的东西哦"
  },
  {
   "id": "MSG/MSG9900/F1FEA",
@@ -190509,7 +190509,7 @@
   "offset": "A9D6",
   "jp": "レベルアップに必要な#CFF697DBE“経験値”",
   "en": "#CFF697DBEExperience points#c, which are needed to \nproceed to the next level.",
-  "zh": ""
+  "zh": "升级所必需的#CFF697DBE“经验值”"
  },
  {
   "id": "MSG/MSG9900/F1FEB",
@@ -190518,7 +190518,7 @@
   "offset": "AA0A",
   "jp": "#CFF697DBE“スキル習得”#cや、#CFF697DBE“成長”#cに必要な#CFF697DBE“ＳＰ”%J991213",
   "en": "#CFF697DBESP#c, which you need in order to #CFF697DBEgrow#c and\n#CFF697DBEacquire skills#c.%J991213",
-  "zh": ""
+  "zh": "#CFF697DBE“习得技能”#c以及#CFF697DBE“成长”#c所需的#CFF697DBE“SP”%J991213"
  },
  {
   "id": "MSG/MSG9900/F1FEC",
@@ -190527,7 +190527,7 @@
   "offset": "AA8A",
   "jp": "#CFF697DBE一回使うとなくなってしまうけど、#cＨＰやＥＰを\n回復する効果などがある#CFF697DBE“アイテム”",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE虽然使用一次就会消失，#c但具有恢复HP或EP等\n效果的#CFF697DBE“道具”"
  },
  {
   "id": "MSG/MSG9900/F1FED",
@@ -190536,7 +190536,7 @@
   "offset": "AB08",
   "jp": "アイテムなどを購入するときに必要なお金\n#CFF697DBE“ＴＢ（タブレット）”#cといったところかな",
   "en": "And money, called #CFF697DBETB (tablets)#c, which can\nbe used to buy items.",
-  "zh": ""
+  "zh": "以及购买道具等物品时所需的金钱\n#CFF697DBE“TB（魔石板币）”#c之类的吧"
  },
  {
   "id": "MSG/MSG9900/F1FEE",
@@ -190545,7 +190545,7 @@
   "offset": "AB72",
   "jp": "どれも、一人前のエンチャンターになるのに\n必要なものばかりさ",
   "en": "All of these things are vital if you intend\nto become a truly powerful Enchanter.",
-  "zh": ""
+  "zh": "无论哪一样，都是要成为一名独当一面的赋法师\n所不可或缺的"
  },
  {
   "id": "MSG/MSG9900/F1FEF",
@@ -190554,7 +190554,7 @@
   "offset": "ABB0",
   "jp": "つぎに、自分たちが全滅したときは\nそれ以上戦うことはできない・・・",
   "en": "Remember, if all of your allies are wiped\nout...",
-  "zh": ""
+  "zh": "接下来，如果我方全灭的话，\n就无法继续战斗了……"
  },
  {
   "id": "MSG/MSG9900/F1FF0",
@@ -190563,7 +190563,7 @@
   "offset": "ABF4",
   "jp": "そうした状態を#CFF697DBE“ゲームオーバー”#cというんだ",
   "en": "Then you will be faced with #CFF697DBEGame Over#c.",
-  "zh": ""
+  "zh": "这种状态就叫做#CFF697DBE“GAME OVER”#c"
  },
  {
   "id": "MSG/MSG9900/F1FF1",
@@ -190572,7 +190572,7 @@
   "offset": "AC38",
   "jp": "ゲームオーバーになっても、#CFF697DBE“リトライ”#cを\n選択すれば、その戦闘を最初からやり直せるから",
   "en": "However, even if this happens you can\nselect #CFF697DBERetry#c to fight the same battle again.",
-  "zh": ""
+  "zh": "就算GAME OVER了，只要选择#CFF697DBE“重新挑战”#c，\n就能从头重来那场战斗"
  },
  {
   "id": "MSG/MSG9900/F1FF2",
@@ -190581,7 +190581,7 @@
   "offset": "ACA8",
   "jp": "必要以上に、おそれることはないけど",
   "en": "So there is no need to be too scared of\nGame Over...",
-  "zh": ""
+  "zh": "所以倒也不必过于害怕"
  },
  {
   "id": "MSG/MSG9900/F1FF3",
@@ -190590,7 +190590,7 @@
   "offset": "ACCC",
   "jp": "無様な姿をさらしたくなければ、しっかりと\n腕をみがくことだね",
   "en": "But avoiding the embarrassment of Game Over\nis probably for the best, don't you think?",
-  "zh": ""
+  "zh": "不过如果不想出丑的话，还是好好\n磨炼本领吧"
  },
  {
   "id": "MSG/MSG9900/F1FF4",
@@ -190599,7 +190599,7 @@
   "offset": "AD0A",
   "jp": "戦闘の大きな流れはわかったかな？",
   "en": "That's how battles work, anyway.",
-  "zh": ""
+  "zh": "战斗的大致流程弄明白了吗？"
  },
  {
   "id": "MSG/MSG9900/F1FF5",
@@ -190608,7 +190608,7 @@
   "offset": "AD2C",
   "jp": "それじゃ、これで説明を終わるよ",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "那么，说明就到此为止了"
  },
  {
   "id": "MSG/MSG9900/F20A8",
@@ -190617,7 +190617,7 @@
   "offset": "AD4C",
   "jp": "このチュートリアルではｱ",
   "en": "This tutorial...",
-  "zh": ""
+  "zh": "在这个教程中，"
  },
  {
   "id": "MSG/MSG9900/F20A9",
@@ -190626,7 +190626,7 @@
   "offset": "AD66",
   "jp": "画面に表示される、さまざまな情報の名称と\n意味について説明するよ",
   "en": "Will explain the names and meanings of all\ninformation displayed on screen.",
-  "zh": ""
+  "zh": "将会说明画面上显示的各种信息的名称和\n含义"
  },
  {
   "id": "MSG/MSG9900/F20AA",
@@ -190635,7 +190635,7 @@
   "offset": "ADA8",
   "jp": "情報を理解し、活用できる者だけが\n勝利者となれるんだよ",
   "en": "Understanding and making use of all this\ninformation is the key to victory.",
-  "zh": ""
+  "zh": "只有理解并善用信息的人，\n才能成为胜利者"
  },
  {
   "id": "MSG/MSG9900/F20AB",
@@ -190644,7 +190644,7 @@
   "offset": "ADE0",
   "jp": "しっかりと、理解するんだよ",
   "en": "Study hard!",
-  "zh": ""
+  "zh": "一定要牢牢掌握好哦"
  },
  {
   "id": "MSG/MSG9900/F20AC",
@@ -190653,7 +190653,7 @@
   "offset": "ADFC",
   "jp": "それじゃ、キャラクター選択と移動選択時にｱ",
   "en": "First of all, when you have selected\nor are moving a character...",
-  "zh": ""
+  "zh": "那么，在选择角色与选择移动时，"
  },
  {
   "id": "MSG/MSG9900/F20AD",
@@ -190662,7 +190662,7 @@
   "offset": "AE28",
   "jp": "画面の左下に表示される、情報の見方について\n教えるよ",
   "en": "Some information is displayed at the bottom\nleft of the screen.",
-  "zh": ""
+  "zh": "画面左下方显示的信息该怎么看，\n就由我来教你吧"
  },
  {
   "id": "MSG/MSG9900/F20AE",
@@ -190671,7 +190671,7 @@
   "offset": "AE5E",
   "jp": "ここに、パーティ全員の重要な情報が\nまとめられているからｱ",
   "en": "This is essential information about the \nentire party...",
-  "zh": ""
+  "zh": "全队全员的重要信息都汇总在这里，"
  },
  {
   "id": "MSG/MSG9900/F20AF",
@@ -190680,7 +190680,7 @@
   "offset": "AE9A",
   "jp": "戦闘で負けたくないなら、しっかり内容を\n頭にたたきこんでね%F",
   "en": "So keep an eye on these important details\nif you want to win.%F",
-  "zh": ""
+  "zh": "如果不想在战斗中输掉，就好好把这些内容\n牢记在脑子里吧%F"
  },
  {
   "id": "MSG/MSG9900/F20B0",
@@ -190689,7 +190689,7 @@
   "offset": "AEDA",
   "jp": "表示されている情報に、どんな意味があるか\nわからないかもしれないけどｱ",
   "en": "So what does all this information mean?",
-  "zh": ""
+  "zh": "虽然你可能还不知道显示出的信息\n究竟代表着什么意思，"
  },
  {
   "id": "MSG/MSG9900/F20B1",
@@ -190698,7 +190698,7 @@
   "offset": "AF22",
   "jp": "順番に説明するから、一つ一つ理解していこう",
   "en": "I'll go through it one by one.",
-  "zh": ""
+  "zh": "但我会按顺序说明，咱们逐一去理解吧"
  },
  {
   "id": "MSG/MSG9900/F20B2",
@@ -190707,7 +190707,7 @@
   "offset": "AF4E",
   "jp": "赤い炎のアイコンが見えるかな？\nこれはキャラクターの#CFF697DBE“属性”#cを示しているよ",
   "en": "You see that red fire icon? That represents\nthe #CFF697DBEattribute#c of that particular character.",
-  "zh": ""
+  "zh": "能看到红色的火焰图标吗？\n这表示角色的#CFF697DBE“属性”#c"
  },
  {
   "id": "MSG/MSG9900/F20B3",
@@ -190716,7 +190716,7 @@
   "offset": "AFB2",
   "jp": "属性には敵の攻撃に対して、相性が良い\nまたは、悪いがありｱ",
   "en": "Many attacks also have an attribute.",
-  "zh": ""
+  "zh": "属性面对敌人的攻击时，存在相性好\n或相性差的情况，"
  },
  {
   "id": "MSG/MSG9900/F20B4",
@@ -190725,7 +190725,7 @@
   "offset": "AFEE",
   "jp": "相手の弱点をつく“対の属性”で攻撃すると\n与えるダメージが増えるしｱ",
   "en": "Attacking an enemy with their #CFF697DBEopposing \nattribute#c causes even more damage.",
-  "zh": ""
+  "zh": "使用击中对手弱点的“相对属性”进行攻击，\n造成的伤害就会增加，"
  },
  {
   "id": "MSG/MSG9900/F20B5",
@@ -190734,7 +190734,7 @@
   "offset": "B034",
   "jp": "反対に、敵が得意とする属性で攻撃してしまうと\nダメージが減ってしまうんだよ",
   "en": "But attacking with the same attribute\nreduces the amount of damage they sustain.",
-  "zh": ""
+  "zh": "反之，如果使用了敌人所擅长的属性进行攻击，\n伤害就会减少"
  },
  {
   "id": "MSG/MSG9900/F20B6",
@@ -190743,7 +190743,7 @@
   "offset": "B080",
   "jp": "属性は、地、水、火、風、光、闇があり\n#CFF697DBE地と風、水と火、光と闇が対#cになっている",
   "en": "#CFF697DBEEarth and wind#c are opposites, as are #CFF697DBEwater \nand fire#c, and #CFF697DBElight and dark#c.",
-  "zh": ""
+  "zh": "属性分为地、水、火、风、光、暗，\n#CFF697DBE地与风、水与火、光与暗互为相对属性#c"
  },
  {
   "id": "MSG/MSG9900/F20B7",
@@ -190752,7 +190752,7 @@
   "offset": "B0E6",
   "jp": "弱点をつかれることがないよう、敵との相性は\nつねに注意する必要があるね",
   "en": "You will need to keep a close eye on enemy\nattributes to avoid an extreme beating!",
-  "zh": ""
+  "zh": "为了不被击中弱点，必须时刻\n注意与敌人的相性呢"
  },
  {
   "id": "MSG/MSG9900/F20B8",
@@ -190761,7 +190761,7 @@
   "offset": "B12E",
   "jp": "属性アイコンのとなりは\nキャラクターの#CFF697DBE“名称”#cが表示される",
   "en": "Next to the attribute, the character's #CFF697DBEname#c\nis displayed.",
-  "zh": ""
+  "zh": "属性图标的旁边，\n显示的是角色的#CFF697DBE“名称”#c"
  },
  {
   "id": "MSG/MSG9900/F20B9",
@@ -190770,7 +190770,7 @@
   "offset": "B182",
   "jp": "・・・まあ、名称は名称さ\nアツマなら、“アツマ”と表示されるよ",
   "en": "...Well, a name is a name. That's easy\nenough, even for Atsuma.",
-  "zh": ""
+  "zh": "……嘛，名字就是名字啦。\n要是阿茨玛的话，就会显示为“阿茨玛”哦"
  },
  {
   "id": "MSG/MSG9900/F20BA",
@@ -190779,7 +190779,7 @@
   "offset": "B1C2",
   "jp": "二段目の左側にあるゲージは、#CFF697DBE“ＨＰ”#cを\n示しているよ",
   "en": "Second on the left is the #CFF697DBEHP#c gauge.",
-  "zh": ""
+  "zh": "第二排左侧的槽，表示的是#CFF697DBE“HP”#c"
  },
  {
   "id": "MSG/MSG9900/F20BB",
@@ -190788,7 +190788,7 @@
   "offset": "B210",
   "jp": "ＨＰは、ダメージを受けると減っていきｱ",
   "en": "HP are reduced when you sustain damage.",
-  "zh": ""
+  "zh": "ＨＰ在受到伤害时会减少，"
  },
  {
   "id": "MSG/MSG9900/F20BC",
@@ -190797,7 +190797,7 @@
   "offset": "B238",
   "jp": "０になると、行動不能になってしまうんだ",
   "en": "And if they fall to zero, that character is\nknocked unconscious.",
-  "zh": ""
+  "zh": "降为０就会陷入无法行动的状态。"
  },
  {
   "id": "MSG/MSG9900/F20BD",
@@ -190806,7 +190806,7 @@
   "offset": "B260",
   "jp": "行動不能になったキャラクターは、３ターン以内\nに復活させないと、戦闘から離脱してしまうんだ",
   "en": "If an unconscious character is not revived\nwithin 3 turns, they will leave the battle.",
-  "zh": ""
+  "zh": "陷入无法行动状态的角色，若不在３回合内\n使其复活，就会脱离战斗。"
  },
  {
   "id": "MSG/MSG9900/F20BE",
@@ -190815,7 +190815,7 @@
   "offset": "B2BC",
   "jp": "離脱しても、そのキャラクターが永久に\nいなくなってしまうわけではないけどね",
   "en": "However, even if that happens they have not\nbeen lost forever. Don't worry.",
-  "zh": ""
+  "zh": "不过即便脱离，也并不意味着该角色会\n永久失去就是了。"
  },
  {
   "id": "MSG/MSG9900/F20BF",
@@ -190824,7 +190824,7 @@
   "offset": "B308",
   "jp": "ＨＰのとなりにある、もう一本のゲージは\n#CFF697DBE“ＥＰ”#cを示しているよ",
   "en": "The gauge next to HP is the #CFF697DBEEP #cgauge.",
-  "zh": ""
+  "zh": "ＨＰ旁边的另一条槽\n表示的是#CFF697DBE“ＥＰ”#c哦。"
  },
  {
   "id": "MSG/MSG9900/F20C0",
@@ -190833,7 +190833,7 @@
   "offset": "B360",
   "jp": "ＥＰは、“スキル”を使う時に消費するものでｱ",
   "en": "EP are required to use skills.",
-  "zh": ""
+  "zh": "ＥＰ是在使用“技能”时消耗的数值，"
  },
  {
   "id": "MSG/MSG9900/F20C1",
@@ -190842,7 +190842,7 @@
   "offset": "B38E",
   "jp": "使用に必要なＥＰが残ってないと、スキルを\n使うことができないんだよ",
   "en": "If you do not have enough EP remaining, you\nwill not be able to use certain skills.",
-  "zh": ""
+  "zh": "若剩余的ＥＰ不足以支持消耗，\n就无法使用技能哦。"
  },
  {
   "id": "MSG/MSG9900/F20C2",
@@ -190851,7 +190851,7 @@
   "offset": "B3D2",
   "jp": "スキルが使えるか、使えないかは勝敗に\n直結するからｱ",
   "en": "Whether you can use certain skills or not\ncould determine the outcome of a battle...",
-  "zh": ""
+  "zh": "能不能使用技能可是会直接关系到胜负的，"
  },
  {
   "id": "MSG/MSG9900/F20C3",
@@ -190860,7 +190860,7 @@
   "offset": "B408",
   "jp": "ＥＰの残量は、つねに注意しておく必要があるね",
   "en": "So you must keep a close eye on your EP\nat all times.",
-  "zh": ""
+  "zh": "所以必须时刻留意ＥＰ的剩余量呢。"
  },
  {
   "id": "MSG/MSG9900/F20C4",
@@ -190869,7 +190869,7 @@
   "offset": "B436",
   "jp": "あと、ＨＰとＥＰは、戦闘が終了すると\n自動的に、最大まで回復するからｱ",
   "en": "HP and EP are automatically restored once a\nbattle ends.",
-  "zh": ""
+  "zh": "还有，ＨＰ和ＥＰ在战斗结束后\n都会自动回复至最大值，"
  },
  {
   "id": "MSG/MSG9900/F20C5",
@@ -190878,7 +190878,7 @@
   "offset": "B47E",
   "jp": "必要以上に、ＨＰの残量を気にすることはないし\nＥＰを節約することもないからね",
   "en": "So there is no need to horde them for the\nsake of upcoming battles.",
-  "zh": ""
+  "zh": "所以没必要过度在意ＨＰ的剩余量，\n也不用刻意去节省ＥＰ呢。"
  },
  {
   "id": "MSG/MSG9900/F20C6",
@@ -190887,7 +190887,7 @@
   "offset": "B4CC",
   "jp": "さらに、もう一段下にあるゲージが\n#CFF697DBE“連携ゲージ”#cだよ",
   "en": "Now then... the next gauge down is the\n#CFF697DBEcombo gauge#c.",
-  "zh": ""
+  "zh": "此外，再下一层的槽\n就是#CFF697DBE“连携槽”#c了。"
  },
  {
   "id": "MSG/MSG9900/F20C7",
@@ -190896,7 +190896,7 @@
   "offset": "B51A",
   "jp": "連携ゲージは、#CFF697DBE“連携攻撃”#cを発動するために\n必要なものだね",
   "en": "The combination gauge is required to\nperform combination attacks.",
-  "zh": ""
+  "zh": "连携槽是发动#CFF697DBE“连携攻击”#c所\n必需的呢。"
  },
  {
   "id": "MSG/MSG9900/F20C8",
@@ -190905,7 +190905,7 @@
   "offset": "B56E",
   "jp": "連携攻撃については、べつのチュートリアルで\n教えるからｱ",
   "en": "I'll teach you about combination attacks\nin a separate tutorial.",
-  "zh": ""
+  "zh": "关于连携攻击，稍后会在其他教程里\n说明，"
  },
  {
   "id": "MSG/MSG9900/F20C9",
@@ -190914,7 +190914,7 @@
   "offset": "B5A8",
   "jp": "いまは、これくらいにしておくよ",
   "en": "Just remember what and where it is, for now.",
-  "zh": ""
+  "zh": "现在就先了解到这里吧。"
  },
  {
   "id": "MSG/MSG9900/F20CA",
@@ -190923,7 +190923,7 @@
   "offset": "B5C8",
   "jp": "キャラクター情報の一番上にあるゲージは\n#CFF697DBE“ＥＸゲージ”#cだね",
   "en": "The gauge above all the character \ninformation is the #CFF697DBEEX gauge#c.",
-  "zh": ""
+  "zh": "角色信息最上方的槽\n是#CFF697DBE“ＥＸ槽”#c呢。"
  },
  {
   "id": "MSG/MSG9900/F20CB",
@@ -190932,7 +190932,7 @@
   "offset": "B61C",
   "jp": "このゲージが、最大までたまるとｱ",
   "en": "Once this gauge fills up...",
-  "zh": ""
+  "zh": "当这个槽积攒到最大值时，"
  },
  {
   "id": "MSG/MSG9900/F20CC",
@@ -190941,7 +190941,7 @@
   "offset": "B63E",
   "jp": "通常のスキルを、はるかにしのぐ効果を持った\n#CFF697DBE“ＥＸ”#cを使うことができるんだよ",
   "en": "You can use an #CFF697DBEEX#c, an attack far more\npowerful than a regular skill.",
-  "zh": ""
+  "zh": "就可以使用效果远超常规技能的\n#CFF697DBE“ＥＸ”#c了哦。"
  },
  {
   "id": "MSG/MSG9900/F20CD",
@@ -190950,7 +190950,7 @@
   "offset": "B6A4",
   "jp": "ＥＸについても、べつのチュートリアルで\nちゃんと教えるからｱ",
   "en": "I'll teach you more about EX in a separate\ntutorial.",
-  "zh": ""
+  "zh": "关于ＥＸ，稍后也会在其他教程里\n详细说明，"
  },
  {
   "id": "MSG/MSG9900/F20CE",
@@ -190959,7 +190959,7 @@
   "offset": "B6E2",
   "jp": "いまは、これくらいにしておくよ",
   "en": "For now, just remember that the gauge is\nthere.",
-  "zh": ""
+  "zh": "现在就先了解到这里吧。"
  },
  {
   "id": "MSG/MSG9900/F20CF",
@@ -190968,7 +190968,7 @@
   "offset": "B702",
   "jp": "ここで知っておいて欲しい情報は\nひととおり教えたからｱ",
   "en": "Well, that's all the information I need you\nto know for now.",
-  "zh": ""
+  "zh": "这里希望你掌握的信息\n已经大致介绍完毕了，"
  },
  {
   "id": "MSG/MSG9900/F20D0",
@@ -190977,7 +190977,7 @@
   "offset": "B73A",
   "jp": "つぎは、行動選択をするときに表示されるｱ",
   "en": "Next I'll teach you about information\ndisplayed when characters are selected.",
-  "zh": ""
+  "zh": "接下来，我来讲解一下在选择行动时显示的"
  },
  {
   "id": "MSG/MSG9900/F20D1",
@@ -190986,7 +190986,7 @@
   "offset": "B764",
   "jp": "情報の見方について教えるね%F",
   "en": "Are you ready?%F",
-  "zh": ""
+  "zh": "信息该如何看吧。%F"
  },
  {
   "id": "MSG/MSG9900/F20D2",
@@ -190995,7 +190995,7 @@
   "offset": "B784",
   "jp": "いまアツマにカーソルを合わせてから、①を\n押して、アツマを選択した状態にしたよ",
   "en": "The cursor is over Atsuma at the moment.\nPressing ① will select him, like so.",
-  "zh": ""
+  "zh": "现在先把光标对准阿茨玛，然后按下①，\n就变成了选中阿茨玛的状态。"
  },
  {
   "id": "MSG/MSG9900/F20D3",
@@ -191004,7 +191004,7 @@
   "offset": "B7D4",
   "jp": "表示されているものが変わって、選択した\nキャラクターの情報になったのが、わかるかな？",
   "en": "You can see that the information has changed\nto represent the selected character, yes?",
-  "zh": ""
+  "zh": "显示的内容发生了变化，变成了所选\n角色的信息，看出来了吗？"
  },
  {
   "id": "MSG/MSG9900/F20D4",
@@ -191013,7 +191013,7 @@
   "offset": "B82A",
   "jp": "この状態にして、選択したキャラクターに\n行動を指示するんだね",
   "en": "You can now give commands to the selected\ncharacter.",
-  "zh": ""
+  "zh": "在这个状态下，就可以向所选的角色\n下达行动指令了呢。"
  },
  {
   "id": "MSG/MSG9900/F20D5",
@@ -191022,7 +191022,7 @@
   "offset": "B868",
   "jp": "それじゃ、さっきと同じようにｱ",
   "en": "Just like before...",
-  "zh": ""
+  "zh": "那么，就和刚才一样，"
  },
  {
   "id": "MSG/MSG9900/F20D6",
@@ -191031,7 +191031,7 @@
   "offset": "B888",
   "jp": "一つ一つ説明していこう",
   "en": "I'll go through these one by one.",
-  "zh": ""
+  "zh": "来挨个说明吧。"
  },
  {
   "id": "MSG/MSG9900/F20D7",
@@ -191040,7 +191040,7 @@
   "offset": "B8A0",
   "jp": "上から二段目は、キャラクターの属性、名称\nＨＰ、ＥＰが表示されているよ",
   "en": "Second from the top, you see the character's\nattribute, name, HP and EP.",
-  "zh": ""
+  "zh": "从上往下数第二栏，显示着角色的属性、名称、\nＨＰ和ＥＰ。"
  },
  {
   "id": "MSG/MSG9900/F20D8",
@@ -191049,7 +191049,7 @@
   "offset": "B8E8",
   "jp": "その上の段に並んでいるのが\nキャラクターが選択できる“行動”だね",
   "en": "Above these you'll see the list of commands \nthis character can perform.",
-  "zh": ""
+  "zh": "排在它上一栏的，\n则是该角色可以选择的“行动”呢。"
  },
  {
   "id": "MSG/MSG9900/F20D9",
@@ -191058,7 +191058,7 @@
   "offset": "B92A",
   "jp": "行動はぜんぶで、“ＩＴＥＭ”、“ＳＫＩＬＬ”\n“ＥＸ”があるけどｱ",
   "en": "There are three categories: ITEM, SKILL and\nEX.",
-  "zh": ""
+  "zh": "行动一共有“ＩＴＥＭ”、“ＳＫＩＬＬ”\n与“ＥＸ”，"
  },
  {
   "id": "MSG/MSG9900/F20DA",
@@ -191067,7 +191067,7 @@
   "offset": "B96E",
   "jp": "今回は、ＳＫＩＬＬに表示される情報について\n教えよう",
   "en": "I'll deal with the information to do with\nSKILL now.",
-  "zh": ""
+  "zh": "这次就来教教你关于\nＳＫＩＬＬ中显示的信息吧。"
  },
  {
   "id": "MSG/MSG9900/F20DB",
@@ -191076,7 +191076,7 @@
   "offset": "B9A4",
   "jp": "一つのスキルに表示される情報は左から属性\nタイプアイコン、名称、ＰＰ、消費ＥＰだよ",
   "en": "Information for a single skill comprises, \nfrom left: attribute, type, name, PP and EP.",
-  "zh": ""
+  "zh": "一个技能上显示的信息从左起依次是属性、\n类型图标、名称、ＰＰ和消耗ＥＰ哦。"
  },
  {
   "id": "MSG/MSG9900/F20DC",
@@ -191085,7 +191085,7 @@
   "offset": "B9F8",
   "jp": "属性は、キャラクターだけでなく\nスキルにもあってｱ",
   "en": "Some skills have attributes, just like\ncharacters.",
-  "zh": ""
+  "zh": "属性不仅角色拥有，\n技能也是有属性的，"
  },
  {
   "id": "MSG/MSG9900/F20DD",
@@ -191094,7 +191094,7 @@
   "offset": "BA2C",
   "jp": "地、水、火、風、光、闇の各属性と\n“属性がない”のぜんぶで、七種類があるんだ",
   "en": "As well as earth, water, fire, wind, light\nand dark, there are non-attribute skills.",
-  "zh": ""
+  "zh": "分为地、水、火、风、光、暗各属性以及\n“无属性”，总共七种。"
  },
  {
   "id": "MSG/MSG9900/F20DE",
@@ -191103,7 +191103,7 @@
   "offset": "BA7A",
   "jp": "それぞれに対となる属性があることは\n前にも説明したけどｱ",
   "en": "I explained about opposing attributes \nbefore, didn't I?",
-  "zh": ""
+  "zh": "它们各自存在相互克制的对立属性，\n虽然之前也解释过了，"
  },
  {
   "id": "MSG/MSG9900/F20DF",
@@ -191112,7 +191112,7 @@
   "offset": "BAB4",
   "jp": "属性の表示がないスキルには、対になる\n属性がないからｱ",
   "en": "Well, skills without any attribute displayed\nhave no opposing attributes...",
-  "zh": ""
+  "zh": "但没有属性显示的技能因为没有\n对立属性，"
  },
  {
   "id": "MSG/MSG9900/F20E0",
@@ -191121,7 +191121,7 @@
   "offset": "BAEC",
   "jp": "常に安定した、威力を発揮できるんだ",
   "en": "So they can be relied upon under any\ncircumstances.",
-  "zh": ""
+  "zh": "所以无论何时都能稳定地发挥威力。"
  },
  {
   "id": "MSG/MSG9900/F20E1",
@@ -191130,7 +191130,7 @@
   "offset": "BB10",
   "jp": "#CFF697DBEタイプアイコンは、そのスキルの大まかな\n内容がわかり#cｱ#CFF697DBE",
   "en": "#CFF697DBEThe type icon displays the overall type\nof skill this is.",
-  "zh": ""
+  "zh": "#CFF697DBE类型图标能让你大致了解该技能的\n内容，#c#CFF697DBE"
  },
  {
   "id": "MSG/MSG9900/F20E2",
@@ -191139,7 +191139,7 @@
   "offset": "BB74",
   "jp": "直接攻撃、間接攻撃、補助、回復にわけることが\nできるんだ",
   "en": "There are four types - close attack,\nranged attack, support and healing.",
-  "zh": ""
+  "zh": "可以分为直接攻击、间接攻击、辅助和恢复。"
  },
  {
   "id": "MSG/MSG9900/F20E3",
@@ -191148,7 +191148,7 @@
   "offset": "BBAE",
   "jp": "直接攻撃は、パンチや武器によって\n敵を攻撃するスキルで・・・",
   "en": "Close attacks are punch- or weapon-based\nskills, for close combat.",
-  "zh": ""
+  "zh": "直接攻击是用拳头或武器\n攻击敌人的技能……"
  },
  {
   "id": "MSG/MSG9900/F20E4",
@@ -191157,7 +191157,7 @@
   "offset": "BBEC",
   "jp": "間接攻撃は、エーテルの炎や冷気で\n敵を攻撃するスキルなんだよ",
   "en": "Ranged attacks are Ether-, flame- or ice-\nbased indirect attacks.",
-  "zh": ""
+  "zh": "间接攻击则是利用以太的火焰或寒气\n攻击敌人的技能哦。"
  },
  {
   "id": "MSG/MSG9900/F20E5",
@@ -191166,7 +191166,7 @@
   "offset": "BC2A",
   "jp": "補助は、敵を“毒”状態にしたり、味方を\n強化したりするスキルだし・・・",
   "en": "Support skills can poison enemies or\npower-up your allies.",
-  "zh": ""
+  "zh": "辅助是让敌人陷入“中毒”状态，\n或是强化同伴的技能……"
  },
  {
   "id": "MSG/MSG9900/F20E6",
@@ -191175,7 +191175,7 @@
   "offset": "BC72",
   "jp": "回復は、味方のＨＰやＥＰを回復したり\nするスキル・・・",
   "en": "And healing skills heal allied HP or EP.",
-  "zh": ""
+  "zh": "恢复则是恢复同伴的ＨＰ或ＥＰ的\n技能……"
  },
  {
   "id": "MSG/MSG9900/F20E7",
@@ -191184,7 +191184,7 @@
   "offset": "BCAA",
   "jp": "・・・という具合に、それぞれ役割が\nわかるようになっているよ",
   "en": "This icon will give you an overall grasp of\nthe kind of skill you are dealing with.",
-  "zh": ""
+  "zh": "……像这样，能让人一目了然地明白\n各自的职责。"
  },
  {
   "id": "MSG/MSG9900/F20E8",
@@ -191193,7 +191193,7 @@
   "offset": "BCE8",
   "jp": "タイプアイコンのとなりにあるのは、スキルの\n#CFF697DBE“名称”#cだね%J993024",
   "en": "Next to the type icon is the#CFF697DBE name#c of the\nskill.%J993024",
-  "zh": ""
+  "zh": "类型图标旁边的，就是技能的\n#CFF697DBE“名称”#c了。%J993024"
  },
  {
   "id": "MSG/MSG9900/F20E9",
@@ -191202,7 +191202,7 @@
   "offset": "BD4A",
   "jp": "そして、一番右側の数字が、そのスキルの\n#CFF697DBE“消費ＥＰ量”#cを示しているよ",
   "en": "The number on the far right is the #CFF697DBEamount\nof EP#c used by the skill.",
-  "zh": ""
+  "zh": "然后，最右侧的数字表示该技能的\n#CFF697DBE“消耗ＥＰ量”#c。"
  },
  {
   "id": "MSG/MSG9900/F20EA",
@@ -191211,7 +191211,7 @@
   "offset": "BDA8",
   "jp": "キャラクターの現在ＥＰ量が、スキルの\n消費ＥＰ量を上回っていないとｱ",
   "en": "If a character's current EP is not as high \nas this number...",
-  "zh": ""
+  "zh": "角色的当前ＥＰ量如果不高于\n该技能的消耗ＥＰ量，"
  },
  {
   "id": "MSG/MSG9900/F20EB",
@@ -191220,7 +191220,7 @@
   "offset": "BDEE",
   "jp": "ＥＰが足りなくて、そのスキルを使うことが\nできないんだよ",
   "en": "That particular skill can't be used. Watch \nout for this.",
-  "zh": ""
+  "zh": "就会因为ＥＰ不足而无法使用\n那个技能哦。"
  },
  {
   "id": "MSG/MSG9900/F20EC",
@@ -191229,7 +191229,7 @@
   "offset": "BE28",
   "jp": "いざというときに、ＥＰが足りない・・・\nなんて、情けないことがないようにｱ",
   "en": "You need to keep a close eye on your\nremaining EP and the EP cost for skills.",
-  "zh": ""
+  "zh": "为了避免在紧要关头出现ＥＰ不足……\n这种丢人的情况，"
  },
  {
   "id": "MSG/MSG9900/F20ED",
@@ -191238,7 +191238,7 @@
   "offset": "BE74",
   "jp": "残りＥＰと、消費ＥＰには、十分注意する\n必要があるね",
   "en": "The inability to perform a certain skill \ncould lead to defeat!",
-  "zh": ""
+  "zh": "必须对剩余ＥＰ和消耗ＥＰ\n保持充分的注意才行呢。"
  },
  {
   "id": "MSG/MSG9900/F20EE",
@@ -191247,7 +191247,7 @@
   "offset": "BEAA",
   "jp": "あと、フィールドに、赤いグリッドがあるのが\nわかると思うけどｱ",
   "en": "You can see that some squares on the grid\nhave turned red, I'm sure.",
-  "zh": ""
+  "zh": "另外，你应该能看到场地上有红色的网格吧，"
  },
  {
   "id": "MSG/MSG9900/F20EF",
@@ -191256,7 +191256,7 @@
   "offset": "BEEA",
   "jp": "これは、#CFF697DBE“スキルの効果範囲”#cを示しているんだ",
   "en": "Those red squares indicate the #CFF697DBErange of the \nskill#c.",
-  "zh": ""
+  "zh": "这表示#CFF697DBE“技能的效果范围”#c。"
  },
  {
   "id": "MSG/MSG9900/F20F0",
@@ -191265,7 +191265,7 @@
   "offset": "BF30",
   "jp": "これは文字通り、スキルの効果が発揮される\n範囲のことだ",
   "en": "Obviously, that means the area that the \nskill will affect.",
-  "zh": ""
+  "zh": "顾名思义，就是技能效果所能发挥的\n范围。"
  },
  {
   "id": "MSG/MSG9900/F20F1",
@@ -191274,7 +191274,7 @@
   "offset": "BF68",
   "jp": "スキルの効果は、その範囲に入っている\nキャラクターに対して発揮されるからｱ",
   "en": "The skill will hit all characters within\nthat area...",
-  "zh": ""
+  "zh": "因为技能效果只对处于该范围内的\n角色生效，"
  },
  {
   "id": "MSG/MSG9900/F20F2",
@@ -191283,7 +191283,7 @@
   "offset": "BFB4",
   "jp": "狙いたいキャラクターを、効果グリッド内に\n収める必要があるわけだね",
   "en": "So you need to make sure your targets are\nwhere they should be!",
-  "zh": ""
+  "zh": "所以必须把想要作为目标的角色\n纳入效果网格之内才行。"
  },
  {
   "id": "MSG/MSG9900/F20F3",
@@ -191292,7 +191292,7 @@
   "offset": "BFF8",
   "jp": "・・・これで、理解しておくべき情報は\nだいたい説明し終わったよ",
   "en": "...Well, I think that covers everything.",
-  "zh": ""
+  "zh": "……这样一来，需要理解的信息\n基本就都说明完毕了。"
  },
  {
   "id": "MSG/MSG9900/F20F4",
@@ -191301,7 +191301,7 @@
   "offset": "C038",
   "jp": "情報をしっかり役立てれば、アツマでも\n効率よく戦うことができるはずさ",
   "en": "Even Atsuma could win a battle with all\nthis information at his fingertips!",
-  "zh": ""
+  "zh": "只要好好活用这些信息，就算是阿茨玛\n应该也能高效率地进行战斗了。"
  },
  {
   "id": "MSG/MSG9900/F20F5",
@@ -191310,7 +191310,7 @@
   "offset": "C07E",
   "jp": "それじゃ、説明を終わるよ",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "那么，说明就到此结束啦。"
  },
  {
   "id": "MSG/MSG9900/F2170",
@@ -191319,7 +191319,7 @@
   "offset": "C098",
   "jp": "このチュートリアルでは、戦闘の基本中の\n基本であるｱ",
   "en": "This tutorial will teach you about movement \nand performing actions.",
-  "zh": ""
+  "zh": "在这个教学中，将针对战斗的基本中之\n基本——"
  },
  {
   "id": "MSG/MSG9900/F2171",
@@ -191328,7 +191328,7 @@
   "offset": "C0CE",
   "jp": "“移動”と“行動”のやり方について\n説明するよ",
   "en": "These are the basics required to win any \nbattle, so play close attention.",
-  "zh": ""
+  "zh": "我来为你说明一下\n“移动”和“行动”的方法吧"
  },
  {
   "id": "MSG/MSG9900/F2172",
@@ -191337,7 +191337,7 @@
   "offset": "C0FE",
   "jp": "まず、説明しておかないといけないのは\n#CFF697DBE“ターン”#cについてかな？",
   "en": "First, I think I need to explain #CFF697DBEturns#c.",
-  "zh": ""
+  "zh": "首先，必须要说明的\n大概是#CFF697DBE“回合”#c吧？"
  },
  {
   "id": "MSG/MSG9900/F2173",
@@ -191346,7 +191346,7 @@
   "offset": "C156",
   "jp": "戦闘は、ターンという単位で進行しｱ",
   "en": "The progression of battle is measured in\nunits called turns.",
-  "zh": ""
+  "zh": "战斗是以回合为单位进行的"
  },
  {
   "id": "MSG/MSG9900/F2174",
@@ -191355,7 +191355,7 @@
   "offset": "C17A",
   "jp": "１ターン内に、敵味方すべてのキャラクターは\n一回だけ、移動と行動をすることができるんだ",
   "en": "In one turn, all allies and enemies can \nperform one move and one action.",
-  "zh": ""
+  "zh": "在１个回合内，敌我双方的所有角色\n都只能进行一次移动和行动"
  },
  {
   "id": "MSG/MSG9900/F2175",
@@ -191364,7 +191364,7 @@
   "offset": "C1D2",
   "jp": "アツマは、リーダーとして味方キャラクター\n全員に指示を出してｱ",
   "en": "As leader, Atsuma must give instructions to\neach of his allies...",
-  "zh": ""
+  "zh": "阿茨玛作为队长，必须向同伴角色\n全员下达指示"
  },
  {
   "id": "MSG/MSG9900/F2176",
@@ -191373,7 +191373,7 @@
   "offset": "C212",
   "jp": "それぞれの移動と行動を、決めなくては\nいけないよ",
   "en": "He must decide where they will move and the\nactions they will perform.",
-  "zh": ""
+  "zh": "决定好各自的移动和行动才行哦"
  },
  {
   "id": "MSG/MSG9900/F2177",
@@ -191382,7 +191382,7 @@
   "offset": "C244",
   "jp": "それじゃ、指示の出し方を説明しようか",
   "en": "So how exactly are these instructions given?",
-  "zh": ""
+  "zh": "那么，就来解释一下下达指示的方法吧"
  },
  {
   "id": "MSG/MSG9900/F2178",
@@ -191391,7 +191391,7 @@
   "offset": "C26A",
   "jp": "最初にするのは、指示を出したいキャラクターを\n決定することだね",
   "en": "First, you need to select a character.",
-  "zh": ""
+  "zh": "首先要做的，是决定想要下达指示的角色呢"
  },
  {
   "id": "MSG/MSG9900/F2179",
@@ -191400,7 +191400,7 @@
   "offset": "C2AA",
   "jp": "カーソルを、指示を出したいキャラクターに\n重なるように移動してｱ",
   "en": "Move the cursor so that it is over the\ncharacter you wish to select.",
-  "zh": ""
+  "zh": "将光标移动到想要下达指示的角色上\n与其重合"
  },
  {
   "id": "MSG/MSG9900/F217A",
@@ -191409,7 +191409,7 @@
   "offset": "C2EC",
   "jp": "①で決定すればいいんだ%F",
   "en": "And press ① to #CFF697DBEconfirm#c.%F",
-  "zh": ""
+  "zh": "然后按①确定就行了%F"
  },
  {
   "id": "MSG/MSG9900/F217B",
@@ -191418,7 +191418,7 @@
   "offset": "C308",
   "jp": "こうやってキャラクターを選択したら、つぎは\n移動したい先にカーソルを置き、①で決定",
   "en": "Then move the cursor to your intended\ndestination for the character, and press ①.",
-  "zh": ""
+  "zh": "像这样选好角色之后，接下来把光标移到\n想要移动的目的地，按①确定"
  },
  {
   "id": "MSG/MSG9900/F217C",
@@ -191427,7 +191427,7 @@
   "offset": "C35C",
   "jp": "移動できる範囲は、それぞれキャラクターごとに\n違っていてｱ",
   "en": "The range of movement differs from character\nto character.",
-  "zh": ""
+  "zh": "可以移动的范围，因每个角色而异"
  },
  {
   "id": "MSG/MSG9900/F217D",
@@ -191436,7 +191436,7 @@
   "offset": "C398",
   "jp": "青色になったグリッドが、そのキャラクターの\n移動できる範囲を示しているんだ",
   "en": "The blue squares on the grid represent the\nmovement range of that character.",
-  "zh": ""
+  "zh": "变成蓝色的网格，表示的就是该角色\n可以移动的范围"
  },
  {
   "id": "MSG/MSG9900/F217E",
@@ -191445,7 +191445,7 @@
   "offset": "C3E4",
   "jp": "敵のフィールドや、すでにべつのキャラクターが\nいるグリッドにはｱ",
   "en": "Remember, when moving you cannot enter the\nenemy's half of the field...",
-  "zh": ""
+  "zh": "敌方区域，以及已经有其他角色在的网格"
  },
  {
   "id": "MSG/MSG9900/F217F",
@@ -191454,7 +191454,7 @@
   "offset": "C426",
   "jp": "移動することができないから、注意するんだよ",
   "en": "Nor can you move to a square already \noccupied by an ally.",
-  "zh": ""
+  "zh": "是无法移动过去的，要多加注意哦"
  },
  {
   "id": "MSG/MSG9900/F2180",
@@ -191463,7 +191463,7 @@
   "offset": "C452",
   "jp": "移動するには、⑤でカーソルを動かしてｱ",
   "en": "Use ⑤#CFF697DBE to move the cursor#c...",
-  "zh": ""
+  "zh": "想要移动的话，用⑤移动光标"
  },
  {
   "id": "MSG/MSG9900/F2181",
@@ -191472,7 +191472,7 @@
   "offset": "C47A",
   "jp": "①で決定すればいいんだ%F",
   "en": "And ① #CFF697DBEto confirm#c the destination.%F",
-  "zh": ""
+  "zh": "然后按①确定就行了%F"
  },
  {
   "id": "MSG/MSG9900/F2182",
@@ -191481,7 +191481,7 @@
   "offset": "C496",
   "jp": "ちなみにもし、移動先を間違って決定して\nしまっても、②でやり直すことができるよ",
   "en": "If you confirm a destination but then change\nyour mind, you can #CFF697DBEundo the move #cwith ②.",
-  "zh": ""
+  "zh": "顺便说一下，如果不小心选错了移动目的地，\n也可以按②重来哦"
  },
  {
   "id": "MSG/MSG9900/F2183",
@@ -191490,7 +191490,7 @@
   "offset": "C4E6",
   "jp": "閑話休題・・・移動する位置を決定し終わったら\nつぎは行動を決定するんだ",
   "en": "Right... so once you have moved, you then\nneed to act.",
-  "zh": ""
+  "zh": "闲话休提……决定好移动位置之后，\n接下来就要决定行动了"
  },
  {
   "id": "MSG/MSG9900/F2184",
@@ -191499,7 +191499,7 @@
   "offset": "C52E",
   "jp": "画面左の表示情報が、変わったことに\n気づいたかい？%F",
   "en": "Have you noticed that the information on\nthe left of the screen has changed?%F",
-  "zh": ""
+  "zh": "注意到画面左侧显示的信息\n发生改变了吗？%F"
  },
  {
   "id": "MSG/MSG9900/F2185",
@@ -191508,7 +191508,7 @@
   "offset": "C566",
   "jp": "キャラクターの行動できるカテゴリは・・・",
   "en": "There are three categories of action that a\ncharacter can perform...",
-  "zh": ""
+  "zh": "角色可以行动的类别大致分为……"
  },
  {
   "id": "MSG/MSG9900/F2186",
@@ -191517,7 +191517,7 @@
   "offset": "C590",
   "jp": "スキルを使う",
   "en": "Use a skill.",
-  "zh": ""
+  "zh": "使用技能"
  },
  {
   "id": "MSG/MSG9900/F2187",
@@ -191526,7 +191526,7 @@
   "offset": "C59E",
   "jp": "ＥＸを使う",
   "en": "Use an EX.",
-  "zh": ""
+  "zh": "使用ＥＸ"
  },
  {
   "id": "MSG/MSG9900/F2188",
@@ -191535,7 +191535,7 @@
   "offset": "C5AA",
   "jp": "アイテムを使う",
   "en": "Use an item.",
-  "zh": ""
+  "zh": "使用道具"
  },
  {
   "id": "MSG/MSG9900/F2189",
@@ -191544,7 +191544,7 @@
   "offset": "C5BA",
   "jp": "と、大きく三つにわけられるんだ",
   "en": "Let's look at each in a little more detail.",
-  "zh": ""
+  "zh": "这三大类"
  },
  {
   "id": "MSG/MSG9900/F218A",
@@ -191553,7 +191553,7 @@
   "offset": "C5DA",
   "jp": "カテゴリを切り替えたいなら、⑤を左右に\n動かせばいいしｱ",
   "en": "To change the category, move ⑤#CFF697DBE left or\nright.",
-  "zh": ""
+  "zh": "想要切换类别的话，左右拨动⑤就行了"
  },
  {
   "id": "MSG/MSG9900/F218B",
@@ -191562,7 +191562,7 @@
   "offset": "C614",
   "jp": "カテゴリ内のものを選択したいなら\n⑤を上下に動かせばいいよ%F",
   "en": "To make a selection within a category,\nmove ⑤#CFF697DBE up or down#c.%F",
-  "zh": ""
+  "zh": "想要选择类别内的项目，\n上下拨动⑤即可%F"
  },
  {
   "id": "MSG/MSG9900/F218C",
@@ -191571,7 +191571,7 @@
   "offset": "C654",
   "jp": "それじゃ、さっそくＳＫＩＬＬカテゴリ内の\nスキルを選択して、敵を攻撃してみよう",
   "en": "Let's try selecting a skill from the skill\ncategory and attacking an enemy with it.",
-  "zh": ""
+  "zh": "那么，事不宜迟，从ＳＫＩＬＬ类别中\n选择技能来攻击敌人试试看吧"
  },
  {
   "id": "MSG/MSG9900/F218D",
@@ -191580,7 +191580,7 @@
   "offset": "C6A4",
   "jp": "うまく、敵を攻撃できる効果範囲を持つ\nスキルを選んで、①で決定してみるからね",
   "en": "First, choose a skill for which your target \nis within range, and press ① to select.",
-  "zh": ""
+  "zh": "好好选一个有效范围能够攻击到敌人的\n技能，然后按①确定吧"
  },
  {
   "id": "MSG/MSG9900/F218E",
@@ -191589,7 +191589,7 @@
   "offset": "C6F2",
   "jp": "効果範囲は、スキルごとにいろいろあるけどｱ",
   "en": "The range will vary from skill to skill.",
-  "zh": ""
+  "zh": "虽然效果范围因技能而异各不相同"
  },
  {
   "id": "MSG/MSG9900/F218F",
@@ -191598,7 +191598,7 @@
   "offset": "C71E",
   "jp": "フィールドに赤いグリッドで表示されるから\n簡単にわかるはずだよ%F",
   "en": "Range is displayed by red squares on the\ngrid, so it is quite easy to see.%F",
-  "zh": ""
+  "zh": "攻击范围会在场地上以红色网格显示，\n所以应该很容易看懂哦%F"
  },
  {
   "id": "MSG/MSG9900/F2190",
@@ -191607,7 +191607,7 @@
   "offset": "C762",
   "jp": "こうやって、スキルを選択してから①で決定\n一体のキャラクターの指示は、これで終了だよ",
   "en": "Once you've selected a skill, press ① again\nto confirm. The instruction is now complete.",
-  "zh": ""
+  "zh": "像这样选好技能后按①确定，\n一名角色的指令下达就完成了"
  },
  {
   "id": "MSG/MSG9900/F2191",
@@ -191616,7 +191616,7 @@
   "offset": "C7B8",
   "jp": "カーソルは、自動的にまだ指示を出していない\nキャラクターに合うからｱ",
   "en": "The cursor will automatically jump to a\ncharacter who hasn't moved yet.",
-  "zh": ""
+  "zh": "光标会自动对准尚未下达指令的\n角色，所以……"
  },
  {
   "id": "MSG/MSG9900/F2192",
@@ -191625,7 +191625,7 @@
   "offset": "C7FE",
   "jp": "同じ要領で、ほかの味方キャラクターにも\n指示を出していけばいいよ%F",
   "en": "Then you just need to give them instructions\nin the same way.%F",
-  "zh": ""
+  "zh": "按照同样的方法，依次给其他同伴角色\n下达指令就可以啦%F"
  },
  {
   "id": "MSG/MSG9900/F2193",
@@ -191634,7 +191634,7 @@
   "offset": "C844",
   "jp": "こうやって、全員分の指示が決定すると、ターン\nを開始するかの確認ダイアログが表示される",
   "en": "After handing out your instructions, you'll\nbe asked if you want to start the turn.",
-  "zh": ""
+  "zh": "像这样确定了全员的指令后，就会显示\n是否开始该回合的确认对话框"
  },
  {
   "id": "MSG/MSG9900/F2194",
@@ -191643,7 +191643,7 @@
   "offset": "C89C",
   "jp": "問題がなければ、そのまま決定すればいいし\nやり直したければ②で戻れるよ%F",
   "en": "Continue as-is to confirm, or press ② to \n#CFF697DBEgo back and make changes#c.%F",
-  "zh": ""
+  "zh": "如果没有问题直接确认即可，\n如果想重新调整可以按②返回哦%F"
  },
  {
   "id": "MSG/MSG9900/F2195",
@@ -191652,7 +191652,7 @@
   "offset": "C8E8",
   "jp": "移動と行動のやり方は、わかったかな？",
   "en": "That is how you move and act.",
-  "zh": ""
+  "zh": "移动和行动的操作方法，你掌握了吗？"
  },
  {
   "id": "MSG/MSG9900/F2196",
@@ -191661,7 +191661,7 @@
   "offset": "C90E",
   "jp": "まとめると・・・",
   "en": "To summarize...",
-  "zh": ""
+  "zh": "总的来说……"
  },
  {
   "id": "MSG/MSG9900/F2197",
@@ -191670,7 +191670,7 @@
   "offset": "C920",
   "jp": "キャラクターに移動と行動を指示するにはｱ",
   "en": "To give characters instructions on where to\nmove and how to act...",
-  "zh": ""
+  "zh": "给角色下达移动和行动指令时……"
  },
  {
   "id": "MSG/MSG9900/F2198",
@@ -191679,7 +191679,7 @@
   "offset": "C94A",
   "jp": "キャラクターを選択し、移動、行動の順番で\n指示を出す必要がある",
   "en": "You must first select them, move them, then\ndetermine their action.",
-  "zh": ""
+  "zh": "需要先选中角色，然后按照先移动、后行动\n的顺序来下达指令"
  },
  {
   "id": "MSG/MSG9900/F2199",
@@ -191688,7 +191688,7 @@
   "offset": "C98A",
   "jp": "移動は、青い移動可能範囲内なら自由に\n動ける",
   "en": "Characters can roam free within their\nblue movement range.",
-  "zh": ""
+  "zh": "移动方面，只要在蓝色的可移动范围内\n就可以自由行动"
  },
  {
   "id": "MSG/MSG9900/F219A",
@@ -191697,7 +191697,7 @@
   "offset": "C9B8",
   "jp": "行動は、持っているスキルやアイテムの中から\n使いたいものを選択する",
   "en": "When determining actions, choose from the \nskills and items that character possesses.",
-  "zh": ""
+  "zh": "行动方面，要从当前拥有的技能和道具中\n选择想要使用的项"
  },
  {
   "id": "MSG/MSG9900/F219B",
@@ -191706,7 +191706,7 @@
   "offset": "C9FC",
   "jp": "選択をやり直したければ、②でキャンセルする\nこともできる",
   "en": "Press ②#CFF697DBE to redo a selection#c at any point.",
-  "zh": ""
+  "zh": "若想重新选择，随时都可以按②取消"
  },
  {
   "id": "MSG/MSG9900/F219C",
@@ -191715,7 +191715,7 @@
   "offset": "CA36",
   "jp": "ちなみに、#CFF697DBE１ターン経過するごとにすべての\nキャラクターのＶＰが１ずつ減少#cしてしまうんだ",
   "en": "Incidentally... #CFF697DBEupon completion of each \nturn, each character's VP decreases by one#c.",
-  "zh": ""
+  "zh": "顺便提一下，#CFF697DBE每经过1个回合，所有角色的\nVP都会减少1点#c"
  },
  {
   "id": "MSG/MSG9900/F219D",
@@ -191724,7 +191724,7 @@
   "offset": "CAA6",
   "jp": "つまり、#CFF697DBE少ないターン数で戦闘を終了させると\nＶＰの減少は抑えられる#cということだね",
   "en": "In other words, #CFF697DBEtaking fewer turns to win \nwill ultimately prevent VP loss#c.",
-  "zh": ""
+  "zh": "也就是说，#CFF697DBE用越少的回合数结束战斗，\n就越能抑制VP的减少#c"
  },
  {
   "id": "MSG/MSG9900/F219E",
@@ -191733,7 +191733,7 @@
   "offset": "CB10",
   "jp": "それほど神経質になる必要はないけど\n一応、覚えておいてね",
   "en": "You don't need to worry too much about\nthis, but it's good to be clever!",
-  "zh": ""
+  "zh": "虽然不需要为此过度紧张，\n但还是先记住这一点吧"
  },
  {
   "id": "MSG/MSG9900/F219F",
@@ -191742,7 +191742,7 @@
   "offset": "CB4A",
   "jp": "これで説明を終わるよ",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "说明就到此结束了"
  },
  {
   "id": "MSG/MSG9900/F2238",
@@ -191751,7 +191751,7 @@
   "offset": "CB60",
   "jp": "このチュートリアルでは、戦局を一変させる\n可能性を秘めたスキル・・・",
   "en": "In this tutorial we will deal with #CFF697DBEEX#c.",
-  "zh": ""
+  "zh": "在这个新手教程中，将要介绍蕴含着\n扭转战局潜力的技能……"
  },
  {
   "id": "MSG/MSG9900/F2239",
@@ -191760,7 +191760,7 @@
   "offset": "CBA6",
   "jp": "#CFF697DBE“ＥＸ”#cについて説明するよ",
   "en": "These are super-powerful skills that can\ndecide a battle in a single stroke.",
-  "zh": ""
+  "zh": "也就是关于#CFF697DBE“EX”#c的说明哦"
  },
  {
   "id": "MSG/MSG9900/F223A",
@@ -191769,7 +191769,7 @@
   "offset": "CBDA",
   "jp": "ＥＸは、普通のスキルとは異なる点があるから\n簡単だけど説明するね",
   "en": "EX differ from regular skills in several \nways. It's simple, but listen carefully.",
-  "zh": ""
+  "zh": "EX技能与普通技能有些不同之处，\n我来为你做个简单的说明吧"
  },
  {
   "id": "MSG/MSG9900/F223B",
@@ -191778,7 +191778,7 @@
   "offset": "CC1C",
   "jp": "まず、#CFF697DBEゴーレムは使用できない",
   "en": "First,#CFF697DBE Golems cannot use them#c.",
-  "zh": ""
+  "zh": "首先，#CFF697DBE魔像是无法使用的"
  },
  {
   "id": "MSG/MSG9900/F223C",
@@ -191787,7 +191787,7 @@
   "offset": "CC4E",
   "jp": "つぎに、使用するためにはＥＰではなく\n#CFF697DBE“ＥＸゲージ”#cをためる必要があるんだ",
   "en": "Second, they do not require EP; instead you\nmust fill up the #CFF697DBEEX gauge#c.",
-  "zh": ""
+  "zh": "其次，使用它消耗的不是EP，\n而是需要积攒#CFF697DBE“EX槽”#c才行"
  },
  {
   "id": "MSG/MSG9900/F223D",
@@ -191796,7 +191796,7 @@
   "offset": "CCB2",
   "jp": "あと、ＥＸゲージは#CFF697DBEパーティ全員で一つを共有\n#cしているんだ、気をつけてね",
   "en": "Furthermore, the #CFF697DBEEX gauge serves the \nwhole allied party#c, so keep an eye on it.",
-  "zh": ""
+  "zh": "另外，EX槽是#CFF697DBE全队同伴共用一条\n#c的，要多加注意哦"
  },
  {
   "id": "MSG/MSG9900/F223E",
@@ -191805,7 +191805,7 @@
   "offset": "CD12",
   "jp": "それじゃ、実際にＥＸで敵を攻撃してみよう%F",
   "en": "So, let's try out an EX for real.%F",
-  "zh": ""
+  "zh": "那么，就实际试着用EX技能攻击敌人看看吧%F"
  },
  {
   "id": "MSG/MSG9900/F223F",
@@ -191814,7 +191814,7 @@
   "offset": "CD40",
   "jp": "どうだい？　これがＥＸだよ%J991811",
   "en": "What do you think? Pretty impressive, huh?%J991830",
-  "zh": ""
+  "zh": "感觉如何？这就是EX技能哦%J991811"
  },
  {
   "id": "MSG/MSG9900/F2240",
@@ -191823,7 +191823,7 @@
   "offset": "CD6C",
   "jp": "#CFF697DBEＥＸの威力は、使用するキャラクターの\n能力だけではなく#cｱ#CFF697DBE",
   "en": "#CFF697DBEThe might of an EX is determined not only by\nthe strength of the character you are using...",
-  "zh": ""
+  "zh": "#CFF697DBEEX技能的威力不仅取决于发动角色的\n能力，而且#c……#CFF697DBE"
  },
  {
   "id": "MSG/MSG9900/F2241",
@@ -191832,7 +191832,7 @@
   "offset": "CDD2",
   "jp": "#CFF697DBEパーティ全員の“ＦＰ”によって\n高めることができるんだ",
   "en": "#CFF697DBEBut also by the combined FP of the entire\nallied party.",
-  "zh": ""
+  "zh": "#CFF697DBE还能通过全队同伴的“FP”\n来进一步提升"
  },
  {
   "id": "MSG/MSG9900/F2242",
@@ -191841,7 +191841,7 @@
   "offset": "CE1E",
   "jp": "#CFF697DBEＥＸを最大限活用したければ、ＦＰの高い\nキャラクターをパーティにすればいい#cよ%J991830",
   "en": "#CFF697DBEIf you want to get the most out of an EX,\nplace characters with high FP together.%J991830",
-  "zh": ""
+  "zh": "#CFF697DBE如果想最大限度发挥EX技能的威力，只要把FP高的\n角色编入队伍就行啦#c%J991830"
  },
  {
   "id": "MSG/MSG9900/F2243",
@@ -191850,7 +191850,7 @@
   "offset": "CE94",
   "jp": "消費したＥＸゲージはｱ",
   "en": "The EX gauge...",
-  "zh": ""
+  "zh": "消耗掉的EX槽……"
  },
  {
   "id": "MSG/MSG9900/F2244",
@@ -191859,7 +191859,7 @@
   "offset": "CEAC",
   "jp": "#CFF697DBE敵から攻撃を受けたり、敵を倒したりすると\nたまっていく#cんだよ%J991825",
   "en": "#CFF697DBEFills up when enemies attack you or when\nyou defeat enemies#c.%J991825",
-  "zh": ""
+  "zh": "#CFF697DBE在受到敌人攻击或击败敌人时\n就会逐渐累积#c起来哦%J991825"
  },
  {
   "id": "MSG/MSG9900/F2245",
@@ -191868,7 +191868,7 @@
   "offset": "CF12",
   "jp": "たまったＥＸゲージは\nつぎの戦闘に引き継がれるからｱ",
   "en": "The EX gauge also carries over to the next\nbattle.",
-  "zh": ""
+  "zh": "积攒的EX槽\n会继承到下一场战斗，"
  },
  {
   "id": "MSG/MSG9900/F2246",
@@ -191877,7 +191877,7 @@
   "offset": "CF48",
   "jp": "ＥＸの使用タイミングも、戦闘を左右する\n重要な判断材料になるわけだね",
   "en": "So you have plenty of freedom in deciding \nwho will use the EX and when.",
-  "zh": ""
+  "zh": "所以EX的使用时机，也是左右战局的\n重要判断依据呢。"
  },
  {
   "id": "MSG/MSG9900/F2247",
@@ -191886,7 +191886,7 @@
   "offset": "CF8E",
   "jp": "最後に・・・",
   "en": "One more thing...",
-  "zh": ""
+  "zh": "最后……"
  },
  {
   "id": "MSG/MSG9900/F2248",
@@ -191895,7 +191895,7 @@
   "offset": "CF9C",
   "jp": "ボクも実際に見たことはないけど\nＥＸの効果はｱ",
   "en": "Although I have never seen one for myself...",
-  "zh": ""
+  "zh": "虽然我也没亲眼见过，\n不过据说EX的效果，"
  },
  {
   "id": "MSG/MSG9900/F2249",
@@ -191904,7 +191904,7 @@
   "offset": "CFCC",
   "jp": "攻撃だけではなく、防御や回復とか\nさまざまな種類があるって話だよ",
   "en": "Some EX are not attacks. Instead, they \nheal or protect allies.",
-  "zh": ""
+  "zh": "不仅有攻击，还有防御和回复等\n各种各样的种类哦。"
  },
  {
   "id": "MSG/MSG9900/F224A",
@@ -191913,7 +191913,7 @@
   "offset": "D00E",
   "jp": "ＥＸは、アツマ以外はレベルアップすることで\n覚えられるからｱ",
   "en": "Aside from Atsuma, everyone can learn new\nEX as they progress through each level.",
-  "zh": ""
+  "zh": "除了阿茨玛以外，其他人只要提升等级\n就能学会EX，"
  },
  {
   "id": "MSG/MSG9900/F224B",
@@ -191922,7 +191922,7 @@
   "offset": "D04C",
   "jp": "早くいろいろなＥＸが見れるといいね",
   "en": "Hopefully it won't be long before you've\nmastered EX.",
-  "zh": ""
+  "zh": "真希望能早点见识到各种EX呢。"
  },
  {
   "id": "MSG/MSG9900/F224C",
@@ -191931,7 +191931,7 @@
   "offset": "D070",
   "jp": "これで説明を終わるね",
   "en": "So, did you get all that?!",
-  "zh": ""
+  "zh": "那么说明就到此结束啦。"
  },
  {
   "id": "MSG/MSG9900/F2251",
@@ -191940,7 +191940,7 @@
   "offset": "D086",
   "jp": "それから、#CFF697DBE“OverBreak”や“連携攻撃”を\n決めると普段よりも多くゲージがたまる#cからね%J991813",
   "en": "Performing \"Overbreaks\" or \"Combination\nAttacks\" will greatly increase the gauge.%J991813",
-  "zh": ""
+  "zh": "还有，#CFF697DBE打出“OverBreak”或“连携攻击”的话，\n槽的积攒速度会比平时更快#c哦。%J991813"
  },
  {
   "id": "MSG/MSG9900/F2256",
@@ -191949,7 +191949,7 @@
   "offset": "D10C",
   "jp": "それから、#CFF697DBEＥＸ発動中にコントローラを振ると\nＥＸの威力が高まる#cからね",
   "en": "Also,#CFF697DBE shake the SIXAXIS™ wireless controller\nduring an EX to raise the damage it causes.",
-  "zh": ""
+  "zh": "另外，#CFF697DBE在EX发动期间摇晃手柄，\n就能提升EX的威力#c哦。"
  },
  {
   "id": "MSG/MSG9900/F2257",
@@ -191958,7 +191958,7 @@
   "offset": "D16A",
   "jp": "ＥＸを使うときには、コントローラを\n振りまくるとお得だよ%J991811",
   "en": "Shake it to get the most out of your EX\nattacks!%J991811",
-  "zh": ""
+  "zh": "使用EX的时候，死命摇动手柄\n可是很划算的哦！%J991811"
  },
  {
   "id": "MSG/MSG9900/F2300",
@@ -191967,7 +191967,7 @@
   "offset": "D1B4",
   "jp": "このチュートリアルでは、アイテムの使い方に\nついて説明するね",
   "en": "In this tutorial we will cover the use of \nitems.",
-  "zh": ""
+  "zh": "在这个教程中，将为你说明\n道具的使用方法。"
  },
  {
   "id": "MSG/MSG9900/F2301",
@@ -191976,7 +191976,7 @@
   "offset": "D1F2",
   "jp": "アイテムは、すべて一回使うとなくなって\nしまうよ",
   "en": "All items can only be used once.",
-  "zh": ""
+  "zh": "道具一旦使用一次就会\n彻底消耗掉哦。"
  },
  {
   "id": "MSG/MSG9900/F2302",
@@ -191985,7 +191985,7 @@
   "offset": "D224",
   "jp": "効果自体は、ＨＰやＥＰの回復といった\n補助的なものが多いけどｱ",
   "en": "Many items simply recover HP or EP, offering\nsupport effects...",
-  "zh": ""
+  "zh": "虽然效果大多以回复HP或EP等\n辅助性质为主，"
  },
  {
   "id": "MSG/MSG9900/F2303",
@@ -191994,7 +191994,7 @@
   "offset": "D264",
   "jp": "スキルが使えない状況におちいったとき\n意外と重宝するからｱ",
   "en": "But if you find yourself unable to use any\nskills, items can be vital.",
-  "zh": ""
+  "zh": "但若是陷入无法使用技能的绝境，\n可是会意外地派上大用场呢，"
  },
  {
   "id": "MSG/MSG9900/F2304",
@@ -192003,7 +192003,7 @@
   "offset": "D2A0",
   "jp": "使い方を覚えていて、損はないと思うよ",
   "en": "It's certainly worth taking the time to\nlearn how to use them.",
-  "zh": ""
+  "zh": "学会如何使用，绝对没有坏处哦。"
  },
  {
   "id": "MSG/MSG9900/F2305",
@@ -192012,7 +192012,7 @@
   "offset": "D2C6",
   "jp": "使用するには#CFF697DBE“ＩＴＥＭ”#cに切り替えて\n使いたいアイテムを選択すればいいんだ",
   "en": "Which is simple enough... flip over to #CFF697DBEITEM#c,\nthen select the item you wish to use.",
-  "zh": ""
+  "zh": "使用时只要切换到#CFF697DBE“ITEM”#c，\n再选择想要使用的道具就行了。"
  },
  {
   "id": "MSG/MSG9900/F2306",
@@ -192021,7 +192021,7 @@
   "offset": "D32A",
   "jp": "スキルの使い方と同じだよね",
   "en": "Just like using a skill.",
-  "zh": ""
+  "zh": "跟技能的使用方法是一样的呢。"
  },
  {
   "id": "MSG/MSG9900/F2307",
@@ -192030,7 +192030,7 @@
   "offset": "D346",
   "jp": "それじゃ、アイテムを使用してみよう%F",
   "en": "Try using an item now.%F",
-  "zh": ""
+  "zh": "那么，来试着用一下道具吧。%F"
  },
  {
   "id": "MSG/MSG9900/F2308",
@@ -192039,7 +192039,7 @@
   "offset": "D36E",
   "jp": "どうだい？\nアイテムの使い方はわかったかな？",
   "en": "How was that? Got the hang of it?",
-  "zh": ""
+  "zh": "怎么样？\n明白道具的使用方法了吗？"
  },
  {
   "id": "MSG/MSG9900/F2309",
@@ -192048,7 +192048,7 @@
   "offset": "D39C",
   "jp": "スキルとの最大の違いは、持っている数だけ\nいくらでも使える・・・",
   "en": "The biggest difference from skills is that\nif you have items, you can use them.",
-  "zh": ""
+  "zh": "与技能最大的区别在于，只要持有相应数量\n就能随意使用……"
  },
  {
   "id": "MSG/MSG9900/F230A",
@@ -192057,7 +192057,7 @@
   "offset": "D3DE",
   "jp": "つまり、ＥＰを気にせずに使い続けられる\nということだね",
   "en": "In other words, you don't need to worry\nabout EP.",
-  "zh": ""
+  "zh": "也就是说，完全不用在意EP\n可以一直使用呢。"
  },
  {
   "id": "MSG/MSG9900/F230B",
@@ -192066,7 +192066,7 @@
   "offset": "D416",
   "jp": "逆に、所持数が０になったら、当然だけど\n使うことはできないからｱ",
   "en": "Of course, if your remaining number falls to\nzero, you won't be able to use that item.",
-  "zh": ""
+  "zh": "相对地，持有数量变成0的话，理所当然\n就无法使用了，"
  },
  {
   "id": "MSG/MSG9900/F230C",
@@ -192075,7 +192075,7 @@
   "offset": "D458",
   "jp": "スキルとうまくバランスをとって\n使用することが、重要になるだろうね",
   "en": "Using them in careful balance with skills\nis the key.",
-  "zh": ""
+  "zh": "因此与技能之间做好权衡、巧妙搭配使用，\n会是非常关键的呢。"
  },
  {
   "id": "MSG/MSG9900/F230D",
@@ -192084,7 +192084,7 @@
   "offset": "D49C",
   "jp": "これで、説明を終わるね",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "那么，说明就到此结束啦。"
  },
  {
   "id": "MSG/MSG9900/F23C8",
@@ -192093,7 +192093,7 @@
   "offset": "D4B4",
   "jp": "このチュートリアルでは、属性の効果的な\n利用の仕方について説明するね",
   "en": "In this tutorial I will explain the \neffective use of attributes.",
-  "zh": ""
+  "zh": "在这个教程中，将为你说明\n如何有效利用属性。"
  },
  {
   "id": "MSG/MSG9900/F23C9",
@@ -192102,7 +192102,7 @@
   "offset": "D4FA",
   "jp": "キャラクターとスキルには、それぞれ\n#CFF697DBE“属性”#cがあるよ",
   "en": "Each character and skill has an#CFF697DBE attribute#c.",
-  "zh": ""
+  "zh": "角色与技能，各自都拥有\n#CFF697DBE“属性”#c哦。"
  },
  {
   "id": "MSG/MSG9900/F23CA",
@@ -192111,7 +192111,7 @@
   "offset": "D548",
   "jp": "キャラクター名称の左側に表示されている\nアイコンが、それぞれの属性を示しているんだ",
   "en": "The icon next to each character's name\nrepresents their attribute.",
-  "zh": ""
+  "zh": "显示在角色名称左侧的图标，\n就代表着各自的属性。"
  },
  {
   "id": "MSG/MSG9900/F23CB",
@@ -192120,7 +192120,7 @@
   "offset": "D59C",
   "jp": "アイコンが付いていない場合は、属性が\n“ない”ことをあらわしているよ",
   "en": "If no icon is displayed, it means that\ncharacter or skill has no attribute.",
-  "zh": ""
+  "zh": "如果没有图标，\n则表示“没有”属性哦。"
  },
  {
   "id": "MSG/MSG9900/F23CC",
@@ -192129,7 +192129,7 @@
   "offset": "D5E2",
   "jp": "属性は、地、水、火、風、光、闇があり\n#CFF697DBE地と風、水と火、光と闇が対#cになっているね",
   "en": "The attributes are: earth, water, fire, wind,\nlight and dark.",
-  "zh": ""
+  "zh": "属性分为地、水、火、风、光、暗，\n并且#CFF697DBE地与风、水与火、光与暗互为对立#c呢。"
  },
  {
   "id": "MSG/MSG9900/F23CD",
@@ -192138,7 +192138,7 @@
   "offset": "D64A",
   "jp": "スキルで敵を攻撃するときにｱ",
   "en": "They oppose each other as follows: #CFF697DBEearth vs.\nwind, fire vs. water and light vs. dark#c.",
-  "zh": ""
+  "zh": "使用技能攻击敌人时——"
  },
  {
   "id": "MSG/MSG9900/F23CE",
@@ -192147,7 +192147,7 @@
   "offset": "D668",
   "jp": "スキルと#CFF697DBE対になる属性をもつキャラクターを\n攻撃すれば、与えるダメージが増えるんだ",
   "en": "Attack #CFF697DBEan enemy with a skill whose attribute\nopposes their own to do extra damage#c.",
-  "zh": ""
+  "zh": "只要攻击具有与技能#CFF697DBE相克属性的角色，\n造成的伤害就会增加哦"
  },
  {
   "id": "MSG/MSG9900/F23CF",
@@ -192156,7 +192156,7 @@
   "offset": "D6CE",
   "jp": "反対に、#CFF697DBE敵と同じ属性で攻撃してしまうと\nダメージが減ってしまう#cんだ",
   "en": "However, #CFF697DBEattack an enemy with a skill of the\nsame attribute, and damage will be reduced#c.",
-  "zh": ""
+  "zh": "反之，#CFF697DBE若是用与敌人相同的属性进行攻击，\n造成的伤害就会减少#c"
  },
  {
   "id": "MSG/MSG9900/F23D0",
@@ -192165,7 +192165,7 @@
   "offset": "D72A",
   "jp": "実際にどれだけダメージに差が出るか\nたしかめてみようか？",
   "en": "Let's have a look at the difference in\ndamage then, shall we?",
-  "zh": ""
+  "zh": "来看看实际上伤害会有多大差距吧？"
  },
  {
   "id": "MSG/MSG9900/F23D1",
@@ -192174,7 +192174,7 @@
   "offset": "D764",
   "jp": "まずは、火属性のスキルで、#CFF697DBE対の属性#cの\n水属性キャラクターを攻撃してみよう",
   "en": "First, use a fire skill to attack a water\nenemy; these are#CFF697DBE opposing attributes#c.",
-  "zh": ""
+  "zh": "首先，试着用火属性技能，攻击与其属性#CFF697DBE相克#c的\n水属性角色吧"
  },
  {
   "id": "MSG/MSG9900/F23D2",
@@ -192183,7 +192183,7 @@
   "offset": "D7C6",
   "jp": "ダメージ量をしっかり記憶しておいてよ%F",
   "en": "Remember how much damage it does!%F",
-  "zh": ""
+  "zh": "要把造成的伤害数值牢牢记清楚哦%F"
  },
  {
   "id": "MSG/MSG9900/F23D3",
@@ -192192,7 +192192,7 @@
   "offset": "D7F0",
   "jp": "・・・ダメージ量は覚えているかな？",
   "en": "...Do you remember the damage?",
-  "zh": ""
+  "zh": "……还记得刚才的伤害数值吗？"
  },
  {
   "id": "MSG/MSG9900/F23D4",
@@ -192201,7 +192201,7 @@
   "offset": "D814",
   "jp": "次に、同じスキルで#CFF697DBE同属性#cの\n火属性キャラクターを攻撃してみよう%F",
   "en": "Now try the same skill on a fire enemy:#CFF697DBE the \nattributes match#c.%F",
-  "zh": ""
+  "zh": "接下来，用同样的技能攻击具有#CFF697DBE同种属性#c的\n火属性角色试试看吧%F"
  },
  {
   "id": "MSG/MSG9900/F23D5",
@@ -192210,7 +192210,7 @@
   "offset": "D870",
   "jp": "どう？　同じスキルなのに、ぜんぜん\nダメージ量が違うだろう？",
   "en": "Well? The same skill, yet the amount of\ndamage it inflicts is greatly reduced.",
-  "zh": ""
+  "zh": "怎么样？明明是同一个技能，造成的\n伤害却完全不同吧？"
  },
  {
   "id": "MSG/MSG9900/F23D6",
@@ -192219,7 +192219,7 @@
   "offset": "D8AE",
   "jp": "属性が違うだけで、これだけダメージ量に\n差が出るよ",
   "en": "That's the kind of difference an attribute\nmatch can make.",
-  "zh": ""
+  "zh": "仅仅是属性不同，就会在伤害数值上\n产生这么大的差距哦"
  },
  {
   "id": "MSG/MSG9900/F23D7",
@@ -192228,7 +192228,7 @@
   "offset": "D8E2",
   "jp": "きちんと属性を考えて戦えば、戦闘がグッと\n楽になるはずだよ",
   "en": "If you battle with attributes in mind you'll\nfind things go a lot more smoothly.",
-  "zh": ""
+  "zh": "只要充分考虑好属性相克再战斗，战斗过程绝对会\n轻松很多哦"
  },
  {
   "id": "MSG/MSG9900/F23D8",
@@ -192237,7 +192237,7 @@
   "offset": "D91E",
   "jp": "属性の相性については、これくらいかな",
   "en": "Well, that's about all there is to say\nabout attributes.",
-  "zh": ""
+  "zh": "关于属性相克的内容，差不多就是这些了吧"
  },
  {
   "id": "MSG/MSG9900/F23D9",
@@ -192246,7 +192246,7 @@
   "offset": "D944",
   "jp": "それじゃ、これで説明を終わるね",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "那么，讲解就到此结束啦"
  },
  {
   "id": "MSG/MSG9900/F2490",
@@ -192255,7 +192255,7 @@
   "offset": "D964",
   "jp": "このチュートリアルでは、連携攻撃について\n説明するね",
   "en": "This tutorial will explain combination \nattacks.",
-  "zh": ""
+  "zh": "在这个教程中，将为你讲解有关\n连携攻击的内容哦"
  },
  {
   "id": "MSG/MSG9900/F2491",
@@ -192264,7 +192264,7 @@
   "offset": "D99A",
   "jp": "連携攻撃というのはｱ",
   "en": "Combination attacks occur when...",
-  "zh": ""
+  "zh": "所谓的连携攻击就是——"
  },
  {
   "id": "MSG/MSG9900/F2492",
@@ -192273,7 +192273,7 @@
   "offset": "D9B0",
   "jp": "#CFF697DBE“複数のキャラクター”#cで",
   "en": "#CFF697DBEMultiple allies",
-  "zh": ""
+  "zh": "由#CFF697DBE“多名角色”#c"
  },
  {
   "id": "MSG/MSG9900/F2493",
@@ -192282,7 +192282,7 @@
   "offset": "D9E2",
   "jp": "#CFF697DBE“同じ敵を”",
   "en": "#CFF697DBEAttack the same enemy#c.",
-  "zh": ""
+  "zh": "#CFF697DBE“对同一个敌人”"
  },
  {
   "id": "MSG/MSG9900/F2494",
@@ -192291,7 +192291,7 @@
   "offset": "DA04",
   "jp": "攻撃すると、発生するんだ",
   "en": "Let's have a closer look.",
-  "zh": ""
+  "zh": "发起攻击时就会触发"
  },
  {
   "id": "MSG/MSG9900/F2495",
@@ -192300,7 +192300,7 @@
   "offset": "DA1E",
   "jp": "連携攻撃が発動すると、各キャラクターが\nバラバラに攻撃したときよりもｱ",
   "en": "Each character involved in the attack will\ndo more damage than if they go it alone.",
-  "zh": ""
+  "zh": "一旦发动连携攻击，比起各角色\n各自单独攻击时——"
  },
  {
   "id": "MSG/MSG9900/F2496",
@@ -192309,7 +192309,7 @@
   "offset": "DA66",
   "jp": "与えるダメージが増える",
   "en": "This is the big advantage of combination\nattacks.",
-  "zh": ""
+  "zh": "造成的伤害会大幅增加"
  },
  {
   "id": "MSG/MSG9900/F2497",
@@ -192318,7 +192318,7 @@
   "offset": "DA7E",
   "jp": "しかも、二人よりも三人、三人よりも四人で\n発動させたほうが#CFF697DBE個別のダメージも増える#cんだよ",
   "en": "The more characters involved, the more \n#CFF697DBEdamage to inflict#c!",
-  "zh": ""
+  "zh": "而且，相比两人，三人甚至四人一起发动，\n#CFF697DBE各自造成的伤害还会进一步提升#c哦"
  },
  {
   "id": "MSG/MSG9900/F2498",
@@ -192327,7 +192327,7 @@
   "offset": "DAEE",
   "jp": "だから、いつでも使いたいところだけど\n一つだけ条件がある・・・",
   "en": "However, you cannot simply perform a\ncombination attack whenever you wish...",
-  "zh": ""
+  "zh": "虽然很想让人随时都用这招，\n但触发它只有一个条件……"
  },
  {
   "id": "MSG/MSG9900/F2499",
@@ -192336,7 +192336,7 @@
   "offset": "DB2E",
   "jp": "それはキャラクターの#CFF697DBE“連携ゲージ”が\n最大になっている#c必要があるよ",
   "en": "First, the #CFF697DBEcharacters' combination gauges\nmust be at maximum#c.",
-  "zh": ""
+  "zh": "那就是角色的#CFF697DBE“连携槽”必须\n处于全满状态#c才行"
  },
  {
   "id": "MSG/MSG9900/F249A",
@@ -192345,7 +192345,7 @@
   "offset": "DB8A",
   "jp": "連携ゲージが、最大になっていないとｱ",
   "en": "A combination attack can only be performed\nif the combination gauge is at maximum.",
-  "zh": ""
+  "zh": "如果连携槽没有达到最大值——"
  },
  {
   "id": "MSG/MSG9900/F249B",
@@ -192354,7 +192354,7 @@
   "offset": "DBB0",
   "jp": "たとえ他の条件を満たしても、連携攻撃には\nならないんだ",
   "en": "The other conditions mean nothing if the\ngauges are not full.",
-  "zh": ""
+  "zh": "就算满足了其他条件，也是无法发动\n连携攻击的"
  },
  {
   "id": "MSG/MSG9900/F249C",
@@ -192363,7 +192363,7 @@
   "offset": "DBE8",
   "jp": "連携ゲージは、毎ターンキャラクターごとに\n決められた量だけ増えるけどｱ",
   "en": "Each character's combination gauge gradually\nbuilds up with each turn.",
-  "zh": ""
+  "zh": "连携槽虽然每个回合都会按角色各自\n固定的量增加——"
  },
  {
   "id": "MSG/MSG9900/F249D",
@@ -192372,7 +192372,7 @@
   "offset": "DC30",
   "jp": "同じ敵を、同時に攻撃することなどでも\n増やせるよ",
   "en": "Having two characters attack the same enemy\nwill also increase the gauge.",
-  "zh": ""
+  "zh": "但同时攻击同一个敌人等行动，\n也能加快积攒哦"
  },
  {
   "id": "MSG/MSG9900/F249E",
@@ -192381,7 +192381,7 @@
   "offset": "DC62",
   "jp": "いまは、ボクもアツマも連携ゲージは０だから\nターンを進めて、連携ゲージを最大にしてみよう%F",
   "en": "Our combination gauges are currently at \nzero. Take some turns and fill them up.%F",
-  "zh": ""
+  "zh": "现在我和阿茨玛的连携槽都是0，\n先推进几个回合，把连携槽攒满试试看吧%F"
  },
  {
   "id": "MSG/MSG9900/F249F",
@@ -192390,7 +192390,7 @@
   "offset": "DCC0",
   "jp": "半分たまったから\nさらにターンを進めよう%F",
   "en": "That's half. A little more!%F",
-  "zh": ""
+  "zh": "已经攒了一半了，\n再继续推进回合吧%F"
  },
  {
   "id": "MSG/MSG9900/F24A0",
@@ -192399,7 +192399,7 @@
   "offset": "DCEE",
   "jp": "うん",
   "en": "Okay.",
-  "zh": ""
+  "zh": "嗯"
  },
  {
   "id": "MSG/MSG9900/F24A1",
@@ -192408,7 +192408,7 @@
   "offset": "DCF4",
   "jp": "連携ゲージが、最大までたまったようだね",
   "en": "Our combination gauges are both at maximum.",
-  "zh": ""
+  "zh": "连携槽似乎已经蓄满了呢"
  },
  {
   "id": "MSG/MSG9900/F24A2",
@@ -192417,7 +192417,7 @@
   "offset": "DD1C",
   "jp": "それじゃ、二人で“同じ敵を”狙ってｱ",
   "en": "Now we both need to attack the same enemy...",
-  "zh": ""
+  "zh": "那么，我们两个人瞄准“同一个敌人”……"
  },
  {
   "id": "MSG/MSG9900/F24A3",
@@ -192426,7 +192426,7 @@
   "offset": "DD42",
   "jp": "連携攻撃をしかけてみよう%F",
   "en": "To launch a combination attack.%F",
-  "zh": ""
+  "zh": "来发动连携攻击试试吧%F"
  },
  {
   "id": "MSG/MSG9900/F24A4",
@@ -192435,7 +192435,7 @@
   "offset": "DD60",
   "jp": "どうだい？　いまのが連携攻撃さ",
   "en": "There you go. That's a combination attack.",
-  "zh": ""
+  "zh": "怎么样？刚才那就是连携攻击哦"
  },
  {
   "id": "MSG/MSG9900/F24A5",
@@ -192444,7 +192444,7 @@
   "offset": "DD80",
   "jp": "一度、連携攻撃を発動させると、連携ゲージは\n０に戻ってしまうけどｱ",
   "en": "Once you use a combination attack, the gauge\nwill return to zero.",
-  "zh": ""
+  "zh": "虽然一旦发动连携攻击，连携槽就会\n归零……"
  },
  {
   "id": "MSG/MSG9900/F24A6",
@@ -192453,7 +192453,7 @@
   "offset": "DDC4",
   "jp": "#CFF697DBEＦＰが高いと、ある程度連携ゲージがたまった\n状態から#cｱ#CFF697DBE",
   "en": "However, #CFF697DBEif your FP is high...",
-  "zh": ""
+  "zh": "#CFF697DBE但若是ＦＰ较高，就能从连携槽积累了一定量的\n状态下#c……#CFF697DBE"
  },
  {
   "id": "MSG/MSG9900/F24A7",
@@ -192462,7 +192462,7 @@
   "offset": "DE28",
   "jp": "やり直すことができるんだよ",
   "en": "#CFF697DBEThe gauge will not fall all the way back to\nzero.",
-  "zh": ""
+  "zh": "重新开始积攒哦"
  },
  {
   "id": "MSG/MSG9900/F24A8",
@@ -192471,7 +192471,7 @@
   "offset": "DE44",
   "jp": "#CFF697DBE連携攻撃をたくさん出したいなら\nＦＰの高いキャラクターが向いている#cわけだね%J992430",
   "en": "So #CFF697DBEif you want to use a lot of combinations,\nthen using characters with high FP is best#c.%J992430",
-  "zh": ""
+  "zh": "#CFF697DBE如果想多多发动连携攻击的话，\n选择ＦＰ高的角色会更合适#c呢%J992430"
  },
  {
   "id": "MSG/MSG9900/F24A9",
@@ -192480,7 +192480,7 @@
   "offset": "DEB8",
   "jp": "連携攻撃にまつわる細かい条件は\nまだ、あるんだけど・・・",
   "en": "There are a few other things to learn about\ncombination attacks, but...",
-  "zh": ""
+  "zh": "虽然关于连携攻击的详细条件\n还有一些，不过……"
  },
  {
   "id": "MSG/MSG9900/F24AA",
@@ -192489,7 +192489,7 @@
   "offset": "DEF2",
   "jp": "これで、説明を終わるね",
   "en": "I think that's enough for now!",
-  "zh": ""
+  "zh": "这次的说明就先到这里吧"
  },
  {
   "id": "MSG/MSG9900/F24AE",
@@ -192498,7 +192498,7 @@
   "offset": "DF0A",
   "jp": "ちなみに、#CFF697DBE連携ゲージの値は、戦闘終了後も\n引き継がれる#cからね%J992425",
   "en": "The Combination gauge carries over to the\nnext battle, too.%J992425",
-  "zh": ""
+  "zh": "顺便提一下，#CFF697DBE连携槽的数值在战斗结束后也会\n继承下去#c哦%J992425"
  },
  {
   "id": "MSG/MSG9900/F2558",
@@ -192507,7 +192507,7 @@
   "offset": "DF70",
   "jp": "このチュートリアルでは、#CFF697DBEオーバーブレイク#cに\nついて説明するね",
   "en": "This tutorial will deal with #CFF697DBEover-breaks#c.",
-  "zh": ""
+  "zh": "在这个教程中，我会对#CFF697DBE过度击溃#c（Over Break）\n进行说明呢"
  },
  {
   "id": "MSG/MSG9900/F2559",
@@ -192516,7 +192516,7 @@
   "offset": "DFC6",
   "jp": "オーバーブレイクとは、一体のキャラクターが\n一回の攻撃でｱ",
   "en": "An over-break is a special way of defeating\nenemies.",
-  "zh": ""
+  "zh": "所谓的过度击溃，是指由一名角色在一次攻击中……"
  },
  {
   "id": "MSG/MSG9900/F255A",
@@ -192525,7 +192525,7 @@
   "offset": "E002",
   "jp": "敵の最大ＨＰ以上のダメージを与えたときに\n起こる特殊な倒し方のことだよ",
   "en": "You must perform #CFF697DBEa single attack#c that causes\nmore damage than their HP can withstand.",
-  "zh": ""
+  "zh": "造成超过敌人最大ＨＰ以上的伤害时\n触发的特殊击倒方式哦"
  },
  {
   "id": "MSG/MSG9900/F255B",
@@ -192534,7 +192534,7 @@
   "offset": "E04A",
   "jp": "最大ＨＰ１００の敵をオーバーブレイクするには\n一回で１００ダメージを与える必要がある",
   "en": "So to over-break an enemy with 100 HP, you\nmust inflict over 100 HP's worth of damage.",
-  "zh": ""
+  "zh": "也就是说，要想对最大ＨＰ为１００的敌人造成过度击溃，\n就必须一次性给予１００点以上的伤害"
  },
  {
   "id": "MSG/MSG9900/F255C",
@@ -192543,7 +192543,7 @@
   "offset": "E0A0",
   "jp": "ということになるね",
   "en": "In a single attack. Simple enough, right?",
-  "zh": ""
+  "zh": "就是这么回事呢"
  },
  {
   "id": "MSG/MSG9900/F255D",
@@ -192552,7 +192552,7 @@
   "offset": "E0B4",
   "jp": "百聞は一見にしかずだよ\nじゃ、実際に試してみよう%F",
   "en": "Well, take a look at it in action.%F",
-  "zh": ""
+  "zh": "百闻不如一见，\n那么，实际尝试一下吧%F"
  },
  {
   "id": "MSG/MSG9900/F255E",
@@ -192561,7 +192561,7 @@
   "offset": "E0EA",
   "jp": "倒したときにオーバーブレイクが発生したのが\nわかったかい？",
   "en": "Did you see the over-break?",
-  "zh": ""
+  "zh": "看明白击倒时触发过度击溃的样子了吗？"
  },
  {
   "id": "MSG/MSG9900/F255F",
@@ -192570,7 +192570,7 @@
   "offset": "E126",
   "jp": "オーバーブレイクは、一回の攻撃で\n発生させないといけない、と言ったけどｱ",
   "en": "Okay, I know I said that a single attack must\nbe used to perform an over-break...",
-  "zh": ""
+  "zh": "虽说之前讲过过度击溃必须在一次攻击中\n触发……"
  },
  {
   "id": "MSG/MSG9900/F2560",
@@ -192579,7 +192579,7 @@
   "offset": "E170",
   "jp": "連携攻撃に限っては、合計のダメージが\n一度の攻撃扱いと同じになるんだよ",
   "en": "But the total damage from a combination\nattack also counts as a single attack.",
-  "zh": ""
+  "zh": "但连携攻击比较特殊，其总伤害也会被\n视同为一次攻击哦"
  },
  {
   "id": "MSG/MSG9900/F2561",
@@ -192588,7 +192588,7 @@
   "offset": "E1B8",
   "jp": "オーバーブレイクを発生させることが\n難しい敵と#W遭遇#Rそうぐう#rしたら",
   "en": "If you encounter enemies that you can't\nover-break alone...",
-  "zh": ""
+  "zh": "若是#W遭遇#Rそうぐう#r了难以单人触发\n过度击溃的敌人，"
  },
  {
   "id": "MSG/MSG9900/F2562",
@@ -192597,7 +192597,7 @@
   "offset": "E206",
   "jp": "連携攻撃を試してみると、うまくいくかも\nしれないね",
   "en": "A combination attack might get better\nresults.",
-  "zh": ""
+  "zh": "尝试一下连携攻击，说不定就能顺利\n达成了呢"
  },
  {
   "id": "MSG/MSG9900/F2563",
@@ -192606,7 +192606,7 @@
   "offset": "E23A",
   "jp": "それからオーバーブレイクをすると、いくつかの\nボーナスが得られるよ",
   "en": "Performing an over-break has two major\nadvantages.",
-  "zh": ""
+  "zh": "另外，如果达成了过度击溃，还能获得若干\n奖励加成哦"
  },
  {
   "id": "MSG/MSG9900/F2564",
@@ -192615,7 +192615,7 @@
   "offset": "E27E",
   "jp": "勝利後に#CFF697DBE手に入るＳＰアップ#c・・・%J992614",
   "en": "First, #CFF697DBESP obtained from the battle#c will\nincrease.%J992614",
-  "zh": ""
+  "zh": "比如胜利后#CFF697DBE获得的ＳＰ增加#c……%J992614"
  },
  {
   "id": "MSG/MSG9900/F2565",
@@ -192624,7 +192624,7 @@
   "offset": "E2C8",
   "jp": "勝利後に#CFF697DBE手に入るアイテムが、ランクの\n高いものになる#c・・・",
   "en": "",
-  "zh": ""
+  "zh": "胜利后#CFF697DBE获得的道具品质等级会更高#c……"
  },
  {
   "id": "MSG/MSG9900/F2566",
@@ -192633,7 +192633,7 @@
   "offset": "E31C",
   "jp": "#CFF697DBEＦＰが上昇する#c、といったところかな",
   "en": "Second, #CFF697DBEFP will increase#c.",
-  "zh": ""
+  "zh": "以及#CFF697DBEＦＰ会上升#c，差不多就是这些吧"
  },
  {
   "id": "MSG/MSG9900/F2567",
@@ -192642,7 +192642,7 @@
   "offset": "E358",
   "jp": "無理に狙うことはないけど、お得なボーナスは\n多いからｱ",
   "en": "Don't go out of your way for over-breaks,\nbut remember the bonuses are pretty good.",
-  "zh": ""
+  "zh": "虽然没必要强求，但由于划算的奖励\n非常丰厚……"
  },
  {
   "id": "MSG/MSG9900/F2568",
@@ -192651,7 +192651,7 @@
   "offset": "E390",
   "jp": "チャレンジする価値はあると思うよ",
   "en": "Get them if you can.",
-  "zh": ""
+  "zh": "我觉得还是非常值得挑战一下的哦"
  },
  {
   "id": "MSG/MSG9900/F2569",
@@ -192660,7 +192660,7 @@
   "offset": "E3B2",
   "jp": "さらに、オーバーブレイクには\n#CFF697DBEオーバーブレイクアッパー#cという",
   "en": "As well as the over-break there is the\n#CFF697DBEover-break upper#c.",
-  "zh": ""
+  "zh": "此外，在过度击溃之上，还有一种被称为\n#CFF697DBE极限击溃升华#c（Over Break Upper）的……"
  },
  {
   "id": "MSG/MSG9900/F256A",
@@ -192669,7 +192669,7 @@
   "offset": "E408",
   "jp": "超ダメージを与えたときにだけに発生する\n倒し方もあるんだよ",
   "en": "This is when you defeat an enemy by\ninflicting a truly massive amount of damage.",
-  "zh": ""
+  "zh": "仅在造成超绝伤害时才会触发的\n击倒方式哦"
  },
  {
   "id": "MSG/MSG9900/F256B",
@@ -192678,7 +192678,7 @@
   "offset": "E444",
   "jp": "アッパーをおこして敵を倒すとｱ",
   "en": "There is an extra advantage to defeating an\nenemy with an upper.",
-  "zh": ""
+  "zh": "发动击飞打倒敌人的话，"
  },
  {
   "id": "MSG/MSG9900/F256C",
@@ -192687,7 +192687,7 @@
   "offset": "E464",
   "jp": "普通はフィールドに倒れたまま、３ターンを\n経過しないと離脱しない敵をｱ",
   "en": "Regular enemies lie on the field for 3 turns\nafter being defeated, before disappearing.",
-  "zh": ""
+  "zh": "通常会倒在场地上，必须经过３回合\n才会离场的敌人，"
  },
  {
   "id": "MSG/MSG9900/F256D",
@@ -192696,7 +192696,7 @@
   "offset": "E4AC",
   "jp": "#CFF697DBE瞬時に離脱させる#cことができる\n敵の復活を阻止したいなら、狙ってみるんだね",
   "en": "If defeated with an upper, they will #CFF697DBEvanish\nimmediately.",
-  "zh": ""
+  "zh": "就能够#CFF697DBE瞬间让其离场#c。\n如果想要阻止敌人复活，不妨尝试一下吧。"
  },
  {
   "id": "MSG/MSG9900/F256E",
@@ -192705,7 +192705,7 @@
   "offset": "E50E",
   "jp": "オーバーブレイクについては、こんなところかな",
   "en": "This prevents other enemies from reviving\nthem.",
-  "zh": ""
+  "zh": "关于超限破坏，大概就是这些了吧。"
  },
  {
   "id": "MSG/MSG9900/F256F",
@@ -192714,7 +192714,7 @@
   "offset": "E53C",
   "jp": "それじゃ、これで説明を終わるね",
   "en": "Well, I think that's it for over-breaks.\nI hope you got all that!",
-  "zh": ""
+  "zh": "那么，说明就到此结束啦。"
  },
  {
   "id": "MSG/MSG9900/F25BC",
@@ -192723,7 +192723,7 @@
   "offset": "E55C",
   "jp": "このチュートリアルではｱ\n",
   "en": "In this tutorial I'm going to talk about \nattacks.",
-  "zh": ""
+  "zh": "在这个教程中，"
  },
  {
   "id": "MSG/MSG9900/F25BD",
@@ -192732,7 +192732,7 @@
   "offset": "E578",
   "jp": "直接攻撃スキルと間接攻撃スキルの\n違いについて説明するね",
   "en": "There are two types - close and ranged\nattacks.",
-  "zh": ""
+  "zh": "我将对直接攻击技能与间接攻击技能的\n区别进行说明。"
  },
  {
   "id": "MSG/MSG9900/F25BE",
@@ -192741,7 +192741,7 @@
   "offset": "E5B2",
   "jp": "二つとも敵にダメージを与えるスキルだけど\n一つだけ、大きな違いがあるんだ",
   "en": "Both of them cause damage to enemies, but\nthere is one major difference...",
-  "zh": ""
+  "zh": "虽然两者都是给予敌人伤害的技能，\n但有一个很大的区别。"
  },
  {
   "id": "MSG/MSG9900/F25BF",
@@ -192750,7 +192750,7 @@
   "offset": "E5FC",
   "jp": "直接攻撃スキルは、狙った敵の前のグリッドに\nほかの敵がいると“ＣＯＶＥＲ”が発生してｱ",
   "en": "For a close attack, enemies will \"cover\"\nother targets behind them on the grid...",
-  "zh": ""
+  "zh": "直接攻击技能如果目标敌人的前方格子上\n有其他敌人，就会触发“ＣＯＶＥＲ”，"
  },
  {
   "id": "MSG/MSG9900/F25C0",
@@ -192759,7 +192759,7 @@
   "offset": "E654",
   "jp": "ダメージが減ってしまうんだ",
   "en": "Reducing the damage they take.",
-  "zh": ""
+  "zh": "导致伤害降低。"
  },
  {
   "id": "MSG/MSG9900/F25C1",
@@ -192768,7 +192768,7 @@
   "offset": "E670",
   "jp": "でも、#CFF697DBE間接攻撃スキルでは減少が起こらない#cんだ\nＣＯＶＥＲについては、あとで説明するよ",
   "en": "However,#CFF697DBE covering does not occur in\nranged attacks#c. I'll explain cover later.",
-  "zh": ""
+  "zh": "但是，#CFF697DBE间接攻击技能不会发生衰减#c。\n关于ＣＯＶＥＲ，稍后会进行说明。"
  },
  {
   "id": "MSG/MSG9900/F25C2",
@@ -192777,7 +192777,7 @@
   "offset": "E6DE",
   "jp": "間接攻撃スキルは、ＣＯＶＥＲでダメージが\n減らされないぶん、使いやすいけどｱ",
   "en": "Despite the covering that occurs, close\nattacks are very easy to use.",
-  "zh": ""
+  "zh": "间接攻击技能虽然因为伤害不会被ＣＯＶＥＲ削减\n而更易于使用，"
  },
  {
   "id": "MSG/MSG9900/F25C3",
@@ -192786,7 +192786,7 @@
   "offset": "E72C",
   "jp": "直接攻撃スキルのほうが、ＰＰが高い場合が\n多いから、使い方しだいだね",
   "en": "The PP for close-combat attacks tends to\nbe higher than for ranged attacks, too.",
-  "zh": ""
+  "zh": "但直接攻击技能的ＰＰ往往更高，\n这就取决于你的运用方式了。"
  },
  {
   "id": "MSG/MSG9900/F25C4",
@@ -192795,7 +192795,7 @@
   "offset": "E772",
   "jp": "それじゃ、直接攻撃スキルの威力が\nどれだけ減少するか試してみよう",
   "en": "Try a close attack and get a feel for how\npowerful they are.",
-  "zh": ""
+  "zh": "那么，我们就来看看直接攻击技能的威力\n究竟会降低多少吧。"
  },
  {
   "id": "MSG/MSG9900/F25C5",
@@ -192804,7 +192804,7 @@
   "offset": "E7B4",
   "jp": "グリッド上で前にいる敵と、後ろにいる敵を\n同時にスキル効果範囲に入れて攻撃するからｱ",
   "en": "I'll attack an enemy with another target\nbehind it, too.",
-  "zh": ""
+  "zh": "我会把网格上前方的敌人和后方的敌人\n同时纳入技能效果范围发动攻击，"
  },
  {
   "id": "MSG/MSG9900/F25C6",
@@ -192813,7 +192813,7 @@
   "offset": "E80A",
   "jp": "前と後ろのキャラクターでダメージ量が\nどれだけ違うか、しっかり見ておくんだよ%F",
   "en": "Check the difference in damage between them.%F",
-  "zh": ""
+  "zh": "前方与后方的角色受到的伤害量\n究竟有多大差异，请仔细看好哦%F"
  },
  {
   "id": "MSG/MSG9900/F25C7",
@@ -192822,7 +192822,7 @@
   "offset": "E85C",
   "jp": "どう？\nダメージ量が、違っていたのがわかったかい？",
   "en": "Well? Did you see the difference that\ncovering made?",
-  "zh": ""
+  "zh": "如何？\n看出伤害量的差异了吗？"
  },
  {
   "id": "MSG/MSG9900/F25C8",
@@ -192831,7 +192831,7 @@
   "offset": "E890",
   "jp": "同じゴーレムでも、後ろにいたゴーレムのほうが\nダメージが低かっただろう？",
   "en": "Both targets were the same type of Golem,\nyet the one behind suffered less damage.",
-  "zh": ""
+  "zh": "即使是同一种魔像，处于后方的魔像\n受到的伤害也更低，对吧？"
  },
  {
   "id": "MSG/MSG9900/F25C9",
@@ -192840,7 +192840,7 @@
   "offset": "E8DA",
   "jp": "このダメージ減少効果のことを\n#CFF697DBE“ＣＯＶＥＲ”#cというんだ",
   "en": "This damage reducing effect is called #CFF697DBEcover#c.",
-  "zh": ""
+  "zh": "这种降低伤害的效果\n就叫做#CFF697DBE“ＣＯＶＥＲ”#c。"
  },
  {
   "id": "MSG/MSG9900/F25CA",
@@ -192849,7 +192849,7 @@
   "offset": "E92A",
   "jp": "いまは、前に一体しかいなかったけどｱ",
   "en": "You just saw an example using two enemies.",
-  "zh": ""
+  "zh": "刚才前面只有一体敌人，"
  },
  {
   "id": "MSG/MSG9900/F25CB",
@@ -192858,7 +192858,7 @@
   "offset": "E950",
   "jp": "#CFF697DBE前に二体いた場合、さらに効果は高まる#cんだ",
   "en": "However, #CFF697DBEdamage to a third enemy is even\nfurther reduced.",
-  "zh": ""
+  "zh": "#CFF697DBE但如果前面有两体，效果还会进一步提升#c。"
  },
  {
   "id": "MSG/MSG9900/F25CC",
@@ -192867,7 +192867,7 @@
   "offset": "E992",
   "jp": "与えるダメージが減ってしまうのは\n残念だけどｱ",
   "en": "It's a shame that damage to enemies is\nreduced, sure.",
-  "zh": ""
+  "zh": "造成的伤害被削减确实挺令人遗憾的，"
  },
  {
   "id": "MSG/MSG9900/F25CD",
@@ -192876,7 +192876,7 @@
   "offset": "E9C2",
   "jp": "こちらも味方を盾にして、傷ついた仲間を\n守れるわけだからｱ",
   "en": "But on the other hand, it allows us to\nprotect weakened allies.",
-  "zh": ""
+  "zh": "但反过来我们也能以队友为盾牌，\n保护负伤的同伴，"
  },
  {
   "id": "MSG/MSG9900/F25CE",
@@ -192885,7 +192885,7 @@
   "offset": "E9FE",
   "jp": "うまく利用できるかどうかで、戦局は\nけっこう変わってくるだろうね",
   "en": "Using cover cleverly can make a big\ndifference in battle.",
-  "zh": ""
+  "zh": "能否巧妙加以利用，\n战局也会产生相当大的变化吧。"
  },
  {
   "id": "MSG/MSG9900/F25CF",
@@ -192894,7 +192894,7 @@
   "offset": "EA40",
   "jp": "直接攻撃と、間接攻撃の特徴を理解して\n頭脳的に戦ってほしいものだね",
   "en": "Keep the differences between close and \nranged attacks in mind at all times!",
-  "zh": ""
+  "zh": "希望大家能理解直接攻击与间接攻击的特性，\n运用智慧去战斗呢。"
  },
  {
   "id": "MSG/MSG9900/F25D0",
@@ -192903,7 +192903,7 @@
   "offset": "EA84",
   "jp": "ちなみに、デビルゴーレム等の\n特別なゴーレムに対してはｱ",
   "en": "Keep in mind that some of the skills might\nnot always work against special enemies...",
-  "zh": ""
+  "zh": "顺便一提，对于恶魔魔像等\n特殊的魔像，"
  },
  {
   "id": "MSG/MSG9900/F25D1",
@@ -192912,7 +192912,7 @@
   "offset": "EABE",
   "jp": "技が効かないこともあるから注意が必要だよ",
   "en": "...Such as Devil Golems or key enemies.",
-  "zh": ""
+  "zh": "有时技能可能会不起作用，所以需要特别注意哦。"
  },
  {
   "id": "MSG/MSG9900/F25D2",
@@ -192921,7 +192921,7 @@
   "offset": "EAE8",
   "jp": "この項目で教えるべきことは、もうないからｱ",
   "en": "That's all for this section, then.",
-  "zh": ""
+  "zh": "本项要教的内容已经没有了，"
  },
  {
   "id": "MSG/MSG9900/F25D3",
@@ -192930,7 +192930,7 @@
   "offset": "EB14",
   "jp": "これで、説明を終わるよ",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "那么说明就到此结束啦。"
  },
  {
   "id": "MSG/MSG9900/F2620",
@@ -192939,7 +192939,7 @@
   "offset": "EB2C",
   "jp": "このチュートリアルではｱ",
   "en": "In this tutorial we need to deal with \nsomething a bit nasty.",
-  "zh": ""
+  "zh": "在这个教程中，"
  },
  {
   "id": "MSG/MSG9900/F2621",
@@ -192948,7 +192948,7 @@
   "offset": "EB46",
   "jp": "キャラクターのＨＰが０になって戦えなくなる\n#CFF697DBE“行動不能”#c状態について説明するね",
   "en": "I'll explain how when a character's HP falls\nto zero, they are#CFF697DBE knocked unconscious#c...",
-  "zh": ""
+  "zh": "下面我就来解释一下，角色ＨＰ归０\n无法继续战斗的#CFF697DBE“行动不能”#c状态吧"
  },
  {
   "id": "MSG/MSG9900/F2622",
@@ -192957,7 +192957,7 @@
   "offset": "EBAE",
   "jp": "戦闘中、ＨＰが０になると“行動不能”になる",
   "en": "If a character's HP falls to zero during \ncombat, they will be rendered immobile.",
-  "zh": ""
+  "zh": "战斗中，ＨＰ归０就会陷入“行动不能”状态"
  },
  {
   "id": "MSG/MSG9900/F2623",
@@ -192966,7 +192966,7 @@
   "offset": "EBDA",
   "jp": "行動不能になると、そのキャラクターは\nグリッド上に倒れてしまうよ",
   "en": "The character will collapse on the grid.",
-  "zh": ""
+  "zh": "陷入行动不能后，该角色\n就会倒在网格棋盘上哦"
  },
  {
   "id": "MSG/MSG9900/F2624",
@@ -192975,7 +192975,7 @@
   "offset": "EC1C",
   "jp": "こうなると、そのキャラクターは\n移動と行動をすることができなくなるんだ",
   "en": "Once this happens, that character cannot\nmove or act.",
-  "zh": ""
+  "zh": "这样一来，该角色\n就无法进行移动和行动了"
  },
  {
   "id": "MSG/MSG9900/F2625",
@@ -192984,7 +192984,7 @@
   "offset": "EC64",
   "jp": "敵を全員行動不能にすれば、全滅させたことに\nなり、戦闘に勝利するけどｱ",
   "en": "Knocking all enemies unconscious will win\nyou the battle.",
-  "zh": ""
+  "zh": "只要让敌方全员陷入行动不能，就算作全歼敌人\n从而获得战斗胜利，但是ｱ"
  },
  {
   "id": "MSG/MSG9900/F2626",
@@ -192993,7 +192993,7 @@
   "offset": "ECAC",
   "jp": "逆に、味方が全員行動不能になれば\nゲームオーバーになってしまうんだよ",
   "en": "But if all your allies are knocked\nunconscious, then it is Game Over.",
-  "zh": ""
+  "zh": "相反，要是己方全员都陷入行动不能\n可就会游戏结束了哦"
  },
  {
   "id": "MSG/MSG9900/F2627",
@@ -193002,7 +193002,7 @@
   "offset": "ECF2",
   "jp": "行動不能が、いかに戦闘を左右するものかが\nわかったかな？",
   "en": "It is the deciding factor in battle, as you\ncan see.",
-  "zh": ""
+  "zh": "明白行动不能有多么影响战局了吧？"
  },
  {
   "id": "MSG/MSG9900/F2628",
@@ -193011,7 +193011,7 @@
   "offset": "ED2C",
   "jp": "それじゃ、敵の一体を行動不能にしてみよう%F",
   "en": "So, let's knock an enemy unconscious.%F",
-  "zh": ""
+  "zh": "那么，就试着让其中一名敌人陷入行动不能吧%F"
  },
  {
   "id": "MSG/MSG9900/F2629",
@@ -193020,7 +193020,7 @@
   "offset": "ED5A",
   "jp": "敵が倒れた状態になっただろう？",
   "en": "They have collapsed, as I'm sure you can\nsee.",
-  "zh": ""
+  "zh": "敌人已经倒下了吧？"
  },
  {
   "id": "MSG/MSG9900/F262A",
@@ -193029,7 +193029,7 @@
   "offset": "ED7A",
   "jp": "行動不能になったキャラクターはｱ",
   "en": "An unconscious character...",
-  "zh": ""
+  "zh": "陷入行动不能的角色ｱ"
  },
  {
   "id": "MSG/MSG9900/F262B",
@@ -193038,7 +193038,7 @@
   "offset": "ED9C",
   "jp": "ほかのキャラクターが、スキルかアイテムで\n蘇生してくれない限りｱ",
   "en": "Can do nothing until another character\nuses an item or skill to revive them.",
-  "zh": ""
+  "zh": "除非其他角色用技能或道具\n将其复活，否则ｱ"
  },
  {
   "id": "MSG/MSG9900/F262C",
@@ -193047,7 +193047,7 @@
   "offset": "EDDE",
   "jp": "何もできなくなるよ",
   "en": "Totally immobile!",
-  "zh": ""
+  "zh": "什么都做不了哦"
  },
  {
   "id": "MSG/MSG9900/F262D",
@@ -193056,7 +193056,7 @@
   "offset": "EDF2",
   "jp": "さらに、この状態から３ターンが経過するとｱ",
   "en": "Furthermore, if 3 turns pass after being\nknocked unconscious...",
-  "zh": ""
+  "zh": "而且，在这种状态下经过３个回合后ｱ"
  },
  {
   "id": "MSG/MSG9900/F262E",
@@ -193065,7 +193065,7 @@
   "offset": "EE1E",
   "jp": "キャラクターそのものがフィールドから\n#CFF697DBE離脱してしまう#cよ",
   "en": "That character will #CFF697DBEleave the field#c.",
-  "zh": ""
+  "zh": "角色本身就会从战场上\n#CFF697DBE脱离离开#c哦"
  },
  {
   "id": "MSG/MSG9900/F262F",
@@ -193074,7 +193074,7 @@
   "offset": "EE6E",
   "jp": "離脱したキャラクターは、その戦闘中は二度と\n戦闘に参加させることができなくなるからｱ",
   "en": "Once a character leaves in this way, they\ncannot rejoin the battle.",
-  "zh": ""
+  "zh": "脱离战场的角色，在那场战斗中就再也\n无法重返战斗了，所以ｱ"
  },
  {
   "id": "MSG/MSG9900/F2630",
@@ -193083,7 +193083,7 @@
   "offset": "EEC4",
   "jp": "味方が行動不能になったら、離脱してしまう前に\nなんとしても、蘇生させることだね",
   "en": "So you need to revive your unconscious\nallies before they are forced to withdraw.",
-  "zh": ""
+  "zh": "同伴陷入行动不能的话，在脱离战场之前\n无论如何都要将其复活哦"
  },
  {
   "id": "MSG/MSG9900/F2631",
@@ -193092,7 +193092,7 @@
   "offset": "EF14",
   "jp": "また、一回行動不能になるたびに\nキャラクターのＶＰが一定量減少するしｱ",
   "en": "When a character is knocked unconscious they\nwill lose VP.",
-  "zh": ""
+  "zh": "另外，每陷入一次行动不能\n角色的ＶＰ就会减少一定数值，而且ｱ"
  },
  {
   "id": "MSG/MSG9900/F2632",
@@ -193101,7 +193101,7 @@
   "offset": "EF5C",
   "jp": "#CFF697DBE行動不能のまま戦闘に勝利しても、経験値は\n手に入るけど、ＳＰは手に入らないから#cｱ#CFF697DBE",
   "en": "#CFF697DBECharacters who finish a battle unconscious\nwill receive experience points but no SP.",
-  "zh": ""
+  "zh": "#CFF697DBE在行动不能的状态下赢得战斗，虽然能\n获得经验值，但无法获得ＳＰ#cｱ#CFF697DBE"
  },
  {
   "id": "MSG/MSG9900/F2633",
@@ -193110,7 +193110,7 @@
   "offset": "EFDA",
   "jp": "行動不能になって良いことは、あまりないと\n言えるかな",
   "en": "There are no advantages to being knocked\nout, as you can see.",
-  "zh": ""
+  "zh": "可以说陷入行动不能基本没什么好处吧"
  },
  {
   "id": "MSG/MSG9900/F2634",
@@ -193119,7 +193119,7 @@
   "offset": "F010",
   "jp": "あと、行動不能や離脱をしてしまっても\nそれほど、深刻になる必要もないよ",
   "en": "However, it is not such a tragedy.",
-  "zh": ""
+  "zh": "不过，就算陷入行动不能甚至脱离战场\n也没必要想得太严重哦"
  },
  {
   "id": "MSG/MSG9900/F2635",
@@ -193128,7 +193128,7 @@
   "offset": "F058",
   "jp": "戦闘が終了すれば、行動不能、離脱に関係なく\n味方は全員復活することができるからさ",
   "en": "Once a battle ends all characters will be\nrevived, no matter the outcome.",
-  "zh": ""
+  "zh": "因为只要战斗结束，无论行动不能还是脱离战场\n己方全员都会复活的"
  },
  {
   "id": "MSG/MSG9900/F2636",
@@ -193137,7 +193137,7 @@
   "offset": "F0AA",
   "jp": "行動不能について、教えたいことは\nこんなものかな",
   "en": "I think that's all there is to say on this\ntopic!",
-  "zh": ""
+  "zh": "关于行动不能，想教你的\n大概就是这些了吧"
  },
  {
   "id": "MSG/MSG9900/F2637",
@@ -193146,7 +193146,7 @@
   "offset": "F0DC",
   "jp": "これで、説明を終わるよ",
   "en": "I hope you got all that!",
-  "zh": ""
+  "zh": "那么，说明就到此结束啦"
  },
  {
   "id": "MSG/MSG9900/F26E8",
@@ -193155,7 +193155,7 @@
   "offset": "F0F4",
   "jp": "このチュートリアルではｱ",
   "en": "This tutorial...",
-  "zh": ""
+  "zh": "在这个教程中ｱ"
  },
  {
   "id": "MSG/MSG9900/F26E9",
@@ -193164,7 +193164,7 @@
   "offset": "F10E",
   "jp": "#CFF697DBE“全体コマンド”#cの使い方と機能について\n説明するね",
   "en": "Will deal with #CFF697DBEoverall commands#c.",
-  "zh": ""
+  "zh": "我来讲解一下#CFF697DBE“全局指令”#c的使用方法\n和功能吧"
  },
  {
   "id": "MSG/MSG9900/F26EA",
@@ -193173,7 +193173,7 @@
   "offset": "F15A",
   "jp": "全体コマンドは、戦闘中④を押すと開きｱ",
   "en": "Press ④ during battle to open the overall\ncommands menu.",
-  "zh": ""
+  "zh": "在战斗中按下④即可打开全局指令，ｱ"
  },
  {
   "id": "MSG/MSG9900/F26EB",
@@ -193182,7 +193182,7 @@
   "offset": "F182",
   "jp": "戦闘をよりスムーズに進めるための\nコマンドが並んでいるよ%F",
   "en": "These commands will make the battle\nflow more smoothly.%F",
-  "zh": ""
+  "zh": "里面排列着能让战斗\n推进得更顺畅的各项指令哦%F"
  },
  {
   "id": "MSG/MSG9900/F26EC",
@@ -193191,7 +193191,7 @@
   "offset": "F1C0",
   "jp": "全体コマンドで選択できるコマンドは\n#CFF697DBE強制スタート、オート、エスケープ#cの３つだよ",
   "en": "There are three commands available -\n#CFF697DBEQuick Start#c, #CFF697DBEAuto#c and #CFF697DBEEscape#c.",
-  "zh": ""
+  "zh": "在全局指令中可选择的指令\n共有#CFF697DBE强制开始、自动、逃跑#c这３个哦"
  },
  {
   "id": "MSG/MSG9900/F26ED",
@@ -193200,7 +193200,7 @@
   "offset": "F228",
   "jp": "強制スタートは、行動を決定したキャラクター\nだけでターンを開始してしまうコマンドさ",
   "en": "Quick Start will start your turn right away.",
-  "zh": ""
+  "zh": "强制开始，是仅让已决定行动的角色\n直接开始回合的指令"
  },
  {
   "id": "MSG/MSG9900/F26EE",
@@ -193209,7 +193209,7 @@
   "offset": "F27C",
   "jp": "このとき、まだ行動を決めていなかった\nキャラクターがいた場合ｱ",
   "en": "Any characters to whom you have not yet\ngiven commands...",
-  "zh": ""
+  "zh": "此时，如果还有未决定行动的\n角色的话ｱ"
  },
  {
   "id": "MSG/MSG9900/F26EF",
@@ -193218,7 +193218,7 @@
   "offset": "F2BC",
   "jp": "そのターンは何もせず、待機を選択するよ%J993017",
   "en": "Will do nothing for that turn.%J993017",
-  "zh": ""
+  "zh": "该回合什么都不做，选择待机哦%J993017"
  },
  {
   "id": "MSG/MSG9900/F26F0",
@@ -193227,7 +193227,7 @@
   "offset": "F2F4",
   "jp": "オートは、自動で移動先を選び、自動でスキルを\n選択して行動してくれるよ",
   "en": "",
-  "zh": ""
+  "zh": "自动则是会自动选择移动目的地、自动选择技能\n来进行行动的哦"
  },
  {
   "id": "MSG/MSG9900/F26F1",
@@ -193236,7 +193236,7 @@
   "offset": "F33C",
   "jp": "エスケープは、戦闘から逃亡するコマンドだよ",
   "en": "Escape is used to flee from battle.",
-  "zh": ""
+  "zh": "逃跑是从战斗中逃跑的指令哦"
  },
  {
   "id": "MSG/MSG9900/F26F2",
@@ -193245,7 +193245,7 @@
   "offset": "F368",
   "jp": "一部の戦闘を除いて、確実に逃亡することが\n出来るからｱ",
   "en": "Except for certain special battles, you can\nalways flee a battle.",
-  "zh": ""
+  "zh": "除了部分战斗以外，基本都能确实地\n逃跑成功ｱ"
  },
  {
   "id": "MSG/MSG9900/F26F3",
@@ -193254,7 +193254,7 @@
   "offset": "F3A0",
   "jp": "危ないと思ったら、迷わずエスケープするんだね",
   "en": "If things look risky, don't panic, because\nrunning away is an option.",
-  "zh": ""
+  "zh": "觉得危险的话，就毫不犹豫地选择逃跑吧"
  },
  {
   "id": "MSG/MSG9900/F26F4",
@@ -193263,7 +193263,7 @@
   "offset": "F3CE",
   "jp": "ただ、エスケープするたびに\n味方全員のＶＰが一定量減少してしまうからｱ",
   "en": "However, each character's VP will reduce\nif you decide to run away...",
-  "zh": ""
+  "zh": "不过，每次逃跑时\n全体同伴的VP都会减少一定数值ｱ"
  },
  {
   "id": "MSG/MSG9900/F26F5",
@@ -193272,7 +193272,7 @@
   "offset": "F416",
   "jp": "そうひんぱんにエスケープしていると\nたいへんなことになるだろうけどね",
   "en": "Abuse this option and you'll pay for it!",
-  "zh": ""
+  "zh": "要是太频繁逃跑的话\n后果可是会很严重的哦"
  },
  {
   "id": "MSG/MSG9900/F26F6",
@@ -193281,7 +193281,7 @@
   "offset": "F45C",
   "jp": "全体コマンドを閉じるときは\n②を押せばいいよ%F",
   "en": "Press ② to close the overall commands.%F",
-  "zh": ""
+  "zh": "关闭全体指令时\n按下②就可以啦%F"
  },
  {
   "id": "MSG/MSG9900/F26F7",
@@ -193290,7 +193290,7 @@
   "offset": "F48E",
   "jp": "全体コマンドについて、だいたいわかったかな？",
   "en": "I think that's it for overall commands!",
-  "zh": ""
+  "zh": "关于全体指令，大致都明白了吗？"
  },
  {
   "id": "MSG/MSG9900/F26F8",
@@ -193299,7 +193299,7 @@
   "offset": "F4BC",
   "jp": "これで、説明を終わるね%F",
   "en": "I hope you got all that!%F",
-  "zh": ""
+  "zh": "那么，说明就到此为止咯%F"
  },
  {
   "id": "MSG/MSG9900/F26F9",
@@ -193308,7 +193308,7 @@
   "offset": "F4D8",
   "jp": "ちなみに、⑨がショートカットになっているよ\n④を押すのがメンドウなら使ってみるんだね%F",
   "en": "⑨ works as a shortcut to start your\nturn, and is faster than using ④.%F",
-  "zh": ""
+  "zh": "顺便一提，⑨是快捷键哦\n嫌按④麻烦的话不妨试试用它呢%F"
  },
  {
   "id": "MSG/MSG9900/F26FA",
@@ -193317,7 +193317,7 @@
   "offset": "F532",
   "jp": "オートは、移動や行動を入力する必要がない\n完全に自動で戦闘を行うコマンドだね",
   "en": "Auto will move all characters automatically.\nYou don't need to do anything else.",
-  "zh": ""
+  "zh": "自动是无需输入移动和行动、\n完全自动进行战斗的指令呢"
  },
  {
   "id": "MSG/MSG9900/F26FB",
@@ -193326,7 +193326,7 @@
   "offset": "F580",
   "jp": "ただし、１ターンのみオートになるよ",
   "en": "Auto needs to be re-selected each turn, for\nit doesn't remain in effect.",
-  "zh": ""
+  "zh": "不过，自动只会持续1个回合哦"
  },
  {
   "id": "MSG/MSG9900/F26FC",
@@ -193335,7 +193335,7 @@
   "offset": "F5A4",
   "jp": "入力はラクになるけど、行動は必ずしも最適では\nないから、自分で入力したときよりｱ",
   "en": "The strategy characters use on Auto may not\nbe the best for a quick, solid win...",
-  "zh": ""
+  "zh": "虽然输入省心了，但行动未必总是最优解，\n所以比起自己亲自输入指令ｱ"
  },
  {
   "id": "MSG/MSG9900/F26FD",
@@ -193344,7 +193344,7 @@
   "offset": "F5F6",
   "jp": "時間がかかったりすることもあるかもしれない\n過信は禁物ということだね",
   "en": "Better to input moves yourself. Don't put\ntoo much faith in it!",
-  "zh": ""
+  "zh": "有时可能会花费更多时间\n可千万不要过度依赖哦"
  },
  {
   "id": "MSG/MSG9900/F26FE",
@@ -193353,7 +193353,7 @@
   "offset": "F63C",
   "jp": "まぁ、けど同じ敵と何度も戦うのもおっくうかも\nしれないから、要は使いどころだね",
   "en": "However, it can help take some stress out\nof battling, so keep it in mind!",
-  "zh": ""
+  "zh": "嘛，不过反复跟相同的敌人战斗可能也会嫌麻烦，\n关键在于把握使用的时机呢"
  },
  {
   "id": "MSG/MSG9900/F26FF",
@@ -193362,7 +193362,7 @@
   "offset": "F68C",
   "jp": "あと、オートは⑩がショートカットに\nなっているからね%F",
   "en": "⑩ also works as a shortcut for Auto.%F",
-  "zh": ""
+  "zh": "另外，⑩是自动的\n快捷键哦%F"
  },
  {
   "id": "MSG/MSG9900/F2700",
@@ -193371,7 +193371,7 @@
   "offset": "F6C6",
   "jp": "#CFF697DBE“ＰＰ”#cはそのスキルの威力をあらわしているよ",
   "en": "#CFF697DBEPP#c displays the raw power of the skill.",
-  "zh": ""
+  "zh": "#CFF697DBE“PP”#c代表的是该技能的威力哦"
  },
  {
   "id": "MSG/MSG9900/F2701",
@@ -193380,7 +193380,7 @@
   "offset": "F70C",
   "jp": "#CFF697DBEそのスキルが攻撃系なら、攻撃力をあらわし\n回復系なら回復力をあらわす#cｱ#CFF697DBE",
   "en": "#CFF697DBEFor an attacking skill it is attack power,\nand healing power for a healing skill.",
-  "zh": ""
+  "zh": "#CFF697DBE该技能若是攻击系则代表攻击力，\n若是回复系则代表回复力#cｱ#CFF697DBE"
  },
  {
   "id": "MSG/MSG9900/F2702",
@@ -193389,7 +193389,7 @@
   "offset": "F780",
   "jp": "スキルの持っているパワーのことだよ",
   "en": "It's a representation of the power contained\nin that skill.",
-  "zh": ""
+  "zh": "也就是技能本身所蕴含的力量哦"
  },
  {
   "id": "MSG/MSG9900/F2703",
@@ -193398,7 +193398,7 @@
   "offset": "F7A4",
   "jp": "ＰＰの数値が基本的にそのままダメージ量になり\nまたは回復量になるということになるね%J991465",
   "en": "So the PP value, in principle, is the amount\nof damage or healing a skill can dispense.%J991465",
-  "zh": ""
+  "zh": "也就是说PP的数值基本上会直接转化为伤害量\n或是回复量呢%J991465"
  },
  {
   "id": "MSG/MSG9900/F3A71",
@@ -193407,7 +193407,7 @@
   "offset": "F808",
   "jp": "%sを%s個手に入れた",
   "en": "Obtained %s %s",
-  "zh": ""
+  "zh": "获得了%s个%s"
  },
  {
   "id": "MSG/MSG9900/F3AAD",
@@ -193416,7 +193416,7 @@
   "offset": "F820",
   "jp": "%sを%s個手に入れた",
   "en": "Obtained %s %s",
-  "zh": ""
+  "zh": "获得了%s个%s"
  },
  {
   "id": "MSG/MSG9900/F3AAE",
@@ -193425,7 +193425,7 @@
   "offset": "F838",
   "jp": "%sを%s個受け取った",
   "en": "Received %s %s",
-  "zh": ""
+  "zh": "收到了%s个%s"
  },
  {
   "id": "MSG/MSG9900/F3B39",
@@ -193434,7 +193434,7 @@
   "offset": "F850",
   "jp": "%s専用　%sを手に入れた",
   "en": "Obtained %s for %s",
-  "zh": ""
+  "zh": "获得了%s专用　%s"
  },
  {
   "id": "MSG/MSG9900/F3B75",
@@ -193443,7 +193443,7 @@
   "offset": "F86C",
   "jp": "%s専用　%sを手に入れた",
   "en": "Obtained %s for %s",
-  "zh": ""
+  "zh": "获得了%s专用　%s"
  },
  {
   "id": "MSG/MSG9900/F3B76",
@@ -193452,7 +193452,7 @@
   "offset": "F888",
   "jp": "%s専用　%sを受け取った",
   "en": "Received %s for %s",
-  "zh": ""
+  "zh": "收到了%s专用　%s"
  },
  {
   "id": "MSG/MSG9900/F3B77",
@@ -193461,7 +193461,7 @@
   "offset": "F8A4",
   "jp": "クリアボーナス　ケイオスコアを手に入れた！",
   "en": "Clear Bonus Chaos Core obtained!",
-  "zh": ""
+  "zh": "获得了通关奖励　混沌核心！"
  },
  {
   "id": "MSG/MSG9900/F3B9C",
@@ -193470,7 +193470,7 @@
   "offset": "F8D0",
   "jp": "非常に強力な敵です。",
   "en": "This is a very powerful enemy.",
-  "zh": ""
+  "zh": "非常强力的敌人。"
  },
  {
   "id": "MSG/MSG9900/F4227",
@@ -193479,7 +193479,7 @@
   "offset": "F8E6",
   "jp": "ダミーB%F",
   "en": "Dummy B%F",
-  "zh": ""
+  "zh": "Dummy B%F"
  },
  {
   "id": "MSG/MSG9900/F4228",
@@ -193488,7 +193488,7 @@
   "offset": "F8F4",
   "jp": "ダミーC%F",
   "en": "Dummy C%F",
-  "zh": ""
+  "zh": "占位C%F"
  },
  {
   "id": "MSG/MSG9900/F4229",
@@ -193497,7 +193497,7 @@
   "offset": "F902",
   "jp": "ダミーD%F",
   "en": "Dummy D%F",
-  "zh": ""
+  "zh": "占位D%F"
  },
  {
   "id": "MSG/MSG9900/F422A",
@@ -193506,7 +193506,7 @@
   "offset": "F910",
   "jp": "ダミーE%F",
   "en": "Dummy E%F",
-  "zh": ""
+  "zh": "占位E%F"
  },
  {
   "id": "MSG/MSG9900/F422B",
@@ -193515,7 +193515,7 @@
   "offset": "F91E",
   "jp": "ダミーF%F",
   "en": "Dummy F%F",
-  "zh": ""
+  "zh": "占位F%F"
  },
  {
   "id": "MSG/MSG9900/F422C",
@@ -193524,7 +193524,7 @@
   "offset": "F92C",
   "jp": "ダミーG%F",
   "en": "Dummy G%F",
-  "zh": ""
+  "zh": "占位G%F"
  },
  {
   "id": "MSG/MSG9900/F422D",
@@ -193533,7 +193533,7 @@
   "offset": "F93A",
   "jp": "ダミーH%F",
   "en": "Dummy H%F",
-  "zh": ""
+  "zh": "占位H%F"
  },
  {
   "id": "MSG/MSG9900/F422E",
@@ -193542,7 +193542,7 @@
   "offset": "F948",
   "jp": "ダミーI%F",
   "en": "Dummy I%F",
-  "zh": ""
+  "zh": "占位I%F"
  },
  {
   "id": "MSG/MSG9900/F422F",
@@ -193551,7 +193551,7 @@
   "offset": "F956",
   "jp": "ダミーJ%F",
   "en": "Dummy J%F",
-  "zh": ""
+  "zh": "占位J%F"
  },
  {
   "id": "MSG/MSG9900/F4230",
@@ -193560,7 +193560,7 @@
   "offset": "F964",
   "jp": "ダミーK%F",
   "en": "Dummy K%F",
-  "zh": ""
+  "zh": "占位K%F"
  },
  {
   "id": "MSG/MSG9900/F4231",
@@ -193569,7 +193569,7 @@
   "offset": "F972",
   "jp": "ダミーL%F",
   "en": "Dummy L%F",
-  "zh": ""
+  "zh": "占位L%F"
  },
  {
   "id": "MSG/MSG9900/F4232",
@@ -193578,7 +193578,7 @@
   "offset": "F980",
   "jp": "ダミーM%F",
   "en": "Dummy M%F",
-  "zh": ""
+  "zh": "占位M%F"
  },
  {
   "id": "MSG/MSG9900/F4233",
@@ -193587,7 +193587,7 @@
   "offset": "F98E",
   "jp": "ダミーN%F",
   "en": "Dummy N%F",
-  "zh": ""
+  "zh": "占位N%F"
  },
  {
   "id": "MSG/MSG9900/F4234",
@@ -193596,7 +193596,7 @@
   "offset": "F99C",
   "jp": "ダミーO%F",
   "en": "Dummy O%F",
-  "zh": ""
+  "zh": "占位O%F"
  },
  {
   "id": "MSG/MSG9900/F4235",
@@ -193605,7 +193605,7 @@
   "offset": "F9AA",
   "jp": "ダミーP%F",
   "en": "Dummy P%F",
-  "zh": ""
+  "zh": "占位P%F"
  },
  {
   "id": "MSG/MSG9900/F4236",
@@ -193614,7 +193614,7 @@
   "offset": "F9B8",
   "jp": "ダミーQ%F",
   "en": "Dummy Q%F",
-  "zh": ""
+  "zh": "占位Q%F"
  },
  {
   "id": "MSG/MSG9900/F4237",
@@ -193623,7 +193623,7 @@
   "offset": "F9C6",
   "jp": "ダミーR%F",
   "en": "Dummy R%F",
-  "zh": ""
+  "zh": "占位R%F"
  },
  {
   "id": "MSG/MSG9900/F4238",
@@ -193632,7 +193632,7 @@
   "offset": "F9D4",
   "jp": "ダミーS%F",
   "en": "Dummy S%F",
-  "zh": ""
+  "zh": "占位S%F"
  },
  {
   "id": "MSG/MSG9900/F4239",
@@ -193641,7 +193641,7 @@
   "offset": "F9E2",
   "jp": "ダミーT%F",
   "en": "Dummy T%F",
-  "zh": ""
+  "zh": "占位T%F"
  },
  {
   "id": "MSG/MSG9900/F423A",
@@ -193650,7 +193650,7 @@
   "offset": "F9F0",
   "jp": "ダミーU%F",
   "en": "Dummy U%F",
-  "zh": ""
+  "zh": "占位U%F"
  },
  {
   "id": "MSG/MSG9900/F423B",
@@ -193659,7 +193659,7 @@
   "offset": "F9FE",
   "jp": "ダミーV%F",
   "en": "Dummy V%F",
-  "zh": ""
+  "zh": "占位V%F"
  },
  {
   "id": "MSG/MSG9900/F423C",
@@ -193668,7 +193668,7 @@
   "offset": "FA0C",
   "jp": "ダミーW%F",
   "en": "Dummy W%F",
-  "zh": ""
+  "zh": "占位W%F"
  },
  {
   "id": "MSG/MSG9900/F423D",
@@ -193677,7 +193677,7 @@
   "offset": "FA1A",
   "jp": "ダミーX%F",
   "en": "Dummy X%F",
-  "zh": ""
+  "zh": "占位X%F"
  },
  {
   "id": "MSG/MSG9900/F423E",
@@ -193686,7 +193686,7 @@
   "offset": "FA28",
   "jp": "ダミーY%F",
   "en": "Dummy Y%F",
-  "zh": ""
+  "zh": "占位Y%F"
  },
  {
   "id": "MSG/MSG9900/F423F",
@@ -193695,7 +193695,7 @@
   "offset": "FA36",
   "jp": "ダミーZ%F",
   "en": "Dummy Z%F",
-  "zh": ""
+  "zh": "占位Z%F"
  },
  {
   "id": "OTHER/ARMWRESTDESC.BIN/1/0",
