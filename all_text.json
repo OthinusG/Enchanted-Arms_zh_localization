@@ -107214,7 +107214,7 @@
   "offset": "16B8",
   "jp": "フン・・・",
   "en": "",
-  "zh": ""
+  "zh": "哼……"
  },
  {
   "id": "MSG/MSG6100/9579B",
@@ -107223,7 +107223,7 @@
   "offset": "16C4",
   "jp": "ここはフバイル様の許しがない者は\n通せないぞ",
   "en": "",
-  "zh": ""
+  "zh": "没有富拜尔大人许可的人\n可不能过去"
  },
  {
   "id": "MSG/MSG6100/957CC",
@@ -107232,7 +107232,7 @@
   "offset": "16F2",
   "jp": "フン・・・",
   "en": "",
-  "zh": ""
+  "zh": "哼……"
  },
  {
   "id": "MSG/MSG6100/957CD",
@@ -107241,7 +107241,7 @@
   "offset": "16FE",
   "jp": "ここはフバイル様の許しがないものは\n通せないぞ",
   "en": "",
-  "zh": ""
+  "zh": "没有富拜尔大人许可的人\n可不能过去"
  },
  {
   "id": "MSG/MSG6100/9592A",
@@ -107250,7 +107250,7 @@
   "offset": "172E",
   "jp": "あれ・・・じゃまなガラクタねぇ",
   "en": "Hey... look at this junk!",
-  "zh": ""
+  "zh": "哎呀……好碍事的破铜烂铁啊"
  },
  {
   "id": "MSG/MSG6100/9592B",
@@ -107259,7 +107259,7 @@
   "offset": "174E",
   "jp": "完全に道をふさいでら\nこれじゃ、先に進めないな",
   "en": "It's totally blocking the road. We can't\ncarry on!",
-  "zh": ""
+  "zh": "把路全堵死了\n这样根本走不过去啊"
  },
  {
   "id": "MSG/MSG6100/9592C",
@@ -107268,7 +107268,7 @@
   "offset": "177E",
   "jp": "フフ・・・困りましたな",
   "en": "Hmmm... what a problem.",
-  "zh": ""
+  "zh": "呵呵……这下可难办了呢"
  },
  {
   "id": "MSG/MSG6100/9592D",
@@ -107277,7 +107277,7 @@
   "offset": "1796",
   "jp": "なにかうれしそうね、ライガ\n賢者の塔へそんなに行きたくないの？",
   "en": "You sound almost happy, Raigar. You really\ndon't want to go see the Sage, do you?",
-  "zh": ""
+  "zh": "看你好像挺高兴的嘛，莱加\n你就那么不想去贤者之塔吗？"
  },
  {
   "id": "MSG/MSG6100/9592E",
@@ -107286,7 +107286,7 @@
   "offset": "17D6",
   "jp": "いえ、決してそのようなことは",
   "en": "No, no, nothing like that.",
-  "zh": ""
+  "zh": "不，绝无此事"
  },
  {
   "id": "MSG/MSG6100/9592F",
@@ -107295,7 +107295,7 @@
   "offset": "17F4",
   "jp": "・・・あ",
   "en": "...Ah!",
-  "zh": ""
+  "zh": "……啊"
  },
  {
   "id": "MSG/MSG6100/95930",
@@ -107304,7 +107304,7 @@
   "offset": "17FE",
   "jp": "どうした、ユウキ？",
   "en": "What's up, Yuki?",
-  "zh": ""
+  "zh": "怎么了，勇树？"
  },
  {
   "id": "MSG/MSG6100/95931",
@@ -107313,7 +107313,7 @@
   "offset": "1812",
   "jp": "こういうのよろこんで\n持ってってくれそうな子がいるよね",
   "en": "I know just the kid who'd love to clear this\nstuff up for us.",
-  "zh": ""
+  "zh": "有个孩子肯定会\n很乐意把这些东西拿走呢"
  },
  {
   "id": "MSG/MSG6100/95932",
@@ -107322,7 +107322,7 @@
   "offset": "184A",
   "jp": "よろこんでガラクタを\n持っていってくれる子？",
   "en": "You plan on getting a child to move all\nthis?!",
-  "zh": ""
+  "zh": "乐意把这些破烂\n拿走的孩子？"
  },
  {
   "id": "MSG/MSG6100/95933",
@@ -107331,7 +107331,7 @@
   "offset": "1878",
   "jp": "・・・そうか！\nよし、#CFF697DBEジャンクシティ#cに行こうぜ",
   "en": "...I'm with you! Let's go to #CFF697DBEJunk City#c!",
-  "zh": ""
+  "zh": "……对啊！\n好，咱们去#CFF697DBE废品村#c吧"
  },
  {
   "id": "MSG/MSG6100/9595C",
@@ -107340,7 +107340,7 @@
   "offset": "18C0",
   "jp": "あ、ガラクタがなくなってる",
   "en": "Look, the junk is all gone!",
-  "zh": ""
+  "zh": "啊，破烂全都不见了"
  },
  {
   "id": "MSG/MSG6100/9595D",
@@ -107349,7 +107349,7 @@
   "offset": "18DC",
   "jp": "もう片付けたの？",
   "en": "That was quick!",
-  "zh": ""
+  "zh": "这么快就收拾好了？"
  },
  {
   "id": "MSG/MSG6100/9595E",
@@ -107358,7 +107358,7 @@
   "offset": "18EE",
   "jp": "せやで",
   "en": "No problem!",
-  "zh": ""
+  "zh": "那是当然"
  },
  {
   "id": "MSG/MSG6100/9595F",
@@ -107367,7 +107367,7 @@
   "offset": "18F6",
   "jp": "ま、わいにかかれば\nこの程度のジャンクは、ほんの朝飯前や",
   "en": "I can deal with that amount of junk before\nbreakfast, you know!",
-  "zh": ""
+  "zh": "哎呀，对俺来说\n这点废品不过是小菜一碟啦"
  },
  {
   "id": "MSG/MSG6100/95960",
@@ -107376,7 +107376,7 @@
   "offset": "1930",
   "jp": "言うたら、“おめざ”やね",
   "en": "No problem, no problem!",
-  "zh": ""
+  "zh": "说白了，也就是“清晨小点心”而已"
  },
  {
   "id": "MSG/MSG6100/95961",
@@ -107385,7 +107385,7 @@
   "offset": "194A",
   "jp": "どうも、ありがとね",
   "en": "Thank you very much.",
-  "zh": ""
+  "zh": "太感谢你了"
  },
  {
   "id": "MSG/MSG6100/95962",
@@ -107394,7 +107394,7 @@
   "offset": "195E",
   "jp": "ええってええって\nわいもジャンクが手に入ってホクホクやし",
   "en": "My pleasure! I got all this junk out of the\ndeal!",
-  "zh": ""
+  "zh": "客气啥客气啥\n俺也白得了这么多废品，赚大发了呢"
  },
  {
   "id": "MSG/MSG6100/95963",
@@ -107403,7 +107403,7 @@
   "offset": "1998",
   "jp": "なぁ、サンディ？",
   "en": "Right, Sandy?",
-  "zh": ""
+  "zh": "是吧，桑迪？"
  },
  {
   "id": "MSG/MSG6100/95964",
@@ -107412,7 +107412,7 @@
   "offset": "19AA",
   "jp": "ワンッ！",
   "en": "Woof!",
-  "zh": ""
+  "zh": "汪！"
  },
  {
   "id": "MSG/MSG6100/95965",
@@ -107421,7 +107421,7 @@
   "offset": "19B4",
   "jp": "よし、これで火山道へ行けるぞ",
   "en": "Great, now we can get to the Volcanic Path!",
-  "zh": ""
+  "zh": "好嘞，这样就能去火山道了"
  },
  {
   "id": "MSG/MSG6100/95966",
@@ -107430,7 +107430,7 @@
   "offset": "19D2",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6100/95967",
@@ -107439,7 +107439,7 @@
   "offset": "19E0",
   "jp": "あれ？\nどうしたん、オッちゃん",
   "en": "What's wrong, dude?",
-  "zh": ""
+  "zh": "咦？\n大叔你怎么啦"
  },
  {
   "id": "MSG/MSG6100/95968",
@@ -107448,7 +107448,7 @@
   "offset": "1A00",
   "jp": "元気ないで？\nわい、なんか余計なことしたか？",
   "en": "You look like someone just stole your\nfavorite bit of junk!",
-  "zh": ""
+  "zh": "没精打采的？\n是俺做了什么多余的事吗？"
  },
  {
   "id": "MSG/MSG6100/95969",
@@ -107457,7 +107457,7 @@
   "offset": "1A2E",
   "jp": "フ・・・良いのだ\nお前はお前の成すべきことを成したまでだ",
   "en": "Oh... it's nothing. You did a good job.\nThank you.",
-  "zh": ""
+  "zh": "呵……无妨\n汝不过是尽了汝应尽之责罢了"
  },
  {
   "id": "MSG/MSG6100/9596A",
@@ -107466,7 +107466,7 @@
   "offset": "1A68",
   "jp": "ライガ、なにカッコつけてるの・・・\n早く#CFF697DBE賢者の塔#cに行くわよ",
   "en": "Come on, Raigar! To the #CFF697DBESage's Tower#c!",
-  "zh": ""
+  "zh": "莱加，你装什么帅啊……\n快点去#CFF697DBE贤者之塔#c啦"
  },
  {
   "id": "MSG/MSG6100/9596B",
@@ -107475,7 +107475,7 @@
   "offset": "1ABC",
   "jp": "はぁ・・・御意・・・",
   "en": "Yes... as you say...",
-  "zh": ""
+  "zh": "唉……遵命……"
  },
  {
   "id": "MSG/MSG6100/95CAE",
@@ -107484,7 +107484,7 @@
   "offset": "1AD2",
   "jp": "#CFF697DBE砂漠を西#cへ向けて横断すれば\n#CFF697DBEキョウトシティ方面#cに着くよ",
   "en": "",
-  "zh": ""
+  "zh": "#CFF697DBE穿过沙漠一路向西#c，\n就能到达#CFF697DBE京都城方向#c哦"
  },
  {
   "id": "MSG/MSG6100/95CAF",
@@ -107493,7 +107493,7 @@
   "offset": "1B3A",
   "jp": "よし、行こうぜ",
   "en": "",
-  "zh": ""
+  "zh": "好，我们走吧"
  },
  {
   "id": "MSG/MSG6100/95E70",
@@ -107502,7 +107502,7 @@
   "offset": "1B4A",
   "jp": "・・・いってててて\nどこだ、ここ？",
   "en": "...Ow ow ow ow! Where are we?!",
-  "zh": ""
+  "zh": "……好痛痛痛痛\n这里是哪里啊？"
  },
  {
   "id": "MSG/MSG6100/95E7A",
@@ -107511,7 +107511,7 @@
   "offset": "1B6E",
   "jp": "うぉっ！\nなんだなんだ！？%F",
   "en": "Wha, wha?! What's happening?!%F",
-  "zh": ""
+  "zh": "哇！\n怎么了怎么了！？%F"
  },
  {
   "id": "MSG/MSG6100/95E7B",
@@ -107520,7 +107520,7 @@
   "offset": "1B8E",
   "jp": "きゃっぁ！\n地・・・地面が！%F",
   "en": "Kya...!\nThe ground... the ground...!%F",
-  "zh": ""
+  "zh": "呀啊！\n地……地面！%F"
  },
  {
   "id": "MSG/MSG6100/95E7C",
@@ -107529,7 +107529,7 @@
   "offset": "1BB0",
   "jp": "むっ！\n%F",
   "en": "Wha!%F",
-  "zh": ""
+  "zh": "唔！\n%F"
  },
  {
   "id": "MSG/MSG6100/96258",
@@ -107538,7 +107538,7 @@
   "offset": "1BBE",
   "jp": "“東　ジャンクシティ　”\n“西　ヤマシロ湿原　　”",
   "en": "\"East: Junk City\"\n\"West: Yamashiro Marsh\"",
-  "zh": ""
+  "zh": "“东　废品城　　”\n“西　山城湿地　”"
  },
  {
   "id": "MSG/MSG6100/96259",
@@ -107547,7 +107547,7 @@
   "offset": "1BF2",
   "jp": "“北　ヴェオヴィス火山”",
   "en": "\"North: Vorbios Volcano\"",
-  "zh": ""
+  "zh": "“北　维奥维斯火山”"
  },
  {
   "id": "MSG/MSG6100/97004",
@@ -107556,7 +107556,7 @@
   "offset": "1C0C",
   "jp": "ねぇねぇ、どうやって、あんなに\nたくさんのガラクタを一人で運んだの？",
   "en": "How did you move all that junk alone?",
-  "zh": ""
+  "zh": "喂喂，你是怎么一个人\n运走那么多破烂废品的啊？"
  },
  {
   "id": "MSG/MSG6100/97005",
@@ -107565,7 +107565,7 @@
   "offset": "1C52",
   "jp": "うーん、いくらべっぴんさんでも\nそれは教えられへんなぁ",
   "en": "Oh, I can't reveal trade secrets, girly!",
-  "zh": ""
+  "zh": "嗯——就算你是大美人，\n这我也不能说呀"
  },
  {
   "id": "MSG/MSG6100/97006",
@@ -107574,7 +107574,7 @@
   "offset": "1C8A",
   "jp": "“きぎょうひみつ”っちうやつや",
   "en": "My livelihood relies on it!",
-  "zh": ""
+  "zh": "这就叫“商业机密”啦"
  },
  {
   "id": "MSG/MSG6100/97007",
@@ -107583,7 +107583,7 @@
   "offset": "1CAA",
   "jp": "なぁ、サンディ？",
   "en": "Right, Sandy?",
-  "zh": ""
+  "zh": "对吧，桑迪？"
  },
  {
   "id": "MSG/MSG6100/97008",
@@ -107592,7 +107592,7 @@
   "offset": "1CBC",
   "jp": "ワンワンッ！",
   "en": "Woof! Woof!",
-  "zh": ""
+  "zh": "汪汪！"
  },
  {
   "id": "MSG/MSG6100/9700E",
@@ -107601,7 +107601,7 @@
   "offset": "1CCA",
   "jp": "ワンッ！",
   "en": "Woof!",
-  "zh": ""
+  "zh": "汪！"
  },
  {
   "id": "MSG/MSG6100/97068",
@@ -107610,7 +107610,7 @@
   "offset": "1CD4",
   "jp": "わらわは“三柱の守護者”が一人、アヌビス%J618640",
   "en": "I am Anubis, one of the Three Pillar \nGuardians.%J618640",
-  "zh": ""
+  "zh": "妾身乃“三柱守护者”之一，阿努比斯%J618640"
  },
  {
   "id": "MSG/MSG6100/9706D",
@@ -107619,7 +107619,7 @@
   "offset": "1D0E",
   "jp": "わらわは“三柱の守護者”が一人、アヌビス%J618650",
   "en": "I am Anubis, one of the Three Pillar \nGuardians.%J618650",
-  "zh": ""
+  "zh": "妾身乃“三柱守护者”之一，阿努比斯%J618650"
  },
  {
   "id": "MSG/MSG6100/9707C",
@@ -107628,7 +107628,7 @@
   "offset": "1D48",
   "jp": "がれきが道をふさいでいる",
   "en": "Junk is blocking the road.",
-  "zh": ""
+  "zh": "瓦砾挡住了去路"
  },
  {
   "id": "MSG/MSG6100/97090",
@@ -107637,7 +107637,7 @@
   "offset": "1D62",
   "jp": "古の戦の時代より、一千年の永きに渡り\n“神の結晶”を護るモノ・・・",
   "en": "Protector of the God Orb since ancient\ntimes.",
-  "zh": ""
+  "zh": "自远古大战时代起，于一千年的漫长岁月中\n守护“神之结晶”之人……"
  },
  {
   "id": "MSG/MSG6100/97091",
@@ -107646,7 +107646,7 @@
   "offset": "1DA6",
   "jp": "ヒトよ、汝は“神の武具”を \n持っておるようだな",
   "en": "You, human, appear to possess a weapon\nmade from a God Orb.",
-  "zh": ""
+  "zh": "人类啊，汝身上似乎携带着\n“神之武具”呢"
  },
  {
   "id": "MSG/MSG6100/97092",
@@ -107655,7 +107655,7 @@
   "offset": "1DD8",
   "jp": "神の武具・・・って、賢者様につくって\nもらった武具のことか？",
   "en": "A weapon made from...? Oh, you mean what\nthe Sage made?",
-  "zh": ""
+  "zh": "神之武具……是指贤者大人\n帮我们打造的那些武器防具吗？"
  },
  {
   "id": "MSG/MSG6100/97093",
@@ -107664,7 +107664,7 @@
   "offset": "1E16",
   "jp": "我がコマンドは、主より授かりし\n“神の結晶”を、力ある者に継ぐこと",
   "en": "I am commanded to pass the God Orb only to\nthose with sufficient power...",
-  "zh": ""
+  "zh": "吾之指令，乃是将主上所赐的\n“神之结晶”传承给有力量之人"
  },
  {
   "id": "MSG/MSG6100/97094",
@@ -107673,7 +107673,7 @@
   "offset": "1E5A",
   "jp": "ヒトよ・・・",
   "en": "Human...",
-  "zh": ""
+  "zh": "人类啊……"
  },
  {
   "id": "MSG/MSG6100/97095",
@@ -107682,7 +107682,7 @@
   "offset": "1E68",
   "jp": "汝の力、見せてもらおうぞ%F",
   "en": "Show me your power!%F",
-  "zh": ""
+  "zh": "让妾身见识见识汝的力量吧%F"
  },
  {
   "id": "MSG/MSG6100/9709A",
@@ -107691,7 +107691,7 @@
   "offset": "1E86",
   "jp": "古の戦の時代より、一千年の永きに渡り\n“神の結晶”を護るモノ・・・",
   "en": "Protector of the God Orb since ancient\ntimes.",
-  "zh": ""
+  "zh": "自远古大战时代起，于一千年的漫长岁月中\n守护“神之结晶”之人……"
  },
  {
   "id": "MSG/MSG6100/9709B",
@@ -107700,7 +107700,7 @@
   "offset": "1ECA",
   "jp": "“神の結晶”？",
   "en": "God Orb...?",
-  "zh": ""
+  "zh": "“神之结晶”？"
  },
  {
   "id": "MSG/MSG6100/9709C",
@@ -107709,7 +107709,7 @@
   "offset": "1EDA",
   "jp": "“神の結晶”とは、古の昔、創りだされし\n魔導金属",
   "en": "The God Orbs are magical metal created long,\nlong ago.",
-  "zh": ""
+  "zh": "所谓的“神之结晶”，乃是远古昔日所铸造出的\n魔导金属"
  },
  {
   "id": "MSG/MSG6100/9709D",
@@ -107718,7 +107718,7 @@
   "offset": "1F0C",
   "jp": "それを力ある者に受け継ぐことこそが\n主より授かりし、我がコマンド",
   "en": "I am commanded to pass the God Orb only to\nthose with sufficient power...",
-  "zh": ""
+  "zh": "将它传承给有力量之人，\n正是主上所赋予妾身的指令"
  },
  {
   "id": "MSG/MSG6100/9709E",
@@ -107727,7 +107727,7 @@
   "offset": "1F4E",
   "jp": "“神の結晶”を欲するのならば\n力の証たる、神の武具を持ってくるがよい%F",
   "en": "If you want my God Orb you must prove your\nstrength and bring me a weapon of the Gods.%F",
-  "zh": ""
+  "zh": "若渴望得到“神之结晶”，\n便带上作为实力象征的神之武具再来吧%F"
  },
  {
   "id": "MSG/MSG6200/97DB0",
