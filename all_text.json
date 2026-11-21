@@ -47634,7 +47634,7 @@
   "offset": "252CA",
   "jp": "あなた、旅行者？\nだったら注意したほうがいいわよ\n",
   "en": "You're travelers, are you? Watch out, then!",
-  "zh": ""
+  "zh": "你是旅行者吗？\n那最好小心一点哦"
  },
  {
   "id": "MSG/MSG2300/3A6B1",
@@ -47643,7 +47643,7 @@
   "offset": "252FE",
   "jp": "脱獄したヨソ者の囚人がいるらしくて\n騎士たちが神経質になってるから\n",
   "en": "The Knights are on edge because some\noutsiders escaped from jail!",
-  "zh": ""
+  "zh": "听说有越狱的外来囚犯逃脱了，\n骑士们现在正神经紧绷着呢"
  },
  {
   "id": "MSG/MSG2300/3A6B2",
@@ -47652,7 +47652,7 @@
   "offset": "25344",
   "jp": "そういえば、さっきもお猿さんみたく\nキーキー言ってる色黒の派手な子がｱ\n",
   "en": "I just saw an oddly-dressed girl in an\naltercation with the Knights, too...",
-  "zh": ""
+  "zh": "说起来，刚才也有个像小猴子一样\n吱吱喳喳吵个不停的黑肤时髦女孩……"
  },
  {
   "id": "MSG/MSG2300/3A6B3",
@@ -47661,7 +47661,7 @@
   "offset": "2538E",
   "jp": "騎士たちともめてたけど、大丈夫だった\nかしら・・・\n",
   "en": "Things are getting worse and worse around\nhere!",
-  "zh": ""
+  "zh": "跟骑士们起了冲突，不知道要不要紧\n呢……"
  },
  {
   "id": "MSG/MSG2300/3A6BA",
@@ -47670,7 +47670,7 @@
   "offset": "253C4",
   "jp": "あんな女の子が、一人でこんなところにｱ\n",
   "en": "I wonder...",
-  "zh": ""
+  "zh": "那样的小女孩，一个人跑来这种地方……"
  },
  {
   "id": "MSG/MSG2300/3A6BB",
@@ -47679,7 +47679,7 @@
   "offset": "253EE",
   "jp": "なにしに、きたのかしらねぇ\n",
   "en": "What was that girl doing here...?",
-  "zh": ""
+  "zh": "到底是来干什么的呢"
  },
  {
   "id": "MSG/MSG2300/3A6BF",
@@ -47688,7 +47688,7 @@
   "offset": "2540C",
   "jp": "・・・あぁ、コレ？\nエンチャント合成用の装置よ\n",
   "en": "...Oh, this? This is an Enchant Synthesis\ndevice.",
-  "zh": ""
+  "zh": "……啊，这个？\n是赋法合成用的装置哦"
  },
  {
   "id": "MSG/MSG2300/3A6C0",
@@ -47697,7 +47697,7 @@
   "offset": "2543E",
   "jp": "合成装置なんてあっても、私たちには\nマテリアルは入ってこない・・・\n",
   "en": "It doesn't mean much to us, though, because\nwe don't have any Material!",
-  "zh": ""
+  "zh": "就算有合成装置，我们也是\n拿不到材料的……"
  },
  {
   "id": "MSG/MSG2300/3A6C1",
@@ -47706,7 +47706,7 @@
   "offset": "25484",
   "jp": "採掘しているのは、私たち労働者なのに・・・\n",
   "en": "We're the ones who work so hard to dig the\nstuff out, too!",
-  "zh": ""
+  "zh": "明明负责开采的，是我们这些劳工……"
  },
  {
   "id": "MSG/MSG2300/3A6C2",
@@ -47715,7 +47715,7 @@
   "offset": "254B2",
   "jp": "なんか、おかしな話よね\n\n",
   "en": "Pretty strange, when you think about it,\nisn't it?",
-  "zh": ""
+  "zh": "想想还真是不讲理呢"
  },
  {
   "id": "MSG/MSG2300/3A6C9",
@@ -47724,7 +47724,7 @@
   "offset": "254CE",
   "jp": "こんなもの置いたところで、じゃまなだけね\n",
   "en": "There's no point in keeping this thing\naround, really.",
-  "zh": ""
+  "zh": "这种东西摆在这里，也只是碍事而已"
  },
  {
   "id": "MSG/MSG2300/3A6CA",
@@ -47733,7 +47733,7 @@
   "offset": "254FA",
   "jp": "分解して、売っちゃおうかしら・・・\n",
   "en": "I'll probably break it down and sell it...",
-  "zh": ""
+  "zh": "要不干脆拆开卖掉算了……"
  },
  {
   "id": "MSG/MSG2300/3A6CE",
@@ -47742,7 +47742,7 @@
   "offset": "25520",
   "jp": "いらっしゃい・・・\n",
   "en": "Welcome!",
-  "zh": ""
+  "zh": "欢迎光临……"
  },
  {
   "id": "MSG/MSG2300/3A6CF",
@@ -47751,7 +47751,7 @@
   "offset": "25536",
   "jp": "たいしたものないな%M239315",
   "en": "You don't have much, do you?%M239315",
-  "zh": ""
+  "zh": "没什么像样的东西啊%M239315"
  },
  {
   "id": "MSG/MSG2300/3A6D0",
@@ -47760,7 +47760,7 @@
   "offset": "2555A",
   "jp": "どれも安いなぁ%M239317",
   "en": "This is all pretty cheap...%M239317",
-  "zh": ""
+  "zh": "看起来都好便宜啊%M239317"
  },
  {
   "id": "MSG/MSG2300/3A6D3",
@@ -47769,7 +47769,7 @@
   "offset": "2557A",
   "jp": "たいしたものないな\n\n",
   "en": "You don't have much, do you?",
-  "zh": ""
+  "zh": "没什么像样的东西啊"
  },
  {
   "id": "MSG/MSG2300/3A6D4",
@@ -47778,7 +47778,7 @@
   "offset": "25592",
   "jp": "冷やかしならごめんだよ！\n商売のじゃまだ、でてってくんな\n%F",
   "en": "Yeah, yeah, I don't need to hear it! I'm\nrunning a business here, get out!%F",
-  "zh": ""
+  "zh": "要是纯看不买就给我滚蛋！\n别妨碍我做生意，快出去\n%F"
  },
  {
   "id": "MSG/MSG2300/3A6D5",
@@ -47787,7 +47787,7 @@
   "offset": "255D2",
   "jp": "どれも安いなぁ\n\n",
   "en": "This is all pretty cheap...",
-  "zh": ""
+  "zh": "看起来都好便宜啊"
  },
  {
   "id": "MSG/MSG2300/3A6D6",
@@ -47796,7 +47796,7 @@
   "offset": "255E6",
   "jp": "はぁ？　なに言ってんだい、あんた\n",
   "en": "What? What rock have you been living under?",
-  "zh": ""
+  "zh": "哈啊？你说什么呢，你这家伙"
  },
  {
   "id": "MSG/MSG2300/3A6D7",
@@ -47805,7 +47805,7 @@
   "offset": "2560A",
   "jp": "さいきんの物価高とうで\nこっちも商売あがったりなのに・・・\n",
   "en": "Prices are so high I'm about to go out of\nbusiness!",
-  "zh": ""
+  "zh": "最近物价飞涨，\n我这边生意都要做不下去了……"
  },
  {
   "id": "MSG/MSG2300/3A6D8",
@@ -47814,7 +47814,7 @@
   "offset": "25648",
   "jp": "・・・これで、高いのか・・・\n\n",
   "en": "...There are high prices...?",
-  "zh": ""
+  "zh": "……这样……就算贵了吗……"
  },
  {
   "id": "MSG/MSG2300/3A6D9",
@@ -47823,7 +47823,7 @@
   "offset": "2566A",
   "jp": "さてはあんた・・・富民だね？\n",
   "en": "Oh... you're from the rich quarter, are\nyou?",
-  "zh": ""
+  "zh": "看你这架势……是富民吧？"
  },
  {
   "id": "MSG/MSG2300/3A6DA",
@@ -47832,7 +47832,7 @@
   "offset": "2568A",
   "jp": "富民に売るもんはないよ\nでてってくんな\n",
   "en": "Then I've nothing to sell you. Get out.",
-  "zh": ""
+  "zh": "我可没有什么东西卖给富民\n快给我出去"
  },
  {
   "id": "MSG/MSG2300/3A6E2",
@@ -47841,7 +47841,7 @@
   "offset": "256B4",
   "jp": "・・・あんたも、職探しかい？\n無駄足だったね\n",
   "en": "...Are you looking for a job, too? Then\nyou're wasting your time.",
-  "zh": ""
+  "zh": "……你也是来找工作的吗？\n那可白跑一趟了"
  },
  {
   "id": "MSG/MSG2300/3A6E3",
@@ -47850,7 +47850,7 @@
   "offset": "256E4",
   "jp": "いま、紹介できる仕事はないってよ\n",
   "en": "I've nothing at the moment.",
-  "zh": ""
+  "zh": "说是现在没有能介绍的工作哦"
  },
  {
   "id": "MSG/MSG2300/3A6E4",
@@ -47859,7 +47859,7 @@
   "offset": "25708",
   "jp": "こんなあっせん所つくっても\nかんじんの仕事がないんじゃね・・・\n",
   "en": "In fact, my own job is in danger, seeing\nas there is no work to introduce!",
-  "zh": ""
+  "zh": "就算建了这么个中介所，\n没有关键的工作也是白搭啊……"
  },
  {
   "id": "MSG/MSG2300/3A6EC",
@@ -47868,7 +47868,7 @@
   "offset": "2574A",
   "jp": "作った貴族は、慈善事業でもしたつもり\nなんだろうけどね・・・\n",
   "en": "I guess the nobles are taking pity on us,\nsetting this place up...",
-  "zh": ""
+  "zh": "出资的贵族大概还觉得自己做了件\n慈善事业吧……"
  },
  {
   "id": "MSG/MSG2300/3A6ED",
@@ -47877,7 +47877,7 @@
   "offset": "2578A",
   "jp": "貴族どものやることは、どうしてこう\n間抜けなのかねぇ・・・\n",
   "en": "But they always do such a half-hearted\njob of these things...",
-  "zh": ""
+  "zh": "那帮贵族做起事来，怎么就总是\n这么缺心眼呢……"
  },
  {
   "id": "MSG/MSG2300/3A78C",
@@ -47886,7 +47886,7 @@
   "offset": "257C8",
   "jp": "現在、貧民街の広場で、集会が行われている",
   "en": "There's a meeting in the square in the\npoor quarter at the moment.",
-  "zh": ""
+  "zh": "目前贫民街广场上正在举行集会"
  },
  {
   "id": "MSG/MSG2300/3A78D",
@@ -47895,7 +47895,7 @@
   "offset": "257F2",
   "jp": "貧民は、集会が終わるまで外出は禁止だ",
   "en": "The poor can't leave until the meeting is\nover.",
-  "zh": ""
+  "zh": "集会结束前，贫民禁止外出"
  },
  {
   "id": "MSG/MSG2300/3A7A0",
@@ -47904,7 +47904,7 @@
   "offset": "25818",
   "jp": "む・・・\nここから先は通行禁止だ",
   "en": "You are not allowed beyond this point.",
-  "zh": ""
+  "zh": "唔……\n前方禁止通行"
  },
  {
   "id": "MSG/MSG2300/3A7A1",
@@ -47913,7 +47913,7 @@
   "offset": "2583A",
   "jp": "戻るがいい",
   "en": "Go back.",
-  "zh": ""
+  "zh": "回去吧"
  },
  {
   "id": "MSG/MSG2300/3A7BE",
@@ -47922,7 +47922,7 @@
   "offset": "25846",
   "jp": "丈夫な鉄柵だ",
   "en": "A tough iron grill.",
-  "zh": ""
+  "zh": "结实的铁栅栏"
  },
  {
   "id": "MSG/MSG2300/3A7C0",
@@ -47931,7 +47931,7 @@
   "offset": "25854",
   "jp": "・・・という、情報はまだありません%J232570",
   "en": "...anywhere near London City.%J232570",
-  "zh": ""
+  "zh": "目前还没有……这样的情报%J232570"
  },
  {
   "id": "MSG/MSG2300/3A7C1",
@@ -47940,7 +47940,7 @@
   "offset": "25888",
   "jp": "やがて、カリンさま自身が決断をしなければ\nならぬ時がおとずれた、その時のために・・・%J232584",
   "en": "You may face a difficult decision one day\nsoon, and seeing Yokohama might aid you.%J232584",
-  "zh": ""
+  "zh": "等到卡琳大人必须亲自做出决断的\n时刻来临之际，就是为了那个时候……%J232584"
  },
  {
   "id": "MSG/MSG2300/3A7C2",
@@ -47949,7 +47949,7 @@
   "offset": "258EE",
   "jp": "・・・のことを、よく知らないから\nなんとも言えないけどね%J233047",
   "en": "...Before, anyway, so I guess we can't make\na judgment.%J233047",
-  "zh": ""
+  "zh": "……的事情我们也不太清楚，\n所以也不好评价呢%J233047"
  },
  {
   "id": "MSG/MSG2300/3A7C3",
@@ -47958,7 +47958,7 @@
   "offset": "25938",
   "jp": "立派な石像だ",
   "en": "A fine bronze statue.",
-  "zh": ""
+  "zh": "气派的石像"
  },
  {
   "id": "MSG/MSG2300/3A7F0",
@@ -47967,7 +47967,7 @@
   "offset": "25946",
   "jp": "ここから先は大階段だ",
   "en": "The grand steps lie ahead.",
-  "zh": ""
+  "zh": "前面是大阶梯"
  },
  {
   "id": "MSG/MSG2300/3A822",
@@ -47976,7 +47976,7 @@
   "offset": "2595C",
   "jp": "階段を下りれば街の正門\n上がればロンドン城だ",
   "en": "The City gates lie down there and London\nCastle at the top.",
-  "zh": ""
+  "zh": "下楼梯是城镇的正门，\n上去则是伦敦城"
  },
  {
   "id": "MSG/MSG2300/3A82C",
@@ -47985,7 +47985,7 @@
   "offset": "2598A",
   "jp": "“差し押さえ物件\n　無断立ち入り厳禁！”",
   "en": "\"No admittance for unauthorized personnel\"",
-  "zh": ""
+  "zh": "“查封物品\n　严禁擅自入内！”"
  },
  {
   "id": "MSG/MSG2300/3A836",
@@ -47994,7 +47994,7 @@
   "offset": "259B4",
   "jp": "け、けいれ～い！\n",
   "en": "Atten... shon!",
-  "zh": ""
+  "zh": "敬、敬——礼！"
  },
  {
   "id": "MSG/MSG2300/3A840",
@@ -48003,7 +48003,7 @@
   "offset": "259C8",
   "jp": "どうぞお通りください！\nどうぞどうぞお通りください！",
   "en": "Please, go through! Please please please!",
-  "zh": ""
+  "zh": "请、请进！\n快请、快请进！"
  },
  {
   "id": "MSG/MSG2400/3A980",
