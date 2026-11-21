@@ -162,7 +162,7 @@ def parse_batches_from_plan():
     return msg_batches
 
 def save_all_text_crlf(data, path="all_text.json"):
-    json_str = json.dumps(data, ensure_ascii=False, indent=2)
+    json_str = json.dumps(data, ensure_ascii=False, indent=1)
     json_str = json_str.replace('\r\n', '\n').replace('\n', '\r\n')
     with open(path, 'wb') as f:
         f.write(json_str.encode('utf-8'))
