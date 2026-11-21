@@ -36771,7 +36771,7 @@
   "offset": "2E28",
   "jp": "な、なんだ・・・熱い\n・・・右腕が！",
   "en": "What... what's wrong? My arm is hot?!",
-  "zh": ""
+  "zh": "怎、怎么回事……好烫\n……右臂！"
  },
  {
   "id": "MSG/MSG0800/14051",
@@ -36780,7 +36780,7 @@
   "offset": "2E4E",
   "jp": "炎帝、我が主の前にまかり越しました",
   "en": "My Lord, the Emperor of Fire presents\nhimself before you.",
-  "zh": ""
+  "zh": "炎帝，特来拜谒吾主"
  },
  {
   "id": "MSG/MSG0800/14052",
@@ -36789,7 +36789,7 @@
   "offset": "2E72",
   "jp": "お久しう御座います",
   "en": "It has been too long since we last met.",
-  "zh": ""
+  "zh": "久违了"
  },
  {
   "id": "MSG/MSG0800/14053",
@@ -36798,7 +36798,7 @@
   "offset": "2E86",
   "jp": "炎帝・・・？　オレが・・・主・・・？",
   "en": "The Emperor of Fire... I'm... his master?",
-  "zh": ""
+  "zh": "炎帝……？我……是主人……？"
  },
  {
   "id": "MSG/MSG0800/14054",
@@ -36807,7 +36807,7 @@
   "offset": "2EAC",
   "jp": "お主ではない",
   "en": "Not you.",
-  "zh": ""
+  "zh": "非汝也"
  },
  {
   "id": "MSG/MSG0800/14055",
@@ -36816,7 +36816,7 @@
   "offset": "2EBA",
   "jp": "我こそが、炎帝の主",
   "en": "Me, I am Master of the Emperor.",
-  "zh": ""
+  "zh": "吾才是炎帝之主"
  },
  {
   "id": "MSG/MSG0800/14056",
@@ -36825,7 +36825,7 @@
   "offset": "2ECE",
   "jp": "我が導きに従い、炎帝を招き入れるのだ",
   "en": "Follow my command. Accept the Emperor.",
-  "zh": ""
+  "zh": "顺从吾之指引，迎入炎帝吧"
  },
  {
   "id": "MSG/MSG0800/14057",
@@ -36834,7 +36834,7 @@
   "offset": "2EF4",
   "jp": "炎帝を・・・招き入れる？",
   "en": "Accept... the Emperor?",
-  "zh": ""
+  "zh": "迎入……炎帝？"
  },
  {
   "id": "MSG/MSG0800/14058",
@@ -36843,7 +36843,7 @@
   "offset": "2F0E",
   "jp": "我は、ただ我が主のお召しを待つのみ",
   "en": "I await the summons of my Master.",
-  "zh": ""
+  "zh": "吾唯有静候吾主之召唤"
  },
  {
   "id": "MSG/MSG0800/14059",
@@ -36852,7 +36852,7 @@
   "offset": "2F32",
   "jp": "なんなんだよ、お前らは・・・",
   "en": "What is it with you guys?!",
-  "zh": ""
+  "zh": "你们到底搞什么鬼啊……"
  },
  {
   "id": "MSG/MSG0800/1405A",
@@ -36861,7 +36861,7 @@
   "offset": "2F50",
   "jp": "我が導きに従い、炎帝を招き入れるのだ",
   "en": "Follow my command. Summon forth the Emperor.",
-  "zh": ""
+  "zh": "顺从吾之指引，迎入炎帝吧"
  },
  {
   "id": "MSG/MSG0800/1405B",
@@ -36870,7 +36870,7 @@
   "offset": "2F76",
   "jp": "な、なんなんだよ、お前らはっ！？",
   "en": "Just what do you want from me?!",
-  "zh": ""
+  "zh": "你、你们到底想怎样啊！？"
  },
  {
   "id": "MSG/MSG0800/140B4",
@@ -36879,7 +36879,7 @@
   "offset": "2F98",
   "jp": "・・・ん？\nどこだ、ここ？%J082103",
   "en": "...Hey?\nWhere am I?%J082103",
-  "zh": ""
+  "zh": "……嗯？\n这里是哪儿？%J082103"
  },
  {
   "id": "MSG/MSG0800/140B7",
@@ -36888,7 +36888,7 @@
   "offset": "2FC4",
   "jp": "我は、常に汝と共にあるもの・・・",
   "en": "I am with you at all times...",
-  "zh": ""
+  "zh": "吾乃常伴汝身之物……"
  },
  {
   "id": "MSG/MSG0800/140B8",
@@ -36897,7 +36897,7 @@
   "offset": "2FE6",
   "jp": "お前は・・・！？",
   "en": "That voice!",
-  "zh": ""
+  "zh": "你这家伙是……！？"
  },
  {
   "id": "MSG/MSG0800/140B9",
@@ -36906,7 +36906,7 @@
   "offset": "2FF8",
   "jp": "汝は、ただ我が意思に従えばよい\n我が導きに従い、ただ行くがよい",
   "en": "You need only follow my commands.\nFollow my command now, go.",
-  "zh": ""
+  "zh": "汝只需顺从吾之意志\n顺从吾之指引，前行便可"
  },
  {
   "id": "MSG/MSG0800/140BA",
@@ -36915,7 +36915,7 @@
   "offset": "3038",
   "jp": "うるせーっ！　お前なんかの思い通りに\nされてたまるか！",
   "en": "Shut up! I'm not going to just dance on\nyour strings!",
-  "zh": ""
+  "zh": "吵死啦！谁要任由你这家伙\n摆布啊！"
  },
  {
   "id": "MSG/MSG0800/140BB",
@@ -36924,7 +36924,7 @@
   "offset": "3070",
   "jp": "我に拳を向けるか\n我は汝、汝は我であるというのに",
   "en": "You would turn on me? I am you, and you are\nme. Can you not see this?",
-  "zh": ""
+  "zh": "汝欲以拳向吾吗？\n分明吾即是汝，汝即是吾"
  },
  {
   "id": "MSG/MSG0800/140BC",
@@ -36933,7 +36933,7 @@
   "offset": "30A2",
   "jp": "うっせー、オレの意思はオレのものだ",
   "en": "Nope! My will, my mind, is my own!",
-  "zh": ""
+  "zh": "少废话，我的意志是属于我自己的！"
  },
  {
   "id": "MSG/MSG0800/140BD",
@@ -36942,7 +36942,7 @@
   "offset": "30C6",
   "jp": "真にそうであると言い切れるか？",
   "en": "How can you be so sure?",
-  "zh": ""
+  "zh": "汝真能断言果真如此吗？"
  },
  {
   "id": "MSG/MSG0800/140BE",
@@ -36951,7 +36951,7 @@
   "offset": "30E6",
   "jp": "なんだと？",
   "en": "What do you mean?",
-  "zh": ""
+  "zh": "你说什么？"
  },
  {
   "id": "MSG/MSG0800/140BF",
@@ -36960,7 +36960,7 @@
   "offset": "30F2",
   "jp": "我は汝が幼きころより、常に共にあった",
   "en": "I have been with you since you were small.",
-  "zh": ""
+  "zh": "自汝幼年之时，吾便常伴汝身"
  },
  {
   "id": "MSG/MSG0800/140C0",
@@ -36969,7 +36969,7 @@
   "offset": "3118",
   "jp": "汝の意思が、汝だけのものだと\nなぜ、言い切れる？",
   "en": "So how can you claim that your will is\nsolely your own?",
-  "zh": ""
+  "zh": "汝又凭何断言\n汝之意志仅属于汝自身？"
  },
  {
   "id": "MSG/MSG0800/140C1",
@@ -36978,7 +36978,7 @@
   "offset": "314A",
   "jp": "汝は、我が器にすぎぬ",
   "en": "You are nothing more than my vessel.",
-  "zh": ""
+  "zh": "汝不过是吾之容器罢了"
  },
  {
   "id": "MSG/MSG0800/140C2",
@@ -36987,7 +36987,7 @@
   "offset": "3160",
   "jp": "うるせえ",
   "en": "Shut up!",
-  "zh": ""
+  "zh": "闭嘴"
  },
  {
   "id": "MSG/MSG0800/140C3",
@@ -36996,7 +36996,7 @@
   "offset": "316A",
   "jp": "汝は、我が器にすぎぬ",
   "en": "You are nothing more than my vessel.",
-  "zh": ""
+  "zh": "汝不过是吾之容器罢了"
  },
  {
   "id": "MSG/MSG0800/140C4",
@@ -37005,7 +37005,7 @@
   "offset": "3180",
   "jp": "うるせえっつってんだろ！%J082119",
   "en": "I'm telling you to shut up!%J082119",
-  "zh": ""
+  "zh": "老子叫你闭嘴没听见吗！%J082119"
  },
  {
   "id": "MSG/MSG0800/140C7",
@@ -37014,7 +37014,7 @@
   "offset": "31AA",
   "jp": "オレは、お前を使いこなして\nトウヤを救ってみせる",
   "en": "I'm going to learn how to control you and\nsave Toya!",
-  "zh": ""
+  "zh": "我一定会将你彻底掌控\n把托亚救回来的！"
  },
  {
   "id": "MSG/MSG0800/140C8",
@@ -37023,7 +37023,7 @@
   "offset": "31DC",
   "jp": "救われることを望まぬ者を救って、いかにする？",
   "en": "Why save one who does not wish it?",
-  "zh": ""
+  "zh": "拯救不求得救之人，又能如何？"
  },
  {
   "id": "MSG/MSG0800/140C9",
@@ -37032,7 +37032,7 @@
   "offset": "320A",
   "jp": "なん・・・だと",
   "en": "What... What was that?!",
-  "zh": ""
+  "zh": "你说……什么"
  },
  {
   "id": "MSG/MSG0800/140CA",
@@ -37041,7 +37041,7 @@
   "offset": "321A",
   "jp": "あの“魔導器”は、救われることを\n望んではおらぬ",
   "en": "That Magicore does not wish to be saved.",
-  "zh": ""
+  "zh": "那个“魔导器”，并不渴望\n被拯救"
  },
  {
   "id": "MSG/MSG0800/140CB",
@@ -37050,7 +37050,7 @@
   "offset": "324C",
   "jp": "でたらめだ！",
   "en": "You're tricking me!",
-  "zh": ""
+  "zh": "胡说八道！"
  },
  {
   "id": "MSG/MSG0800/140CC",
@@ -37059,7 +37059,7 @@
   "offset": "325A",
   "jp": "テメエの言うことなんか、聞くもんか",
   "en": "I'm not listening to anything else you have\nto say!",
-  "zh": ""
+  "zh": "我才不会听你鬼话！"
  },
  {
   "id": "MSG/MSG0800/140CD",
@@ -37068,7 +37068,7 @@
   "offset": "327E",
   "jp": "汝の意思など、関係はない",
   "en": "What you desire is irrelevant.",
-  "zh": ""
+  "zh": "汝之意愿，无关紧要"
  },
  {
   "id": "MSG/MSG0800/140CE",
@@ -37077,7 +37077,7 @@
   "offset": "3298",
   "jp": "汝は、我が器にすぎぬ",
   "en": "You are nothing more than my vessel.",
-  "zh": ""
+  "zh": "汝不过是吾之容器罢了"
  },
  {
   "id": "MSG/MSG0800/140CF",
@@ -37086,7 +37086,7 @@
   "offset": "32AE",
   "jp": "ただ、汝は運命に従えばよいのだ",
   "en": "You must simply obey your fate.",
-  "zh": ""
+  "zh": "汝只需顺应命运即可"
  },
  {
   "id": "MSG/MSG0800/140D0",
@@ -37095,7 +37095,7 @@
   "offset": "32CE",
   "jp": "うるせぇぇぇぇぇ！",
   "en": "For the last time, shut up!",
-  "zh": ""
+  "zh": "吵死人啦啊啊啊！"
  },
  {
   "id": "MSG/MSG0800/14118",
@@ -37104,7 +37104,7 @@
   "offset": "32E2",
   "jp": "我が導きに従い進め",
   "en": "Follow my command. Proceed.",
-  "zh": ""
+  "zh": "遵从吾之引导前行吧"
  },
  {
   "id": "MSG/MSG0800/14119",
@@ -37113,7 +37113,7 @@
   "offset": "32F6",
   "jp": "右腕・・・なんでここで・・・お前が・・・\n・・・出てくんだよ・・・",
   "en": "Right arm... why do you have to... butt in\nnow...?",
-  "zh": ""
+  "zh": "右手……偏偏在这时候……你这家伙……\n……冒出来干嘛……"
  },
  {
   "id": "MSG/MSG0800/1411A",
@@ -37122,7 +37122,7 @@
   "offset": "333A",
   "jp": "汝は、ただ我が意思に従えばよい\n我が導きに従い、共に行こうぞ",
   "en": "You need do nothing but obey my will.\nFollow my command, and go with me.",
-  "zh": ""
+  "zh": "汝只需遵从吾之意志即可\n遵从吾之引导，与吾同行吧"
  },
  {
   "id": "MSG/MSG0800/1411B",
@@ -37131,7 +37131,7 @@
   "offset": "3378",
   "jp": "うるせ・・・",
   "en": "Shut up!",
-  "zh": ""
+  "zh": "吵死……"
  },
  {
   "id": "MSG/MSG0800/1411C",
@@ -37140,7 +37140,7 @@
   "offset": "3386",
   "jp": "汝からもたらされる目覚めを、こやつも\n求めておる",
   "en": "He also seeks the awakening you bring.",
-  "zh": ""
+  "zh": "这具躯体亦在渴求着\n汝所带来的觉醒"
  },
  {
   "id": "MSG/MSG0800/1411D",
@@ -37149,7 +37149,7 @@
   "offset": "33B8",
   "jp": "\"こやつ\"・・・だと？",
   "en": "He? ...Who?",
-  "zh": ""
+  "zh": "“这家伙”……你说什么？"
  },
  {
   "id": "MSG/MSG0800/1411E",
@@ -37158,7 +37158,7 @@
   "offset": "33D0",
   "jp": "お召しにより、砦将、参上つかまつりました",
   "en": "Lord of Earth, here, as summoned.",
-  "zh": ""
+  "zh": "奉您召见，砦将参见"
  },
  {
   "id": "MSG/MSG0800/1411F",
@@ -37167,7 +37167,7 @@
   "offset": "33FA",
   "jp": "こいつは・・・！　さい・・しょう？",
   "en": "What..!? Lord of... Earth...?!",
-  "zh": ""
+  "zh": "这家伙是……！砦……将？"
  },
  {
   "id": "MSG/MSG0800/14120",
@@ -37176,7 +37176,7 @@
   "offset": "341E",
   "jp": "なんで、砦将・・・が？",
   "en": "Why are you here?!",
-  "zh": ""
+  "zh": "为什么，砦将……会在这里？"
  },
  {
   "id": "MSG/MSG0800/14121",
@@ -37185,7 +37185,7 @@
   "offset": "3436",
   "jp": "お前ら・・・いったい・・・",
   "en": "What... are you...?!",
-  "zh": ""
+  "zh": "你们……到底……"
  },
  {
   "id": "MSG/MSG0800/14122",
@@ -37194,7 +37194,7 @@
   "offset": "3452",
   "jp": "問うな",
   "en": "Ask not.",
-  "zh": ""
+  "zh": "莫问"
  },
  {
   "id": "MSG/MSG0800/14123",
@@ -37203,7 +37203,7 @@
   "offset": "345A",
   "jp": "ただ、目の前の運命を受け止めればよいのだ",
   "en": "Accept the fate that lies before you.",
-  "zh": ""
+  "zh": "只需接受眼前的命运即可"
  },
  {
   "id": "MSG/MSG0800/14124",
@@ -37212,7 +37212,7 @@
   "offset": "3484",
   "jp": "運命を、受け入れろ・・・だと",
   "en": "Accept my fate...?!",
-  "zh": ""
+  "zh": "接受……命运……开什么玩笑"
  },
  {
   "id": "MSG/MSG0800/14125",
@@ -37221,7 +37221,7 @@
   "offset": "34A2",
   "jp": "汝は、我が器にすぎぬ",
   "en": "You are nothing more than my vessel.",
-  "zh": ""
+  "zh": "汝不过是吾之容器罢了"
  },
  {
   "id": "MSG/MSG0800/14126",
@@ -37230,7 +37230,7 @@
   "offset": "34B8",
   "jp": "我が意志は、貴方様とともにありまする",
   "en": "My will is always with you.",
-  "zh": ""
+  "zh": "属下之意志，与您同在"
  },
  {
   "id": "MSG/MSG0800/14127",
@@ -37239,7 +37239,7 @@
   "offset": "34DE",
   "jp": "我が導きに従い進め",
   "en": "Follow my command. Proceed.",
-  "zh": ""
+  "zh": "遵从吾之引导前行吧"
  },
  {
   "id": "MSG/MSG0800/14128",
@@ -37248,7 +37248,7 @@
   "offset": "34F2",
   "jp": "汝は、ただ目の前の運命を受け止めればよいのだ",
   "en": "Accept the fate that lies before you.",
-  "zh": ""
+  "zh": "汝只需接受眼前的命运即可"
  },
  {
   "id": "MSG/MSG0800/14129",
@@ -37257,7 +37257,7 @@
   "offset": "3520",
   "jp": "ふざ・・・け・・・んな・・・！",
   "en": "Cut... that... out!",
-  "zh": ""
+  "zh": "少开……玩……笑……了……！"
  },
  {
   "id": "MSG/MSG0800/1412A",
@@ -37266,7 +37266,7 @@
   "offset": "3540",
   "jp": "運命はなぁ・・・",
   "en": "I'm not going to accept anything!",
-  "zh": ""
+  "zh": "命运这种东西……"
  },
  {
   "id": "MSG/MSG0800/1412B",
@@ -37275,7 +37275,7 @@
   "offset": "3552",
   "jp": "受け入れるんじゃ、ない！",
   "en": "Fate?!",
-  "zh": ""
+  "zh": "可不是用来认命的！"
  },
  {
   "id": "MSG/MSG0800/1412C",
@@ -37284,7 +37284,7 @@
   "offset": "356C",
   "jp": "・・・オレが・・・・切りひらくんだぁぁぁ！！！",
   "en": "I make my own!",
-  "zh": ""
+  "zh": "……由我……亲手来开拓啊啊啊！！！"
  },
  {
   "id": "MSG/MSG0800/14248",
@@ -37293,7 +37293,7 @@
   "offset": "359C",
   "jp": "我が力がまた一つ、我が内に戻った",
   "en": "Another of my strengths has been returned\nto me.",
-  "zh": ""
+  "zh": "吾之力量又有一部分，重归吾身"
  },
  {
   "id": "MSG/MSG0800/14249",
@@ -37302,7 +37302,7 @@
   "offset": "35BE",
   "jp": "お主はやはり、運命の鎖から逃れることはできぬ",
   "en": "You cannot escape the chains of fate.",
-  "zh": ""
+  "zh": "汝果然还是无法逃脱命运的枷锁"
  },
  {
   "id": "MSG/MSG0800/1424A",
@@ -37311,7 +37311,7 @@
   "offset": "35EC",
   "jp": "運命の鎖だぁ？",
   "en": "Chains of fate?",
-  "zh": ""
+  "zh": "命运的锁链？"
  },
  {
   "id": "MSG/MSG0800/1424B",
@@ -37320,7 +37320,7 @@
   "offset": "35FC",
   "jp": "なんかお前、だんだん#W饒舌#Rじょうぜつ#rになってきやがったな%J82509",
   "en": "You've got a few new lines, haven't you?%J82509",
-  "zh": ""
+  "zh": "你这家伙，最近话倒是变得挺多啊%J82509"
  },
  {
   "id": "MSG/MSG0800/1424D",
@@ -37329,7 +37329,7 @@
   "offset": "364E",
   "jp": "我が導きに従い進め",
   "en": "Follow my command. Proceed.",
-  "zh": ""
+  "zh": "遵循吾之指引，前行吧"
  },
  {
   "id": "MSG/MSG0800/1424E",
@@ -37338,7 +37338,7 @@
   "offset": "3662",
   "jp": "うるせぇ",
   "en": "There you go again! Shut up!",
-  "zh": ""
+  "zh": "吵死了"
  },
  {
   "id": "MSG/MSG0800/1424F",
@@ -37347,7 +37347,7 @@
   "offset": "366C",
   "jp": "もう、お前の好きにはさせねえぞ%J82516",
   "en": "You're not having things your way any more!%J82516",
-  "zh": ""
+  "zh": "我绝不会再任由你摆布了%J82516"
  },
  {
   "id": "MSG/MSG0800/14254",
@@ -37356,7 +37356,7 @@
   "offset": "369A",
   "jp": "再び戻るのだ\n一個の完全なる存在となるのだ%J82520",
   "en": "I shall return. Return to a complete, single\nexistence.%J82520",
-  "zh": ""
+  "zh": "再度归来吧\n化为唯一完整的存在吧%J82520"
  },
  {
   "id": "MSG/MSG0800/14258",
@@ -37365,7 +37365,7 @@
   "offset": "36D4",
   "jp": "お主がいくらあがこうとも行き着く場所は\nいずれｱ",
   "en": "No matter how fiercely you resist, you and I\nare inevitably headed...",
-  "zh": ""
+  "zh": "任凭汝如何挣扎，最终的归宿\n迟早……"
  },
  {
   "id": "MSG/MSG0800/14259",
@@ -37374,7 +37374,7 @@
   "offset": "3706",
   "jp": "ひとつだ",
   "en": "For a single, fixed destination.",
-  "zh": ""
+  "zh": "都只有一个"
  },
  {
   "id": "MSG/MSG0800/142A8",
@@ -37383,7 +37383,7 @@
   "offset": "3710",
   "jp": "ここは・・・",
   "en": "This is...?",
-  "zh": ""
+  "zh": "这里是……"
  },
  {
   "id": "MSG/MSG0800/142A9",
@@ -37392,7 +37392,7 @@
   "offset": "371E",
   "jp": "ああ、いつもの夢の世界・・・か",
   "en": "The dream world I always see...",
-  "zh": ""
+  "zh": "啊，平时总梦到的那个世界……吗"
  },
  {
   "id": "MSG/MSG0800/142AA",
@@ -37401,7 +37401,7 @@
   "offset": "373E",
   "jp": "賢者のやつ・・・こんなところに連れてきて\nどうするつもりだ？",
   "en": "What does the Sage hope to achieve by\nsending me here?",
-  "zh": ""
+  "zh": "贤者那家伙……把我带到这种地方来\n到底想干什么？"
  },
  {
   "id": "MSG/MSG0800/142AB",
@@ -37410,7 +37410,7 @@
   "offset": "377C",
   "jp": "我が導きに従い進め",
   "en": "Follow my command. Proceed.",
-  "zh": ""
+  "zh": "遵循吾之指引，前行吧"
  },
  {
   "id": "MSG/MSG0800/142AC",
@@ -37419,7 +37419,7 @@
   "offset": "3790",
   "jp": "また、それか・・・%J082607",
   "en": "That again...!%J082607",
-  "zh": ""
+  "zh": "又是这句吗……%J082607"
  },
  {
   "id": "MSG/MSG0800/142AF",
@@ -37428,7 +37428,7 @@
   "offset": "37B4",
   "jp": "我はデビルゴーレムに抗するために\n作り出されたモノ",
   "en": "I was created to resist Devil Golems.",
-  "zh": ""
+  "zh": "吾乃为抗击恶魔魔像\n而被造就之物"
  },
  {
   "id": "MSG/MSG0800/142B0",
@@ -37437,7 +37437,7 @@
   "offset": "37E8",
   "jp": "我はデビルゴーレムを統べるために\n作り出されたモノ",
   "en": "I was created to control Devil Golems.",
-  "zh": ""
+  "zh": "吾乃为统御恶魔魔像\n而被造就之物"
  },
  {
   "id": "MSG/MSG0800/142B1",
@@ -37446,7 +37446,7 @@
   "offset": "381C",
   "jp": "ん？\n・・・え、いやどっちかにしろよ%J082612",
   "en": "Come on. You're gonna have to pick one.%J082612",
-  "zh": ""
+  "zh": "嗯？\n……喂，这两句到底算哪个啊%J082612"
  },
  {
   "id": "MSG/MSG0800/142B2",
@@ -37455,7 +37455,7 @@
   "offset": "3852",
   "jp": "我はすべてを破壊し、世界を鎮めるために\n作り出されたモノ",
   "en": "",
-  "zh": ""
+  "zh": "吾乃为毁灭一切、平息世界\n而被造就之物"
  },
  {
   "id": "MSG/MSG0800/142B3",
@@ -37464,7 +37464,7 @@
   "offset": "388C",
   "jp": "我はすべてを創造し、世界を回帰させるために\n作り出されたモノ",
   "en": "",
-  "zh": ""
+  "zh": "吾乃为创造一切、令世界回归原初\n而被造就之物"
  },
  {
   "id": "MSG/MSG0800/142B4",
@@ -37473,7 +37473,7 @@
   "offset": "38CA",
   "jp": "我が世界を滅びより救い、新世界へといざなおう",
   "en": "I will save the world from destruction,\nand lead us into a new era.",
-  "zh": ""
+  "zh": "吾将拯救世界于毁灭之中，并引导至新世界"
  },
  {
   "id": "MSG/MSG0800/142B5",
@@ -37482,7 +37482,7 @@
   "offset": "38F8",
   "jp": "お主は、ただ我が導きに従うが良い",
   "en": "You need only follow my commands.",
-  "zh": ""
+  "zh": "汝只需遵循吾之指引即可"
  },
  {
   "id": "MSG/MSG0800/142B6",
@@ -37491,7 +37491,7 @@
   "offset": "391A",
   "jp": "それこそが、人のためでもあるのだ",
   "en": "This is all in the interests of mankind.",
-  "zh": ""
+  "zh": "这亦全是为了人类着想"
  },
  {
   "id": "MSG/MSG0800/142B7",
@@ -37500,7 +37500,7 @@
   "offset": "393C",
   "jp": "ただ、一個の魔導器を救うことが\nそなたの使命なのではない",
   "en": "Saving a single Magicore is not your fate.",
-  "zh": ""
+  "zh": "仅仅拯救单一的魔导器\n并非汝之使命"
  },
  {
   "id": "MSG/MSG0800/142B8",
@@ -37509,7 +37509,7 @@
   "offset": "3976",
   "jp": "汝の成すべきことを成すがいい",
   "en": "You must do that for which you are intended!",
-  "zh": ""
+  "zh": "去成就汝应为之事吧"
  },
  {
   "id": "MSG/MSG0800/142B9",
@@ -37518,7 +37518,7 @@
   "offset": "3994",
   "jp": "オレの成すべきこと・・・？",
   "en": "I am intended for... what?!",
-  "zh": ""
+  "zh": "我应为之事……？"
  },
  {
   "id": "MSG/MSG0800/142BA",
@@ -37527,7 +37527,7 @@
   "offset": "39B0",
   "jp": "秤にかけるのだ\n世界と一人の人間の命とを",
   "en": "Place them in the balance: the life of\none person, and the fate of the world.",
-  "zh": ""
+  "zh": "将它们置于天平之上吧\n整个世界，与区区一条人命"
  },
  {
   "id": "MSG/MSG0800/142BB",
@@ -37536,7 +37536,7 @@
   "offset": "39DA",
   "jp": "おのずと、答えは見えてこよう",
   "en": "Surely it's obvious?",
-  "zh": ""
+  "zh": "答案自然不言而喻"
  },
  {
   "id": "MSG/MSG0800/142BC",
@@ -37545,7 +37545,7 @@
   "offset": "39F8",
   "jp": "世界と・・・一人の人間・・・？%J082625",
   "en": "The whole world... or a single life...?%J082625",
-  "zh": ""
+  "zh": "世界……与一条人命……？%J082625"
  },
  {
   "id": "MSG/MSG0800/142C1",
@@ -37554,7 +37554,7 @@
   "offset": "3A28",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG0800/142C2",
@@ -37563,7 +37563,7 @@
   "offset": "3A3C",
   "jp": "・・・あれ・・・もういないのか？",
   "en": "Hey... He's gone?",
-  "zh": ""
+  "zh": "……咦……已经不在了吗？"
  },
  {
   "id": "MSG/MSG0800/142C3",
@@ -37572,7 +37572,7 @@
   "offset": "3A5E",
   "jp": "じゃオレも、元の世界に戻るかな",
   "en": "Then I guess I'll leave too...",
-  "zh": ""
+  "zh": "那我也回原本的世界去吧"
  },
  {
   "id": "MSG/MSG0800/142C4",
@@ -37581,7 +37581,7 @@
   "offset": "3A7E",
   "jp": "・・・って、どうやって？",
   "en": "...But how?",
-  "zh": ""
+  "zh": "……话说回来，要怎么做？"
  },
  {
   "id": "MSG/MSG0800/142C5",
@@ -37590,7 +37590,7 @@
   "offset": "3A98",
   "jp": "参ったな、どうやってもどりゃいいんだ？",
   "en": "How do I get back from here?",
-  "zh": ""
+  "zh": "真伤脑筋，要怎么才能回去啊？"
  },
  {
   "id": "MSG/MSG0800/142C6",
@@ -37599,7 +37599,7 @@
   "offset": "3AC0",
   "jp": "いつもは、勝手に夢から覚めて\nくれるんだけど・・・%F",
   "en": "I always just kinda... wake up...%F",
-  "zh": ""
+  "zh": "平时都是自己就从梦里\n醒过来了……%F"
  },
  {
   "id": "MSG/MSG0800/142C7",
@@ -37608,7 +37608,7 @@
   "offset": "3AF8",
   "jp": "　　　　　　　　　　　　　　%F",
   "en": "Ouwaaaaah!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0800/142C8",
@@ -37617,7 +37617,7 @@
   "offset": "3B1A",
   "jp": "なんだ、あの声・・・？\n右腕じゃ・・・ないよな・・・%F",
   "en": "What was that?! That wasn't my... right\narm...!%F",
-  "zh": ""
+  "zh": "什么声音，那叫声是……？\n应该……不是右手发出来的吧……%F"
  },
  {
   "id": "MSG/MSG0800/142C9",
@@ -37626,7 +37626,7 @@
   "offset": "3B54",
   "jp": "　　　　　　　　　　　　　　%F",
   "en": "Ouwaaaaah!%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG0800/142CA",
@@ -37635,7 +37635,7 @@
   "offset": "3B76",
   "jp": "やべぇ、なんか来るぞ！%F",
   "en": "No way! Something's coming!%F",
-  "zh": ""
+  "zh": "糟了，有什么东西过来了！%F"
  },
  {
   "id": "MSG/MSG0800/1430C",
@@ -37644,7 +37644,7 @@
   "offset": "3B92",
   "jp": "はぁはぁはぁ・・・倒した・・・ぞ！",
   "en": "Phew... defeated it!",
-  "zh": ""
+  "zh": "呼、呼、呼……打倒……它了！"
  },
  {
   "id": "MSG/MSG0800/1430D",
@@ -37653,7 +37653,7 @@
   "offset": "3BB6",
   "jp": "ていうか、いまの何だったんだ？",
   "en": "But what was that thing?!",
-  "zh": ""
+  "zh": "话说回来，刚才那到底是什么啊？"
  },
  {
   "id": "MSG/MSG0800/1430E",
@@ -37662,7 +37662,7 @@
   "offset": "3BD6",
   "jp": "ま、いっか",
   "en": "Well, doesn't matter now.",
-  "zh": ""
+  "zh": "算了，无所谓了"
  },
  {
   "id": "MSG/MSG0800/1430F",
@@ -37671,7 +37671,7 @@
   "offset": "3BE2",
   "jp": "倒したんだしな・・・ん？",
   "en": "I took care of it.",
-  "zh": ""
+  "zh": "反正都打倒了……嗯？"
  },
  {
   "id": "MSG/MSG0800/14310",
@@ -37680,7 +37680,7 @@
   "offset": "3BFC",
   "jp": "何か、落ちてるぞ%F",
   "en": "Hey, there's something here...?%F",
-  "zh": ""
+  "zh": "地上好像掉了什么东西%F"
  },
  {
   "id": "MSG/MSG0800/14311",
@@ -37689,7 +37689,7 @@
   "offset": "3C12",
   "jp": "見たこともないマテリアル？\n・・・だな",
   "en": "Some kind of Material I haven't seen\nbefore...?",
-  "zh": ""
+  "zh": "没见过的材料？\n……看来是了"
  },
  {
   "id": "MSG/MSG0800/14312",
@@ -37698,7 +37698,7 @@
   "offset": "3C3A",
   "jp": "ま、いっか、もうけもうけ",
   "en": "Okay, well, I'll take that too!",
-  "zh": ""
+  "zh": "算了，赚到了赚到了"
  },
  {
   "id": "MSG/MSG0800/14313",
@@ -37707,7 +37707,7 @@
   "offset": "3C54",
   "jp": "オォォォォォ・・・！",
   "en": "Ouwaaaaah!",
-  "zh": ""
+  "zh": "嗷呜呜呜呜……！"
  },
  {
   "id": "MSG/MSG0800/14314",
@@ -37716,7 +37716,7 @@
   "offset": "3C6A",
   "jp": "オォォォォォ・・・！",
   "en": "Ouwaaaaah!",
-  "zh": ""
+  "zh": "嗷呜呜呜呜……！"
  },
  {
   "id": "MSG/MSG0800/14315",
@@ -37725,7 +37725,7 @@
   "offset": "3C80",
   "jp": "あわわわ・・・なんだ？　ま、また来たぞ！？",
   "en": "Oh man! More of them!",
-  "zh": ""
+  "zh": "哇哇哇……怎么回事？又、又来了吗！？"
  },
  {
   "id": "MSG/MSG0800/14316",
@@ -37734,7 +37734,7 @@
   "offset": "3CAC",
   "jp": "ふむ・・・やはり、おそわれておったか",
   "en": "I suspected you might be under attack...",
-  "zh": ""
+  "zh": "唔……果然，还是遭到袭击了吗"
  },
  {
   "id": "MSG/MSG0800/14317",
@@ -37743,7 +37743,7 @@
   "offset": "3CD2",
   "jp": "うわっ！　け、賢者様？",
   "en": "Whaa! Sage...? Is that you?",
-  "zh": ""
+  "zh": "哇啊！贤、贤者大人？"
  },
  {
   "id": "MSG/MSG0800/14318",
@@ -37752,7 +37752,7 @@
   "offset": "3CEA",
   "jp": "こやつらは、力に魅入られて異世界に\nのまれたものたちの意識だ",
   "en": "You are being attacked by those trapped\nhere, consumed by their desire for power.",
-  "zh": ""
+  "zh": "这些家伙，是被力量迷了心窍、\n被异世界吞噬之人的意识"
  },
  {
   "id": "MSG/MSG0800/14319",
@@ -37761,7 +37761,7 @@
   "offset": "3D28",
   "jp": "へー、そうなんだ",
   "en": "I see!",
-  "zh": ""
+  "zh": "诶～原来是这样啊"
  },
  {
   "id": "MSG/MSG0800/1431A",
@@ -37770,7 +37770,7 @@
   "offset": "3D3A",
   "jp": "お前は・・・・・・平気そうだな？",
   "en": "You seem unaffected, however.",
-  "zh": ""
+  "zh": "你这家伙……看起来倒是一点事都没有啊？"
  },
  {
   "id": "MSG/MSG0800/1431B",
@@ -37779,7 +37779,7 @@
   "offset": "3D5C",
   "jp": "頭が単純にできているのも、時には役立つか",
   "en": "I guess a little... simplicity can have\nits uses.",
-  "zh": ""
+  "zh": "头脑简单，有时倒也派得上用场"
  },
  {
   "id": "MSG/MSG0800/1431C",
@@ -37788,7 +37788,7 @@
   "offset": "3D86",
   "jp": "オォォォォォ・・・！",
   "en": "Ouwaaaaah!",
-  "zh": ""
+  "zh": "嗷呜呜呜呜……！"
  },
  {
   "id": "MSG/MSG0800/1431D",
@@ -37797,7 +37797,7 @@
   "offset": "3D9C",
   "jp": "のおわわっ！",
   "en": "Whaaa!",
-  "zh": ""
+  "zh": "哇啊啊啊！"
  },
  {
   "id": "MSG/MSG0800/1431E",
@@ -37806,7 +37806,7 @@
   "offset": "3DAA",
   "jp": "フム、とはいえ、このままでは危ない",
   "en": "Still, you are in danger here.",
-  "zh": ""
+  "zh": "唔，话虽如此，继续留在这里也很危险"
  },
  {
   "id": "MSG/MSG0800/1431F",
@@ -37815,7 +37815,7 @@
   "offset": "3DCE",
   "jp": "戻るぞ、ついてこい！",
   "en": "We're going back! Come on!",
-  "zh": ""
+  "zh": "回去了，跟紧我！"
  },
  {
   "id": "MSG/MSG0800/14320",
@@ -37824,7 +37824,7 @@
   "offset": "3DE4",
   "jp": "りょーかいっ！",
   "en": "Yes ma'am!",
-  "zh": ""
+  "zh": "收到——！"
  },
  {
   "id": "MSG/MSG2000/31510",
