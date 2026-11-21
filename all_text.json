@@ -179799,7 +179799,7 @@
   "offset": "6F64",
   "jp": "（ガヤ；市民の賑わい）",
   "en": "(Excited people)",
-  "zh": ""
+  "zh": "（喧闹声；市民们的欢声笑语）"
  },
  {
   "id": "MSG/MSG8900/D9491",
@@ -179808,7 +179808,7 @@
   "offset": "6F7C",
   "jp": "（ガヤ；市民の賑わい）",
   "en": "(Excited people)",
-  "zh": ""
+  "zh": "（喧闹声；市民们的欢声笑语）"
  },
  {
   "id": "MSG/MSG8900/D9492",
@@ -179817,7 +179817,7 @@
   "offset": "6F94",
   "jp": "（ガヤ；市民の賑わい）",
   "en": "(Excited people)",
-  "zh": ""
+  "zh": "（喧闹声；市民们的欢声笑语）"
  },
  {
   "id": "MSG/MSG8900/D9493",
@@ -179826,7 +179826,7 @@
   "offset": "6FAC",
   "jp": "（ガヤ；市民の賑わい）",
   "en": "(Excited people)",
-  "zh": ""
+  "zh": "（喧闹声；市民们的欢声笑语）"
  },
  {
   "id": "MSG/MSG8900/D9494",
@@ -179835,7 +179835,7 @@
   "offset": "6FC4",
   "jp": "うっわー！\nやべーやべー%F",
   "en": "Whoa! I'm late! I'm late!%F",
-  "zh": ""
+  "zh": "哇啊——！\n糟了糟了%F"
  },
  {
   "id": "MSG/MSG8900/D9495",
@@ -179844,7 +179844,7 @@
   "offset": "6FE2",
   "jp": "チコクしちまった！\nみんな待ってるだろうな%F",
   "en": "This is bad! Everyone's waiting for me!%F",
-  "zh": ""
+  "zh": "迟到了！\n大家肯定都在等我吧%F"
  },
  {
   "id": "MSG/MSG8900/D9496",
@@ -179853,7 +179853,7 @@
   "offset": "7012",
   "jp": "・・・でも、ま、ヨコハマ復興祭の最後の\nイベントまでは、まだ時間があるしｱ",
   "en": "...I've still got some time before the final\nevent of the rebuilding festival.",
-  "zh": ""
+  "zh": "……不过，嘛，距离横滨复兴祭最后的\n活动，应该还有些时间ｱ"
  },
  {
   "id": "MSG/MSG8900/D9497",
@@ -179862,7 +179862,7 @@
   "offset": "705E",
   "jp": "いまから、集合場所に行けばじゅうぶんに\n間に合うよな・・・",
   "en": "I'll be on time if I get over there now.",
-  "zh": ""
+  "zh": "现在赶去集合地点的话，完全还来得及\n吧……"
  },
  {
   "id": "MSG/MSG8900/D9498",
@@ -179871,7 +179871,7 @@
   "offset": "709A",
   "jp": "ちゃんと、みんなに集合場所は\n広場の噴水前だって伝えてあるし・・・",
   "en": "I told everyone we'd meet at the fountain\nin the square, so...",
-  "zh": ""
+  "zh": "我也好好跟大家都交待过了，集合地点是在\n广场的喷泉前……"
  },
  {
   "id": "MSG/MSG8900/D9499",
@@ -179880,7 +179880,7 @@
   "offset": "70DE",
   "jp": "って・・・あれ！？",
   "en": "Wait a second... Did I?",
-  "zh": ""
+  "zh": "……等等，咦！？"
  },
  {
   "id": "MSG/MSG8900/D949A",
@@ -179889,7 +179889,7 @@
   "offset": "70F2",
   "jp": "やっべ～！　集合場所、いい忘れてたっ！",
   "en": "Oh no! I forgot to tell them!",
-  "zh": ""
+  "zh": "糟糕～！集合地点，我忘了说了！"
  },
  {
   "id": "MSG/MSG8900/D949B",
@@ -179898,7 +179898,7 @@
   "offset": "711A",
   "jp": "え～と、あ～う～んと・・・",
   "en": "Oh no... so... what now...?!",
-  "zh": ""
+  "zh": "这个嘛，呃～啊～嗯……"
  },
  {
   "id": "MSG/MSG8900/D949C",
@@ -179907,7 +179907,7 @@
   "offset": "7136",
   "jp": "・・・と、とりあえず、みんなを探そう！",
   "en": "...I guess I just need to look for them!",
-  "zh": ""
+  "zh": "……总、总之，先去找大家吧！"
  },
  {
   "id": "MSG/MSG8900/D949D",
@@ -179916,7 +179916,7 @@
   "offset": "715E",
   "jp": "きっとみんな、商業区のどこかにいるだろ%F",
   "en": "They'll probably be somewhere in the Trade\nDistrict.%F",
-  "zh": ""
+  "zh": "大家肯定都在商业区的某个地方吧%F"
  },
  {
   "id": "MSG/MSG8900/D949E",
@@ -179925,7 +179925,7 @@
   "offset": "718A",
   "jp": "あ、わりっ！%F",
   "en": "Ah, I'm sorry!%F",
-  "zh": ""
+  "zh": "啊，抱歉！%F"
  },
  {
   "id": "MSG/MSG8900/D949F",
@@ -179934,7 +179934,7 @@
   "offset": "719C",
   "jp": "大丈夫、大丈夫\n気にしないで",
   "en": "It's fine, please don't worry.",
-  "zh": ""
+  "zh": "没事，没事\n别放在心上"
  },
  {
   "id": "MSG/MSG8900/D94A0",
@@ -179943,7 +179943,7 @@
   "offset": "71BA",
   "jp": "おっと%J890006",
   "en": "Hey!%J890006",
-  "zh": ""
+  "zh": "哎呀%J890006"
  },
  {
   "id": "MSG/MSG8900/D94F4",
@@ -179952,7 +179952,7 @@
   "offset": "71D2",
   "jp": "だって・・・%F",
   "en": "Because...%F",
-  "zh": ""
+  "zh": "因为……%F"
  },
  {
   "id": "MSG/MSG8900/D94F5",
@@ -179961,7 +179961,7 @@
   "offset": "71E4",
   "jp": "ボクの記憶が確かならばｱ%F",
   "en": "If I remember correctly... and I do.%F",
-  "zh": ""
+  "zh": "如果我没记错的话ｱ%F"
  },
  {
   "id": "MSG/MSG8900/D94F6",
@@ -179970,7 +179970,7 @@
   "offset": "7202",
   "jp": "ボクとキミは、友達だから%F",
   "en": "You and I are friends.%F",
-  "zh": ""
+  "zh": "我和你，是朋友啊%F"
  },
  {
   "id": "MSG/MSG8900/D94F7",
@@ -179979,7 +179979,7 @@
   "offset": "7220",
   "jp": "トウヤ・・・%F",
   "en": "Toya..%F",
-  "zh": ""
+  "zh": "托亚……%F"
  },
  {
   "id": "MSG/MSG8900/D94F8",
@@ -179988,7 +179988,7 @@
   "offset": "7232",
   "jp": "そしてｱ%F",
   "en": "And!%F",
-  "zh": ""
+  "zh": "然后呢ｱ%F"
  },
  {
   "id": "MSG/MSG8900/D94F9",
@@ -179997,7 +179997,7 @@
   "offset": "7240",
   "jp": "・・・！？%F",
   "en": "...?!%F",
-  "zh": ""
+  "zh": "……！？%F"
  },
  {
   "id": "MSG/MSG8900/D94FA",
@@ -180006,7 +180006,7 @@
   "offset": "7250",
   "jp": "アタシの記憶が確かならばｱ%F",
   "en": "If I remember correctly...%F",
-  "zh": ""
+  "zh": "如果人家没记错的话ｱ%F"
  },
  {
   "id": "MSG/MSG8900/D94FB",
@@ -180015,7 +180015,7 @@
   "offset": "7270",
   "jp": "今夜はトウヤとアタシの\n#W聖なる夜#Rホーリーナイト#rよ%F",
   "en": "Tonight was going to be a very special night\nfor me and you, Toya!%F",
-  "zh": ""
+  "zh": "今晚可是托亚和人家的\n#W神圣之夜#R圣夜#r哦%F"
  },
  {
   "id": "MSG/MSG8900/D94FC",
@@ -180024,7 +180024,7 @@
   "offset": "72B2",
   "jp": "いざ！\n誓いの口付けを！%F",
   "en": "Our promised kiss!%F",
-  "zh": ""
+  "zh": "来吧！\n献上誓约之吻！%F"
  },
  {
   "id": "MSG/MSG8900/D94FD",
@@ -180033,7 +180033,7 @@
   "offset": "72D0",
   "jp": "ななななな、なに言ってるの！？\nマコト！？%F",
   "en": "Wha...What are you talking about?! Makoto!%F",
-  "zh": ""
+  "zh": "你、你在胡说些什么啊！？\n马科托！？%F"
  },
  {
   "id": "MSG/MSG8900/D94FE",
@@ -180042,7 +180042,7 @@
   "offset": "7300",
   "jp": "よしっ、今日はめでたい日だ%F",
   "en": "Today is a special day indeed!%F",
-  "zh": ""
+  "zh": "好咧，今天可是个大喜日子%F"
  },
  {
   "id": "MSG/MSG8900/D94FF",
@@ -180051,7 +180051,7 @@
   "offset": "7320",
   "jp": "オレが許す\nやれっ、マコト！！%F",
   "en": "I say go for it, Makoto!%F",
-  "zh": ""
+  "zh": "我批准了\n上吧，马科托！！%F"
  },
  {
   "id": "MSG/MSG8900/D9500",
@@ -180060,7 +180060,7 @@
   "offset": "7344",
   "jp": "う・・・うわっ・・・！\nアツマ、な、なにをっ！？%F",
   "en": "Uha... wahaaa! Atsuma!%F",
-  "zh": ""
+  "zh": "哇……哇啊……！\n阿茨玛，你、你在干什么啊！？%F"
  },
  {
   "id": "MSG/MSG8900/D9501",
@@ -180069,7 +180069,7 @@
   "offset": "737A",
   "jp": "ウフフフフ⑲\nトウヤぁん、愛してるわぁ%F",
   "en": "Oh, Toya⑲\nI love you baby!%F",
-  "zh": ""
+  "zh": "呵呵呵呵⑲\n托亚～，我好爱你啊～%F"
  },
  {
   "id": "MSG/MSG8900/D9502",
@@ -180078,7 +180078,7 @@
   "offset": "73A6",
   "jp": "いいい、いやだ！%F",
   "en": "No... Yuck!%F",
-  "zh": ""
+  "zh": "不、不要啊！%F"
  },
  {
   "id": "MSG/MSG8900/D9503",
@@ -180087,7 +180087,7 @@
   "offset": "73BC",
   "jp": "う、うわぁぁぁぁぁぁぁぁ！！%F",
   "en": "Mmmmmmmmm mwoa!%F",
-  "zh": ""
+  "zh": "哇、哇啊啊啊啊啊啊啊！！%F"
  },
  {
   "id": "MSG/MSG8900/D9558",
@@ -180096,7 +180096,7 @@
   "offset": "73DE",
   "jp": "はぁはぁはぁ・・・%F",
   "en": "Haah haah haah....%F",
-  "zh": ""
+  "zh": "哈啊、哈啊、哈啊……%F"
  },
  {
   "id": "MSG/MSG8900/D9559",
@@ -180105,7 +180105,7 @@
   "offset": "73F6",
   "jp": "ムフフフフフ⑲%F",
   "en": "Hee hee hee hee⑲%F",
-  "zh": ""
+  "zh": "哼呵呵呵呵⑲%F"
  },
  {
   "id": "MSG/MSG8900/D955A",
@@ -180114,7 +180114,7 @@
   "offset": "740A",
   "jp": "アツマ・・・マコト・・・%F",
   "en": "Atsuma... Makoto...%F",
-  "zh": ""
+  "zh": "阿茨玛……马科托……%F"
  },
  {
   "id": "MSG/MSG8900/D955B",
@@ -180123,7 +180123,7 @@
   "offset": "7428",
   "jp": "キミたちって・・・ほんっと・・・%F",
   "en": "You two really are...%F",
-  "zh": ""
+  "zh": "你们两个……真是……%F"
  },
  {
   "id": "MSG/MSG8900/D955C",
@@ -180132,7 +180132,7 @@
   "offset": "744E",
   "jp": "迷惑な・・・やつら・・・%F",
   "en": "So very... very... annoying...%F",
-  "zh": ""
+  "zh": "让人头疼的……家伙……%F"
  },
  {
   "id": "MSG/MSG8900/D9C60",
@@ -180141,7 +180141,7 @@
   "offset": "746C",
   "jp": "おーい、ライガさん！",
   "en": "Hey, Raigar!",
-  "zh": ""
+  "zh": "喂——，莱加大哥！"
  },
  {
   "id": "MSG/MSG8900/D9C61",
@@ -180150,7 +180150,7 @@
   "offset": "7482",
   "jp": "む、アツマか！　どうだ、#W息災#Rそくさい#rか？",
   "en": "Oh, Atsuma! You look excited!",
-  "zh": ""
+  "zh": "唔，是阿茨玛啊！近来如何，一切安好吗？"
  },
  {
   "id": "MSG/MSG8900/D9C62",
@@ -180159,7 +180159,7 @@
   "offset": "74B8",
   "jp": "おうよ！　ムチャクチャ、元気だぜ？%J892026",
   "en": "Oh yeah! I'm doing great!%J892026",
-  "zh": ""
+  "zh": "那当然！我精神得不得了呢！%J892026"
  },
  {
   "id": "MSG/MSG8900/D9C63",
@@ -180168,7 +180168,7 @@
   "offset": "74EC",
   "jp": "フフ、アツマ殿はあいかわらず、お元気そうですね",
   "en": "I'm very pleased to hear that, Atsuma.",
-  "zh": ""
+  "zh": "呵呵，阿茨玛阁下还是一如既往地精神呢"
  },
  {
   "id": "MSG/MSG8900/D9C64",
@@ -180177,7 +180177,7 @@
   "offset": "751C",
   "jp": "あ、サヤカさんも一緒だったんだ？",
   "en": "Oh, Sayaka! You're here too?",
-  "zh": ""
+  "zh": "啊，小夜香小姐也在一起啊？"
  },
  {
   "id": "MSG/MSG8900/D9C65",
@@ -180186,7 +180186,7 @@
   "offset": "753E",
   "jp": "当然です",
   "en": "Of course.",
-  "zh": ""
+  "zh": "那是自然的"
  },
  {
   "id": "MSG/MSG8900/D9C66",
@@ -180195,7 +180195,7 @@
   "offset": "7548",
   "jp": "あー、そりゃあそうだよね～\n夫婦だもんね～",
   "en": "Yeah, I guess... you're married now, aren't\nyou.",
-  "zh": ""
+  "zh": "啊——也对也是呢～\n毕竟是夫妻嘛～"
  },
  {
   "id": "MSG/MSG8900/D9C67",
@@ -180204,7 +180204,7 @@
   "offset": "7574",
   "jp": "いやぁ、しかし気づいたらいつのまにか\n結婚してるんだもんなぁ・・・",
   "en": "When did you find the time to do that?",
-  "zh": ""
+  "zh": "不过话说回来，回过神来的时候\n你们不知不觉就已经结婚了啊……"
  },
  {
   "id": "MSG/MSG8900/D9C68",
@@ -180213,7 +180213,7 @@
   "offset": "75B8",
   "jp": "このままトントン拍子で\nさっさと子供も、ポコッと作っちゃえば？",
   "en": "So you'll probably be thinking of starting a\nfamily soon?",
-  "zh": ""
+  "zh": "干脆就顺水推舟，\n快点生个小宝宝出来呗？"
  },
  {
   "id": "MSG/MSG8900/D9C69",
@@ -180222,7 +180222,7 @@
   "offset": "75F8",
   "jp": "ていうか、実はもうできてたりして！",
   "en": "Or maybe you've started already?!",
-  "zh": ""
+  "zh": "话说，其实该不会已经怀上了吧！"
  },
  {
   "id": "MSG/MSG8900/D9C6A",
@@ -180231,7 +180231,7 @@
   "offset": "761C",
   "jp": "む！",
   "en": "Ahem!",
-  "zh": ""
+  "zh": "唔！"
  },
  {
   "id": "MSG/MSG8900/D9C6B",
@@ -180240,7 +180240,7 @@
   "offset": "7622",
   "jp": "・・・・・・⑲",
   "en": "...⑲",
-  "zh": ""
+  "zh": "……⑲"
  },
  {
   "id": "MSG/MSG8900/D9C6C",
@@ -180249,7 +180249,7 @@
   "offset": "7632",
   "jp": "・・・え？　ホントに？",
   "en": "...Oh? Really?!",
-  "zh": ""
+  "zh": "……诶？真的假的？"
  },
  {
   "id": "MSG/MSG8900/D9C6D",
@@ -180258,7 +180258,7 @@
   "offset": "764A",
   "jp": "はい・・・わかったのは、つい先日なのですけれど",
   "en": "Yes... although we only found out the other\nday ourselves.",
-  "zh": ""
+  "zh": "是的……虽然也是前些天才刚查出来的"
  },
  {
   "id": "MSG/MSG8900/D9C6E",
@@ -180267,7 +180267,7 @@
   "offset": "767A",
   "jp": "うわぁ・・・ライガさんが、パパか・・・",
   "en": "Wow... Raigar, you're gonna be a dad!",
-  "zh": ""
+  "zh": "哇啊……莱加大哥要当爸爸了啊……"
  },
  {
   "id": "MSG/MSG8900/D9C6F",
@@ -180276,7 +180276,7 @@
   "offset": "76A2",
   "jp": "う、うむ",
   "en": "Indeed.",
-  "zh": ""
+  "zh": "嗯、嗯"
  },
  {
   "id": "MSG/MSG8900/D9C70",
@@ -180285,7 +180285,7 @@
   "offset": "76AC",
   "jp": "すっげぇ、めでたいぜ！",
   "en": "Congratulations!",
-  "zh": ""
+  "zh": "太棒了，真是大喜事啊！"
  },
  {
   "id": "MSG/MSG8900/D9C71",
@@ -180294,7 +180294,7 @@
   "offset": "76C4",
   "jp": "バンザーイ！　バンザーイ！",
   "en": "Woo hoo! All right!",
-  "zh": ""
+  "zh": "万岁！万岁！"
  },
  {
   "id": "MSG/MSG8900/D9C72",
@@ -180303,7 +180303,7 @@
   "offset": "76E0",
   "jp": "は・・・恥ずかしいからよせ、アツマ",
   "en": "Please... you're embarrassing me, Atsuma.",
-  "zh": ""
+  "zh": "怪……怪不好意思的，快住手，阿茨玛"
  },
  {
   "id": "MSG/MSG8900/D9C73",
@@ -180312,7 +180312,7 @@
   "offset": "7704",
   "jp": "バンザーイ！　バンザーイ！\nバンザーイ！　バンザーイッ！",
   "en": "Yahoo! All right!",
-  "zh": ""
+  "zh": "万岁！万岁！\n万岁！万岁——！"
  },
  {
   "id": "MSG/MSG8900/D9C74",
@@ -180321,7 +180321,7 @@
   "offset": "773E",
   "jp": "よせと言っている！",
   "en": "I'm telling you to stop it.",
-  "zh": ""
+  "zh": "我都叫你住手了！"
  },
  {
   "id": "MSG/MSG8900/D9C75",
@@ -180330,7 +180330,7 @@
   "offset": "7752",
   "jp": "あはははは！　怒ることないじゃん～",
   "en": "Ah ha ha ha! Nothing to get angry about!",
-  "zh": ""
+  "zh": "啊哈哈哈哈！有什么好生气的嘛～"
  },
  {
   "id": "MSG/MSG8900/D9C76",
@@ -180339,7 +180339,7 @@
   "offset": "7776",
   "jp": "あー、そうだ\nところでライガさん",
   "en": "Oh, right, Raigar. One thing.",
-  "zh": ""
+  "zh": "啊，对了\n话说莱加先生"
  },
  {
   "id": "MSG/MSG8900/D9C77",
@@ -180348,7 +180348,7 @@
   "offset": "7798",
   "jp": "復興祭のイベントなんだけどさｱ",
   "en": "The rebuilding festival event...",
-  "zh": ""
+  "zh": "关于复兴祭的活动啊"
  },
  {
   "id": "MSG/MSG8900/D9C78",
@@ -180357,7 +180357,7 @@
   "offset": "77B8",
   "jp": "いい忘れてたんだけど\n時間になったら、噴水の前に集合ね",
   "en": "I forgot to tell you. Let's meet by the\nfountain, OK?",
-  "zh": ""
+  "zh": "刚才忘了跟你说\n等时间到了，就在喷泉前集合吧"
  },
  {
   "id": "MSG/MSG8900/D9C79",
@@ -180366,7 +180366,7 @@
   "offset": "77F0",
   "jp": "うむ、噴水前だな？　わかった%F",
   "en": "By the fountain? OK.%F",
-  "zh": ""
+  "zh": "嗯，喷泉前是吧？我知道了%F"
  },
  {
   "id": "MSG/MSG8900/D9C7A",
@@ -180375,7 +180375,7 @@
   "offset": "7812",
   "jp": "右腕のヤツも、すっかりおとなしくなっちまったし%J892003",
   "en": "No more problems with my arm, either.%J892003",
-  "zh": ""
+  "zh": "右臂那家伙也彻底老实下来了%J892003"
  },
  {
   "id": "MSG/MSG8900/D9CC4",
@@ -180384,7 +180384,7 @@
   "offset": "7852",
   "jp": "生徒諸君！",
   "en": "Students!",
-  "zh": ""
+  "zh": "各位同学！"
  },
  {
   "id": "MSG/MSG8900/D9CC5",
@@ -180393,7 +180393,7 @@
   "offset": "785E",
   "jp": "はーい、先生",
   "en": "Yes, Miss!",
-  "zh": ""
+  "zh": "到——老师！"
  },
  {
   "id": "MSG/MSG8900/D9CC6",
@@ -180402,7 +180402,7 @@
   "offset": "786C",
   "jp": "世界一のゴーレムハンターには、必要なものが\n四つある・・・",
   "en": "The number one Golem Hunter in the world\nneeds four things.",
-  "zh": ""
+  "zh": "要成为世界第一的魔像猎人，有四样\n必不可少的东西……"
  },
  {
   "id": "MSG/MSG8900/D9CC7",
@@ -180411,7 +180411,7 @@
   "offset": "78A8",
   "jp": "それを知ってるか？",
   "en": "Do you know what they are?",
-  "zh": ""
+  "zh": "你们知道是什么吗？"
  },
  {
   "id": "MSG/MSG8900/D9CC8",
@@ -180420,7 +180420,7 @@
   "offset": "78BC",
   "jp": "ううん、知らなーい",
   "en": "No idea!",
-  "zh": ""
+  "zh": "不知道——！"
  },
  {
   "id": "MSG/MSG8900/D9CC9",
@@ -180429,7 +180429,7 @@
   "offset": "78D0",
   "jp": "（キタキタキタ・・・子供は素直だなぁ）\n　・・・オホン、では教えよう！",
   "en": "(Here we go! I knew I could count on kids!)\n...Ahem! Then listen up!",
-  "zh": ""
+  "zh": "（来了来了……小孩子真坦率啊）\n……咳咳，那就由我来告诉你们吧！"
  },
  {
   "id": "MSG/MSG8900/D9CCA",
@@ -180438,7 +180438,7 @@
   "offset": "7918",
   "jp": "ゴーレムハンターに必要なのはｱ",
   "en": "A Golem Hunter requires...",
-  "zh": ""
+  "zh": "身为魔像猎人所需要的——"
  },
  {
   "id": "MSG/MSG8900/D9CCB",
@@ -180447,7 +180447,7 @@
   "offset": "7938",
   "jp": "一つ目は、金だ",
   "en": "First - money!",
-  "zh": ""
+  "zh": "第一，是钱"
  },
  {
   "id": "MSG/MSG8900/D9CCC",
@@ -180456,7 +180456,7 @@
   "offset": "7948",
   "jp": "二つ目も、金だ",
   "en": "Second - money!",
-  "zh": ""
+  "zh": "第二，也是钱"
  },
  {
   "id": "MSG/MSG8900/D9CCD",
@@ -180465,7 +180465,7 @@
   "offset": "7958",
   "jp": "三つ目も、金だ",
   "en": "Third - money!",
-  "zh": ""
+  "zh": "第三，还是钱"
  },
  {
   "id": "MSG/MSG8900/D9CCE",
@@ -180474,7 +180474,7 @@
   "offset": "7968",
   "jp": "そして、最後に・・・%J892141",
   "en": "And finally...%J892141",
-  "zh": ""
+  "zh": "而最后则是……%J892141"
  },
  {
   "id": "MSG/MSG8900/D9CCF",
@@ -180483,7 +180483,7 @@
   "offset": "798E",
   "jp": "愛？",
   "en": "Love?!",
-  "zh": ""
+  "zh": "爱？"
  },
  {
   "id": "MSG/MSG8900/D9CD0",
@@ -180492,7 +180492,7 @@
   "offset": "7994",
   "jp": "そうアタシが世界一のゴーレムハンターとなった\nのも、ある一人の男と育んだ愛のおかげなんだ",
   "en": "The reason I'm the number one Golem Hunter\nis my love for a special man!",
-  "zh": ""
+  "zh": "没错！本姑娘之所以能成为世界第一的魔像猎人，\n也全是多亏了与某位男子所培育出的爱啊"
  },
  {
   "id": "MSG/MSG8900/D9CD1",
@@ -180501,7 +180501,7 @@
   "offset": "79EE",
   "jp": "へー",
   "en": "Wow!",
-  "zh": ""
+  "zh": "哇——"
  },
  {
   "id": "MSG/MSG8900/D9CD2",
@@ -180510,7 +180510,7 @@
   "offset": "79F4",
   "jp": "アタシは最愛のパートナーであるｱ",
   "en": "It was the vow of everlasting love I made \nwith my beloved partner...",
-  "zh": ""
+  "zh": "本姑娘正因为与最心爱的搭档——"
  },
  {
   "id": "MSG/MSG8900/D9CD3",
@@ -180519,7 +180519,7 @@
   "offset": "7A16",
   "jp": "アツマと#W永久#Rとわ#rの愛を誓ったからこそ\n強くなれたのさ",
   "en": "Atsuma! That made me so strong!",
-  "zh": ""
+  "zh": "阿茨玛立下了#W永久#R恒久#r之爱的誓言，\n才得以变得如此强大啊"
  },
  {
   "id": "MSG/MSG8900/D9CD4",
@@ -180528,7 +180528,7 @@
   "offset": "7A58",
   "jp": "いや、誓ってないし",
   "en": "I never made any vow like that.",
-  "zh": ""
+  "zh": "喂，我可没立过什么誓"
  },
  {
   "id": "MSG/MSG8900/D9CD5",
@@ -180537,7 +180537,7 @@
   "offset": "7A6C",
   "jp": "なんですってぇえっ！？",
   "en": "What?!",
-  "zh": ""
+  "zh": "你说什么啊啊啊！？"
  },
  {
   "id": "MSG/MSG8900/D9CD6",
@@ -180546,7 +180546,7 @@
   "offset": "7A84",
   "jp": "・・・って、うわっ！\nアツマじゃん",
   "en": "Hey... it's you!",
-  "zh": ""
+  "zh": "……等等，哇啊！\n这不是阿茨玛嘛！"
  },
  {
   "id": "MSG/MSG8900/D9CD7",
@@ -180555,7 +180555,7 @@
   "offset": "7AA8",
   "jp": "お前、なにしてんの？",
   "en": "What are you doing here?",
-  "zh": ""
+  "zh": "你这家伙，在搞什么鬼啊？"
  },
  {
   "id": "MSG/MSG8900/D9CD8",
@@ -180564,7 +180564,7 @@
   "offset": "7ABE",
   "jp": "ゴーレムハンター教室さ",
   "en": "It's my Golem Hunter class.",
-  "zh": ""
+  "zh": "魔像猎人培训班啊"
  },
  {
   "id": "MSG/MSG8900/D9CD9",
@@ -180573,7 +180573,7 @@
   "offset": "7AD6",
   "jp": "ゴールデンハンマー教室？",
   "en": "Golem Hunter class?",
-  "zh": ""
+  "zh": "黄金铁锤培训班？"
  },
  {
   "id": "MSG/MSG8900/D9CDA",
@@ -180582,7 +180582,7 @@
   "offset": "7AF0",
   "jp": "ちっが～う！\n“ゴーレムハンター教室”！",
   "en": "Yeah! I'm teaching these kids the importance\nof good Golem Hunting.",
-  "zh": ""
+  "zh": "才——不——是！\n是“魔像猎人培训班”！"
  },
  {
   "id": "MSG/MSG8900/D9CDB",
@@ -180591,7 +180591,7 @@
   "offset": "7B1A",
   "jp": "ゴーレムハンターとしての心得とかを\n子供に伝授してんの",
   "en": "You've got to start young! There's a lot of\nground to cover, after all!",
-  "zh": ""
+  "zh": "我正在把作为魔像猎人的心得体会之类的\n传授给小孩子们呢"
  },
  {
   "id": "MSG/MSG8900/D9CDC",
@@ -180600,7 +180600,7 @@
   "offset": "7B52",
   "jp": "ゴーレム別のマル秘攻略法から\n武器の使い方まで、幅広く教えてるんだ",
   "en": "How to tackle different types of Golem,\nweapons, tips for saving money...",
-  "zh": ""
+  "zh": "从针对不同魔像的独门秘笈，\n到各种武器的使用方法，我都在广泛地传授呢"
  },
  {
   "id": "MSG/MSG8900/D9CDD",
@@ -180609,7 +180609,7 @@
   "offset": "7B96",
   "jp": "みんながあこがれる世界一のゴーレムハンター\nたるもの、後進の育成にも力を注ぐのさ",
   "en": "Everyone pays attention to the greatest\nGolem Hunter in the world, you know!",
-  "zh": ""
+  "zh": "作为备受憧憬的世界第一魔像猎人，\n也要为培养后辈倾注心血嘛"
  },
  {
   "id": "MSG/MSG8900/D9CDE",
@@ -180618,7 +180618,7 @@
   "offset": "7BE8",
   "jp": "ふぅん、意外と考えてるんだな",
   "en": "You seem to have it all worked out.",
-  "zh": ""
+  "zh": "哼，想不到你还挺有考虑的嘛"
  },
  {
   "id": "MSG/MSG8900/D9CDF",
@@ -180627,7 +180627,7 @@
   "offset": "7C06",
   "jp": "・・・で、授業は一回いくらなんだ？",
   "en": "...So, how much per lesson?",
-  "zh": ""
+  "zh": "……所以，一堂课要收多少钱？"
  },
  {
   "id": "MSG/MSG8900/D9CE0",
@@ -180636,7 +180636,7 @@
   "offset": "7C2A",
   "jp": "ああ、初回は格安の５ＴＢでしきいを\n低くしておいてｱ",
   "en": "The first class is a nice cheap 5 TB.",
-  "zh": ""
+  "zh": "啊，初次上课只要超划算的5TB，\n先降低门槛ｱ"
  },
  {
   "id": "MSG/MSG8900/D9CE1",
@@ -180645,7 +180645,7 @@
   "offset": "7C60",
   "jp": "二回目以降は、じょじょに料金水増し\n・・・って感じ",
   "en": "And from the second class onwards... up up\nup!",
-  "zh": ""
+  "zh": "第二次开始，再慢慢抬高价格\n……大概这种感觉"
  },
  {
   "id": "MSG/MSG8900/D9CE2",
@@ -180654,7 +180654,7 @@
   "offset": "7C94",
   "jp": "やっぱり、金取ってんのか・・・",
   "en": "You mean you're taking money for this?",
-  "zh": ""
+  "zh": "搞了半天，你果然还是要收钱啊……"
  },
  {
   "id": "MSG/MSG8900/D9CE3",
@@ -180663,7 +180663,7 @@
   "offset": "7CB4",
   "jp": "あったりまえじゃない！\nためになるからこそ、お金を取るのよ",
   "en": "Of course! For their sake, I have to!",
-  "zh": ""
+  "zh": "那不是理所当然的嘛！\n正因为能学到东西，才更要收钱啊"
  },
  {
   "id": "MSG/MSG8900/D9CE4",
@@ -180672,7 +180672,7 @@
   "offset": "7CF0",
   "jp": "それに、タダより高いものはないんだから",
   "en": "No one ever learns anything when the class\nis free, you know!",
-  "zh": ""
+  "zh": "而且，天下哪有免费的午餐嘛"
  },
  {
   "id": "MSG/MSG8900/D9CE5",
@@ -180681,7 +180681,7 @@
   "offset": "7D18",
   "jp": "・・・んで、なにか用なの？",
   "en": "...So, what did you want?",
-  "zh": ""
+  "zh": "……话说回来，你找我有什么事？"
  },
  {
   "id": "MSG/MSG8900/D9CE6",
@@ -180690,7 +180690,7 @@
   "offset": "7D34",
   "jp": "ああ、そうだそうだ！\nこの後ある復興祭のイベントなんだけどさｱ",
   "en": "Right, of course. The upcoming rebuilding\nfestival event...",
-  "zh": ""
+  "zh": "啊，对了对了！\n就是关于待会儿复兴祭的活动啊ｱ"
  },
  {
   "id": "MSG/MSG8900/D9CE7",
@@ -180699,7 +180699,7 @@
   "offset": "7D74",
   "jp": "いい忘れてたんだけど、時間になったら\n噴水の前に集合ってことでいいか？",
   "en": "I forgot to tell you. Let's all meet by\nthe fountain, OK?",
-  "zh": ""
+  "zh": "之前忘了跟你说，到了时间\n在喷泉前集合，可以吧？"
  },
  {
   "id": "MSG/MSG8900/D9CE8",
@@ -180708,7 +180708,7 @@
   "offset": "7DBC",
   "jp": "あー、そういえばそんな話もあったよね\n商売・・・もとい後進の育成に夢中で忘れてた",
   "en": "OK! Sorry, I was totally caught up in making\nmon... educating the next generation!",
-  "zh": ""
+  "zh": "啊，说起来确实有这么回事呢。\n光顾着做生……不对，光顾着培养后辈都给忘了"
  },
  {
   "id": "MSG/MSG8900/D9CE9",
@@ -180717,7 +180717,7 @@
   "offset": "7E0E",
   "jp": "覚えてろよ",
   "en": "Don't forget!",
-  "zh": ""
+  "zh": "你可别忘了啊"
  },
  {
   "id": "MSG/MSG8900/D9CEA",
@@ -180726,7 +180726,7 @@
   "offset": "7E1A",
   "jp": "はいはい、時間になったら噴水の前に\n行けばいいんでしょ？",
   "en": "Yeah yeah, I'll be there on time!",
-  "zh": ""
+  "zh": "好啦好啦，到时候只要去喷泉前\n集合就行了吧？"
  },
  {
   "id": "MSG/MSG8900/D9CEB",
@@ -180735,7 +180735,7 @@
   "offset": "7E54",
   "jp": "わかったからほら、どいたどいた\nしょうば・・・じゃなくて、授業のじゃまだよ",
   "en": "Now get out! I've got to make more mon...\neducate children!",
-  "zh": ""
+  "zh": "知道了知道了，快让开让开，\n别妨碍我做生……不对，别妨碍我上课啦"
  },
  {
   "id": "MSG/MSG8900/D9CEC",
@@ -180744,7 +180744,7 @@
   "offset": "7EA0",
   "jp": "へいへい%F",
   "en": "OK, OK.%F",
-  "zh": ""
+  "zh": "行行行%F"
  },
  {
   "id": "MSG/MSG8900/D9CED",
@@ -180753,7 +180753,7 @@
   "offset": "7EAE",
   "jp": "愛だっ！！%J892111",
   "en": "Love!%J892111",
-  "zh": ""
+  "zh": "是爱啊！！%J892111"
  },
  {
   "id": "MSG/MSG8900/D9D28",
@@ -180762,7 +180762,7 @@
   "offset": "7ECA",
   "jp": "ングングング・・・",
   "en": "Mmmm... Ahhh...",
-  "zh": ""
+  "zh": "咕嘟咕嘟咕嘟……"
  },
  {
   "id": "MSG/MSG8900/D9D29",
@@ -180771,7 +180771,7 @@
   "offset": "7EDE",
   "jp": "・・・うーん、おいしい⑲",
   "en": "...That's delicious pizza⑲",
-  "zh": ""
+  "zh": "……嗯——真好吃⑲"
  },
  {
   "id": "MSG/MSG8900/D9D2A",
@@ -180780,7 +180780,7 @@
   "offset": "7EF8",
   "jp": "オホメニ　アズカリ　コウエイデス\nオキャクサマ",
   "en": "Thank you for the compliment.",
-  "zh": ""
+  "zh": "承蒙夸奖　不胜荣幸\n客人"
  },
  {
   "id": "MSG/MSG8900/D9D2B",
@@ -180789,7 +180789,7 @@
   "offset": "7F28",
   "jp": "コノ　スパイシーピザハ　セカイデモットモ\nカライトイワレテイル　トウガラシｱ",
   "en": "This spicy pizza uses the hottest peppers\nin the world.",
-  "zh": ""
+  "zh": "这款香辣比萨使用了号称世界上\n最辣的辣椒ｱ"
  },
  {
   "id": "MSG/MSG8900/D9D2C",
@@ -180798,7 +180798,7 @@
   "offset": "7F76",
   "jp": "“ハバネロ”ノオ味ガ　トテモ　ニンキト\nナッテオリマス",
   "en": "The Habanero pepper.",
-  "zh": ""
+  "zh": "“哈瓦那辣椒”的风味　非常受到\n客人们的欢迎"
  },
  {
   "id": "MSG/MSG8900/D9D2D",
@@ -180807,7 +180807,7 @@
   "offset": "7FAE",
   "jp": "なるほど、トウガラシが決め手なわけね\nメモメモ・・・",
   "en": "Ah-hah, so the peppers are the key. It sure\ntastes good...",
-  "zh": ""
+  "zh": "原来如此，辣椒才是关键啊。\n记下来记下来……"
  },
  {
   "id": "MSG/MSG8900/D9D2E",
@@ -180816,7 +180816,7 @@
   "offset": "7FE4",
   "jp": "うん\nやっぱりピザとかオムバーグカレーとかｱ\n%J892235",
   "en": "I need to learn how to cook\nYokohama-style...%J892235",
-  "zh": ""
+  "zh": "嗯，\n果然像比萨或者蛋包汉堡排咖喱之类的ｱ\n%J892235"
  },
  {
   "id": "MSG/MSG8900/D9D2F",
@@ -180825,7 +180825,7 @@
   "offset": "8024",
   "jp": "・・・なにやってんの、カリン？",
   "en": "...What're you doing, Karin?",
-  "zh": ""
+  "zh": "……你在干嘛呢，卡琳？"
  },
  {
   "id": "MSG/MSG8900/D9D30",
@@ -180834,7 +180834,7 @@
   "offset": "8044",
   "jp": "ぅきゃ！　ア、アツマ！？",
   "en": "Kya!! A... Atsuma!?",
-  "zh": ""
+  "zh": "哇呀！阿、阿茨玛！？"
  },
  {
   "id": "MSG/MSG8900/D9D31",
@@ -180843,7 +180843,7 @@
   "offset": "805E",
   "jp": "な、なに？",
   "en": "W... what do you want?",
-  "zh": ""
+  "zh": "干、干嘛啦？"
  },
  {
   "id": "MSG/MSG8900/D9D32",
@@ -180852,7 +180852,7 @@
   "offset": "806A",
   "jp": "なに・・・って、ひさしぶりに会ったのに\n第一声がそれかよ？",
   "en": "That's your greeting, is it?",
-  "zh": ""
+  "zh": "干嘛……好不容易见次面，\n第一句话居然是这个吗？"
  },
  {
   "id": "MSG/MSG8900/D9D33",
@@ -180861,7 +180861,7 @@
   "offset": "80A6",
   "jp": "だって、急に声かけられたら・・・\nびっくりするじゃない",
   "en": "Only because you surprised me!",
-  "zh": ""
+  "zh": "谁叫你突然出声……\n吓人家一跳嘛"
  },
  {
   "id": "MSG/MSG8900/D9D34",
@@ -180870,7 +180870,7 @@
   "offset": "80DE",
   "jp": "それで、なにメモってたんだ？",
   "en": "What are you writing down there?",
-  "zh": ""
+  "zh": "话说，你刚才在那记什么呢？"
  },
  {
   "id": "MSG/MSG8900/D9D35",
@@ -180879,7 +180879,7 @@
   "offset": "80FC",
   "jp": "え？　ええと・・・ピザのレシピよ",
   "en": "This... um... pizza recipe...",
-  "zh": ""
+  "zh": "诶？那个……是披萨的食谱啦"
  },
  {
   "id": "MSG/MSG8900/D9D36",
@@ -180888,7 +180888,7 @@
   "offset": "811E",
   "jp": "料理の腕を、もっとみがこうかな・・・と思って",
   "en": "I've decided to improve my cooking...",
-  "zh": ""
+  "zh": "我在想……要不要多磨练一下厨艺"
  },
  {
   "id": "MSG/MSG8900/D9D37",
@@ -180897,7 +180897,7 @@
   "offset": "814C",
   "jp": "それは・・・！　ムボウだ・・・",
   "en": "Wow...! Now there's a challenge!",
-  "zh": ""
+  "zh": "这也……！太乱来了吧……"
  },
  {
   "id": "MSG/MSG8900/D9D38",
@@ -180906,7 +180906,7 @@
   "offset": "816C",
   "jp": "なんですって？",
   "en": "I'm sorry, did you say something?",
-  "zh": ""
+  "zh": "你说什么？"
  },
  {
   "id": "MSG/MSG8900/D9D39",
@@ -180915,7 +180915,7 @@
   "offset": "817C",
   "jp": "い、いや・・・その、お、王女様になったんだし\n料理の腕は必要ないんじゃないかなぁ、なんて",
   "en": "No, no... I mean... surely a Princess\ndoesn't need to cook?",
-  "zh": ""
+  "zh": "没、没什么……那个，你、你都当上王女了，\n应该不需要什么厨艺吧，我只是这么想啦"
  },
  {
   "id": "MSG/MSG8900/D9D3A",
@@ -180924,7 +180924,7 @@
   "offset": "81D6",
   "jp": "甘いわね",
   "en": "Maybe not...",
-  "zh": ""
+  "zh": "你太天真了"
  },
  {
   "id": "MSG/MSG8900/D9D3B",
@@ -180933,7 +180933,7 @@
   "offset": "81E0",
   "jp": "私の新たな目標は\n“良き王女”と、“良き母”の両立よ",
   "en": "But my new goal in life is to be both a good\nprincess and a good mother.",
-  "zh": ""
+  "zh": "我的新目标，\n可是兼顾“好王女”与“贤妻良母”哦"
  },
  {
   "id": "MSG/MSG8900/D9D3C",
@@ -180942,7 +180942,7 @@
   "offset": "8216",
   "jp": "いまの時代、仕事と家庭の両立くらいできないと\n幸せをつかむことはできないわ！",
   "en": "These days, only those who can juggle their\nprofessional and private lives succeed!",
-  "zh": ""
+  "zh": "在这个时代，如果连工作和家庭都无法兼顾，\n可是抓不住幸福的！"
  },
  {
   "id": "MSG/MSG8900/D9D3D",
@@ -180951,7 +180951,7 @@
   "offset": "8264",
   "jp": "だから来るべき日にそなえて、良き母となれるよう\n得意な料理の技術を伸ばそうってわけよ",
   "en": "Even though cooking is my forte, I could\nuse more practice... As for motherhood.",
-  "zh": ""
+  "zh": "所以为了迎接那一天的到来，成为一名好母亲，\n我才打算进一步提升我拿手的厨艺啊"
  },
  {
   "id": "MSG/MSG8900/D9D3E",
@@ -180960,7 +180960,7 @@
   "offset": "82BA",
   "jp": "と、とくい・・・？",
   "en": "Your... forte...?",
-  "zh": ""
+  "zh": "拿、拿手……？"
  },
  {
   "id": "MSG/MSG8900/D9D3F",
@@ -180969,7 +180969,7 @@
   "offset": "82CE",
   "jp": "そのために、ヨコハマの料理も極めてみせるわ",
   "en": "I'm going to perfect these Yokohama \nspecialties, just you wait and see!",
-  "zh": ""
+  "zh": "为此，我也一定要把横滨的料理彻底掌握好"
  },
  {
   "id": "MSG/MSG8900/D9D40",
@@ -180978,7 +180978,7 @@
   "offset": "82FA",
   "jp": "・・・あ、そう\nところで、どうしてヨコハマなんだ？",
   "en": "...But why Yokohama recipes?",
-  "zh": ""
+  "zh": "……啊，这样啊。\n说起来，为什么偏偏是横滨？"
  },
  {
   "id": "MSG/MSG8900/D9D41",
@@ -180987,7 +180987,7 @@
   "offset": "832E",
   "jp": "キョウトシティとか、ジャンクシティの\n料理もあるだろ？",
   "en": "Kyoto and even Junk City have their own\ngreat recipes too, you know?",
-  "zh": ""
+  "zh": "不也有京都城和废品城的\n料理吗？"
  },
  {
   "id": "MSG/MSG8900/D9D42",
@@ -180996,7 +180996,7 @@
   "offset": "8366",
   "jp": "そ、それは・・・",
   "en": "Well...",
-  "zh": ""
+  "zh": "那、那是……"
  },
  {
   "id": "MSG/MSG8900/D9D43",
@@ -181005,7 +181005,7 @@
   "offset": "8378",
   "jp": "だんな様が・・・ヨコハマの人かも\nしれないじゃない？",
   "en": "My future husband... might come from \nYokohama...?",
-  "zh": ""
+  "zh": "我未来的夫君……说不定会是\n横滨人嘛？"
  },
  {
   "id": "MSG/MSG8900/D9D44",
@@ -181014,7 +181014,7 @@
   "offset": "83AE",
   "jp": "あれ？\nカリン、ヨコハマに知り合いとかいたっけ？",
   "en": "Really? But who do you know from here?",
-  "zh": ""
+  "zh": "咦？\n卡琳，你在横滨有认识的人吗？"
  },
  {
   "id": "MSG/MSG8900/D9D45",
@@ -181023,7 +181023,7 @@
   "offset": "83E0",
   "jp": "はぁ・・・\nアナタって、ホンット、ニブいわね！",
   "en": "Haah... you really are slow, aren't you?!",
-  "zh": ""
+  "zh": "哈啊……\n你这个人，还真——是有够迟钝的！"
  },
  {
   "id": "MSG/MSG8900/D9D46",
@@ -181032,7 +181032,7 @@
   "offset": "8410",
   "jp": "あー、それよく言われる",
   "en": "I get that a lot.",
-  "zh": ""
+  "zh": "啊——别人也经常这么说我"
  },
  {
   "id": "MSG/MSG8900/D9D47",
@@ -181041,7 +181041,7 @@
   "offset": "8428",
   "jp": "・・・ところでカリン、このあとある\n復興祭のイベントなんだけどさｱ",
   "en": "...Anyway, Karin, one thing. About the\nupcoming rebuilding festival event...",
-  "zh": ""
+  "zh": "……话说卡琳，关于之后要举办的\n复兴祭活动啊"
  },
  {
   "id": "MSG/MSG8900/D9D48",
@@ -181050,7 +181050,7 @@
   "offset": "846C",
   "jp": "集合場所を言い忘れてたんだけど\n時間になったら噴水の前ってことでいいか？",
   "en": "I forgot to say, we're meeting\nin front of the fountain. OK?",
-  "zh": ""
+  "zh": "我之前忘了说集合地点，\n到时间了在喷泉前碰头可以吗？"
  },
  {
   "id": "MSG/MSG8900/D9D49",
@@ -181059,7 +181059,7 @@
   "offset": "84B6",
   "jp": "噴水の前ね？　オッケ、わかったわ",
   "en": "In front of the fountain? OK, got it.",
-  "zh": ""
+  "zh": "喷泉前是吧？OK，我知道了"
  },
  {
   "id": "MSG/MSG8900/D9D4A",
@@ -181068,7 +181068,7 @@
   "offset": "84D8",
   "jp": "さぁて、時間までもうちょっとヨコハマの味の\n研究をしなきゃ！%F",
   "en": "That leaves me enough time to taste a little\nmore of Yokohama, then!%F",
-  "zh": ""
+  "zh": "好啦，在时间到之前，我还得多研究研究\n横滨的风味才行！%F"
  },
  {
   "id": "MSG/MSG8900/D9D4B",
@@ -181077,7 +181077,7 @@
   "offset": "851A",
   "jp": "ヨコハマ風のものを作れるように\nならないとダメよ！%J892207",
   "en": "So I can make this pizza, and that omelet\ncurry burger...%J892207",
-  "zh": ""
+  "zh": "不学会做横滨风味的料理\n可不行呢！%J892207"
  },
  {
   "id": "MSG/MSG8900/D9D5A",
@@ -181086,7 +181086,7 @@
   "offset": "855E",
   "jp": "わー！%F",
   "en": "Whaaa!%F",
-  "zh": ""
+  "zh": "哇—！%F"
  },
  {
   "id": "MSG/MSG8900/D9D5B",
@@ -181095,7 +181095,7 @@
   "offset": "856A",
   "jp": "うひょー！%F",
   "en": "Wow!%F",
-  "zh": ""
+  "zh": "呜呼—！%F"
  },
  {
   "id": "MSG/MSG8900/D9D5C",
@@ -181104,7 +181104,7 @@
   "offset": "857A",
   "jp": "おお！%F",
   "en": "Ahhh!%F",
-  "zh": ""
+  "zh": "哦哦！%F"
  },
  {
   "id": "MSG/MSG8900/D9D5D",
@@ -181113,7 +181113,7 @@
   "offset": "8586",
   "jp": "うわー%F",
   "en": "Uwah!%F",
-  "zh": ""
+  "zh": "哇啊—%F"
  },
  {
   "id": "MSG/MSG8900/D9D5E",
@@ -181122,7 +181122,7 @@
   "offset": "8592",
   "jp": "うおー！%F",
   "en": "Wha!%F",
-  "zh": ""
+  "zh": "喔喔—！%F"
  },
  {
   "id": "MSG/MSG8900/D9D5F",
@@ -181131,7 +181131,7 @@
   "offset": "85A0",
   "jp": "（歓声）",
   "en": "(Cheering)",
-  "zh": ""
+  "zh": "（欢呼声）"
  },
  {
   "id": "MSG/MSG8900/D9D60",
@@ -181140,7 +181140,7 @@
   "offset": "85AA",
   "jp": "（歓声）",
   "en": "(Cheering)",
-  "zh": ""
+  "zh": "（欢呼声）"
  },
  {
   "id": "MSG/MSG8900/D9D61",
@@ -181149,7 +181149,7 @@
   "offset": "85B4",
   "jp": "（歓声）",
   "en": "(Cheering)",
-  "zh": ""
+  "zh": "（欢呼声）"
  },
  {
   "id": "MSG/MSG8900/D9D62",
@@ -181158,7 +181158,7 @@
   "offset": "85BE",
   "jp": "（歓声）",
   "en": "(Cheering)",
-  "zh": ""
+  "zh": "（欢呼声）"
  },
  {
   "id": "MSG/MSG8900/D9D8C",
@@ -181167,7 +181167,7 @@
   "offset": "85C8",
   "jp": "いやぁ、しかしここまでヨコハマシティの\n復興がスムーズにいったのもｱ",
   "en": "The rebuilding has gone so smoothly!",
-  "zh": ""
+  "zh": "哎呀，不过横滨市的重建\n之所以能进展得如此顺利，"
  },
  {
   "id": "MSG/MSG8900/D9D8D",
@@ -181176,7 +181176,7 @@
   "offset": "860E",
   "jp": "トウヤさんのおかげですな",
   "en": "It's all thanks to you, Toya.",
-  "zh": ""
+  "zh": "全都是多亏了托亚先生啊。"
  },
  {
   "id": "MSG/MSG8900/D9D8E",
@@ -181185,7 +181185,7 @@
   "offset": "8628",
   "jp": "いえ、そんなことはないですよ",
   "en": "Please, you give me too much credit.",
-  "zh": ""
+  "zh": "不，并没有那回事啦。"
  },
  {
   "id": "MSG/MSG8900/D9D8F",
@@ -181194,7 +181194,7 @@
   "offset": "8646",
   "jp": "いえいえ、本当に",
   "en": "No, it's the truth!",
-  "zh": ""
+  "zh": "不不，真的多亏了你。"
  },
  {
   "id": "MSG/MSG8900/D9D90",
@@ -181203,7 +181203,7 @@
   "offset": "8658",
   "jp": "チリヂリになっていたヨコハマ出身者を\n集めた手腕といいｱ",
   "en": "You gathered the scattered former residents\nof the City together...",
-  "zh": ""
+  "zh": "不仅展现出召集离散各地的\n横滨市民的非凡手腕，"
  },
  {
   "id": "MSG/MSG8900/D9D91",
@@ -181212,7 +181212,7 @@
   "offset": "8692",
   "jp": "シティの綿密な復興計画の立案といい",
   "en": "And were key in creating the rebuilding\nplans!",
-  "zh": ""
+  "zh": "还为市区制定了周密的重建计划。"
  },
  {
   "id": "MSG/MSG8900/D9D92",
@@ -181221,7 +181221,7 @@
   "offset": "86B6",
   "jp": "トウヤさんの類まれな能力があったからこそ\nいまの復興した、ヨコハマシティがあるのですわ",
   "en": "It's thanks to all your skills that we have\nour new Yokohama!",
-  "zh": ""
+  "zh": "正是因为托亚先生拥有这等出类拔萃的才能，\n才有了如今重获新生的横滨市啊。"
  },
  {
   "id": "MSG/MSG8900/D9D93",
@@ -181230,7 +181230,7 @@
   "offset": "870E",
   "jp": "ボクは、ボクのできることをしたまでです",
   "en": "I only did what anyone in my position\nwould do.",
-  "zh": ""
+  "zh": "我只是尽了自己所能而已。"
  },
  {
   "id": "MSG/MSG8900/D9D94",
@@ -181239,7 +181239,7 @@
   "offset": "8736",
   "jp": "なにをおっしゃるんですか、トウヤさん\nトウヤさんは特別です",
   "en": "Ah, Toya, there are few as special as you!",
-  "zh": ""
+  "zh": "您这是说的哪里话，托亚先生。\n托亚先生您可是非同寻常的。"
  },
  {
   "id": "MSG/MSG8900/D9D95",
@@ -181248,7 +181248,7 @@
   "offset": "8772",
   "jp": "ぜひ、ヨコハマシティの市長に！\n・・・という声も少なくないのですよ？",
   "en": "I'm sure many want you to become Mayor\nof this City!",
-  "zh": ""
+  "zh": "“请务必担任横滨市的市长！”\n……这样的呼声可也不在少数哦？"
  },
  {
   "id": "MSG/MSG8900/D9D96",
@@ -181257,7 +181257,7 @@
   "offset": "87B8",
   "jp": "そうですわ、トウヤさんはこれからの\nヨコハマシティをけん引していくお方です",
   "en": "Oh yes! You should be the one to lead us!",
-  "zh": ""
+  "zh": "就是说啊，托亚先生正是今后\n引领横滨市前行的人才啊。"
  },
  {
   "id": "MSG/MSG8900/D9D97",
@@ -181266,7 +181266,7 @@
   "offset": "8804",
   "jp": "いえ・・・",
   "en": "Oh, come now...",
-  "zh": ""
+  "zh": "不……"
  },
  {
   "id": "MSG/MSG8900/D9D98",
@@ -181275,7 +181275,7 @@
   "offset": "8810",
   "jp": "一人の力なんて、たかがしれてますよ",
   "en": "There is only so much a single person\ncan do.",
-  "zh": ""
+  "zh": "个人的力量，终究是有限的。"
  },
  {
   "id": "MSG/MSG8900/D9D99",
@@ -181284,7 +181284,7 @@
   "offset": "8834",
   "jp": "それを、ボクに教えてくれた人がいるんです",
   "en": "Someone very close to me taught me that\nlesson...",
-  "zh": ""
+  "zh": "把这个道理教会我的人，正是……"
  },
  {
   "id": "MSG/MSG8900/D9D9A",
@@ -181293,7 +181293,7 @@
   "offset": "885E",
   "jp": "一人でできることには、限界があるって",
   "en": "There are limits to how much we can \nachieve without the aid of others.",
-  "zh": ""
+  "zh": "一个人能做到的事，是有极限的。"
  },
  {
   "id": "MSG/MSG8900/D9D9B",
@@ -181302,7 +181302,7 @@
   "offset": "8884",
   "jp": "だから、ボクは人に頼り、頼られる人間に\nなろうって思ったんです",
   "en": "I intend to rely on others as much as they\nrely on me, in the future.",
-  "zh": ""
+  "zh": "所以，我希望自己能成为一个\n既能依赖他人、又能被他人信赖的人。"
  },
  {
   "id": "MSG/MSG8900/D9D9C",
@@ -181311,7 +181311,7 @@
   "offset": "88C4",
   "jp": "トウヤ",
   "en": "Toya.",
-  "zh": ""
+  "zh": "托亚。"
  },
  {
   "id": "MSG/MSG8900/D9D9D",
@@ -181320,7 +181320,7 @@
   "offset": "88CC",
   "jp": "よう、大人気だな？",
   "en": "Hey, you're looking happy today!",
-  "zh": ""
+  "zh": "哟，挺受欢迎的嘛？"
  },
  {
   "id": "MSG/MSG8900/D9D9E",
@@ -181329,7 +181329,7 @@
   "offset": "88E0",
   "jp": "あ、そうか\n復興祭のイベントを見る約束だったよね？",
   "en": "Oh Atsuma! About watching the event\ntogether...",
-  "zh": ""
+  "zh": "啊，对了。\n我们约好了要一起看复兴祭的活动对吧？"
  },
  {
   "id": "MSG/MSG8900/D9D9F",
@@ -181338,7 +181338,7 @@
   "offset": "8914",
   "jp": "ちょっと待ってて\nすぐ、行くよ",
   "en": "Just give me a minute. I'll be right there.",
-  "zh": ""
+  "zh": "稍微等我一下，\n我马上就来。"
  },
  {
   "id": "MSG/MSG8900/D9DA0",
@@ -181347,7 +181347,7 @@
   "offset": "8934",
   "jp": "いや、忙しそうだから、あとでいいや",
   "en": "No need to hurry. You look pretty busy.",
-  "zh": ""
+  "zh": "没事，看你挺忙的，晚点也行。"
  },
  {
   "id": "MSG/MSG8900/D9DA1",
@@ -181356,7 +181356,7 @@
   "offset": "8958",
   "jp": "時間になったら、噴水のところに集合な？",
   "en": "We're meeting at the fountain, OK?",
-  "zh": ""
+  "zh": "到了时间，就在喷泉那边集合吧？"
  },
  {
   "id": "MSG/MSG8900/D9DA2",
@@ -181365,7 +181365,7 @@
   "offset": "8980",
   "jp": "わかった\n噴水のところに集合だね？",
   "en": "OK. At the fountain.",
-  "zh": ""
+  "zh": "好的。\n在喷泉那里集合对吧？"
  },
  {
   "id": "MSG/MSG8900/D9DF0",
@@ -181374,7 +181374,7 @@
   "offset": "89A4",
   "jp": "さて・・・と",
   "en": "OK... so.",
-  "zh": ""
+  "zh": "那么……"
  },
  {
   "id": "MSG/MSG8900/D9DF1",
@@ -181383,7 +181383,7 @@
   "offset": "89B2",
   "jp": "一通り集合場所の連絡はしたんだけど\n・・・マコトが、見当たらないな",
   "en": "The only person I haven't told is Makoto...\nI don't see him, though...",
-  "zh": ""
+  "zh": "集合地点基本上都通知到了，\n……但马科托好像不见人影啊。"
  },
  {
   "id": "MSG/MSG8900/D9DF2",
@@ -181392,7 +181392,7 @@
   "offset": "89F6",
   "jp": "・・・ま、いいか、マコトだし？",
   "en": "...Well, it's only Makoto.",
-  "zh": ""
+  "zh": "……算了，反正也是马科托嘛？"
  },
  {
   "id": "MSG/MSG8900/D9DF3",
@@ -181401,7 +181401,7 @@
   "offset": "8A16",
   "jp": "どうせ、かぎ付けてやってくるだろ",
   "en": "He'll turn up, he always does.",
-  "zh": ""
+  "zh": "反正闻着味儿就会自己凑过来的吧。"
  },
  {
   "id": "MSG/MSG8900/D9DF4",
@@ -181410,7 +181410,7 @@
   "offset": "8A38",
   "jp": "もう、暗くなってきたしｱ",
   "en": "It's starting to get dark already.",
-  "zh": ""
+  "zh": "天色也渐渐暗下来了……"
  },
  {
   "id": "MSG/MSG8900/D9DF5",
@@ -181419,7 +181419,7 @@
   "offset": "8A52",
   "jp": "集合場所に行くか",
   "en": "Time to head for the meeting place!",
-  "zh": ""
+  "zh": "去集合地点吧"
  },
  {
   "id": "MSG/MSG8900/D9E54",
@@ -181428,7 +181428,7 @@
   "offset": "8A64",
   "jp": "お、みんなそろってるな",
   "en": "Everyone's here!",
-  "zh": ""
+  "zh": "哦，大家都到齐了啊"
  },
  {
   "id": "MSG/MSG8900/D9E55",
@@ -181437,7 +181437,7 @@
   "offset": "8A7C",
   "jp": "あれ、アツマ\nマコトはどうしたの？",
   "en": "Hey, Atsuma... where's Makoto...?",
-  "zh": ""
+  "zh": "咦，阿茨玛\n马科托怎么了？"
  },
  {
   "id": "MSG/MSG8900/D9E56",
@@ -181446,7 +181446,7 @@
   "offset": "8AA0",
   "jp": "ああ、アイツ・・・見つからなくってさ",
   "en": "Not sure... I didn't see him today.",
-  "zh": ""
+  "zh": "啊，那家伙……我没找到他"
  },
  {
   "id": "MSG/MSG8900/D9E57",
@@ -181455,7 +181455,7 @@
   "offset": "8AC6",
   "jp": "やっぱ、探して来ようか？",
   "en": "Should I go look for him?",
-  "zh": ""
+  "zh": "还是说，我去找找看？"
  },
  {
   "id": "MSG/MSG8900/D9E58",
@@ -181464,7 +181464,7 @@
   "offset": "8AE0",
   "jp": "うーん、まあいいんじゃない\nマコトだし",
   "en": "No, it's OK. It's Makoto!",
-  "zh": ""
+  "zh": "嗯——算了吧，没关系的\n毕竟是马科托嘛"
  },
  {
   "id": "MSG/MSG8900/D9E59",
@@ -181473,7 +181473,7 @@
   "offset": "8B08",
   "jp": "それもそうか",
   "en": "Yeah.",
-  "zh": ""
+  "zh": "倒也是啊"
  },
  {
   "id": "MSG/MSG8900/D9E5A",
@@ -181482,7 +181482,7 @@
   "offset": "8B16",
   "jp": "うん、じきにやってくるさ、きっと%J892508",
   "en": "He'll show up sooner or later.%J892508",
-  "zh": ""
+  "zh": "嗯，肯定马上就过来了%J892508"
  },
  {
   "id": "MSG/MSG8900/D9E5C",
@@ -181491,7 +181491,7 @@
   "offset": "8B48",
   "jp": "・・・しっかし、ヨコハマの復興も\nだいぶ進んだよな",
   "en": "...The rebuilding of Yokohama has really \ncome along.",
-  "zh": ""
+  "zh": "……不过话说回来，横滨的重建也\n推进得挺顺利的啊"
  },
  {
   "id": "MSG/MSG8900/D9E5D",
@@ -181500,7 +181500,7 @@
   "offset": "8B7C",
   "jp": "うん、おかげでこうやってお祭りの\nやり直しもできる",
   "en": "Sure has. We can finally have festivals\nagain.",
-  "zh": ""
+  "zh": "嗯，多亏了这样，庆典才能\n重新办起来"
  },
  {
   "id": "MSG/MSG8900/D9E5E",
@@ -181509,7 +181509,7 @@
   "offset": "8BB0",
   "jp": "・・・にしてもさ、トウヤ",
   "en": "...You know what?",
-  "zh": ""
+  "zh": "……话又说回来啊，托亚"
  },
  {
   "id": "MSG/MSG8900/D9E5F",
@@ -181518,7 +181518,7 @@
   "offset": "8BCA",
   "jp": "トウヤは、やっぱすげぇよな",
   "en": "You really are something, Toya.",
-  "zh": ""
+  "zh": "托亚，你果然还是太厉害了啊"
  },
  {
   "id": "MSG/MSG8900/D9E60",
@@ -181527,7 +181527,7 @@
   "offset": "8BE6",
   "jp": "この若さで、ヨコハマの市長候補だもんな",
   "en": "You might be Mayor! At your age!",
-  "zh": ""
+  "zh": "这么年轻就成了横滨的市长候选人啊"
  },
  {
   "id": "MSG/MSG8900/D9E61",
@@ -181536,7 +181536,7 @@
   "offset": "8C0E",
   "jp": "人材不足だからさ",
   "en": "Only because there are too few candidates.",
-  "zh": ""
+  "zh": "只是因为人才匮乏罢了"
  },
  {
   "id": "MSG/MSG8900/D9E62",
@@ -181545,7 +181545,7 @@
   "offset": "8C20",
   "jp": "そうか？\nやっぱ、トウヤはすげぇよ",
   "en": "Really? No, that's not it. It's you.",
-  "zh": ""
+  "zh": "是吗？\n托亚你果然还是厉害"
  },
  {
   "id": "MSG/MSG8900/D9E63",
@@ -181554,7 +181554,7 @@
   "offset": "8C44",
   "jp": "オレ、どんどん置いてかれてる気がする",
   "en": "You're starting to leave me behind again!",
-  "zh": ""
+  "zh": "我总觉得，自己快要被远远甩在后面了"
  },
  {
   "id": "MSG/MSG8900/D9E64",
@@ -181563,7 +181563,7 @@
   "offset": "8C6A",
   "jp": "置いてかないさ",
   "en": "I could never leave you behind.",
-  "zh": ""
+  "zh": "我才不会丢下你呢"
  },
  {
   "id": "MSG/MSG8900/D9E65",
@@ -181572,7 +181572,7 @@
   "offset": "8C7A",
   "jp": "どんなに二人の立場が変わったって\nアツマとボクは、対等だ",
   "en": "No matter what happens, we are equals.",
-  "zh": ""
+  "zh": "无论彼此的身份地位怎么改变\n阿茨玛和我，永远都是平等的"
  },
  {
   "id": "MSG/MSG8900/D9E66",
@@ -181581,7 +181581,7 @@
   "offset": "8CB4",
   "jp": "なんで、そんなこと言えるんだよ？",
   "en": "How can you say that?",
-  "zh": ""
+  "zh": "你怎么能说得这么轻巧啊？"
  },
  {
   "id": "MSG/MSG8900/D9E67",
@@ -181590,7 +181590,7 @@
   "offset": "8CD6",
   "jp": "だって・・・",
   "en": "Because...",
-  "zh": ""
+  "zh": "因为……"
  },
  {
   "id": "MSG/MSG8900/DA430",
@@ -181599,7 +181599,7 @@
   "offset": "8CE4",
   "jp": "こんな短期間にここまで復興するなんて\nさすがは我らがヨコハマシティだ！",
   "en": "Hooray for Yokohama! Look how far we've\ncome in such a short time!",
-  "zh": ""
+  "zh": "能在这么短的时间内重建到这种程度\n真不愧是咱们横滨市！"
  },
  {
   "id": "MSG/MSG8900/DA462",
@@ -181608,7 +181608,7 @@
   "offset": "8D2C",
   "jp": "在外だったヨコハマ出身者や新たな移民・・・\nみんなが一丸になれたのもｱ",
   "en": "All the surviving Yokohama citizens are back\nand there are lots of new immigrants too!",
-  "zh": ""
+  "zh": "散布在外的横滨出身者和新移民……\n大家能这样团结一心ｱ"
  },
  {
   "id": "MSG/MSG8900/DA463",
@@ -181617,7 +181617,7 @@
   "offset": "8D74",
   "jp": "みんな、新指導者トウヤさんの\n手腕のおかげだ",
   "en": "It's all thanks to the leadership of Toya!",
-  "zh": ""
+  "zh": "全都是多亏了新领导人托亚先生的\n出色手腕啊"
  },
  {
   "id": "MSG/MSG8900/DA494",
@@ -181626,7 +181626,7 @@
   "offset": "8DA2",
   "jp": "最初シティに戻ってきた時は\nどうなることかとおもったけどｱ",
   "en": "I did wonder what things would be like,\nwhen I first came back...",
-  "zh": ""
+  "zh": "刚回到市区时\n我还担心会变成什么样呢ｱ"
  },
  {
   "id": "MSG/MSG8900/DA495",
@@ -181635,7 +181635,7 @@
   "offset": "8DDE",
   "jp": "ここまで立派に復興をとげるとはな\nがんばったかいがあったよ",
   "en": "But it was all worth it! Look at this place\nnow!",
-  "zh": ""
+  "zh": "真没想到能重建得如此漂亮\n所有的努力都没白费啊"
  },
  {
   "id": "MSG/MSG8900/DA4C6",
@@ -181644,7 +181644,7 @@
   "offset": "8E1A",
   "jp": "いやぁ、めでたい！\n実にめでたい！",
   "en": "Let's celebrate! Finally, something worth\ncelebrating!",
-  "zh": ""
+  "zh": "哎呀，真是可喜可贺！\n太值得庆祝了！"
  },
  {
   "id": "MSG/MSG8900/DA4F8",
@@ -181653,7 +181653,7 @@
   "offset": "8E3E",
   "jp": "デビルゴーレム騒動以降、それまで\n冷め切っていたシティ同士の関係もｱ",
   "en": "After those horrific Devil Golem attacks,\nthe Cities seem to be getting along.",
-  "zh": ""
+  "zh": "自恶魔魔像骚动之后，原本\n冷淡至极的城市之间的关系ｱ"
  },
  {
   "id": "MSG/MSG8900/DA4F9",
@@ -181662,7 +181662,7 @@
   "offset": "8E84",
   "jp": "急速に友好的になりつつある\n",
   "en": "Not like the old days!",
-  "zh": ""
+  "zh": "也在迅速变得友好起来"
  },
  {
   "id": "MSG/MSG8900/DA4FA",
@@ -181671,7 +181671,7 @@
   "offset": "8EA2",
   "jp": "“雨降って地固まる”とは、まさに\nこのことだな",
   "en": "We come together in a crisis, I guess!",
-  "zh": ""
+  "zh": "“风雨过后见彩虹”，说的正好就是\n这种情况吧"
  },
  {
   "id": "MSG/MSG8900/DA52A",
@@ -181680,7 +181680,7 @@
   "offset": "8ED2",
   "jp": "家族を連れて移住するのは心配だったけど\n復興に参加して大成功だったよ",
   "en": "I was worried about bringing my family back\nhere to live, but it really worked out!",
-  "zh": ""
+  "zh": "当初带着家人移居过来还挺担心的\n但能参与重建真是太好了"
  },
  {
   "id": "MSG/MSG8900/DA52B",
@@ -181689,7 +181689,7 @@
   "offset": "8F18",
   "jp": "街も人も、活気にあふれている\n・・・さすが私の故郷だ",
   "en": "The town, the people, all so full of zest\nand zeal... It's home all right!",
-  "zh": ""
+  "zh": "无论街道还是人群，都充满了活力\n……不愧是我的故乡"
  },
  {
   "id": "MSG/MSG8900/DA55C",
@@ -181698,7 +181698,7 @@
   "offset": "8F4E",
   "jp": "みんなで引っ越してきて\n本当によかったわ",
   "en": "I'm so glad we moved here!",
-  "zh": ""
+  "zh": "大家一起搬到这里来\n真是太好了呢"
  },
  {
   "id": "MSG/MSG8900/DA55D",
@@ -181707,7 +181707,7 @@
   "offset": "8F78",
   "jp": "最近は物も不足することはなくなったし\n学園があるから、この子の教育も安心ね",
   "en": "The school is going to be great for our\nchildren, too!",
-  "zh": ""
+  "zh": "最近物资也不再短缺了，\n而且有学园在，这孩子的教育也让人放心呢"
  },
  {
   "id": "MSG/MSG8900/DA58E",
@@ -181716,7 +181716,7 @@
   "offset": "8FC4",
   "jp": "今日はね、学園もお休みなんだよ\nめいっぱい遊んでいいんだって！",
   "en": "There's no school today! I'm going to get\nsome serious playing done!",
-  "zh": ""
+  "zh": "今天学园也放假哦，\n说是可以尽情地玩呢！"
  },
  {
   "id": "MSG/MSG8900/DA5C0",
@@ -181725,7 +181725,7 @@
   "offset": "9004",
   "jp": "今日のイベント、楽しみだわ",
   "en": "I'm looking forward to the events today!",
-  "zh": ""
+  "zh": "真期待今天的庆典活动啊"
  },
  {
   "id": "MSG/MSG8900/DA5F2",
@@ -181734,7 +181734,7 @@
   "offset": "9020",
   "jp": "しばらくシティをはなれていたけど\nやっぱり故郷はいいものよね",
   "en": "I was away from the City for a while, but\nhome is where the heart always is, right?",
-  "zh": ""
+  "zh": "虽然离开城里有一段时间了，\n但果然还是故乡好啊"
  },
  {
   "id": "MSG/MSG8900/DA5F3",
@@ -181743,7 +181743,7 @@
   "offset": "905E",
   "jp": "自分たちで立て直したとなったら\nまた格別よ",
   "en": "It's even better now that we've rebuilt it\nwith our own hands!",
-  "zh": ""
+  "zh": "而且要是想到是靠我们自己重建起来的，\n感觉就人格外特别了"
  },
  {
   "id": "MSG/MSG8900/DA624",
@@ -181752,7 +181752,7 @@
   "offset": "908A",
   "jp": "今日は、復興に多大な援助をしてくれた\nロンドンシティの女王陛下もいらしているそうよ",
   "en": "The Princess of London is here, you know!\nShe helped us so much with the rebuilding.",
-  "zh": ""
+  "zh": "听说今天为复兴提供了巨大援助的\n伦敦市女王陛下也大驾光临了哦"
  },
  {
   "id": "MSG/MSG8900/DA625",
@@ -181761,7 +181761,7 @@
   "offset": "90DE",
   "jp": "とてもお美しいそうだけど\nどんな方なのかしらね",
   "en": "I've heard she's very beautiful! I wonder\nwhere she is?",
-  "zh": ""
+  "zh": "据说是一位绝世大美人呢，\n不知道是位怎样的人呢"
  },
  {
   "id": "MSG/MSG8900/DA656",
@@ -181770,7 +181770,7 @@
   "offset": "910E",
   "jp": "ここが一度は壊滅したシティだなんて\nまるでなにかの冗談みたいね",
   "en": "It's unbelievable, to think this place\nwas practically wiped out!",
-  "zh": ""
+  "zh": "真不敢相信这里曾一度毁灭过，\n简直就像在开玩笑一样呢"
  },
  {
   "id": "MSG/MSG8900/DA688",
@@ -181779,7 +181779,7 @@
   "offset": "914E",
   "jp": "復興のために、たくさん苦労もしてきたけど\nこんな盛大なお祭りを祝えるなんてｱ",
   "en": "I've worked so hard to rebuild this place.\nSeeing everyone enjoying this festival...",
-  "zh": ""
+  "zh": "虽然为了复兴吃了不少苦头，\n但能庆祝如此盛大的节日……"
  },
  {
   "id": "MSG/MSG8900/DA689",
@@ -181788,7 +181788,7 @@
   "offset": "919C",
   "jp": "一大決心してこの街に戻ってきて\n正解だったわ",
   "en": "Well, I know I made the right decision,\ncoming back and working so hard!",
-  "zh": ""
+  "zh": "下定重大决心回到这座城市，\n果然是做对了呢"
  },
  {
   "id": "MSG/MSG8900/DA6BA",
@@ -181797,7 +181797,7 @@
   "offset": "91CA",
   "jp": "ジュース♪ジュース♪\nおいしいジュースはいかがですかぁ～？",
   "en": "Juice!♪ Juice!♪ Get your freshly squeezed \njuice here!",
-  "zh": ""
+  "zh": "果汁♪果汁♪\n要来一杯美味的果汁吗～？"
  },
  {
   "id": "MSG/MSG8900/DA6EC",
@@ -181806,7 +181806,7 @@
   "offset": "9206",
   "jp": "さぁ、あなたもこの特製ジュースで、一緒に\nヨコハマシティの復興を祝いましょう♪",
   "en": "Grab some juice and join us in a toast!\nTo Yokohama!♪",
-  "zh": ""
+  "zh": "来吧，你也用这杯特制果汁，一起\n庆祝横滨市的复兴吧♪"
  },
  {
   "id": "MSG/MSG8900/DA71E",
@@ -181815,7 +181815,7 @@
   "offset": "9256",
   "jp": "このめでたい日に、アツアツのフェスタピザと\nさわやかフレッシュジュースはいかがです？",
   "en": "How about celebrating with some piping-hot\nFiesta Pizza and some fresh juice?",
-  "zh": ""
+  "zh": "在这喜庆的日子里，要不要来份热气腾腾的节日披萨\n和清爽的鲜榨果汁呢？"
  },
  {
   "id": "MSG/MSG8900/DA750",
@@ -181824,7 +181824,7 @@
   "offset": "92AC",
   "jp": "娘、ちとたずねるが・・・\n最近はこういう服飾が流行っているのか？",
   "en": "Girl, may I ask... are your clothes\nthe current fashion?",
-  "zh": ""
+  "zh": "小姑娘，老夫冒昧问一句……\n最近流行这种服饰吗？"
  },
  {
   "id": "MSG/MSG8900/DA751",
@@ -181833,7 +181833,7 @@
   "offset": "92EE",
   "jp": "え？　いや、これは制服ですよ\nおねぇさん、着てみたいんですか？",
   "en": "What? These? No, these are my work clothes!\nWould you like to try a set on?",
-  "zh": ""
+  "zh": "哎？不，这是工作制服啦。\n大姐姐，你也想穿穿看吗？"
  },
  {
   "id": "MSG/MSG8900/DA752",
@@ -181842,7 +181842,7 @@
   "offset": "932E",
   "jp": "でしたら、体験入店してみたらどうです？\nおねぇさんくらいの美人ならｱ",
   "en": "How about applying for a job with us,\nthen?",
-  "zh": ""
+  "zh": "要是想的话，要不要来店里体验工作试试？\n凭大姐姐这样的美貌……"
  },
  {
   "id": "MSG/MSG8900/DA753",
@@ -181851,7 +181851,7 @@
   "offset": "9374",
   "jp": "いつでもフレッシュジューサーズの\n一員になれますよ♪",
   "en": "A beautiful woman like you will sell buckets\nof juice!♪",
-  "zh": ""
+  "zh": "随时都能成为活力果汁女郎的\n一员哦♪"
  },
  {
   "id": "MSG/MSG8900/DA754",
@@ -181860,7 +181860,7 @@
   "offset": "93AA",
   "jp": "む・・・そうか？\n・・・悪くないな・・・",
   "en": "You... think so? I just might do that.",
-  "zh": ""
+  "zh": "唔……是吗？\n……倒也不坏呢……"
  },
  {
   "id": "MSG/MSG8900/DA7B4",
@@ -181869,7 +181869,7 @@
   "offset": "93D4",
   "jp": "おぉ、お主か\nあいかわらず、元気そうでなによりじゃ",
   "en": "Ah, young one. You look like you're having\na good time.",
-  "zh": ""
+  "zh": "哦，是你啊。\n老样子，精神饱满比什么都好啊。"
  },
  {
   "id": "MSG/MSG8900/DA7B5",
@@ -181878,7 +181878,7 @@
   "offset": "9408",
   "jp": "ジョセイさんも、元気？%M894910",
   "en": "And how are you, Josei?%M894910",
-  "zh": ""
+  "zh": "定成老伯，身体还好吗？%M894910"
  },
  {
   "id": "MSG/MSG8900/DA7B6",
@@ -181887,7 +181887,7 @@
   "offset": "9430",
   "jp": "どうしたのさ、こんなところで%M894920",
   "en": "What are you doing here?%M894920",
-  "zh": ""
+  "zh": "怎么待在这种地方啊？%M894920"
  },
  {
   "id": "MSG/MSG8900/DA7BE",
@@ -181896,7 +181896,7 @@
   "offset": "945E",
   "jp": "ジョセイさんも、元気？\nひっさしぶりだねぇ～",
   "en": "And how are you, Josei? It's been a while!",
-  "zh": ""
+  "zh": "定成老伯，身体还好吗？\n真是好久不见了呢～"
  },
  {
   "id": "MSG/MSG8900/DA7BF",
@@ -181905,7 +181905,7 @@
   "offset": "948C",
   "jp": "うむ、おかげさんでの\nしかし、ヨコハマシティというのはｱ",
   "en": "Fine, fine! This Yokohama, though...",
-  "zh": ""
+  "zh": "嗯，托你们的福。\n不过，这横滨市还真是……"
  },
  {
   "id": "MSG/MSG8900/DA7C0",
@@ -181914,7 +181914,7 @@
   "offset": "94C6",
   "jp": "ずいぶん、にぎやかな場所じゃの\n老骨には少々つかれるわぃ",
   "en": "It's a pretty lively place! A little too\nmuch for me, I think!",
-  "zh": ""
+  "zh": "相当热闹的地方啊，\n老头子这把骨头可有点吃不消咯。"
  },
  {
   "id": "MSG/MSG8900/DA7C8",
@@ -181923,7 +181923,7 @@
   "offset": "9500",
   "jp": "どうしたのさ、こんなところで\nみんな広場のほうだよ？",
   "en": "What are you doing here? Everyone is in\nthe Square.",
-  "zh": ""
+  "zh": "怎么待在这种地方啊？\n大家可都在广场那边哦？"
  },
  {
   "id": "MSG/MSG8900/DA7C9",
@@ -181932,7 +181932,7 @@
   "offset": "9536",
   "jp": "・・・なにやら、サヤカたちの新婚旅行の\nじゃまをしとるようでのぅ",
   "en": "...I don't want to intrude on Sayaka's \nhoneymoon.",
-  "zh": ""
+  "zh": "……总觉得老夫要是待在那儿，会打扰到\n小清他们的蜜月旅行啊。"
  },
  {
   "id": "MSG/MSG8900/DA7CA",
@@ -181941,7 +181941,7 @@
   "offset": "9578",
   "jp": "いたたまれんのじゃよ\n",
   "en": "I'm just keeping out of the way.",
-  "zh": ""
+  "zh": "实在待不下去啊。"
  },
  {
   "id": "MSG/MSG8900/DA7CB",
@@ -181950,7 +181950,7 @@
   "offset": "9590",
   "jp": "へぇ・・・\n",
   "en": "I see...",
-  "zh": ""
+  "zh": "嘿……"
  },
  {
   "id": "MSG/MSG8900/DA7E6",
@@ -181959,7 +181959,7 @@
   "offset": "959E",
   "jp": "私たちの部隊は、たまたま外地に長期訓練に\n出ていたために壊滅を免れました",
   "en": "My unit was training outside the City.\nSo we all survived.",
-  "zh": ""
+  "zh": "我们的部队碰巧去外地进行长期训练，\n因而幸免于难。"
  },
  {
   "id": "MSG/MSG8900/DA7E7",
@@ -181968,7 +181968,7 @@
   "offset": "95E8",
   "jp": "無念に散った仲間たちのためにも、これからの\nシティは我らがしっかり守らせていただきます",
   "en": "But we continue to protect the City, on\nbehalf of those we lost!",
-  "zh": ""
+  "zh": "为了那些含恨牺牲的同伴们，今后的\n都市就由我们来坚决守护！"
  },
  {
   "id": "MSG/MSG8900/DA818",
@@ -181977,7 +181977,7 @@
   "offset": "9640",
   "jp": "外地訓練に出ていた部隊を中核に、退役して\nシティをはなれていたものやｱ",
   "en": "We now have new and improved City Forces,\ncomprised mostly of fresh recruits...",
-  "zh": ""
+  "zh": "以在外训练的部队为核心，加上退役后\n离开都市的人……"
  },
  {
   "id": "MSG/MSG8900/DA819",
@@ -181986,7 +181986,7 @@
   "offset": "9688",
   "jp": "新規に募集した新兵で新生シティ軍は\n構成されました",
   "en": "But the core unit comprises those who \nsurvived due to training outside the City.",
-  "zh": ""
+  "zh": "以及新近招募的新兵，组成了\n新生都市军。"
  },
  {
   "id": "MSG/MSG8900/DA81A",
@@ -181995,7 +181995,7 @@
   "offset": "96BC",
   "jp": "あの災厄をくり返さないため\n粉骨砕身、努力します！",
   "en": "We're all determined to work hard to prevent \nsuch a tragedy from ever happening again!",
-  "zh": ""
+  "zh": "为了不再让那场灾难重演，\n我们定会粉身碎骨、拼尽全力！"
  },
  {
   "id": "MSG/MSG8900/DA84A",
@@ -182004,7 +182004,7 @@
   "offset": "96F0",
   "jp": "“われわれ一人一人の力は小さい\n　だからこそ、力を合わせシティを復興しよう”",
   "en": "\"Alone we are small! Insignificant! But \ntogether, we can rebuild it all!\"",
-  "zh": ""
+  "zh": "“我们每一个人的力量固然渺小，\n　正因如此，才更要齐心协力复兴都市！”"
  },
  {
   "id": "MSG/MSG8900/DA84B",
@@ -182013,7 +182013,7 @@
   "offset": "973E",
   "jp": "新生シティ軍編成の際のトウヤさんの言葉です\n力を合わせる・・・いい言葉ですね",
   "en": "Toya's words, you know, back when we started\nrebuilding... I remember them well!",
-  "zh": ""
+  "zh": "这是新生都市军组建时托亚大人说的话。\n齐心协力……说得真好啊。"
  },
  {
   "id": "MSG/MSG8900/DA87C",
@@ -182022,7 +182022,7 @@
   "offset": "978C",
   "jp": "昔シティにいた頃・・・\nシティ軍は、私のあこがれでしたｱ",
   "en": "In the old City, I wanted to join the City\nForces so badly...",
-  "zh": ""
+  "zh": "从前在都市的时候……\n都市军就是我所向往的目标啊……"
  },
  {
   "id": "MSG/MSG8900/DA87D",
@@ -182031,7 +182031,7 @@
   "offset": "97C6",
   "jp": "いまこうした形でシティ軍に入れて、故郷のために\n働ける・・・うれしいことです",
   "en": "Now that I have, and I can contribute\nto my City's well-being. I'm so happy!",
-  "zh": ""
+  "zh": "如今能以这样的形式加入都市军，为故乡\n尽一份力……真的很高兴。"
  },
  {
   "id": "MSG/MSG8900/DA8AE",
@@ -182040,7 +182040,7 @@
   "offset": "9814",
   "jp": "わ～ぃ♪",
   "en": "Yippee! ♪",
-  "zh": ""
+  "zh": "哇～咿♪"
  },
  {
   "id": "MSG/MSG8900/DA8E0",
@@ -182049,7 +182049,7 @@
   "offset": "981E",
   "jp": "ごーれむはんたーって\n・・・かっこいぃ・・・",
   "en": "A Golem Hunter...\nHow cool!",
-  "zh": ""
+  "zh": "魔像猎人啊……\n……好帅气哦……"
  },
  {
   "id": "MSG/MSG8900/DA912",
@@ -182058,7 +182058,7 @@
   "offset": "984C",
   "jp": "ごーれむはんたーかぁ\n・・・うっさんくっせぇ～",
   "en": "A Golem Hunter?! Hah, so what!",
-  "zh": ""
+  "zh": "魔像猎人么……\n……一股可疑的味道～"
  },
  {
   "id": "MSG/MSG8900/DA944",
@@ -182067,7 +182067,7 @@
   "offset": "987C",
   "jp": "♪ぴっぴ、ぴぴぴぴ、ぴざごーれむ♪\n",
   "en": "♪ Pi pi Pipipipi Pizza Golem! ♪",
-  "zh": ""
+  "zh": "♪哔哔，哔哔哔哔，披萨魔像♪"
  },
  {
   "id": "MSG/MSG8900/DA945",
@@ -182076,7 +182076,7 @@
   "offset": "98A2",
   "jp": "♪あつあつほっとにホットスル♪\n♪オイシイぴざをトドケマス♪",
   "en": "♪ Hot hot h h h h h hot! ♪\n♪ Tasty and hot pizza! ♪",
-  "zh": ""
+  "zh": "♪热腾腾暖呼呼令人暖洋洋♪\n♪为您送上美味的披萨♪"
  },
  {
   "id": "MSG/MSG8900/DA946",
@@ -182085,7 +182085,7 @@
   "offset": "98E0",
   "jp": "ほっとデあつあつ、フェスタぴざ！\nオイシイぴざハイカガデスカ？",
   "en": "Hot hot hot Fiesta Pizza!\nWould you like a hot hot slice?",
-  "zh": ""
+  "zh": "暖暖热腾腾，嘉年华披萨！\n要来一份美味的披萨吗？"
  },
  {
   "id": "MSG/MSG8900/DA976",
@@ -182094,7 +182094,7 @@
   "offset": "9920",
   "jp": "♪ぴっぴ、ぴぴぴぴ、ぴざごーれむ♪\n",
   "en": "♪ Pi pi Pipipipi Pizza Golem! ♪",
-  "zh": ""
+  "zh": "♪哔哔，哔哔哔哔，披萨魔像♪"
  },
  {
   "id": "MSG/MSG8900/DA977",
@@ -182103,7 +182103,7 @@
   "offset": "9946",
   "jp": "♪デカデカびっぐニびっくりコ♪\n♪オオキナぴざヲトドケマス♪",
   "en": "♪ Huge huge h h h h huge! ♪\n♪ Huge and hot pizza! ♪",
-  "zh": ""
+  "zh": "♪超大特大令人大吃一惊♪\n♪为您送上大大的披萨♪"
  },
  {
   "id": "MSG/MSG8900/DA978",
@@ -182112,7 +182112,7 @@
   "offset": "9984",
   "jp": "でかでかびっぐ、フェスタぴざ！\nオイシイぴざハイカガデスカ？",
   "en": "Huge and heavenly Fiesta Pizza!\nWould you like a huge heavenly slice?",
-  "zh": ""
+  "zh": "大大超大，嘉年华披萨！\n要来一份美味的披萨吗？"
  },
  {
   "id": "MSG/MSG8900/DA9A8",
@@ -182121,7 +182121,7 @@
   "offset": "99C2",
   "jp": "♪ぴっぴ、ぴぴぴぴ、ぴざごーれむ♪\n",
   "en": "♪ Pi pi Pipipipi Pizza Golem! ♪",
-  "zh": ""
+  "zh": "♪哔哔，哔哔哔哔，披萨魔像♪"
  },
  {
   "id": "MSG/MSG8900/DA9A9",
@@ -182130,7 +182130,7 @@
   "offset": "99E8",
   "jp": "♪ぴりからとまとガトマラナイ♪\n♪すぱいしーぴざヲトドケマス♪",
   "en": "♪ Hot hot h h h h h hot peppers! ♪\n♪ Hot and spicy hot pizza! ♪",
-  "zh": ""
+  "zh": "♪微辣番茄美味停不下来♪\n♪为您送上香辣披萨♪"
  },
  {
   "id": "MSG/MSG8900/DA9AA",
@@ -182139,7 +182139,7 @@
   "offset": "9A28",
   "jp": "ぴりからすぱいしー、フェスタぴざ！\nオイシイぴざハイカガデスカ？",
   "en": "Spicy and scrumptious Fiesta Pizza!\nWould you like a spicy slice?",
-  "zh": ""
+  "zh": "微辣辛香，嘉年华披萨！\n要来一份美味的披萨吗？"
  },
  {
   "id": "MSG/MSG8900/DA9DA",
@@ -182148,7 +182148,7 @@
   "offset": "9A6A",
   "jp": "♪ぴっぴ、ぴぴぴぴ、ぴざごーれむ♪\n",
   "en": "♪ Pi pi Pipipipi Pizza Golem! ♪",
-  "zh": ""
+  "zh": "♪哔哔，哔哔哔哔，披萨魔像♪"
  },
  {
   "id": "MSG/MSG8900/DA9DB",
@@ -182157,7 +182157,7 @@
   "offset": "9A90",
   "jp": "♪ミンナダイスキダイコウヒョウ♪\n♪オイシイぴざヲトドケマス♪",
   "en": "♪ Popular p p p p p popular! ♪\n♪ Hot and popular pizza! ♪",
-  "zh": ""
+  "zh": "♪人见人爱广受好评♪\n♪为您送上美味披萨♪"
  },
  {
   "id": "MSG/MSG8900/DA9DC",
@@ -182166,7 +182166,7 @@
   "offset": "9AD0",
   "jp": "ミンナダイスキ、フェスタぴざ！\nオイシイぴざハイカガデスカ？",
   "en": "Hot and hip Fiesta Pizza!\nWould you like a hot hip slice?",
-  "zh": ""
+  "zh": "人见人爱，嘉年华披萨！\n要来一份美味的披萨吗？"
  },
  {
   "id": "MSG/MSG8900/DA9E4",
@@ -182175,7 +182175,7 @@
   "offset": "9B0E",
   "jp": "♪ぴっぴ、ぴぴぴぴ、ぴざごーれむ♪\n",
   "en": "♪ Pi pi Pipipipi Pizza Golem! ♪",
-  "zh": ""
+  "zh": "♪哔哔，哔哔哔哔，披萨魔像♪"
  },
  {
   "id": "MSG/MSG8900/DA9E5",
@@ -182184,7 +182184,7 @@
   "offset": "9B34",
   "jp": "♪さらみニしゅりんぷそーせーじ♪\n♪ばらえてぃーぴざヲトドケマス♪",
   "en": "♪ Salami s s s s s sausage! ♪\n♪ A variety of pizza! ♪",
-  "zh": ""
+  "zh": "♪萨拉米香肠加鲜虾香肠♪\n♪为您送上什锦披萨♪"
  },
  {
   "id": "MSG/MSG8900/DA9E6",
@@ -182193,7 +182193,7 @@
   "offset": "9B78",
   "jp": "ミンナダイスキ、フェスタぴざ！\nオイシイぴざハイカガデスカ？",
   "en": "Our sensational salami Fiesta Pizza!\nWould you like a sensational slice?",
-  "zh": ""
+  "zh": "人见人爱，嘉年华披萨！\n要来一份美味的披萨吗？"
  },
  {
   "id": "MSG/MSG8900/DAA0C",
@@ -182202,7 +182202,7 @@
   "offset": "9BB6",
   "jp": "“本日休業”",
   "en": "\"Closed Today\"",
-  "zh": ""
+  "zh": "“今日歇业”"
  },
  {
   "id": "MSG/MSG8900/DAA3E",
@@ -182211,7 +182211,7 @@
   "offset": "9BC4",
   "jp": "いまは、ヨッピーレールに乗ってる\n場合じゃないよな・・・",
   "en": "No need to ride the Yuppie Rail right now.",
-  "zh": ""
+  "zh": "现在可不是悠闲乘坐\n约比轨道车的时候啊……"
  },
  {
   "id": "MSG/MSG8900/DAA70",
@@ -182220,7 +182220,7 @@
   "offset": "9BFE",
   "jp": "流石に、みんなは外にはいないだろ・・・\n",
   "en": "As expected, no one's outside...",
-  "zh": ""
+  "zh": "想也知道，大家现在肯定不在外面吧……"
  },
  {
   "id": "MSG/MSG8900/DAAA2",
@@ -182229,7 +182229,7 @@
   "offset": "9C28",
   "jp": "“テナント募集中！”",
   "en": "\"New Tenants Welcome!\"",
-  "zh": ""
+  "zh": "“招租中！”"
  },
  {
   "id": "MSG/MSG8900/DAAD4",
@@ -182238,7 +182238,7 @@
   "offset": "9C3E",
   "jp": "“ヨコハマシティ復興展　近日公開！！”",
   "en": "\"The Yokohama Revival Opening Soon!\"",
-  "zh": ""
+  "zh": "“横滨市复兴展　近日开放！！”"
  },
  {
   "id": "MSG/MSG8900/DAB06",
@@ -182247,7 +182247,7 @@
   "offset": "9C66",
   "jp": "・・・う～ん\nみんないないなぁ・・・",
   "en": "...They're not here...",
-  "zh": ""
+  "zh": "……唔～\n大家都不在啊……"
  },
  {
   "id": "MSG/MSG8900/DAB38",
@@ -182256,7 +182256,7 @@
   "offset": "9C8C",
   "jp": "“貴賓宿泊につき立ち入り禁止”",
   "en": "\"VIP Only\"",
-  "zh": ""
+  "zh": "“贵宾下榻，闲人免进”"
  },
  {
   "id": "MSG/MSG8900/DAB6A",
@@ -182265,7 +182265,7 @@
   "offset": "9CAC",
   "jp": "“本日休校”",
   "en": "\"No School Today\"",
-  "zh": ""
+  "zh": "“今日停课”"
  },
  {
   "id": "MSG/MSG8900/DB5C4",
@@ -182274,7 +182274,7 @@
   "offset": "9CBA",
   "jp": "バンザーイ！　バンザーイ！",
   "en": "Yahoo, all right!",
-  "zh": ""
+  "zh": "万岁！　万岁！"
  },
  {
   "id": "MSG/MSG8900/DB5C5",
@@ -182283,7 +182283,7 @@
   "offset": "9CD6",
   "jp": "は・・・恥ずかしいからよせ、アツマ",
   "en": "Please... you're embarrassing me, Atsuma.",
-  "zh": ""
+  "zh": "太……太难为情了，快住手，阿茨玛"
  },
  {
   "id": "MSG/MSG8900/DB5C6",
@@ -182292,7 +182292,7 @@
   "offset": "9CFA",
   "jp": "バンザーイ！　バンザーイ！\nバンザーイ！　バンザーイッ！",
   "en": "Yahoo, all right!",
-  "zh": ""
+  "zh": "万岁！　万岁！\n万岁！　万岁——！"
  },
  {
   "id": "MSG/MSG8900/DB5C7",
@@ -182301,7 +182301,7 @@
   "offset": "9D34",
   "jp": "よせと言っている！%F",
   "en": "I'm telling you to stop it.%F",
-  "zh": ""
+  "zh": "都说了让你住手！%F"
  },
  {
   "id": "MSG/MSG8900/DB5D8",
@@ -182310,7 +182310,7 @@
   "offset": "9D4C",
   "jp": "はいはい、時間になったら噴水の前に\n行けばいいんでしょ？",
   "en": "Yeah yeah, I'll be there on time!",
-  "zh": ""
+  "zh": "好啦好啦，到时间去喷泉前\n集合就行了吧？"
  },
  {
   "id": "MSG/MSG8900/DB5D9",
@@ -182319,7 +182319,7 @@
   "offset": "9D86",
   "jp": "わかったからほら、どいたどいた\nしょうば・・・じゃなくて、授業のじゃまだよ",
   "en": "Now get out! I've got to make more mon...\nI mean, educate children!",
-  "zh": ""
+  "zh": "知道了就快让开让开，\n别妨碍我做生……咳，上课啦"
  },
  {
   "id": "MSG/MSG8900/DB5DA",
@@ -182328,7 +182328,7 @@
   "offset": "9DD2",
   "jp": "へいへい%F",
   "en": "Okay, okay.%F",
-  "zh": ""
+  "zh": "好嘞好嘞%F"
  },
  {
   "id": "MSG/MSG8900/DB5EC",
@@ -182337,7 +182337,7 @@
   "offset": "9DE0",
   "jp": "さぁて、時間までもうちょっとヨコハマの味の\n研究をしなきゃ！%F",
   "en": "That leaves me enough time to taste a little\nmore of Yokohama, then!%F",
-  "zh": ""
+  "zh": "好啦，趁着还有时间，我得再去好好\n研究一下横滨的美食！%F"
  },
  {
   "id": "MSG/MSG8900/DB600",
@@ -182346,7 +182346,7 @@
   "offset": "9E22",
   "jp": "ちょっと待ってて\nすぐ、行くよ",
   "en": "Just give me a minute. I'll be right\nthere.",
-  "zh": ""
+  "zh": "稍微等我一下，\n马上就去。"
  },
  {
   "id": "MSG/MSG8900/DB601",
@@ -182355,7 +182355,7 @@
   "offset": "9E42",
   "jp": "いや、忙しそうだから、あとでいいや",
   "en": "No need to hurry. You look pretty busy.",
-  "zh": ""
+  "zh": "不用，看你挺忙的，之后再说吧"
  },
  {
   "id": "MSG/MSG9000/DDEC8",
