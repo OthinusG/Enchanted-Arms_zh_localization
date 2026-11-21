@@ -57174,7 +57174,7 @@
   "offset": "4D68",
   "jp": "学園の、中も・・・\nやっぱり・・・凍ってる・・・",
   "en": "The school too... it's all frozen...",
-  "zh": ""
+  "zh": "学园里面也……\n果然……结冰了……"
  },
  {
   "id": "MSG/MSG2700/42681",
@@ -57183,7 +57183,7 @@
   "offset": "4D9A",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG2700/42682",
@@ -57192,7 +57192,7 @@
   "offset": "4DAE",
   "jp": "とにかく、奥へ進もう",
   "en": "Let's go inside.",
-  "zh": ""
+  "zh": "总之，往深处走吧"
  },
  {
   "id": "MSG/MSG2700/42683",
@@ -57201,7 +57201,7 @@
   "offset": "4DC4",
   "jp": "トウヤに会うまで、オレは絶対・・・\nあきらめない%J272022",
   "en": "I'm not giving up... not until I find Toya!%J272022",
-  "zh": ""
+  "zh": "在见到托亚之前，我绝对……\n不会放弃%J272022"
  },
  {
   "id": "MSG/MSG2700/42686",
@@ -57210,7 +57210,7 @@
   "offset": "4E06",
   "jp": "トウヤは・・・",
   "en": "Toya...",
-  "zh": ""
+  "zh": "托亚他……"
  },
  {
   "id": "MSG/MSG2700/42687",
@@ -57219,7 +57219,7 @@
   "offset": "4E16",
   "jp": "オレの目標なんだ",
   "en": "Measuring up to Toya, that's always been my\ngoal.",
-  "zh": ""
+  "zh": "是我的目标"
  },
  {
   "id": "MSG/MSG2700/42688",
@@ -57228,7 +57228,7 @@
   "offset": "4E28",
   "jp": "アイツは、学園一・・・\nいや、ヨコハマシティ一優秀なやつでｱ",
   "en": "He's the smartest guy in school... in\nall of Yokohama!",
-  "zh": ""
+  "zh": "那家伙，是学园第一……\n不，是横滨市最优秀的家伙啊"
  },
  {
   "id": "MSG/MSG2700/42689",
@@ -57237,7 +57237,7 @@
   "offset": "4E66",
   "jp": "だれの助けも借りずに\n何でもできるようなやつだった",
   "en": "He can do anything, single-handed, he \ndoesn't need anyone's help!",
-  "zh": ""
+  "zh": "不需要任何人的帮助，\n什么事情都能做到的那种人"
  },
  {
   "id": "MSG/MSG2700/4268A",
@@ -57246,7 +57246,7 @@
   "offset": "4E9A",
   "jp": "だからオレは・・・",
   "en": "I always thought...",
-  "zh": ""
+  "zh": "所以我……"
  },
  {
   "id": "MSG/MSG2700/4268B",
@@ -57255,7 +57255,7 @@
   "offset": "4EAE",
   "jp": "“トウヤは最強なんだ”って、信じてた",
   "en": "That Toya was number one.",
-  "zh": ""
+  "zh": "一直坚信“托亚是最强的”"
  },
  {
   "id": "MSG/MSG2700/4268C",
@@ -57264,7 +57264,7 @@
   "offset": "4ED4",
   "jp": "“トウヤは一人で何でもできる\n　すごいやつだ”って",
   "en": "He was my hero, I always thought he was\nthe strongest, the most talented of us all.",
-  "zh": ""
+  "zh": "深信“托亚是一个人就能做好一切的\n　厉害家伙”"
  },
  {
   "id": "MSG/MSG2700/4268D",
@@ -57273,7 +57273,7 @@
   "offset": "4F08",
   "jp": "“いつかはトウヤに追いつくんだ”って・・・",
   "en": "One day...",
-  "zh": ""
+  "zh": "一直期盼着“总有一天要赶上托亚”……"
  },
  {
   "id": "MSG/MSG2700/4268E",
@@ -57282,7 +57282,7 @@
   "offset": "4F34",
   "jp": "そう、願ってた",
   "en": "I hope to be like him. To be everything he is.",
-  "zh": ""
+  "zh": "是的，一直这样期盼着"
  },
  {
   "id": "MSG/MSG2700/4268F",
@@ -57291,7 +57291,7 @@
   "offset": "4F44",
   "jp": "そんなトウヤがｱ",
   "en": "But he went and risked his life...",
-  "zh": ""
+  "zh": "可那样的托亚啊"
  },
  {
   "id": "MSG/MSG2700/42690",
@@ -57300,7 +57300,7 @@
   "offset": "4F56",
   "jp": "自分の命をはって、オレを助けてくれた",
   "en": "Risked his life to save me!",
-  "zh": ""
+  "zh": "却赌上了自己的性命救了我"
  },
  {
   "id": "MSG/MSG2700/42691",
@@ -57309,7 +57309,7 @@
   "offset": "4F7C",
   "jp": "だから今度はｱ",
   "en": "So now...",
-  "zh": ""
+  "zh": "所以这次啊"
  },
  {
   "id": "MSG/MSG2700/42692",
@@ -57318,7 +57318,7 @@
   "offset": "4F8C",
   "jp": "オレが“一人”で、トウヤを助けなきゃ\nいけないんだ",
   "en": "I've got to save Toya. And I've got to do it\nalone.",
-  "zh": ""
+  "zh": "我必须“靠自己一个人”\n去把托亚救出来才行"
  },
  {
   "id": "MSG/MSG2700/42693",
@@ -57327,7 +57327,7 @@
   "offset": "4FC0",
   "jp": "そしたら、少しはトウヤに追いつけるんじゃ\nないかって、そう思うんだ",
   "en": "Then maybe I'll be a little closer to\nmatching him...",
-  "zh": ""
+  "zh": "我想只要那样做，\n或许就能稍微追赶上托亚一点了吧"
  },
  {
   "id": "MSG/MSG2700/42694",
@@ -57336,7 +57336,7 @@
   "offset": "5004",
   "jp": "・・・そう",
   "en": "...I see.",
-  "zh": ""
+  "zh": "……这样啊"
  },
  {
   "id": "MSG/MSG2700/42695",
@@ -57345,7 +57345,7 @@
   "offset": "5010",
   "jp": "ああ、だからグズグズしてられない\n・・・行くぞ%F",
   "en": "So there's no time to waste. Let's go!%F",
-  "zh": ""
+  "zh": "嗯，所以可不能在这里磨磨蹭蹭的\n……走吧%F"
  },
  {
   "id": "MSG/MSG2700/42696",
@@ -57354,7 +57354,7 @@
   "offset": "5044",
   "jp": "・・・そう%J272006",
   "en": "...I see.%J272006",
-  "zh": ""
+  "zh": "……这样啊%J272006"
  },
  {
   "id": "MSG/MSG2700/426E4",
@@ -57363,7 +57363,7 @@
   "offset": "5060",
   "jp": "ここの花だんさ・・・",
   "en": "This flower bed...",
-  "zh": ""
+  "zh": "这里的花坛啊……"
  },
  {
   "id": "MSG/MSG2700/426E5",
@@ -57372,7 +57372,7 @@
   "offset": "5076",
   "jp": "オレと、トウヤと、マコトで\n先生とかに内緒で、勝手に花を植えて・・・",
   "en": "Me, Toya and Makoto planted some flowers\nhere, without telling anyone...",
-  "zh": ""
+  "zh": "是我、托亚和马科托\n瞒着老师他们，擅自种下花朵的……"
  },
  {
   "id": "MSG/MSG2700/426E6",
@@ -57381,7 +57381,7 @@
   "offset": "50BC",
   "jp": "立派に花が・・・咲いたんだ・・・",
   "en": "They were... so beautiful...",
-  "zh": ""
+  "zh": "花儿……盛开得非常漂亮啊……"
  },
  {
   "id": "MSG/MSG2700/426E7",
@@ -57390,7 +57390,7 @@
   "offset": "50DE",
   "jp": "・・・そう",
   "en": "...Really.",
-  "zh": ""
+  "zh": "……这样啊"
  },
  {
   "id": "MSG/MSG2700/426E8",
@@ -57399,7 +57399,7 @@
   "offset": "50EA",
   "jp": "ああ、ほんとに、立派に咲いてたんだぜ",
   "en": "Yeah, they looked... amazing.",
-  "zh": ""
+  "zh": "嗯，当时真的开得特别灿烂啊"
  },
  {
   "id": "MSG/MSG2700/426E9",
@@ -57408,7 +57408,7 @@
   "offset": "5110",
   "jp": "うん",
   "en": "I'm sure they did.",
-  "zh": ""
+  "zh": "嗯"
  },
  {
   "id": "MSG/MSG2700/426EA",
@@ -57417,7 +57417,7 @@
   "offset": "5116",
   "jp": "・・・・・・ん？",
   "en": "...Hey.",
-  "zh": ""
+  "zh": "……嗯？"
  },
  {
   "id": "MSG/MSG2700/426EB",
@@ -57426,7 +57426,7 @@
   "offset": "5128",
   "jp": "どうしたの？",
   "en": "What now?",
-  "zh": ""
+  "zh": "怎么了？"
  },
  {
   "id": "MSG/MSG2700/426EC",
@@ -57435,7 +57435,7 @@
   "offset": "5136",
   "jp": "ここに・・・なにか落ちてる%F",
   "en": "There's something here...%F",
-  "zh": ""
+  "zh": "这里……掉了个什么东西%F"
  },
  {
   "id": "MSG/MSG2700/426ED",
@@ -57444,7 +57444,7 @@
   "offset": "5156",
   "jp": "トウヤかな・・・マコトかな・・・",
   "en": "Toya or Makoto...",
-  "zh": ""
+  "zh": "是托亚呢……还是马科托呢……"
  },
  {
   "id": "MSG/MSG2700/426EE",
@@ -57453,7 +57453,7 @@
   "offset": "5178",
   "jp": "アイツらのどっちかが埋めといたんだろうなぁ",
   "en": "One of them must have buried this...",
-  "zh": ""
+  "zh": "肯定是他们俩之中的哪一个埋在这里的吧"
  },
  {
   "id": "MSG/MSG2700/42748",
@@ -57462,7 +57462,7 @@
   "offset": "51A4",
   "jp": "それにしても、ここ・・・",
   "en": "I wonder, though... this place...",
-  "zh": ""
+  "zh": "话说回来，这里……"
  },
  {
   "id": "MSG/MSG2700/42749",
@@ -57471,7 +57471,7 @@
   "offset": "51BE",
   "jp": "どうして、凍ってないのかしらね？",
   "en": "Why isn't it frozen in here too?",
-  "zh": ""
+  "zh": "为什么没有被冻结呢？"
  },
  {
   "id": "MSG/MSG2700/4274A",
@@ -57480,7 +57480,7 @@
   "offset": "51E0",
   "jp": "さあな？\nオレ、図書館のことはあんまり詳しくないんだ",
   "en": "I don't know. I never spent that much time\nin the library.",
-  "zh": ""
+  "zh": "谁知道呢？\n我对图书馆的事可不太清楚"
  },
  {
   "id": "MSG/MSG2700/4274B",
@@ -57489,7 +57489,7 @@
   "offset": "5216",
   "jp": "本とか、好きじゃないからさ",
   "en": "I... I don't like books much.",
-  "zh": ""
+  "zh": "毕竟我本来就不怎么喜欢书啊"
  },
  {
   "id": "MSG/MSG2700/4274C",
@@ -57498,7 +57498,7 @@
   "offset": "5232",
   "jp": "コウ先生なら、詳しいんだろうけどなぁ・・・",
   "en": "But I bet Professor Kou would know.",
-  "zh": ""
+  "zh": "要是高老师的话，应该会很清楚吧……"
  },
  {
   "id": "MSG/MSG2700/4274D",
@@ -57507,7 +57507,7 @@
   "offset": "525E",
   "jp": "コウ先生って？",
   "en": "Professor Kou?",
-  "zh": ""
+  "zh": "高老师是？"
  },
  {
   "id": "MSG/MSG2700/4274E",
@@ -57516,7 +57516,7 @@
   "offset": "526E",
   "jp": "ん？　ああ、オレやトウヤの担当教官",
   "en": "He was our tutor, Toya's and mine.",
-  "zh": ""
+  "zh": "嗯？啊，是我和托亚的指导教官"
  },
  {
   "id": "MSG/MSG2700/4274F",
@@ -57525,7 +57525,7 @@
   "offset": "5292",
   "jp": "図書館とか、研究施設の管理を任されてたんだ",
   "en": "But he was also head of the library and\nresearch facilities.",
-  "zh": ""
+  "zh": "以前负责管理图书馆和研究设施来着"
  },
  {
   "id": "MSG/MSG2700/42750",
@@ -57534,7 +57534,7 @@
   "offset": "52BE",
   "jp": "コウ・・・どこかで聞いた名前な気が・・・",
   "en": "Kou... I've heard that name somewhere\nbefore...",
-  "zh": ""
+  "zh": "高……总觉得在哪里听过这个名字……"
  },
  {
   "id": "MSG/MSG2700/42751",
@@ -57543,7 +57543,7 @@
   "offset": "52E8",
   "jp": "なんでさ？　ロンドンシティの人が\nコウ先生のこと、知るわけないだろ？",
   "en": "It can't be the same man. How would anyone\nin London City know Professor Kou?",
-  "zh": ""
+  "zh": "怎么会？伦敦市的人\n怎么可能会认识高老师啊？"
  },
  {
   "id": "MSG/MSG2700/42752",
@@ -57552,7 +57552,7 @@
   "offset": "532E",
   "jp": "・・・そんなことより",
   "en": "...Anyway, forget that.",
-  "zh": ""
+  "zh": "……不说这个了"
  },
  {
   "id": "MSG/MSG2700/42753",
@@ -57561,7 +57561,7 @@
   "offset": "5344",
   "jp": "さっさと、コータを追おうぜ",
   "en": "Let's go after Cota, okay?",
-  "zh": ""
+  "zh": "赶快去追柯达吧"
  },
  {
   "id": "MSG/MSG2700/42754",
@@ -57570,7 +57570,7 @@
   "offset": "5360",
   "jp": "・・・そうね",
   "en": "...Okay.",
-  "zh": ""
+  "zh": "……说得也是呢"
  },
  {
   "id": "MSG/MSG2700/427AC",
@@ -57579,7 +57579,7 @@
   "offset": "536E",
   "jp": "ねえ、この#CFF697DBE本棚#cって可動式なのかしら？",
   "en": "",
-  "zh": ""
+  "zh": "呐，这个#CFF697DBE书架#c难道是能移动的吗？"
  },
  {
   "id": "MSG/MSG2700/427AD",
@@ -57588,7 +57588,7 @@
   "offset": "53AC",
   "jp": "そうだな・・・たしか、ゴゴゴって\n動いてるの見たことがあるぜ",
   "en": "",
-  "zh": ""
+  "zh": "是啊……我记得以前确实看到过\n它轰隆隆地移动来着"
  },
  {
   "id": "MSG/MSG2700/427AE",
@@ -57597,7 +57597,7 @@
   "offset": "53EA",
   "jp": "フム・・・本棚に#CFF697DBEスイッチ#cが付いている\nようですな",
   "en": "",
-  "zh": ""
+  "zh": "唔……看来书架上附带有#CFF697DBE开关#c呢"
  },
  {
   "id": "MSG/MSG2700/43620",
@@ -57606,7 +57606,7 @@
   "offset": "5434",
   "jp": "・・・なんだよ、これ",
   "en": "Wow... Look at this place.",
-  "zh": ""
+  "zh": "……这算什么啊"
  },
  {
   "id": "MSG/MSG2700/43621",
@@ -57615,7 +57615,7 @@
   "offset": "544A",
   "jp": "ハハ・・・おっかしーよな\nぜんぶ、凍っちゃってるなんて",
   "en": "Ha ha ha... ridiculous, isn't it!\nIt's all frozen up!",
-  "zh": ""
+  "zh": "哈哈……太荒谬了吧\n居然全都冻结掉了"
  },
  {
   "id": "MSG/MSG2700/43622",
@@ -57624,7 +57624,7 @@
   "offset": "5482",
   "jp": "だってさ、ちょっと前までここ\nすごい立派な、庭だったんだぜ？",
   "en": "This was a beautiful garden just a few days\nago.",
-  "zh": ""
+  "zh": "明明就在不久前，这里\n还是个非常漂亮的庭院啊？"
  },
  {
   "id": "MSG/MSG2700/43623",
@@ -57633,7 +57633,7 @@
   "offset": "54C0",
   "jp": "年がら年中、いつだって色んな花が\n咲いててさ、とっても甘い香りがしてさ",
   "en": "Flowers would bloom all year round.\nIt always smelled so good!",
-  "zh": ""
+  "zh": "一年四季，不管什么时候都盛开着各种花朵\n散发着非常香甜的气味"
  },
  {
   "id": "MSG/MSG2700/43624",
@@ -57642,7 +57642,7 @@
   "offset": "5508",
   "jp": "みんなが外で、日向ぼっことかしたり\nお昼ご飯を食べたりしててさ・・・",
   "en": "Everyone would sit around and eat or just \nstroll through the flower beds...",
-  "zh": ""
+  "zh": "大家都会在外面晒晒太阳啊\n吃吃午饭什么的……"
  },
  {
   "id": "MSG/MSG2700/43625",
@@ -57651,7 +57651,7 @@
   "offset": "554E",
   "jp": "そんでオレは、この庭でコータを飼っててさ",
   "en": "I raised Cota here, too.",
-  "zh": ""
+  "zh": "然后我呢，就在这个庭院里养着柯达"
  },
  {
   "id": "MSG/MSG2700/43626",
@@ -57660,7 +57660,7 @@
   "offset": "5578",
   "jp": "アイツと遊ぶの・・・\nすげえ・・・楽しいんだぜ・・・？",
   "en": "Playing with him... hah... so much fun...",
-  "zh": ""
+  "zh": "跟那家伙玩耍……\n真的……超级开心的啊……？"
  },
  {
   "id": "MSG/MSG2700/43627",
@@ -57669,7 +57669,7 @@
   "offset": "55B0",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG2700/43628",
@@ -57678,7 +57678,7 @@
   "offset": "55C4",
   "jp": "アイツ・・・オレが近くに来ると\nすぐに気がついて、飛び出してくるんだ",
   "en": "He'd always see me coming and come running\nright over right away.",
-  "zh": ""
+  "zh": "那家伙……只要我走近\n就会马上注意到，然后欢快地飞奔过来"
  },
  {
   "id": "MSG/MSG2700/43629",
@@ -57687,7 +57687,7 @@
   "offset": "560A",
   "jp": "すげえ、うれしそうにシッポをぶんぶん\nふっててさ",
   "en": "Wagging his whole body, jumping up, licking\nmy face, so excited to see me...",
-  "zh": ""
+  "zh": "特别高兴地一个劲儿\n猛摇着尾巴"
  },
  {
   "id": "MSG/MSG2700/4362A",
@@ -57696,7 +57696,7 @@
   "offset": "563C",
   "jp": "すげえ、よろこんでるときとか\nなんかこう、アイツの顔ｱ%J278000",
   "en": "His furry face looked so funny when he was \nexcited...%J278000",
-  "zh": ""
+  "zh": "特别开心的时候什么的\n怎么说呢，那家伙的脸ｱ%J278000"
  },
  {
   "id": "MSG/MSG2700/4362B",
@@ -57705,7 +57705,7 @@
   "offset": "5684",
   "jp": "その顔が、すっげえ笑えるんだ",
   "en": "You've never seen such a face on a dog!",
-  "zh": ""
+  "zh": "那副表情，简直搞笑得要命啊"
  },
  {
   "id": "MSG/MSG2700/4362C",
@@ -57714,7 +57714,7 @@
   "offset": "56A2",
   "jp": "・・・ねえ",
   "en": "...Look.",
-  "zh": ""
+  "zh": "……我说"
  },
  {
   "id": "MSG/MSG2700/4362D",
@@ -57723,7 +57723,7 @@
   "offset": "56AE",
   "jp": "残酷なことを言うようだけど",
   "en": "I don't want this to sound harsh, but...",
-  "zh": ""
+  "zh": "虽然这话听起来很残酷"
  },
  {
   "id": "MSG/MSG2700/4362E",
@@ -57732,7 +57732,7 @@
   "offset": "56CA",
   "jp": "いまは、思い出にひたっている場合じゃ・・・",
   "en": "We're not here to listen to you recite\nheart-warming memories...",
-  "zh": ""
+  "zh": "但现在可不是沉浸在回忆里的时候……"
  },
  {
   "id": "MSG/MSG2700/4362F",
@@ -57741,7 +57741,7 @@
   "offset": "56F6",
   "jp": "ワンワン",
   "en": "Woof Woof!",
-  "zh": ""
+  "zh": "汪汪"
  },
  {
   "id": "MSG/MSG2700/43630",
@@ -57750,7 +57750,7 @@
   "offset": "5700",
   "jp": "・・・・！%F",
   "en": "...!%F",
-  "zh": ""
+  "zh": "……！%F"
  },
  {
   "id": "MSG/MSG2700/43631",
@@ -57759,7 +57759,7 @@
   "offset": "5710",
   "jp": "いまの・・・コータ・・・！？",
   "en": "That was... Cota?!",
-  "zh": ""
+  "zh": "刚才那是……柯达……！？"
  },
  {
   "id": "MSG/MSG2700/43632",
@@ -57768,7 +57768,7 @@
   "offset": "572E",
   "jp": "え？",
   "en": "What?",
-  "zh": ""
+  "zh": "咦？"
  },
  {
   "id": "MSG/MSG2700/43633",
@@ -57777,7 +57777,7 @@
   "offset": "5734",
   "jp": "見ただろ！　いま#CFF697DBE中央塔の方#cに走って行ったの\n絶対、コータだ！",
   "en": "You saw him, right? He ran toward the\n#CFF697DBECentral Tower#c! It was Cota, for sure!",
-  "zh": ""
+  "zh": "你们看到了吧！刚才往#CFF697DBE中央塔方向#c跑过去的\n绝对是柯达！"
  },
  {
   "id": "MSG/MSG2700/43634",
@@ -57786,7 +57786,7 @@
   "offset": "578A",
   "jp": "ちょっと・・・なに言ってるのよ",
   "en": "What are you talking about?",
-  "zh": ""
+  "zh": "等等……你在胡说什么啊"
  },
  {
   "id": "MSG/MSG2700/43635",
@@ -57795,7 +57795,7 @@
   "offset": "57AA",
   "jp": "こんな状態で、犬なんか生きていられるわけ\nないでしょう？",
   "en": "How could a dog have survived all this?!",
-  "zh": ""
+  "zh": "都成这种局面了，狗怎么可能还活得下来\n对吧？"
  },
  {
   "id": "MSG/MSG2700/43636",
@@ -57804,7 +57804,7 @@
   "offset": "57E4",
   "jp": "絶対、コータだって！",
   "en": "It was Cota! I know it! Yeah!",
-  "zh": ""
+  "zh": "绝对就是柯达！"
  },
  {
   "id": "MSG/MSG2700/43637",
@@ -57813,7 +57813,7 @@
   "offset": "57FA",
   "jp": "ほら、見ろよあそこ\nあそこだけ、建物が凍ってないじゃん%F",
   "en": "Look, over there! There's a patch where the\nbuilding isn't frozen!%F",
-  "zh": ""
+  "zh": "喂，快看那边\n就只有那栋建筑物没有被冻住啊%F"
  },
  {
   "id": "MSG/MSG2700/43638",
@@ -57822,7 +57822,7 @@
   "offset": "5836",
   "jp": "あそこに、みんな避難してんだよ、きっと！",
   "en": "I bet everyone's in there! I'm sure of it!",
-  "zh": ""
+  "zh": "大家一定都避难到那里去了，肯定没错！"
  },
  {
   "id": "MSG/MSG2700/43639",
@@ -57831,7 +57831,7 @@
   "offset": "5860",
   "jp": "行こうぜ！",
   "en": "Come on!",
-  "zh": ""
+  "zh": "我们快走吧！"
  },
  {
   "id": "MSG/MSG2700/4363A",
@@ -57840,7 +57840,7 @@
   "offset": "586C",
   "jp": "どういたします、カリン様？",
   "en": "What shall we do, my lady?",
-  "zh": ""
+  "zh": "卡琳大人，我们该如何是好？"
  },
  {
   "id": "MSG/MSG2700/4363B",
@@ -57849,7 +57849,7 @@
   "offset": "5888",
   "jp": "・・・・・・はぁ",
   "en": "<Sigh...>",
-  "zh": ""
+  "zh": "…………唉"
  },
  {
   "id": "MSG/MSG2700/4363C",
@@ -57858,7 +57858,7 @@
   "offset": "589A",
   "jp": "ものすごーく、あやしいけど・・・\n行くしかないでしょうね",
   "en": "This all looks a bit suspicious to me,\nbut... I guess we have to check it out.",
-  "zh": ""
+  "zh": "虽然感觉非——常可疑……\n不过也只能过去看看了呢"
  },
  {
   "id": "MSG/MSG2700/4363E",
@@ -57867,7 +57867,7 @@
   "offset": "58D4",
   "jp": "ワンワン",
   "en": "Woof Woof!",
-  "zh": ""
+  "zh": "汪汪"
  },
  {
   "id": "MSG/MSG2700/4363F",
@@ -57876,7 +57876,7 @@
   "offset": "58DE",
   "jp": "コ、コータだっ！",
   "en": "It's Cota!",
-  "zh": ""
+  "zh": "是、是柯达！"
  },
  {
   "id": "MSG/MSG2700/43640",
@@ -57885,7 +57885,7 @@
   "offset": "58F0",
   "jp": "また？",
   "en": "Again?",
-  "zh": ""
+  "zh": "又来了？"
  },
  {
   "id": "MSG/MSG2700/43641",
@@ -57894,7 +57894,7 @@
   "offset": "58F8",
   "jp": "ああ、絶対いまの声はコータだって！",
   "en": "I'd know that bark anywhere!",
-  "zh": ""
+  "zh": "啊，刚才那声音绝对就是柯达！"
  },
  {
   "id": "MSG/MSG2700/43642",
@@ -57903,7 +57903,7 @@
   "offset": "591C",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "………………"
  },
  {
   "id": "MSG/MSG2700/43648",
@@ -57912,7 +57912,7 @@
   "offset": "5930",
   "jp": "ワンワン",
   "en": "Woof Woof!",
-  "zh": ""
+  "zh": "汪汪"
  },
  {
   "id": "MSG/MSG2700/43649",
@@ -57921,7 +57921,7 @@
   "offset": "593A",
   "jp": "コータだ！",
   "en": "It's Cota!",
-  "zh": ""
+  "zh": "是柯达！"
  },
  {
   "id": "MSG/MSG2700/4364A",
@@ -57930,7 +57930,7 @@
   "offset": "5946",
   "jp": "近いぞ！！%F",
   "en": "He's close!%F",
-  "zh": ""
+  "zh": "离得很近了！！%F"
  },
  {
   "id": "MSG/MSG2700/4364B",
@@ -57939,7 +57939,7 @@
   "offset": "5956",
   "jp": "あれは・・・？%F",
   "en": "Look at that...%F",
-  "zh": ""
+  "zh": "那是……？%F"
  },
  {
   "id": "MSG/MSG2700/4364C",
@@ -57948,7 +57948,7 @@
   "offset": "596A",
   "jp": "#CFF697DBE転送魔導陣#cのようですな",
   "en": "",
-  "zh": ""
+  "zh": "看样子是#CFF697DBE传送魔导阵#c呢"
  },
  {
   "id": "MSG/MSG2700/43652",
@@ -57957,7 +57957,7 @@
   "offset": "599A",
   "jp": "この魔導陣・・・いったい、どこに\nつながってるのかしら",
   "en": "Where could this Magic Circle lead to?",
-  "zh": ""
+  "zh": "这个魔导阵……究竟是连接到\n什么地方的呢"
  },
  {
   "id": "MSG/MSG2700/43653",
@@ -57966,7 +57966,7 @@
   "offset": "59D2",
   "jp": "なんか、どう見てもあやしいって感じが・・・%F",
   "en": "This is all a little too suspicious for\nme...%F",
-  "zh": ""
+  "zh": "总觉得怎么看都很可疑啊……%F"
  },
  {
   "id": "MSG/MSG2700/43654",
@@ -57975,7 +57975,7 @@
   "offset": "5A02",
   "jp": "グァ・・・グゥゥゥゥ・・・！",
   "en": "Gwha... wha...!",
-  "zh": ""
+  "zh": "咕啊……咕呜呜呜……！"
  },
  {
   "id": "MSG/MSG2700/43655",
@@ -57984,7 +57984,7 @@
   "offset": "5A20",
   "jp": "・・・？",
   "en": "...?",
-  "zh": ""
+  "zh": "……？"
  },
  {
   "id": "MSG/MSG2700/43656",
@@ -57993,7 +57993,7 @@
   "offset": "5A2A",
   "jp": "我が導きに従い、進め",
   "en": "Follow my command. Advance.",
-  "zh": ""
+  "zh": "遵从吾之指引，前进吧"
  },
  {
   "id": "MSG/MSG2700/43657",
@@ -58002,7 +58002,7 @@
   "offset": "5A40",
   "jp": "ちょっと・・・！？",
   "en": "Hey...!",
-  "zh": ""
+  "zh": "喂……！？"
  },
  {
   "id": "MSG/MSG2700/43658",
@@ -58011,7 +58011,7 @@
   "offset": "5A54",
   "jp": "・・・くはぁっ！",
   "en": "...Kuah!",
-  "zh": ""
+  "zh": "……呃啊！"
  },
  {
   "id": "MSG/MSG2700/43659",
@@ -58020,7 +58020,7 @@
   "offset": "5A66",
   "jp": "・・・なんでもない",
   "en": "...It's nothing.",
-  "zh": ""
+  "zh": "……没事"
  },
  {
   "id": "MSG/MSG2700/4365A",
@@ -58029,7 +58029,7 @@
   "offset": "5A7A",
   "jp": "なんでもないわけないでしょ？\nなによ・・・いまの・・・",
   "en": "Nothing?! It looks like something to me!",
-  "zh": ""
+  "zh": "怎么可能没事啊？\n刚刚那是……什么啊……"
  },
  {
   "id": "MSG/MSG2700/4365B",
@@ -58038,7 +58038,7 @@
   "offset": "5AB2",
   "jp": "“いつものやつ”・・・さ",
   "en": "Same old, same old.",
-  "zh": ""
+  "zh": "是“老毛病”……啦"
  },
  {
   "id": "MSG/MSG2700/4365C",
@@ -58047,7 +58047,7 @@
   "offset": "5ACC",
   "jp": "たぶん・・・デビルゴーレムが近いと\nこの右腕は・・・反応するんだ",
   "en": "When a Devil Golem is nearby, my arm...\nreacts...",
-  "zh": ""
+  "zh": "大概……只要恶魔魔像在附近\n这条右臂就会……有反应"
  },
  {
   "id": "MSG/MSG2700/4365D",
@@ -58056,7 +58056,7 @@
   "offset": "5B0E",
   "jp": "どういう原理か、わかんねえけどさ",
   "en": "I'm not sure why.",
-  "zh": ""
+  "zh": "虽然我也不知道到底是什么原理啦"
  },
  {
   "id": "MSG/MSG2700/4365E",
@@ -58065,7 +58065,7 @@
   "offset": "5B30",
   "jp": "デビルゴーレムが近いと・・・？",
   "en": "When a Devil Golem is nearby...?",
-  "zh": ""
+  "zh": "恶魔魔像在附近……？"
  },
  {
   "id": "MSG/MSG2700/4365F",
@@ -58074,7 +58074,7 @@
   "offset": "5B50",
   "jp": "じゃあ、この先に・・・？",
   "en": "So that means...?",
-  "zh": ""
+  "zh": "那么，这前面……？"
  },
  {
   "id": "MSG/MSG2700/43660",
@@ -58083,7 +58083,7 @@
   "offset": "5B6A",
   "jp": "ああ、きっと・・・“やつ”がいる！",
   "en": "Yeah... she's in there.",
-  "zh": ""
+  "zh": "啊，肯定……“那家伙”就在前面！"
  },
  {
   "id": "MSG/MSG2700/43661",
@@ -58092,7 +58092,7 @@
   "offset": "5B8E",
   "jp": "・・・そう",
   "en": "...I see.",
-  "zh": ""
+  "zh": "……这样啊"
  },
  {
   "id": "MSG/MSG2700/43662",
@@ -58101,7 +58101,7 @@
   "offset": "5B9A",
   "jp": "・・・あのさ",
   "en": "...Look.",
-  "zh": ""
+  "zh": "……我说啊"
  },
  {
   "id": "MSG/MSG2700/43663",
@@ -58110,7 +58110,7 @@
   "offset": "5BA8",
   "jp": "さっきも言ったけど、ついてこなくて\nいいんだぜ？",
   "en": "I said it before, but... you don't have to\ncome with me, okay?",
-  "zh": ""
+  "zh": "我刚才也说过了，你们其实没必要\n跟过来的吧？"
  },
  {
   "id": "MSG/MSG2700/43664",
@@ -58119,7 +58119,7 @@
   "offset": "5BDA",
   "jp": "冗談でしょう？%J276080",
   "en": "You're kidding.%J276080",
-  "zh": ""
+  "zh": "开什么玩笑？%J276080"
  },
  {
   "id": "MSG/MSG2700/43665",
@@ -58128,7 +58128,7 @@
   "offset": "5BFA",
   "jp": "ここまで、来て帰れるもんですか！",
   "en": "You think I'm going to turn around and go\nback after coming all this way?",
-  "zh": ""
+  "zh": "都走到这一步了，怎么可能回去！"
  },
  {
   "id": "MSG/MSG2700/43666",
@@ -58137,7 +58137,7 @@
   "offset": "5C1C",
   "jp": "ライガさんも・・・それでいいのか？",
   "en": "Raigar... what about you?",
-  "zh": ""
+  "zh": "莱加先生……你也没意见吗？"
  },
  {
   "id": "MSG/MSG2700/43667",
@@ -58146,7 +58146,7 @@
   "offset": "5C40",
   "jp": "ワタシの命は、カリン様とともにある",
   "en": "My place is by Lady Karin's side.",
-  "zh": ""
+  "zh": "我的性命，与卡琳大人同在"
  },
  {
   "id": "MSG/MSG2700/43668",
@@ -58155,7 +58155,7 @@
   "offset": "5C64",
   "jp": "・・・そっか",
   "en": "...Well, okay.",
-  "zh": ""
+  "zh": "……是嘛"
  },
  {
   "id": "MSG/MSG2700/43669",
@@ -58164,7 +58164,7 @@
   "offset": "5C72",
   "jp": "じゃ、行くぜ？%F",
   "en": "Then let's get going.%F",
-  "zh": ""
+  "zh": "那，走吧！%F"
  },
  {
   "id": "MSG/MSG2700/4366A",
@@ -58173,7 +58173,7 @@
   "offset": "5C86",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG2700/43670",
@@ -58182,7 +58182,7 @@
   "offset": "5C94",
   "jp": "やつは、ムチャクチャ強い\n死ぬかもしれない%J276069",
   "en": "She's strong. I've seen it. It's possible\nnone of us could come back alive.%J276069",
-  "zh": ""
+  "zh": "那家伙，强得离谱\n搞不好真的会丧命的%J276069"
  },
  {
   "id": "MSG/MSG2700/43DF0",
@@ -58191,7 +58191,7 @@
   "offset": "5CD0",
   "jp": "くしゃって、変な顔になっちゃったり\nしてさ・・・%J276011",
   "en": "Ha ha... I'd laugh so much...%J276011",
-  "zh": ""
+  "zh": "脸皱巴巴的，变得奇形怪状\n之类的……%J276011"
  },
  {
   "id": "MSG/MSG2700/443CC",
@@ -58200,7 +58200,7 @@
   "offset": "5D12",
   "jp": "Ｑ１.舞のデビューシングルのタイトルは何？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ１.舞的出道单曲标题是什么？"
  },
  {
   "id": "MSG/MSG2700/443CD",
@@ -58209,7 +58209,7 @@
   "offset": "5D3E",
   "jp": "be born%M279510",
   "en": "%M279510",
-  "zh": ""
+  "zh": "be born%M279510"
  },
  {
   "id": "MSG/MSG2700/443CE",
@@ -58218,7 +58218,7 @@
   "offset": "5D5E",
   "jp": "Reborn%M279505",
   "en": "%M279505",
-  "zh": ""
+  "zh": "Reborn%M279505"
  },
  {
   "id": "MSG/MSG2700/443CF",
@@ -58227,7 +58227,7 @@
   "offset": "5D7C",
   "jp": "Revive%M279510",
   "en": "%M279510",
-  "zh": ""
+  "zh": "Revive%M279510"
  },
  {
   "id": "MSG/MSG2700/443D1",
@@ -58236,7 +58236,7 @@
   "offset": "5D9A",
   "jp": "正解%J279520",
   "en": "%J279520",
-  "zh": ""
+  "zh": "回答正确%J279520"
  },
  {
   "id": "MSG/MSG2700/443D6",
@@ -58245,7 +58245,7 @@
   "offset": "5DB0",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "回答错误"
  },
  {
   "id": "MSG/MSG2700/443E0",
@@ -58254,7 +58254,7 @@
   "offset": "5DB8",
   "jp": "Ｑ２.デビューシングル「Reborn」の\n 　カップリング曲のタイトルは何？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ２.出道单曲《Reborn》的\n 　B面曲歌名是什么？"
  },
  {
   "id": "MSG/MSG2700/443E1",
@@ -58263,7 +58263,7 @@
   "offset": "5E06",
   "jp": "Squall%M279530",
   "en": "%M279530",
-  "zh": ""
+  "zh": "Squall%M279530"
  },
  {
   "id": "MSG/MSG2700/443E2",
@@ -58272,7 +58272,7 @@
   "offset": "5E24",
   "jp": "Suuare%M279530",
   "en": "%M279530",
-  "zh": ""
+  "zh": "Suuare%M279530"
  },
  {
   "id": "MSG/MSG2700/443E3",
@@ -58281,7 +58281,7 @@
   "offset": "5E42",
   "jp": "Squair%M279525",
   "en": "%M279525",
-  "zh": ""
+  "zh": "Squair%M279525"
  },
  {
   "id": "MSG/MSG2700/443E5",
@@ -58290,7 +58290,7 @@
   "offset": "5E60",
   "jp": "正解%J279540",
   "en": "%J279540",
-  "zh": ""
+  "zh": "正确%J279540"
  },
  {
   "id": "MSG/MSG2700/443EA",
@@ -58299,7 +58299,7 @@
   "offset": "5E76",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "错误"
  },
  {
   "id": "MSG/MSG2700/443F4",
@@ -58308,7 +58308,7 @@
   "offset": "5E7E",
   "jp": "Ｑ３.デビューシングル「Reborn」の\n　 テーマカラーは何？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ３.出道单曲《Reborn》的\n　 主题色是什么？"
  },
  {
   "id": "MSG/MSG2700/443F5",
@@ -58317,7 +58317,7 @@
   "offset": "5EC0",
   "jp": "黄色%M279550",
   "en": "%M279550",
-  "zh": ""
+  "zh": "黄色%M279550"
  },
  {
   "id": "MSG/MSG2700/443F6",
@@ -58326,7 +58326,7 @@
   "offset": "5ED6",
   "jp": "赤%M279550",
   "en": "%M279550",
-  "zh": ""
+  "zh": "红%M279550"
  },
  {
   "id": "MSG/MSG2700/443F7",
@@ -58335,7 +58335,7 @@
   "offset": "5EEA",
   "jp": "青%M279545",
   "en": "%M279545",
-  "zh": ""
+  "zh": "蓝%M279545"
  },
  {
   "id": "MSG/MSG2700/443F9",
@@ -58344,7 +58344,7 @@
   "offset": "5EFE",
   "jp": "正解%J279560",
   "en": "%J279560",
-  "zh": ""
+  "zh": "正确%J279560"
  },
  {
   "id": "MSG/MSG2700/443FE",
@@ -58353,7 +58353,7 @@
   "offset": "5F14",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "错误"
  },
  {
   "id": "MSG/MSG2700/44408",
@@ -58362,7 +58362,7 @@
   "offset": "5F1C",
   "jp": "Ｑ４.デビューシングル「Reborn」の\n　 コンセプトは何？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ４.出道单曲《Reborn》的\n　 概念是什么？"
  },
  {
   "id": "MSG/MSG2700/44409",
@@ -58371,7 +58371,7 @@
   "offset": "5F5C",
   "jp": "誕生%M279565",
   "en": "%M279565",
-  "zh": ""
+  "zh": "诞生%M279565"
  },
  {
   "id": "MSG/MSG2700/4440A",
@@ -58380,7 +58380,7 @@
   "offset": "5F72",
   "jp": "未来%M279570",
   "en": "%M279570",
-  "zh": ""
+  "zh": "未来%M279570"
  },
  {
   "id": "MSG/MSG2700/4440B",
@@ -58389,7 +58389,7 @@
   "offset": "5F88",
   "jp": "夢%M279570",
   "en": "%M279570",
-  "zh": ""
+  "zh": "梦想%M279570"
  },
  {
   "id": "MSG/MSG2700/4440D",
@@ -58398,7 +58398,7 @@
   "offset": "5F9C",
   "jp": "正解%J279580",
   "en": "%J279580",
-  "zh": ""
+  "zh": "正确%J279580"
  },
  {
   "id": "MSG/MSG2700/44412",
@@ -58407,7 +58407,7 @@
   "offset": "5FB2",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "错误"
  },
  {
   "id": "MSG/MSG2700/4441C",
@@ -58416,7 +58416,7 @@
   "offset": "5FBA",
   "jp": "Ｑ５.デビューシングル「Reborn」の\n　 作曲者の名前は？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ５.出道单曲《Reborn》的\n　 作曲者名字是？"
  },
  {
   "id": "MSG/MSG2700/4441D",
@@ -58425,7 +58425,7 @@
   "offset": "5FFA",
   "jp": "Jin Nakamura%M279590",
   "en": "%M279590",
-  "zh": ""
+  "zh": "Jin Nakamura%M279590"
  },
  {
   "id": "MSG/MSG2700/4441E",
@@ -58434,7 +58434,7 @@
   "offset": "6024",
   "jp": "舞%M279590",
   "en": "%M279590",
-  "zh": ""
+  "zh": "舞%M279590"
  },
  {
   "id": "MSG/MSG2700/4441F",
@@ -58443,7 +58443,7 @@
   "offset": "6038",
   "jp": "Sizk%M279585",
   "en": "%M279585",
-  "zh": ""
+  "zh": "Sizk%M279585"
  },
  {
   "id": "MSG/MSG2700/44421",
@@ -58452,7 +58452,7 @@
   "offset": "6052",
   "jp": "正解%J279620",
   "en": "%J279620",
-  "zh": ""
+  "zh": "正确%J279620"
  },
  {
   "id": "MSG/MSG2700/44426",
@@ -58461,7 +58461,7 @@
   "offset": "6068",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "错误"
  },
  {
   "id": "MSG/MSG2700/44444",
@@ -58470,7 +58470,7 @@
   "offset": "6070",
   "jp": "Ｑ６.舞が所属するレコードレーベルは？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ６.舞所属的唱片厂牌是？"
  },
  {
   "id": "MSG/MSG2700/44445",
@@ -58479,7 +58479,7 @@
   "offset": "6098",
   "jp": "rhythm zone%M279625",
   "en": "%M279625",
-  "zh": ""
+  "zh": "rhythm zone%M279625"
  },
  {
   "id": "MSG/MSG2700/44446",
@@ -58488,7 +58488,7 @@
   "offset": "60C0",
   "jp": "avex trax%M279630",
   "en": "%M279630",
-  "zh": ""
+  "zh": "avex trax%M279630"
  },
  {
   "id": "MSG/MSG2700/44447",
@@ -58497,7 +58497,7 @@
   "offset": "60E4",
   "jp": "avex mode%M279630",
   "en": "%M279630",
-  "zh": ""
+  "zh": "avex mode%M279630"
  },
  {
   "id": "MSG/MSG2700/44449",
@@ -58506,7 +58506,7 @@
   "offset": "6108",
   "jp": "正解%J279660",
   "en": "%J279660",
-  "zh": ""
+  "zh": "正确%J279660"
  },
  {
   "id": "MSG/MSG2700/4444E",
@@ -58515,7 +58515,7 @@
   "offset": "611E",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "错误"
  },
  {
   "id": "MSG/MSG2700/4446C",
@@ -58524,7 +58524,7 @@
   "offset": "6126",
   "jp": "Ｑ７.舞が所属する「Ruppina」\n　 このRuppinaとはどういう意味でしょうか？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ７.小舞所属的「Ruppina」，\n　 这个Ruppina是什么意思呢？"
  },
  {
   "id": "MSG/MSG2700/4446D",
@@ -58533,7 +58533,7 @@
   "offset": "6180",
   "jp": "香水の名前%M279670",
   "en": "%M279670",
-  "zh": ""
+  "zh": "香水的名字%M279670"
  },
  {
   "id": "MSG/MSG2700/4446E",
@@ -58542,7 +58542,7 @@
   "offset": "619C",
   "jp": "宝石の名前%M279670",
   "en": "%M279670",
-  "zh": ""
+  "zh": "宝石的名字%M279670"
  },
  {
   "id": "MSG/MSG2700/4446F",
@@ -58551,7 +58551,7 @@
   "offset": "61B8",
   "jp": "星の名前%M279665",
   "en": "%M279665",
-  "zh": ""
+  "zh": "星星的名字%M279665"
  },
  {
   "id": "MSG/MSG2700/44471",
@@ -58560,7 +58560,7 @@
   "offset": "61D2",
   "jp": "正解%J279680",
   "en": "%J279680",
-  "zh": ""
+  "zh": "回答正确%J279680"
  },
  {
   "id": "MSG/MSG2700/44476",
@@ -58569,7 +58569,7 @@
   "offset": "61E8",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "回答错误"
  },
  {
   "id": "MSG/MSG2700/44480",
@@ -58578,7 +58578,7 @@
   "offset": "61F0",
   "jp": "Ｑ８.今回のデビューシングルのイメージは\n　 何でしょうか？",
   "en": "",
-  "zh": ""
+  "zh": "Ｑ８.这次出道单曲的构想印象是\n　 什么呢？"
  },
  {
   "id": "MSG/MSG2700/44481",
@@ -58587,7 +58587,7 @@
   "offset": "622E",
   "jp": "ワルキューレ%M279690",
   "en": "%M279690",
-  "zh": ""
+  "zh": "瓦尔基里%M279690"
  },
  {
   "id": "MSG/MSG2700/44482",
@@ -58596,7 +58596,7 @@
   "offset": "624C",
   "jp": "フレイヤ%M279690",
   "en": "%M279690",
-  "zh": ""
+  "zh": "芙蕾雅%M279690"
  },
  {
   "id": "MSG/MSG2700/44483",
@@ -58605,7 +58605,7 @@
   "offset": "6266",
   "jp": "ビーナス%M279685",
   "en": "%M279685",
-  "zh": ""
+  "zh": "维纳斯%M279685"
  },
  {
   "id": "MSG/MSG2700/44485",
@@ -58614,7 +58614,7 @@
   "offset": "6280",
   "jp": "正解%S289000",
   "en": "%S289000",
-  "zh": ""
+  "zh": "回答正确%S289000"
  },
  {
   "id": "MSG/MSG2700/4448A",
@@ -58623,7 +58623,7 @@
   "offset": "6296",
   "jp": "不正解",
   "en": "",
-  "zh": ""
+  "zh": "回答错误"
  },
  {
   "id": "MSG/MSG2700/4448F",
@@ -58632,7 +58632,7 @@
   "offset": "629E",
   "jp": "舞をよろしくネ！",
   "en": "",
-  "zh": ""
+  "zh": "请多多支持小舞哦！"
  },
  {
   "id": "MSG/MSG2700/44494",
@@ -58641,7 +58641,7 @@
   "offset": "62B0",
   "jp": "・・・壊れてる",
   "en": "...It's broken.",
-  "zh": ""
+  "zh": "……坏掉了"
  },
  {
   "id": "MSG/MSG2700/44499",
@@ -58650,7 +58650,7 @@
   "offset": "62C0",
   "jp": "“カフェテリア”",
   "en": "\"Cafeteria\"",
-  "zh": ""
+  "zh": "“自助餐厅”"
  },
  {
   "id": "MSG/MSG2700/4449E",
@@ -58659,7 +58659,7 @@
   "offset": "62D2",
   "jp": "“２Ｆ　中央塔通路”",
   "en": "\"2nd Floor: Central Tower Passageway\"",
-  "zh": ""
+  "zh": "“２Ｆ　中央塔通道”"
  },
  {
   "id": "MSG/MSG2700/444A3",
@@ -58668,7 +58668,7 @@
   "offset": "62E8",
   "jp": "“東ホール”",
   "en": "\"East Hall\"",
-  "zh": ""
+  "zh": "“东大厅”"
  },
  {
   "id": "MSG/MSG2700/444A8",
@@ -58677,7 +58677,7 @@
   "offset": "62F6",
   "jp": "“南ホール”",
   "en": "\"South Hall\"",
-  "zh": ""
+  "zh": "“南大厅”"
  },
  {
   "id": "MSG/MSG2700/444AD",
@@ -58686,7 +58686,7 @@
   "offset": "6304",
   "jp": "“３Ｆ 図書館”",
   "en": "\"3rd Floor: Library\"",
-  "zh": ""
+  "zh": "“３Ｆ 图书馆”"
  },
  {
   "id": "MSG/MSG2700/444B2",
@@ -58695,7 +58695,7 @@
   "offset": "6316",
   "jp": "“回廊南部”",
   "en": "\"South Corridor\"",
-  "zh": ""
+  "zh": "“回廊南部”"
  },
  {
   "id": "MSG/MSG2700/444B7",
@@ -58704,7 +58704,7 @@
   "offset": "6324",
   "jp": "“南　南ホール”\n“東　東ホール”",
   "en": "\"East: East Hall\"\n\"South: South Hall\"",
-  "zh": ""
+  "zh": "“南　南大厅”\n“东　东大厅”"
  },
  {
   "id": "MSG/MSG2700/444BC",
@@ -58713,7 +58713,7 @@
   "offset": "6348",
   "jp": "三人でつくった花壇が、荒れはてている",
   "en": "The flower bed planted by Atsuma, Toya and\nMakoto has been torn apart.",
-  "zh": ""
+  "zh": "三个人一起搭建的花坛，已经荒废了"
  },
  {
   "id": "MSG/MSG2700/444C1",
@@ -58722,7 +58722,7 @@
   "offset": "636E",
   "jp": "“１Ｆ　カフェテリア”",
   "en": "\"1st Floor: Cafeteria\"",
-  "zh": ""
+  "zh": "“１Ｆ　自助餐厅”"
  },
  {
   "id": "MSG/MSG2700/444C6",
@@ -58731,7 +58731,7 @@
   "offset": "6386",
   "jp": "“古文書学入門”",
   "en": "\"Ancient Texts for Beginners\"",
-  "zh": ""
+  "zh": "“古文书学入门”"
  },
  {
   "id": "MSG/MSG2700/444C7",
@@ -58740,7 +58740,7 @@
   "offset": "6398",
   "jp": "“人の手に産み落とされし三界の魔王\n古の血を継ぐもの　其の命脈を以って器を満たし”",
   "en": "\"The Devil Kings were created by man. When\nOld Blood flows and fills the Vessel...\"",
-  "zh": ""
+  "zh": "“由人类之手降生世间的三界魔王\n继承古老血脉之人　将以其命脉填满容器”"
  },
  {
   "id": "MSG/MSG2700/444C8",
@@ -58749,7 +58749,7 @@
   "offset": "63EC",
   "jp": "“此れを好く制すること能うれば\n世の覇王たる比類なき魔導の力　与えられん”",
   "en": "\"These Kings may be controlled, providing\nenough magical power to rule the world.\"",
-  "zh": ""
+  "zh": "“若能将其善加制御\n便能获赐堪称当世霸王、无可匹敌的魔导之力”"
  },
  {
   "id": "MSG/MSG2700/444CB",
@@ -58758,7 +58758,7 @@
   "offset": "6438",
   "jp": "“世界魔導偉人伝”",
   "en": "\"Legend of the Great Magicians\"",
-  "zh": ""
+  "zh": "“世界魔导伟人传”"
  },
  {
   "id": "MSG/MSG2700/444CC",
@@ -58767,7 +58767,7 @@
   "offset": "644C",
   "jp": "“長きに渡るゴーレムウォーを\n終結へ導いたとされる賢人たちｱ”",
   "en": "\"The Sages led the Golem War to its\nconclusion.\"",
-  "zh": ""
+  "zh": "“指引漫长的魔像战争\n走向终结的贤人们”"
  },
  {
   "id": "MSG/MSG2700/444CD",
@@ -58776,7 +58776,7 @@
   "offset": "648C",
   "jp": "“彼らの命は絶えて久しいが、その血は確かに\n我々の暮らす現代へと受け継がれている”",
   "en": "\"Though long dead, their bloodline surely\ncontinues to this day.\"",
-  "zh": ""
+  "zh": "“他们的生命虽早已断绝，但其血脉确实\n流传并继承到了我们生活的现代”"
  },
  {
   "id": "MSG/MSG2700/444CE",
@@ -58785,7 +58785,7 @@
   "offset": "64E0",
   "jp": "“しかしながら、彼らはその偉大なる知識ゆえ\n自ら俗世を離れる道を選んだようである”",
   "en": "\"However, their vast knowledge has led them\noff the path of material gain.\"",
-  "zh": ""
+  "zh": "“然而，他们似乎因其掌握的伟大知识，\n而自行选择了远离俗世的道路”"
  },
  {
   "id": "MSG/MSG2700/444CF",
@@ -58794,7 +58794,7 @@
   "offset": "6534",
   "jp": "“彼らの末裔の所在については諸説さまざまであり\n現在となってはその行方を知る者も稀である”",
   "en": "\"Many theories exist, and few know the true\nlocation of the last of their line.\"",
-  "zh": ""
+  "zh": "“关于他们后裔的下落众说纷纭，\n时至今日知晓其行踪之人亦属罕见”"
  },
  {
   "id": "MSG/MSG2700/444D5",
@@ -58803,7 +58803,7 @@
   "offset": "6590",
   "jp": "“シティ文化の交流\nゴーレムウォーとその背景”",
   "en": "\"Cultural Exchange\"\n\"Background to the Golem War\"",
-  "zh": ""
+  "zh": "“城邦文化的交流\n魔像战争及其背景”"
  },
  {
   "id": "MSG/MSG2700/444D6",
@@ -58812,7 +58812,7 @@
   "offset": "65C0",
   "jp": "“ゴーレムウォー以前、この世界は\n大きな一つの文明から成っていました”",
   "en": "\"Prior to the Golem War, the world was\nunited in a single civilization.\"",
-  "zh": ""
+  "zh": "“在魔像战争之前，这个世界\n曾是由一个巨大的统一文明所构成的”"
  },
  {
   "id": "MSG/MSG2700/444D7",
@@ -58821,7 +58821,7 @@
   "offset": "6608",
   "jp": "“ゴーレムウォー以後の地域間の隔絶による\n異文化交流の極端な減少によって”",
   "en": "\"When the regions were divided after the\nGolem War, cultural exchange ceased...\"",
-  "zh": ""
+  "zh": "“魔像战争之后，各地域之间的隔绝\n导致异文化交流极度减少”"
  },
  {
   "id": "MSG/MSG2700/444D8",
@@ -58830,7 +58830,7 @@
   "offset": "6654",
   "jp": "“各地域における独自の風土や風習が育ち\n現在のような状態になったと推測されています”",
   "en": "\"Promoting customs and traditions unique to\neach region, as seen today,\"",
-  "zh": ""
+  "zh": "“据推测，正是由于各地区孕育出了独特的风土与习俗，\n才演变成了如今这种格局”"
  },
  {
   "id": "MSG/MSG2700/444D9",
@@ -58839,7 +58839,7 @@
   "offset": "66AA",
   "jp": "“中でも主要都市である、ヨコハマ、ロンドン\nキョウトの３大シティの文化は洗練されており”",
   "en": "\"The only real cultural exchange of modern\ntimes is conducted by merchants...\"",
-  "zh": ""
+  "zh": "“其中尤以横滨、伦敦、京都\n这三大主要都市的城邦文化最为发达洗练”"
  },
  {
   "id": "MSG/MSG2700/444DA",
@@ -58848,7 +58848,7 @@
   "offset": "6704",
   "jp": "“現在は各シティをまわる商人たちの手によって\n交易品を中心に文化の交流が成されています”",
   "en": "\"Who move between the three major cities\nand trade wares from each.\"",
-  "zh": ""
+  "zh": "“如今在穿梭于各城邦的商人们推动下，\n正以贸易商品为中心展开着文化交流”"
  },
  {
   "id": "MSG/MSG2700/444DF",
@@ -58857,7 +58857,7 @@
   "offset": "675E",
   "jp": "“シティ大戦史概要”",
   "en": "\"Overview of City Wars\"",
-  "zh": ""
+  "zh": "“城邦大战史概要”"
  },
  {
   "id": "MSG/MSG2700/444E0",
@@ -58866,7 +58866,7 @@
   "offset": "6774",
   "jp": "“ゴーレムウォー以降、各シティの隔絶は進み\n次第にその関係は悪化の一途を辿った”",
   "en": "\"The isolation of each city increased after\nthe Golem War, with relationships...\"",
-  "zh": ""
+  "zh": "“魔像战争后，各城邦之间的隔绝日益加剧，\n彼此的关系也逐渐走向恶化”"
  },
  {
   "id": "MSG/MSG2700/444E1",
@@ -58875,7 +58875,7 @@
   "offset": "67C6",
   "jp": "“世代を重ねるごとにシティ間の争いは激化し\nまさに一触即発の緊張状態となり”",
   "en": "\"Between cities gradually worsening over\ntime.\"",
-  "zh": ""
+  "zh": "“随着世代更迭，城邦间的争端愈演愈烈，\n局势陷入了一触即发的极度紧张状态”"
  },
  {
   "id": "MSG/MSG2700/444E2",
@@ -58884,7 +58884,7 @@
   "offset": "6814",
   "jp": "“ついには３大都市全てを巻き込む\n世界大戦へと発展してしまったのである”",
   "en": "\"Eventually, a war between the three major\ncities broke out.\"",
-  "zh": ""
+  "zh": "“最终演变成了席卷三大都市的\n世界级大战”"
  },
  {
   "id": "MSG/MSG2700/444E3",
@@ -58893,7 +58893,7 @@
   "offset": "685E",
   "jp": "“現在は３大都市不可侵条約が締結されているが\n決してこれで火種が途絶えたわけではない”",
   "en": "\"These cities have since signed a Peace\nTreaty, but tension lingers to this day.\"",
-  "zh": ""
+  "zh": "“如今虽然已签署了三大都市互不侵犯条约，\n但战争的导火索绝未就此熄灭”"
  },
  {
   "id": "MSG/MSG2700/444E4",
@@ -58902,7 +58902,7 @@
   "offset": "68B6",
   "jp": "“なお、近代におけるエンチャント技術の原型は\nこの戦争により飛躍的発展を遂げたものである”",
   "en": "\"The modern principles of Enchanting\ndeveloped during this very war.\"",
-  "zh": ""
+  "zh": "“此外，近代赋法技术的原型\n也是凭借这场战争才得以飞跃性发展的”"
  },
  {
   "id": "MSG/MSG2700/444E9",
@@ -58911,7 +58911,7 @@
   "offset": "6912",
   "jp": "“エーテルと魔導陣の構造分解”\n“７日間でマスター！　魔導史総覧”",
   "en": "\"Elements of Ether and Magic Circles\"\n\"Master the History of Magic in Seven Days!\"",
-  "zh": ""
+  "zh": "“以太与魔导阵的结构解析”\n“７天速成！魔导史总览”"
  },
  {
   "id": "MSG/MSG2700/444EE",
@@ -58920,7 +58920,7 @@
   "offset": "6956",
   "jp": "“新明快魔導語辞典”\n“ぶるぅどっぐでも描ける魔導陣”",
   "en": "\"Modern Dictionary of Magic Terms\"\n\"Magic Circles for Dummies\"",
-  "zh": ""
+  "zh": "“新明快魔导语辞典”\n“斗牛犬也能画出的魔导阵”"
  },
  {
   "id": "MSG/MSG2700/444F3",
@@ -58929,7 +58929,7 @@
   "offset": "698E",
   "jp": "“エンチャント大全”\n“これであなたもエンチャンター”",
   "en": "\"Enchant Overview\"\n\"You Too Can Be An Enchanter!\"",
-  "zh": ""
+  "zh": "“赋法大全”\n“这样你也能成为赋法师”"
  },
  {
   "id": "MSG/MSG2700/444F8",
@@ -58938,7 +58938,7 @@
   "offset": "69C6",
   "jp": "“ゴーレムの気持ちがわかる本”\n“ゴーレムに心はあるか”",
   "en": "\"Golems Have Feelings Too! A Guide\"\n\"Do Golems Have a Soul?\"",
-  "zh": ""
+  "zh": "“读懂魔像心思之书”\n“魔像拥有心智吗”"
  },
  {
   "id": "MSG/MSG2700/444FD",
@@ -58947,7 +58947,7 @@
   "offset": "6A00",
   "jp": "“ゴーレム合成素材辞典”\n“ゴーレムの多様性とその利用”",
   "en": "\"Encyclopedia of Golem Synthesis\"\n\"Principles of Golem Usage\"",
-  "zh": ""
+  "zh": "“魔像合成素材辞典”\n“魔像的多样性及其应用”"
  },
  {
   "id": "MSG/MSG2800/44D90",
