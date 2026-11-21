@@ -179295,7 +179295,7 @@
   "offset": "15F0",
   "jp": "目覚めよ！%F",
   "en": "Awaken!%F",
-  "zh": ""
+  "zh": "醒来吧！%F"
  },
  {
   "id": "MSG/MSG8800/D7551",
@@ -179304,7 +179304,7 @@
   "offset": "1600",
   "jp": "覚醒のときぞ、目覚めるのだ！%F",
   "en": "The time has come, awaken!%F",
-  "zh": ""
+  "zh": "正是觉醒之时，醒来吧！%F"
  },
  {
   "id": "MSG/MSG8800/D7552",
@@ -179313,7 +179313,7 @@
   "offset": "1622",
   "jp": "　　　　　　　　　　%F",
   "en": "U... uh...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG8800/D7553",
@@ -179322,7 +179322,7 @@
   "offset": "163C",
   "jp": "　　　　　　　　　　　　　　　%F",
   "en": "...%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG8800/D7554",
@@ -179331,7 +179331,7 @@
   "offset": "1660",
   "jp": "え・・・これ・・・って・・・！？%F",
   "en": "What's... going on here...?!%F",
-  "zh": ""
+  "zh": "咦……这……到底……！？%F"
  },
  {
   "id": "MSG/MSG8800/D7555",
@@ -179340,7 +179340,7 @@
   "offset": "1686",
   "jp": "な、なんだよ、ここはぁ！？%F",
   "en": "Where am I?!%F",
-  "zh": ""
+  "zh": "这、这是什么鬼地方啊！？%F"
  },
  {
   "id": "MSG/MSG8800/D7556",
@@ -179349,7 +179349,7 @@
   "offset": "16A6",
   "jp": "これが、ゴーレムウォーぞ%F",
   "en": "...This is the Golem War.%F",
-  "zh": ""
+  "zh": "此地，便是魔像战争%F"
  },
  {
   "id": "MSG/MSG8800/D7557",
@@ -179358,7 +179358,7 @@
   "offset": "16C4",
   "jp": "　　　　　　　　　　%F",
   "en": "!?%F",
-  "zh": ""
+  "zh": "%F"
  },
  {
   "id": "MSG/MSG8800/D75B4",
@@ -179367,7 +179367,7 @@
   "offset": "16DE",
   "jp": "これが・・・\nゴーレムウォーの・・・時代？",
   "en": "This is... the Golem War...?",
-  "zh": ""
+  "zh": "这就是……\n魔像战争的……时代？"
  },
  {
   "id": "MSG/MSG8800/D75B5",
@@ -179376,7 +179376,7 @@
   "offset": "170A",
   "jp": "そうだ",
   "en": "Correct.",
-  "zh": ""
+  "zh": "正是"
  },
  {
   "id": "MSG/MSG8800/D75B6",
@@ -179385,7 +179385,7 @@
   "offset": "1712",
   "jp": "すべてを破壊しつくしても、なお止まぬ\n破壊が続く時代",
   "en": "An era in which destruction did not\ncease, even once all had been destroyed.",
-  "zh": ""
+  "zh": "即便万物已被毁灭殆尽，破坏却仍未止歇的\n时代"
  },
  {
   "id": "MSG/MSG8800/D75B7",
@@ -179394,7 +179394,7 @@
   "offset": "1748",
   "jp": "我は、このゴーレムウォーを終わらせるために\n作られたｱ",
   "en": "I was created to put an end to the Golem\nWar.",
-  "zh": ""
+  "zh": "吾乃为了终结这场魔像战争\n而被制造出来的ｱ"
  },
  {
   "id": "MSG/MSG8800/D75B8",
@@ -179403,7 +179403,7 @@
   "offset": "1780",
   "jp": "最後のデビルゴーレム！",
   "en": "The Last Devil Golem!",
-  "zh": ""
+  "zh": "最后的恶魔魔像！"
  },
  {
   "id": "MSG/MSG8800/D75B9",
@@ -179412,7 +179412,7 @@
   "offset": "1798",
   "jp": "ゴーレムウォーを終わらせるため・・・？",
   "en": "To put an end to the Golem War...?",
-  "zh": ""
+  "zh": "为了终结魔像战争……？"
  },
  {
   "id": "MSG/MSG8800/D75BA",
@@ -179421,7 +179421,7 @@
   "offset": "17C0",
   "jp": "そうだ",
   "en": "Correct.",
-  "zh": ""
+  "zh": "正是"
  },
  {
   "id": "MSG/MSG8800/D75BB",
@@ -179430,7 +179430,7 @@
   "offset": "17C8",
   "jp": "我が#W僕#Rしもべ#rたる三体のデビルゴーレムが集めた\nエーテルを吸収しｱ",
   "en": "I absorb the Ether that my three Devil Golem\nservants gather for me...",
-  "zh": ""
+  "zh": "吸收身为吾之#W仆从#Rしもべ#r的三尊恶魔魔像所收集的\n以太ｱ"
  },
  {
   "id": "MSG/MSG8800/D75BC",
@@ -179439,7 +179439,7 @@
   "offset": "1816",
   "jp": "すべての物質を分解し、再構築すること",
   "en": "And use it to break down and then \nreconstruct all matter.",
-  "zh": ""
+  "zh": "将万物尽数分解，并重构"
  },
  {
   "id": "MSG/MSG8800/D75BD",
@@ -179448,7 +179448,7 @@
   "offset": "183C",
   "jp": "それこそが、我が使命",
   "en": "That is my purpose.",
-  "zh": ""
+  "zh": "这正是吾之使命"
  },
  {
   "id": "MSG/MSG8800/D75BE",
@@ -179457,7 +179457,7 @@
   "offset": "1852",
   "jp": "我がコマンド",
   "en": "That is my command.",
-  "zh": ""
+  "zh": "吾之指令"
  },
  {
   "id": "MSG/MSG8800/D75BF",
@@ -179466,7 +179466,7 @@
   "offset": "1860",
   "jp": "すべての物質を再構築・・・？",
   "en": "To reconstruct all matter...?",
-  "zh": ""
+  "zh": "重构所有的物质……？"
  },
  {
   "id": "MSG/MSG8800/D75C0",
@@ -179475,7 +179475,7 @@
   "offset": "187E",
   "jp": "それ・・・って・・・？",
   "en": "What does that mean...?",
-  "zh": ""
+  "zh": "那……到底是……？"
  },
  {
   "id": "MSG/MSG8800/D75C1",
@@ -179484,7 +179484,7 @@
   "offset": "1896",
   "jp": "いまから１０００年以上前ｱ",
   "en": "The age you call \"The Era of Magic.\" ",
-  "zh": ""
+  "zh": "距今一千多年以前ｱ"
  },
  {
   "id": "MSG/MSG8800/D75C2",
@@ -179493,7 +179493,7 @@
   "offset": "18B2",
   "jp": "お主たちが“魔導の時代”と呼ぶ古代の状態に\nすべての物質を再構築し、回帰させるのだ",
   "en": "I exist to return all matter to its original\nstate, as it was over a thousand years ago.",
-  "zh": ""
+  "zh": "将一切物质重构，回溯至\n汝等称之为“魔导时代”的远古状态"
  },
  {
   "id": "MSG/MSG8800/D75C3",
@@ -179502,7 +179502,7 @@
   "offset": "1906",
   "jp": "すべてを・・・回帰させる・・・？",
   "en": "Return... all matter...?!",
-  "zh": ""
+  "zh": "让一切……回归……？"
  },
  {
   "id": "MSG/MSG8800/D75C4",
@@ -179511,7 +179511,7 @@
   "offset": "1928",
   "jp": "・・・！",
   "en": "...!",
-  "zh": ""
+  "zh": "……！"
  },
  {
   "id": "MSG/MSG8800/D75C5",
@@ -179520,7 +179520,7 @@
   "offset": "1932",
   "jp": "おいおい、ちょっと待てよ！？",
   "en": "Hey, wait a minute!",
-  "zh": ""
+  "zh": "喂喂，等等啊！？"
  },
  {
   "id": "MSG/MSG8800/D75C6",
@@ -179529,7 +179529,7 @@
   "offset": "1950",
   "jp": "それって・・・\nいまいるオレたちの世界がぜんぶ・・・！",
   "en": "You mean everything in our world...",
-  "zh": ""
+  "zh": "那岂不是说……\n我们现在生活的整个世界……！"
  },
  {
   "id": "MSG/MSG8800/D75C7",
@@ -179538,7 +179538,7 @@
   "offset": "1988",
   "jp": "なくなるってことかよっ！？",
   "en": "Will disappear?!",
-  "zh": ""
+  "zh": "都会彻底消失吗！？"
  },
  {
   "id": "MSG/MSG8800/D75C8",
@@ -179547,7 +179547,7 @@
   "offset": "19A4",
   "jp": "なくなるのではない、回帰するのだ",
   "en": "It will not disappear. It will be returned.",
-  "zh": ""
+  "zh": "并非消失，而是回归"
  },
  {
   "id": "MSG/MSG8800/D75C9",
@@ -179556,7 +179556,7 @@
   "offset": "19C6",
   "jp": "バッカヤロー、そんなの同じだ！",
   "en": "Moron! Isn't that the same thing!?",
-  "zh": ""
+  "zh": "大笨蛋，那还不是一回事！"
  },
  {
   "id": "MSG/MSG8800/D75CA",
@@ -179565,7 +179565,7 @@
   "offset": "19E6",
   "jp": "#W何故#Rなにゆえ#r、拒む？",
   "en": "Why are you displeased?",
-  "zh": ""
+  "zh": "#W何故#Rなにゆえ#r、拒む？"
  },
  {
   "id": "MSG/MSG8800/D75CB",
@@ -179574,7 +179574,7 @@
   "offset": "1A08",
   "jp": "この大いなる破壊がなかったことになるのだぞ？",
   "en": "This destruction you see before you, it will\nnot have occurred.",
-  "zh": ""
+  "zh": "この大いなる破壊がなかったことになるのだぞ？"
  },
  {
   "id": "MSG/MSG8800/D75CC",
@@ -179583,7 +179583,7 @@
   "offset": "1A36",
   "jp": "それは、人の望んだことであろう",
   "en": "That is what humans desire.",
-  "zh": ""
+  "zh": "それは、人の望んだことであろう"
  },
  {
   "id": "MSG/MSG8800/D75CD",
@@ -179592,7 +179592,7 @@
   "offset": "1A56",
   "jp": "バカ言え！\nそりゃあ、１０００年前のやつらのｱ",
   "en": "No! Maybe a thousand years ago they did!",
-  "zh": ""
+  "zh": "バカ言え！\nそりゃあ、１０００年前のやつらのｱ"
  },
  {
   "id": "MSG/MSG8800/D75CE",
@@ -179601,7 +179601,7 @@
   "offset": "1A86",
   "jp": "とっくに、死んじまってる人間の望みだろっ！",
   "en": "But they're all dead now! We've changed!",
-  "zh": ""
+  "zh": "とっくに、死んじまってる人間の望みだろっ！"
  },
  {
   "id": "MSG/MSG8800/D75CF",
@@ -179610,7 +179610,7 @@
   "offset": "1AB2",
   "jp": "我はコマンドに従うのみ",
   "en": "I can only obey my command.",
-  "zh": ""
+  "zh": "我はコマンドに従うのみ"
  },
  {
   "id": "MSG/MSG8800/D75D0",
@@ -179619,7 +179619,7 @@
   "offset": "1ACA",
   "jp": "そのような事情には関与しない",
   "en": "Changes in circumstance mean nothing\nto me.",
-  "zh": ""
+  "zh": "そのような事情には関与しない"
  },
  {
   "id": "MSG/MSG8800/D75D1",
@@ -179628,7 +179628,7 @@
   "offset": "1AE8",
   "jp": "なっ・・・！",
   "en": "What...?!",
-  "zh": ""
+  "zh": "なっ・・・！"
  },
  {
   "id": "MSG/MSG8800/D75D2",
@@ -179637,7 +179637,7 @@
   "offset": "1AF6",
   "jp": "うそだろ・・・",
   "en": "How can you say that?!",
-  "zh": ""
+  "zh": "うそだろ・・・"
  },
  {
   "id": "MSG/MSG8800/D75D3",
@@ -179646,7 +179646,7 @@
   "offset": "1B06",
   "jp": "我がコマンドを解除しうるのは・・・\n我を創りし主のみ",
   "en": "Only my creator can rescind my command.",
-  "zh": ""
+  "zh": "我がコマンドを解除しうるのは・・・\n我を創りし主のみ"
  },
  {
   "id": "MSG/MSG8800/D75D4",
@@ -179655,7 +179655,7 @@
   "offset": "1B3C",
   "jp": "お前を作ったやつだぁ？",
   "en": "Your creator?",
-  "zh": ""
+  "zh": "お前を作ったやつだぁ？"
  },
  {
   "id": "MSG/MSG8800/D75D5",
@@ -179664,7 +179664,7 @@
   "offset": "1B54",
   "jp": "だから、そんなやつらはとっくに死んでんだよ！",
   "en": "He must've died long ago!",
-  "zh": ""
+  "zh": "だから、そんなやつらはとっくに死んでんだよ！"
  },
  {
   "id": "MSG/MSG8800/D75D6",
@@ -179673,7 +179673,7 @@
   "offset": "1B82",
   "jp": "やめろ、再構築とかそんなことしても、だれも\nもうよろこばねぇんだぞ",
   "en": "No one wants you to reconstruct anything\nanymore, okay?",
-  "zh": ""
+  "zh": "やめろ、再構築とかそんなことしても、だれも\nもうよろこばねぇんだぞ"
  },
  {
   "id": "MSG/MSG8800/D75D7",
@@ -179682,7 +179682,7 @@
   "offset": "1BC6",
   "jp": "コマンドは、絶対ぞ",
   "en": "My command is absolute.",
-  "zh": ""
+  "zh": "コマンドは、絶対ぞ"
  },
  {
   "id": "MSG/MSG8800/D75D8",
@@ -179691,7 +179691,7 @@
   "offset": "1BDA",
   "jp": "おい、待て！\n待てって、このわからずや！",
   "en": "Wait! Wait, you stupid....!",
-  "zh": ""
+  "zh": "おい、待て！\n待てって、このわからずや！"
  },
  {
   "id": "MSG/MSG8800/D75D9",
@@ -179700,7 +179700,7 @@
   "offset": "1C04",
   "jp": "コマンドは、絶対ぞ",
   "en": "My command is absolute.",
-  "zh": ""
+  "zh": "コマンドは、絶対ぞ"
  },
  {
   "id": "MSG/MSG8800/D75DA",
@@ -179709,7 +179709,7 @@
   "offset": "1C18",
   "jp": "ぐ・・・う・・・くっ・・・\n・・・う、腕がぁ・・・！！",
   "en": "Guh... uha... my arm...!",
-  "zh": ""
+  "zh": "ぐ・・・う・・・くっ・・・\n・・・う、腕がぁ・・・！！"
  },
  {
   "id": "MSG/MSG8800/D75DB",
@@ -179718,7 +179718,7 @@
   "offset": "1C50",
   "jp": "ぐぁぁぁぁ・・・くくっ・・・やば・・・い！\nな・・にか・・・吸い出されてる・・・！！",
   "en": "Guhaaaa! Kuhaaa...! This is... bad...!\nIt's coming out of my arm...",
-  "zh": ""
+  "zh": "ぐぁぁぁぁ・・・くくっ・・・やば・・・い！\nな・・にか・・・吸い出されてる・・・！！"
  },
  {
   "id": "MSG/MSG8800/D75DC",
@@ -179727,7 +179727,7 @@
   "offset": "1CA6",
   "jp": "くっ・・・“静”・・・で・・・",
   "en": "I need... to use \"Gaea\"...!",
-  "zh": ""
+  "zh": "くっ・・・“静”・・・で・・・"
  },
  {
   "id": "MSG/MSG8800/D75DD",
@@ -179736,7 +179736,7 @@
   "offset": "1CC6",
   "jp": "・・・あぐっぐぁ・・・ダメ・・・だ・・・",
   "en": "...Guha... no... good....!",
-  "zh": ""
+  "zh": "・・・あぐっぐぁ・・・ダメ・・・だ・・・"
  },
  {
   "id": "MSG/MSG8800/D75DE",
@@ -179745,7 +179745,7 @@
   "offset": "1CF0",
   "jp": "ぐあぁぁぁ・・・あぁぁぁぁ・・・！",
   "en": "Guhaaaaaaaaa..... aahhhhhhhh!",
-  "zh": ""
+  "zh": "ぐあぁぁぁ・・・あぁぁぁぁ・・・！"
  },
  {
   "id": "MSG/MSG8800/D75DF",
@@ -179754,7 +179754,7 @@
   "offset": "1D14",
   "jp": "こんな・・・うぐっ・・・こんなのって・・・！",
   "en": "This can't be... it can't be...!",
-  "zh": ""
+  "zh": "こんな・・・うぐっ・・・こんなのって・・・！"
  },
  {
   "id": "MSG/MSG8800/D75E0",
@@ -179763,7 +179763,7 @@
   "offset": "1D42",
   "jp": "くそおおおおおおおぉぉぉぉぉぉぉぉぉぉぉ！！",
   "en": "Damn!! Ahaaaaaaaa!",
-  "zh": ""
+  "zh": "くそおおおおおおおぉぉぉぉぉぉぉぉぉぉぉ！！"
  },
  {
   "id": "MSG/MSG8800/D75E1",
@@ -179772,7 +179772,7 @@
   "offset": "1D70",
   "jp": "腕が、腕がぁああああああああーーーーー！！！",
   "en": "My arm... my arm!!",
-  "zh": ""
+  "zh": "腕が、腕がぁああああああああーーーーー！！！"
  },
  {
   "id": "MSG/MSG8800/D75E2",
@@ -179781,7 +179781,7 @@
   "offset": "1D9E",
   "jp": "我が名は、ブレインオブヘッド！",
   "en": "My name is Infinity!",
-  "zh": ""
+  "zh": "我が名は、ブレインオブヘッド！"
  },
  {
   "id": "MSG/MSG8800/D75E3",
@@ -179790,7 +179790,7 @@
   "offset": "1DBE",
   "jp": "ここに、覚醒す！！",
   "en": "I shall awaken!",
-  "zh": ""
+  "zh": "ここに、覚醒す！！"
  },
  {
   "id": "MSG/MSG8900/D9490",
