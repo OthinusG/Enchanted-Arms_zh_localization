@@ -116736,7 +116736,7 @@
   "offset": "364B8",
   "jp": "もし、このシティの伝承も、なんらかの史実を\nモチーフにしているとしたらｱ",
   "en": "If there is some truth to this tale, too,\nthen maybe...",
-  "zh": ""
+  "zh": "如果说，这座都市的传说也是以某种史实\n为原型的话……"
  },
  {
   "id": "MSG/MSG6200/987F7",
@@ -116745,7 +116745,7 @@
   "offset": "36502",
   "jp": "この地域のどこかに、全く未知の強大な\nゴーレムが眠っているかもしれないんだよ？",
   "en": "Just maybe Golems of amazing power are\nstill slumbering nearby?",
-  "zh": ""
+  "zh": "那在这片区域的某处，说不定就沉睡着\n完全未知的强力魔像呢？"
  },
  {
   "id": "MSG/MSG6200/987F8",
@@ -116754,7 +116754,7 @@
   "offset": "36552",
   "jp": "どうだい、ロマンを感じないか？\nわくわくしてこないか？",
   "en": "Well? Pretty epic, huh? Does that prospect\nexcite you as much as it does me?",
-  "zh": ""
+  "zh": "怎么样，不觉得很浪漫吗？\n不觉得兴奋起来了吗？"
  },
  {
   "id": "MSG/MSG6200/987FA",
@@ -116763,7 +116763,7 @@
   "offset": "3658A",
   "jp": "必死なんだろ、みんな\nこんな砂漠で生活しなきゃいけないんだし",
   "en": "I guess everyone has more important things\nto worry about, living in the desert.",
-  "zh": ""
+  "zh": "大家也都在拼命求生吧，\n毕竟必须在这片沙漠里生活啊。"
  },
  {
   "id": "MSG/MSG6200/987FB",
@@ -116772,7 +116772,7 @@
   "offset": "365C8",
   "jp": "・・・それはわかるけどさ\n一つのシティを形成するほど人がいるのにｱ",
   "en": "...I know, but even though there are enough\npeople for this place to be called a City...",
-  "zh": ""
+  "zh": "……这我明白，可是\n明明聚集了足以形成一座都市的人……"
  },
  {
   "id": "MSG/MSG6200/987FC",
@@ -116781,7 +116781,7 @@
   "offset": "3660C",
   "jp": "だれもわかってくれないなんて\n・・・どうかしてるのは、僕の方なのかな？",
   "en": "Not a single one of them seems interested!\nMaybe there is something wrong with me?",
-  "zh": ""
+  "zh": "却完全没有人能理解我……\n不对劲的难道是我吗？"
  },
  {
   "id": "MSG/MSG6200/98805",
@@ -116790,7 +116790,7 @@
   "offset": "36654",
   "jp": "う～・・・ないのぉ・・・\n・・・やっぱ、ないのぉ・・・",
   "en": "Oh... I can't find it...! Where is it?!",
-  "zh": ""
+  "zh": "唔～……没有啊……\n……果然还是没有啊……"
  },
  {
   "id": "MSG/MSG6200/98806",
@@ -116799,7 +116799,7 @@
   "offset": "3668C",
   "jp": "あ～！　そこ踏んだらあか～ん！",
   "en": "Hey! Don't trample over there!",
-  "zh": ""
+  "zh": "啊～！踩到那里可不行啊～！"
  },
  {
   "id": "MSG/MSG6200/98807",
@@ -116808,7 +116808,7 @@
   "offset": "366AC",
   "jp": "わっ！%M624650",
   "en": "Wah!%M624650",
-  "zh": ""
+  "zh": "哇！%M624650"
  },
  {
   "id": "MSG/MSG6200/98808",
@@ -116817,7 +116817,7 @@
   "offset": "366C4",
   "jp": "なにしてるの？%M624655",
   "en": "What're you doing?%M624655",
-  "zh": ""
+  "zh": "你在干什么呀？%M624655"
  },
  {
   "id": "MSG/MSG6200/9880A",
@@ -116826,7 +116826,7 @@
   "offset": "366E4",
   "jp": "わっ！　・・・ごめん\n",
   "en": "Wah!... Sorry.",
-  "zh": ""
+  "zh": "哇！……抱歉。"
  },
  {
   "id": "MSG/MSG6200/9880B",
@@ -116835,7 +116835,7 @@
   "offset": "366FC",
   "jp": "はぁ～・・・発掘したとこと、まだのとこが\nわからへんようになってまうやろ？",
   "en": "Hah... I'll lose track of which places\nI've already checked!",
-  "zh": ""
+  "zh": "哈啊～……这样不就分不清哪里挖过、\n哪里还没挖过了吗？"
  },
  {
   "id": "MSG/MSG6200/9880C",
@@ -116844,7 +116844,7 @@
   "offset": "36748",
   "jp": "じゃませんとってや、あんちゃん\n",
   "en": "You're in my way, come on, get lost!",
-  "zh": ""
+  "zh": "别来碍事啊，小哥。"
  },
  {
   "id": "MSG/MSG6200/9880D",
@@ -116853,7 +116853,7 @@
   "offset": "3676A",
   "jp": "・・・へ～い\n",
   "en": "...Okay, okay.",
-  "zh": ""
+  "zh": "……好～的。"
  },
  {
   "id": "MSG/MSG6200/9880F",
@@ -116862,7 +116862,7 @@
   "offset": "3677A",
   "jp": "なにしてるの？\n・・・探し物？",
   "en": "What're you doing? Looking for something?",
-  "zh": ""
+  "zh": "你在干什么？\n……在找东西吗？"
  },
  {
   "id": "MSG/MSG6200/98810",
@@ -116871,7 +116871,7 @@
   "offset": "3679A",
   "jp": "ちゃうちゃう、え～っと・・・\nちゃうことないけど、ちゃうわぃ！",
   "en": "No, no! Well, kinda, but no!",
-  "zh": ""
+  "zh": "不是不是，呃……\n倒也不能说不是，但不是啦！"
  },
  {
   "id": "MSG/MSG6200/98811",
@@ -116880,7 +116880,7 @@
   "offset": "367DA",
   "jp": "わいかて、発掘してるんや！\nじゃませんとってや、あんちゃん",
   "en": "I'm excavating! Now get out of my way!",
-  "zh": ""
+  "zh": "俺也是在发掘啊！\n别来碍事，小哥。"
  },
  {
   "id": "MSG/MSG6200/98812",
@@ -116889,7 +116889,7 @@
   "offset": "36816",
   "jp": "・・・ほ～い\n",
   "en": "...Okay, okay.",
-  "zh": ""
+  "zh": "……好～嘞。"
  },
  {
   "id": "MSG/MSG6200/9881E",
@@ -116898,7 +116898,7 @@
   "offset": "36826",
   "jp": "富豪さまのところから盗みを働くとは\nふとどきなやつめ！",
   "en": "Whoever robbed Fubial is certainly a bold\none!",
-  "zh": ""
+  "zh": "居然敢去富豪老爷家里偷东西，\n真是个无法无天的家伙！"
  },
  {
   "id": "MSG/MSG6200/9881F",
@@ -116907,7 +116907,7 @@
   "offset": "3685E",
   "jp": "わしが見つけ出して、とっちめてくれるわ！\n",
   "en": "I'm going to find them and take them to\nhim!",
-  "zh": ""
+  "zh": "等我把那家伙揪出来，一定要好好教训一顿！"
  },
  {
   "id": "MSG/MSG6200/98820",
@@ -116916,7 +116916,7 @@
   "offset": "3688A",
   "jp": "・・・魔導楽器といえば、犬っころと\n一緒にいるガキがほしがっとったがｱ",
   "en": "...That kid with the dog was after the\nMagic Instrument, actually.",
-  "zh": ""
+  "zh": "……说起魔导乐器，跟小狗\n呆在一起的那个小鬼倒是很想要来着……"
  },
  {
   "id": "MSG/MSG6200/98821",
@@ -116925,7 +116925,7 @@
   "offset": "368D2",
   "jp": "あのガキがそんな大それたことするとも\n思えんしなぁ",
   "en": "But I can't see a brat like that pulling\noff such a job...",
-  "zh": ""
+  "zh": "不过那个小鬼怎么看也不像是\n能干出这种大案子的人啊。"
  },
  {
   "id": "MSG/MSG6200/98823",
@@ -116934,7 +116934,7 @@
   "offset": "36906",
   "jp": "ん？犬っころとガキか？\nあいつらはいつもジャンク山におるぞ%F",
   "en": "What? The kid with the dog? You can find\nthem at the junk mountain, most of the time.%F",
-  "zh": ""
+  "zh": "嗯？小狗和小鬼吗？\n那帮家伙总是在垃圾山那边哦。%F"
  },
  {
   "id": "MSG/MSG6200/98828",
@@ -116943,7 +116943,7 @@
   "offset": "36946",
   "jp": "え？\n魔導楽器が富豪のところから盗まれたって？",
   "en": "What? The Magic Instrument was stolen from\nFubial's place?",
-  "zh": ""
+  "zh": "咦？\n魔导乐器从富豪家里被偷走了？"
  },
  {
   "id": "MSG/MSG6200/98829",
@@ -116952,7 +116952,7 @@
   "offset": "36976",
   "jp": "べつに、いーじゃん\nあの人、しこたま金もってんだし・・・",
   "en": "Well, so what? He's got bags of money.",
-  "zh": ""
+  "zh": "也没什么不好的嘛，\n反正那家伙钱多得花不完……"
  },
  {
   "id": "MSG/MSG6200/9882A",
@@ -116961,7 +116961,7 @@
   "offset": "369B0",
   "jp": "富豪は、シティの南側のでかい家に住んでるよ\nあとでアタシも野次馬に行ってみるかねぇ",
   "en": "He lives in that massive house in the south\nof town. I wish I had a place like that!",
-  "zh": ""
+  "zh": "那个富豪住在都市南边的大房子里哦。\n待会儿我也去凑个热闹看看好啦。"
  },
  {
   "id": "MSG/MSG6200/9882D",
@@ -116970,7 +116970,7 @@
   "offset": "36A04",
   "jp": "にしても、ざまぁみろよねぇ\n・・・日ごろいい思いしてるんだしｱ",
   "en": "Well, serves him right... there can't be\nmuch that rains on his parade.",
-  "zh": ""
+  "zh": "不过话说回来，真是活该呀。\n……谁叫他平时过得那么滋润呢。"
  },
  {
   "id": "MSG/MSG6200/9882E",
@@ -116979,7 +116979,7 @@
   "offset": "36A44",
   "jp": "たまには、痛い目みればいいのよ\n",
   "en": "Everyone deserves a little suffering every\nnow and then, yeah?",
-  "zh": ""
+  "zh": "偶尔吃点苦头也是应该的嘛。"
  },
  {
   "id": "MSG/MSG6200/98832",
@@ -116988,7 +116988,7 @@
   "offset": "36A66",
   "jp": "へぇ、富豪さんのところから、\n古代のお宝がねぇ",
   "en": "An ancient treasure taken from Fubial's\nplace?",
-  "zh": ""
+  "zh": "哎呀，古代宝物居然从富豪先生家里……"
  },
  {
   "id": "MSG/MSG6200/98833",
@@ -116997,7 +116997,7 @@
   "offset": "36A96",
   "jp": "え、ユウキちゃんが犯人だって！？\nそんなわけあるかい",
   "en": "And Yuki was the culprit?! No, that's\nimpossible!",
-  "zh": ""
+  "zh": "诶，犯人是勇树酱！？\n怎么可能会有这种事嘛。"
  },
  {
   "id": "MSG/MSG6200/98834",
@@ -117006,7 +117006,7 @@
   "offset": "36ACC",
   "jp": "お兄ちゃんなんだから、なんとかしてあげなさいな",
   "en": "You're her brother! Do something!",
-  "zh": ""
+  "zh": "你可是当哥哥的，快想想办法帮帮她呀"
  },
  {
   "id": "MSG/MSG6200/9883C",
@@ -117015,7 +117015,7 @@
   "offset": "36AFC",
   "jp": "あの子は、そんなことする子じゃないよ\nきっと、なにかの間違いなんだ・・・",
   "en": "She'd never do anything like that! There has\nto be some mistake!",
-  "zh": ""
+  "zh": "那孩子绝不会做出那种事的\n一定是有什么误会……"
  },
  {
   "id": "MSG/MSG6200/98841",
@@ -117024,7 +117024,7 @@
   "offset": "36B46",
   "jp": "富豪のところから、お宝を盗んだの\nユウキちゃんが疑われてるんですってね",
   "en": "I hear that Yuki is being blamed for the\ntheft from Fubial's place.",
-  "zh": ""
+  "zh": "听说从富豪那里偷走宝物的嫌疑人\n落到了勇树小姑娘头上呢"
  },
  {
   "id": "MSG/MSG6200/98842",
@@ -117033,7 +117033,7 @@
   "offset": "36B8E",
   "jp": "どうにか、疑いを晴らしてあげたいけど\n・・・なにか、いい手はないかしら？",
   "en": "Please, clear her name... there has to be\nsome way, right?",
-  "zh": ""
+  "zh": "总想替她洗清嫌疑\n……可不知有没有什么好办法呢？"
  },
  {
   "id": "MSG/MSG6200/98846",
@@ -117042,7 +117042,7 @@
   "offset": "36BD8",
   "jp": "・・・なんとか、してあげられないかしらね\n",
   "en": "...Is there nothing that can be done...?",
-  "zh": ""
+  "zh": "……就真没有什么办法能帮帮她吗"
  },
  {
   "id": "MSG/MSG6200/9884B",
@@ -117051,7 +117051,7 @@
   "offset": "36C04",
   "jp": "へぇ～、犯人さがしかい\n・・・ふ～ん",
   "en": "You're searching for a criminal, are\nyou? Well...",
-  "zh": ""
+  "zh": "嘿～找犯人是吧\n……哼～嗯"
  },
  {
   "id": "MSG/MSG6200/9884C",
@@ -117060,7 +117060,7 @@
   "offset": "36C2A",
   "jp": "高台の上にいる奴が、なんか見てるかもな\nアイツ、いっつもあそこにいるから",
   "en": "The guy up on the lookout may have seen\nsomething. He's always up there.",
-  "zh": ""
+  "zh": "高台上的那家伙说不定看到了什么\n那家伙一直都待在那儿"
  },
  {
   "id": "MSG/MSG6200/9884D",
@@ -117069,7 +117069,7 @@
   "offset": "36C74",
   "jp": "前にボヤがあった時も、アイツが真っ先に\nみつけたんだぜ%F",
   "en": "He's solved troubles for us in the past.%F",
-  "zh": ""
+  "zh": "之前发生小火灾的时候，也是那家伙最先\n发现的呢%F"
  },
  {
   "id": "MSG/MSG6200/98850",
@@ -117078,7 +117078,7 @@
   "offset": "36CB0",
   "jp": "おいおい、俺はなにもしらねぇよ\n俺を厄介ごとに巻き込まないでくれよな",
   "en": "I didn't do anything! Don't get me\ninvolved in anything now, okay?",
-  "zh": ""
+  "zh": "喂喂，我可什么都不知道啊\n别把老子卷进麻烦事里啊"
  },
  {
   "id": "MSG/MSG6200/98855",
@@ -117087,7 +117087,7 @@
   "offset": "36CF6",
   "jp": "富豪さまのところから、魔導楽器が\n盗まれたそうだな",
   "en": "The Magic Instrument was stolen from\nFubial's place?",
-  "zh": ""
+  "zh": "听说富豪老爷那里的魔导乐器\n被偷走了啊"
  },
  {
   "id": "MSG/MSG6200/98856",
@@ -117096,7 +117096,7 @@
   "offset": "36D2A",
   "jp": "・・・チッ\n討伐隊に、志願しようと思ってたのによ",
   "en": "Damn... I was going to sign up with the\nGolem Strikers, too.",
-  "zh": ""
+  "zh": "……切\n亏我还想着去自愿报名参加讨伐队呢"
  },
  {
   "id": "MSG/MSG6200/9885A",
@@ -117105,7 +117105,7 @@
   "offset": "36D5C",
   "jp": "せっかく、ひとかせぎできるはずだったのに\n・・・犯人、見つけたらただじゃおかねぇ",
   "en": "I was hoping to strike the big time... I\nhope they catch the culprit!",
-  "zh": ""
+  "zh": "难得有机会能大赚一笔的\n……要是让我逮到犯人，绝轻饶不了他"
  },
  {
   "id": "MSG/MSG6200/9885F",
@@ -117114,7 +117114,7 @@
   "offset": "36DAE",
   "jp": "・・・なんか大人が言ってたけど\n富豪さんの宝物をぬすんだ犯人だってｱ",
   "en": "...I've heard adults saying that Yuki\nstole something from Fubial.",
-  "zh": ""
+  "zh": "……刚才好像听大人们说\n那个偷了富豪宝物的犯人居然是……"
  },
  {
   "id": "MSG/MSG6200/98860",
@@ -117123,7 +117123,7 @@
   "offset": "36DF4",
   "jp": "ユウキねぇちゃんが、疑われてるって！",
   "en": "I guess they must be talking about another\nYuki, yeah?",
-  "zh": ""
+  "zh": "居然在怀疑勇树姐姐！"
  },
  {
   "id": "MSG/MSG6200/98861",
@@ -117132,7 +117132,7 @@
   "offset": "36E1A",
   "jp": "ユウキねぇちゃんが、そんなことするわけない！\n",
   "en": "The Yuki I know would never do that!",
-  "zh": ""
+  "zh": "勇树姐姐绝不可能做出那种事！"
  },
  {
   "id": "MSG/MSG6200/98869",
@@ -117141,7 +117141,7 @@
   "offset": "36E4A",
   "jp": "ユウキねぇちゃんがそんなことするわけない！\n僕は信じないからな！",
   "en": "Yuki would never do something like that!\nI'll never believe it!",
-  "zh": ""
+  "zh": "勇树姐姐绝不可能做出那种事！\n我才不会相信呢！"
  },
  {
   "id": "MSG/MSG6200/9886E",
@@ -117150,7 +117150,7 @@
   "offset": "36E8C",
   "jp": "なんだ？　フバイル様に聞きたいことでも\nあるのか？",
   "en": "What? You want to talk to Lord Fubial too,\ndo you?",
-  "zh": ""
+  "zh": "怎么？你也有什么事情\n想问富拜尔大人吗？"
  },
  {
   "id": "MSG/MSG6200/9886F",
@@ -117159,7 +117159,7 @@
   "offset": "36EC0",
   "jp": "フバイル様はお屋敷の中にいらっしゃる\n失礼のないようにな",
   "en": "He's inside the mansion at the moment.\nJust watch your manners, okay?",
-  "zh": ""
+  "zh": "富拜尔大人正在宅邸里\n注意可别失了礼数"
  },
  {
   "id": "MSG/MSG6200/98873",
@@ -117168,7 +117168,7 @@
   "offset": "36EFA",
   "jp": "フバイル様はお屋敷の中にいらっしゃる\n失礼のないようにな",
   "en": "He's inside the mansion at the moment.\nJust watch your manners, okay?",
-  "zh": ""
+  "zh": "富拜尔大人正在宅邸里\n注意可别失了礼数"
  },
  {
   "id": "MSG/MSG6200/98878",
@@ -117177,7 +117177,7 @@
   "offset": "36F34",
   "jp": "やれやれ・・・また、もめごとかい",
   "en": "More trouble, from the sound of it.",
-  "zh": ""
+  "zh": "哎呀呀……又起纠纷了吗"
  },
  {
   "id": "MSG/MSG6200/98879",
@@ -117186,7 +117186,7 @@
   "offset": "36F56",
   "jp": "ほんとに、なんの偶然か知らないけど\nユウキが帰ってくると、ろくなことがない",
   "en": "Coincidence, maybe, but there's only been\ntrouble since Yuki came back.",
-  "zh": ""
+  "zh": "真不知道该说是巧合还是什么\n只要勇树一回来，准没好事发生"
  },
  {
   "id": "MSG/MSG6200/9887D",
@@ -117195,7 +117195,7 @@
   "offset": "36FA2",
   "jp": "あんなトラブルメーカー\n世界広しといえども、あいつくらいなもんさ",
   "en": "There can't be many trouble makers of her\ncaliber, even in the entire world.",
-  "zh": ""
+  "zh": "像那种惹祸精\n就算放眼全世界，恐怕也就只有她一个了吧"
  },
  {
   "id": "MSG/MSG6200/98882",
@@ -117204,7 +117204,7 @@
   "offset": "36FE4",
   "jp": "へぇ～、富豪のところから古代のお宝がねぇ",
   "en": "An ancient treasure was swiped from Fubial's\nmansion, I heard.",
-  "zh": ""
+  "zh": "嘿～从富豪那里把古代宝物偷走了啊"
  },
  {
   "id": "MSG/MSG6200/98883",
@@ -117213,7 +117213,7 @@
   "offset": "3700E",
   "jp": "あんだけ厳重な警備してて、盗まれるたぁ\nずいぶん、間抜けな話だな",
   "en": "I don't know how anyone got anything out of\nthat place, it's sealed up so tight!",
-  "zh": ""
+  "zh": "那里的戒备明明那么森严居然还会被偷\n还真是够蠢的啊"
  },
  {
   "id": "MSG/MSG6200/98887",
@@ -117222,7 +117222,7 @@
   "offset": "37050",
   "jp": "ここじゃ盗みなんざ、しょっちゅうじゃ\nいちいち、さわいでいられるか",
   "en": "If everyone got riled up every time there\nwas a robbery here, nothing would get done.",
-  "zh": ""
+  "zh": "在这里偷窃根本就是家常便饭\n哪能次次都大惊小怪的"
  },
  {
   "id": "MSG/MSG6200/9888C",
@@ -117231,7 +117231,7 @@
   "offset": "37094",
   "jp": "くっ、すばしこい小娘め！",
   "en": "That cunning little vixen!",
-  "zh": ""
+  "zh": "可恶，好个身手敏捷的小丫头！"
  },
  {
   "id": "MSG/MSG6200/9888D",
@@ -117240,7 +117240,7 @@
   "offset": "370AE",
   "jp": "ジャンク山の方に向かったのは\nわかったんじゃがｱ",
   "en": "I chased her as far as the junk mountain...",
-  "zh": ""
+  "zh": "虽然老夫知道她是往\n废品山的方向跑了……"
  },
  {
   "id": "MSG/MSG6200/9888E",
@@ -117249,7 +117249,7 @@
   "offset": "370E0",
   "jp": "見失ってしまったわ！\n",
   "en": "But she gave me the slip! Bah!",
-  "zh": ""
+  "zh": "可还是给跟丢了！"
  },
  {
   "id": "MSG/MSG6200/98896",
@@ -117258,7 +117258,7 @@
   "offset": "370F8",
   "jp": "くそぅ、富豪さまに恩を売る\n千載一遇のチャンスなのに・・・",
   "en": "This was the perfect chance to get on\nFubial's good side, too...",
-  "zh": ""
+  "zh": "可恶啊，这本该是让富豪老爷欠下人情的\n千载难逢的好机会啊……"
  },
  {
   "id": "MSG/MSG6200/9889B",
@@ -117267,7 +117267,7 @@
   "offset": "37134",
   "jp": "へぇ～、あのユウキって子が犯人なんだぁ",
   "en": "That girl called Yuki was the thief after\nall, huh?",
-  "zh": ""
+  "zh": "嘿～原来那个叫勇树的孩子就是犯人啊"
  },
  {
   "id": "MSG/MSG6200/9889C",
@@ -117276,7 +117276,7 @@
   "offset": "3715C",
   "jp": "手くせの悪い子だねぇ\n・・・ま、アタシにゃ関係ないけどね",
   "en": "Stealing is a bad habit... glad I've got\nnothing to do with her.",
-  "zh": ""
+  "zh": "真是有小偷小摸毛病的孩子啊\n……算了，反正跟我没关系就是了"
  },
  {
   "id": "MSG/MSG6200/988A0",
@@ -117285,7 +117285,7 @@
   "offset": "37196",
   "jp": "富豪のことだから、あの子捕まったら\nどんな目に合わされちゃうのかねぇ",
   "en": "Who knows what Fubial will do with her once\nhe captures her.",
-  "zh": ""
+  "zh": "毕竟对方可是富豪，要是那孩子被抓住\n不知道会遭到什么样的处置呢"
  },
  {
   "id": "MSG/MSG6200/988A1",
@@ -117294,7 +117294,7 @@
   "offset": "371DC",
   "jp": "・・・ま、アタシにゃ関係ないけどね\n",
   "en": "...Glad I've not nothing to do with her.",
-  "zh": ""
+  "zh": "……算了，反正跟我没关系就是了"
  },
  {
   "id": "MSG/MSG6200/988A5",
@@ -117303,7 +117303,7 @@
   "offset": "37202",
   "jp": "富豪の宝の地図を盗んだの\nユウキちゃんが犯人だったんだって？",
   "en": "Yuki stole something or other from Fubial,\ndid she?",
-  "zh": ""
+  "zh": "听说偷走富豪藏宝图的犯人\n居然是勇树？"
  },
  {
   "id": "MSG/MSG6200/988A6",
@@ -117312,7 +117312,7 @@
   "offset": "37240",
   "jp": "お兄ちゃんなんだから\nなんとかしてあげなさいな",
   "en": "You're her brother! Do something, you hear\nme?",
-  "zh": ""
+  "zh": "你既然是当哥哥的\n就赶紧帮她想想办法啊"
  },
  {
   "id": "MSG/MSG6200/988AA",
@@ -117321,7 +117321,7 @@
   "offset": "37270",
   "jp": "なにかの間違いじゃないのかい？\n",
   "en": "Are you sure this isn't a mistake?",
-  "zh": ""
+  "zh": "是不是有什么误会啊？"
  },
  {
   "id": "MSG/MSG6200/988AB",
@@ -117330,7 +117330,7 @@
   "offset": "37292",
   "jp": "そこまで無茶する子だとは思わなかったけど\n・・・どうしちゃったのかねぇ",
   "en": "I can't imagine Yuki doing something so\nreckless... honestly...",
-  "zh": ""
+  "zh": "真没想到她是会做出那种胡来的事的孩子\n……到底是怎么了呢"
  },
  {
   "id": "MSG/MSG6200/988AF",
@@ -117339,7 +117339,7 @@
   "offset": "372DA",
   "jp": "やっぱりユウキちゃんが犯人だったのね\n・・・おそろしい子",
   "en": "I knew it... Yuki was the thief! Quite a\ndaring move.",
-  "zh": ""
+  "zh": "果然勇树就是犯人呢\n……真是个可怕的孩子"
  },
  {
   "id": "MSG/MSG6200/988B0",
@@ -117348,7 +117348,7 @@
   "offset": "37314",
   "jp": "せめて、あんまりひどい目にあわなくて\n済むように祈るしかないわね・・・",
   "en": "Now we can only pray that she isn't\npunished too harshly for it...",
-  "zh": ""
+  "zh": "现在也只能祈祷她\n不会落得太悲惨的下场了……"
  },
  {
   "id": "MSG/MSG6200/988B4",
@@ -117357,7 +117357,7 @@
   "offset": "3735C",
   "jp": "お兄さんが死んでから一人で生きてきたから\nそんなことまで覚えちゃったのね",
   "en": "She's been alone since her brother died,\nbut just look how low she's stooped now...",
-  "zh": ""
+  "zh": "哥哥死了之后她一直一个人生活\n居然连那种事都学会了呢"
  },
  {
   "id": "MSG/MSG6200/988B5",
@@ -117366,7 +117366,7 @@
   "offset": "373A6",
   "jp": "もう少し賢いやり方のできる子だと\n思ってたんだけど・・・",
   "en": "I thought she had a little more intelligence\nthan that, to be honest.",
-  "zh": ""
+  "zh": "本以为她会是个\n做事更有分寸的孩子呢……"
  },
  {
   "id": "MSG/MSG6200/988B9",
@@ -117375,7 +117375,7 @@
   "offset": "373E0",
   "jp": "ユウキが犯人だって？\n富豪のところから、なんか盗み出したのって",
   "en": "Yuki was the thief? She took something from\nFubial's place, huh?",
-  "zh": ""
+  "zh": "勇树是犯人？\n就是从富豪那里偷出东西的那个？"
  },
  {
   "id": "MSG/MSG6200/988BA",
@@ -117384,7 +117384,7 @@
   "offset": "37420",
   "jp": "バカなことしたもんだね、まったく\nまぁ、どうなろうと知ったこっちゃねぇが",
   "en": "Foolish girl. Ah well, not that I care...",
-  "zh": ""
+  "zh": "真是做了件蠢事啊，真是的\n不过嘛，她会怎么样才不关我的事呢"
  },
  {
   "id": "MSG/MSG6200/988BE",
@@ -117393,7 +117393,7 @@
   "offset": "3746A",
   "jp": "昔はもっと大人しいやつだったんだけどな\n・・・いつもアニキの後に引っ付いててさ",
   "en": "She was so calm and quiet back when her\nbrother was alive.",
-  "zh": ""
+  "zh": "以前她明明是个更文静的家伙啊\n……总是跟在哥哥屁股后面"
  },
  {
   "id": "MSG/MSG6200/988BF",
@@ -117402,7 +117402,7 @@
   "offset": "374BA",
   "jp": "まぁ、俺には関係ないけどな\n犯人は見つかったわけだし",
   "en": "Nothing to do with me, anyway, and I guess\nthat means you've found your criminal.",
-  "zh": ""
+  "zh": "嘛，反正跟我没关系就是了\n而且犯人也已经找到了"
  },
  {
   "id": "MSG/MSG6200/988C3",
@@ -117411,7 +117411,7 @@
   "offset": "374F0",
   "jp": "あのクソガキ！\nとっ捕まえて、富豪さまの前に引っ立ててやる！",
   "en": "That dumb kid! I'm going to capture her and\ndrag her before Fubial myself!",
-  "zh": ""
+  "zh": "那个臭小鬼！\n我要把她揪出来，押到富豪大人面前去！"
  },
  {
   "id": "MSG/MSG6200/988C4",
@@ -117420,7 +117420,7 @@
   "offset": "3752E",
   "jp": "報奨金もがっぽり、討伐隊にも採用確定\n・・・一石二鳥だぜ",
   "en": "I'll get the reward and a spot in the Golem\nStrikers... two birds with one stone!",
-  "zh": ""
+  "zh": "奖金大把大把地拿，讨伐队也稳进\n……真是一石二鸟啊"
  },
  {
   "id": "MSG/MSG6200/988C8",
@@ -117429,7 +117429,7 @@
   "offset": "37568",
   "jp": "あのガキがそっくりお宝に見えてきた・・・\nよ～し、みてろよ～",
   "en": "That Yuki is simply another treasure to me\nnow! Time to bag it!",
-  "zh": ""
+  "zh": "那个小鬼看着简直就跟宝物一模一样了……\n好～咧，给我等着瞧吧～"
  },
  {
   "id": "MSG/MSG6200/988CD",
@@ -117438,7 +117438,7 @@
   "offset": "375A6",
   "jp": "ユウキおねぇちゃんが犯人だったなんて・・・\nそんな・・・まさか・・・",
   "en": "Yuki is a thief...? I can't... can't believe\nit...!",
-  "zh": ""
+  "zh": "勇树姐姐居然是犯人……\n怎么会……不可能的……"
  },
  {
   "id": "MSG/MSG6200/988D2",
@@ -117447,7 +117447,7 @@
   "offset": "375EC",
   "jp": "ありえないよ！\n・・・きっとなにかの間違いだ！",
   "en": "It's impossible...! Someone has made a\nmistake, somewhere!",
-  "zh": ""
+  "zh": "不可能的！\n……肯定是有什么误会！"
  },
  {
   "id": "MSG/MSG6200/988D7",
@@ -117456,7 +117456,7 @@
   "offset": "3761C",
   "jp": "くっ！\n・・・俺もあのガキを捕まえに行きたいがｱ",
   "en": "Bah! I want to get after that little thief\ntoo...",
-  "zh": ""
+  "zh": "可恶！\n……我也想去把那个小鬼给抓回来啊"
  },
  {
   "id": "MSG/MSG6200/988D8",
@@ -117465,7 +117465,7 @@
   "offset": "3764E",
   "jp": "おカシラには持ち場を離れるなと言われているし\n・・・どうしたもんか・・・",
   "en": "But the Boss told me not to leave my post...\nNot much I can do...",
-  "zh": ""
+  "zh": "但老大吩咐过不准离开岗位\n……这该如何是好啊……"
  },
  {
   "id": "MSG/MSG6200/988DC",
@@ -117474,7 +117474,7 @@
   "offset": "37698",
   "jp": "せっかくの汚名返上のチャンス・・・\nでも、命令違反はできないし・・・",
   "en": "This was my chance to take back my good\nname... but I can't ignore orders.",
-  "zh": ""
+  "zh": "难得有个挽回名誉的机会……\n但是，又不能违抗命令……"
  },
  {
   "id": "MSG/MSG6200/988E1",
@@ -117483,7 +117483,7 @@
   "offset": "376DE",
   "jp": "へぇ、ユウキがねぇ\nやれやれ・・・",
   "en": "Yuki, was it. Well, well, well.",
-  "zh": ""
+  "zh": "呵，竟然是勇树啊\n哎呀哎呀……"
  },
  {
   "id": "MSG/MSG6200/988E2",
@@ -117492,7 +117492,7 @@
   "offset": "37702",
   "jp": "今度は盗みかい・・・\nそれも、富豪のとこから・・・",
   "en": "So now she's taken up stealing... and from\nFubial, too.",
-  "zh": ""
+  "zh": "这回居然去偷东西了啊……\n而且，还是从富豪那里偷的……"
  },
  {
   "id": "MSG/MSG6200/988E3",
@@ -117501,7 +117501,7 @@
   "offset": "37736",
   "jp": "・・・どうして、あの子はあんなに\nなっちまったかねぇ",
   "en": "...What made her do it, I wonder?",
-  "zh": ""
+  "zh": "……那孩子怎么会\n变成这副模样呢"
  },
  {
   "id": "MSG/MSG6200/988EB",
@@ -117510,7 +117510,7 @@
   "offset": "3776C",
   "jp": "あたしゃ知らないよ\nどうなっても・・・",
   "en": "I don't even want to consider what could\nhappen next...",
-  "zh": ""
+  "zh": "我可不管了\n不管变成什么样……"
  },
  {
   "id": "MSG/MSG6200/988F0",
@@ -117519,7 +117519,7 @@
   "offset": "37794",
   "jp": "ユウキのやつ、とんでもないことを\nしでかしおって",
   "en": "Yuki has really done it this time.",
-  "zh": ""
+  "zh": "勇树这家伙，可真是惹出了\n不得了的大麻烦啊"
  },
  {
   "id": "MSG/MSG6200/988F1",
@@ -117528,7 +117528,7 @@
   "offset": "377C6",
   "jp": "しかし・・・\nこれでやつが宝を手に入れようものならｱ",
   "en": "But if she gets her hands on that treasure\nnow...",
-  "zh": ""
+  "zh": "不过……\n要是那家伙借此拿到了宝物的话"
  },
  {
   "id": "MSG/MSG6200/988F2",
@@ -117537,7 +117537,7 @@
   "offset": "377FC",
   "jp": "ククク・・・\n富豪なんぞよりも金を引き出すのは楽そうじゃ",
   "en": "It'll be easier to swindle it out of her\nthan it ever would be from Fubial.",
-  "zh": ""
+  "zh": "库库库……\n从她手里榨出钱来，可比从富豪那里容易得多啊"
  },
  {
   "id": "MSG/MSG6200/988FA",
@@ -117546,7 +117546,7 @@
   "offset": "37836",
   "jp": "さぁて、わしはやつが宝を手に入れるのを\n待つとするかの・・・",
   "en": "I'll bide my time until she has the\ntreasure, then...!",
-  "zh": ""
+  "zh": "好啦，老夫就等着那家伙\n拿到宝物吧……"
  },
  {
   "id": "MSG/MSG6200/988FF",
@@ -117555,7 +117555,7 @@
   "offset": "37874",
   "jp": "なんじゃい、けっきょく丸く収まったのか\n・・・つまらん",
   "en": "So everything wrapped itself up nicely,\nhuh? Now dull.",
-  "zh": ""
+  "zh": "搞什么嘛，结果还是圆满解决了啊\n……真无聊"
  },
  {
   "id": "MSG/MSG6200/98900",
@@ -117564,7 +117564,7 @@
   "offset": "378AC",
   "jp": "アレだけ大さわぎして、わしはな～んにも\n得をしとらんではないか",
   "en": "All that ruckus and I didn't make anything\nfrom any of it!",
-  "zh": ""
+  "zh": "闹出那么大动静，老夫却连半点\n油水都没捞着啊"
  },
  {
   "id": "MSG/MSG6200/98904",
@@ -117573,7 +117573,7 @@
   "offset": "378EC",
   "jp": "骨折り損のくたびれもうけじゃったわ\n",
   "en": "Well, some you win, some you lose.",
-  "zh": ""
+  "zh": "真是白忙活一场，徒增疲惫啊"
  },
  {
   "id": "MSG/MSG6200/98909",
@@ -117582,7 +117582,7 @@
   "offset": "37912",
   "jp": "なんだい、結局丸く収まっちまったのかい\n・・・つまんないね",
   "en": "How dull... everything just neatly resolved\nitself!",
-  "zh": ""
+  "zh": "搞什么嘛，结果竟然圆满解决了\n……真没劲呢"
  },
  {
   "id": "MSG/MSG6200/9890A",
@@ -117591,7 +117591,7 @@
   "offset": "3794E",
   "jp": "まぁ、富豪のぎゃふんっていう顔が\n見られたのは、面白かったけどね",
   "en": "But I admit, it was worth it for the look on\nFubial's face.",
-  "zh": ""
+  "zh": "不过嘛，能看到大富豪吃瘪的表情\n倒也挺有意思的"
  },
  {
   "id": "MSG/MSG6200/9890E",
@@ -117600,7 +117600,7 @@
   "offset": "37990",
   "jp": "あ～、腹減った・・・\n・・・なんとかしなきゃ・・・",
   "en": "Oh... I'm starving. I've got to get some\nfood, somehow...",
-  "zh": ""
+  "zh": "啊～肚子饿扁了……\n……得想个办法才行……"
  },
  {
   "id": "MSG/MSG6200/98913",
@@ -117609,7 +117609,7 @@
   "offset": "379C4",
   "jp": "ユウキちゃんが、無事でよかったねぇ\n・・・お兄ちゃんも安心したじゃろ？",
   "en": "I'm glad that Yuki is safe, anyway. You\ntoo, being her brother.",
-  "zh": ""
+  "zh": "勇树那孩子平安无事真是太好了呢\n……当哥哥的这下也放心了吧？"
  },
  {
   "id": "MSG/MSG6200/98914",
@@ -117618,7 +117618,7 @@
   "offset": "37A0C",
   "jp": "・・・だから違うっての・・・\n",
   "en": "...I'm telling you, I'm not...",
-  "zh": ""
+  "zh": "……都说了不是了……"
  },
  {
   "id": "MSG/MSG6200/98918",
@@ -117627,7 +117627,7 @@
   "offset": "37A2C",
   "jp": "ほんと、仲のいい兄弟だこと\n・・・いいわねぇ",
   "en": "Such close siblings, aren't you? How lovely.",
-  "zh": ""
+  "zh": "感情真是一对要好的兄妹呢\n……真令人羡慕啊"
  },
  {
   "id": "MSG/MSG6200/98919",
@@ -117636,7 +117636,7 @@
   "offset": "37A5A",
   "jp": "はぁ・・・\n%F",
   "en": "Haah...%F",
-  "zh": ""
+  "zh": "唉……\n%F"
  },
  {
   "id": "MSG/MSG6200/9891A",
@@ -117645,7 +117645,7 @@
   "offset": "37A6C",
   "jp": "・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/98922",
@@ -117654,7 +117654,7 @@
   "offset": "37A76",
   "jp": "ユウキちゃんは、偉いわねぇ\n子供のために、あそこまでしてあげるなんて",
   "en": "Yuki is really something, I knew it! Look\nhow far she went for that boy!",
-  "zh": ""
+  "zh": "勇树那孩子真了不起呢\n居然能为了小孩子做到那种地步"
  },
  {
   "id": "MSG/MSG6200/98923",
@@ -117663,7 +117663,7 @@
   "offset": "37ABC",
   "jp": "きっと、死んだお兄様も\n天国で喜んでくれていると思うわ%F",
   "en": "I'm sure her brother is proud of her too!%F",
-  "zh": ""
+  "zh": "去世的哥哥如果在天有灵\n想必也会很高兴吧%F"
  },
  {
   "id": "MSG/MSG6200/98924",
@@ -117672,7 +117672,7 @@
   "offset": "37AF8",
   "jp": "てへへ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "嘿嘿嘿……"
  },
  {
   "id": "MSG/MSG6200/9892C",
@@ -117681,7 +117681,7 @@
   "offset": "37B08",
   "jp": "わたしも、ユウキちゃんを見習わなきゃね\n",
   "en": "I've got to follow Yuki's example! Still\ngot a long way to go!",
-  "zh": ""
+  "zh": "我也得向勇树好好学习呢"
  },
  {
   "id": "MSG/MSG6200/98931",
@@ -117690,7 +117690,7 @@
   "offset": "37B32",
   "jp": "いや～、ユウキが無事でよかったよ",
   "en": "Phew, I'm glad that Yuki made it through\nthat alive, anyway.",
-  "zh": ""
+  "zh": "哎呀～勇树平安无事真是太好啦"
  },
  {
   "id": "MSG/MSG6200/98932",
@@ -117699,7 +117699,7 @@
   "offset": "37B54",
   "jp": "どうなっちまうのか、心配したんだぜ\n・・・いや、ホント・・・ホントだってば",
   "en": "I was really worried for a while there...\nNo, I was! Really!",
-  "zh": ""
+  "zh": "我还担心到底会变成什么样呢\n……不，真的……我真的是在担心啦"
  },
  {
   "id": "MSG/MSG6200/98936",
@@ -117708,7 +117708,7 @@
   "offset": "37BA0",
   "jp": "ま、まぁ丸く収まったんだし\nそれでいいじゃねぇか、なぁ！",
   "en": "Everything came full circle, anyway! That's\nfor the best, right?",
-  "zh": ""
+  "zh": "嘛、嘛，既然圆满解决了\n不就挺好的嘛，对吧！"
  },
  {
   "id": "MSG/MSG6200/98937",
@@ -117717,7 +117717,7 @@
   "offset": "37BDA",
   "jp": "あは、あははは\n",
   "en": "Ah ha, ah ha ha ha!",
-  "zh": ""
+  "zh": "啊哈、啊哈哈哈哈"
  },
  {
   "id": "MSG/MSG6200/9893B",
@@ -117726,7 +117726,7 @@
   "offset": "37BEC",
   "jp": "けっきょく、丸く収まっちまって\n討伐隊の話はおじゃんｱ",
   "en": "Everything wrapped up before I could lever\nmy way into the Golem Strikers.",
-  "zh": ""
+  "zh": "结果居然圆满解决了\n讨伐队的事彻底泡汤了啊"
  },
  {
   "id": "MSG/MSG6200/9893C",
@@ -117735,7 +117735,7 @@
   "offset": "37C24",
   "jp": "せっかくひとかせぎしようと思ってたのに\nいい迷惑だ、まったく",
   "en": "It was a great chance to make some quick\ncash, too... bah.",
-  "zh": ""
+  "zh": "亏我还想趁机大捞一笔呢\n真是添乱，真是的"
  },
  {
   "id": "MSG/MSG6200/98940",
@@ -117744,7 +117744,7 @@
   "offset": "37C62",
   "jp": "またジャンクあさりの日々に逆戻りか\n・・・まぁ、しかたねぇか",
   "en": "Back to slow days picking through junk then,\nI guess...",
-  "zh": ""
+  "zh": "又要重回每天翻垃圾捡废品的生活了吗\n……唉，也没办法啊"
  },
  {
   "id": "MSG/MSG6200/98945",
@@ -117753,7 +117753,7 @@
   "offset": "37CA0",
   "jp": "やっぱりユウキねぇちゃんはかっこいい！\n僕も、ユウキねぇちゃんみたいにｱ",
   "en": "Yuki is super cool! I told you, right?",
-  "zh": ""
+  "zh": "勇树姐果然超帅气的！\n我也要像勇树姐一样——"
  },
  {
   "id": "MSG/MSG6200/98946",
@@ -117762,7 +117762,7 @@
   "offset": "37CEA",
   "jp": "かっこいい大人になるんだ！\n",
   "en": "I want to grow up to be as cool as she!",
-  "zh": ""
+  "zh": "成为帅气的大人！"
  },
  {
   "id": "MSG/MSG6200/9894A",
@@ -117771,7 +117771,7 @@
   "offset": "37D08",
   "jp": "ユウキねぇちゃんが世界一のゴーレムハンターに\nなるなら、僕はｱ",
   "en": "Yuki is going to be the number one Golem\nhunter in the world.",
-  "zh": ""
+  "zh": "既然勇树姐要成为世界第一的魔像猎人\n那我——"
  },
  {
   "id": "MSG/MSG6200/9894B",
@@ -117780,7 +117780,7 @@
   "offset": "37D48",
   "jp": "僕は・・・\nん～、なんになろう？",
   "en": "So I'm going to be... what can I be...?",
-  "zh": ""
+  "zh": "我……\n嗯～该当什么好呢？"
  },
  {
   "id": "MSG/MSG6200/9894F",
@@ -117789,7 +117789,7 @@
   "offset": "37D6A",
   "jp": "ここは、フバイルさまの屋敷だ\nとっとと、立ち去れ！",
   "en": "This is the house of Lord Fubial. Get out\nof here!",
-  "zh": ""
+  "zh": "这里是富拜尔大人的府邸\n赶紧给我滚开！"
  },
  {
   "id": "MSG/MSG6200/98950",
@@ -117798,7 +117798,7 @@
   "offset": "37D9E",
   "jp": "・・・お前らは特に！\n近づくんじゃねぇ",
   "en": "Especially you! Don't come near here again!",
-  "zh": ""
+  "zh": "……特别是你们！\n别靠近这里！"
  },
  {
   "id": "MSG/MSG6200/98954",
@@ -117807,7 +117807,7 @@
   "offset": "37DC6",
   "jp": "・・・お前らのせいで、こっちは減給\nくらったんだぞ・・・",
   "en": "...I've been hit with a pay cut, thanks to\nyou...",
-  "zh": ""
+  "zh": "……全怪你们，害得我\n被扣工资了啊……"
  },
  {
   "id": "MSG/MSG6200/98959",
@@ -117816,7 +117816,7 @@
   "offset": "37E00",
   "jp": "ユウキが子供のために\nフバイルから笛を取り返したんだってねぇ",
   "en": "Yuki stole the flute from Fubial to give it\nback to the boy who found it...",
-  "zh": ""
+  "zh": "听说勇树为了那孩子，\n把笛子从富拜尔手里夺回来了呢。"
  },
  {
   "id": "MSG/MSG6200/9895A",
@@ -117825,7 +117825,7 @@
   "offset": "37E3E",
   "jp": "意外と、いいとこあるじゃないか\n見直したよ",
   "en": "That was a lovely thing to do, wasn't it?\nI've changed my mind about her, I think.",
-  "zh": ""
+  "zh": "没想到她还挺有优点的嘛，\n真让人刮目相看啊。"
  },
  {
   "id": "MSG/MSG6200/9895B",
@@ -117834,7 +117834,7 @@
   "offset": "37E6A",
   "jp": "・・・ちょっと事実がねじまげられてるけど\nま、いいか%F",
   "en": "...Well, that isn't quite how it happened,\nbut still... close enough.%F",
-  "zh": ""
+  "zh": "……虽然事实有点被扭曲了，\n嘛，算啦。%F"
  },
  {
   "id": "MSG/MSG6200/9895C",
@@ -117843,7 +117843,7 @@
   "offset": "37EA4",
   "jp": "・・・あんまり調子に乗るんじゃないよ\n・・・まったく・・・",
   "en": "",
-  "zh": ""
+  "zh": "……可别太得意忘形了啊，\n……真是的……"
  },
  {
   "id": "MSG/MSG6200/98963",
@@ -117852,7 +117852,7 @@
   "offset": "37EE0",
   "jp": "ほんとに・・・\nどうしようもない子だったのにねぇ・・・",
   "en": "I really thought there was no saving her,\nyou know?",
-  "zh": ""
+  "zh": "真的……\n以前明明是个无可救药的孩子呢……"
  },
  {
   "id": "MSG/MSG6200/98968",
@@ -117861,7 +117861,7 @@
   "offset": "37F18",
   "jp": "あの小僧・・・うらやましいのぅ",
   "en": "That boy... oooh, I want it for myself!",
-  "zh": ""
+  "zh": "那个臭小子……真让人羡慕啊。"
  },
  {
   "id": "MSG/MSG6200/98969",
@@ -117870,7 +117870,7 @@
   "offset": "37F38",
   "jp": "なんとか金づるに・・・\n",
   "en": "How can I trick...?",
-  "zh": ""
+  "zh": "怎么才能把他当成摇钱树呢……"
  },
  {
   "id": "MSG/MSG6200/9896A",
@@ -117879,7 +117879,7 @@
   "offset": "37F52",
   "jp": "なんだと！\n",
   "en": "Hey! What're you planning?!",
-  "zh": ""
+  "zh": "你说什么！"
  },
  {
   "id": "MSG/MSG6200/9896B",
@@ -117888,7 +117888,7 @@
   "offset": "37F60",
   "jp": "い、いや、なんでもない\nはは・・・ははは・・・",
   "en": "No, no, nothing! Ah ha ha... ha ha ha...",
-  "zh": ""
+  "zh": "没、没什么！\n哈哈……哈哈哈……"
  },
  {
   "id": "MSG/MSG6200/98972",
@@ -117897,7 +117897,7 @@
   "offset": "37F90",
   "jp": "どっかにいい金づるはころがっとりゃ\nせんかのぅ・・・",
   "en": "I need a good mark! There has to be someone\nI can con around here somewhere!",
-  "zh": ""
+  "zh": "这附近就没有哪个好糊弄的摇钱树\n掉在路边吗……"
  },
  {
   "id": "MSG/MSG6200/9897C",
@@ -117906,7 +117906,7 @@
   "offset": "37FC6",
   "jp": "自由の街、ジャンクシティへ\nようこそ！",
   "en": "",
-  "zh": ""
+  "zh": "欢迎来到自由之城——\n废品城！"
  },
  {
   "id": "MSG/MSG6200/9897D",
@@ -117915,7 +117915,7 @@
   "offset": "37FEE",
   "jp": "って、あんたらかい\nだったら、お帰りだな",
   "en": "",
-  "zh": ""
+  "zh": "切，是你们啊。\n那得说，欢迎回来啦。"
  },
  {
   "id": "MSG/MSG6200/9897E",
@@ -117924,7 +117924,7 @@
   "offset": "38018",
   "jp": "あんたらがしばらく顔出さない間に\nこのシティは変わったぜ",
   "en": "",
-  "zh": ""
+  "zh": "在你们没露面的这段时间里，\n这座城市可是变样了哦。"
  },
  {
   "id": "MSG/MSG6200/9897F",
@@ -117933,7 +117933,7 @@
   "offset": "38052",
   "jp": "まぁ、ゆっくりしていってくれや\n",
   "en": "",
-  "zh": ""
+  "zh": "好啦，慢慢待着休息吧。"
  },
  {
   "id": "MSG/MSG6200/98986",
@@ -117942,7 +117942,7 @@
   "offset": "38074",
   "jp": "富豪の旦那が変わったのが影響してんのかもな\n",
   "en": "",
-  "zh": ""
+  "zh": "大概是受富豪老爷改变的影响吧。"
  },
  {
   "id": "MSG/MSG6200/98987",
@@ -117951,7 +117951,7 @@
   "offset": "380A2",
   "jp": "年寄り連中は、“若い頃の旦那に戻った”\nとか言ってるけどよ",
   "en": "",
-  "zh": ""
+  "zh": "老人家们倒是说“老爷变回年轻时的样子了”\n之类的话呢。"
  },
  {
   "id": "MSG/MSG6200/98990",
@@ -117960,7 +117960,7 @@
   "offset": "380DE",
   "jp": "富豪、がんばってんだけどさ・・・\nなんつーか、空回り気味？",
   "en": "",
-  "zh": ""
+  "zh": "虽然富豪很努力……\n但怎么说呢，感觉有点在瞎忙活？"
  },
  {
   "id": "MSG/MSG6200/9899A",
@@ -117969,7 +117969,7 @@
   "offset": "3811A",
   "jp": "でも、あの姿勢にゃ関心するよ\n自分勝手な幸せよりも、みんなの幸せｱ",
   "en": "",
-  "zh": ""
+  "zh": "不过，那种态度真让人钦佩啊。\n比起自私自利的幸福，大家共同的幸福更……"
  },
  {
   "id": "MSG/MSG6200/9899B",
@@ -117978,7 +117978,7 @@
   "offset": "3815E",
   "jp": "“情けは人の為ならず”ってね\n",
   "en": "",
-  "zh": ""
+  "zh": "这就是所谓的“善有善报”吧。"
  },
  {
   "id": "MSG/MSG6200/989A4",
@@ -117987,7 +117987,7 @@
   "offset": "3817E",
   "jp": "なぁ、ヨコハマが壊滅したって話知ってるか？\n",
   "en": "",
-  "zh": ""
+  "zh": "喂，你们听说了横滨被毁灭的事吗？"
  },
  {
   "id": "MSG/MSG6200/989A5",
@@ -117996,7 +117996,7 @@
   "offset": "381AC",
   "jp": "本当なのかな・・・\nキミたち、旅してるなら何か知らないか？",
   "en": "",
-  "zh": ""
+  "zh": "到底是不是真的啊……\n你们在四处旅行，知道些什么吗？"
  },
  {
   "id": "MSG/MSG6200/989A6",
@@ -118005,7 +118005,7 @@
   "offset": "381E8",
   "jp": "本当だ・・・%M625065",
   "en": "%M625065",
-  "zh": ""
+  "zh": "是真的……%M625065"
  },
  {
   "id": "MSG/MSG6200/989A7",
@@ -118014,7 +118014,7 @@
   "offset": "38206",
   "jp": "それがどうした？%M625070",
   "en": "%M625070",
-  "zh": ""
+  "zh": "那又怎样？%M625070"
  },
  {
   "id": "MSG/MSG6200/989A9",
@@ -118023,7 +118023,7 @@
   "offset": "38228",
   "jp": "本当だ・・・\nこの目で・・・見てきた・・・",
   "en": "",
-  "zh": ""
+  "zh": "是真的……\n是我亲眼……看到的……"
  },
  {
   "id": "MSG/MSG6200/989AA",
@@ -118032,7 +118032,7 @@
   "offset": "38254",
   "jp": "・・・そうか\nもうないんだな、私の故郷・・・",
   "en": "",
-  "zh": ""
+  "zh": "……这样啊。\n我的故乡……已经没有了啊……"
  },
  {
   "id": "MSG/MSG6200/989AB",
@@ -118041,7 +118041,7 @@
   "offset": "38282",
   "jp": "もう帰ることはないと思ってたけど\n・・・なんとかならないのかな",
   "en": "",
-  "zh": ""
+  "zh": "虽然以前觉得再也不会回去了，\n……可难道就没有什么办法了吗？"
  },
  {
   "id": "MSG/MSG6200/989AC",
@@ -118050,7 +118050,7 @@
   "offset": "382C2",
   "jp": "復興・・・できないかな・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "难道就……不能复兴了吗……"
  },
  {
   "id": "MSG/MSG6200/989AE",
@@ -118059,7 +118059,7 @@
   "offset": "382E2",
   "jp": "それがどうした？\n“爆睡便に帰らず”だよ",
   "en": "",
-  "zh": ""
+  "zh": "那又怎样？\n这叫“爆睡便不回”啦。"
  },
  {
   "id": "MSG/MSG6200/989AF",
@@ -118068,7 +118068,7 @@
   "offset": "3830C",
   "jp": "・・・それをいうなら“覆水盆に帰らず”だろ？\n",
   "en": "",
-  "zh": ""
+  "zh": "……你想说的应该是“覆水难收”吧？"
  },
  {
   "id": "MSG/MSG6200/989B0",
@@ -118077,7 +118077,7 @@
   "offset": "3833C",
   "jp": "うっ！　わかってらい！！",
   "en": "",
-  "zh": ""
+  "zh": "呃！我当然知道啦！！"
  },
  {
   "id": "MSG/MSG6200/989B1",
@@ -118086,7 +118086,7 @@
   "offset": "38356",
   "jp": "気分を害したみたいだな\n・・・悪かった",
   "en": "",
-  "zh": ""
+  "zh": "看来惹你不高兴了啊\n……抱歉啦"
  },
  {
   "id": "MSG/MSG6200/989B2",
@@ -118095,7 +118095,7 @@
   "offset": "3837E",
   "jp": "こんなところで生活していても、故郷のことは\n気になるものなんだよ",
   "en": "",
-  "zh": ""
+  "zh": "就算生活在这种地方，故乡的事\n也还是会让人牵挂啊"
  },
  {
   "id": "MSG/MSG6200/989B3",
@@ -118104,7 +118104,7 @@
   "offset": "383C0",
   "jp": "それがなくなったとなれば、特にね\n",
   "en": "",
-  "zh": ""
+  "zh": "要是听说故乡没了，那就更是如此了"
  },
  {
   "id": "MSG/MSG6200/989B4",
@@ -118113,7 +118113,7 @@
   "offset": "383E4",
   "jp": "・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/989C2",
@@ -118122,7 +118122,7 @@
   "offset": "383EE",
   "jp": "一時ぱったり来なくなってたロンドンシティの\n行商人がまた来るようになってね",
   "en": "",
-  "zh": ""
+  "zh": "先前有一阵子彻底不来的伦敦城行商，\n最近又开始过来了呢"
  },
  {
   "id": "MSG/MSG6200/989C3",
@@ -118131,7 +118131,7 @@
   "offset": "3843A",
   "jp": "そいつの話だと、ロンドンシティで\nひともんちゃくあったらしいけどｱ",
   "en": "",
-  "zh": ""
+  "zh": "听那家伙说，伦敦城那边\n好像起了些争执纠纷"
  },
  {
   "id": "MSG/MSG6200/989C4",
@@ -118140,7 +118140,7 @@
   "offset": "3847E",
   "jp": "怪我の功名っていうか、そのおかげで\nだいぶ暮らしよくなってるらしいんだよ",
   "en": "",
-  "zh": ""
+  "zh": "但也算是因祸得福吧，托那场风波的福，\n据说日子过得比以前好多了呢"
  },
  {
   "id": "MSG/MSG6200/989C5",
@@ -118149,7 +118149,7 @@
   "offset": "384C8",
   "jp": "あんたも、旅の途中に近くを通ったら\n寄ってみるといいよ",
   "en": "",
-  "zh": ""
+  "zh": "你在旅途中要是路过附近的话，\n不妨也顺道去看看吧"
  },
  {
   "id": "MSG/MSG6200/989CC",
@@ -118158,7 +118158,7 @@
   "offset": "38500",
   "jp": "アタシも、一度帰ってみるかねぇ\n",
   "en": "",
-  "zh": ""
+  "zh": "我也该抽空回去一趟看看了吧"
  },
  {
   "id": "MSG/MSG6200/989D6",
@@ -118167,7 +118167,7 @@
   "offset": "38522",
   "jp": "アタシはこの街に来たばかりだから\n良く知らなかったんだけどｱ",
   "en": "",
-  "zh": ""
+  "zh": "我刚来这城镇没多久，\n所以之前不太了解情况"
  },
  {
   "id": "MSG/MSG6200/989D7",
@@ -118176,7 +118176,7 @@
   "offset": "38560",
   "jp": "実質この街を仕切ってた富豪ってやつが\n街全体の改善に乗り出したらしいよ",
   "en": "",
-  "zh": ""
+  "zh": "不过听说暗中掌管这城镇的那个富豪，\n好像着手开始整顿改善整个城镇了呢"
  },
  {
   "id": "MSG/MSG6200/989D8",
@@ -118185,7 +118185,7 @@
   "offset": "385A8",
   "jp": "まぁ、うまく行ってるって話は聞かないけどさ\n少しずつ、いい方向に向かってる気がするよ",
   "en": "",
-  "zh": ""
+  "zh": "虽然嘛，也没听说进行得有多顺利就是了，\n但我感觉确实在一步步朝好的方向发展呢"
  },
  {
   "id": "MSG/MSG6200/989E0",
@@ -118194,7 +118194,7 @@
   "offset": "385FE",
   "jp": "結果なんて、あとからついてくるもんだ\nあの姿勢だけでも、ほめてやらなきゃね",
   "en": "",
-  "zh": ""
+  "zh": "结果这种东西，总会随之而来的嘛。\n光凭那份积极的态度，也值得好好夸夸他了"
  },
  {
   "id": "MSG/MSG6200/989E1",
@@ -118203,7 +118203,7 @@
   "offset": "3864A",
   "jp": "あたしの故郷の馬鹿領主にも\n爪のあかでもせんじて飲ませたかったよ",
   "en": "",
-  "zh": ""
+  "zh": "真想让我老家那个笨蛋领主，\n也学学人家洗脚水泡茶喝下肚啊"
  },
  {
   "id": "MSG/MSG6200/989EA",
@@ -118212,7 +118212,7 @@
   "offset": "3868C",
   "jp": "富豪さまがジャンクの買取相場を\n明確にするようになってな・・・",
   "en": "",
-  "zh": ""
+  "zh": "富豪老爷把废品的收购行情\n给定得明明白白了之后啊……"
  },
  {
   "id": "MSG/MSG6200/989EB",
@@ -118221,7 +118221,7 @@
   "offset": "386CC",
   "jp": "・・・ふかっけられんようになったわぃ\n",
   "en": "",
-  "zh": ""
+  "zh": "……就没法再漫天要价了哇"
  },
  {
   "id": "MSG/MSG6200/989F4",
@@ -118230,7 +118230,7 @@
   "offset": "386F4",
   "jp": "最近は落ち着いてきたが、相場導入直後は\nジャンクを売らずに抱えたりするやつが出てｱ",
   "en": "",
-  "zh": ""
+  "zh": "最近虽然平稳下来了，但刚推行行市那会儿，\n有些人把废品压着不卖，结果啊"
  },
  {
   "id": "MSG/MSG6200/989F5",
@@ -118239,7 +118239,7 @@
   "offset": "38748",
   "jp": "ひどく混乱したもんじゃ\n",
   "en": "",
-  "zh": ""
+  "zh": "当时可是闹得乱成一团糟啊"
  },
  {
   "id": "MSG/MSG6200/989FE",
@@ -118248,7 +118248,7 @@
   "offset": "38762",
   "jp": "いままでは、ジャンクあさりっていえば\n人力が当たり前だったんだけどよｱ",
   "en": "",
-  "zh": ""
+  "zh": "以往说起淘废品这营生，\n靠人力那是理所当然的事，不过啊"
  },
  {
   "id": "MSG/MSG6200/989FF",
@@ -118257,7 +118257,7 @@
   "offset": "387AA",
   "jp": "富豪が共同で使う採掘ゴーレムを\n導入するための出資者をつのってるってよ",
   "en": "",
-  "zh": ""
+  "zh": "听说富豪正在召集出资人，\n打算引进大家公用的采掘魔像呢"
  },
  {
   "id": "MSG/MSG6200/98A00",
@@ -118266,7 +118266,7 @@
   "offset": "387F2",
   "jp": "・・・そんなことに金だせるやつぁ\nあんまいねぇから、上手くいくかわかんねぇが",
   "en": "",
-  "zh": ""
+  "zh": "……能为这种事掏钱的人\n本来就没几个，也不知道成不成得了"
  },
  {
   "id": "MSG/MSG6200/98A01",
@@ -118275,7 +118275,7 @@
   "offset": "38840",
   "jp": "・・・まぁ、みんな期待しないで待ってる\nってとこだ",
   "en": "",
-  "zh": ""
+  "zh": "……唉，大伙儿也就是抱着不抱期待的态度在等\n差不多就是这样啦"
  },
  {
   "id": "MSG/MSG6200/98A08",
@@ -118284,7 +118284,7 @@
   "offset": "38874",
   "jp": "富豪が積立金持ち逃げすんじゃねぇかとか\n昔採掘機材で人死にが出たことがあったからｱ",
   "en": "",
-  "zh": ""
+  "zh": "之前大家既担心富豪会不会卷着集资款跑路，\n又因为以前采掘器材出过人命，所以啊"
  },
  {
   "id": "MSG/MSG6200/98A09",
@@ -118293,7 +118293,7 @@
   "offset": "388C8",
   "jp": "みんなびびってたけど、富豪があんま熱心なんで\nちょっとずつ協力者が出てるみたいだぜ",
   "en": "",
-  "zh": ""
+  "zh": "大伙儿原本都挺发怵的，不过看富豪那么热心，\n好像也慢慢开始有支持协助的人了呢"
  },
  {
   "id": "MSG/MSG6200/98A12",
@@ -118302,7 +118302,7 @@
   "offset": "3891C",
   "jp": "富豪があぶれてる人間捕まえて仕事回して\nくれるようになったからｱ",
   "en": "",
-  "zh": ""
+  "zh": "富豪把闲散人员都拉拢过去分派工作，\n托他的福啊"
  },
  {
   "id": "MSG/MSG6200/98A13",
@@ -118311,7 +118311,7 @@
   "offset": "3895E",
   "jp": "みんな食いブチくらいはかせげるようになった\nけど・・・なんもない砂漠を掘らされてもねぇ",
   "en": "",
-  "zh": ""
+  "zh": "大伙儿好歹能挣口饭吃了，\n不过……被派去挖空无一物的沙漠也太让人无语了"
  },
  {
   "id": "MSG/MSG6200/98A1C",
@@ -118320,7 +118320,7 @@
   "offset": "389B6",
   "jp": "富豪も色々やろうとしてくれんのはいいけど\nもう少し計画的にやってくれないかねぇ",
   "en": "",
-  "zh": ""
+  "zh": "富豪想做各种尝试虽说是好事，\n但能不能安排得稍微更有计划点儿啊"
  },
  {
   "id": "MSG/MSG6200/98A26",
@@ -118329,7 +118329,7 @@
   "offset": "38A06",
   "jp": "あら、ユウキちゃん\n・・・それに、お兄さんも",
   "en": "",
-  "zh": ""
+  "zh": "哎呀，勇树酱\n……还有这位小哥也是"
  },
  {
   "id": "MSG/MSG6200/98A27",
@@ -118338,7 +118338,7 @@
   "offset": "38A34",
   "jp": "ほんと、あなたたち仲がいいわねぇ\n・・・まるで、恋人同士みたいねぇ",
   "en": "",
-  "zh": ""
+  "zh": "你们两个感情可真好呢\n……简直就跟小两口一样呢"
  },
  {
   "id": "MSG/MSG6200/98A28",
@@ -118347,7 +118347,7 @@
   "offset": "38A78",
   "jp": "えへ・・・えへへ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "嘿嘿……嘿嘿嘿……"
  },
  {
   "id": "MSG/MSG6200/98A29",
@@ -118356,7 +118356,7 @@
   "offset": "38A92",
   "jp": "・・・兄妹じゃないってば・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……都说了不是兄妹啦……"
  },
  {
   "id": "MSG/MSG6200/98A30",
@@ -118365,7 +118365,7 @@
   "offset": "38AB4",
   "jp": "あなたも、こんなかわいい妹さんがいて\n幸せ者ね",
   "en": "",
-  "zh": ""
+  "zh": "你也是，有这么可爱的一个妹妹，\n真是幸福呢"
  },
  {
   "id": "MSG/MSG6200/98A31",
@@ -118374,7 +118374,7 @@
   "offset": "38AE4",
   "jp": "ほんとほんと\nねぇ～、お・に・い・ちゃん♪",
   "en": "",
-  "zh": ""
+  "zh": "就是就是～\n呐～欧·尼·酱♪"
  },
  {
   "id": "MSG/MSG6200/98A32",
@@ -118383,7 +118383,7 @@
   "offset": "38B10",
   "jp": "・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/98A33",
@@ -118392,7 +118392,7 @@
   "offset": "38B1A",
   "jp": "なに、そんな顔して\nあ、“お兄様”の方がいい？　“おにぃ”とか？",
   "en": "",
-  "zh": ""
+  "zh": "干嘛摆出那副表情嘛。\n啊，“兄长大人”比较好吗？还是“欧尼”之类的？"
  },
  {
   "id": "MSG/MSG6200/98A34",
@@ -118401,7 +118401,7 @@
   "offset": "38B5C",
   "jp": "・・・もう、いいよ何でも・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……随便你怎么叫啦……"
  },
  {
   "id": "MSG/MSG6200/98A3A",
@@ -118410,7 +118410,7 @@
   "offset": "38B7E",
   "jp": "え！・・・うそ？\n・・・",
   "en": "",
-  "zh": ""
+  "zh": "诶！……不会吧？\n……"
  },
  {
   "id": "MSG/MSG6200/98A3B",
@@ -118419,7 +118419,7 @@
   "offset": "38B98",
   "jp": "ん？　なに？\n",
   "en": "",
-  "zh": ""
+  "zh": "嗯？怎么了？"
  },
  {
   "id": "MSG/MSG6200/98A3C",
@@ -118428,7 +118428,7 @@
   "offset": "38BA8",
   "jp": "あ、あぁ、びっくりした\nまえ見たときも間違えそうになったけどｱ",
   "en": "",
-  "zh": ""
+  "zh": "啊、啊，吓我一跳。\n上次看到的时候我也差点认错了呢，"
  },
  {
   "id": "MSG/MSG6200/98A3D",
@@ -118437,7 +118437,7 @@
   "offset": "38BE8",
   "jp": "また、ユウキちゃんのお兄さんと\n間違えちゃったわ",
   "en": "",
-  "zh": ""
+  "zh": "又把你误认成\n勇树的哥哥了。"
  },
  {
   "id": "MSG/MSG6200/98A3E",
@@ -118446,7 +118446,7 @@
   "offset": "38C1A",
   "jp": "・・・あなた、前よりちょっと男前に\nなったんじゃない？",
   "en": "",
-  "zh": ""
+  "zh": "……你，是不是比之前\n变得更有男人味了？"
  },
  {
   "id": "MSG/MSG6200/98A44",
@@ -118455,7 +118455,7 @@
   "offset": "38C52",
   "jp": "・・・あなた、前よりちょっと男前に\nなったんじゃない？",
   "en": "",
-  "zh": ""
+  "zh": "……你，是不是比之前\n变得更有男人味了？"
  },
  {
   "id": "MSG/MSG6200/98A45",
@@ -118464,7 +118464,7 @@
   "offset": "38C8A",
   "jp": "ますます似てきたわよ？\nユウキちゃんのお兄さんと",
   "en": "",
-  "zh": ""
+  "zh": "越来越像了呢，\n和勇树的哥哥。"
  },
  {
   "id": "MSG/MSG6200/98A4E",
@@ -118473,7 +118473,7 @@
   "offset": "38CBC",
   "jp": "お、あんたらか・・・あんたら、この街じゃ\nけっこう有名人だぜ？",
   "en": "",
-  "zh": ""
+  "zh": "哦，是你们啊……你们在这座城里\n可是相当有名的人啊？"
  },
  {
   "id": "MSG/MSG6200/98A4F",
@@ -118482,7 +118482,7 @@
   "offset": "38CFC",
   "jp": "あの件があって以来、富豪もだいぶ変わってね\n・・・きっと色々思うところがあったんだろうな",
   "en": "",
-  "zh": ""
+  "zh": "经历了那件事之后，大富豪也变了不少呢。\n……心里肯定有了很多感触吧。"
  },
  {
   "id": "MSG/MSG6200/98A58",
@@ -118491,7 +118491,7 @@
   "offset": "38D56",
   "jp": "じいさんらの話じゃ、昔は富豪も男気ある頭領\nだったらしいからｱ",
   "en": "",
-  "zh": ""
+  "zh": "听老头子们说，以前那富豪也是个极讲义气的头领来着，"
  },
  {
   "id": "MSG/MSG6200/98A59",
@@ -118500,7 +118500,7 @@
   "offset": "38D96",
   "jp": "なんか思い返したのかも知れねぇ\n",
   "en": "",
-  "zh": ""
+  "zh": "说不定是重新想通了什么吧。"
  },
  {
   "id": "MSG/MSG6200/98A62",
@@ -118509,7 +118509,7 @@
   "offset": "38DB8",
   "jp": "俺たち・・・\nなんであんなことでケンカしてたんだろうな",
   "en": "",
-  "zh": ""
+  "zh": "我们……\n到底是为了那种事在吵什么啊。"
  },
  {
   "id": "MSG/MSG6200/98A63",
@@ -118518,7 +118518,7 @@
   "offset": "38DF0",
   "jp": "・・・あぁ・・・\n腹が減るだけバカらしかったな・・・",
   "en": "",
-  "zh": ""
+  "zh": "……啊啊……\n光是饿肚子就够傻了……"
  },
  {
   "id": "MSG/MSG6200/98A64",
@@ -118527,7 +118527,7 @@
   "offset": "38E26",
   "jp": "まぁ、仲直りできてよかったじゃん%M625255",
   "en": "%M625255",
-  "zh": ""
+  "zh": "哎呀，能和好不挺好的嘛%M625255"
  },
  {
   "id": "MSG/MSG6200/98A65",
@@ -118536,7 +118536,7 @@
   "offset": "38E58",
   "jp": "・・・なんで、ケンカしてたの？%M625261",
   "en": "%M625261",
-  "zh": ""
+  "zh": "……你们之前是因为什么吵架的啊？%M625261"
  },
  {
   "id": "MSG/MSG6200/98A67",
@@ -118545,7 +118545,7 @@
   "offset": "38E88",
   "jp": "まぁ、仲直りできてよかったじゃん\n仲良きことは美しきかな、ってな！",
   "en": "",
-  "zh": ""
+  "zh": "哎呀，能和好不挺好的嘛！\n俗话说，和为贵嘛！"
  },
  {
   "id": "MSG/MSG6200/98A68",
@@ -118554,7 +118554,7 @@
   "offset": "38ECC",
   "jp": "な、仲直りなんかしてねぇ！\n・・・ただの・・・休戦だ",
   "en": "",
-  "zh": ""
+  "zh": "谁、谁跟人和好了啊！\n……这只是……休战！"
  },
  {
   "id": "MSG/MSG6200/98A69",
@@ -118563,7 +118563,7 @@
   "offset": "38F02",
   "jp": "フン・・・\nクソ意地はりやがって",
   "en": "",
-  "zh": ""
+  "zh": "哼……\n净嘴硬。"
  },
  {
   "id": "MSG/MSG6200/98A6A",
@@ -118572,7 +118572,7 @@
   "offset": "38F24",
   "jp": "・・・あんだと、コラ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……你说什么，找茬啊……"
  },
  {
   "id": "MSG/MSG6200/98A6B",
@@ -118581,7 +118581,7 @@
   "offset": "38F42",
   "jp": "まぁまぁ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "好啦好啦……"
  },
  {
   "id": "MSG/MSG6200/98A6D",
@@ -118590,7 +118590,7 @@
   "offset": "38F54",
   "jp": "・・・なんでケンカしてたの？\nあんなことって？",
   "en": "",
-  "zh": ""
+  "zh": "……你们是因为什么吵架的啊？\n那种事是指什么？"
  },
  {
   "id": "MSG/MSG6200/98A6E",
@@ -118599,7 +118599,7 @@
   "offset": "38F84",
   "jp": "ん、あぁ、別にいいじゃねぇか\n",
   "en": "",
-  "zh": ""
+  "zh": "嗯，啊，不是什么大不了的事啦。"
  },
  {
   "id": "MSG/MSG6200/98A6F",
@@ -118608,7 +118608,7 @@
   "offset": "38FA4",
   "jp": "こいつが、好物のオアシス・イチヂクを\n勝手に食ったの食わねぇのってｱ",
   "en": "",
-  "zh": ""
+  "zh": "就是这家伙为了最爱吃的绿洲无花果，\n在那吵到底偷没偷吃，"
  },
  {
   "id": "MSG/MSG6200/98A70",
@@ -118617,7 +118617,7 @@
   "offset": "38FEA",
   "jp": "バカさわぎしやがったからよ\n・・・つい熱くなっちまって",
   "en": "",
-  "zh": ""
+  "zh": "大呼小叫得跟个傻子似的，\n……我就一时上头了。"
  },
  {
   "id": "MSG/MSG6200/98A71",
@@ -118626,7 +118626,7 @@
   "offset": "39022",
   "jp": "おいおい、さわぎ大きくしたのはそっちだろうが\nやるのやらねぇのってよ",
   "en": "",
-  "zh": ""
+  "zh": "喂喂，把事情闹大的可是你们那边吧？\n到底打还是不打啊！"
  },
  {
   "id": "MSG/MSG6200/98A72",
@@ -118635,7 +118635,7 @@
   "offset": "39068",
   "jp": "んだとぉ～？\n",
   "en": "",
-  "zh": ""
+  "zh": "你说什～么？！"
  },
  {
   "id": "MSG/MSG6200/98A73",
@@ -118644,7 +118644,7 @@
   "offset": "39078",
   "jp": "まぁまぁ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "好啦好啦……"
  },
  {
   "id": "MSG/MSG6200/98A80",
@@ -118653,7 +118653,7 @@
   "offset": "3908A",
   "jp": "おめぇらのバカさわぎのおかげで\n討伐隊の仕事逃しちまったじゃねぇか",
   "en": "",
-  "zh": ""
+  "zh": "多亏你们在那大吵大闹，\n害得老子把讨伐队的工作都给搞丢了！"
  },
  {
   "id": "MSG/MSG6200/98A81",
@@ -118662,7 +118662,7 @@
   "offset": "390CE",
   "jp": "いや・・・それは・・・\nあははは・・・",
   "en": "",
-  "zh": ""
+  "zh": "哎呀……那个……\n啊哈哈哈哈……"
  },
  {
   "id": "MSG/MSG6200/98A82",
@@ -118671,7 +118671,7 @@
   "offset": "390F6",
   "jp": "笑ってごまかそうとするな！\n・・・ったく",
   "en": "",
-  "zh": ""
+  "zh": "别想笑着蒙混过去！\n……真是的！"
  },
  {
   "id": "MSG/MSG6200/98A8A",
@@ -118680,7 +118680,7 @@
   "offset": "39120",
   "jp": "まぁ、あの件以来、砂漠にゃまだまだ\nお宝が眠ってるって話になってよｱ",
   "en": "",
-  "zh": ""
+  "zh": "哎，自从那件事之后，大家都传\n沙漠里其实还埋藏着数不清的宝物啊。"
  },
  {
   "id": "MSG/MSG6200/98A8B",
@@ -118689,7 +118689,7 @@
   "offset": "39166",
   "jp": "富豪が新しく発掘組織を立ち上げる\nことになったんだぜ",
   "en": "",
-  "zh": ""
+  "zh": "富豪甚至决定成立\n一个全新的发掘组织呢。"
  },
  {
   "id": "MSG/MSG6200/98A8C",
@@ -118698,7 +118698,7 @@
   "offset": "3919C",
   "jp": "・・・っつっても荒くれモンばっかりだから\nなかなかまとまらねぇで大変だけどよ",
   "en": "",
-  "zh": ""
+  "zh": "……虽说是这么说，但招来的尽是些粗暴的亡命之徒，\n根本组织不起来，麻烦得很呢。"
  },
  {
   "id": "MSG/MSG6200/98A8D",
@@ -118707,7 +118707,7 @@
   "offset": "391EA",
   "jp": "はははは\n",
   "en": "",
-  "zh": ""
+  "zh": "哈哈哈哈。"
  },
  {
   "id": "MSG/MSG6200/98A94",
@@ -118716,7 +118716,7 @@
   "offset": "391F6",
   "jp": "あら、お客さんかい\n・・・悪いねぇ、いま品薄でさ",
   "en": "",
-  "zh": ""
+  "zh": "哎呀，有客人来啦？\n……不好意思啊，现在货源紧缺呢。"
  },
  {
   "id": "MSG/MSG6200/98A95",
@@ -118725,7 +118725,7 @@
   "offset": "39228",
   "jp": "富豪がかなりの規模の発掘調査を始めた\nらしいから、そのうち良い品が入るかもね",
   "en": "",
-  "zh": ""
+  "zh": "听说那个富豪展开了相当大规模的发掘调查，\n过阵子说不定能进些好货呢。"
  },
  {
   "id": "MSG/MSG6200/98A96",
@@ -118734,7 +118734,7 @@
   "offset": "39276",
   "jp": "まぁ、あの富豪のやることだ\nあんま期待してないけどさ",
   "en": "",
-  "zh": ""
+  "zh": "哎，毕竟是那个富豪搞的动作，\n我也没抱太大指望就是了。"
  },
  {
   "id": "MSG/MSG6200/98A9E",
@@ -118743,7 +118743,7 @@
   "offset": "392AC",
   "jp": "街の真ん中のゴーレムみたいなの掘り当てて\nくれりゃ、景気もよくなるんだろうけどねぇ",
   "en": "",
-  "zh": ""
+  "zh": "要是能挖出镇子正中央那样的魔像，\n市道肯定也会好转起来吧。"
  },
  {
   "id": "MSG/MSG6200/98AA8",
@@ -118752,7 +118752,7 @@
   "offset": "39300",
   "jp": "この街もだんだん治安がよくなってきててね\nあたしらみたいなスジの人間にとっちゃｱ",
   "en": "",
-  "zh": ""
+  "zh": "这镇子的治安也逐渐好转起来了呢。\n不过对我们这种道上的人来说啊，"
  },
  {
   "id": "MSG/MSG6200/98AA9",
@@ -118761,7 +118761,7 @@
   "offset": "39352",
   "jp": "ちょっと、やりにくくなりゃしないか心配だよ\n",
   "en": "",
-  "zh": ""
+  "zh": "稍微有点担心以后会不会不好混呢。"
  },
  {
   "id": "MSG/MSG6200/98AB2",
@@ -118770,7 +118770,7 @@
   "offset": "39380",
   "jp": "・・・これを期に、あたしもまっとうな\n世界に戻ってみるかねぇ・・・",
   "en": "",
-  "zh": ""
+  "zh": "……借这个机会，我也回正经的\n正道社会过日子试试看吧……"
  },
  {
   "id": "MSG/MSG6200/98ABC",
@@ -118779,7 +118779,7 @@
   "offset": "393C4",
   "jp": "最近は、この街もスリが激減してねぇ\n・・・だいぶ暮らしよくなったわ",
   "en": "",
-  "zh": ""
+  "zh": "最近这个镇上的扒手急剧减少了呢……\n生活一下子好过了不少。"
  },
  {
   "id": "MSG/MSG6200/98ABD",
@@ -118788,7 +118788,7 @@
   "offset": "39408",
   "jp": "前は、月に５回はあってたけど\n最近は２回くらいになってねぇ",
   "en": "",
-  "zh": ""
+  "zh": "以前每个月至少碰上５次，\n最近也就２次左右了吧。"
  },
  {
   "id": "MSG/MSG6200/98AC6",
@@ -118797,7 +118797,7 @@
   "offset": "39444",
   "jp": "もう少し、あたしもこの街で\nがんばってみようっと",
   "en": "",
-  "zh": ""
+  "zh": "我也再在这个镇上\n努努力看吧。"
  },
  {
   "id": "MSG/MSG6200/98AD0",
@@ -118806,7 +118806,7 @@
   "offset": "39476",
   "jp": "今度行われる発掘調査で、このゴーレム\nみたいなお宝の山が見つかるんじゃないかってｱ",
   "en": "",
-  "zh": ""
+  "zh": "大家都在猜，这次开展的发掘调查，\n是不是能找到像这个魔像一样成堆的宝藏啊。"
  },
  {
   "id": "MSG/MSG6200/98AD1",
@@ -118815,7 +118815,7 @@
   "offset": "394CA",
   "jp": "みんなはり切ってるよ\n",
   "en": "",
-  "zh": ""
+  "zh": "大家可都干劲十足呢。"
  },
  {
   "id": "MSG/MSG6200/98ADA",
@@ -118824,7 +118824,7 @@
   "offset": "394E2",
   "jp": "少しでも希望があればがんばれるもんだね\nみんなの顔つきが、少しずつ変わってきてる",
   "en": "",
-  "zh": ""
+  "zh": "人只要有一丁点希望就能撑下去呢。\n大家的精气神，都在一点点变好。"
  },
  {
   "id": "MSG/MSG6200/98AE4",
@@ -118833,7 +118833,7 @@
   "offset": "39534",
   "jp": "あ！　ユウキおねぇちゃんだ！\nおねぇちゃ～ん！　聞いて聞いて！",
   "en": "",
-  "zh": ""
+  "zh": "啊！是勇树姐姐！\n姐姐～！你听我说听我说！"
  },
  {
   "id": "MSG/MSG6200/98AE5",
@@ -118842,7 +118842,7 @@
   "offset": "39574",
   "jp": "僕もね、おねぇちゃんみたいに\n子分つくったんだ！",
   "en": "",
-  "zh": ""
+  "zh": "我也像姐姐一样\n收了小弟哦！"
  },
  {
   "id": "MSG/MSG6200/98AE6",
@@ -118851,7 +118851,7 @@
   "offset": "395A6",
   "jp": "ユウキの子分？%M625385",
   "en": "%M625385",
-  "zh": ""
+  "zh": "勇树的小弟？%M625385"
  },
  {
   "id": "MSG/MSG6200/98AE7",
@@ -118860,7 +118860,7 @@
   "offset": "395C6",
   "jp": "この子のことかい？%M625392",
   "en": "%M625392",
-  "zh": ""
+  "zh": "是指这孩子吗？%M625392"
  },
  {
   "id": "MSG/MSG6200/98AE9",
@@ -118869,7 +118869,7 @@
   "offset": "395EA",
   "jp": "ユウキの子分？\n・・・そんなのいたのか？",
   "en": "",
-  "zh": ""
+  "zh": "勇树的小弟？\n……有这号人吗？"
  },
  {
   "id": "MSG/MSG6200/98AEA",
@@ -118878,7 +118878,7 @@
   "offset": "39614",
   "jp": "なにいってんだい！\nお前、いつもおねぇちゃんと一緒じゃんか",
   "en": "",
-  "zh": ""
+  "zh": "你在说什么啊！\n你不是一直都跟姐姐待在一起嘛！"
  },
  {
   "id": "MSG/MSG6200/98AEB",
@@ -118887,7 +118887,7 @@
   "offset": "39650",
   "jp": "ユウキおねぇちゃんは世界一のゴーレムハンター\nなんだから、お前はその子分だろ？",
   "en": "",
-  "zh": ""
+  "zh": "勇树姐姐可是世界第一的魔像猎人，\n你当然就是她的小弟啦！"
  },
  {
   "id": "MSG/MSG6200/98AEC",
@@ -118896,7 +118896,7 @@
   "offset": "396A0",
   "jp": "なぬっ！？\n",
   "en": "",
-  "zh": ""
+  "zh": "什么！？"
  },
  {
   "id": "MSG/MSG6200/98AED",
@@ -118905,7 +118905,7 @@
   "offset": "396AE",
   "jp": "えっへん！　\nその通り！",
   "en": "",
-  "zh": ""
+  "zh": "哼哼！　\n正是如此！"
  },
  {
   "id": "MSG/MSG6200/98AEE",
@@ -118914,7 +118914,7 @@
   "offset": "396C8",
   "jp": "・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/98AF0",
@@ -118923,7 +118923,7 @@
   "offset": "396D2",
   "jp": "この子のことかい？\n",
   "en": "",
-  "zh": ""
+  "zh": "是指这个孩子吗？"
  },
  {
   "id": "MSG/MSG6200/98AF1",
@@ -118932,7 +118932,7 @@
   "offset": "396E8",
   "jp": "うん！\nほら、ユウキおねえちゃんたちに挨拶しな",
   "en": "",
-  "zh": ""
+  "zh": "嗯！\n来，跟勇树姐姐他们打个招呼"
  },
  {
   "id": "MSG/MSG6200/98AF2",
@@ -118941,7 +118941,7 @@
   "offset": "39718",
   "jp": "はじめまちてでしゅ\nよろちくおねがいしましゅ",
   "en": "",
-  "zh": ""
+  "zh": "初次见棉，请多关照的说"
  },
  {
   "id": "MSG/MSG6200/98AF3",
@@ -118950,7 +118950,7 @@
   "offset": "39746",
   "jp": "ぽくもがんばってりっぱなこぶんになるでしゅ\n・・・そっちのおにぃたんみたいに",
   "en": "",
-  "zh": ""
+  "zh": "窝也要加油成为出色的小弟的说\n……就像那边的大哥哥一样"
  },
  {
   "id": "MSG/MSG6200/98AF4",
@@ -118959,7 +118959,7 @@
   "offset": "39794",
   "jp": "なっ！\n",
   "en": "",
-  "zh": ""
+  "zh": "什么！"
  },
  {
   "id": "MSG/MSG6200/98AF5",
@@ -118968,7 +118968,7 @@
   "offset": "3979E",
   "jp": "えへへ～\nがんばれよ～",
   "en": "",
-  "zh": ""
+  "zh": "嘿嘿～\n加油哦～"
  },
  {
   "id": "MSG/MSG6200/98AF6",
@@ -118977,7 +118977,7 @@
   "offset": "397B6",
   "jp": "・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/98B02",
@@ -118986,7 +118986,7 @@
   "offset": "397C0",
   "jp": "あかん・・・\nはらへって力でぇへんわ・・・",
   "en": "",
-  "zh": ""
+  "zh": "不行了……\n肚子饿得没力气了……"
  },
  {
   "id": "MSG/MSG6200/98B03",
@@ -118995,7 +118995,7 @@
   "offset": "397EC",
   "jp": "やっぱり、“ご利用は計画的に”やな・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "果然还是得“花钱有计划”啊……"
  },
  {
   "id": "MSG/MSG6200/98B0C",
@@ -119004,7 +119004,7 @@
   "offset": "39818",
   "jp": "い・・・いらん同情はえぇで！\nこれ以上あんさんらに迷惑かけたないわ！",
   "en": "",
-  "zh": ""
+  "zh": "我……我才不需要同情呢！\n不能再给你们添麻烦了！"
  },
  {
   "id": "MSG/MSG6200/98B0D",
@@ -119013,7 +119013,7 @@
   "offset": "3985E",
   "jp": "・・・あぁ・・・\nはらへった・・・",
   "en": "",
-  "zh": ""
+  "zh": "……啊……\n肚子好饿……"
  },
  {
   "id": "MSG/MSG6200/98B16",
@@ -119022,7 +119022,7 @@
   "offset": "39882",
   "jp": "おカシラがいろいろとやりなさるから\n問い合わせがたえなくてねｱ",
   "en": "",
-  "zh": ""
+  "zh": "头儿做了那么多事，\n搞得来打听的人络绎不绝呢ｱ"
  },
  {
   "id": "MSG/MSG6200/98B17",
@@ -119031,7 +119031,7 @@
   "offset": "398C2",
   "jp": "俺は窓口じゃねぇってのに・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "明明我又不是接待窗口……"
  },
  {
   "id": "MSG/MSG6200/98B20",
@@ -119040,7 +119040,7 @@
   "offset": "398E4",
   "jp": "・・・まぁ、おカシラの評判が上がるのは\n悪い気しねぇけどな",
   "en": "",
-  "zh": ""
+  "zh": "……不过，头儿的名声能变好，\n感觉倒也不坏就是了"
  },
  {
   "id": "MSG/MSG6200/98B21",
@@ -119049,7 +119049,7 @@
   "offset": "39920",
   "jp": "へへへ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "嘿嘿嘿……"
  },
  {
   "id": "MSG/MSG6200/98B2A",
@@ -119058,7 +119058,7 @@
   "offset": "39930",
   "jp": "おや、ユウキかい・・・あんた、お宝の地図\n以外に、とんでもないものを盗んでくれたね",
   "en": "",
-  "zh": ""
+  "zh": "哎呀，是勇树啊……除了藏宝图，\n你可真是偷走了一样不得了的东西呢"
  },
  {
   "id": "MSG/MSG6200/98B2B",
@@ -119067,7 +119067,7 @@
   "offset": "39984",
   "jp": "とんでもないもの？\n・・・なんだい、それ",
   "en": "",
-  "zh": ""
+  "zh": "不得了的东西？\n……那是什么啊"
  },
  {
   "id": "MSG/MSG6200/98B2C",
@@ -119076,7 +119076,7 @@
   "offset": "399AE",
   "jp": "・・・みんなの“心”だよ\n",
   "en": "",
-  "zh": ""
+  "zh": "……是大家的“心”哦"
  },
  {
   "id": "MSG/MSG6200/98B2D",
@@ -119085,7 +119085,7 @@
   "offset": "399CA",
   "jp": "あれ以来、みんな変わっちまった\n・・・あんたのおかげでね",
   "en": "",
-  "zh": ""
+  "zh": "自那以后，大家都变了\n……这全多亏了你呢"
  },
  {
   "id": "MSG/MSG6200/98B34",
@@ -119094,7 +119094,7 @@
   "offset": "39A04",
   "jp": "本当にとんでもないことをしてくれたもんだ\n・・・この街は変わっていくよ、これからね",
   "en": "",
-  "zh": ""
+  "zh": "真亏你干出这么件了不得的事啊\n……从今往后，这座城镇也会慢慢改变的吧"
  },
  {
   "id": "MSG/MSG6200/98B3E",
@@ -119103,7 +119103,7 @@
   "offset": "39A58",
   "jp": "街がどうなろうと\n金づるがすぐ生まれるわけでもないしのぅ",
   "en": "",
-  "zh": ""
+  "zh": "不管城镇变成什么样，\n摇钱树也不会马上冒出来呢"
  },
  {
   "id": "MSG/MSG6200/98B3F",
@@ -119112,7 +119112,7 @@
   "offset": "39A92",
   "jp": "・・・金づるを待つよりも、わしももう一度\n#W一攫千金#Rいっかくせんきん#rを狙ってみるかの",
   "en": "",
-  "zh": ""
+  "zh": "……与其坐等摇钱树，老夫我也再次\n去碰碰运气，图个#W一攫千金#Rいっかくせんきん#r吧"
  },
  {
   "id": "MSG/MSG6200/98B48",
@@ -119121,7 +119121,7 @@
   "offset": "39AF2",
   "jp": "発掘隊にでも、参加してみるかの・・・",
   "en": "",
-  "zh": ""
+  "zh": "去参加发掘队看看吧……"
  },
  {
   "id": "MSG/MSG6200/98B52",
@@ -119130,7 +119130,7 @@
   "offset": "39B18",
   "jp": "あんたぁ！\n",
   "en": "",
-  "zh": ""
+  "zh": "孩子他爹！"
  },
  {
   "id": "MSG/MSG6200/98B53",
@@ -119139,7 +119139,7 @@
   "offset": "39B26",
   "jp": "お前l\n",
   "en": "",
-  "zh": ""
+  "zh": "你l"
  },
  {
   "id": "MSG/MSG6200/98B54",
@@ -119148,7 +119148,7 @@
   "offset": "39B30",
   "jp": "いいことってのは続くモンだね\n・・・シティがよくなったと思ったらｱ",
   "en": "",
-  "zh": ""
+  "zh": "好事还真是一桩接一桩啊\n……刚觉得城市有了起色ｱ"
  },
  {
   "id": "MSG/MSG6200/98B55",
@@ -119157,7 +119157,7 @@
   "offset": "39B74",
   "jp": "こいつ生きて帰ってきたよ\n",
   "en": "",
-  "zh": ""
+  "zh": "这家伙居然就活着回来了"
  },
  {
   "id": "MSG/MSG6200/98B5C",
@@ -119166,7 +119166,7 @@
   "offset": "39B90",
   "jp": "心配かけたなぁ\n",
   "en": "",
-  "zh": ""
+  "zh": "让你担心了啊"
  },
  {
   "id": "MSG/MSG6200/98B5D",
@@ -119175,7 +119175,7 @@
   "offset": "39BA2",
   "jp": "いいんだよ、あんたが無事なら・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "没事啦，只要你平安无事就好……"
  },
  {
   "id": "MSG/MSG6200/98B5E",
@@ -119184,7 +119184,7 @@
   "offset": "39BC8",
   "jp": "よかった・・・\n本当によかった・・・",
   "en": "",
-  "zh": ""
+  "zh": "太好了……\n真的太好了……"
  },
  {
   "id": "MSG/MSG6200/98B66",
@@ -119193,7 +119193,7 @@
   "offset": "39BEE",
   "jp": "最近、ここに上ってくる風の匂いが\n変わった気がするんだ",
   "en": "",
-  "zh": ""
+  "zh": "总觉得，最近吹到这里的风\n气味好像变了呢"
  },
  {
   "id": "MSG/MSG6200/98B67",
@@ -119202,7 +119202,7 @@
   "offset": "39C26",
   "jp": "・・・すごく、気持ちのいい風だ・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "……真是让人感觉很舒服的风啊……"
  },
  {
   "id": "MSG/MSG6200/98B70",
@@ -119211,7 +119211,7 @@
   "offset": "39C4E",
   "jp": "みんなが少しづつ変わって\nこの街も、少しづつ変わってｱ",
   "en": "",
-  "zh": ""
+  "zh": "大家都在一点点改变\n这座城市，也在一点点改变……"
  },
  {
   "id": "MSG/MSG6200/98B71",
@@ -119220,7 +119220,7 @@
   "offset": "39C86",
   "jp": "少しづつでいいんだ\nきっといつかは、みんな幸せになれるから",
   "en": "",
-  "zh": ""
+  "zh": "慢慢来就好\n总有一天，大家一定都能获得幸福的"
  },
  {
   "id": "MSG/MSG6200/98B7A",
@@ -119229,7 +119229,7 @@
   "offset": "39CC2",
   "jp": "ジャンク山近くのバラックに住んでる\n男のところには、行ったことがあるかい？",
   "en": "",
-  "zh": ""
+  "zh": "住在废品山附近窝棚里的那个男人那里，\n你去看过了吗？"
  },
  {
   "id": "MSG/MSG6200/98B7B",
@@ -119238,7 +119238,7 @@
   "offset": "39D0E",
   "jp": "あぁ、あるぜ%M625534",
   "en": "%M625534",
-  "zh": ""
+  "zh": "啊，去过%M625534"
  },
  {
   "id": "MSG/MSG6200/98B7C",
@@ -119247,7 +119247,7 @@
   "offset": "39D2C",
   "jp": "いや、ないけど%M625538",
   "en": "%M625538",
-  "zh": ""
+  "zh": "没，还没去过%M625538"
  },
  {
   "id": "MSG/MSG6200/98B7E",
@@ -119256,7 +119256,7 @@
   "offset": "39D4C",
   "jp": "あぁ、あるぜ\n・・・なんで？",
   "en": "",
-  "zh": ""
+  "zh": "啊，去过啊\n……怎么了？"
  },
  {
   "id": "MSG/MSG6200/98B7F",
@@ -119265,7 +119265,7 @@
   "offset": "39D6A",
   "jp": "・・・彼の話、どう思う？\nもし彼の言っていることが真実ならｱ",
   "en": "",
-  "zh": ""
+  "zh": "……他的话，你觉得如何？\n如果他说的都是真的……"
  },
  {
   "id": "MSG/MSG6200/98B80",
@@ -119274,7 +119274,7 @@
   "offset": "39DA8",
   "jp": "この付近に眠るといわれるお宝って\n・・・近づいちゃいけないのかもしれないな",
   "en": "",
-  "zh": ""
+  "zh": "那据说沉睡在这附近的宝物\n……也许我们根本不该靠近啊"
  },
  {
   "id": "MSG/MSG6200/98B82",
@@ -119283,7 +119283,7 @@
   "offset": "39DF4",
   "jp": "いや、ないけど\n・・・なんで？",
   "en": "",
-  "zh": ""
+  "zh": "没，还没去过呢\n……怎么了？"
  },
  {
   "id": "MSG/MSG6200/98B83",
@@ -119292,7 +119292,7 @@
   "offset": "39E14",
   "jp": "だったら、一度行ってみるといい\n・・・あんたも旅人なら、面白い話が聞ける",
   "en": "",
-  "zh": ""
+  "zh": "那样的话，不妨去一趟看看\n……你也是旅人的话，能听到挺有意思的事呢"
  },
  {
   "id": "MSG/MSG6200/98B84",
@@ -119301,7 +119301,7 @@
   "offset": "39E5E",
   "jp": "ふ～ん・・・\n",
   "en": "",
-  "zh": ""
+  "zh": "哼～嗯……"
  },
  {
   "id": "MSG/MSG6200/98BC0",
@@ -119310,7 +119310,7 @@
   "offset": "39E6E",
   "jp": "なんかたくさん張り紙があるな\nどれどれｱ",
   "en": "Look at all these notes and rules...",
-  "zh": ""
+  "zh": "贴了好多告示啊\n我来看看……"
  },
  {
   "id": "MSG/MSG6200/98BC1",
@@ -119319,7 +119319,7 @@
   "offset": "39E98",
   "jp": "“借りたら返す、社会のルール！”\n",
   "en": "\"Pay back what you borrow, a law of\nsociety!\"",
-  "zh": ""
+  "zh": "“有借有还，社会规则！”"
  },
  {
   "id": "MSG/MSG6200/98BC2",
@@ -119328,7 +119328,7 @@
   "offset": "39EBC",
   "jp": "・・・\n",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/98BCA",
@@ -119337,7 +119337,7 @@
   "offset": "39EC6",
   "jp": "ワン！",
   "en": "Woof!",
-  "zh": ""
+  "zh": "汪！"
  },
  {
   "id": "MSG/MSG6200/98C24",
@@ -119346,7 +119346,7 @@
   "offset": "39ECE",
   "jp": "あんた、この街になれてないだろ？\n街の北側がジャンク山ｱ",
   "en": "You don't know your way around yet, do you?\nJunk mountain is in the north...",
-  "zh": ""
+  "zh": "你对这座城市还不习惯吧？\n城市的北面是废品山……"
  },
  {
   "id": "MSG/MSG6200/98C25",
@@ -119355,7 +119355,7 @@
   "offset": "39F08",
   "jp": "南のお屋敷が富豪フバイル様のお屋敷\n西に抜ければズィラーヤ砂漠だぜ",
   "en": "The mansion in the south belongs to Fubial.\nTo the west lies the desert.",
-  "zh": ""
+  "zh": "南边的大宅邸是富豪富巴尔老爷的府邸\n往西穿过去就是兹拉亚沙漠了"
  },
  {
   "id": "MSG/MSG6200/98C26",
@@ -119364,7 +119364,7 @@
   "offset": "39F4C",
   "jp": "砂漠を抜ければキョウトシティだ\n",
   "en": "Cross the desert and you'll get to Kyoto\nCity.",
-  "zh": ""
+  "zh": "穿过沙漠就是京都城了"
  },
  {
   "id": "MSG/MSG6200/98C27",
@@ -119373,7 +119373,7 @@
   "offset": "39F6E",
   "jp": "そこの足場のハシゴから高台に登ればシティ\n全体が見渡せるから、興味があったら行ってみな",
   "en": "Climb the ladder over there to get to the\nlookout, where you can see the whole City.",
-  "zh": ""
+  "zh": "顺着那边的脚手架梯子爬上高台，\n就能把整座城市尽收眼底，有兴趣的话去看看吧"
  },
  {
   "id": "MSG/MSG6200/99520",
@@ -119382,7 +119382,7 @@
   "offset": "39FC6",
   "jp": "おい、坊主",
   "en": "Hey, kid.",
-  "zh": ""
+  "zh": "喂，小子"
  },
  {
   "id": "MSG/MSG6200/99521",
@@ -119391,7 +119391,7 @@
   "offset": "39FD2",
   "jp": "お、なんや？　まだ、なんか用か兄ちゃん？",
   "en": "Yeah? You want something?",
-  "zh": ""
+  "zh": "哦，怎么啦？找我还有啥事吗，大哥？"
  },
  {
   "id": "MSG/MSG6200/99522",
@@ -119400,7 +119400,7 @@
   "offset": "39FFC",
   "jp": "用っていうか・・・\nこれを、お前に返そうと思って",
   "en": "Not exactly... I came to give this back to\nyou, actually.",
-  "zh": ""
+  "zh": "倒也不是有事……\n我是想着把这个还给你"
  },
  {
   "id": "MSG/MSG6200/99523",
@@ -119409,7 +119409,7 @@
   "offset": "3A02E",
   "jp": "これって・・・！",
   "en": "Hey...! That's...!",
-  "zh": ""
+  "zh": "这难道是……！"
  },
  {
   "id": "MSG/MSG6200/99524",
@@ -119418,7 +119418,7 @@
   "offset": "3A040",
   "jp": "ゴーレム笛",
   "en": "The Golem Flute.",
-  "zh": ""
+  "zh": "魔像笛"
  },
  {
   "id": "MSG/MSG6200/99525",
@@ -119427,7 +119427,7 @@
   "offset": "3A04C",
   "jp": "え？　どういうことや、いったい・・・",
   "en": "Yeah! But why do you have it?",
-  "zh": ""
+  "zh": "咦？到底是怎么一回事啊……"
  },
  {
   "id": "MSG/MSG6200/99526",
@@ -119436,7 +119436,7 @@
   "offset": "3A072",
   "jp": "それは・・・%F",
   "en": "It kinda goes like this...%F",
-  "zh": ""
+  "zh": "事情是这样的……%F"
  },
  {
   "id": "MSG/MSG6200/99527",
@@ -119445,7 +119445,7 @@
   "offset": "3A084",
   "jp": "なるほどなぁ",
   "en": "I see.",
-  "zh": ""
+  "zh": "原来是这样啊。"
  },
  {
   "id": "MSG/MSG6200/99528",
@@ -119454,7 +119454,7 @@
   "offset": "3A092",
   "jp": "ユウキの姉ちゃんが、ゴーレム笛を#W盗#Rと#rったんか",
   "en": "So Yuki nabbed it, did she?",
-  "zh": ""
+  "zh": "原来是勇树姐姐把魔像笛#W偷#R走#r了吗？"
  },
  {
   "id": "MSG/MSG6200/99529",
@@ -119463,7 +119463,7 @@
   "offset": "3A0CC",
   "jp": "ああ",
   "en": "Yeah.",
-  "zh": ""
+  "zh": "嗯。"
  },
  {
   "id": "MSG/MSG6200/9952A",
@@ -119472,7 +119472,7 @@
   "offset": "3A0D2",
   "jp": "で、もとはといえば、この笛を掘り当てたのは\nお前だから、返そうと思って・・・",
   "en": "But seeing as you're the one who found it\nin the first place, I thought you'd want it.",
-  "zh": ""
+  "zh": "所以，说到底当初挖出这支笛子的人\n是你，我想着还是该还给你……"
  },
  {
   "id": "MSG/MSG6200/9952B",
@@ -119481,7 +119481,7 @@
   "offset": "3A120",
   "jp": "いらへんわ",
   "en": "Nope.",
-  "zh": ""
+  "zh": "俺不要。"
  },
  {
   "id": "MSG/MSG6200/9952C",
@@ -119490,7 +119490,7 @@
   "offset": "3A12C",
   "jp": "は？",
   "en": "What?",
-  "zh": ""
+  "zh": "啊？"
  },
  {
   "id": "MSG/MSG6200/9952D",
@@ -119499,7 +119499,7 @@
   "offset": "3A132",
   "jp": "いらへん、言うたんや",
   "en": "I don't want it.",
-  "zh": ""
+  "zh": "俺都说了，俺不要啦。"
  },
  {
   "id": "MSG/MSG6200/9952E",
@@ -119508,7 +119508,7 @@
   "offset": "3A148",
   "jp": "どうしてよ？",
   "en": "Why not?",
-  "zh": ""
+  "zh": "为什么啊？"
  },
  {
   "id": "MSG/MSG6200/9952F",
@@ -119517,7 +119517,7 @@
   "offset": "3A156",
   "jp": "がんばって、掘り当てたんでしょう？",
   "en": "It couldn't have been easy to find...",
-  "zh": ""
+  "zh": "这可是你辛苦挖出来的吧？"
  },
  {
   "id": "MSG/MSG6200/99530",
@@ -119526,7 +119526,7 @@
   "offset": "3A17A",
   "jp": "せやけどｱ",
   "en": "Well, that's true.",
-  "zh": ""
+  "zh": "话是这么说啦。"
  },
  {
   "id": "MSG/MSG6200/99531",
@@ -119535,7 +119535,7 @@
   "offset": "3A186",
   "jp": "兄ちゃんら、ユウキの姉ちゃん\n助けたいんやろ？",
   "en": "But you want to save Yuki, right?",
-  "zh": ""
+  "zh": "大哥哥你们，是想救勇树姐姐\n对吧？"
  },
  {
   "id": "MSG/MSG6200/99532",
@@ -119544,7 +119544,7 @@
   "offset": "3A1B6",
   "jp": "せやったら、あげるわ",
   "en": "So I'll give it to you.",
-  "zh": ""
+  "zh": "既然这样，那就送给你们了。"
  },
  {
   "id": "MSG/MSG6200/99533",
@@ -119553,7 +119553,7 @@
   "offset": "3A1CC",
   "jp": "わいも気持ち、わかるもん",
   "en": "Because I know what you're going through.",
-  "zh": ""
+  "zh": "俺也很能体会这种心情的。"
  },
  {
   "id": "MSG/MSG6200/99534",
@@ -119562,7 +119562,7 @@
   "offset": "3A1E6",
   "jp": "サンディ人質・・・ちごて、犬質に\nとられたとき、ごっついつらかったし",
   "en": "I was sick with worry when that guy \nkidnapped... well, dognapped, Sandy.",
-  "zh": ""
+  "zh": "桑迪被抓去当人质……不对，当狗质\n的时候，俺心里也难受得要命呢。"
  },
  {
   "id": "MSG/MSG6200/99535",
@@ -119571,7 +119571,7 @@
   "offset": "3A22C",
   "jp": "アナタ・・・いい子ね",
   "en": "You're a good boy, you know that?",
-  "zh": ""
+  "zh": "你……真是个好孩子呢。"
  },
  {
   "id": "MSG/MSG6200/99536",
@@ -119580,7 +119580,7 @@
   "offset": "3A242",
   "jp": "そか？",
   "en": "Yeah?",
-  "zh": ""
+  "zh": "是吗？"
  },
  {
   "id": "MSG/MSG6200/99537",
@@ -119589,7 +119589,7 @@
   "offset": "3A24A",
   "jp": "そうよ！",
   "en": "Absolutely.",
-  "zh": ""
+  "zh": "当然是了！"
  },
  {
   "id": "MSG/MSG6200/99538",
@@ -119598,7 +119598,7 @@
   "offset": "3A254",
   "jp": "アナタ、気に入ったわ！",
   "en": "I really like you!",
-  "zh": ""
+  "zh": "我挺中意你的！"
  },
  {
   "id": "MSG/MSG6200/99539",
@@ -119607,7 +119607,7 @@
   "offset": "3A26C",
   "jp": "カ、カリン様？\n急に、どうしたのですか？",
   "en": "...My lady? Are you okay?",
-  "zh": ""
+  "zh": "卡、卡琳大人？\n您突然之间这是怎么了？"
  },
  {
   "id": "MSG/MSG6200/9953A",
@@ -119616,7 +119616,7 @@
   "offset": "3A296",
   "jp": "どうもこうも、ないわよ！",
   "en": "Of course I am!",
-  "zh": ""
+  "zh": "还能怎么了啊！"
  },
  {
   "id": "MSG/MSG6200/9953B",
@@ -119625,7 +119625,7 @@
   "offset": "3A2B0",
   "jp": "もとはと言えば、ぜんぶあのフバイルって\n富豪が悪いんじゃない！",
   "en": "That Fubial is to blame for all of this!",
-  "zh": ""
+  "zh": "说到底，全都是那个叫福拜尔的\n大富豪不好嘛！"
  },
  {
   "id": "MSG/MSG6200/9953C",
@@ -119634,7 +119634,7 @@
   "offset": "3A2F0",
   "jp": "もともと、人から奪ったものなのよ",
   "en": "He stole it from someone else in the first\nplace!",
-  "zh": ""
+  "zh": "那东西本来就是他从别人手里抢走的吧。"
  },
  {
   "id": "MSG/MSG6200/9953D",
@@ -119643,7 +119643,7 @@
   "offset": "3A312",
   "jp": "盗まれたからって、ユウキを捕まえておく\n権利はアイツにはないわ！",
   "en": "He's got no right to punish Yuki for\nstealing it, after stealing it himself!",
-  "zh": ""
+  "zh": "就算被偷了，那家伙也根本没有\n把勇树抓起来的权力！"
  },
  {
   "id": "MSG/MSG6200/9953E",
@@ -119652,7 +119652,7 @@
   "offset": "3A354",
   "jp": "たしかに、そうかも・・・！",
   "en": "You're right...!",
-  "zh": ""
+  "zh": "确实，也许是这样……！"
  },
  {
   "id": "MSG/MSG6200/9953F",
@@ -119661,7 +119661,7 @@
   "offset": "3A370",
   "jp": "だから、笛はやっぱりアナタに返す",
   "en": "So here, take the flute back.",
-  "zh": ""
+  "zh": "所以，笛子果然还是还给你。"
  },
  {
   "id": "MSG/MSG6200/99540",
@@ -119670,7 +119670,7 @@
   "offset": "3A392",
   "jp": "え？",
   "en": "Eh?",
-  "zh": ""
+  "zh": "诶？"
  },
  {
   "id": "MSG/MSG6200/99541",
@@ -119679,7 +119679,7 @@
   "offset": "3A398",
   "jp": "せやけど、ユウキの姉ちゃんは\nどやって取り戻すん？",
   "en": "So how will you save Yuki?",
-  "zh": ""
+  "zh": "可是，那要怎么才能把勇树姐姐\n救回来啊？"
  },
  {
   "id": "MSG/MSG6200/99542",
@@ -119688,7 +119688,7 @@
   "offset": "3A3CC",
   "jp": "フフン、私に一つ“策”があるわ",
   "en": "I've got a plan! Don't worry!",
-  "zh": ""
+  "zh": "哼哼，我心里已经有了一计“妙策”。"
  },
  {
   "id": "MSG/MSG6200/99543",
@@ -119697,7 +119697,7 @@
   "offset": "3A3EC",
   "jp": "策・・・と言いますと？",
   "en": "A plan... what kind of plan...?",
-  "zh": ""
+  "zh": "妙策……指的是？"
  },
  {
   "id": "MSG/MSG6200/99544",
@@ -119706,7 +119706,7 @@
   "offset": "3A404",
   "jp": "実力行使よ！　正面突破よ！",
   "en": "Take her back by sheer force! Storm the \nplace!",
-  "zh": ""
+  "zh": "诉诸武力！正面突破！"
  },
  {
   "id": "MSG/MSG6200/99545",
@@ -119715,7 +119715,7 @@
   "offset": "3A420",
   "jp": "カリン・・・？\nそれは、“策”って言わないんじゃ・・・",
   "en": "Karin...? That isn't really a... plan...?",
-  "zh": ""
+  "zh": "卡琳……？\n这根本算不上是“计策”吧……"
  },
  {
   "id": "MSG/MSG6200/99546",
@@ -119724,7 +119724,7 @@
   "offset": "3A458",
   "jp": "うるさいわね、文句あるの？",
   "en": "You have a problem with my plan?! ",
-  "zh": ""
+  "zh": "吵死了，你有意见吗？"
  },
  {
   "id": "MSG/MSG6200/99547",
@@ -119733,7 +119733,7 @@
   "offset": "3A474",
   "jp": "ないぜ、大賛成だ！",
   "en": "No, not at all! I'm in total agreement!",
-  "zh": ""
+  "zh": "没意见，举双手赞成！"
  },
  {
   "id": "MSG/MSG6200/99548",
@@ -119742,7 +119742,7 @@
   "offset": "3A488",
   "jp": "やむを得ませんな",
   "en": "And I appear to be out-voted.",
-  "zh": ""
+  "zh": "看来只能如此了。"
  },
  {
   "id": "MSG/MSG6200/99549",
@@ -119751,7 +119751,7 @@
   "offset": "3A49A",
   "jp": "よし、じゃあ富豪の家に、乗り込むわよ！",
   "en": "Right! Time to hit that rich scoundrel's \nhouse, then!",
-  "zh": ""
+  "zh": "好，那就冲进那个大富豪的家里！"
  },
  {
   "id": "MSG/MSG6200/99552",
@@ -119760,7 +119760,7 @@
   "offset": "3A4C2",
   "jp": "おや、なんだい？　オメェら",
   "en": "Oh, you again? What now?",
-  "zh": ""
+  "zh": "哎呀，怎么了？你们几个。"
  },
  {
   "id": "MSG/MSG6200/99553",
@@ -119769,7 +119769,7 @@
   "offset": "3A4DE",
   "jp": "真犯人とやらは、見つかったのかい？",
   "en": "Have you found my burglar?",
-  "zh": ""
+  "zh": "所谓的真凶，找到了吗？"
  },
  {
   "id": "MSG/MSG6200/99554",
@@ -119778,7 +119778,7 @@
   "offset": "3A502",
   "jp": "いや、犯人はユウキだ",
   "en": "No. It was Yuki, after all.",
-  "zh": ""
+  "zh": "不，凶手就是勇树。"
  },
  {
   "id": "MSG/MSG6200/99555",
@@ -119787,7 +119787,7 @@
   "offset": "3A518",
   "jp": "カカカ！\nそうかい、認める気になったのかい",
   "en": "Hah ha ha! So you finally admit it!",
-  "zh": ""
+  "zh": "咔咔咔！\n是嘛，终于肯承认了啊。"
  },
  {
   "id": "MSG/MSG6200/99556",
@@ -119796,7 +119796,7 @@
   "offset": "3A544",
   "jp": "てことは・・・ゴーレム笛も見つかったんだね？",
   "en": "But you've recovered the Golem Flute, I take\nit?",
-  "zh": ""
+  "zh": "这么说来……魔像笛也找到了吧？"
  },
  {
   "id": "MSG/MSG6200/99557",
@@ -119805,7 +119805,7 @@
   "offset": "3A572",
   "jp": "ああ、だけど、お前には返さないぞ",
   "en": "Yeah, but... we're not giving it back to\nyou.",
-  "zh": ""
+  "zh": "啊，不过，可不会还给你。"
  },
  {
   "id": "MSG/MSG6200/99558",
@@ -119814,7 +119814,7 @@
   "offset": "3A594",
   "jp": "なに？\nお前、ユウキがどうなってもいいのかい？",
   "en": "What?! Don't you care what happens to Yuki?",
-  "zh": ""
+  "zh": "什么？\n臭小子，不管勇树会怎么样了吗？"
  },
  {
   "id": "MSG/MSG6200/99559",
@@ -119823,7 +119823,7 @@
   "offset": "3A5C4",
   "jp": "いや、ユウキは、返してもらうぞ",
   "en": "Of course I do. We'll be taking her back,\ntoo.",
-  "zh": ""
+  "zh": "不，勇树我们也要带回去。"
  },
  {
   "id": "MSG/MSG6200/9955A",
@@ -119832,7 +119832,7 @@
   "offset": "3A5E4",
   "jp": "なんだって？",
   "en": "What?!",
-  "zh": ""
+  "zh": "你说什么？！"
  },
  {
   "id": "MSG/MSG6200/9955B",
@@ -119841,7 +119841,7 @@
   "offset": "3A5F2",
   "jp": "お前は、自分が盗んだものを、盗まれただけだ",
   "en": "It may have been stolen from you, but you\nstole it in the first place!",
-  "zh": ""
+  "zh": "你不过是被偷走了自己偷来的东西而已。"
  },
  {
   "id": "MSG/MSG6200/9955C",
@@ -119850,7 +119850,7 @@
   "offset": "3A61E",
   "jp": "ユウキを捕まえとく、権利はないぜ",
   "en": "You don't have any right to hold Yuki for\nthe crime you committed yourself!",
-  "zh": ""
+  "zh": "你根本没有扣留勇树的权利！"
  },
  {
   "id": "MSG/MSG6200/9955D",
@@ -119859,7 +119859,7 @@
   "offset": "3A640",
   "jp": "あん・・・？",
   "en": "What...?!",
-  "zh": ""
+  "zh": "啊……？！"
  },
  {
   "id": "MSG/MSG6200/9955E",
@@ -119868,7 +119868,7 @@
   "offset": "3A64E",
   "jp": "そうかい、あの坊主に話を聞いたんだね",
   "en": "So you talked to that kid, did you?",
-  "zh": ""
+  "zh": "是嘛，看来是从那个小鬼嘴里听说了啊。"
  },
  {
   "id": "MSG/MSG6200/9955F",
@@ -119877,7 +119877,7 @@
   "offset": "3A674",
   "jp": "だがね、アタシたちは盗掘団だ",
   "en": "Listen, we're Excavators, okay?",
-  "zh": ""
+  "zh": "不过呢，我们可是盗掘团。"
  },
  {
   "id": "MSG/MSG6200/99560",
@@ -119886,7 +119886,7 @@
   "offset": "3A692",
   "jp": "盗んだものも、立派に自分のものさ",
   "en": "Find, steal, whatever!\nOnce it's ours, it's ours!",
-  "zh": ""
+  "zh": "就算是偷来的东西，也名正言顺是属于自己的东西。"
  },
  {
   "id": "MSG/MSG6200/99561",
@@ -119895,7 +119895,7 @@
   "offset": "3A6B4",
   "jp": "チッ、汚ねーやつだな",
   "en": "You play dirty.",
-  "zh": ""
+  "zh": "啧，真卑鄙的家伙。"
  },
  {
   "id": "MSG/MSG6200/99562",
@@ -119904,7 +119904,7 @@
   "offset": "3A6CA",
   "jp": "ほめ言葉と受け取っとくよ",
   "en": "I'll take that as a compliment.",
-  "zh": ""
+  "zh": "那我就当成是对我的夸奖收下了。"
  },
  {
   "id": "MSG/MSG6200/99563",
@@ -119913,7 +119913,7 @@
   "offset": "3A6E4",
   "jp": "とにかく、ユウキは返してもらうぞ！",
   "en": "Anyway, I'm still taking Yuki out of here!",
-  "zh": ""
+  "zh": "总之，勇树我们带走了！"
  },
  {
   "id": "MSG/MSG6200/99564",
@@ -119922,7 +119922,7 @@
   "offset": "3A708",
   "jp": "そうかい、仕方ないね・・・",
   "en": "You poor fool...",
-  "zh": ""
+  "zh": "是嘛，那可由不得你们了……"
  },
  {
   "id": "MSG/MSG6200/99565",
@@ -119931,7 +119931,7 @@
   "offset": "3A724",
   "jp": "#W砂塵#Rさじん#rの盗掘団の恐ろしさを、教えてやるよ！",
   "en": "Time to taste the power of the Sandstorm!",
-  "zh": ""
+  "zh": "#W砂尘#Rさじん#r盗掘团的恐怖，就让老娘好好教教你们吧！"
  },
  {
   "id": "MSG/MSG6200/99584",
@@ -119940,7 +119940,7 @@
   "offset": "3A760",
   "jp": "ぐ・・・小僧、よくも・・・",
   "en": "Guh... damn you...!",
-  "zh": ""
+  "zh": "咕……臭小子，竟敢……"
  },
  {
   "id": "MSG/MSG6200/99585",
@@ -119949,7 +119949,7 @@
   "offset": "3A77C",
   "jp": "フン、ユウキは返してもらうぜ%F",
   "en": "We're taking Yuki back, okay?%F",
-  "zh": ""
+  "zh": "哼，勇树我们就带回去了%F"
  },
  {
   "id": "MSG/MSG6200/99586",
@@ -119958,7 +119958,7 @@
   "offset": "3A79E",
   "jp": "おい、ユウキ？",
   "en": "Hey, Yuki!",
-  "zh": ""
+  "zh": "喂，勇树？"
  },
  {
   "id": "MSG/MSG6200/99587",
@@ -119967,7 +119967,7 @@
   "offset": "3A7AE",
   "jp": "どこだ、ユウキー？",
   "en": "Where are you, Yuki?!",
-  "zh": ""
+  "zh": "在哪儿呢，勇树——？"
  },
  {
   "id": "MSG/MSG6200/99588",
@@ -119976,7 +119976,7 @@
   "offset": "3A7C2",
   "jp": "アンタには、がっかりしたよ、アツマ",
   "en": "I'm so annoyed with you, Atsuma!",
-  "zh": ""
+  "zh": "你太让我失望了，阿茨玛"
  },
  {
   "id": "MSG/MSG6200/99589",
@@ -119985,7 +119985,7 @@
   "offset": "3A7E6",
   "jp": "ユウキ！？",
   "en": "Yuki?!",
-  "zh": ""
+  "zh": "勇树！？"
  },
  {
   "id": "MSG/MSG6200/9958A",
@@ -119994,7 +119994,7 @@
   "offset": "3A7F2",
   "jp": "アツマ、アンタ勝手に“ゴーレム笛”を\n返したんだってね",
   "en": "You gave the Golem Flute back, didn't you?!",
-  "zh": ""
+  "zh": "阿茨玛，听说你擅自把“魔像之笛”\n还回去了啊"
  },
  {
   "id": "MSG/MSG6200/9958B",
@@ -120003,7 +120003,7 @@
   "offset": "3A82A",
   "jp": "なにを、かんちがいしているのか\n知らないけどｱ",
   "en": "I think you've got the wrong idea about me.",
-  "zh": ""
+  "zh": "我不知道你到底误会了什么，\n但是ｱ"
  },
  {
   "id": "MSG/MSG6200/9958C",
@@ -120012,7 +120012,7 @@
   "offset": "3A85A",
   "jp": "アタシの流儀に、口を出すんなら\nいくらアツマでも、タダじゃおかないわよ",
   "en": "I'm not going to forgive you for judging\nthe way I lead my life!",
-  "zh": ""
+  "zh": "要是敢对我做事的方式指手画脚，\n就算是你阿茨玛，我也绝不会轻易饶过你！"
  },
  {
   "id": "MSG/MSG6200/9958D",
@@ -120021,7 +120021,7 @@
   "offset": "3A8A2",
   "jp": "アタシは、世界一のゴーレムハンターになる",
   "en": "I'm going to be the number one Golem Hunter\nin the world!",
-  "zh": ""
+  "zh": "我要成为世界第一的魔像猎人"
  },
  {
   "id": "MSG/MSG6200/9958E",
@@ -120030,7 +120030,7 @@
   "offset": "3A8CC",
   "jp": "珍しいゴーレムを手に入れるためなら\n手段は選ばない",
   "en": "I'll do anything to obtain rare Golems.",
-  "zh": ""
+  "zh": "为了得到珍稀的魔像，\n我可以不择手段"
  },
  {
   "id": "MSG/MSG6200/9958F",
@@ -120039,7 +120039,7 @@
   "offset": "3A900",
   "jp": "人のものだって盗むし、うばう",
   "en": "Even if that means stealing! Or cheating\nothers!",
-  "zh": ""
+  "zh": "别人的东西我也照偷照抢不误"
  },
  {
   "id": "MSG/MSG6200/99590",
@@ -120048,7 +120048,7 @@
   "offset": "3A91E",
   "jp": "それが、アタシの生き方だ\nそれが、アタシの大切なことだ",
   "en": "That's how I live, okay? That's what's\nimportant to me!",
-  "zh": ""
+  "zh": "那就是我的生存之道，\n那就是对我最重要的东西"
  },
  {
   "id": "MSG/MSG6200/99591",
@@ -120057,7 +120057,7 @@
   "offset": "3A956",
   "jp": "ユウキ、お前・・・",
   "en": "Yuki...!",
-  "zh": ""
+  "zh": "勇树，你这家伙……"
  },
  {
   "id": "MSG/MSG6200/99592",
@@ -120066,7 +120066,7 @@
   "offset": "3A96A",
   "jp": "がっかりだよ、アツマ",
   "en": "I'm so disappointed in you, Atsuma!",
-  "zh": ""
+  "zh": "真让我失望，阿茨玛"
  },
  {
   "id": "MSG/MSG6200/99593",
@@ -120075,7 +120075,7 @@
   "offset": "3A980",
   "jp": "トウヤって子のことだけ考えて\n突っ走ってる、アンタならｱ",
   "en": "I would have thought you, as consumed as you\nare with trying to rescue that Toya guy...",
-  "zh": ""
+  "zh": "满脑子只想着托亚那家伙、\n一根筋往前冲的你ｱ"
  },
  {
   "id": "MSG/MSG6200/99594",
@@ -120084,7 +120084,7 @@
   "offset": "3A9BA",
   "jp": "アタシの気持ち、わかってくれると\n思ってたのに・・・",
   "en": "Would be able to understand me!",
-  "zh": ""
+  "zh": "我本来以为，你一定能理解我的心情的……"
  },
  {
   "id": "MSG/MSG6200/99595",
@@ -120093,7 +120093,7 @@
   "offset": "3A9F0",
   "jp": "あばよ！",
   "en": "Goodbye, then!",
-  "zh": ""
+  "zh": "再见吧！"
  },
  {
   "id": "MSG/MSG6200/99596",
@@ -120102,7 +120102,7 @@
   "offset": "3A9FA",
   "jp": "ま、待て、ユウキ！%F",
   "en": "Hey, wait! Yuki!%F",
-  "zh": ""
+  "zh": "等、等等，勇树！%F"
  },
  {
   "id": "MSG/MSG6200/99597",
@@ -120111,7 +120111,7 @@
   "offset": "3AA12",
   "jp": "くっそ・・・ユウキ、どこ行った？",
   "en": "Where's she gone?!",
-  "zh": ""
+  "zh": "可恶……勇树跑哪儿去了？"
  },
  {
   "id": "MSG/MSG6200/99598",
@@ -120120,7 +120120,7 @@
   "offset": "3AA34",
   "jp": "アツマ、きっと#CFF697DBEあの子#cのところに行ったのよ！",
   "en": "Back to #CFF697DBEthat boy#c, I'm sure!",
-  "zh": ""
+  "zh": "阿茨玛，她肯定去#CFF697DBE那个孩子#c那里了！"
  },
  {
   "id": "MSG/MSG6200/99599",
@@ -120129,7 +120129,7 @@
   "offset": "3AA78",
   "jp": "笛を取りにか・・・？",
   "en": "To get the flute back again?!",
-  "zh": ""
+  "zh": "去抢笛子了吗……？"
  },
  {
   "id": "MSG/MSG6200/9959A",
@@ -120138,7 +120138,7 @@
   "offset": "3AA8E",
   "jp": "くそっ、バッカヤロー！",
   "en": "Oh, that fool!",
-  "zh": ""
+  "zh": "可恶，这个大笨蛋！"
  },
  {
   "id": "MSG/MSG6200/9959B",
@@ -120147,7 +120147,7 @@
   "offset": "3AAA6",
   "jp": "ユウキを、追うぞ",
   "en": "Come on, let's go after her!",
-  "zh": ""
+  "zh": "去追勇树！"
  },
  {
   "id": "MSG/MSG6200/9964C",
@@ -120156,7 +120156,7 @@
   "offset": "3AAB8",
   "jp": "ああ、犯人はおそらく・・・",
   "en": "I think so. The thief is...",
-  "zh": ""
+  "zh": "啊，犯人大概是……"
  },
  {
   "id": "MSG/MSG6200/9964D",
@@ -120165,7 +120165,7 @@
   "offset": "3AAD4",
   "jp": "オレだ%M628310",
   "en": "Me%M628310",
-  "zh": ""
+  "zh": "是我%M628310"
  },
  {
   "id": "MSG/MSG6200/9964E",
@@ -120174,7 +120174,7 @@
   "offset": "3AAEC",
   "jp": "この街の中にいる%M628320",
   "en": "In this town%M628320",
-  "zh": ""
+  "zh": "就在这座城里%M628320"
  },
  {
   "id": "MSG/MSG6200/9964F",
@@ -120183,7 +120183,7 @@
   "offset": "3AB0E",
   "jp": "ユウキだ%M628330",
   "en": "Yuki%M628330",
-  "zh": ""
+  "zh": "是勇树%M628330"
  },
  {
   "id": "MSG/MSG6200/99656",
@@ -120192,7 +120192,7 @@
   "offset": "3AB28",
   "jp": "ああ、犯人はｱ",
   "en": "The thief is...",
-  "zh": ""
+  "zh": "啊，犯人是ｱ"
  },
  {
   "id": "MSG/MSG6200/99657",
@@ -120201,7 +120201,7 @@
   "offset": "3AB38",
   "jp": "オレだ！！",
   "en": "Me!!",
-  "zh": ""
+  "zh": "是我！！"
  },
  {
   "id": "MSG/MSG6200/99658",
@@ -120210,7 +120210,7 @@
   "offset": "3AB44",
   "jp": "ふざけてないで、ちゃんと答えて！",
   "en": "Cut that out and answer seriously!",
-  "zh": ""
+  "zh": "别胡闹了，给我认真回答！"
  },
  {
   "id": "MSG/MSG6200/99659",
@@ -120219,7 +120219,7 @@
   "offset": "3AB66",
   "jp": "・・・す、すいません",
   "en": "...S... Sorry.",
-  "zh": ""
+  "zh": "……对、对不起"
  },
  {
   "id": "MSG/MSG6200/9965A",
@@ -120228,7 +120228,7 @@
   "offset": "3AB7C",
   "jp": "ええと、じゃあ改めて・・・\n犯人は・・・%J628301",
   "en": "Okay, so actually, the thief is...%J628301",
-  "zh": ""
+  "zh": "呃，那重新来过……\n犯人是……%J628301"
  },
  {
   "id": "MSG/MSG6200/99660",
@@ -120237,7 +120237,7 @@
   "offset": "3ABB6",
   "jp": "ああ、犯人はｱ",
   "en": "The thief is...",
-  "zh": ""
+  "zh": "啊，犯人是ｱ"
  },
  {
   "id": "MSG/MSG6200/99661",
@@ -120246,7 +120246,7 @@
   "offset": "3ABC6",
   "jp": "この街の中にいる！",
   "en": "In this town!",
-  "zh": ""
+  "zh": "就在这城镇里！"
  },
  {
   "id": "MSG/MSG6200/99662",
@@ -120255,7 +120255,7 @@
   "offset": "3ABDA",
   "jp": "・・・そんなのは、わかってるのよ",
   "en": "...We know that already!",
-  "zh": ""
+  "zh": "……那种事不用你说也知道啦。"
  },
  {
   "id": "MSG/MSG6200/99663",
@@ -120264,7 +120264,7 @@
   "offset": "3ABFC",
   "jp": "ふざけてると、蹴り殺すわよ",
   "en": "Keep this up and I'm going to kick you!",
-  "zh": ""
+  "zh": "再敢胡闹，小心我踢死你哦。"
  },
  {
   "id": "MSG/MSG6200/99664",
@@ -120273,7 +120273,7 @@
   "offset": "3AC18",
   "jp": "・・・ご、ごめん",
   "en": "...S... Sorry.",
-  "zh": ""
+  "zh": "……对、对不起。"
  },
  {
   "id": "MSG/MSG6200/99665",
@@ -120282,7 +120282,7 @@
   "offset": "3AC2A",
   "jp": "ええと、じゃあ改めて・・・\n犯人は・・・%J628301",
   "en": "Okay, so actually, the thief is...%J628301",
-  "zh": ""
+  "zh": "呃，那重新来过……\n犯人是……%J628301"
  },
  {
   "id": "MSG/MSG6200/9966A",
@@ -120291,7 +120291,7 @@
   "offset": "3AC64",
   "jp": "犯人は、たぶん・・・",
   "en": "The thief is... most likely...",
-  "zh": ""
+  "zh": "犯人大概是……"
  },
  {
   "id": "MSG/MSG6200/9966B",
@@ -120300,7 +120300,7 @@
   "offset": "3AC7A",
   "jp": "ユウキだ",
   "en": "Yuki.",
-  "zh": ""
+  "zh": "勇树"
  },
  {
   "id": "MSG/MSG6200/9966C",
@@ -120309,7 +120309,7 @@
   "offset": "3AC84",
   "jp": "ええ、いままでの情報を考えると\nやっぱり、そう考えざるを得ないわね",
   "en": "Yes. Considering all the information... we\nare left with no other choice.",
-  "zh": ""
+  "zh": "是啊，结合目前掌握的情报来看，\n果然不得不这么认为了呢。"
  },
  {
   "id": "MSG/MSG6200/9966D",
@@ -120318,7 +120318,7 @@
   "offset": "3ACC8",
   "jp": "いま考えてみれば、みんなが集合してるところに\nなかなか来なかったのだってｱ",
   "en": "Thinking about it now, the reason she kept\nus waiting for so long...",
-  "zh": ""
+  "zh": "现在想来，大家集合的时候\n她迟迟没来也是因为……"
  },
  {
   "id": "MSG/MSG6200/9966E",
@@ -120327,7 +120327,7 @@
   "offset": "3AD14",
   "jp": "フバイルの家に、盗みに入っていたからって\nわけね",
   "en": "Was probably because she was in Fubial's\nhouse carrying out the robbery.",
-  "zh": ""
+  "zh": "潜入弗贝尔家行窃去了\n对吧。"
  },
  {
   "id": "MSG/MSG6200/9966F",
@@ -120336,7 +120336,7 @@
   "offset": "3AD46",
   "jp": "けど・・・きっと、なにかわけがあるはずだ",
   "en": "Yeah, but... there has to be a reason for\nall this.",
-  "zh": ""
+  "zh": "可是……一定是有什么苦衷的。"
  },
  {
   "id": "MSG/MSG6200/99670",
@@ -120345,7 +120345,7 @@
   "offset": "3AD70",
   "jp": "“わけがある”、ですって？",
   "en": "A reason?!",
-  "zh": ""
+  "zh": "“苦衷”，你说有苦衷？！"
  },
  {
   "id": "MSG/MSG6200/99671",
@@ -120354,7 +120354,7 @@
   "offset": "3AD8C",
   "jp": "どうせ、たんにゴーレムが欲しいから盗んだに\n決まっているじゃない",
   "en": "I've got your reason, all right! She stole it\nto get her hands on that Golem!",
-  "zh": ""
+  "zh": "反正肯定只是因为想要魔像\n才偷走的，不是明摆着嘛！"
  },
  {
   "id": "MSG/MSG6200/99672",
@@ -120363,7 +120363,7 @@
   "offset": "3ADCE",
   "jp": "いや、でも、きっとなにか・・・",
   "en": "Yeah, but, there must be something else,\ntoo...",
-  "zh": ""
+  "zh": "不，但是，一定是有什么……"
  },
  {
   "id": "MSG/MSG6200/99673",
@@ -120372,7 +120372,7 @@
   "offset": "3ADEE",
   "jp": "アツマ、お人好しなのもいい加減にしなさいよ",
   "en": "Atsuma, there is no need to defend her this\nmuch!",
-  "zh": ""
+  "zh": "阿茨玛，你当老好人也该有个限度吧！"
  },
  {
   "id": "MSG/MSG6200/99674",
@@ -120381,7 +120381,7 @@
   "offset": "3AE1A",
   "jp": "けどさ！　あいつは・・・大切な仲間なんだ",
   "en": "Come on, Karin! She's our comrade... our\nfriend...!",
-  "zh": ""
+  "zh": "可是啊！那家伙是……我们重要的同伴啊！"
  },
  {
   "id": "MSG/MSG6200/99675",
@@ -120390,7 +120390,7 @@
   "offset": "3AE44",
   "jp": "オレがつらいときに・・・気合入れてくれたんだ",
   "en": "When I'm down... she's the one who gets me\nfired up again!",
-  "zh": ""
+  "zh": "在我难熬的时候……是她帮我打起精神来的啊！"
  },
  {
   "id": "MSG/MSG6200/99676",
@@ -120399,7 +120399,7 @@
   "offset": "3AE72",
   "jp": "だからって、泥棒したのを見すごすの？",
   "en": "And that means you can just ignore her\ncriminal acts?",
-  "zh": ""
+  "zh": "难道就因为这个，就能对她偷窃的事视而不见吗？"
  },
  {
   "id": "MSG/MSG6200/99677",
@@ -120408,7 +120408,7 @@
   "offset": "3AE98",
   "jp": "カリン様",
   "en": "Lady Krin.",
-  "zh": ""
+  "zh": "卡琳小姐。"
  },
  {
   "id": "MSG/MSG6200/99678",
@@ -120417,7 +120417,7 @@
   "offset": "3AEA2",
   "jp": "ここは一つ、ユウキの家を調べてみては\nいかがですか？",
   "en": "Perhaps we should pay a visit to Yuki's\nhouse.",
-  "zh": ""
+  "zh": "不如我们先去勇树的家调查一下，\n您意下如何？"
  },
  {
   "id": "MSG/MSG6200/99679",
@@ -120426,7 +120426,7 @@
   "offset": "3AED8",
   "jp": "いま挙がっている情報も、すべて状況証拠でしか\nないわけですし",
   "en": "All this evidence is merely circumstantial,\nfor now.",
-  "zh": ""
+  "zh": "毕竟目前掌握的情报，\n也全都不外乎是情况证据罢了。"
  },
  {
   "id": "MSG/MSG6200/9967A",
@@ -120435,7 +120435,7 @@
   "offset": "3AF16",
   "jp": "そうね\nこのさい、ハッキリさせた方がいいわ",
   "en": "You're right. We need to make 100% sure\nfirst, I agree.",
-  "zh": ""
+  "zh": "也对。\n趁这个机会彻底弄弄清楚也好。"
  },
  {
   "id": "MSG/MSG6200/9967B",
@@ -120444,7 +120444,7 @@
   "offset": "3AF42",
   "jp": "アツマ、#CFF697DBEユウキの家#cに行くわよ",
   "en": "Atsuma, let's get to #CFF697DBEYuki's house#c.",
-  "zh": ""
+  "zh": "阿茨玛，去#CFF697DBE勇树的家#c了。"
  },
  {
   "id": "MSG/MSG6200/9967C",
@@ -120453,7 +120453,7 @@
   "offset": "3AF78",
   "jp": "ああ、わかったよ",
   "en": "Okay, okay.",
-  "zh": ""
+  "zh": "啊，我知道了。"
  },
  {
   "id": "MSG/MSG6200/99683",
@@ -120462,7 +120462,7 @@
   "offset": "3AF8A",
   "jp": "ああ、犯人はおそらく・・・",
   "en": "I think so. The thief is...",
-  "zh": ""
+  "zh": "嗯，犯人恐怕是……"
  },
  {
   "id": "MSG/MSG6200/99684",
@@ -120471,7 +120471,7 @@
   "offset": "3AFA6",
   "jp": "オレだ%M628365",
   "en": "Me%M628365",
-  "zh": ""
+  "zh": "是我%M628365"
  },
  {
   "id": "MSG/MSG6200/99685",
@@ -120480,7 +120480,7 @@
   "offset": "3AFBE",
   "jp": "この街の中にいる%M628375",
   "en": "In this town%M628375",
-  "zh": ""
+  "zh": "就在这城镇里%M628375"
  },
  {
   "id": "MSG/MSG6200/99686",
@@ -120489,7 +120489,7 @@
   "offset": "3AFE0",
   "jp": "ユウキだ%M628385",
   "en": "Yuki%M628385",
-  "zh": ""
+  "zh": "是勇树%M628385"
  },
  {
   "id": "MSG/MSG6200/9968D",
@@ -120498,7 +120498,7 @@
   "offset": "3AFFA",
   "jp": "ああ、犯人はｱ",
   "en": "The thief is...",
-  "zh": ""
+  "zh": "啊，犯人是……"
  },
  {
   "id": "MSG/MSG6200/9968E",
@@ -120507,7 +120507,7 @@
   "offset": "3B00A",
   "jp": "オレだ",
   "en": "Me!!",
-  "zh": ""
+  "zh": "是我"
  },
  {
   "id": "MSG/MSG6200/9968F",
@@ -120516,7 +120516,7 @@
   "offset": "3B012",
   "jp": "ふざけてないで、ちゃんと答えて！",
   "en": "Cut that out and answer seriously!",
-  "zh": ""
+  "zh": "别胡闹了，给我认真回答！"
  },
  {
   "id": "MSG/MSG6200/99690",
@@ -120525,7 +120525,7 @@
   "offset": "3B034",
   "jp": "・・・す、すいません",
   "en": "...S... Sorry.",
-  "zh": ""
+  "zh": "……对、对不起。"
  },
  {
   "id": "MSG/MSG6200/99691",
@@ -120534,7 +120534,7 @@
   "offset": "3B04A",
   "jp": "ええと、じゃあ改めて、犯人は・・・",
   "en": "Okay, so actually, the thief is...",
-  "zh": ""
+  "zh": "呃，那么重新来过，犯人是……"
  },
  {
   "id": "MSG/MSG6200/99692",
@@ -120543,7 +120543,7 @@
   "offset": "3B06E",
   "jp": "ああ、犯人はｱ%J628356",
   "en": "The thief is...%J628356",
-  "zh": ""
+  "zh": "啊，犯人是——%J628356"
  },
  {
   "id": "MSG/MSG6200/99697",
@@ -120552,7 +120552,7 @@
   "offset": "3B08E",
   "jp": "この街の中にいる！",
   "en": "In this town!",
-  "zh": ""
+  "zh": "就在这城镇里！"
  },
  {
   "id": "MSG/MSG6200/99698",
@@ -120561,7 +120561,7 @@
   "offset": "3B0A2",
   "jp": "・・・そんなのは、わかってるのよ",
   "en": "...We know that already!",
-  "zh": ""
+  "zh": "……这种事我早就知道了啦。"
  },
  {
   "id": "MSG/MSG6200/99699",
@@ -120570,7 +120570,7 @@
   "offset": "3B0C4",
   "jp": "ふざけてると、蹴り殺すわよ",
   "en": "Keep this up and I'm going to kick you!",
-  "zh": ""
+  "zh": "再胡闹，我就踹死你哦。"
  },
  {
   "id": "MSG/MSG6200/9969A",
@@ -120579,7 +120579,7 @@
   "offset": "3B0E0",
   "jp": "・・・ご、ごめん",
   "en": "...S... Sorry.",
-  "zh": ""
+  "zh": "……对、对不起。"
  },
  {
   "id": "MSG/MSG6200/9969B",
@@ -120588,7 +120588,7 @@
   "offset": "3B0F2",
   "jp": "ええと、じゃあ改めて、犯人は・・・%J628356",
   "en": "Okay, so actually, the thief is...%J628356",
-  "zh": ""
+  "zh": "呃，那么重新来过，犯人是……%J628356"
  },
  {
   "id": "MSG/MSG6200/996A1",
@@ -120597,7 +120597,7 @@
   "offset": "3B126",
   "jp": "犯人は、たぶん・・・",
   "en": "The thief is... most likely...",
-  "zh": ""
+  "zh": "犯人大概是……"
  },
  {
   "id": "MSG/MSG6200/996A2",
@@ -120606,7 +120606,7 @@
   "offset": "3B13C",
   "jp": "ユウキだ",
   "en": "Yuki.",
-  "zh": ""
+  "zh": "勇树。"
  },
  {
   "id": "MSG/MSG6200/996A3",
@@ -120615,7 +120615,7 @@
   "offset": "3B146",
   "jp": "ええ、いままでの情報を考えると\nやっぱり、そう考えざるを得ないわね",
   "en": "Yes. Considering all the information... we\nare left with no other choice.",
-  "zh": ""
+  "zh": "是啊，考虑到目前收集到的情报，\n也只能这么认为了呢。"
  },
  {
   "id": "MSG/MSG6200/996A4",
@@ -120624,7 +120624,7 @@
   "offset": "3B18A",
   "jp": "いま考えてみれば、みんなが集合してるところに\nなかなか来なかったのだってｱ",
   "en": "Thinking about it now, the reason she kept\nus waiting for so long...",
-  "zh": ""
+  "zh": "现在回想起来，大家集合的时候\n她迟迟没有过来，也是因为——"
  },
  {
   "id": "MSG/MSG6200/996A5",
@@ -120633,7 +120633,7 @@
   "offset": "3B1D6",
   "jp": "フバイルの家に、盗みに入っていたからって\nわけね",
   "en": "Was probably because she was in Fubial's\nhouse carrying out the robbery.",
-  "zh": ""
+  "zh": "潜入了弗拜尔的家中行窃，\n对吧。"
  },
  {
   "id": "MSG/MSG6200/996A6",
@@ -120642,7 +120642,7 @@
   "offset": "3B208",
   "jp": "けど・・・きっと、なにかわけがあるはずだ",
   "en": "Yeah, but... there has to be a reason for\nall this.",
-  "zh": ""
+  "zh": "但是……一定有什么隐情的。"
  },
  {
   "id": "MSG/MSG6200/996A7",
@@ -120651,7 +120651,7 @@
   "offset": "3B232",
   "jp": "“わけがある”、ですって？",
   "en": "A reason?!",
-  "zh": ""
+  "zh": "“有隐情”，你说什么呢？"
  },
  {
   "id": "MSG/MSG6200/996A8",
@@ -120660,7 +120660,7 @@
   "offset": "3B24E",
   "jp": "どうせ、たんにゴーレムが欲しいから盗んだに\n決まっているじゃない",
   "en": "I've got your reason, alright! She stole it\nto get her hands on that Golem, is all!",
-  "zh": ""
+  "zh": "反正肯定是单纯想要魔像才偷的，\n这还用问吗？"
  },
  {
   "id": "MSG/MSG6200/996A9",
@@ -120669,7 +120669,7 @@
   "offset": "3B290",
   "jp": "いや、でも、きっとなにか・・・",
   "en": "Yeah, but, there must be something else,\ntoo...",
-  "zh": ""
+  "zh": "不，但是，一定是有什么……"
  },
  {
   "id": "MSG/MSG6200/996AA",
@@ -120678,7 +120678,7 @@
   "offset": "3B2B0",
   "jp": "アツマ、お人好しなのもいい加減にしなさいよ",
   "en": "Atsuma, there is no need to defend her this\nmuch!",
-  "zh": ""
+  "zh": "阿茨玛，你当老好人也给我适可而止一点！"
  },
  {
   "id": "MSG/MSG6200/996AB",
@@ -120687,7 +120687,7 @@
   "offset": "3B2DC",
   "jp": "けどさ！　あいつは・・・大切な仲間なんだ",
   "en": "Come on, Karin! She's our comrade... our\nfriend...!",
-  "zh": ""
+  "zh": "可是！那家伙……是重要的同伴啊！"
  },
  {
   "id": "MSG/MSG6200/996AC",
@@ -120696,7 +120696,7 @@
   "offset": "3B306",
   "jp": "オレがつらいときに・・・気合入れてくれたんだ",
   "en": "When I'm down... she's the one who gets me\nfired up again!",
-  "zh": ""
+  "zh": "在我消沉难过的时候……是她给我打气的啊！"
  },
  {
   "id": "MSG/MSG6200/996AD",
@@ -120705,7 +120705,7 @@
   "offset": "3B334",
   "jp": "だからって、泥棒したのを見すごすの？",
   "en": "And that means you can just ignore her\ncriminal acts?",
-  "zh": ""
+  "zh": "就算是这样，难道就能对偷窃视而不见吗？"
  },
  {
   "id": "MSG/MSG6200/996AE",
@@ -120714,7 +120714,7 @@
   "offset": "3B35A",
   "jp": "カリン様",
   "en": "Lady Karin.",
-  "zh": ""
+  "zh": "卡琳大人。"
  },
  {
   "id": "MSG/MSG6200/996AF",
@@ -120723,7 +120723,7 @@
   "offset": "3B364",
   "jp": "ここは一つ、ユウキの家を調べてみては\nいかがですか？%J629500",
   "en": "Perhaps we should pay a visit to Yuki's\nhouse.%J629500",
-  "zh": ""
+  "zh": "依我看，不如先去勇树的家里调查一下\n怎么样呢？%J629500"
  },
  {
   "id": "MSG/MSG6200/996B0",
@@ -120732,7 +120732,7 @@
   "offset": "3B3AA",
   "jp": "聞き込むのは・・・",
   "en": "We need to gather...",
-  "zh": ""
+  "zh": "要去打听的是……"
  },
  {
   "id": "MSG/MSG6200/996B1",
@@ -120741,7 +120741,7 @@
   "offset": "3B3BE",
   "jp": "#CFF697DBE“被害者の証言”",
   "en": "#CFF697DBEA statement from the victim.",
-  "zh": ""
+  "zh": "#CFF697DBE“受害者的证言”"
  },
  {
   "id": "MSG/MSG6200/996B2",
@@ -120750,7 +120750,7 @@
   "offset": "3B3E4",
   "jp": "#CFF697DBE“目撃情報”",
   "en": "#CFF697DBEStatements from witnesses.",
-  "zh": ""
+  "zh": "#CFF697DBE“目击情报”"
  },
  {
   "id": "MSG/MSG6200/996B3",
@@ -120759,7 +120759,7 @@
   "offset": "3B406",
   "jp": "#CFF697DBE“犯人の犯行動機”、の三つだ",
   "en": "#CFF697DBEThe culprit's motive.",
-  "zh": ""
+  "zh": "#CFF697DBE“犯人的作案动机”，一共这三样。"
  },
  {
   "id": "MSG/MSG6200/996B4",
@@ -120768,7 +120768,7 @@
   "offset": "3B438",
   "jp": "ええと、わかったよ、ゴリさん・・・",
   "en": "Yeah, I got it, Silent Sword.",
-  "zh": ""
+  "zh": "呃，我知道了啦，猩猩先生……"
  },
  {
   "id": "MSG/MSG6200/996BA",
@@ -120777,7 +120777,7 @@
   "offset": "3B45C",
   "jp": "聞き込むのは・・・",
   "en": "We need to gather...",
-  "zh": ""
+  "zh": "要去打听的是……"
  },
  {
   "id": "MSG/MSG6200/996BB",
@@ -120786,7 +120786,7 @@
   "offset": "3B470",
   "jp": "#CFF697DBE“被害者の証言”",
   "en": "#CFF697DBEA statement from the victim.",
-  "zh": ""
+  "zh": "#CFF697DBE“受害者的证词”"
  },
  {
   "id": "MSG/MSG6200/996BC",
@@ -120795,7 +120795,7 @@
   "offset": "3B496",
   "jp": "#CFF697DBE“目撃情報”",
   "en": "#CFF697DBEStatements from witnesses.",
-  "zh": ""
+  "zh": "#CFF697DBE“目击情报”"
  },
  {
   "id": "MSG/MSG6200/996BD",
@@ -120804,7 +120804,7 @@
   "offset": "3B4B8",
   "jp": "#CFF697DBE“犯人の犯行動機”、の三つだ",
   "en": "#CFF697DBEThe culprit's motive.",
-  "zh": ""
+  "zh": "#CFF697DBE“犯人的作案动机”，一共这三样"
  },
  {
   "id": "MSG/MSG6200/996BE",
@@ -120813,7 +120813,7 @@
   "offset": "3B4EA",
   "jp": "ええと、わかったよ、ゴリさん・・・",
   "en": "Yeah, I got it, Silent Sword.",
-  "zh": ""
+  "zh": "呃，我知道了啦，大猩猩先生……"
  },
  {
   "id": "MSG/MSG6200/99714",
@@ -120822,7 +120822,7 @@
   "offset": "3B50E",
   "jp": "現場の状況について%M628505",
   "en": "About the crime scene%M628505",
-  "zh": ""
+  "zh": "询问现场状况%M628505"
  },
  {
   "id": "MSG/MSG6200/99715",
@@ -120831,7 +120831,7 @@
   "offset": "3B532",
   "jp": "犯人の心当たりについて%M628640",
   "en": "About possible culprits%M628640",
-  "zh": ""
+  "zh": "询问嫌疑线索%M628640"
  },
  {
   "id": "MSG/MSG6200/99716",
@@ -120840,7 +120840,7 @@
   "offset": "3B55A",
   "jp": "盗まれたものについて%M628655",
   "en": "About the stolen item%M628655",
-  "zh": ""
+  "zh": "询问失窃物品%M628655"
  },
  {
   "id": "MSG/MSG6200/99719",
@@ -120849,7 +120849,7 @@
   "offset": "3B580",
   "jp": "現場の状況について、教えてよ%S460004",
   "en": "Tell us about the crime scene.%S460004",
-  "zh": ""
+  "zh": "请告诉我们现场的状况吧%S460004"
  },
  {
   "id": "MSG/MSG6200/9971A",
@@ -120858,7 +120858,7 @@
   "offset": "3B5AE",
   "jp": "そうね、遺留品があったりはしない？%S460005",
   "en": "Yes. Any evidence of who it might have been?%S460005",
-  "zh": ""
+  "zh": "对呀，现场有没有留下什么遗留物？%S460005"
  },
  {
   "id": "MSG/MSG6200/9971B",
@@ -120867,7 +120867,7 @@
   "offset": "3B5E2",
   "jp": "遺留品ね・・・いや、なにもないねぇ\nきれいなもんだよ",
   "en": "Evidence at the crime scene... nothing in\nparticular, I'm afraid.",
-  "zh": ""
+  "zh": "遗留物啊……不，什么都没有呢\n现场干净得很"
  },
  {
   "id": "MSG/MSG6200/9971C",
@@ -120876,7 +120876,7 @@
   "offset": "3B618",
   "jp": "犯人がいた痕跡なんて、ほとんどないねぇ",
   "en": "There were almost no traces of the thief.",
-  "zh": ""
+  "zh": "几乎找不到犯人留下的痕迹呢"
  },
  {
   "id": "MSG/MSG6200/9971D",
@@ -120885,7 +120885,7 @@
   "offset": "3B640",
   "jp": "そう、ずいぶん手際がいいのね",
   "en": "So we're looking at a highly skilled\nculprit.",
-  "zh": ""
+  "zh": "是吗，看来身手相当利落呢"
  },
  {
   "id": "MSG/MSG6200/9971E",
@@ -120894,7 +120894,7 @@
   "offset": "3B65E",
   "jp": "なにしろ、だれも侵入されたことに\n気づかなかったからな",
   "en": "Indeed. The first thing is, she managed\nto get inside without anyone noticing.",
-  "zh": ""
+  "zh": "可不是嘛，毕竟根本没人察觉到\n有人潜入进来了"
  },
  {
   "id": "MSG/MSG6200/9971F",
@@ -120903,7 +120903,7 @@
   "offset": "3B696",
   "jp": "部屋には、カギがかかっていたし\nあわてる必要がなかったんだろうよ",
   "en": "Once inside the locked room she could take\nher time and be sure to leave no traces.",
-  "zh": ""
+  "zh": "房间当时是上了锁的\n犯人大概也用不着慌慌张张吧"
  },
  {
   "id": "MSG/MSG6200/99720",
@@ -120912,7 +120912,7 @@
   "offset": "3B6D8",
   "jp": "部屋には、カギがかかっていた？\nじゃあ、犯人はどこから侵入したの？",
   "en": "The room was locked? So how did the thief\nget inside?",
-  "zh": ""
+  "zh": "房间当时上了锁？\n那犯人到底是从哪里潜入的？"
  },
  {
   "id": "MSG/MSG6200/99721",
@@ -120921,7 +120921,7 @@
   "offset": "3B71C",
   "jp": "ああ・・・それがどうも通気口から\n入ったようだねぇ",
   "en": "Ah... looks like she came in through the\nventilation.",
-  "zh": ""
+  "zh": "啊……看样子似乎是从通气口\n钻进来的呢"
  },
  {
   "id": "MSG/MSG6200/99722",
@@ -120930,7 +120930,7 @@
   "offset": "3B750",
   "jp": "通気口？",
   "en": "The ventilation?",
-  "zh": ""
+  "zh": "通气口？"
  },
  {
   "id": "MSG/MSG6200/99723",
@@ -120939,7 +120939,7 @@
   "offset": "3B75A",
   "jp": "そうさ、屋敷の裏側の通気口にはまっていた\n格子が外れていたんだ",
   "en": "The grill was lifted off the ventilation\nshaft at the rear of the house.",
-  "zh": ""
+  "zh": "没错，宅邸后侧通气口上安装的\n铁栅栏被拆下来了"
  },
  {
   "id": "MSG/MSG6200/99724",
@@ -120948,7 +120948,7 @@
   "offset": "3B79A",
   "jp": "あいにくと通気口までは、警備の手が\nまわっていなくてねぇ",
   "en": "Unfortunately my patrols did not cover that\npart of the house...",
-  "zh": ""
+  "zh": "很不巧，警卫的人手\n没能顾及到通气口那边呢"
  },
  {
   "id": "MSG/MSG6200/99725",
@@ -120957,7 +120957,7 @@
   "offset": "3B7D4",
   "jp": "そんなところから、入ると思わないだろう？\nネコやネズミじゃあるまいし・・・",
   "en": "Who could get in through there, anyway,\naside from a mouse or a cat?",
-  "zh": ""
+  "zh": "谁能想到会从那种地方钻进来啊？\n又不是猫或者老鼠……"
  },
  {
   "id": "MSG/MSG6200/99726",
@@ -120966,7 +120966,7 @@
   "offset": "3B820",
   "jp": "ふぅん・・・\nせまい通気口から侵入したの・・・%F",
   "en": "Hmmm... so the thief entered through a\ntight ventilation shaft...%F",
-  "zh": ""
+  "zh": "嗯……\n是从狭窄的通气口潜入的啊……%F"
  },
  {
   "id": "MSG/MSG6200/99728",
@@ -120975,7 +120975,7 @@
   "offset": "3B854",
   "jp": "ねぇ、マンプク",
   "en": "Well, Big Eater.",
-  "zh": ""
+  "zh": "喂，大胃王"
  },
  {
   "id": "MSG/MSG6200/99729",
@@ -120984,7 +120984,7 @@
   "offset": "3B864",
   "jp": "このことから考えると、犯人は\nどんなやつだと思う？",
   "en": "What does that tell us about the criminal?",
-  "zh": ""
+  "zh": "从这件事来看，你觉得犯人\n会是个什么样的家伙？"
  },
  {
   "id": "MSG/MSG6200/9972A",
@@ -120993,7 +120993,7 @@
   "offset": "3B898",
   "jp": "そうだな・・・",
   "en": "Easy!",
-  "zh": ""
+  "zh": "这个嘛……"
  },
  {
   "id": "MSG/MSG6200/9972B",
@@ -121002,7 +121002,7 @@
   "offset": "3B8A8",
   "jp": "犯人は、身軽で小柄なやつだ%M628526",
   "en": "The thief is light and small%M628526",
-  "zh": ""
+  "zh": "犯人是个身手敏捷的小个子%M628526"
  },
  {
   "id": "MSG/MSG6200/9972C",
@@ -121011,7 +121011,7 @@
   "offset": "3B8D4",
   "jp": "犯人は、ネズミ使いだ%M628535",
   "en": "The thief uses trained mice%M628535",
-  "zh": ""
+  "zh": "犯人是个操纵老鼠的人%M628535"
  },
  {
   "id": "MSG/MSG6200/9972E",
@@ -121020,7 +121020,7 @@
   "offset": "3B8FA",
   "jp": "つまり、犯人は“身軽で小柄なやつ”だって\nことだな",
   "en": "That the thief is light, small and nimble.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“身手敏捷的小个子”\n对吧"
  },
  {
   "id": "MSG/MSG6200/9972F",
@@ -121029,7 +121029,7 @@
   "offset": "3B92E",
   "jp": "へぇ、さえてるじゃない\nアツマのくせに",
   "en": "Well done! Impressive, especially coming\nfrom you!",
-  "zh": ""
+  "zh": "哼，挺灵光的嘛\n亏你还是阿茨玛呢"
  },
  {
   "id": "MSG/MSG6200/99730",
@@ -121038,7 +121038,7 @@
   "offset": "3B956",
   "jp": "へへへ・・・当ったり前だろ！",
   "en": "Heh hee hee... expect no less!",
-  "zh": ""
+  "zh": "嘿嘿嘿……那当然啦！"
  },
  {
   "id": "MSG/MSG6200/99731",
@@ -121047,7 +121047,7 @@
   "offset": "3B974",
   "jp": "たしかにｱ",
   "en": "You're right.",
-  "zh": ""
+  "zh": "确实啊"
  },
  {
   "id": "MSG/MSG6200/99732",
@@ -121056,7 +121056,7 @@
   "offset": "3B980",
   "jp": "きっと犯人は身の軽い、小柄なやつね",
   "en": "The thief must be quite small and light.",
-  "zh": ""
+  "zh": "凶手肯定是个身手轻捷、体型娇小的家伙呢"
  },
  {
   "id": "MSG/MSG6200/99733",
@@ -121065,7 +121065,7 @@
   "offset": "3B9A4",
   "jp": "子供か・・・あるいは女性という\n線もあるかも・・・",
   "en": "The finger of suspicion points to a child...\nor a woman, then...",
-  "zh": ""
+  "zh": "是小孩子……或者也有可能是\n女性呢……"
  },
  {
   "id": "MSG/MSG6200/99734",
@@ -121074,7 +121074,7 @@
   "offset": "3B9D8",
   "jp": "それから、犯人はそうとう地の利に\n明るい人間ね",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "还有，凶手应该是个非常熟悉\n地形的人呢"
  },
  {
   "id": "MSG/MSG6200/99735",
@@ -121083,7 +121083,7 @@
   "offset": "3BA08",
   "jp": "狭い通気口なんて、ふつう気づかないもの%J628556",
   "en": "You wouldn't normally notice a small\nventilation shaft like that.%J628556",
-  "zh": ""
+  "zh": "那么窄的通风口，一般人根本不会注意到嘛%J628556"
  },
  {
   "id": "MSG/MSG6200/99737",
@@ -121092,7 +121092,7 @@
   "offset": "3BA40",
   "jp": "つまり、犯人は“ネズミ使い”だってことだな",
   "en": "The thief uses trained mice.",
-  "zh": ""
+  "zh": "也就是说，凶手其实是个“驭鼠人”对吧"
  },
  {
   "id": "MSG/MSG6200/99738",
@@ -121101,7 +121101,7 @@
   "offset": "3BA6C",
   "jp": "ネズミ使い？",
   "en": "Trained mice...?!",
-  "zh": ""
+  "zh": "驭鼠人？"
  },
  {
   "id": "MSG/MSG6200/99739",
@@ -121110,7 +121110,7 @@
   "offset": "3BA7A",
   "jp": "そうだ！　通気口にネズミを忍び込ませ\nお宝を運ばせたんだ",
   "en": "That's right! They send the mice into the\nventilation to carry back treasures!",
-  "zh": ""
+  "zh": "没错！把老鼠放进通风口潜入，\n让它们把宝物搬出来啊"
  },
  {
   "id": "MSG/MSG6200/9973A",
@@ -121119,7 +121119,7 @@
   "offset": "3BAB4",
   "jp": "犯人とネズミのやりとりは、おそらく\nこんな感じだろう",
   "en": "The conversation between the mouse and the\nthief probably went something like this.",
-  "zh": ""
+  "zh": "凶手和老鼠之间的对话，大概\n就是这种感觉吧"
  },
  {
   "id": "MSG/MSG6200/9973B",
@@ -121128,7 +121128,7 @@
   "offset": "3BAEA",
   "jp": "“ネズミさん、通気口からはいっチェ\n お宝を取ってきてくれまチュか？”",
   "en": "\"Squeak squeak ventilation squeak, squeak\ntreasures squeak to me squeak squeak?\"",
-  "zh": ""
+  "zh": "“老鼠先生，能请你钻进通风口，\n 把宝物带出来给吱吗？”"
  },
  {
   "id": "MSG/MSG6200/9973C",
@@ -121137,7 +121137,7 @@
   "offset": "3BB32",
   "jp": "“いいでチュよ、お安い御用でチュ”",
   "en": "\"Squeak... no squeak squeaking problem!\"",
-  "zh": ""
+  "zh": "“好吱呀，小菜一碟吱”"
  },
  {
   "id": "MSG/MSG6200/9973D",
@@ -121146,7 +121146,7 @@
   "offset": "3BB56",
   "jp": "“ありがとうでチュ、ネズミさん\n あとで、おいしいチーズを、あげまチュね⑲”",
   "en": "\"Thank squeak you squeak! Squeak cheese\nsqueak afterwards⑲\"",
-  "zh": ""
+  "zh": "“谢谢你吱，老鼠先生。\n 待会儿，我给你好吃的奶酪吱⑲”"
  },
  {
   "id": "MSG/MSG6200/9973E",
@@ -121155,7 +121155,7 @@
   "offset": "3BBA4",
   "jp": "“わーい、でチュ⑲”",
   "en": "\"Oh squeak boy!\"",
-  "zh": ""
+  "zh": "“太棒啦吱⑲”"
  },
  {
   "id": "MSG/MSG6200/9973F",
@@ -121164,7 +121164,7 @@
   "offset": "3BBBA",
   "jp": "・・・へぇ・・・で？",
   "en": "...Your conclusions, then?",
-  "zh": ""
+  "zh": "……呵……所以呢？"
  },
  {
   "id": "MSG/MSG6200/99740",
@@ -121173,7 +121173,7 @@
   "offset": "3BBD0",
   "jp": "だから！　チーズを売っている商店で\nはり込みをしていればｱ",
   "en": "What do you think?! The thief is a cheese\nmerchant, obviously!",
-  "zh": ""
+  "zh": "所以说！只要在卖奶酪的店铺\n埋伏蹲守的话啊"
  },
  {
   "id": "MSG/MSG6200/99741",
@@ -121182,7 +121182,7 @@
   "offset": "3BC0C",
   "jp": "犯人と！　その共犯である、ネズミのシッポを！\n捕まえられる、だろうな",
   "en": "We need to tail every cheese merchant in\nthe city!",
-  "zh": ""
+  "zh": "就能把凶手！以及作为共犯的老鼠的尾巴！\n一起抓住了吧"
  },
  {
   "id": "MSG/MSG6200/99742",
@@ -121191,7 +121191,7 @@
   "offset": "3BC52",
   "jp": "なるほど・・・ネズミだけに、シッポを\n捕まえるか・・・",
   "en": "I guess... it would be easy to tail a mouse\nuser...",
-  "zh": ""
+  "zh": "原来如此……正因为是老鼠，所以才要抓\n尾巴（露出的破绽）啊……"
  },
  {
   "id": "MSG/MSG6200/99743",
@@ -121200,7 +121200,7 @@
   "offset": "3BC8A",
   "jp": "ゴリさん、感心してないで\nこのバカに、正しい見解を教えてあげて",
   "en": "Silent Sword, do not encourage him! Please,\ntell him the correct answer.",
-  "zh": ""
+  "zh": "阿刚，你别跟着佩服啊，\n快给这个笨蛋讲讲正确的见解"
  },
  {
   "id": "MSG/MSG6200/99744",
@@ -121209,7 +121209,7 @@
   "offset": "3BCCA",
   "jp": "御意",
   "en": "As you say.",
-  "zh": ""
+  "zh": "遵命"
  },
  {
   "id": "MSG/MSG6200/99745",
@@ -121218,7 +121218,7 @@
   "offset": "3BCD0",
   "jp": "おそらく犯人は、身の軽い小柄なやつでしょうな",
   "en": "The thief is most likely a small, light\nperson.",
-  "zh": ""
+  "zh": "凶手恐怕是个身手轻捷、体型娇小的人吧"
  },
  {
   "id": "MSG/MSG6200/99746",
@@ -121227,7 +121227,7 @@
   "offset": "3BCFE",
   "jp": "子供か・・・あるいは女性という線も\nあるかもしれません・・・",
   "en": "The finger of suspicion points to a child\nor a woman.",
-  "zh": ""
+  "zh": "是小孩子……或者也可能是\n女性吧……"
  },
  {
   "id": "MSG/MSG6200/99747",
@@ -121236,7 +121236,7 @@
   "offset": "3BD3C",
   "jp": "それから、犯人はそうとうに地の利に\n明るい人間と言えるでしょう",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "另外，也可以说凶手是个非常\n熟悉地形的人"
  },
  {
   "id": "MSG/MSG6200/99748",
@@ -121245,7 +121245,7 @@
   "offset": "3BD7C",
   "jp": "狭い通気口の存在に気づくとは、この辺りの\n事情に詳しい者のはず",
   "en": "They must know this place well, to locate\nsuch a small ventilation shaft so easily.",
-  "zh": ""
+  "zh": "能注意到那么狭窄的通风口，必定是\n十分清楚这附近底细的人"
  },
  {
   "id": "MSG/MSG6200/99749",
@@ -121254,7 +121254,7 @@
   "offset": "3BDBC",
   "jp": "さすがね、ゴリさん",
   "en": "Well done, Silent Sword.",
-  "zh": ""
+  "zh": "不愧是你呢，阿刚"
  },
  {
   "id": "MSG/MSG6200/9974A",
@@ -121263,7 +121263,7 @@
   "offset": "3BDD0",
   "jp": "マンプクも、見習いなさい",
   "en": "I hope you are taking notes, Big Eater!",
-  "zh": ""
+  "zh": "大肚腩，你也好好学学"
  },
  {
   "id": "MSG/MSG6200/9974B",
@@ -121272,7 +121272,7 @@
   "offset": "3BDEA",
   "jp": "はーい・・・",
   "en": "Of course!",
-  "zh": ""
+  "zh": "好——的……"
  },
  {
   "id": "MSG/MSG6200/9974C",
@@ -121281,7 +121281,7 @@
   "offset": "3BDF8",
   "jp": "さて、他に聞きたいことは・・・、と・・・%F",
   "en": "Right, what else do we need to ask...?%F",
-  "zh": ""
+  "zh": "那么，其他还想问的事是……嗯……%F"
  },
  {
   "id": "MSG/MSG6200/99750",
@@ -121290,7 +121290,7 @@
   "offset": "3BE26",
   "jp": "ねぇ、バーニング%J628750",
   "en": "Well, Burning.%J628750",
-  "zh": ""
+  "zh": "喂，烈火%J628750"
  },
  {
   "id": "MSG/MSG6200/99751",
@@ -121299,7 +121299,7 @@
   "offset": "3BE48",
   "jp": "このことから考えると、犯人はどんな\nやつだと思う？",
   "en": "What does that tell us about the criminal?",
-  "zh": ""
+  "zh": "从这些线索来看，你觉得凶手是个\n什么样的家伙？"
  },
  {
   "id": "MSG/MSG6200/99752",
@@ -121308,7 +121308,7 @@
   "offset": "3BE7C",
   "jp": "そうだな・・・",
   "en": "Easy!",
-  "zh": ""
+  "zh": "我想想啊……"
  },
  {
   "id": "MSG/MSG6200/99753",
@@ -121317,7 +121317,7 @@
   "offset": "3BE8C",
   "jp": "犯人は、身軽で小柄なやつだ%M628566",
   "en": "The thief is light and small%M628566",
-  "zh": ""
+  "zh": "凶手是个身手敏捷、身材矮小的家伙%M628566"
  },
  {
   "id": "MSG/MSG6200/99754",
@@ -121326,7 +121326,7 @@
   "offset": "3BEB8",
   "jp": "犯人は、ネズミ使いだ%M628575",
   "en": "The thief uses trained mice%M628575",
-  "zh": ""
+  "zh": "犯人是个驯鼠人%M628575"
  },
  {
   "id": "MSG/MSG6200/99756",
@@ -121335,7 +121335,7 @@
   "offset": "3BEDE",
   "jp": "つまり、犯人は“身軽で小柄なやつ”だって\nことだな",
   "en": "That the thief is light, small and nimble.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“身手敏捷的小个子”\n对吧"
  },
  {
   "id": "MSG/MSG6200/99757",
@@ -121344,7 +121344,7 @@
   "offset": "3BF12",
   "jp": "へぇ、さえてるじゃない\nアツマのくせに",
   "en": "Well done! Impressive, especially coming\nfrom you!",
-  "zh": ""
+  "zh": "哎呀，脑子挺灵光的嘛，\n亏你还是阿茨玛呢"
  },
  {
   "id": "MSG/MSG6200/99758",
@@ -121353,7 +121353,7 @@
   "offset": "3BF3A",
   "jp": "へへへ・・・当ったり前だろ！",
   "en": "Heh hee hee... expect no less!",
-  "zh": ""
+  "zh": "嘿嘿嘿……那不是理所当然的嘛！"
  },
  {
   "id": "MSG/MSG6200/99759",
@@ -121362,7 +121362,7 @@
   "offset": "3BF58",
   "jp": "たしかにｱ",
   "en": "You're right.",
-  "zh": ""
+  "zh": "确实呢"
  },
  {
   "id": "MSG/MSG6200/9975A",
@@ -121371,7 +121371,7 @@
   "offset": "3BF64",
   "jp": "きっと犯人は身の軽い、小柄なやつね",
   "en": "The thief must be quite small and light.",
-  "zh": ""
+  "zh": "犯人肯定是个身手矫健的小个子吧"
  },
  {
   "id": "MSG/MSG6200/9975B",
@@ -121380,7 +121380,7 @@
   "offset": "3BF88",
   "jp": "子供か・・・あるいは女性という\n線もあるかも・・・",
   "en": "The finger of suspicion points to a child...\nor a woman, then...",
-  "zh": ""
+  "zh": "小孩子……或者也有可能是个\n女性……"
  },
  {
   "id": "MSG/MSG6200/9975C",
@@ -121389,7 +121389,7 @@
   "offset": "3BFBC",
   "jp": "それから、犯人はそうとう地の利に\n明るい人間ね",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "而且，犯人非常熟悉\n这里的地形呢"
  },
  {
   "id": "MSG/MSG6200/9975D",
@@ -121398,7 +121398,7 @@
   "offset": "3BFEC",
   "jp": "狭い通気口なんて、ふつう気づかないもの%J628596",
   "en": "You wouldn't normally notice a small\nventilation shaft like that.%J628596",
-  "zh": ""
+  "zh": "那么狭窄的通风口，平时根本注意不到的%J628596"
  },
  {
   "id": "MSG/MSG6200/9975F",
@@ -121407,7 +121407,7 @@
   "offset": "3C024",
   "jp": "つまり犯人は“ネズミ使い”だってことだな",
   "en": "The thief uses trained mice.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“驯鼠人”对吧"
  },
  {
   "id": "MSG/MSG6200/99760",
@@ -121416,7 +121416,7 @@
   "offset": "3C04E",
   "jp": "ネズミ使い？",
   "en": "Trained mice...?!",
-  "zh": ""
+  "zh": "驯鼠人？"
  },
  {
   "id": "MSG/MSG6200/99761",
@@ -121425,7 +121425,7 @@
   "offset": "3C05C",
   "jp": "そうだ、通気口にネズミを忍び込ませ\nお宝を運ばせたんだ",
   "en": "That's right! They send the mice into the\nventilation to carry back treasures!",
-  "zh": ""
+  "zh": "没错，让老鼠潜入通风口，\n把宝物搬出来的"
  },
  {
   "id": "MSG/MSG6200/99762",
@@ -121434,7 +121434,7 @@
   "offset": "3C094",
   "jp": "犯人とネズミのやりとりは、おそらく\nこんな感じだろう",
   "en": "The conversation between the mouse and the\nthief probably went something like this.",
-  "zh": ""
+  "zh": "犯人和老鼠的对话，大概\n就是这种感觉吧"
  },
  {
   "id": "MSG/MSG6200/99763",
@@ -121443,7 +121443,7 @@
   "offset": "3C0CA",
   "jp": "“ネズミさん、通気口からはいっチェ\n お宝を取ってきてくれまチュか？”",
   "en": "\"Squeak squeak ventilation squeak, squeak\ntreasures squeak to me squeak squeak?\"",
-  "zh": ""
+  "zh": "“老鼠先生，能请你从通风口钻进去，\n 把宝物拿出来吱？”"
  },
  {
   "id": "MSG/MSG6200/99764",
@@ -121452,7 +121452,7 @@
   "offset": "3C112",
   "jp": "“いいでチュよ、お安い御用でチュ”",
   "en": "\"Squeak... no squeak squeaking problem!\"",
-  "zh": ""
+  "zh": "“好的吱，小菜一碟吱”"
  },
  {
   "id": "MSG/MSG6200/99765",
@@ -121461,7 +121461,7 @@
   "offset": "3C136",
   "jp": "“ありがとうでチュ、ネズミさん\n あとで、おいしいチーズをあげまチュね⑲”",
   "en": "\"Thank squeak you squeak! Squeak cheese\nsqueak afterwards⑲\"",
-  "zh": ""
+  "zh": "“多谢你吱，老鼠先生，\n 回头给你好吃的奶酪吱⑲”"
  },
  {
   "id": "MSG/MSG6200/99766",
@@ -121470,7 +121470,7 @@
   "offset": "3C182",
   "jp": "“わーい、でチュ⑲”",
   "en": "\"Oh squeak boy!\"",
-  "zh": ""
+  "zh": "“好耶吱⑲”"
  },
  {
   "id": "MSG/MSG6200/99767",
@@ -121479,7 +121479,7 @@
   "offset": "3C198",
   "jp": "・・・へぇ・・・で？",
   "en": "...Your conclusions, then?",
-  "zh": ""
+  "zh": "……呵……所以呢？"
  },
  {
   "id": "MSG/MSG6200/99768",
@@ -121488,7 +121488,7 @@
   "offset": "3C1AE",
   "jp": "だから！　チーズを売っている商店で\nはり込みをしていればｱ",
   "en": "What do you think?! The thief is a cheese\nmerchant, obviously!",
-  "zh": ""
+  "zh": "所以啊！只要在卖奶酪的店铺\n蹲点埋伏的话"
  },
  {
   "id": "MSG/MSG6200/99769",
@@ -121497,7 +121497,7 @@
   "offset": "3C1EA",
   "jp": "犯人と！　その共犯である、ネズミのシッポを！\n捕まえられる、だろうな",
   "en": "We need to tail every cheese merchant in\nthe city!",
-  "zh": ""
+  "zh": "犯人！还有作为共犯的老鼠的尾巴！\n就能被我们抓住了，对吧"
  },
  {
   "id": "MSG/MSG6200/9976A",
@@ -121506,7 +121506,7 @@
   "offset": "3C230",
   "jp": "なるほど・・・ネズミだけに、シッポを\n捕まえるか・・・",
   "en": "I guess... it would be easy to tail a mouse\nuser...",
-  "zh": ""
+  "zh": "原来如此……正因为是老鼠，所以才能抓住\n狐狸尾巴吗……"
  },
  {
   "id": "MSG/MSG6200/9976B",
@@ -121515,7 +121515,7 @@
   "offset": "3C268",
   "jp": "ゴリさん、感心してないで\nこのバカに、正しい見解を教えてあげて",
   "en": "Silent Sword, do not encourage him! Please,\ntell him the correct answer.",
-  "zh": ""
+  "zh": "猩猩，别在那里佩服了，\n快给这个笨蛋讲讲正确的见解"
  },
  {
   "id": "MSG/MSG6200/9976C",
@@ -121524,7 +121524,7 @@
   "offset": "3C2A8",
   "jp": "御意",
   "en": "As you say.",
-  "zh": ""
+  "zh": "遵命"
  },
  {
   "id": "MSG/MSG6200/9976D",
@@ -121533,7 +121533,7 @@
   "offset": "3C2AE",
   "jp": "おそらく犯人は、身の軽い小柄なやつ\nでしょうな",
   "en": "The thief is most likely a small, light\nperson.",
-  "zh": ""
+  "zh": "犯人恐怕是个身手矫健的小个子\n吧"
  },
  {
   "id": "MSG/MSG6200/9976E",
@@ -121542,7 +121542,7 @@
   "offset": "3C2DE",
   "jp": "子供か・・・あるいは女性という線も\nあるかもしれません・・・",
   "en": "The finger of suspicion points to a child\nor a woman.",
-  "zh": ""
+  "zh": "小孩子……或者也有可能是个\n女性……"
  },
  {
   "id": "MSG/MSG6200/9976F",
@@ -121551,7 +121551,7 @@
   "offset": "3C31C",
   "jp": "それから、犯人はそうとうに地の利に\n明るい人間と言えるでしょう",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "而且，犯人可以说非常熟悉\n此地的地形"
  },
  {
   "id": "MSG/MSG6200/99770",
@@ -121560,7 +121560,7 @@
   "offset": "3C35C",
   "jp": "狭い通気口の存在に気づくとは、この辺りの\n事情に詳しい者のはず",
   "en": "They must know this place well, to locate\nsuch a small ventilation shaft so easily.",
-  "zh": ""
+  "zh": "能注意到如此狭窄的通风口，必定是对这带\n情况极为熟悉之人"
  },
  {
   "id": "MSG/MSG6200/99771",
@@ -121569,7 +121569,7 @@
   "offset": "3C39C",
   "jp": "さすがね、ゴリさん",
   "en": "Well done, Silent Sword.",
-  "zh": ""
+  "zh": "真不愧是你啊，猩猩"
  },
  {
   "id": "MSG/MSG6200/99772",
@@ -121578,7 +121578,7 @@
   "offset": "3C3B0",
   "jp": "バーニングも見習いなさい",
   "en": "I hope you are taking notes, Burning!",
-  "zh": ""
+  "zh": "热血笨蛋你也学着点"
  },
  {
   "id": "MSG/MSG6200/99773",
@@ -121587,7 +121587,7 @@
   "offset": "3C3CA",
   "jp": "はーい",
   "en": "Of course!",
-  "zh": ""
+  "zh": "好——的"
  },
  {
   "id": "MSG/MSG6200/99774",
@@ -121596,7 +121596,7 @@
   "offset": "3C3D2",
   "jp": "さて、他に聞きたいことは・・・と%F",
   "en": "Right, what else do we need to ask...?%F",
-  "zh": ""
+  "zh": "那么，还有什么想问的……呢%F"
  },
  {
   "id": "MSG/MSG6200/99778",
@@ -121605,7 +121605,7 @@
   "offset": "3C3F8",
   "jp": "ねぇ、単細胞",
   "en": "Well, Bubble Head.",
-  "zh": ""
+  "zh": "喂，单细胞"
  },
  {
   "id": "MSG/MSG6200/99779",
@@ -121614,7 +121614,7 @@
   "offset": "3C406",
   "jp": "このことから考えると、犯人はどんな\nやつだと思う？",
   "en": "What does that tell us about the criminal?",
-  "zh": ""
+  "zh": "根据这些情况来看，你觉得犯人会是\n个什么样的家伙？"
  },
  {
   "id": "MSG/MSG6200/9977A",
@@ -121623,7 +121623,7 @@
   "offset": "3C43A",
   "jp": "そうだな・・・",
   "en": "Easy!",
-  "zh": ""
+  "zh": "让我想想……"
  },
  {
   "id": "MSG/MSG6200/9977B",
@@ -121632,7 +121632,7 @@
   "offset": "3C44A",
   "jp": "犯人は、身軽で小柄なやつだ%M628606",
   "en": "The thief is light and small%M628606",
-  "zh": ""
+  "zh": "犯人是个身轻如燕、身材矮小的家伙%M628606"
  },
  {
   "id": "MSG/MSG6200/9977C",
@@ -121641,7 +121641,7 @@
   "offset": "3C476",
   "jp": "犯人は、ネズミ使いだ%M628615",
   "en": "The thief uses trained mice%M628615",
-  "zh": ""
+  "zh": "犯人是个操鼠师%M628615"
  },
  {
   "id": "MSG/MSG6200/9977E",
@@ -121650,7 +121650,7 @@
   "offset": "3C49C",
   "jp": "つまり、犯人は“身軽で小柄なやつ”だって\nことだな",
   "en": "That the thief is light, small and nimble.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“身手敏捷又矮小的家伙”吧"
  },
  {
   "id": "MSG/MSG6200/9977F",
@@ -121659,7 +121659,7 @@
   "offset": "3C4D0",
   "jp": "へぇ、さえてるじゃない\nアツマのくせに",
   "en": "Well done! Impressive, especially coming\nfrom you!",
-  "zh": ""
+  "zh": "哎呀，挺灵光的嘛\n明明只是个阿茨玛"
  },
  {
   "id": "MSG/MSG6200/99780",
@@ -121668,7 +121668,7 @@
   "offset": "3C4F8",
   "jp": "へへへ・・・当ったり前だろ！",
   "en": "Heh hee hee... expect no less!",
-  "zh": ""
+  "zh": "嘿嘿嘿……那不是理所当然的嘛！"
  },
  {
   "id": "MSG/MSG6200/99781",
@@ -121677,7 +121677,7 @@
   "offset": "3C516",
   "jp": "たしかにｱ",
   "en": "You're right.",
-  "zh": ""
+  "zh": "确实呢"
  },
  {
   "id": "MSG/MSG6200/99782",
@@ -121686,7 +121686,7 @@
   "offset": "3C522",
   "jp": "きっと犯人は身の軽い、小柄なやつね",
   "en": "The thief must be quite small and light.",
-  "zh": ""
+  "zh": "犯人肯定是个身手矫健、身材矮小的家伙"
  },
  {
   "id": "MSG/MSG6200/99783",
@@ -121695,7 +121695,7 @@
   "offset": "3C546",
   "jp": "子供か・・・あるいは女性という\n線もあるかも・・・",
   "en": "The finger of suspicion points to a child...\nor a woman, then...",
-  "zh": ""
+  "zh": "可能是小孩……或者女性也说不定……"
  },
  {
   "id": "MSG/MSG6200/99784",
@@ -121704,7 +121704,7 @@
   "offset": "3C57A",
   "jp": "それから、犯人はそうとう地の利に\n明るい人間ね",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "而且，犯人应该是个相当熟悉\n本地地形的人"
  },
  {
   "id": "MSG/MSG6200/99785",
@@ -121713,7 +121713,7 @@
   "offset": "3C5AA",
   "jp": "狭い通気口なんて、ふつう気づかないもの%J628636",
   "en": "You wouldn't normally notice a small\nventilation shaft like that.%J628636",
-  "zh": ""
+  "zh": "毕竟那么狭窄的通风口，一般人根本不会注意到%J628636"
  },
  {
   "id": "MSG/MSG6200/99787",
@@ -121722,7 +121722,7 @@
   "offset": "3C5E2",
   "jp": "つまり、犯人は“ネズミ使い”だってことだな",
   "en": "The thief uses trained mice.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“操鼠师”吧"
  },
  {
   "id": "MSG/MSG6200/99788",
@@ -121731,7 +121731,7 @@
   "offset": "3C60E",
   "jp": "ネズミ使い？",
   "en": "Trained mice...?!",
-  "zh": ""
+  "zh": "操鼠师？"
  },
  {
   "id": "MSG/MSG6200/99789",
@@ -121740,7 +121740,7 @@
   "offset": "3C61C",
   "jp": "そうだ、通気口にネズミを忍び込ませ\nお宝を運ばせたんだ",
   "en": "That's right! They send the mice into the\nventilation to carry back treasures!",
-  "zh": ""
+  "zh": "没错，让老鼠钻进通风口里\n把宝物运出来的"
  },
  {
   "id": "MSG/MSG6200/9978A",
@@ -121749,7 +121749,7 @@
   "offset": "3C654",
   "jp": "犯人とネズミのやりとりは、おそらく\nこんな感じだろう",
   "en": "The conversation between the mouse and the\nthief probably went something like this.",
-  "zh": ""
+  "zh": "犯人和老鼠的对话，恐怕\n大概是这样吧"
  },
  {
   "id": "MSG/MSG6200/9978B",
@@ -121758,7 +121758,7 @@
   "offset": "3C68A",
   "jp": "“ネズミさん、通気口からはいっチェ\n お宝を取ってきてくれまチュか？”",
   "en": "\"Squeak squeak ventilation squeak, squeak\ntreasures squeak to me squeak squeak?\"",
-  "zh": ""
+  "zh": "“老鼠先生，能请你钻进通风口里\n把宝物拿出来吱？”"
  },
  {
   "id": "MSG/MSG6200/9978C",
@@ -121767,7 +121767,7 @@
   "offset": "3C6D2",
   "jp": "“いいでチュよ、お安い御用でチュ”",
   "en": "\"Squeak... no squeak squeaking problem!\"",
-  "zh": ""
+  "zh": "“好的吱，小事一桩吱”"
  },
  {
   "id": "MSG/MSG6200/9978D",
@@ -121776,7 +121776,7 @@
   "offset": "3C6F6",
   "jp": "“ありがとうでチュ、ネズミさん\n あとで、おいしいチーズをあげまチュね⑲”",
   "en": "\"Thank squeak you squeak! Squeak cheese\nsqueak afterwards⑲\"",
-  "zh": ""
+  "zh": "“多谢你吱，老鼠先生\n回头给你好吃的奶酪吱⑲”"
  },
  {
   "id": "MSG/MSG6200/9978E",
@@ -121785,7 +121785,7 @@
   "offset": "3C742",
   "jp": "“わーい、でチュ⑲”",
   "en": "\"Oh squeak boy!\"",
-  "zh": ""
+  "zh": "“太棒啦吱⑲”"
  },
  {
   "id": "MSG/MSG6200/9978F",
@@ -121794,7 +121794,7 @@
   "offset": "3C758",
   "jp": "・・・へぇ・・・で？",
   "en": "...Your conclusions, then?",
-  "zh": ""
+  "zh": "……呵……所以呢？"
  },
  {
   "id": "MSG/MSG6200/99790",
@@ -121803,7 +121803,7 @@
   "offset": "3C76E",
   "jp": "だから！　チーズを売っている商店で\nはり込みをしていればｱ",
   "en": "What do you think?! The thief is a cheese\nmerchant, obviously!",
-  "zh": ""
+  "zh": "所以啊！只要在卖奶酪的店铺\n蹲点埋伏的话"
  },
  {
   "id": "MSG/MSG6200/99791",
@@ -121812,7 +121812,7 @@
   "offset": "3C7AA",
   "jp": "犯人と！　その共犯である、ネズミのシッポを！\n捕まえられる、だろうな",
   "en": "We need to tail every cheese merchant in\nthe city!",
-  "zh": ""
+  "zh": "就能抓住犯人！以及身为共犯的\n老鼠尾巴了吧！"
  },
  {
   "id": "MSG/MSG6200/99792",
@@ -121821,7 +121821,7 @@
   "offset": "3C7F0",
   "jp": "なるほど・・・ネズミだけに、シッポを\n捕まえるか・・・",
   "en": "I guess... it would be easy to tail a mouse\nuser...",
-  "zh": ""
+  "zh": "原来如此……正因为是老鼠，所以才抓尾巴啊……"
  },
  {
   "id": "MSG/MSG6200/99793",
@@ -121830,7 +121830,7 @@
   "offset": "3C828",
   "jp": "ゴリさん、感心してないで\nこのバカに、正しい見解を教えてあげて",
   "en": "Silent Sword, do not encourage him! Please,\ntell him the correct answer.",
-  "zh": ""
+  "zh": "猩猩男，别在那里佩服了\n快给这个笨蛋讲讲正确的见解"
  },
  {
   "id": "MSG/MSG6200/99794",
@@ -121839,7 +121839,7 @@
   "offset": "3C868",
   "jp": "御意",
   "en": "As you say.",
-  "zh": ""
+  "zh": "遵命"
  },
  {
   "id": "MSG/MSG6200/99795",
@@ -121848,7 +121848,7 @@
   "offset": "3C86E",
   "jp": "おそらく犯人は、身の軽い小柄なやつ\nでしょうな",
   "en": "The thief is most likely a small, light\nperson.",
-  "zh": ""
+  "zh": "犯人恐怕是个身手敏捷、身材矮小的家伙吧"
  },
  {
   "id": "MSG/MSG6200/99796",
@@ -121857,7 +121857,7 @@
   "offset": "3C89E",
   "jp": "子供か・・・あるいは女性という線も\nあるかもしれません・・・",
   "en": "The finger of suspicion points to a child\nor a woman.",
-  "zh": ""
+  "zh": "是小孩……或者女性的可能性\n也是有的……"
  },
  {
   "id": "MSG/MSG6200/99797",
@@ -121866,7 +121866,7 @@
   "offset": "3C8DC",
   "jp": "それから、犯人はそうとうに地の利に\n明るい人間と言えるでしょう",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "此外，犯人想必是个对地利\n极为熟悉的人吧。"
  },
  {
   "id": "MSG/MSG6200/99798",
@@ -121875,7 +121875,7 @@
   "offset": "3C91C",
   "jp": "狭い通気口の存在に気づくとは、この辺りの\n事情に詳しい者のはず",
   "en": "They must know this place well, to locate\nsuch a small ventilation shaft so easily.",
-  "zh": ""
+  "zh": "能注意到如此狭窄的通风口，必定对这一带的\n情况了如指掌。"
  },
  {
   "id": "MSG/MSG6200/99799",
@@ -121884,7 +121884,7 @@
   "offset": "3C95C",
   "jp": "さすがね、ゴリさん",
   "en": "Well done, Silent Sword.",
-  "zh": ""
+  "zh": "真不愧是你呢，猩猩先生。"
  },
  {
   "id": "MSG/MSG6200/9979A",
@@ -121893,7 +121893,7 @@
   "offset": "3C970",
   "jp": "単細胞も見習いなさい",
   "en": "I hope you are taking notes, Bubble Head!",
-  "zh": ""
+  "zh": "单细胞你也好好学学。"
  },
  {
   "id": "MSG/MSG6200/9979B",
@@ -121902,7 +121902,7 @@
   "offset": "3C986",
   "jp": "はーい",
   "en": "Of course!",
-  "zh": ""
+  "zh": "好——的。"
  },
  {
   "id": "MSG/MSG6200/9979C",
@@ -121911,7 +121911,7 @@
   "offset": "3C98E",
   "jp": "さて、ほかに聞きたいことは・・・と%F",
   "en": "Right, what else do we need to ask...?%F",
-  "zh": ""
+  "zh": "那么，其他还想打听的是……%F"
  },
  {
   "id": "MSG/MSG6200/997A0",
@@ -121920,7 +121920,7 @@
   "offset": "3C9B6",
   "jp": "犯人の心当たりについて、教えてよ%S460006",
   "en": "What can you tell us about possible\nculprits, then?%S460006",
-  "zh": ""
+  "zh": "关于嫌疑人，跟我们说说吧。%S460006"
  },
  {
   "id": "MSG/MSG6200/997A1",
@@ -121929,7 +121929,7 @@
   "offset": "3C9E8",
   "jp": "犯人の心当たり？",
   "en": "Possible culprits?",
-  "zh": ""
+  "zh": "嫌疑人？"
  },
  {
   "id": "MSG/MSG6200/997A2",
@@ -121938,7 +121938,7 @@
   "offset": "3C9FA",
   "jp": "それなら、有力なやつが一人いるねぇ",
   "en": "There is one, certainly.",
-  "zh": ""
+  "zh": "那倒是有一个极具嫌疑的家伙呢。"
  },
  {
   "id": "MSG/MSG6200/997A3",
@@ -121947,7 +121947,7 @@
   "offset": "3CA1E",
   "jp": "アタシは、そいつがあやしいと、にらんでるんだ",
   "en": "Someone who I think is most suspicious in\nthis matter!",
-  "zh": ""
+  "zh": "我一眼就盯上那家伙，觉得可疑得很呐。"
  },
  {
   "id": "MSG/MSG6200/997A4",
@@ -121956,7 +121956,7 @@
   "offset": "3CA4C",
   "jp": "だれだ、それって？",
   "en": "Oh yes? And who is that?",
-  "zh": ""
+  "zh": "那是谁啊？"
  },
  {
   "id": "MSG/MSG6200/997A5",
@@ -121965,7 +121965,7 @@
   "offset": "3CA60",
   "jp": "ユウキだよ、カッカカカカカッ！",
   "en": "Yuki, of course! Ha ha ha ha!",
-  "zh": ""
+  "zh": "是勇树啊，咔咔咔咔咔！"
  },
  {
   "id": "MSG/MSG6200/997A6",
@@ -121974,7 +121974,7 @@
   "offset": "3CA80",
   "jp": "・・・はぁ",
   "en": "...Haah.",
-  "zh": ""
+  "zh": "……唉。"
  },
  {
   "id": "MSG/MSG6200/997A7",
@@ -121983,7 +121983,7 @@
   "offset": "3CA8C",
   "jp": "ほかに、心当たりはないのか？",
   "en": "Any other ideas?",
-  "zh": ""
+  "zh": "此外就没别的怀疑对象了吗？"
  },
  {
   "id": "MSG/MSG6200/997A8",
@@ -121992,7 +121992,7 @@
   "offset": "3CAAA",
   "jp": "さてね、アタシも元々は盗掘団なんて\nあこぎな商売、やってたからねぇ",
   "en": "I'm the former leader of a band of... shady\ncharacters, let me say.",
-  "zh": ""
+  "zh": "谁知道呢，我以前好歹也是干过\n盗墓团这种缺德行当的。"
  },
  {
   "id": "MSG/MSG6200/997A9",
@@ -122001,7 +122001,7 @@
   "offset": "3CAEE",
   "jp": "ありすぎて、逆にわからないというのが・・・\nふっ、正直なところさ",
   "en": "I have so many enemies I hardly think a list\nof them would do you any good.",
-  "zh": ""
+  "zh": "怀疑对象多到反而数不过来……\n呵，说实话还真是这样。"
  },
  {
   "id": "MSG/MSG6200/997AA",
@@ -122010,7 +122010,7 @@
   "offset": "3CB30",
   "jp": "あ、そう",
   "en": "I see.",
-  "zh": ""
+  "zh": "啊，这样啊。"
  },
  {
   "id": "MSG/MSG6200/997AB",
@@ -122019,7 +122019,7 @@
   "offset": "3CB3A",
   "jp": "で、ほかにも、聞きたいことはあるかい？%F",
   "en": "Is there anything else you want?%F",
-  "zh": ""
+  "zh": "那么，还有其他想问的吗？%F"
  },
  {
   "id": "MSG/MSG6200/997AF",
@@ -122028,7 +122028,7 @@
   "offset": "3CB66",
   "jp": "盗まれたものについて、教えてよ%S460007",
   "en": "Tell us about what was stolen, then.%S460007",
-  "zh": ""
+  "zh": "关于失窃的物品，跟我们说说吧。%S460007"
  },
  {
   "id": "MSG/MSG6200/997B0",
@@ -122037,7 +122037,7 @@
   "offset": "3CB96",
   "jp": "盗まれたのは、古代に作られた魔導楽器\n“ゴーレム笛”さ",
   "en": "The stolen item was an ancient magical\ninstrument known as the \"Golem Flute.\"",
-  "zh": ""
+  "zh": "被偷走的是古代制造的魔导乐器——\n“魔像之笛”。"
  },
  {
   "id": "MSG/MSG6200/997B1",
@@ -122046,7 +122046,7 @@
   "offset": "3CBCE",
   "jp": "“ゴーレム笛”？",
   "en": "The Golem Flute?",
-  "zh": ""
+  "zh": "“魔像之笛”？"
  },
  {
   "id": "MSG/MSG6200/997B2",
@@ -122055,7 +122055,7 @@
   "offset": "3CBE0",
   "jp": "その“ゴーレム笛”って何に使うものなんだ？",
   "en": "What is it used for, this flute?",
-  "zh": ""
+  "zh": "那个“魔像之笛”是用来做什么的啊？"
  },
  {
   "id": "MSG/MSG6200/997B3",
@@ -122064,7 +122064,7 @@
   "offset": "3CC0C",
   "jp": "・・・ただの骨董品さ\n鑑賞して楽しむだけさね",
   "en": "...Nothing. Purely for decoration. I just\nliked to look at it, that's all.",
-  "zh": ""
+  "zh": "……不过是件古董罢了。\n纯粹摆着鉴赏观赏而已。"
  },
  {
   "id": "MSG/MSG6200/997B4",
@@ -122073,7 +122073,7 @@
   "offset": "3CC3A",
   "jp": "“笛”なのに？",
   "en": "But it's a flute, right?",
-  "zh": ""
+  "zh": "明明是“笛子”？"
  },
  {
   "id": "MSG/MSG6200/997B5",
@@ -122082,7 +122082,7 @@
   "offset": "3CC4A",
   "jp": "ああ、そうだよ・・・文句あるのかい？",
   "en": "Yes... and? You have a problem with that?",
-  "zh": ""
+  "zh": "啊，是啊……你有意见吗？"
  },
  {
   "id": "MSG/MSG6200/997B6",
@@ -122091,7 +122091,7 @@
   "offset": "3CC70",
   "jp": "いや、べつに文句はないけど・・・",
   "en": "No, not really a problem...",
-  "zh": ""
+  "zh": "没，倒也不是有什么意见……"
  },
  {
   "id": "MSG/MSG6200/997B7",
@@ -122100,7 +122100,7 @@
   "offset": "3CC92",
   "jp": "ところで、ご老人",
   "en": "One thing, sir.",
-  "zh": ""
+  "zh": "话说回来，老人家。"
  },
  {
   "id": "MSG/MSG6200/997B8",
@@ -122109,7 +122109,7 @@
   "offset": "3CCA4",
   "jp": "なんだい？",
   "en": "What?",
-  "zh": ""
+  "zh": "怎么了？"
  },
  {
   "id": "MSG/MSG6200/997B9",
@@ -122118,7 +122118,7 @@
   "offset": "3CCB0",
   "jp": "その“ゴーレム笛”というのは\nどうやって、手に入れたので？",
   "en": "How did you obtain this Golem Flute in the\nfirst place?",
-  "zh": ""
+  "zh": "那个“魔像之笛”，\n您究竟是怎么弄到手的呢？"
  },
  {
   "id": "MSG/MSG6200/997BA",
@@ -122127,7 +122127,7 @@
   "offset": "3CCEC",
   "jp": "あの笛は、アタシが発掘したんだよ\nなんか、なんくせつける気かい？",
   "en": "I dug it up with my own hands, thank you\nvery much! What are you implying?",
-  "zh": ""
+  "zh": "那把笛子可是我自己挖掘出来的。\n怎么，你想找茬吗？"
  },
  {
   "id": "MSG/MSG6200/997BB",
@@ -122136,7 +122136,7 @@
   "offset": "3CD2E",
   "jp": "いや、そういういうわけでは\nただ、どうやって手に入れたのかと・・・",
   "en": "Nothing. I was just wondering how you\ngot your hands on it.",
-  "zh": ""
+  "zh": "不，我不是那个意思\n只是想问你是怎么弄到手的……"
  },
  {
   "id": "MSG/MSG6200/997BC",
@@ -122145,7 +122145,7 @@
   "offset": "3CD72",
   "jp": "うるさいねぇ",
   "en": "Well, don't! I'm not under suspicion of\nanything here!",
-  "zh": ""
+  "zh": "啰嗦死了"
  },
  {
   "id": "MSG/MSG6200/997BD",
@@ -122154,7 +122154,7 @@
   "offset": "3CD80",
   "jp": "この話は、おしまいだよ",
   "en": "I've nothing more to say about that!",
-  "zh": ""
+  "zh": "这事到此为止"
  },
  {
   "id": "MSG/MSG6200/997BE",
@@ -122163,7 +122163,7 @@
   "offset": "3CD98",
   "jp": "ほかに、聞きたいことは？%F",
   "en": "Now, do you need to ask me anything else?%F",
-  "zh": ""
+  "zh": "还有其他想问的吗？%F"
  },
  {
   "id": "MSG/MSG6200/997C0",
@@ -122172,7 +122172,7 @@
   "offset": "3CDB6",
   "jp": "えーと、じゃあ・・・%J622357",
   "en": "Yeah, okay... how about...%J622357",
-  "zh": ""
+  "zh": "呃，那就……%J622357"
  },
  {
   "id": "MSG/MSG6200/997DC",
@@ -122181,7 +122181,7 @@
   "offset": "3CDDC",
   "jp": "このことから考えると、犯人は\nどんなやつだと思う？",
   "en": "What does that tell us about the criminal?",
-  "zh": ""
+  "zh": "从这点来推断，你觉得犯人\n会是什么样的人？"
  },
  {
   "id": "MSG/MSG6200/997DD",
@@ -122190,7 +122190,7 @@
   "offset": "3CE10",
   "jp": "そうだな・・・",
   "en": "Easy!",
-  "zh": ""
+  "zh": "我想想啊……"
  },
  {
   "id": "MSG/MSG6200/997DE",
@@ -122199,7 +122199,7 @@
   "offset": "3CE20",
   "jp": "犯人は、身軽で小柄なやつだ%M628710",
   "en": "The thief is light and small%M628710",
-  "zh": ""
+  "zh": "犯人是个身轻小巧的家伙%M628710"
  },
  {
   "id": "MSG/MSG6200/997DF",
@@ -122208,7 +122208,7 @@
   "offset": "3CE4C",
   "jp": "犯人は、ネズミ使いだ%M628720",
   "en": "The thief uses trained mice%M628720",
-  "zh": ""
+  "zh": "犯人是个操鼠师%M628720"
  },
  {
   "id": "MSG/MSG6200/997E6",
@@ -122217,7 +122217,7 @@
   "offset": "3CE72",
   "jp": "つまり、犯人は“身軽で小柄なやつ”だって\nことだな",
   "en": "That the thief is light, small and nimble.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“身轻小巧的家伙”\n对吧"
  },
  {
   "id": "MSG/MSG6200/997E7",
@@ -122226,7 +122226,7 @@
   "offset": "3CEA6",
   "jp": "へぇ、さえてるじゃない\nアツマのくせに",
   "en": "Well done! Impressive, especially coming\nfrom you!",
-  "zh": ""
+  "zh": "嘿，脑子挺灵光的嘛\n明明只是阿茨玛而已"
  },
  {
   "id": "MSG/MSG6200/997E8",
@@ -122235,7 +122235,7 @@
   "offset": "3CECE",
   "jp": "へへへ・・・当ったり前だろ！",
   "en": "Heh hee hee... expect no less!",
-  "zh": ""
+  "zh": "嘿嘿嘿……那不是理所当然的嘛！"
  },
  {
   "id": "MSG/MSG6200/997E9",
@@ -122244,7 +122244,7 @@
   "offset": "3CEEC",
   "jp": "たしかにｱ",
   "en": "You're right.",
-  "zh": ""
+  "zh": "确实呢"
  },
  {
   "id": "MSG/MSG6200/997EA",
@@ -122253,7 +122253,7 @@
   "offset": "3CEF8",
   "jp": "きっと犯人は身の軽い、小柄なやつね",
   "en": "The thief must be quite small and light.",
-  "zh": ""
+  "zh": "犯人一定是个身轻敏捷、体型娇小的家伙"
  },
  {
   "id": "MSG/MSG6200/997EB",
@@ -122262,7 +122262,7 @@
   "offset": "3CF1C",
   "jp": "子供か・・・あるいは女性という\n線もあるかも・・・",
   "en": "The finger of suspicion points to a child...\nor a woman, then...",
-  "zh": ""
+  "zh": "小孩……或者是女性\n也有这种可能呢……"
  },
  {
   "id": "MSG/MSG6200/997EC",
@@ -122271,7 +122271,7 @@
   "offset": "3CF50",
   "jp": "それから、犯人はそうとう地の利に\n明るい人間ね",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "而且，犯人一定是非常熟悉当地地利的\n家伙呢"
  },
  {
   "id": "MSG/MSG6200/997ED",
@@ -122280,7 +122280,7 @@
   "offset": "3CF80",
   "jp": "狭い通気口なんて、ふつう気づかないもの%J628741",
   "en": "You wouldn't normally notice a small\nventilation shaft like that.%J628741",
-  "zh": ""
+  "zh": "那么窄的通风口，一般人根本不会注意到呢%J628741"
  },
  {
   "id": "MSG/MSG6200/997F0",
@@ -122289,7 +122289,7 @@
   "offset": "3CFB8",
   "jp": "つまり、犯人は“ネズミ使い”だってことだな",
   "en": "The thief uses trained mice.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“操鼠师”对吧"
  },
  {
   "id": "MSG/MSG6200/997F1",
@@ -122298,7 +122298,7 @@
   "offset": "3CFE4",
   "jp": "ネズミ使い？",
   "en": "Trained mice...?!",
-  "zh": ""
+  "zh": "操鼠师？"
  },
  {
   "id": "MSG/MSG6200/997F2",
@@ -122307,7 +122307,7 @@
   "offset": "3CFF2",
   "jp": "そうだ！　通気口にネズミを忍び込ませ\nお宝を運ばせたんだ",
   "en": "That's right! They send the mice into the\nventilation to carry back treasures!",
-  "zh": ""
+  "zh": "没错！把老鼠潜送进通风口\n让它们把宝物搬出来！"
  },
  {
   "id": "MSG/MSG6200/997F3",
@@ -122316,7 +122316,7 @@
   "offset": "3D02C",
   "jp": "犯人とネズミのやりとりは、おそらく\nこんな感じだろう",
   "en": "The conversation between the mouse and the\nthief probably went something like this.",
-  "zh": ""
+  "zh": "犯人和老鼠的对话，大概\n就是这种感觉吧"
  },
  {
   "id": "MSG/MSG6200/997F4",
@@ -122325,7 +122325,7 @@
   "offset": "3D062",
   "jp": "“ネズミさん、通気口からはいっチェ\n お宝を取ってきてくれまチュか？”",
   "en": "\"Squeak squeak ventilation squeak, squeak\ntreasures squeak to me squeak squeak?\"",
-  "zh": ""
+  "zh": "“老鼠先生，能从通风口钻进去\n帮我把宝物取出来吱？”"
  },
  {
   "id": "MSG/MSG6200/997F5",
@@ -122334,7 +122334,7 @@
   "offset": "3D0AA",
   "jp": "“いいでチュよ、お安い御用でチュ”",
   "en": "\"Squeak... no squeak squeaking problem!\"",
-  "zh": ""
+  "zh": "“好吱，小事一桩吱”"
  },
  {
   "id": "MSG/MSG6200/997F6",
@@ -122343,7 +122343,7 @@
   "offset": "3D0CE",
   "jp": "“ありがとうでチュ、ネズミさん\n あとで、おいしいチーズを、あげまチュね⑲”",
   "en": "\"Thank squeak you squeak! Squeak cheese\nsqueak afterwards⑲\"",
-  "zh": ""
+  "zh": "“谢谢你吱，老鼠先生\n回头给你好吃的奶酪吱⑲”"
  },
  {
   "id": "MSG/MSG6200/997F7",
@@ -122352,7 +122352,7 @@
   "offset": "3D11C",
   "jp": "“わーい、でチュ⑲”",
   "en": "\"Oh squeak boy!\"",
-  "zh": ""
+  "zh": "“好耶吱⑲”"
  },
  {
   "id": "MSG/MSG6200/997F8",
@@ -122361,7 +122361,7 @@
   "offset": "3D132",
   "jp": "・・・へぇ・・・で？",
   "en": "...Your conclusions, then?",
-  "zh": ""
+  "zh": "……呵……所以呢？"
  },
  {
   "id": "MSG/MSG6200/997F9",
@@ -122370,7 +122370,7 @@
   "offset": "3D148",
   "jp": "だから！　チーズを売っている商店で\nはり込みをしていればｱ",
   "en": "What do you think?! The thief is a cheese\nmerchant, obviously!",
-  "zh": ""
+  "zh": "所以啊！只要在卖奶酪的商店\n蹲点埋伏的话"
  },
  {
   "id": "MSG/MSG6200/997FA",
@@ -122379,7 +122379,7 @@
   "offset": "3D184",
   "jp": "犯人と！　その共犯である、ネズミのシッポを！\n捕まえられる、だろうな",
   "en": "We need to tail every cheese merchant in\nthe city!",
-  "zh": ""
+  "zh": "就能把犯人！还有它的共犯老鼠的小尾巴！\n给揪出来了吧"
  },
  {
   "id": "MSG/MSG6200/997FB",
@@ -122388,7 +122388,7 @@
   "offset": "3D1CA",
   "jp": "なるほど・・・ネズミだけに、シッポを\n捕まえるか・・・",
   "en": "I guess... it would be easy to tail a mouse\nuser...",
-  "zh": ""
+  "zh": "原来如此……正因为是老鼠，所以才能\n揪住尾巴吗……"
  },
  {
   "id": "MSG/MSG6200/997FC",
@@ -122397,7 +122397,7 @@
   "offset": "3D202",
   "jp": "ゴリさん、感心してないで\nこのバカに、正しい見解を教えてあげて",
   "en": "Silent Sword, do not encourage him! Please,\ntell him the correct answer.",
-  "zh": ""
+  "zh": "猩猩大叔，别在那佩服了\n快给这个笨蛋讲讲正确见解吧"
  },
  {
   "id": "MSG/MSG6200/997FD",
@@ -122406,7 +122406,7 @@
   "offset": "3D242",
   "jp": "御意",
   "en": "As you say.",
-  "zh": ""
+  "zh": "遵命"
  },
  {
   "id": "MSG/MSG6200/997FE",
@@ -122415,7 +122415,7 @@
   "offset": "3D248",
   "jp": "おそらく犯人は、身の軽い小柄なやつでしょうな",
   "en": "The thief is most likely a small, light\nperson.",
-  "zh": ""
+  "zh": "犯人恐怕是个身手轻盈、身形娇小的家伙吧"
  },
  {
   "id": "MSG/MSG6200/997FF",
@@ -122424,7 +122424,7 @@
   "offset": "3D276",
   "jp": "子供か・・・あるいは女性という線も\nあるかもしれません・・・",
   "en": "The finger of suspicion points to a child\nor a woman.",
-  "zh": ""
+  "zh": "是个小孩……或者说也有可能是个\n女性也说不定……"
  },
  {
   "id": "MSG/MSG6200/99800",
@@ -122433,7 +122433,7 @@
   "offset": "3D2B4",
   "jp": "それから、犯人はそうとうに地の利に\n明るい人間と言えるでしょう",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "另外，可以说犯人相当熟悉\n这里的地利"
  },
  {
   "id": "MSG/MSG6200/99801",
@@ -122442,7 +122442,7 @@
   "offset": "3D2F4",
   "jp": "狭い通気口の存在に気づくとは、この辺りの\n事情に詳しい者のはず",
   "en": "They must know this place well, to locate\nsuch a small ventilation shaft so easily.",
-  "zh": ""
+  "zh": "能注意到狭窄的通风口，想必是个\n对这一带底细了如指掌的人"
  },
  {
   "id": "MSG/MSG6200/99802",
@@ -122451,7 +122451,7 @@
   "offset": "3D334",
   "jp": "さすがね、ゴリさん",
   "en": "Well done, Silent Sword.",
-  "zh": ""
+  "zh": "不愧是你啊，猩猩刑警"
  },
  {
   "id": "MSG/MSG6200/99803",
@@ -122460,7 +122460,7 @@
   "offset": "3D348",
   "jp": "マンプクも、見習いなさい",
   "en": "I hope you are taking notes, Big Eater!",
-  "zh": ""
+  "zh": "大肚腩，你也好好学学人家"
  },
  {
   "id": "MSG/MSG6200/99804",
@@ -122469,7 +122469,7 @@
   "offset": "3D362",
   "jp": "はーい・・・",
   "en": "Of course!",
-  "zh": ""
+  "zh": "好～的……"
  },
  {
   "id": "MSG/MSG6200/99805",
@@ -122478,7 +122478,7 @@
   "offset": "3D370",
   "jp": "さて、他に聞きたいことは・・・、と・・・",
   "en": "Right, what else do we need to ask...?",
-  "zh": ""
+  "zh": "那么，其他还想问点什么呢……"
  },
  {
   "id": "MSG/MSG6200/9980E",
@@ -122487,7 +122487,7 @@
   "offset": "3D39A",
   "jp": "このことから考えると、犯人はどんな\nやつだと思う？",
   "en": "What does that tell us about the criminal?",
-  "zh": ""
+  "zh": "根据这些线索来看，你觉得犯人会是\n个什么样的家伙？"
  },
  {
   "id": "MSG/MSG6200/9980F",
@@ -122496,7 +122496,7 @@
   "offset": "3D3CE",
   "jp": "そうだな・・・",
   "en": "Easy!",
-  "zh": ""
+  "zh": "让我想想……"
  },
  {
   "id": "MSG/MSG6200/99810",
@@ -122505,7 +122505,7 @@
   "offset": "3D3DE",
   "jp": "犯人は、身軽で小柄なやつだ%M628760",
   "en": "The thief is light and small%M628760",
-  "zh": ""
+  "zh": "犯人是个身手敏捷、身材娇小的家伙%M628760"
  },
  {
   "id": "MSG/MSG6200/99811",
@@ -122514,7 +122514,7 @@
   "offset": "3D40A",
   "jp": "犯人は、ネズミ使いだ%M628775",
   "en": "The thief uses trained mice%M628775",
-  "zh": ""
+  "zh": "犯人是个训鼠使者%M628775"
  },
  {
   "id": "MSG/MSG6200/99818",
@@ -122523,7 +122523,7 @@
   "offset": "3D430",
   "jp": "つまり、犯人は“身軽で小柄なやつ”だって\nことだな",
   "en": "That the thief is light, small and nimble.",
-  "zh": ""
+  "zh": "也就是说，犯人是个“身手敏捷又身形娇小”的\n家伙对吧"
  },
  {
   "id": "MSG/MSG6200/99819",
@@ -122532,7 +122532,7 @@
   "offset": "3D464",
   "jp": "へぇ、さえてるじゃない\nアツマのくせに",
   "en": "Well done! Impressive, especially coming\nfrom you!",
-  "zh": ""
+  "zh": "哼，这不是挺敏锐的嘛，\n明明只是个阿茨玛"
  },
  {
   "id": "MSG/MSG6200/9981A",
@@ -122541,7 +122541,7 @@
   "offset": "3D48C",
   "jp": "へへへ・・・当ったり前だろ！",
   "en": "Heh hee hee... expect no less!",
-  "zh": ""
+  "zh": "嘿嘿嘿……那不是理所当然的嘛！"
  },
  {
   "id": "MSG/MSG6200/9981B",
@@ -122550,7 +122550,7 @@
   "offset": "3D4AA",
   "jp": "たしかにｱ",
   "en": "You're right.",
-  "zh": ""
+  "zh": "确实呢"
  },
  {
   "id": "MSG/MSG6200/9981C",
@@ -122559,7 +122559,7 @@
   "offset": "3D4B6",
   "jp": "きっと犯人は身の軽い、小柄なやつね",
   "en": "The thief must be quite small and light.",
-  "zh": ""
+  "zh": "犯人肯定是个身手轻盈、身形娇小的家伙吧"
  },
  {
   "id": "MSG/MSG6200/9981D",
@@ -122568,7 +122568,7 @@
   "offset": "3D4DA",
   "jp": "子供か・・・あるいは女性という\n線もあるかも・・・",
   "en": "The finger of suspicion points to a child...\nor a woman, then...",
-  "zh": ""
+  "zh": "是个小孩……或者也有可能是\n女性呢……"
  },
  {
   "id": "MSG/MSG6200/9981E",
@@ -122577,7 +122577,7 @@
   "offset": "3D50E",
   "jp": "それから、犯人はそうとう地の利に\n明るい人間ね",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "而且，犯人还相当熟悉\n这里的地利呢"
  },
  {
   "id": "MSG/MSG6200/9981F",
@@ -122586,7 +122586,7 @@
   "offset": "3D53E",
   "jp": "狭い通気口なんて、ふつう気づかないもの%J628796",
   "en": "You wouldn't normally notice a small\nventilation shaft like that.%J628796",
-  "zh": ""
+  "zh": "那么狭窄的通风口，一般人根本不会注意到嘛%J628796"
  },
  {
   "id": "MSG/MSG6200/99827",
@@ -122595,7 +122595,7 @@
   "offset": "3D576",
   "jp": "つまり犯人は“ネズミ使い”だってことだな",
   "en": "The thief uses trained mice.",
-  "zh": ""
+  "zh": "也就是说犯人是个“训鼠使者”对吧"
  },
  {
   "id": "MSG/MSG6200/99828",
@@ -122604,7 +122604,7 @@
   "offset": "3D5A0",
   "jp": "ネズミ使い？",
   "en": "Trained mice...?!",
-  "zh": ""
+  "zh": "训鼠使者？"
  },
  {
   "id": "MSG/MSG6200/99829",
@@ -122613,7 +122613,7 @@
   "offset": "3D5AE",
   "jp": "そうだ、通気口にネズミを忍び込ませ\nお宝を運ばせたんだ",
   "en": "That's right! They send the mice into the\nventilation to carry back treasures!",
-  "zh": ""
+  "zh": "没错，让老鼠潜入通风口，\n去把宝物偷运出来的"
  },
  {
   "id": "MSG/MSG6200/9982A",
@@ -122622,7 +122622,7 @@
   "offset": "3D5E6",
   "jp": "犯人とネズミのやりとりは、おそらく\nこんな感じだろう",
   "en": "The conversation between the mouse and the\nthief probably went something like this.",
-  "zh": ""
+  "zh": "犯人和老鼠之间的对话，大概\n就是这种感觉吧"
  },
  {
   "id": "MSG/MSG6200/9982B",
@@ -122631,7 +122631,7 @@
   "offset": "3D61C",
   "jp": "“ネズミさん、通気口からはいっチェ\n お宝を取ってきてくれまチュか？”",
   "en": "\"Squeak squeak ventilation squeak, squeak\ntreasures squeak to me squeak squeak?\"",
-  "zh": ""
+  "zh": "“老鼠先生，能请你钻进通风口\n帮我把宝物取出来吱？”"
  },
  {
   "id": "MSG/MSG6200/9982C",
@@ -122640,7 +122640,7 @@
   "offset": "3D664",
   "jp": "“いいでチュよ、お安い御用でチュ”",
   "en": "\"Squeak... no squeak squeaking problem!\"",
-  "zh": ""
+  "zh": "“好吱呀，小事一桩吱”"
  },
  {
   "id": "MSG/MSG6200/9982D",
@@ -122649,7 +122649,7 @@
   "offset": "3D688",
   "jp": "“ありがとうでチュ、ネズミさん\n あとで、おいしいチーズをあげまチュね⑲”",
   "en": "\"Thank squeak you squeak! Squeak cheese\nsqueak afterwards⑲\"",
-  "zh": ""
+  "zh": "“太感谢你啦，老鼠先生\n待会儿我给你好吃的奶酪吱⑲”"
  },
  {
   "id": "MSG/MSG6200/9982E",
@@ -122658,7 +122658,7 @@
   "offset": "3D6D4",
   "jp": "“わーい、でチュ⑲”",
   "en": "\"Oh squeak boy!\"",
-  "zh": ""
+  "zh": "“太棒啦吱⑲”"
  },
  {
   "id": "MSG/MSG6200/9982F",
@@ -122667,7 +122667,7 @@
   "offset": "3D6EA",
   "jp": "・・・へぇ・・・で？",
   "en": "...Your conclusions, then?",
-  "zh": ""
+  "zh": "……呵……所以呢？"
  },
  {
   "id": "MSG/MSG6200/99830",
@@ -122676,7 +122676,7 @@
   "offset": "3D700",
   "jp": "だから！　チーズを売っている商店で\nはり込みをしていればｱ",
   "en": "What do you think?! The thief is a cheese\nmerchant, obviously!",
-  "zh": ""
+  "zh": "所以说！只要在卖奶酪的商店\n蹲点埋伏的话啊"
  },
  {
   "id": "MSG/MSG6200/99831",
@@ -122685,7 +122685,7 @@
   "offset": "3D73C",
   "jp": "犯人と！　その共犯である、ネズミのシッポを！\n捕まえられる、だろうな",
   "en": "We need to tail every cheese merchant in\nthe city!",
-  "zh": ""
+  "zh": "就能把犯人！还有它的共犯——那只老鼠的尾巴！\n给揪出来了吧"
  },
  {
   "id": "MSG/MSG6200/99832",
@@ -122694,7 +122694,7 @@
   "offset": "3D782",
   "jp": "なるほど・・・ネズミだけに、シッポを\n捕まえるか・・・",
   "en": "I guess... it would be easy to tail a mouse\nuser...",
-  "zh": ""
+  "zh": "原来如此……正因为是老鼠，所以才要揪住\n尾巴不放吗……"
  },
  {
   "id": "MSG/MSG6200/99833",
@@ -122703,7 +122703,7 @@
   "offset": "3D7BA",
   "jp": "ゴリさん、感心してないで\nこのバカに、正しい見解を教えてあげて",
   "en": "Silent Sword, do not encourage him! Please,\ntell him the correct answer.",
-  "zh": ""
+  "zh": "猩猩先生，别在那佩服了，\n快给这个笨蛋讲讲正确的见解吧"
  },
  {
   "id": "MSG/MSG6200/99834",
@@ -122712,7 +122712,7 @@
   "offset": "3D7FA",
   "jp": "御意",
   "en": "As you say.",
-  "zh": ""
+  "zh": "领命"
  },
  {
   "id": "MSG/MSG6200/99835",
@@ -122721,7 +122721,7 @@
   "offset": "3D800",
   "jp": "おそらく犯人は、身の軽い小柄なやつ\nでしょうな",
   "en": "The thief is most likely a small, light\nperson.",
-  "zh": ""
+  "zh": "犯人恐怕是个身手矫捷、身材矮小的\n家伙吧"
  },
  {
   "id": "MSG/MSG6200/99836",
@@ -122730,7 +122730,7 @@
   "offset": "3D830",
   "jp": "子供か・・・あるいは女性という線も\nあるかもしれません・・・",
   "en": "The finger of suspicion points to a child\nor a woman.",
-  "zh": ""
+  "zh": "是小孩……或者是女性的可能性也\n不是没有……"
  },
  {
   "id": "MSG/MSG6200/99837",
@@ -122739,7 +122739,7 @@
   "offset": "3D86E",
   "jp": "それから、犯人はそうとうに地の利に\n明るい人間と言えるでしょう",
   "en": "The criminal also has a keen eye for their\nsurroundings.",
-  "zh": ""
+  "zh": "此外，可以说犯人是个对地形极为\n熟悉的人"
  },
  {
   "id": "MSG/MSG6200/99838",
@@ -122748,7 +122748,7 @@
   "offset": "3D8AE",
   "jp": "狭い通気口の存在に気づくとは、この辺りの\n事情に詳しい者のはず",
   "en": "They must know this place well, to locate\nsuch a small ventilation shaft so easily.",
-  "zh": ""
+  "zh": "能察觉到狭小通风口的存在，必定是对\n这一带的情况了如指掌之人"
  },
  {
   "id": "MSG/MSG6200/99839",
@@ -122757,7 +122757,7 @@
   "offset": "3D8EE",
   "jp": "さすがね、ゴリさん",
   "en": "Well done, Silent Sword.",
-  "zh": ""
+  "zh": "真不愧是你呢，猩猩先生"
  },
  {
   "id": "MSG/MSG6200/9983A",
@@ -122766,7 +122766,7 @@
   "offset": "3D902",
   "jp": "バーニングも見習いなさい",
   "en": "I hope you are taking notes, Burning!",
-  "zh": ""
+  "zh": "热血笨蛋你也学着点"
  },
  {
   "id": "MSG/MSG6200/9983B",
@@ -122775,7 +122775,7 @@
   "offset": "3D91C",
   "jp": "はーい",
   "en": "Of course!",
-  "zh": ""
+  "zh": "好——的"
  },
  {
   "id": "MSG/MSG6200/9983C",
@@ -122784,7 +122784,7 @@
   "offset": "3D924",
   "jp": "さて、他に聞きたいことは・・・と",
   "en": "Right, what else do we need to ask...?",
-  "zh": ""
+  "zh": "那么，其他想问的事情是……呃"
  },
  {
   "id": "MSG/MSG6200/99840",
@@ -122793,7 +122793,7 @@
   "offset": "3D946",
   "jp": "金庫の中%M623860",
   "en": "The safe%M623860",
-  "zh": ""
+  "zh": "保险箱里面%M623860"
  },
  {
   "id": "MSG/MSG6200/99841",
@@ -122802,7 +122802,7 @@
   "offset": "3D960",
   "jp": "クローゼットの中%M628805",
   "en": "The closet%M628805",
-  "zh": ""
+  "zh": "衣柜里面%M628805"
  },
  {
   "id": "MSG/MSG6200/99842",
@@ -122811,7 +122811,7 @@
   "offset": "3D982",
   "jp": "ベッドの下%M628815",
   "en": "Under the bed%M628815",
-  "zh": ""
+  "zh": "床底下%M628815"
  },
  {
   "id": "MSG/MSG6200/99845",
@@ -122820,7 +122820,7 @@
   "offset": "3D99E",
   "jp": "クローゼットの中を調べてみるか",
   "en": "How about inside the closet?",
-  "zh": ""
+  "zh": "调查一下衣柜里面吧"
  },
  {
   "id": "MSG/MSG6200/99846",
@@ -122829,7 +122829,7 @@
   "offset": "3D9BE",
   "jp": "・・・ぅん・・・？",
   "en": "...Hmmm...",
-  "zh": ""
+  "zh": "……嗯……？"
  },
  {
   "id": "MSG/MSG6200/99847",
@@ -122838,7 +122838,7 @@
   "offset": "3D9D2",
   "jp": "・・・同じ帽子が、大量にあるな・・・",
   "en": "Look at all these hats... all the same!",
-  "zh": ""
+  "zh": "……同一款帽子，居然有一大堆啊……"
  },
  {
   "id": "MSG/MSG6200/99848",
@@ -122847,7 +122847,7 @@
   "offset": "3D9F8",
   "jp": "ここには、目当てのものはなさそうだな",
   "en": "Nothing else in here, though.",
-  "zh": ""
+  "zh": "这里看起来没有我们要找的东西呢"
  },
  {
   "id": "MSG/MSG6200/99849",
@@ -122856,7 +122856,7 @@
   "offset": "3DA1E",
   "jp": "ほかのところを調べるぞ、アツマ%J628800",
   "en": "Let's try somewhere else, Atsuma.%J628800",
-  "zh": ""
+  "zh": "去调查别的地方吧，阿茨玛%J628800"
  },
  {
   "id": "MSG/MSG6200/9984F",
@@ -122865,7 +122865,7 @@
   "offset": "3DA4E",
   "jp": "よし、ベッドの下を調べてみるか",
   "en": "All right, let's try under the bed.",
-  "zh": ""
+  "zh": "好，调查一下床底下吧"
  },
  {
   "id": "MSG/MSG6200/99850",
@@ -122874,7 +122874,7 @@
   "offset": "3DA6E",
   "jp": "男なら、かくすのはベッドの下と\n相場が決まっているが・・・",
   "en": "A man always hides his stuff under the bed,\nbut...",
-  "zh": ""
+  "zh": "如果是男人，藏东西的地方通常都\n铁定是床底下……"
  },
  {
   "id": "MSG/MSG6200/99851",
@@ -122883,7 +122883,7 @@
   "offset": "3DAAA",
   "jp": "女の子の場合は、どうなんだろう？",
   "en": "I wonder if the same can be said for women?",
-  "zh": ""
+  "zh": "女孩子的话，又会是怎样呢？"
  },
  {
   "id": "MSG/MSG6200/99852",
@@ -122892,7 +122892,7 @@
   "offset": "3DACC",
   "jp": "む？　この棚はなんだ？",
   "en": "Hey... what's this? A chest?",
-  "zh": ""
+  "zh": "嗯？这个架子是什么？"
  },
  {
   "id": "MSG/MSG6200/99853",
@@ -122901,7 +122901,7 @@
   "offset": "3DAE4",
   "jp": "開けてみようぜ、ライガさん",
   "en": "Open it up, Raigar.",
-  "zh": ""
+  "zh": "打开看看吧，莱加先生"
  },
  {
   "id": "MSG/MSG6200/99854",
@@ -122910,7 +122910,7 @@
   "offset": "3DB00",
   "jp": "・・・へぇ、なるほどアイツは意外と\nかわいいパンツをはいている・・・と・・・",
   "en": "...This is unexpected! She wears pretty cute\npanties, doesn't she?",
-  "zh": ""
+  "zh": "……嘿，原来那家伙意外地\n穿着挺可爱的内裤啊……记下了……"
  },
  {
   "id": "MSG/MSG6200/99855",
@@ -122919,7 +122919,7 @@
   "offset": "3DB4E",
   "jp": "たしかに",
   "en": "Indeed.",
-  "zh": ""
+  "zh": "确实如此"
  },
  {
   "id": "MSG/MSG6200/99856",
@@ -122928,7 +122928,7 @@
   "offset": "3DB58",
   "jp": "バカッ、“たしかに”じゃないでしょ\n早くしまいなさい！",
   "en": "Moron! Indeed nothing! Put those away!",
-  "zh": ""
+  "zh": "笨蛋！什么“确实如此”啊！\n还不赶紧收回去！"
  },
  {
   "id": "MSG/MSG6200/99857",
@@ -122937,7 +122937,7 @@
   "offset": "3DB90",
   "jp": "意外な発見はあったけど、ここにも\n目当てのものはなさそうだな",
   "en": "Okay, well, slightly surprising but\nnothing else of interest there.",
-  "zh": ""
+  "zh": "虽然有了意外的发现，不过这里\n似乎也没有我们要找的东西呢"
  },
  {
   "id": "MSG/MSG6200/99858",
@@ -122946,7 +122946,7 @@
   "offset": "3DBCE",
   "jp": "べつの場所を調べてみよう%J628800",
   "en": "Let's try somewhere else.%J628800",
-  "zh": ""
+  "zh": "去调查一下别的地方吧%J628800"
  },
  {
   "id": "MSG/MSG6200/998A4",
@@ -122955,7 +122955,7 @@
   "offset": "3DBF8",
   "jp": "よぅ、久しぶりだな、坊主",
   "en": "Hey, kid, how have you been?",
-  "zh": ""
+  "zh": "哟，好久不见啊，小子"
  },
  {
   "id": "MSG/MSG6200/998A5",
@@ -122964,7 +122964,7 @@
   "offset": "3DC12",
   "jp": "お、兄ちゃんやんか\n元気しとったか？",
   "en": "Not bad, you know! How about you?",
-  "zh": ""
+  "zh": "哦，是大哥啊\n最近过得还好吗？"
  },
  {
   "id": "MSG/MSG6200/998A6",
@@ -122973,7 +122973,7 @@
   "offset": "3DC38",
   "jp": "おう、元気元気",
   "en": "Yeah, pretty good, pretty good.",
-  "zh": ""
+  "zh": "嗯，挺好的挺好的"
  },
  {
   "id": "MSG/MSG6200/998A7",
@@ -122982,7 +122982,7 @@
   "offset": "3DC48",
   "jp": "今日は、どないしたん？\nなんか、わいに用か？",
   "en": "So what's up today? You want something?",
-  "zh": ""
+  "zh": "今天这是怎么了？\n找俺有啥事吗？"
  },
  {
   "id": "MSG/MSG6200/998A8",
@@ -122991,7 +122991,7 @@
   "offset": "3DC76",
   "jp": "おう",
   "en": "Yeah, actually.",
-  "zh": ""
+  "zh": "嗯"
  },
  {
   "id": "MSG/MSG6200/998A9",
@@ -123000,7 +123000,7 @@
   "offset": "3DC7C",
   "jp": "火山道の入り口辺りの道を、ガラクタが\nふさいでるんだけどｱ",
   "en": "The entrance to the Volcanic Path is blocked\nby junk.",
-  "zh": ""
+  "zh": "火山道入口附近的道路，被一堆废品\n给堵住了啊"
  },
  {
   "id": "MSG/MSG6200/998AA",
@@ -123009,7 +123009,7 @@
   "offset": "3DCB8",
   "jp": "それを、どかしてくんねぇかと思ってさ",
   "en": "We were hoping you could move it for us.",
-  "zh": ""
+  "zh": "想着能不能麻烦你帮我们清理一下"
  },
  {
   "id": "MSG/MSG6200/998AB",
@@ -123018,7 +123018,7 @@
   "offset": "3DCDE",
   "jp": "何や、そんなことなら、お安い御用や",
   "en": "Is that all? No problem, no problem at all!",
-  "zh": ""
+  "zh": "嗨呀，要是这事的话，那可太容易了"
  },
  {
   "id": "MSG/MSG6200/998AC",
@@ -123027,7 +123027,7 @@
   "offset": "3DD02",
   "jp": "ジャンクが手に入るんなら\nこっちも願ったりかなったりやし",
   "en": "If it means getting my hands on some junk,\nI'll be happy to help out!",
-  "zh": ""
+  "zh": "要是能弄到废品的话\n对俺来说也是求之不得呢"
  },
  {
   "id": "MSG/MSG6200/998AD",
@@ -123036,7 +123036,7 @@
   "offset": "3DD3C",
   "jp": "な、サンディ？",
   "en": "Right, Sandy?",
-  "zh": ""
+  "zh": "是吧，桑迪？"
  },
  {
   "id": "MSG/MSG6200/998AE",
@@ -123045,7 +123045,7 @@
   "offset": "3DD4C",
   "jp": "ワンワン！",
   "en": "Woof woof!",
-  "zh": ""
+  "zh": "汪汪！"
  },
  {
   "id": "MSG/MSG6200/998AF",
@@ -123054,7 +123054,7 @@
   "offset": "3DD58",
   "jp": "よっしゃ、ほなさっそく、行ってくるわ",
   "en": "Okay, I'll get right on this!",
-  "zh": ""
+  "zh": "好嘞，那俺这就赶过去"
  },
  {
   "id": "MSG/MSG6200/998B0",
@@ -123063,7 +123063,7 @@
   "offset": "3DD7E",
   "jp": "兄ちゃんらが来るころには、かたしとく\nさかいな！",
   "en": "I'll have it all cleared away by the time\nyou get there, you'll see!",
-  "zh": ""
+  "zh": "等大哥你们到的时候，俺肯定已经收拾好\n了啦！"
  },
  {
   "id": "MSG/MSG6200/998B1",
@@ -123072,7 +123072,7 @@
   "offset": "3DDB0",
   "jp": "うわ・・・すごい勢いで走っていったわね",
   "en": "Woah... that boy can move!",
-  "zh": ""
+  "zh": "哇……一溜烟就跑没影了呢"
  },
  {
   "id": "MSG/MSG6200/998B2",
@@ -123081,7 +123081,7 @@
   "offset": "3DDD8",
   "jp": "私たちが来る頃には\n片付けておくって言っていたけれどｱ",
   "en": "He'll have it all cleared up by the time we\nget there...?",
-  "zh": ""
+  "zh": "虽然他说等我们到的时候\n就会收拾好……"
  },
  {
   "id": "MSG/MSG6200/998B3",
@@ -123090,7 +123090,7 @@
   "offset": "3DE10",
   "jp": "そんなにすぐ片付くものなのかしら",
   "en": "You think he can do that?",
-  "zh": ""
+  "zh": "真的能那么快收拾完吗？"
  },
  {
   "id": "MSG/MSG6200/998B4",
@@ -123099,7 +123099,7 @@
   "offset": "3DE32",
   "jp": "さあな、とにかくオレたちも行ってみようぜ",
   "en": "I don't know... well, we can only go and\nfind out.",
-  "zh": ""
+  "zh": "谁知道呢，总之我们也赶快过去看看吧"
  },
  {
   "id": "MSG/MSG6200/998D6",
@@ -123108,7 +123108,7 @@
   "offset": "3DE5C",
   "jp": "よ、坊主",
   "en": "Hey, kid.",
-  "zh": ""
+  "zh": "哟，小子"
  },
  {
   "id": "MSG/MSG6200/998D7",
@@ -123117,7 +123117,7 @@
   "offset": "3DE66",
   "jp": "お？　良かった\n兄ちゃん、無事やったんやな",
   "en": "Ah? Oh, good! You're safe!",
-  "zh": ""
+  "zh": "哦？太好了\n大哥你平安无事啊"
  },
  {
   "id": "MSG/MSG6200/998D8",
@@ -123126,7 +123126,7 @@
   "offset": "3DE92",
   "jp": "ああ",
   "en": "Yeah.",
-  "zh": ""
+  "zh": "嗯"
  },
  {
   "id": "MSG/MSG6200/998D9",
@@ -123135,7 +123135,7 @@
   "offset": "3DE98",
   "jp": "ほら、ユウキ",
   "en": "Yuki, come on.",
-  "zh": ""
+  "zh": "来，勇树"
  },
  {
   "id": "MSG/MSG6200/998DA",
@@ -123144,7 +123144,7 @@
   "offset": "3DEA6",
   "jp": "う・・・　うん・・・",
   "en": "Y... yeah, okay...",
-  "zh": ""
+  "zh": "嗯……嗯……"
  },
  {
   "id": "MSG/MSG6200/998DB",
@@ -123153,7 +123153,7 @@
   "offset": "3DEBC",
   "jp": "あのさ・・・　わ、悪かったな・・・",
   "en": "Look... I'm sorry.",
-  "zh": ""
+  "zh": "那个……对、对不起啊……"
  },
  {
   "id": "MSG/MSG6200/998DC",
@@ -123162,7 +123162,7 @@
   "offset": "3DEE0",
   "jp": "これ、アンタに返すわ",
   "en": "Here, you can have this back.",
-  "zh": ""
+  "zh": "这个，还给你吧"
  },
  {
   "id": "MSG/MSG6200/998DD",
@@ -123171,7 +123171,7 @@
   "offset": "3DEF6",
   "jp": "いらへん",
   "en": "I don't want it.",
-  "zh": ""
+  "zh": "俺不要"
  },
  {
   "id": "MSG/MSG6200/998DE",
@@ -123180,7 +123180,7 @@
   "offset": "3DF00",
   "jp": "え？",
   "en": "What?",
-  "zh": ""
+  "zh": "哎？"
  },
  {
   "id": "MSG/MSG6200/998DF",
@@ -123189,7 +123189,7 @@
   "offset": "3DF06",
   "jp": "それ、ユウキ姉ちゃんの兄やんの\n形見みたいなもんなんやろ",
   "en": "It belongs to you and your brother, right?",
-  "zh": ""
+  "zh": "那个，算是勇树大姐你哥哥的\n遗物一样的东西吧"
  },
  {
   "id": "MSG/MSG6200/998E0",
@@ -123198,7 +123198,7 @@
   "offset": "3DF40",
   "jp": "わい、霊感強い方やから\nそんなもん、持っとられへんわ%J628981",
   "en": "I don't want to be haunted by his ghost or\nanything. You keep it.%J628981",
-  "zh": ""
+  "zh": "俺的通灵体质还挺强的\n这种东西，俺可不敢收着%J628981"
  },
  {
   "id": "MSG/MSG6200/998F5",
@@ -123207,7 +123207,7 @@
   "offset": "3DF86",
   "jp": "え、でも・・・！",
   "en": "But...!",
-  "zh": ""
+  "zh": "哎，可是……！"
  },
  {
   "id": "MSG/MSG6200/998F6",
@@ -123216,7 +123216,7 @@
   "offset": "3DF98",
   "jp": "いらんいらん、そんなんいらへん",
   "en": "I don't want it! Don't need it!",
-  "zh": ""
+  "zh": "不用不用，那种东西俺才不要呢"
  },
  {
   "id": "MSG/MSG6200/998F7",
@@ -123225,7 +123225,7 @@
   "offset": "3DFB8",
   "jp": "ほなな",
   "en": "Take it.",
-  "zh": ""
+  "zh": "再见啦"
  },
  {
   "id": "MSG/MSG6200/998F8",
@@ -123234,7 +123234,7 @@
   "offset": "3DFC0",
   "jp": "行くで、サンディ！",
   "en": "Come on, Sandy!",
-  "zh": ""
+  "zh": "我们走，桑迪！"
  },
  {
   "id": "MSG/MSG6200/998F9",
@@ -123243,7 +123243,7 @@
   "offset": "3DFD4",
   "jp": "ワンワン！",
   "en": "Woof woof!",
-  "zh": ""
+  "zh": "汪汪！"
  },
  {
   "id": "MSG/MSG6200/998FA",
@@ -123252,7 +123252,7 @@
   "offset": "3DFE0",
   "jp": "あ・・・行っちゃった・・・",
   "en": "...He's gone.",
-  "zh": ""
+  "zh": "啊……走掉了……"
  },
  {
   "id": "MSG/MSG6200/998FB",
@@ -123261,7 +123261,7 @@
   "offset": "3DFFC",
   "jp": "どうしよう、アツマ？",
   "en": "What should I do now, Atsuma?",
-  "zh": ""
+  "zh": "怎么办，阿茨玛？"
  },
  {
   "id": "MSG/MSG6200/998FC",
@@ -123270,7 +123270,7 @@
   "offset": "3E012",
   "jp": "もらっとけば、いいんじゃないか？",
   "en": "Keep it. Why not?",
-  "zh": ""
+  "zh": "收下不就好了吗？"
  },
  {
   "id": "MSG/MSG6200/998FD",
@@ -123279,7 +123279,7 @@
   "offset": "3E034",
   "jp": "け、けど・・・",
   "en": "But...!",
-  "zh": ""
+  "zh": "可、可是……"
  },
  {
   "id": "MSG/MSG6200/998FE",
@@ -123288,7 +123288,7 @@
   "offset": "3E044",
   "jp": "人の好意は、無下にせぬことだな",
   "en": "It's what he said he wants.",
-  "zh": ""
+  "zh": "莫要辜负了人家的一番好意"
  },
  {
   "id": "MSG/MSG6200/998FF",
@@ -123297,7 +123297,7 @@
   "offset": "3E064",
   "jp": "そうよ\nまったく、あの子の方がよっぽど大人よね",
   "en": "That's right. Which makes him far more\nmature than you!",
-  "zh": ""
+  "zh": "就是说啊\n真是的，那孩子可比你要成熟多了"
  },
  {
   "id": "MSG/MSG6200/99900",
@@ -123306,7 +123306,7 @@
   "offset": "3E094",
   "jp": "うるさいなぁ・・・わかったわよ",
   "en": "Yeah, yeah, whatever... well, okay then.",
-  "zh": ""
+  "zh": "吵死啦……知道了啦"
  },
  {
   "id": "MSG/MSG6200/99901",
@@ -123315,7 +123315,7 @@
   "offset": "3E0B4",
   "jp": "もらえばいいんでしょ、もらえば！",
   "en": "If it'll keep everyone happy, I'll keep it.",
-  "zh": ""
+  "zh": "我收下就是了吧，收下！"
  },
  {
   "id": "MSG/MSG6200/99902",
@@ -123324,7 +123324,7 @@
   "offset": "3E0D6",
   "jp": "ハハハハハ",
   "en": "Hah ha ha ha.",
-  "zh": ""
+  "zh": "哈哈哈哈哈"
  },
  {
   "id": "MSG/MSG6200/99903",
@@ -123333,7 +123333,7 @@
   "offset": "3E0E2",
   "jp": "さぁて、んじゃ！\n一件落着ってことで、キョウトシティに行くか",
   "en": "Right, that settles that!\nNow on to Kyoto City!",
-  "zh": ""
+  "zh": "好啦，那么！\n既然事情告一段落，就动身去京都城吧"
  },
  {
   "id": "MSG/MSG6200/99904",
@@ -123342,7 +123342,7 @@
   "offset": "3E120",
   "jp": "そうだな",
   "en": "Indeed.",
-  "zh": ""
+  "zh": "说得也是"
  },
  {
   "id": "MSG/MSG6200/99905",
@@ -123351,7 +123351,7 @@
   "offset": "3E12A",
   "jp": "あ・・・アタシ、ちょっと寄るところがあるから\n先に行ってて",
   "en": "Ah... I need to make a quick stop.\nI won't be long.",
-  "zh": ""
+  "zh": "啊……人家还有点地方顺道要去一下\n你们先走吧"
  },
  {
   "id": "MSG/MSG6200/99906",
@@ -123360,7 +123360,7 @@
   "offset": "3E166",
   "jp": "・・・わかった、待ってるぞ",
   "en": "...We'll wait for you here.",
-  "zh": ""
+  "zh": "……明白了，我们在这儿等你"
  },
  {
   "id": "MSG/MSG6200/99907",
@@ -123369,7 +123369,7 @@
   "offset": "3E182",
   "jp": "うん、じゃすぐ、戻るから",
   "en": "Okay. I'll be right back.",
-  "zh": ""
+  "zh": "嗯，那我马上就回来"
  },
  {
   "id": "MSG/MSG6200/99908",
@@ -123378,7 +123378,7 @@
   "offset": "3E19C",
   "jp": "・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……"
  },
  {
   "id": "MSG/MSG6200/9996C",
@@ -123387,7 +123387,7 @@
   "offset": "3E1AA",
   "jp": "カギを探す・・・か%J623777",
   "en": "We could... search for the key?%J623777",
-  "zh": ""
+  "zh": "找钥匙……吗%J623777"
  },
  {
   "id": "MSG/MSG6200/999D0",
@@ -123396,7 +123396,7 @@
   "offset": "3E1CE",
   "jp": "よ！　さっきは、ジャンクをどかしてくれて\nありがとな",
   "en": "Hey! Thanks for moving that junk for us!",
-  "zh": ""
+  "zh": "哟！刚才多亏你们把那些废品移开\n真是谢啦"
  },
  {
   "id": "MSG/MSG6200/999D1",
@@ -123405,7 +123405,7 @@
   "offset": "3E204",
   "jp": "ええってええって、さっきのジャンク\nけっこうええ値がついたからな",
   "en": "No problem! No problem at all! I got a \npretty good price for it, actually.",
-  "zh": ""
+  "zh": "哪里哪里，刚才那些废品\n可是卖了个相当不错的价钱呢"
  },
  {
   "id": "MSG/MSG6200/999D2",
@@ -123414,7 +123414,7 @@
   "offset": "3E246",
   "jp": "おかげさんで、こっちもホクホクや",
   "en": "I've finally got some cash.",
-  "zh": ""
+  "zh": "托你们的福，俺也是赚得盆满钵满啦"
  },
  {
   "id": "MSG/MSG6200/999D3",
@@ -123423,7 +123423,7 @@
   "offset": "3E268",
   "jp": "今夜はごちそうやで\nなぁ、サンディ？",
   "en": "Which means we'll be eating well tonight,\nright Sandy?",
-  "zh": ""
+  "zh": "今晚可要吃顿大餐咯\n对吧，桑迪？"
  },
  {
   "id": "MSG/MSG6200/999D4",
@@ -123432,7 +123432,7 @@
   "offset": "3E28E",
   "jp": "ワウワウワウッ！",
   "en": "Woof woof!",
-  "zh": ""
+  "zh": "汪汪汪！"
  },
  {
   "id": "MSG/MSG6200/999EE",
@@ -123441,7 +123441,7 @@
   "offset": "3E2A0",
   "jp": "やあ、アンタ、取り引きをしないかい？",
   "en": "How about a trade?",
-  "zh": ""
+  "zh": "嗨，这位朋友，要不要来做笔交易？"
  },
  {
   "id": "MSG/MSG6200/999EF",
@@ -123450,7 +123450,7 @@
   "offset": "3E2C6",
   "jp": "取り引き？",
   "en": "A trade?",
-  "zh": ""
+  "zh": "交易？"
  },
  {
   "id": "MSG/MSG6200/999F0",
@@ -123459,7 +123459,7 @@
   "offset": "3E2D2",
   "jp": "そうさ、アンタの“迅の星硝”２００個と\nアタシの“ＶＰ消費カット”を交換しないかい？",
   "en": "Yeah. I'll give you this \"VP Cost Cut\" for\n200 Speed Stones.",
-  "zh": ""
+  "zh": "没错，用你的200个“迅之星硝”\n来换我的“VP消耗缩减”，如何？"
  },
  {
   "id": "MSG/MSG6200/999F1",
@@ -123468,7 +123468,7 @@
   "offset": "3E328",
   "jp": "悪い取り引きじゃないだろ？\nどうだい？",
   "en": "A pretty good deal, I think. How about it?",
-  "zh": ""
+  "zh": "这买卖不亏吧？\n怎么样啊？"
  },
  {
   "id": "MSG/MSG6200/999F2",
@@ -123477,7 +123477,7 @@
   "offset": "3E350",
   "jp": "えーと・・・",
   "en": "Well...",
-  "zh": ""
+  "zh": "呃……"
  },
  {
   "id": "MSG/MSG6200/999F3",
@@ -123486,7 +123486,7 @@
   "offset": "3E35E",
   "jp": "のった！%M629240",
   "en": "All right!%M629240",
-  "zh": ""
+  "zh": "成交！%M629240"
  },
  {
   "id": "MSG/MSG6200/999F4",
@@ -123495,7 +123495,7 @@
   "offset": "3E378",
   "jp": "やだね%M629260",
   "en": "No thanks.%M629260",
-  "zh": ""
+  "zh": "我拒绝%M629260"
  },
  {
   "id": "MSG/MSG6200/999F8",
@@ -123504,7 +123504,7 @@
   "offset": "3E390",
   "jp": "よし、のった！%S489020",
   "en": "All right, sounds good!%S489020",
-  "zh": ""
+  "zh": "好，成交！%S489020"
  },
  {
   "id": "MSG/MSG6200/999F9",
@@ -123513,7 +123513,7 @@
   "offset": "3E3B0",
   "jp": "交換しようぜ！",
   "en": "Let's trade!",
-  "zh": ""
+  "zh": "来交换吧！"
  },
  {
   "id": "MSG/MSG6200/999FA",
@@ -123522,7 +123522,7 @@
   "offset": "3E3C0",
   "jp": "おっ、いいねぇ、兄さん",
   "en": "You've got a good eye, for sure.",
-  "zh": ""
+  "zh": "哦，挺识货的嘛，小哥"
  },
  {
   "id": "MSG/MSG6200/999FB",
@@ -123531,7 +123531,7 @@
   "offset": "3E3D8",
   "jp": "じゃあ、交換だ%F",
   "en": "Here you go!%F",
-  "zh": ""
+  "zh": "那就交换吧%F"
  },
  {
   "id": "MSG/MSG6200/999FD",
@@ -123540,7 +123540,7 @@
   "offset": "3E3EC",
   "jp": "よし、これで取り引き成立だな",
   "en": "The trade's complete.",
-  "zh": ""
+  "zh": "好，这样交易就算达成了"
  },
  {
   "id": "MSG/MSG6200/999FE",
@@ -123549,7 +123549,7 @@
   "offset": "3E40A",
   "jp": "ああ、お互い、いい取り引きだったね",
   "en": "It benefited us both, didn't it.",
-  "zh": ""
+  "zh": "啊，对我们双方来说都是桩好交易呢"
  },
  {
   "id": "MSG/MSG6200/999FF",
@@ -123558,7 +123558,7 @@
   "offset": "3E42E",
   "jp": "“迅の星硝”が急に入用になってね",
   "en": "I really needed some Speed Stones quickly.",
-  "zh": ""
+  "zh": "我正好急需“迅之星硝”呢"
  },
  {
   "id": "MSG/MSG6200/99A00",
@@ -123567,7 +123567,7 @@
   "offset": "3E450",
   "jp": "いつもなら、２００個といわず\nもっと吹っかけるんだけどｱ",
   "en": "I normally try for far more than 200.",
-  "zh": ""
+  "zh": "要是平时，可不止２００个\n我肯定会狠狠大敲一笔的呢"
  },
  {
   "id": "MSG/MSG6200/99A01",
@@ -123576,7 +123576,7 @@
   "offset": "3E48A",
   "jp": "アンタ、運がいいよ",
   "en": "You got pretty lucky, I think.",
-  "zh": ""
+  "zh": "你运气真好啊"
  },
  {
   "id": "MSG/MSG6200/99A02",
@@ -123585,7 +123585,7 @@
   "offset": "3E49E",
   "jp": "えへへ、そうか？",
   "en": "Heh heh, really?",
-  "zh": ""
+  "zh": "嘿嘿，是吗？"
  },
  {
   "id": "MSG/MSG6200/99A03",
@@ -123594,7 +123594,7 @@
   "offset": "3E4B0",
   "jp": "うまく品物をまわしてお互いガッポリ",
   "en": "Both sides coming away happy from a trade.",
-  "zh": ""
+  "zh": "盘活货物，让彼此都赚得盆满钵满"
  },
  {
   "id": "MSG/MSG6200/99A04",
@@ -123603,7 +123603,7 @@
   "offset": "3E4D4",
   "jp": "それがジャンクシティ流さ%F",
   "en": "That's how things should work in Junk City.%F",
-  "zh": ""
+  "zh": "这就是废品城的作风啊%F"
  },
  {
   "id": "MSG/MSG6200/99A07",
@@ -123612,7 +123612,7 @@
   "offset": "3E4F2",
   "jp": "・・・って、おやおや",
   "en": "...Hey, hold on.",
-  "zh": ""
+  "zh": "……等等，哎呀呀"
  },
  {
   "id": "MSG/MSG6200/99A08",
@@ -123621,7 +123621,7 @@
   "offset": "3E508",
   "jp": "アンタ“迅の星硝”を２００個持ってない\nじゃないか",
   "en": "You don't have 200 Speed Stones, do you?",
-  "zh": ""
+  "zh": "你身上根本没有２００个“迅之星硝”\n不是吗"
  },
  {
   "id": "MSG/MSG6200/99A09",
@@ -123630,7 +123630,7 @@
   "offset": "3E53C",
   "jp": "それじゃ、取り引きは不成立だ\n“迅の星硝”が集まったら、また、来とくれ%F",
   "en": "We can't trade like this, then. Gather more\nSpeed Stones and come back, if you like.%F",
-  "zh": ""
+  "zh": "这样的话交易可不成立哦\n等凑齐“迅之星硝”之后，再来吧%F"
  },
  {
   "id": "MSG/MSG6200/99A0C",
@@ -123639,7 +123639,7 @@
   "offset": "3E588",
   "jp": "やだね、物々交換なんて",
   "en": "No thanks. I'm not into trading stuff.",
-  "zh": ""
+  "zh": "算了吧，我才不要以物易物呢"
  },
  {
   "id": "MSG/MSG6200/99A0D",
@@ -123648,7 +123648,7 @@
   "offset": "3E5A0",
   "jp": "やっぱり品物はお金出して買わないとな",
   "en": "I like to pay for things. Speed Stones are\nhard to come by, too.",
-  "zh": ""
+  "zh": "买东西果然还是得花钱买啊"
  },
  {
   "id": "MSG/MSG6200/99A0E",
@@ -123657,7 +123657,7 @@
   "offset": "3E5C6",
   "jp": "アラアラ、そうかい\nま、他のシティの人間ならしょうがないか",
   "en": "Ah well. Can't expect much more from folk\nfrom other Cities, I guess.",
-  "zh": ""
+  "zh": "哎呀呀，这样啊\n算了，毕竟是其他都市来的人，也没办法呢"
  },
  {
   "id": "MSG/MSG6200/99A0F",
@@ -123666,7 +123666,7 @@
   "offset": "3E602",
   "jp": "分かったよ、気が変わったら、また来とくれ%F",
   "en": "If you have a change of heart come back and\nsee if I've still got it, okay?%F",
-  "zh": ""
+  "zh": "我知道了，要是改变主意了，就再来吧%F"
  },
  {
   "id": "MSG/MSG6200/99A16",
@@ -123675,7 +123675,7 @@
   "offset": "3E630",
   "jp": "利害が一致した瞬間の快感！",
   "en": "The thrill of giving what you don't want\nand receiving what you do!",
-  "zh": ""
+  "zh": "利益达成一致那一瞬间的快感！"
  },
  {
   "id": "MSG/MSG6200/99A17",
@@ -123684,7 +123684,7 @@
   "offset": "3E64C",
   "jp": "それこそが、物々交換のダイゴミさ",
   "en": "That is why I love trading!",
-  "zh": ""
+  "zh": "那正是以物易物的精髓所在啊"
  },
  {
   "id": "MSG/MSG6200/99A18",
@@ -123693,7 +123693,7 @@
   "offset": "3E66E",
   "jp": "さてさて、次の取り引きをセッティング\nしなきゃだね",
   "en": "I'd better find more stuff that I can trade,\nthen, and quickly!",
-  "zh": ""
+  "zh": "好啦好啦，必须得去张罗\n下一桩交易了呢"
  },
  {
   "id": "MSG/MSG6200/99A34",
@@ -123702,7 +123702,7 @@
   "offset": "3E6A2",
   "jp": "ひさびさに、うまいもん食ったわ",
   "en": "It's been a while since I ate that well.",
-  "zh": ""
+  "zh": "好久没吃到这么好吃的食物了"
  },
  {
   "id": "MSG/MSG6200/99A35",
@@ -123711,7 +123711,7 @@
   "offset": "3E6C2",
   "jp": "おおきにな～",
   "en": "Thanks a lot!",
-  "zh": ""
+  "zh": "多谢啦～"
  },
  {
   "id": "MSG/MSG6200/99A43",
@@ -123720,7 +123720,7 @@
   "offset": "3E6D0",
   "jp": "ワンワン！",
   "en": "Woof woof!",
-  "zh": ""
+  "zh": "汪汪！"
  },
  {
   "id": "MSG/MSG6200/99A52",
@@ -123729,7 +123729,7 @@
   "offset": "3E6DC",
   "jp": "・・・・・・ゴメン、アツマ",
   "en": "...I'm sorry, Atsuma.",
-  "zh": ""
+  "zh": "……对不起，阿茨玛"
  },
  {
   "id": "MSG/MSG6200/99A53",
@@ -123738,7 +123738,7 @@
   "offset": "3E6F8",
   "jp": "先・・・行っててくれる？",
   "en": "Could you... go on ahead?",
-  "zh": ""
+  "zh": "能……先走一步吗？"
  },
  {
   "id": "MSG/MSG6200/99A66",
@@ -123747,7 +123747,7 @@
   "offset": "3E712",
   "jp": "扉は開かない",
   "en": "The door won't open.",
-  "zh": ""
+  "zh": "门打不开"
  },
  {
   "id": "MSG/MSG6200/99A67",
@@ -123756,7 +123756,7 @@
   "offset": "3E720",
   "jp": "エンチャントされたカギが、かかっているようだ",
   "en": "It's locked with an Enchant lock.",
-  "zh": ""
+  "zh": "似乎挂着一把被赋法的锁"
  },
  {
   "id": "MSG/MSG6200/99A6B",
@@ -123765,7 +123765,7 @@
   "offset": "3E74E",
   "jp": "ん？　なんだお前は？",
   "en": "Huh? What do you want?",
-  "zh": ""
+  "zh": "嗯？你这家伙是谁？"
  },
  {
   "id": "MSG/MSG6200/99A6C",
@@ -123774,7 +123774,7 @@
   "offset": "3E764",
   "jp": "ここは、フバイル様のお屋敷だ\n貴様のようなガキが入っていい場所じゃあないぞ",
   "en": "This is the mansion of Fubial. No place\nfor the likes of you.",
-  "zh": ""
+  "zh": "这里可是富巴尔大人的宅邸\n可不是你这种小鬼能进的地方"
  },
  {
   "id": "MSG/MSG6200/99A70",
@@ -123783,7 +123783,7 @@
   "offset": "3E7B0",
   "jp": "このままキョウトシティに行くわけには\nいかねぇよな",
   "en": "We can't head to Kyoto City yet.",
-  "zh": ""
+  "zh": "总不能就这么去京都城\n吧"
  },
  {
   "id": "MSG/MSG6200/99A75",
@@ -123792,7 +123792,7 @@
   "offset": "3E7E4",
   "jp": "なんだい？\nまだ、なにか聞きたいことがあるのかい？",
   "en": "What now? You've still got some questions,\nhave you?",
-  "zh": ""
+  "zh": "怎么？\n你还有什么想问的吗？"
  },
  {
   "id": "MSG/MSG6200/99A76",
@@ -123801,7 +123801,7 @@
   "offset": "3E818",
   "jp": "いや、べつに",
   "en": "No, not really.",
-  "zh": ""
+  "zh": "没，没什么"
  },
  {
   "id": "MSG/MSG6200/99A77",
@@ -123810,7 +123810,7 @@
   "offset": "3E826",
   "jp": "フン、じゃあ早く犯人を探すんだね",
   "en": "Then go out there and find the criminal.",
-  "zh": ""
+  "zh": "哼，那就赶紧去找犯人吧"
  },
  {
   "id": "MSG/MSG6200/99A78",
@@ -123819,7 +123819,7 @@
   "offset": "3E848",
   "jp": "期待しないで待ってるからね、ククク",
   "en": "I'll be waiting... for you to accept the\ntruth, ha ha ha.",
-  "zh": ""
+  "zh": "我可不会抱什么期待等着你的，呵呵呵"
  },
  {
   "id": "MSG/MSG6200/99A7A",
@@ -123828,7 +123828,7 @@
   "offset": "3E86C",
   "jp": "これ以上やれないよ",
   "en": "That's all.",
-  "zh": ""
+  "zh": "再做不下去了"
  },
  {
   "id": "MSG/MSG6200/99A7F",
@@ -123837,7 +123837,7 @@
   "offset": "3E880",
   "jp": "いまは、ここでやることはないよな",
   "en": "There's nothing to do here now.",
-  "zh": ""
+  "zh": "现在在这里没什么可做的了吧"
  },
  {
   "id": "MSG/MSG6200/99A84",
@@ -123846,7 +123846,7 @@
   "offset": "3E8A2",
   "jp": "うーん、やっぱりゴーレム笛はええなぁ",
   "en": "This Golem Flute is one fantastic piece.",
-  "zh": ""
+  "zh": "嗯——果然魔像笛就是好啊"
  },
  {
   "id": "MSG/MSG6200/99A85",
@@ -123855,7 +123855,7 @@
   "offset": "3E8C8",
   "jp": "おおきにな、兄ちゃん",
   "en": "Thanks a lot, friend.",
-  "zh": ""
+  "zh": "多谢啦，小哥"
  },
  {
   "id": "MSG/MSG6200/99A89",
@@ -123864,7 +123864,7 @@
   "offset": "3E8DE",
   "jp": "扉はかたく閉ざされている",
   "en": "The door is closed tight.",
-  "zh": ""
+  "zh": "门被紧紧地关着"
  },
  {
   "id": "MSG/MSG6200/99A8E",
@@ -123873,7 +123873,7 @@
   "offset": "3E8F8",
   "jp": "なんの用だ？",
   "en": "What do you want?",
-  "zh": ""
+  "zh": "有什么事吗？"
  },
  {
   "id": "MSG/MSG6200/99A90",
@@ -123882,7 +123882,7 @@
   "offset": "3E906",
   "jp": "なんだ、お前\nお前もどっかから流れてきたのか？",
   "en": "Hey there! Where did you drift in from?",
-  "zh": ""
+  "zh": "什么啊，你这家伙\n你也是从哪里流落过来的吗？"
  },
  {
   "id": "MSG/MSG6200/99A91",
@@ -123891,7 +123891,7 @@
   "offset": "3E936",
   "jp": "とりあえず歓迎してやるぜ\nジャンクシティへようこそ",
   "en": "Anyway, welcome. Welcome to Junk City!",
-  "zh": ""
+  "zh": "总之先欢迎你一下吧\n欢迎来到废品城"
  },
  {
   "id": "MSG/MSG6200/99A93",
@@ -123900,7 +123900,7 @@
   "offset": "3E96A",
   "jp": "なに、グズグズしとるんや",
   "en": "What are you doing?!",
-  "zh": ""
+  "zh": "你在磨蹭个什么劲啊"
  },
  {
   "id": "MSG/MSG6200/99A94",
@@ -123909,7 +123909,7 @@
   "offset": "3E984",
   "jp": "はよ、ユウキの姉ちゃんを追わなあかんやろ！",
   "en": "You've got to get after Yuki, now!",
-  "zh": ""
+  "zh": "还不快去追勇树大姐头！"
  },
  {
   "id": "MSG/MSG6200/99A95",
@@ -123918,7 +123918,7 @@
   "offset": "3E9B0",
   "jp": "バウワウッ！！！",
   "en": "Woof woof!",
-  "zh": ""
+  "zh": "汪汪！！！"
  },
  {
   "id": "MSG/MSG6200/99A96",
@@ -123927,7 +123927,7 @@
   "offset": "3E9C2",
   "jp": "ほら、サンディもそういうとる！",
   "en": "Sandy thinks so too!",
-  "zh": ""
+  "zh": "你看，桑迪也是这么说的！"
  },
  {
   "id": "MSG/MSG6200/99A98",
@@ -123936,7 +123936,7 @@
   "offset": "3E9E2",
   "jp": "ほな、またな！",
   "en": "See you again!",
-  "zh": ""
+  "zh": "那回头见啦！"
  },
  {
   "id": "MSG/MSG6200/99A9D",
@@ -123945,7 +123945,7 @@
   "offset": "3E9F2",
   "jp": "よう！\nあいかわらず、掘ってんのか？",
   "en": "Hey there! You still busy digging junk\nup?",
-  "zh": ""
+  "zh": "哟！\n你还是老样子，在挖废品吗？"
  },
  {
   "id": "MSG/MSG6200/99A9E",
@@ -123954,7 +123954,7 @@
   "offset": "3EA18",
   "jp": "あったりまえやろ！\nジャンク掘りはなぁ、男のロマンやで",
   "en": "Of course! What true man could resist the\ncall of the junk?",
-  "zh": ""
+  "zh": "那不是废话嘛！\n挖废品啊，可是男人的浪漫啊"
  },
  {
   "id": "MSG/MSG6200/99A9F",
@@ -123963,7 +123963,7 @@
   "offset": "3EA50",
   "jp": "男のマロン？",
   "en": "What true man indeed.",
-  "zh": ""
+  "zh": "男人的烂漫？"
  },
  {
   "id": "MSG/MSG6200/99AA0",
@@ -123972,7 +123972,7 @@
   "offset": "3EA5E",
   "jp": "そや！　やはり男たるもの\nマロンのようにならなあかん",
   "en": "All men desire riches! The call of the\nearth! The treasures that slumber there!",
-  "zh": ""
+  "zh": "对啊！身为纯爷们\n就得像个栗子一样才行"
  },
  {
   "id": "MSG/MSG6200/99AA1",
@@ -123981,7 +123981,7 @@
   "offset": "3EA94",
   "jp": "外側のイガのような激しさと、内面の実の甘さの\nような優しさをかねそなえてこそ真の男・・・",
   "en": "Working under the blazing, merciless sun,\nrelying entirely upon his own skills!",
-  "zh": ""
+  "zh": "兼备外壳毛刺般的凶悍，与内里果实甘甜般的\n温柔，才称得上是真正的男人……"
  },
  {
   "id": "MSG/MSG6200/99AA2",
@@ -123990,7 +123990,7 @@
   "offset": "3EAEE",
   "jp": "・・・って、ちゃうちゃう！\nマロンやなくて、ロマンや！",
   "en": "This is where a real man shines through!\nWhere a real man can prove himself!",
-  "zh": ""
+  "zh": "……不对不对不对！\n不是栗子，是浪漫啊！"
  },
  {
   "id": "MSG/MSG6200/99AA3",
@@ -123999,7 +123999,7 @@
   "offset": "3EB26",
   "jp": "なんで、#W栗#Rくり#rやねん！！",
   "en": "Maybe women too, but I wouldn't know about\nthat!",
-  "zh": ""
+  "zh": "为什么会扯到#W栗#Rくり#r子去啊！！"
  },
  {
   "id": "MSG/MSG6200/99AA4",
@@ -124008,7 +124008,7 @@
   "offset": "3EB4C",
   "jp": "・・・すげぇ\n本場のノリツッコミだ",
   "en": "...Wow. I guess we don't even have to be\nhere...?",
-  "zh": ""
+  "zh": "……好厉害\n地道的一捧一逗自导自演吐糟啊"
  },
  {
   "id": "MSG/MSG6200/99AAC",
@@ -124017,7 +124017,7 @@
   "offset": "3EB70",
   "jp": "うーん、やっぱりいいながめだなぁ",
   "en": "I sure do love this view.",
-  "zh": ""
+  "zh": "嗯——风景果然真好啊"
  },
  {
   "id": "MSG/MSG6200/99AAD",
@@ -124026,7 +124026,7 @@
   "offset": "3EB92",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……………"
  },
  {
   "id": "MSG/MSG6200/99AAE",
@@ -124035,7 +124035,7 @@
   "offset": "3EBA6",
   "jp": "・・・そして、少し悲しいながめだ",
   "en": "...But it's a little sad, too.",
-  "zh": ""
+  "zh": "……而且，也是一番略显凄凉的景象啊"
  },
  {
   "id": "MSG/MSG6200/99AB6",
@@ -124044,7 +124044,7 @@
   "offset": "3EBC8",
   "jp": "へー、ジャンクシティのものも\nけっこうおいしそうね",
   "en": "Junk City foods look pretty tasty too,\ndon't they?",
-  "zh": ""
+  "zh": "哎～废品城的东西\n看起来也挺好吃的嘛"
  },
  {
   "id": "MSG/MSG6200/99AB7",
@@ -124053,7 +124053,7 @@
   "offset": "3EBFC",
   "jp": "ん？　なにやってんだ、カリン？",
   "en": "Huh? What're you doing, Karin?",
-  "zh": ""
+  "zh": "嗯？你在干嘛呢，卡琳？"
  },
  {
   "id": "MSG/MSG6200/99AB8",
@@ -124062,7 +124062,7 @@
   "offset": "3EC1C",
   "jp": "いろいろ食べ物を売っているから\nそれを見てるの",
   "en": "Just looking at all the foods that are on\nsale here.",
-  "zh": ""
+  "zh": "这里卖着各种各样的食物\n我就看看而已啦"
  },
  {
   "id": "MSG/MSG6200/99AB9",
@@ -124071,7 +124071,7 @@
   "offset": "3EC4C",
   "jp": "今度は、ジャンクシティのものを使った\n料理をつくってみようかなぁ・・・",
   "en": "Maybe I'll try making something with Junk\nCity ingredients sometime?",
-  "zh": ""
+  "zh": "下次，要不要试着用废品城的食材\n做顿饭看看呢……"
  },
  {
   "id": "MSG/MSG6200/99ABA",
@@ -124080,7 +124080,7 @@
   "offset": "3EC94",
   "jp": "・・・・・・・・・・・・やめてくれ",
   "en": "...Please, no.",
-  "zh": ""
+  "zh": "………………饶了我吧"
  },
  {
   "id": "MSG/MSG6200/99AC0",
@@ -124089,7 +124089,7 @@
   "offset": "3ECB8",
   "jp": "・・・・・・・・・",
   "en": "...",
-  "zh": ""
+  "zh": "……………"
  },
  {
   "id": "MSG/MSG6200/99AC1",
@@ -124098,7 +124098,7 @@
   "offset": "3ECCC",
   "jp": "あれ？\nカリンといっしょじゃないんだ、ライガさん",
   "en": "Hold on... Why aren't you with Karin, Raigar?",
-  "zh": ""
+  "zh": "咦？\n莱加先生，你没和卡琳在一起啊"
  },
  {
   "id": "MSG/MSG6200/99AC2",
@@ -124107,7 +124107,7 @@
   "offset": "3ECFE",
   "jp": "買い物のじゃまだからついてくるなと\n申されてな・・・",
   "en": "She said I was in her way during her\nshopping...",
-  "zh": ""
+  "zh": "卡琳小姐说在下妨碍她买东西，\n叫在下别跟过去……"
  },
  {
   "id": "MSG/MSG6200/99AC3",
@@ -124116,7 +124116,7 @@
   "offset": "3ED34",
   "jp": "ここから、かげながらカリン様を\n見守っているのだ",
   "en": "So I'm watching over Lady Karin from back\nhere.",
-  "zh": ""
+  "zh": "在下便在此处，\n暗中守护着卡琳小姐"
  },
  {
   "id": "MSG/MSG6200/99AC4",
@@ -124125,7 +124125,7 @@
   "offset": "3ED66",
   "jp": "ライガさん・・・",
   "en": "Raigar...",
-  "zh": ""
+  "zh": "莱加先生……"
  },
  {
   "id": "MSG/MSG6200/99AC5",
@@ -124134,7 +124134,7 @@
   "offset": "3ED78",
   "jp": "ストーカーっぽいから、やめた方がいいよ",
   "en": "I think you'd better stop that.\nYou look like... a stalker.",
-  "zh": ""
+  "zh": "感觉跟跟踪狂似的，你还是算了吧"
  },
  {
   "id": "MSG/MSG6200/99ACA",
@@ -124143,7 +124143,7 @@
   "offset": "3EDA0",
   "jp": "誰かが南の岩山の扉を開けたらしいんで\n一山当てようと中に入ってみたんだが・・・",
   "en": "I hear someone opened that door in the south\nmountains. I took a look inside...",
-  "zh": ""
+  "zh": "听说有人把南边岩山的门给打开了，\n我本想捞上一笔便进去瞧了瞧……"
  },
  {
   "id": "MSG/MSG6200/99ACB",
@@ -124152,7 +124152,7 @@
   "offset": "3EDF0",
   "jp": "どうにも・・・危険なゴーレムがウヨウヨいてな\nなんとか命からがら逃げてきたよ",
   "en": "But... it was full of dangerous Golems. I'm\nlucky I got out alive!",
-  "zh": ""
+  "zh": "结果……里面到处都是危险的魔像，\n我可是好不容易才捡回一条命逃出来的啊"
  },
  {
   "id": "MSG/MSG6200/99AFC",
@@ -124161,7 +124161,7 @@
   "offset": "3EE3E",
   "jp": "いま挙がっている情報も、すべて状況証拠でしか\nないわけですし",
   "en": "All this evidence is merely circumstantial,\nfor now.",
-  "zh": ""
+  "zh": "毕竟目前掌握的情报，也全都不脱情况证据的\n范畴呢"
  },
  {
   "id": "MSG/MSG6200/99AFD",
@@ -124170,7 +124170,7 @@
   "offset": "3EE7C",
   "jp": "そうね・・・このさい、ハッキリさせた方がいいわ",
   "en": "You're right. We need to make 100% sure\nfirst, I agree.",
-  "zh": ""
+  "zh": "也是呢……趁这个机会，还是彻底弄清楚比较好"
  },
  {
   "id": "MSG/MSG6200/99AFE",
@@ -124179,7 +124179,7 @@
   "offset": "3EEAC",
   "jp": "アツマ、#CFF697DBEユウキの家#cに行くわよ",
   "en": "Atsuma, let's get to #CFF697DBEYuki's house#c.",
-  "zh": ""
+  "zh": "阿茨玛，去#CFF697DBE勇树家#c吧"
  },
  {
   "id": "MSG/MSG6200/99AFF",
@@ -124188,7 +124188,7 @@
   "offset": "3EEE2",
   "jp": "ああ、わかったよ",
   "en": "Okay, okay.",
-  "zh": ""
+  "zh": "嗯，我知道了"
  },
  {
   "id": "MSG/MSG6300/99CF0",
