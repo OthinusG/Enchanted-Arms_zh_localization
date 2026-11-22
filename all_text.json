@@ -256425,7 +256425,7 @@
   "offset": "484",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/101",
@@ -256434,7 +256434,7 @@
   "offset": "48E",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10001",
@@ -256443,7 +256443,7 @@
   "offset": "498",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10002",
@@ -256452,7 +256452,7 @@
   "offset": "4AC",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10003",
@@ -256461,7 +256461,7 @@
   "offset": "4CC",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10004",
@@ -256470,7 +256470,7 @@
   "offset": "500",
   "jp": "①:情報切り替え ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:Info ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:切换信息 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10005",
@@ -256479,7 +256479,7 @@
   "offset": "53C",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10006",
@@ -256488,7 +256488,7 @@
   "offset": "570",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ④:スキル装備へ移動",
   "en": "①:OK ②:Back ⑪⑫:Select member ④:Equip skill",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ④:前往技能装备"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10007",
@@ -256497,7 +256497,7 @@
   "offset": "5AE",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ④:スキル習得へ移動",
   "en": "①:OK ②:Back ⑪⑫:Select member ④:Acquire skill",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ④:前往技能习得"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10008",
@@ -256506,7 +256506,7 @@
   "offset": "5EC",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択",
   "en": "①:OK ②:Back ⑪⑫:Select member",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10009",
@@ -256515,7 +256515,7 @@
   "offset": "614",
   "jp": "②:戻る ⑪⑫:メンバー選択",
   "en": "②:Back ⑪⑫:Select member",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择成员"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10010",
@@ -256524,7 +256524,7 @@
   "offset": "632",
   "jp": "②:戻る ⑪⑫:メンバー選択",
   "en": "②:Back ⑪⑫:Select member",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择成员"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10011",
@@ -256533,7 +256533,7 @@
   "offset": "650",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10012",
@@ -256542,7 +256542,7 @@
   "offset": "684",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10013",
@@ -256551,7 +256551,7 @@
   "offset": "6B8",
   "jp": "②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10014",
@@ -256560,7 +256560,7 @@
   "offset": "6E2",
   "jp": "②:戻る ⑪⑫:メンバー選択",
   "en": "②:Back ⑪⑫:Select member",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择成员"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10015",
@@ -256569,7 +256569,7 @@
   "offset": "700",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10016",
@@ -256578,7 +256578,7 @@
   "offset": "720",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10017",
@@ -256587,7 +256587,7 @@
   "offset": "740",
   "jp": "①:情報切り替え ②:戻る ⑥:カメラ",
   "en": "①:Info ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:切换信息 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10018",
@@ -256596,7 +256596,7 @@
   "offset": "768",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10019",
@@ -256605,7 +256605,7 @@
   "offset": "788",
   "jp": "①:決定 ②:戻る ④:スキル装備へ移動",
   "en": "①:OK ②:Back ④:Equip skill",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:前往技能装备"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10020",
@@ -256614,7 +256614,7 @@
   "offset": "7B2",
   "jp": "①:決定 ②:戻る ④:スキル習得へ移動",
   "en": "①:OK ②:Back ④:Acquire skill",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:前往技能习得"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10021",
@@ -256623,7 +256623,7 @@
   "offset": "7DC",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10022",
@@ -256632,7 +256632,7 @@
   "offset": "7FC",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10023",
@@ -256641,7 +256641,7 @@
   "offset": "806",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10024",
@@ -256650,7 +256650,7 @@
   "offset": "810",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10025",
@@ -256659,7 +256659,7 @@
   "offset": "830",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10026",
@@ -256668,7 +256668,7 @@
   "offset": "850",
   "jp": "②:戻る ⑥:カメラ",
   "en": "②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10027",
@@ -256677,7 +256677,7 @@
   "offset": "866",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10028",
@@ -256686,7 +256686,7 @@
   "offset": "870",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10030",
@@ -256695,7 +256695,7 @@
   "offset": "884",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10031",
@@ -256704,7 +256704,7 @@
   "offset": "8A4",
   "jp": "②:戻る ⑥:カメラ",
   "en": "②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10032",
@@ -256713,7 +256713,7 @@
   "offset": "8BA",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10033",
@@ -256722,7 +256722,7 @@
   "offset": "8C4",
   "jp": "②:戻る ⑪⑫:キャラクター選択 ⑥:カメラ",
   "en": "②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择角色 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10080",
@@ -256731,7 +256731,7 @@
   "offset": "8F2",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10081",
@@ -256740,7 +256740,7 @@
   "offset": "926",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10082",
@@ -256749,7 +256749,7 @@
   "offset": "95A",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10083",
@@ -256758,7 +256758,7 @@
   "offset": "97A",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10084",
@@ -256767,7 +256767,7 @@
   "offset": "99A",
   "jp": "②:戻る ⑪⑫:メンバー選択",
   "en": "②:Back ⑪⑫:Select member",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择成员"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10085",
@@ -256776,7 +256776,7 @@
   "offset": "9B8",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10086",
@@ -256785,7 +256785,7 @@
   "offset": "9C2",
   "jp": "②:戻る ⑪⑫:メンバー選択",
   "en": "②:Back ⑪⑫:Select member",
-  "zh": ""
+  "zh": "②:返回 ⑪⑫:选择成员"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10087",
@@ -256794,7 +256794,7 @@
   "offset": "9E0",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10088",
@@ -256803,7 +256803,7 @@
   "offset": "9EA",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate Camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10089",
@@ -256812,7 +256812,7 @@
   "offset": "A0A",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select Member ⑥:Rotate Camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10090",
@@ -256821,7 +256821,7 @@
   "offset": "A3E",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10091",
@@ -256830,7 +256830,7 @@
   "offset": "A72",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10101",
@@ -256839,7 +256839,7 @@
   "offset": "A92",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10102",
@@ -256848,7 +256848,7 @@
   "offset": "AA6",
   "jp": "①:次へ ②:戻る",
   "en": "①:Next ②:Back",
-  "zh": ""
+  "zh": "①:下一步 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10103",
@@ -256857,7 +256857,7 @@
   "offset": "ABA",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10104",
@@ -256866,7 +256866,7 @@
   "offset": "AC4",
   "jp": "⑤:ページ送り ②:戻る",
   "en": "⑤:Next/Previous page ②:Back",
-  "zh": ""
+  "zh": "⑤:翻页 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10201",
@@ -256875,7 +256875,7 @@
   "offset": "ADE",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10202",
@@ -256884,7 +256884,7 @@
   "offset": "AF2",
   "jp": "①:決定 ②:戻る ⑪⑫:アイテム種類選択 ④:ソート",
   "en": "①:OK ②:Back ⑪⑫:Pick item type ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择道具种类 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10203",
@@ -256893,7 +256893,7 @@
   "offset": "B2A",
   "jp": "①:決定 ②:戻る ④:ソート",
   "en": "①:OK ②:Back ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10204",
@@ -256902,7 +256902,7 @@
   "offset": "B4A",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10301",
@@ -256911,7 +256911,7 @@
   "offset": "B5E",
   "jp": "①:決定 ②:戻る ③:ステータス",
   "en": "①:OK ②:Back ③:Status",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:状态"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10302",
@@ -256920,7 +256920,7 @@
   "offset": "B82",
   "jp": "①:決定 ②:戻る ③:ステータス ④:はずす",
   "en": "①:OK ②:Back ③:Status ④:Remove",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:状态 ④:卸下"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10401",
@@ -256929,7 +256929,7 @@
   "offset": "BB2",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10402",
@@ -256938,7 +256938,7 @@
   "offset": "BC6",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10403",
@@ -256947,7 +256947,7 @@
   "offset": "BDA",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10404",
@@ -256956,7 +256956,7 @@
   "offset": "BE4",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10405",
@@ -256965,7 +256965,7 @@
   "offset": "BEE",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10500",
@@ -256974,7 +256974,7 @@
   "offset": "BF8",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10501",
@@ -256983,7 +256983,7 @@
   "offset": "C0C",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10502",
@@ -256992,7 +256992,7 @@
   "offset": "C20",
   "jp": "②:終了",
   "en": "②:Quit",
-  "zh": ""
+  "zh": "②:结束"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10503",
@@ -257001,7 +257001,7 @@
   "offset": "C2A",
   "jp": "①:音声テスト ②:終了",
   "en": "①:Voice test ②:Quit",
-  "zh": ""
+  "zh": "①:声音测试 ②:结束"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10504",
@@ -257010,7 +257010,7 @@
   "offset": "C44",
   "jp": "①:振動テスト ②:終了",
   "en": "①:Vibration test ②:Quit",
-  "zh": ""
+  "zh": "①:震动测试 ②:结束"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10505",
@@ -257019,7 +257019,7 @@
   "offset": "C5E",
   "jp": "①:決定 ②:終了",
   "en": "①:OK ②:Quit",
-  "zh": ""
+  "zh": "①:确定 ②:结束"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10600",
@@ -257028,7 +257028,7 @@
   "offset": "C72",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/10700",
@@ -257037,7 +257037,7 @@
   "offset": "C86",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20001",
@@ -257046,7 +257046,7 @@
   "offset": "C9A",
   "jp": "①:決定 ②:戻る ③:カメラ切替",
   "en": "①:OK ②:Back ③:Camera switch",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:切换镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20002",
@@ -257055,7 +257055,7 @@
   "offset": "CBE",
   "jp": "①:決定 ②:戻る ③:カメラ切替 ④:全体コマンド",
   "en": "①:OK ②:Back ③:Camera switch ④:Party command",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:切换视角 ④:队伍指令"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20003",
@@ -257064,7 +257064,7 @@
   "offset": "CF4",
   "jp": "①:決定 ②:戻る ③:カメラ切替 ④:全体コマンド",
   "en": "①:OK ②:Back ③:Camera switch ④:Party command",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:切换视角 ④:队伍指令"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20004",
@@ -257073,7 +257073,7 @@
   "offset": "D2A",
   "jp": "①:決定 ②:戻る ③:カメラ切替 ④:全体コマンド",
   "en": "①:OK ②:Back ③:Camera switch ④:Party command",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:切换视角 ④:队伍指令"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20005",
@@ -257082,7 +257082,7 @@
   "offset": "D60",
   "jp": "②:戻る ③:カメラ切替 ④:全体コマンド",
   "en": "②:Back ③:Camera switch ④:Party command",
-  "zh": ""
+  "zh": "②:返回 ③:切换视角 ④:队伍指令"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20006",
@@ -257091,7 +257091,7 @@
   "offset": "D8C",
   "jp": "①:表示",
   "en": "①:Display",
-  "zh": ""
+  "zh": "①:显示"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20007",
@@ -257100,7 +257100,7 @@
   "offset": "D96",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20008",
@@ -257109,7 +257109,7 @@
   "offset": "DA0",
   "jp": "④:早送り",
   "en": "④:Fast forward",
-  "zh": ""
+  "zh": "④:快进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20009",
@@ -257118,7 +257118,7 @@
   "offset": "DAC",
   "jp": "①:決定",
   "en": "①:OK",
-  "zh": ""
+  "zh": "①:确定"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20010",
@@ -257127,7 +257127,7 @@
   "offset": "DB6",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20011",
@@ -257136,7 +257136,7 @@
   "offset": "DCA",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20012",
@@ -257145,7 +257145,7 @@
   "offset": "DD4",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/20013",
@@ -257154,7 +257154,7 @@
   "offset": "DDE",
   "jp": "⑬:ＥＸボーナス ④:早送り",
   "en": "⑬:EX Boost ②:Skip",
-  "zh": ""
+  "zh": "⑬:ＥＸ奖励 ④:快进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30001",
@@ -257163,7 +257163,7 @@
   "offset": "DFC",
   "jp": "①:話す",
   "en": "①:Talk",
-  "zh": ""
+  "zh": "①:对话"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30002",
@@ -257172,7 +257172,7 @@
   "offset": "E06",
   "jp": "①:開く",
   "en": "①:Open",
-  "zh": ""
+  "zh": "①:打开"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30003",
@@ -257181,7 +257181,7 @@
   "offset": "E10",
   "jp": "①:動かす",
   "en": "①:Move",
-  "zh": ""
+  "zh": "①:移动"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30004",
@@ -257190,7 +257190,7 @@
   "offset": "E1C",
   "jp": "⑤:移動する ①:降りる",
   "en": "⑤:Move ①:DOWN",
-  "zh": ""
+  "zh": "⑤:移动 ①:下来"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30005",
@@ -257199,7 +257199,7 @@
   "offset": "E36",
   "jp": "①:入る",
   "en": "①:Enter",
-  "zh": ""
+  "zh": "①:进入"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30006",
@@ -257208,7 +257208,7 @@
   "offset": "E40",
   "jp": "①:壊す",
   "en": "①:Break",
-  "zh": ""
+  "zh": "①:破坏"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30007",
@@ -257217,7 +257217,7 @@
   "offset": "E4A",
   "jp": "①:アクション",
   "en": "①:Action",
-  "zh": ""
+  "zh": "①:动作"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30008",
@@ -257226,7 +257226,7 @@
   "offset": "E5A",
   "jp": "①:調べる",
   "en": "①:Examine",
-  "zh": ""
+  "zh": "①:调查"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30009",
@@ -257235,7 +257235,7 @@
   "offset": "E66",
   "jp": "①:スイッチ操作",
   "en": "①:Operate switch",
-  "zh": ""
+  "zh": "①:操作开关"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30010",
@@ -257244,7 +257244,7 @@
   "offset": "E78",
   "jp": "①:押す",
   "en": "①:Push",
-  "zh": ""
+  "zh": "①:推"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30011",
@@ -257253,7 +257253,7 @@
   "offset": "E82",
   "jp": "⑬／①:投げる",
   "en": "⑬:Shake / ①:Hit - Throw!",
-  "zh": ""
+  "zh": "⑬／①:投掷"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30012",
@@ -257262,7 +257262,7 @@
   "offset": "E92",
   "jp": "①:ワープする",
   "en": "①:Warp",
-  "zh": ""
+  "zh": "①:传送"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30013",
@@ -257271,7 +257271,7 @@
   "offset": "EA2",
   "jp": "①:回復する",
   "en": "①:Heal",
-  "zh": ""
+  "zh": "①:恢复"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30014",
@@ -257280,7 +257280,7 @@
   "offset": "EB0",
   "jp": "①:利用する",
   "en": "①:Use",
-  "zh": ""
+  "zh": "①:使用"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30015",
@@ -257289,7 +257289,7 @@
   "offset": "EBE",
   "jp": "①:掴む",
   "en": "①:Grab",
-  "zh": ""
+  "zh": "①:抓取"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30016",
@@ -257298,7 +257298,7 @@
   "offset": "EC8",
   "jp": "⑤:動かす ①:放す",
   "en": "⑤:Move ①:Release",
-  "zh": ""
+  "zh": "⑤:移动 ①:松开"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30017",
@@ -257307,7 +257307,7 @@
   "offset": "EDE",
   "jp": "①:くぐる",
   "en": "①:Pass under",
-  "zh": ""
+  "zh": "①:钻过"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30018",
@@ -257316,7 +257316,7 @@
   "offset": "EEA",
   "jp": "⑤:移動する",
   "en": "⑤:Move",
-  "zh": ""
+  "zh": "⑤:移动"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30019",
@@ -257325,7 +257325,7 @@
   "offset": "EF8",
   "jp": "①:昇る",
   "en": "①:UP",
-  "zh": ""
+  "zh": "①:上去"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30020",
@@ -257334,7 +257334,7 @@
   "offset": "F02",
   "jp": "①:降りる",
   "en": "①:DOWN",
-  "zh": ""
+  "zh": "①:下来"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30021",
@@ -257343,7 +257343,7 @@
   "offset": "F0E",
   "jp": "⑤:移動する ①:昇る",
   "en": "⑤:Move ①:UP",
-  "zh": ""
+  "zh": "⑤:移动 ①:上去"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30022",
@@ -257352,7 +257352,7 @@
   "offset": "F26",
   "jp": "⑤:移動する ①:降りる",
   "en": "⑤:Move ①:DOWN",
-  "zh": ""
+  "zh": "⑤:移动 ①:下来"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30023",
@@ -257361,7 +257361,7 @@
   "offset": "F40",
   "jp": "①:乗る",
   "en": "①:Ride",
-  "zh": ""
+  "zh": "①:搭乘"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30024",
@@ -257370,7 +257370,7 @@
   "offset": "F4A",
   "jp": "①:注入する",
   "en": "①:Inject",
-  "zh": ""
+  "zh": "①:注入"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30025",
@@ -257379,7 +257379,7 @@
   "offset": "F58",
   "jp": "①:吸収する",
   "en": "①:Absorb",
-  "zh": ""
+  "zh": "①:吸收"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30026",
@@ -257388,7 +257388,7 @@
   "offset": "F66",
   "jp": "⑬／①:注入！！",
   "en": "⑬:Shake / ①:Hit - Inject!",
-  "zh": ""
+  "zh": "⑬／①:注入！！"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30027",
@@ -257397,7 +257397,7 @@
   "offset": "F78",
   "jp": "①:戦う",
   "en": "①:Fight",
-  "zh": ""
+  "zh": "①:战斗"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30028",
@@ -257406,7 +257406,7 @@
   "offset": "F82",
   "jp": "①:泳ぐ",
   "en": "①:Swim",
-  "zh": ""
+  "zh": "①:游泳"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30029",
@@ -257415,7 +257415,7 @@
   "offset": "F8C",
   "jp": "①:上がる",
   "en": "①:Get out",
-  "zh": ""
+  "zh": "①:上岸"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30030",
@@ -257424,7 +257424,7 @@
   "offset": "F98",
   "jp": "⑬:踊る ②:やめる",
   "en": "⑬:Dance ②:Stop",
-  "zh": ""
+  "zh": "⑬:跳舞 ②:停止"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30101",
@@ -257433,7 +257433,7 @@
   "offset": "FAE",
   "jp": "①",
   "en": "①",
-  "zh": ""
+  "zh": "①"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/30102",
@@ -257442,7 +257442,7 @@
   "offset": "FB2",
   "jp": "①：進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①：前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40001",
@@ -257451,7 +257451,7 @@
   "offset": "FBC",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40002",
@@ -257460,7 +257460,7 @@
   "offset": "FD0",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40003",
@@ -257469,7 +257469,7 @@
   "offset": "FE4",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40004",
@@ -257478,7 +257478,7 @@
   "offset": "FF8",
   "jp": "①:スキップ",
   "en": "①:Skip",
-  "zh": ""
+  "zh": "①:跳过"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40005",
@@ -257487,7 +257487,7 @@
   "offset": "1006",
   "jp": "①:決定 ②:戻る ⑪⑫:武器種類選択 ④:ソート ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Characters ④:Sort⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择武器种类 ④:排序 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40006",
@@ -257496,7 +257496,7 @@
   "offset": "1046",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40007",
@@ -257505,7 +257505,7 @@
   "offset": "105A",
   "jp": "①:決定 ②:戻る ③:ステータス ④:ソート",
   "en": "①:OK ②:Back ③:Status ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:状态 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40008",
@@ -257514,7 +257514,7 @@
   "offset": "108A",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40009",
@@ -257523,7 +257523,7 @@
   "offset": "109E",
   "jp": "①:決定 ②:戻る ④:ソート ⑥:カメラ",
   "en": "①:OK ②:Back ④:Sort ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40010",
@@ -257532,7 +257532,7 @@
   "offset": "10CA",
   "jp": "①:決定 ②:戻る ⑥:カメラ",
   "en": "①:OK ②:Back ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/40011",
@@ -257541,7 +257541,7 @@
   "offset": "10EA",
   "jp": "①:決定 ②:戻る ⑪⑫:メンバー選択 ⑥:カメラ",
   "en": "①:OK ②:Back ⑪⑫:Select member ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:选择成员 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/41001",
@@ -257550,7 +257550,7 @@
   "offset": "111E",
   "jp": "①:決定 ②:戻る ④:ソート ⑥:カメラ",
   "en": "①:OK ②:Back ④:Sort ⑥:Rotate camera",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序 ⑥:镜头"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/41002",
@@ -257559,7 +257559,7 @@
   "offset": "114A",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50000",
@@ -257568,7 +257568,7 @@
   "offset": "115E",
   "jp": "①:決定 ②:戻る ④:ソート",
   "en": "①:OK ②:Back ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50001",
@@ -257577,7 +257577,7 @@
   "offset": "117E",
   "jp": "①:決定 ②:戻る ③：表示切替 ④:ソート",
   "en": "①:OK ②:Back ③:Switch Display ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③：切换显示 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50002",
@@ -257586,7 +257586,7 @@
   "offset": "11AC",
   "jp": "①:決定 ②:戻る ④:ソート",
   "en": "①:OK ②:Back ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50003",
@@ -257595,7 +257595,7 @@
   "offset": "11CC",
   "jp": "①:決定 ②:戻る ④:ソート",
   "en": "①:OK ②:Back ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50004",
@@ -257604,7 +257604,7 @@
   "offset": "11EC",
   "jp": "①:決定 ②:戻る ④:ソート",
   "en": "①:OK ②:Back ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50005",
@@ -257613,7 +257613,7 @@
   "offset": "120C",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50006",
@@ -257622,7 +257622,7 @@
   "offset": "1220",
   "jp": "①:決定 ②:戻る ④:ソート",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50007",
@@ -257631,7 +257631,7 @@
   "offset": "1240",
   "jp": "①:決定 ②:戻る ③：ステータス ④:ソート",
   "en": "①:OK ②:Back ③:Status ④:Sort",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③：状态 ④:排序"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50020",
@@ -257640,7 +257640,7 @@
   "offset": "1270",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50021",
@@ -257649,7 +257649,7 @@
   "offset": "1284",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50022",
@@ -257658,7 +257658,7 @@
   "offset": "1298",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50023",
@@ -257667,7 +257667,7 @@
   "offset": "12AC",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50024",
@@ -257676,7 +257676,7 @@
   "offset": "12C0",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50025",
@@ -257685,7 +257685,7 @@
   "offset": "12D4",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50040",
@@ -257694,7 +257694,7 @@
   "offset": "12E8",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50041",
@@ -257703,7 +257703,7 @@
   "offset": "12FC",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50042",
@@ -257712,7 +257712,7 @@
   "offset": "1310",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50043",
@@ -257721,7 +257721,7 @@
   "offset": "1324",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50044",
@@ -257730,7 +257730,7 @@
   "offset": "1338",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/50045",
@@ -257739,7 +257739,7 @@
   "offset": "134C",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/60000",
@@ -257748,7 +257748,7 @@
   "offset": "1360",
   "jp": "⑬／①:食べる！",
   "en": "⑬:Shake / ①:Hit repeatedly - Eat!",
-  "zh": ""
+  "zh": "⑬／①:开吃！"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90001",
@@ -257757,7 +257757,7 @@
   "offset": "1372",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90002",
@@ -257766,7 +257766,7 @@
   "offset": "1386",
   "jp": "②:戻る ④:成績登録",
   "en": "②:Back ④:Register results",
-  "zh": ""
+  "zh": "②:返回 ④:登记成绩"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90003",
@@ -257775,7 +257775,7 @@
   "offset": "139E",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90004",
@@ -257784,7 +257784,7 @@
   "offset": "13C4",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90005",
@@ -257793,7 +257793,7 @@
   "offset": "13CE",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90006",
@@ -257802,7 +257802,7 @@
   "offset": "13F4",
   "jp": "①:成績登録 ②:戻る",
   "en": "①:Register results ②:Back",
-  "zh": ""
+  "zh": "①:登记成绩 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90007",
@@ -257811,7 +257811,7 @@
   "offset": "140C",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90008",
@@ -257820,7 +257820,7 @@
   "offset": "1432",
   "jp": "①:成績登録 ②:戻る",
   "en": "①:Register results ②:Back",
-  "zh": ""
+  "zh": "①:登记成绩 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90009",
@@ -257829,7 +257829,7 @@
   "offset": "144A",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90010",
@@ -257838,7 +257838,7 @@
   "offset": "1470",
   "jp": "①:成績登録 ②:戻る",
   "en": "①:Register results ②:Back",
-  "zh": ""
+  "zh": "①:登记成绩 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90011",
@@ -257847,7 +257847,7 @@
   "offset": "1488",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90012",
@@ -257856,7 +257856,7 @@
   "offset": "14AE",
   "jp": "①:成績登録 ②:戻る",
   "en": "①:Register results ②:Back",
-  "zh": ""
+  "zh": "①:登记成绩 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90013",
@@ -257865,7 +257865,7 @@
   "offset": "14C6",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90014",
@@ -257874,7 +257874,7 @@
   "offset": "14EC",
   "jp": "①:成績登録 ②:戻る",
   "en": "①:Register results ②:Back",
-  "zh": ""
+  "zh": "①:登记成绩 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90015",
@@ -257883,7 +257883,7 @@
   "offset": "1504",
   "jp": "①:決定 ②:戻る ⑪⑫:ページ切替",
   "en": "①:OK ②:Back ⑪⑫:Change page",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/90016",
@@ -257892,7 +257892,7 @@
   "offset": "152A",
   "jp": "②:戻る ③:ゲーマーカード表示 ⑪⑫:ページ切替",
   "en": "②:Back ③:gamer card ⑪⑫:Change page",
-  "zh": ""
+  "zh": "②:返回 ③:显示玩家卡片 ⑪⑫:切换页面"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/91001",
@@ -257901,7 +257901,7 @@
   "offset": "155E",
   "jp": "⑤:ページ送り ②:戻る",
   "en": "⑤:Turn page ②:Back",
-  "zh": ""
+  "zh": "⑤:翻页 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/91002",
@@ -257910,7 +257910,7 @@
   "offset": "1578",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/92001",
@@ -257919,7 +257919,7 @@
   "offset": "1582",
   "jp": "①:ベット ②:戻る ③:ルール表示",
   "en": "①: Bet ②:Back ③:Show rules",
-  "zh": ""
+  "zh": "①:下注 ②:返回 ③:显示规则"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/92002",
@@ -257928,7 +257928,7 @@
   "offset": "15A8",
   "jp": "①:決定 ②:戻る ⑤:ベット額増減",
   "en": "①:OK ②:Back ⑤:Bet",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ⑤:增减下注额"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/92003",
@@ -257937,7 +257937,7 @@
   "offset": "15CE",
   "jp": "①②⑦⑧：進む",
   "en": "①②⑦⑧:Advance",
-  "zh": ""
+  "zh": "①②⑦⑧：前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/92004",
@@ -257946,7 +257946,7 @@
   "offset": "15DE",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/92005",
@@ -257955,7 +257955,7 @@
   "offset": "15F2",
   "jp": "①:早送り",
   "en": "①:Fast forward",
-  "zh": ""
+  "zh": "①:快进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/92006",
@@ -257964,7 +257964,7 @@
   "offset": "15FE",
   "jp": "①:決定 ②:戻る ③:ルール表示",
   "en": "①:OK ②:Back ③:Show Rules",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:显示规则"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/93001",
@@ -257973,7 +257973,7 @@
   "offset": "1622",
   "jp": "①:スロット開始 ②：戻る ③:ルール表示 ⑤:チップ投入",
   "en": "①:Start slots ②:Back ③:Rules ⑤:Bet chips",
-  "zh": ""
+  "zh": "①:开始拉霸 ②：返回 ③:显示规则 ⑤:投入筹码"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/93002",
@@ -257982,7 +257982,7 @@
   "offset": "165E",
   "jp": "①:ストップ",
   "en": "",
-  "zh": ""
+  "zh": "①:停止"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/94001",
@@ -257991,7 +257991,7 @@
   "offset": "166C",
   "jp": "①:決定 ②:戻る ③:ルール表示 ⑤:ベット額増減",
   "en": "①:OK ②:Back ③:Rules ⑤:Bet",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:显示规则 ⑤:增减下注额"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/94002",
@@ -258000,7 +258000,7 @@
   "offset": "16A2",
   "jp": "①:回転を止める ②:ギブアップ",
   "en": "①:Stop spinning ②:End",
-  "zh": ""
+  "zh": "①:停止旋转 ②:放弃"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/94003",
@@ -258009,7 +258009,7 @@
   "offset": "16C4",
   "jp": "①:進む ②:ギブアップ",
   "en": "①:Advance ②:End",
-  "zh": ""
+  "zh": "①:前进 ②:放弃"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/95001",
@@ -258018,7 +258018,7 @@
   "offset": "16DE",
   "jp": "①:進む",
   "en": "①:Advance",
-  "zh": ""
+  "zh": "①:前进"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/103001",
@@ -258027,7 +258027,7 @@
   "offset": "16E8",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/103101",
@@ -258036,7 +258036,7 @@
   "offset": "16FC",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104001",
@@ -258045,7 +258045,7 @@
   "offset": "1710",
   "jp": "①:進む ②:戻る ③:ゲーマーカード表示 ④:フレンドリスト表示",
   "en": "①:OK ②:Back ③:gamer card ④:friends list",
-  "zh": ""
+  "zh": "①:前进 ②:返回 ③:显示玩家代号卡 ④:显示好友列表"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104002",
@@ -258054,7 +258054,7 @@
   "offset": "1754",
   "jp": "①:決定 ②:戻る ③:ゲーマーカード表示",
   "en": "①:OK ②:Back ③:gamer card",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:显示玩家代号卡"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104003",
@@ -258063,7 +258063,7 @@
   "offset": "1780",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104004",
@@ -258072,7 +258072,7 @@
   "offset": "1794",
   "jp": "①:決定 ②:戻る",
   "en": "①:OK ②:Back",
-  "zh": ""
+  "zh": "①:确定 ②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104005",
@@ -258081,7 +258081,7 @@
   "offset": "17A8",
   "jp": "①:決定",
   "en": "①:OK",
-  "zh": ""
+  "zh": "①:确定"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104006",
@@ -258090,7 +258090,7 @@
   "offset": "17B2",
   "jp": "①:決定 ②:戻る ③:ルール表示",
   "en": "①:OK ②:Back ③:Show rules",
-  "zh": ""
+  "zh": "①:确定 ②:返回 ③:显示规则"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104007",
@@ -258099,7 +258099,7 @@
   "offset": "17D6",
   "jp": "②:戻る",
   "en": "②:Back",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/KEYGUIDE.FMG/104008",
@@ -258108,7 +258108,7 @@
   "offset": "17E0",
   "jp": "③:カメラ切替",
   "en": "③:Change camera",
-  "zh": ""
+  "zh": "③:切换视角"
  },
  {
   "id": "FMG/LINEHELP.FMG/10202",
