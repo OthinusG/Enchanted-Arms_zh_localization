@@ -235644,7 +235644,7 @@
   "offset": "9F4",
   "jp": "エンチャント学園　カフェテリア",
   "en": "Cafeteria",
-  "zh": ""
+  "zh": "赋法学园　自助餐厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/1/0",
@@ -235653,7 +235653,7 @@
   "offset": "A16",
   "jp": "空中回廊",
   "en": "Sky Corridor",
-  "zh": ""
+  "zh": "空中回廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/12C/0",
@@ -235662,7 +235662,7 @@
   "offset": "A22",
   "jp": "エンチャント学園　大講義室",
   "en": "Lecture Hall",
-  "zh": ""
+  "zh": "赋法学园　大讲堂"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/258/0",
@@ -235671,7 +235671,7 @@
   "offset": "A40",
   "jp": "エンチャント学園　コウ研究室",
   "en": "Kou's Laboratory",
-  "zh": ""
+  "zh": "赋法学园　康研究室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/320/0",
@@ -235680,7 +235680,7 @@
   "offset": "A60",
   "jp": "エンチャント学園　南ホール",
   "en": "South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/384/0",
@@ -235689,7 +235689,7 @@
   "offset": "A7E",
   "jp": "エンチャント学園　東ホール",
   "en": "East Hall",
-  "zh": ""
+  "zh": "赋法学园　东大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3E8/0",
@@ -235698,7 +235698,7 @@
   "offset": "A9C",
   "jp": "エンチャント学園　西ホール",
   "en": "West Hall",
-  "zh": ""
+  "zh": "赋法学园　西大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44C/0",
@@ -235707,7 +235707,7 @@
   "offset": "ABA",
   "jp": "エンチャント学園　教員棟",
   "en": "Faculty Ward",
-  "zh": ""
+  "zh": "赋法学园　教工楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/4B0/0",
@@ -235716,7 +235716,7 @@
   "offset": "AD6",
   "jp": "エンチャント学園　回廊南部",
   "en": "South Corridor",
-  "zh": ""
+  "zh": "赋法学园　回廊南部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/514/0",
@@ -235725,7 +235725,7 @@
   "offset": "AF4",
   "jp": "エンチャント学園　南廊下　二階",
   "en": "South Corridor 2nd FL",
-  "zh": ""
+  "zh": "赋法学园　南走廊　二楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/578/0",
@@ -235734,7 +235734,7 @@
   "offset": "B16",
   "jp": "エンチャント学園　中央塔廊下",
   "en": "Central Tower Corridor",
-  "zh": ""
+  "zh": "赋法学园　中央塔走廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/5DC/0",
@@ -235743,7 +235743,7 @@
   "offset": "B36",
   "jp": "エンチャント学園　南西の塔　廊下",
   "en": "South-West Tower Corridor",
-  "zh": ""
+  "zh": "赋法学园　西南塔　走廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/640/0",
@@ -235752,7 +235752,7 @@
   "offset": "B5A",
   "jp": "エンチャント学園　回廊東部",
   "en": "East Corridor",
-  "zh": ""
+  "zh": "赋法学园　回廊东部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6A4/0",
@@ -235761,7 +235761,7 @@
   "offset": "B78",
   "jp": "エンチャント学園　南東廊下　二階",
   "en": "South-East Corridor 2nd FL",
-  "zh": ""
+  "zh": "赋法学园　东南走廊　二楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2710/0",
@@ -235770,7 +235770,7 @@
   "offset": "B9C",
   "jp": "ヨコハマシティ　商業区",
   "en": "Yokohama City Trade District",
-  "zh": ""
+  "zh": "横滨市　商业区"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2711/0",
@@ -235779,7 +235779,7 @@
   "offset": "BB6",
   "jp": "バー　シーグル",
   "en": "Seagull Bar",
-  "zh": ""
+  "zh": "海鸥酒吧"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2712/0",
@@ -235788,7 +235788,7 @@
   "offset": "BC8",
   "jp": "ジュエル　アイスミレディ",
   "en": "Jewels Icemilady",
-  "zh": ""
+  "zh": "冰雪名媛珠宝店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2713/0",
@@ -235797,7 +235797,7 @@
   "offset": "BE4",
   "jp": "カフェ　シーウィンド",
   "en": "Sea Wind Café ",
-  "zh": ""
+  "zh": "海风咖啡厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2714/0",
@@ -235806,7 +235806,7 @@
   "offset": "BFC",
   "jp": "ブティック　ハーバー",
   "en": "Harbor Boutique",
-  "zh": ""
+  "zh": "港湾精品店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2715/0",
@@ -235815,7 +235815,7 @@
   "offset": "C14",
   "jp": "ホテル　ベイサイド",
   "en": "Bayside Hotel",
-  "zh": ""
+  "zh": "海滨酒店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2716/0",
@@ -235824,7 +235824,7 @@
   "offset": "C2A",
   "jp": "ヨコハマ市政記念館",
   "en": "Yokohama City Memorial Hall",
-  "zh": ""
+  "zh": "横滨市政纪念馆"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2717/0",
@@ -235833,7 +235833,7 @@
   "offset": "C40",
   "jp": "商業区駅",
   "en": "Trade District Station",
-  "zh": ""
+  "zh": "商业区车站"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2718/0",
@@ -235842,7 +235842,7 @@
   "offset": "C4C",
   "jp": "商業区正面ゲート",
   "en": "Trade District Main Gate",
-  "zh": ""
+  "zh": "商业区正门"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2719/0",
@@ -235851,7 +235851,7 @@
   "offset": "C60",
   "jp": "ジュースショップ　トロピカル",
   "en": "Tropical Juice Shop",
-  "zh": ""
+  "zh": "热带鲜汁吧"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/271A/0",
@@ -235860,7 +235860,7 @@
   "offset": "C80",
   "jp": "ピザショップ　フェスタピザ",
   "en": "Fiesta Pizzeria",
-  "zh": ""
+  "zh": "嘉年华披萨店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/271B/0",
@@ -235869,7 +235869,7 @@
   "offset": "C9E",
   "jp": "ショップ　トラベラー",
   "en": "Travel Shop",
-  "zh": ""
+  "zh": "旅人商店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/271C/0",
@@ -235878,7 +235878,7 @@
   "offset": "CB6",
   "jp": "テント小屋",
   "en": "Tent",
-  "zh": ""
+  "zh": "帐篷小屋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/271D/0",
@@ -235887,7 +235887,7 @@
   "offset": "CC4",
   "jp": "ゴーレムチケットツアー受付",
   "en": "Golem Ticket Tour Reception",
-  "zh": ""
+  "zh": "魔像彩券之旅接待处"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/271E/0",
@@ -235896,7 +235896,7 @@
   "offset": "CE2",
   "jp": "エンチャント学園　南ホール",
   "en": "University South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/2774/0",
@@ -235905,7 +235905,7 @@
   "offset": "D00",
   "jp": "商業区　ゴーレム小屋",
   "en": "Trade District Golem Tent",
-  "zh": ""
+  "zh": "商业区　魔像小屋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C350/0",
@@ -235914,7 +235914,7 @@
   "offset": "D18",
   "jp": "エンチャント学園　南ホール",
   "en": "University South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C3B4/0",
@@ -235923,7 +235923,7 @@
   "offset": "D36",
   "jp": "エンチャント学園　カフェテリア",
   "en": "Cafeteria",
-  "zh": ""
+  "zh": "赋法学园　自助餐厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C418/0",
@@ -235932,7 +235932,7 @@
   "offset": "D58",
   "jp": "崩壊学園　南廊下　一階",
   "en": "South Corridor 1st FL",
-  "zh": ""
+  "zh": "崩坏学园　南走廊　一楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C47C/0",
@@ -235941,7 +235941,7 @@
   "offset": "D72",
   "jp": "崩壊学園　南廊下　二階",
   "en": "South Corridor 2nd FL",
-  "zh": ""
+  "zh": "崩坏学园　南走廊　二楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C4E0/0",
@@ -235950,7 +235950,7 @@
   "offset": "D8C",
   "jp": "崩壊学園　南東の塔　廊下",
   "en": "South Tower",
-  "zh": ""
+  "zh": "崩坏学园　东南塔　走廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C544/0",
@@ -235959,7 +235959,7 @@
   "offset": "DA8",
   "jp": "崩壊学園　大講義室　廊下",
   "en": "Lecture Hall",
-  "zh": ""
+  "zh": "崩坏学园　大讲义室　走廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5A8/0",
@@ -235968,7 +235968,7 @@
   "offset": "DC4",
   "jp": "崩壊学園　東ホール",
   "en": "East Hall",
-  "zh": ""
+  "zh": "崩坏学园　东大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/EA60/0",
@@ -235977,7 +235977,7 @@
   "offset": "DDA",
   "jp": "ヨコハマシティ　商業区",
   "en": "Yokohama City Trade District",
-  "zh": ""
+  "zh": "横滨市　商业区"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/11170/0",
@@ -235986,7 +235986,7 @@
   "offset": "DF4",
   "jp": "封鎖区画　出入口",
   "en": "Sealed Ward Entrance",
-  "zh": ""
+  "zh": "封锁区划　出入口"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/111D4/0",
@@ -235995,7 +235995,7 @@
   "offset": "E08",
   "jp": "封鎖区画　奈落の間",
   "en": "Sealed Ward Depths",
-  "zh": ""
+  "zh": "封锁区划　奈落之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/11238/0",
@@ -236004,7 +236004,7 @@
   "offset": "E1E",
   "jp": "封鎖区画　動力の間",
   "en": "Sealed Ward Power Room",
-  "zh": ""
+  "zh": "封锁区划　动力之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/1129C/0",
@@ -236013,7 +236013,7 @@
   "offset": "E34",
   "jp": "封鎖区画　上層回廊",
   "en": "Sealed Ward Upper Corridor",
-  "zh": ""
+  "zh": "封锁区划　上层回廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/11300/0",
@@ -236022,7 +236022,7 @@
   "offset": "E4A",
   "jp": "封鎖区画　守人の間",
   "en": "Sealed Ward Guardian Room",
-  "zh": ""
+  "zh": "封锁区划　守护者之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/11364/0",
@@ -236031,7 +236031,7 @@
   "offset": "E60",
   "jp": "封鎖区画　施錠の間",
   "en": "Sealed Ward Lock Room",
-  "zh": ""
+  "zh": "封锁区划　施锁之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/113C8/0",
@@ -236040,7 +236040,7 @@
   "offset": "E76",
   "jp": "封鎖区画　玄室",
   "en": "Sealed Ward Chamber",
-  "zh": ""
+  "zh": "封锁区划　玄室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/1142C/0",
@@ -236049,7 +236049,7 @@
   "offset": "E88",
   "jp": "封鎖区画　下層回廊",
   "en": "Sealed Ward Lower Corridor",
-  "zh": ""
+  "zh": "封锁区划　下层回廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/11490/0",
@@ -236058,7 +236058,7 @@
   "offset": "E9E",
   "jp": "封鎖区画　階段の間",
   "en": "Sealed Ward Stair Room",
-  "zh": ""
+  "zh": "封锁区划　阶梯之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/30ED0/0",
@@ -236067,7 +236067,7 @@
   "offset": "EB4",
   "jp": "ロンドン城　大広間",
   "en": "Grand Hall",
-  "zh": ""
+  "zh": "伦敦城　大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/30ED0/1",
@@ -236076,7 +236076,7 @@
   "offset": "EC8",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/30FFC/0",
@@ -236085,7 +236085,7 @@
   "offset": "EE8",
   "jp": "ロンドン城　機構区画",
   "en": "Mechanics Area",
-  "zh": ""
+  "zh": "伦敦城　机械区划"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/30FFC/1",
@@ -236094,7 +236094,7 @@
   "offset": "EFE",
   "jp": "Map表示用　（1030後閑）",
   "en": "Map表示用　（1030後閑）",
-  "zh": ""
+  "zh": "Map表示用　（1030後閑）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/38270/0",
@@ -236103,7 +236103,7 @@
   "offset": "F1E",
   "jp": "ロンドンシティ　大階段",
   "en": "London City Grand Steps",
-  "zh": ""
+  "zh": "伦敦市　大阶梯"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/38270/1",
@@ -236112,7 +236112,7 @@
   "offset": "F36",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/382D4/0",
@@ -236121,7 +236121,7 @@
   "offset": "F56",
   "jp": "ロンドンシティ　貧民街",
   "en": "London Inner City",
-  "zh": ""
+  "zh": "伦敦市　贫民街"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/382D4/1",
@@ -236130,7 +236130,7 @@
   "offset": "F6E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/382D5/0",
@@ -236139,7 +236139,7 @@
   "offset": "F8E",
   "jp": "職業案内所　ワークス",
   "en": "Job Center",
-  "zh": ""
+  "zh": "职业介绍所　沃克斯"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/382D6/0",
@@ -236148,7 +236148,7 @@
   "offset": "FA6",
   "jp": "生活用品　アントライオン",
   "en": "Autlion Lifestyle Products",
-  "zh": ""
+  "zh": "生活用品　蚁蛉屋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/382D7/0",
@@ -236157,7 +236157,7 @@
   "offset": "FC2",
   "jp": "民家",
   "en": "Private Residence",
-  "zh": ""
+  "zh": "民宅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/38338/0",
@@ -236166,7 +236166,7 @@
   "offset": "FCA",
   "jp": "ロンドンシティ　酒場",
   "en": "London City Bar",
-  "zh": ""
+  "zh": "伦敦市　酒馆"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/38338/1",
@@ -236175,7 +236175,7 @@
   "offset": "FE0",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3A980/0",
@@ -236184,7 +236184,7 @@
   "offset": "1000",
   "jp": "ロンドン城ダム区画　地下牢",
   "en": "Castle Dam Prison Cell",
-  "zh": ""
+  "zh": "伦敦城大坝区划　地牢"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3A980/1",
@@ -236193,7 +236193,7 @@
   "offset": "101C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3A9E4/0",
@@ -236202,7 +236202,7 @@
   "offset": "103C",
   "jp": "ロンドン城ダム区画　西貯水塔",
   "en": "Castle Dam West Water Tower",
-  "zh": ""
+  "zh": "伦敦城大坝区划　西储水塔"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3A9E4/1",
@@ -236211,7 +236211,7 @@
   "offset": "105A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3AA48/0",
@@ -236220,7 +236220,7 @@
   "offset": "107A",
   "jp": "ロンドン城ダム区画　外郭通路",
   "en": "Castle Dam Exterior Path",
-  "zh": ""
+  "zh": "伦敦城大坝区划　外郭通路"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3AA48/1",
@@ -236229,7 +236229,7 @@
   "offset": "1098",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3AAAC/0",
@@ -236238,7 +236238,7 @@
   "offset": "10B8",
   "jp": "ロンドン城ダム区画　南西貯水塔",
   "en": "Castle Dam SW Water Tower",
-  "zh": ""
+  "zh": "伦敦城大坝区划　西南储水塔"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3AAAC/1",
@@ -236247,7 +236247,7 @@
   "offset": "10D8",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3AC3C/0",
@@ -236256,7 +236256,7 @@
   "offset": "10F8",
   "jp": "ロンドン城ダム区画　地下水道",
   "en": "Castle Dam Sewer",
-  "zh": ""
+  "zh": "伦敦城大坝区划　地下水道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3AC3C/1",
@@ -236265,7 +236265,7 @@
   "offset": "1116",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D090/0",
@@ -236274,7 +236274,7 @@
   "offset": "1136",
   "jp": "ロンディヌス平原　荒地",
   "en": "Londinus Plains Wilds",
-  "zh": ""
+  "zh": "伦迪纽斯平原　荒地"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D090/1",
@@ -236283,7 +236283,7 @@
   "offset": "114E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D0F4/0",
@@ -236292,7 +236292,7 @@
   "offset": "116E",
   "jp": "ロンディヌス平原　森林北部",
   "en": "Londinus Plains North Forest",
-  "zh": ""
+  "zh": "伦迪纽斯平原　森林北部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D0F4/1",
@@ -236301,7 +236301,7 @@
   "offset": "118A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D2E8/0",
@@ -236310,7 +236310,7 @@
   "offset": "11AA",
   "jp": "ロンディヌス平原　軍道地下",
   "en": "Londinus Military Path",
-  "zh": ""
+  "zh": "伦迪纽斯平原　军道地下"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D2E8/1",
@@ -236319,7 +236319,7 @@
   "offset": "11C6",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D34C/0",
@@ -236328,7 +236328,7 @@
   "offset": "11E6",
   "jp": "ロンディヌス平原　森林南部",
   "en": "Londinus Plains South Forest",
-  "zh": ""
+  "zh": "伦迪纽斯平原　森林南部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3D34C/1",
@@ -236337,7 +236337,7 @@
   "offset": "1202",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3F7A0/0",
@@ -236346,7 +236346,7 @@
   "offset": "1222",
   "jp": "ラガウ海沿岸　街道分岐路",
   "en": "Ragau Coast Fork",
-  "zh": ""
+  "zh": "拉高海沿岸　街道岔路"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3F7A0/1",
@@ -236355,7 +236355,7 @@
   "offset": "123C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3F804/0",
@@ -236364,7 +236364,7 @@
   "offset": "125C",
   "jp": "ラガウ海沿岸　岬",
   "en": "Ragau Coast Cape",
-  "zh": ""
+  "zh": "拉高海沿岸　海角"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3F804/1",
@@ -236373,7 +236373,7 @@
   "offset": "126E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3F868/0",
@@ -236382,7 +236382,7 @@
   "offset": "128E",
   "jp": "ラガウ海沿岸　埠頭",
   "en": "Ragau Coast Wharf",
-  "zh": ""
+  "zh": "拉高海沿岸　码头"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/3F868/1",
@@ -236391,7 +236391,7 @@
   "offset": "12A2",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41EB0/0",
@@ -236400,7 +236400,7 @@
   "offset": "12C2",
   "jp": "エンチャント学園　南ホール",
   "en": "South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41EB0/1",
@@ -236409,7 +236409,7 @@
   "offset": "12DE",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41F14/0",
@@ -236418,7 +236418,7 @@
   "offset": "12FE",
   "jp": "エンチャント学園　カフェテリア",
   "en": "Cafeteria",
-  "zh": ""
+  "zh": "赋法学园　食堂"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41F14/1",
@@ -236427,7 +236427,7 @@
   "offset": "131E",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41F78/0",
@@ -236436,7 +236436,7 @@
   "offset": "133E",
   "jp": "エンチャント学園　中央塔廊下",
   "en": "Tower Corridor",
-  "zh": ""
+  "zh": "赋法学园　中央塔走廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41F78/1",
@@ -236445,7 +236445,7 @@
   "offset": "135C",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41FDC/0",
@@ -236454,7 +236454,7 @@
   "offset": "137C",
   "jp": "エンチャント学園　図書館",
   "en": "Library",
-  "zh": ""
+  "zh": "赋法学园　图书馆"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/41FDC/1",
@@ -236463,7 +236463,7 @@
   "offset": "1396",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/445C0/0",
@@ -236472,7 +236472,7 @@
   "offset": "13B6",
   "jp": "ヨコハマシティ　港区倉庫",
   "en": "Yokohama City Port Warehouse",
-  "zh": ""
+  "zh": "横滨市　港区仓库"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/445C0/1",
@@ -236481,7 +236481,7 @@
   "offset": "13D0",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44624/0",
@@ -236490,7 +236490,7 @@
   "offset": "13F0",
   "jp": "ヨコハマシティ　港区税関",
   "en": "Yokohama City Port Customs",
-  "zh": ""
+  "zh": "横滨市　港区海关"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44624/1",
@@ -236499,7 +236499,7 @@
   "offset": "140A",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44688/0",
@@ -236508,7 +236508,7 @@
   "offset": "142A",
   "jp": "ヨコハマシティ　港区市街地",
   "en": "Yokohama City Port City",
-  "zh": ""
+  "zh": "横滨市　港区市区"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44688/1",
@@ -236517,7 +236517,7 @@
   "offset": "1446",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/446EC/0",
@@ -236526,7 +236526,7 @@
   "offset": "1466",
   "jp": "ヨコハマシティ　港区駅",
   "en": "Yokohama City Port Station",
-  "zh": ""
+  "zh": "横滨市　港区车站"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/446EC/1",
@@ -236535,7 +236535,7 @@
   "offset": "147E",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44750/0",
@@ -236544,7 +236544,7 @@
   "offset": "149E",
   "jp": "ヨコハマシティ　学園周辺",
   "en": "Yokohama City School Area",
-  "zh": ""
+  "zh": "横滨市　学园周边"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/44750/1",
@@ -236553,7 +236553,7 @@
   "offset": "14B8",
   "jp": "Map表示用　（1102本橋）",
   "en": "Map表示用　（1102本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1102本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46CD0/0",
@@ -236562,7 +236562,7 @@
   "offset": "14D8",
   "jp": "魔導研究施設　転送棟",
   "en": "Magic Lab Transporter Block",
-  "zh": ""
+  "zh": "魔导研究设施　传送楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46CD0/1",
@@ -236571,7 +236571,7 @@
   "offset": "14EE",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46D34/0",
@@ -236580,7 +236580,7 @@
   "offset": "150E",
   "jp": "魔導研究施設　中央棟",
   "en": "Magic Lab Central Block",
-  "zh": ""
+  "zh": "魔导研究设施　中央楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46D34/1",
@@ -236589,7 +236589,7 @@
   "offset": "1524",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46D98/0",
@@ -236598,7 +236598,7 @@
   "offset": "1544",
   "jp": "魔導研究施設　廃棄棟",
   "en": "Magic Lab Waste Block",
-  "zh": ""
+  "zh": "魔导研究设施　废弃楼栋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46D98/1",
@@ -236607,7 +236607,7 @@
   "offset": "155A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46DFC/0",
@@ -236616,7 +236616,7 @@
   "offset": "157A",
   "jp": "魔導研究施設　飼育棟",
   "en": "Magic Lab Rearing Block",
-  "zh": ""
+  "zh": "魔导研究设施　饲育楼栋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46DFC/1",
@@ -236625,7 +236625,7 @@
   "offset": "1590",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46E60/0",
@@ -236634,7 +236634,7 @@
   "offset": "15B0",
   "jp": "魔導研究施設　陳列棟",
   "en": "Magic Lab Exhibit Block",
-  "zh": ""
+  "zh": "魔导研究设施　陈列楼栋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46E60/1",
@@ -236643,7 +236643,7 @@
   "offset": "15C6",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46EC4/0",
@@ -236652,7 +236652,7 @@
   "offset": "15E6",
   "jp": "魔導研究施設　整備棟",
   "en": "Magic Lab Maintenance Block",
-  "zh": ""
+  "zh": "魔导研究设施　整备楼栋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46EC4/1",
@@ -236661,7 +236661,7 @@
   "offset": "15FC",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46F28/0",
@@ -236670,7 +236670,7 @@
   "offset": "161C",
   "jp": "魔導研究施設　臨床棟",
   "en": "Magic Lab Clinic Block",
-  "zh": ""
+  "zh": "魔导研究设施　临床楼栋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46F28/1",
@@ -236679,7 +236679,7 @@
   "offset": "1632",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46F8C/0",
@@ -236688,7 +236688,7 @@
   "offset": "1652",
   "jp": "魔導研究施設　実験棟",
   "en": "Magic Lab Experiment Block",
-  "zh": ""
+  "zh": "魔导研究设施　实验楼栋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/46F8C/1",
@@ -236697,7 +236697,7 @@
   "offset": "1668",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/493E0/0",
@@ -236706,7 +236706,7 @@
   "offset": "1688",
   "jp": "火翼宮　第一層",
   "en": "Fire Shrine 1st Level",
-  "zh": ""
+  "zh": "火翼宫　第一层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/493E0/1",
@@ -236715,7 +236715,7 @@
   "offset": "1698",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/49444/0",
@@ -236724,7 +236724,7 @@
   "offset": "16B8",
   "jp": "火翼宮　第二層",
   "en": "Fire Shrine 2nd Level",
-  "zh": ""
+  "zh": "火翼宫　第二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/49444/1",
@@ -236733,7 +236733,7 @@
   "offset": "16C8",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/494A8/0",
@@ -236742,7 +236742,7 @@
   "offset": "16E8",
   "jp": "火翼宮　火翼神殿",
   "en": "Fire Shrine Fire Temple",
-  "zh": ""
+  "zh": "火翼宫　火翼神殿"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/494A8/1",
@@ -236751,7 +236751,7 @@
   "offset": "16FA",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/61A80/0",
@@ -236760,7 +236760,7 @@
   "offset": "171A",
   "jp": "ノードニア山地　渓谷",
   "en": "Nordnia Mines Gorge",
-  "zh": ""
+  "zh": "诺德尼亚山地　溪谷"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/61A80/1",
@@ -236769,7 +236769,7 @@
   "offset": "1730",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/61B48/0",
@@ -236778,7 +236778,7 @@
   "offset": "1750",
   "jp": "ノードニア山地　廃坑道",
   "en": "Nordnia Mines Abandoned Mine",
-  "zh": ""
+  "zh": "诺德尼亚山地　废弃坑道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/61B48/1",
@@ -236787,7 +236787,7 @@
   "offset": "1768",
   "jp": "Map表示用　（1030後閑）",
   "en": "Map表示用　（1030後閑）",
-  "zh": ""
+  "zh": "地图显示用　（1030后闲）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64190/0",
@@ -236796,7 +236796,7 @@
   "offset": "1788",
   "jp": "ドルメン遺跡　外郭",
   "en": "Dolmen Ruins Exterior",
-  "zh": ""
+  "zh": "多尔门遗迹　外郭"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64190/1",
@@ -236805,7 +236805,7 @@
   "offset": "179C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64258/0",
@@ -236814,7 +236814,7 @@
   "offset": "17BC",
   "jp": "ドルメン遺跡　広間",
   "en": "Dolmen Ruins Main Chamber",
-  "zh": ""
+  "zh": "多尔门遗迹　大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64258/1",
@@ -236823,7 +236823,7 @@
   "offset": "17D0",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64320/0",
@@ -236832,7 +236832,7 @@
   "offset": "17F0",
   "jp": "ドルメン遺跡　食堂",
   "en": "Dolmen Ruins Refectory",
-  "zh": ""
+  "zh": "多尔门遗迹　食堂"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64320/1",
@@ -236841,7 +236841,7 @@
   "offset": "1804",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64384/0",
@@ -236850,7 +236850,7 @@
   "offset": "1824",
   "jp": "ドルメン遺跡　宿坊",
   "en": "Dolmen Ruins Dormitory",
-  "zh": ""
+  "zh": "多尔门遗迹　僧房"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/64384/1",
@@ -236859,7 +236859,7 @@
   "offset": "1838",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6444C/0",
@@ -236868,7 +236868,7 @@
   "offset": "1858",
   "jp": "ドルメン遺跡　作戦室",
   "en": "Dolmen Ruins Operations Room",
-  "zh": ""
+  "zh": "多尔门遗迹　作战室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6444C/1",
@@ -236877,7 +236877,7 @@
   "offset": "186E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/668A0/0",
@@ -236886,7 +236886,7 @@
   "offset": "188E",
   "jp": "ロンドン城　廊下",
   "en": "Corridor",
-  "zh": ""
+  "zh": "伦敦城　回廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/668A0/1",
@@ -236895,7 +236895,7 @@
   "offset": "18A0",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66968/0",
@@ -236904,7 +236904,7 @@
   "offset": "18C0",
   "jp": "ロンドン城　執政室",
   "en": "Admin Chamber",
-  "zh": ""
+  "zh": "伦敦城　执政室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66968/1",
@@ -236913,7 +236913,7 @@
   "offset": "18D4",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/669CC/0",
@@ -236922,7 +236922,7 @@
   "offset": "18F4",
   "jp": "ロンドン城　王私室",
   "en": "Royal Quarters",
-  "zh": ""
+  "zh": "伦敦城　王私室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/669CC/1",
@@ -236931,7 +236931,7 @@
   "offset": "1908",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66A30/0",
@@ -236940,7 +236940,7 @@
   "offset": "1928",
   "jp": "ロンドン城　大広間",
   "en": "Grand Hall",
-  "zh": ""
+  "zh": "伦敦城　大厅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66A30/1",
@@ -236949,7 +236949,7 @@
   "offset": "193C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66A94/0",
@@ -236958,7 +236958,7 @@
   "offset": "195C",
   "jp": "ロンドン城　炎帝神殿",
   "en": "Inferno Temple",
-  "zh": ""
+  "zh": "伦敦城　炎帝神殿"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66A94/1",
@@ -236967,7 +236967,7 @@
   "offset": "1972",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66AF8/0",
@@ -236976,7 +236976,7 @@
   "offset": "1992",
   "jp": "ロンドン城　謁見の間",
   "en": "Audience Room",
-  "zh": ""
+  "zh": "伦敦城　觐见之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66AF8/1",
@@ -236985,7 +236985,7 @@
   "offset": "19A8",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66C24/0",
@@ -236994,7 +236994,7 @@
   "offset": "19C8",
   "jp": "ロンドン城　西貴賓室",
   "en": "West Suite",
-  "zh": ""
+  "zh": "伦敦城　西贵宾室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66C24/1",
@@ -237003,7 +237003,7 @@
   "offset": "19DE",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66C88/0",
@@ -237012,7 +237012,7 @@
   "offset": "19FE",
   "jp": "ロンドン城　東貴賓室",
   "en": "East Suite",
-  "zh": ""
+  "zh": "伦敦城　东贵宾室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/66C88/1",
@@ -237021,7 +237021,7 @@
   "offset": "1A14",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6B6C0/0",
@@ -237030,7 +237030,7 @@
   "offset": "1A34",
   "jp": "ロンドンシティ　大階段",
   "en": "London City Grand Steps",
-  "zh": ""
+  "zh": "伦敦城　大阶梯"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6B6C0/1",
@@ -237039,7 +237039,7 @@
   "offset": "1A4C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6B724/0",
@@ -237048,7 +237048,7 @@
   "offset": "1A6C",
   "jp": "ロンドンシティ　貧民街",
   "en": "London Inner City",
-  "zh": ""
+  "zh": "伦敦城　贫民街"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6B724/1",
@@ -237057,7 +237057,7 @@
   "offset": "1A84",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6B725/0",
@@ -237066,7 +237066,7 @@
   "offset": "1AA4",
   "jp": "救護所　ウィッシュ",
   "en": "Aid Station",
-  "zh": ""
+  "zh": "救护所　威许"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6DDD0/0",
@@ -237075,7 +237075,7 @@
   "offset": "1ABA",
   "jp": "炎帝神殿　追弔の路",
   "en": "Inferno Temple Hall of Grief",
-  "zh": ""
+  "zh": "炎帝神殿　追悼之道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6DDD0/1",
@@ -237084,7 +237084,7 @@
   "offset": "1ACE",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6DE34/0",
@@ -237093,7 +237093,7 @@
   "offset": "1AEE",
   "jp": "炎帝神殿　墓守の間",
   "en": "Inferno Temple Grave Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　守墓之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6DE34/1",
@@ -237102,7 +237102,7 @@
   "offset": "1B02",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6DE98/0",
@@ -237111,7 +237111,7 @@
   "offset": "1B22",
   "jp": "炎帝神殿　瞑目の間",
   "en": "Inferno Temple Tyrant Cell",
-  "zh": ""
+  "zh": "炎帝神殿　瞑目之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6DE98/1",
@@ -237120,7 +237120,7 @@
   "offset": "1B36",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6E028/0",
@@ -237129,7 +237129,7 @@
   "offset": "1B56",
   "jp": "炎帝神殿　封印の間",
   "en": "Inferno Temple Seal Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　封印之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6E028/1",
@@ -237138,7 +237138,7 @@
   "offset": "1B6A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6E08C/0",
@@ -237147,7 +237147,7 @@
   "offset": "1B8A",
   "jp": "炎帝神殿　炎帝の路",
   "en": "Inferno Temple Royal Hallway",
-  "zh": ""
+  "zh": "炎帝神殿　炎帝之道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6E08C/1",
@@ -237156,7 +237156,7 @@
   "offset": "1B9E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6E0F0/0",
@@ -237165,7 +237165,7 @@
   "offset": "1BBE",
   "jp": "炎帝神殿　炎帝の間",
   "en": "Inferno Temple Royal Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　炎帝之间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/6E0F0/1",
@@ -237174,7 +237174,7 @@
   "offset": "1BD2",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/704E0/0",
@@ -237183,7 +237183,7 @@
   "offset": "1BF2",
   "jp": "水甲宮　第一層",
   "en": "Water Shrine 1st Level",
-  "zh": ""
+  "zh": "水甲宫　第一层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/70544/0",
@@ -237192,7 +237192,7 @@
   "offset": "1C04",
   "jp": "水甲宮　第二層",
   "en": "Water Shrine 2nd Level",
-  "zh": ""
+  "zh": "水甲宫　第二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/705A8/0",
@@ -237201,7 +237201,7 @@
   "offset": "1C16",
   "jp": "水甲宮　第三層",
   "en": "Water Shrine 3rd Level",
-  "zh": ""
+  "zh": "水甲宫　第三层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/7060C/0",
@@ -237210,7 +237210,7 @@
   "offset": "1C28",
   "jp": "水甲宮　水甲神殿",
   "en": "Water Shrine Water Temple",
-  "zh": ""
+  "zh": "水甲宫　水甲神殿"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/927C0/0",
@@ -237219,7 +237219,7 @@
   "offset": "1C3C",
   "jp": "ヤルツァンプ峡谷　東部",
   "en": "Yalzemp Gorge East",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　东部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/927C0/1",
@@ -237228,7 +237228,7 @@
   "offset": "1C54",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/92824/0",
@@ -237237,7 +237237,7 @@
   "offset": "1C74",
   "jp": "ヤルツァンプ峡谷　中部",
   "en": "Yalzemp Gorge Center",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　中部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/92824/1",
@@ -237246,7 +237246,7 @@
   "offset": "1C8C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/92888/0",
@@ -237255,7 +237255,7 @@
   "offset": "1CAC",
   "jp": "ヤルツァンプ峡谷　西部",
   "en": "Yalzemp Gorge West",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　西部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/92888/1",
@@ -237264,7 +237264,7 @@
   "offset": "1CC4",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/928EC/0",
@@ -237273,7 +237273,7 @@
   "offset": "1CE4",
   "jp": "ヤルツァンプ峡谷　盆地",
   "en": "Yalzemp Gorge Basin",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　盆地"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/928EC/1",
@@ -237282,7 +237282,7 @@
   "offset": "1CFC",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/94F34/0",
@@ -237291,7 +237291,7 @@
   "offset": "1D1C",
   "jp": "ズィラーヤ砂漠　遺跡",
   "en": "Zuala Desert Ruins",
-  "zh": ""
+  "zh": "兹拉亚沙漠　遗迹"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/94F34/1",
@@ -237300,7 +237300,7 @@
   "offset": "1D32",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/94F98/0",
@@ -237309,7 +237309,7 @@
   "offset": "1D52",
   "jp": "ズィラーヤ砂漠　大砂丘",
   "en": "Zuala Desert Dunes",
-  "zh": ""
+  "zh": "兹拉亚沙漠　大沙丘"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/94F98/1",
@@ -237318,7 +237318,7 @@
   "offset": "1D6A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/975E0/0",
@@ -237327,7 +237327,7 @@
   "offset": "1D8A",
   "jp": "ジャンクシティ　市街地",
   "en": "Junk City Downtown",
-  "zh": ""
+  "zh": "废品城　市区"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/975E0/1",
@@ -237336,7 +237336,7 @@
   "offset": "1DA2",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/975E1/0",
@@ -237345,7 +237345,7 @@
   "offset": "1DC2",
   "jp": "ユウキの家",
   "en": "Yuki's House",
-  "zh": ""
+  "zh": "勇树的家"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/975E2/0",
@@ -237354,7 +237354,7 @@
   "offset": "1DD0",
   "jp": "フバイル邸",
   "en": "Fubial's Manor",
-  "zh": ""
+  "zh": "富拜尔宅邸"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/975E3/0",
@@ -237363,7 +237363,7 @@
   "offset": "1DDE",
   "jp": "民家",
   "en": "Private Residence",
-  "zh": ""
+  "zh": "民宅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/975E4/0",
@@ -237372,7 +237372,7 @@
   "offset": "1DE6",
   "jp": "ゴーレム研究所　シェリー",
   "en": "Golem Lab",
-  "zh": ""
+  "zh": "魔像研究所　雪莉"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/976A8/0",
@@ -237381,7 +237381,7 @@
   "offset": "1E02",
   "jp": "ジャンクシティ　奇岩群",
   "en": "Junk City Rock Pinnacles",
-  "zh": ""
+  "zh": "废品城　奇岩群"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/976A8/1",
@@ -237390,7 +237390,7 @@
   "offset": "1E1A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/99CF0/0",
@@ -237399,7 +237399,7 @@
   "offset": "1E3A",
   "jp": "ヤマシロ湿原　湖沼",
   "en": "Yamashiro Marsh Lake",
-  "zh": ""
+  "zh": "山城湿地　湖沼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/99CF0/1",
@@ -237408,7 +237408,7 @@
   "offset": "1E4E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/99D54/0",
@@ -237417,7 +237417,7 @@
   "offset": "1E6E",
   "jp": "ヤマシロ湿原　大滝",
   "en": "Yamashiro Marsh Waterfall",
-  "zh": ""
+  "zh": "山城湿地　大瀑布"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/99D54/1",
@@ -237426,7 +237426,7 @@
   "offset": "1E82",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/99DB8/0",
@@ -237435,7 +237435,7 @@
   "offset": "1EA2",
   "jp": "ヤマシロ湿原　山林",
   "en": "Yamashiro Marsh Forest",
-  "zh": ""
+  "zh": "山城湿地　山林"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/99DB8/1",
@@ -237444,7 +237444,7 @@
   "offset": "1EB6",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C400/0",
@@ -237453,7 +237453,7 @@
   "offset": "1ED6",
   "jp": "キョウトシティ　市街地",
   "en": "Kyoto City Downtown",
-  "zh": ""
+  "zh": "京都城　市区"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C400/1",
@@ -237462,7 +237462,7 @@
   "offset": "1EEE",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C401/0",
@@ -237471,7 +237471,7 @@
   "offset": "1F0E",
   "jp": "反物　東陣",
   "en": "Mercer East",
-  "zh": ""
+  "zh": "布匹店　东阵"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C402/0",
@@ -237480,7 +237480,7 @@
   "offset": "1F1C",
   "jp": "食事処　八ツ坂",
   "en": "Yassaka Restaurant",
-  "zh": ""
+  "zh": "饭庄　八坂"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C403/0",
@@ -237489,7 +237489,7 @@
   "offset": "1F2E",
   "jp": "遊郭　吉川",
   "en": "Haru Restaurant",
-  "zh": ""
+  "zh": "游郭　吉川"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C404/0",
@@ -237498,7 +237498,7 @@
   "offset": "1F3C",
   "jp": "遊郭　登楼口",
   "en": "Haru Restaurant - VIP only",
-  "zh": ""
+  "zh": "游郭　登楼处"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C405/0",
@@ -237507,7 +237507,7 @@
   "offset": "1F4C",
   "jp": "長屋",
   "en": "Row House",
-  "zh": ""
+  "zh": "长屋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C406/0",
@@ -237516,7 +237516,7 @@
   "offset": "1F54",
   "jp": "旅籠　藤屋",
   "en": "Fujiya Inn",
-  "zh": ""
+  "zh": "旅店　藤屋"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C407/0",
@@ -237525,7 +237525,7 @@
   "offset": "1F62",
   "jp": "商　萬屋一号店",
   "en": "Merchant Yorozuya 1",
-  "zh": ""
+  "zh": "商铺　万屋一号店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C408/0",
@@ -237534,7 +237534,7 @@
   "offset": "1F74",
   "jp": "商　萬屋二号店",
   "en": "Merchant Yorozuya 2",
-  "zh": ""
+  "zh": "商　杂货屋二号店"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9C409/0",
@@ -237543,7 +237543,7 @@
   "offset": "1F86",
   "jp": "廃寺",
   "en": "Abandoned Temple",
-  "zh": ""
+  "zh": "荒废寺院"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9EB74/0",
@@ -237552,7 +237552,7 @@
   "offset": "1F8E",
   "jp": "キョウト城　天守",
   "en": "Kyoto Castle Tower",
-  "zh": ""
+  "zh": "京都城　天守阁"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9EB74/1",
@@ -237561,7 +237561,7 @@
   "offset": "1FA0",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9EBD8/0",
@@ -237570,7 +237570,7 @@
   "offset": "1FC0",
   "jp": "キョウト城　大広間",
   "en": "Kyoto Castle Great Hall",
-  "zh": ""
+  "zh": "京都城　大广间"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9EBD8/1",
@@ -237579,7 +237579,7 @@
   "offset": "1FD4",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9ECA0/0",
@@ -237588,7 +237588,7 @@
   "offset": "1FF4",
   "jp": "キョウト城　ショウグン寝所",
   "en": "Kyoto Castle Shogun's Room",
-  "zh": ""
+  "zh": "京都城　将军起居室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9ECA0/1",
@@ -237597,7 +237597,7 @@
   "offset": "2010",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9ED04/0",
@@ -237606,7 +237606,7 @@
   "offset": "2030",
   "jp": "キョウト城　地下道",
   "en": "Kyoto Castle Underground",
-  "zh": ""
+  "zh": "京都城　地下通道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/9ED04/1",
@@ -237615,7 +237615,7 @@
   "offset": "2044",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1220/0",
@@ -237624,7 +237624,7 @@
   "offset": "2064",
   "jp": "イワトの里　里内",
   "en": "Iwato Village Inner Hamlet",
-  "zh": ""
+  "zh": "岩户之里　村内"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1220/1",
@@ -237633,7 +237633,7 @@
   "offset": "2076",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1221/0",
@@ -237642,7 +237642,7 @@
   "offset": "2096",
   "jp": "鍛冶　正桜",
   "en": "Blacksmith Shozakura",
-  "zh": ""
+  "zh": "锻造　正樱"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1222/0",
@@ -237651,7 +237651,7 @@
   "offset": "20A4",
   "jp": "薬師　富士堂",
   "en": "Fujido Pharmacy",
-  "zh": ""
+  "zh": "药铺　富士堂"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1223/0",
@@ -237660,7 +237660,7 @@
   "offset": "20B4",
   "jp": "民家",
   "en": "Private Residence",
-  "zh": ""
+  "zh": "民宅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1224/0",
@@ -237669,7 +237669,7 @@
   "offset": "20BC",
   "jp": "民家",
   "en": "Private Residence",
-  "zh": ""
+  "zh": "民宅"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1225/0",
@@ -237678,7 +237678,7 @@
   "offset": "20C4",
   "jp": "祠",
   "en": "Small Shrine",
-  "zh": ""
+  "zh": "小祠"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1284/0",
@@ -237687,7 +237687,7 @@
   "offset": "20CA",
   "jp": "イワトの里　屋敷（サヤカの家）",
   "en": "Iwato Village Sayaka's House",
-  "zh": ""
+  "zh": "岩户之里　宅邸（小夜香的家）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A1284/1",
@@ -237696,7 +237696,7 @@
   "offset": "20EA",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3930/0",
@@ -237705,7 +237705,7 @@
   "offset": "210A",
   "jp": "ニンジャ屋敷　屋敷前",
   "en": "Ninja Hideout Front",
-  "zh": ""
+  "zh": "忍者宅邸　宅邸前"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3930/1",
@@ -237714,7 +237714,7 @@
   "offset": "2120",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3931/0",
@@ -237723,7 +237723,7 @@
   "offset": "2140",
   "jp": "ニンジャ屋敷　廊下",
   "en": "Ninja Hideout Corridor",
-  "zh": ""
+  "zh": "忍者宅邸　走廊"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3932/0",
@@ -237732,7 +237732,7 @@
   "offset": "2156",
   "jp": "ニンジャ屋敷　二階",
   "en": "Ninja Hideout 2nd Floor",
-  "zh": ""
+  "zh": "忍者宅邸　二楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3994/0",
@@ -237741,7 +237741,7 @@
   "offset": "216C",
   "jp": "ニンジャ屋敷　地下道",
   "en": "Ninja Hideout Underground",
-  "zh": ""
+  "zh": "忍者宅邸　地下通道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3994/1",
@@ -237750,7 +237750,7 @@
   "offset": "2182",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A39F8/0",
@@ -237759,7 +237759,7 @@
   "offset": "21A2",
   "jp": "ニンジャ屋敷　居間周辺",
   "en": "Ninja Hideout Living Rooms",
-  "zh": ""
+  "zh": "忍者宅邸　居室周边"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A39F8/1",
@@ -237768,7 +237768,7 @@
   "offset": "21BA",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3B88/0",
@@ -237777,7 +237777,7 @@
   "offset": "21DA",
   "jp": "ニンジャ屋敷　物見",
   "en": "Ninja Hideout Lookout",
-  "zh": ""
+  "zh": "忍者宅邸　望楼"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3B88/1",
@@ -237786,7 +237786,7 @@
   "offset": "21EE",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3BEC/0",
@@ -237795,7 +237795,7 @@
   "offset": "220E",
   "jp": "ニンジャ屋敷　岩屋",
   "en": "Ninja Hideout Stone Chamber",
-  "zh": ""
+  "zh": "忍者宅邸　石室"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A3BEC/1",
@@ -237804,7 +237804,7 @@
   "offset": "2222",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A6040/0",
@@ -237813,7 +237813,7 @@
   "offset": "2242",
   "jp": "修験場　参道",
   "en": "Ascetic Court Approach",
-  "zh": ""
+  "zh": "修验场　参道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A6040/1",
@@ -237822,7 +237822,7 @@
   "offset": "2250",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A60A4/0",
@@ -237831,7 +237831,7 @@
   "offset": "2270",
   "jp": "修験場　渓流",
   "en": "Ascetic Court Stream",
-  "zh": ""
+  "zh": "修验场　溪流"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A60A4/1",
@@ -237840,7 +237840,7 @@
   "offset": "227E",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "Map表示用　（1031本橋）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A6108/0",
@@ -237849,7 +237849,7 @@
   "offset": "229E",
   "jp": "修験場　断崖",
   "en": "Ascetic Court Cliff",
-  "zh": ""
+  "zh": "修验场　断崖"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A6108/1",
@@ -237858,7 +237858,7 @@
   "offset": "22AC",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A616C/0",
@@ -237867,7 +237867,7 @@
   "offset": "22CC",
   "jp": "修験場　霊域",
   "en": "Ascetic Court Spirit Region",
-  "zh": ""
+  "zh": "修验场　灵域"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A616C/1",
@@ -237876,7 +237876,7 @@
   "offset": "22DA",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A61D0/0",
@@ -237885,7 +237885,7 @@
   "offset": "22FA",
   "jp": "修験場　砦将の社",
   "en": "Ascetic Court Earth Temple",
-  "zh": ""
+  "zh": "修验场　砦将之祠"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A61D0/1",
@@ -237894,7 +237894,7 @@
   "offset": "230C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A6234/0",
@@ -237903,7 +237903,7 @@
   "offset": "232C",
   "jp": "修験場　峠",
   "en": "Ascetic Courtyard Pass",
-  "zh": ""
+  "zh": "修验场　山隘"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A6234/1",
@@ -237912,7 +237912,7 @@
   "offset": "2338",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A8750/0",
@@ -237921,7 +237921,7 @@
   "offset": "2358",
   "jp": "風鱗宮　第一層",
   "en": "Wind Shrine 1st Level",
-  "zh": ""
+  "zh": "风鳞宫　第一层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A87B4/0",
@@ -237930,7 +237930,7 @@
   "offset": "236A",
   "jp": "風鱗宮　第二層",
   "en": "Wind Shrine 2nd Level",
-  "zh": ""
+  "zh": "风鳞宫　第二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A8818/0",
@@ -237939,7 +237939,7 @@
   "offset": "237C",
   "jp": "風鱗宮　第三層",
   "en": "Wind Shrine 3rd Level",
-  "zh": ""
+  "zh": "风鳞宫　第三层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A887C/0",
@@ -237948,7 +237948,7 @@
   "offset": "238E",
   "jp": "風鱗宮　第四層",
   "en": "Wind Shrine 4th Level",
-  "zh": ""
+  "zh": "风鳞宫　第四层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A88E0/0",
@@ -237957,7 +237957,7 @@
   "offset": "23A0",
   "jp": "風鱗宮　第五層",
   "en": "Wind Shrine 5th Level",
-  "zh": ""
+  "zh": "风鳞宫　第五层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/A8944/0",
@@ -237966,7 +237966,7 @@
   "offset": "23B2",
   "jp": "風鱗宮　風鱗神殿",
   "en": "Wind Shrine Wind Temple",
-  "zh": ""
+  "zh": "风鳞宫　风鳞神殿"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C35C8/0",
@@ -237975,7 +237975,7 @@
   "offset": "23C6",
   "jp": "ヴェオヴィス火山　風穴",
   "en": "Vorbios Volcano Wind Tunnel",
-  "zh": ""
+  "zh": "维奥维斯火山　风穴"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C35C8/1",
@@ -237984,7 +237984,7 @@
   "offset": "23DE",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C362C/0",
@@ -237993,7 +237993,7 @@
   "offset": "23FE",
   "jp": "ヴェオヴィス火山　溶岩洞",
   "en": "Vorbios Volcano Magma Cave",
-  "zh": ""
+  "zh": "维奥维斯火山　熔岩洞"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C362C/1",
@@ -238002,7 +238002,7 @@
   "offset": "2418",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C3690/0",
@@ -238011,7 +238011,7 @@
   "offset": "2438",
   "jp": "ヴェオヴィス火山　山頂",
   "en": "Vorbios Volcano Summit",
-  "zh": ""
+  "zh": "维奥维斯火山　山顶"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C3690/1",
@@ -238020,7 +238020,7 @@
   "offset": "2450",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5C10/0",
@@ -238029,7 +238029,7 @@
   "offset": "2470",
   "jp": "賢者の塔　中央部",
   "en": "Sage's Tower Center",
-  "zh": ""
+  "zh": "贤者之塔　中央部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5C10/1",
@@ -238038,7 +238038,7 @@
   "offset": "2482",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5C74/0",
@@ -238047,7 +238047,7 @@
   "offset": "24A2",
   "jp": "賢者の塔　頂上部",
   "en": "Sage's Tower Top Level",
-  "zh": ""
+  "zh": "贤者之塔　顶部"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5C74/1",
@@ -238056,7 +238056,7 @@
   "offset": "24B4",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5CD8/0",
@@ -238065,7 +238065,7 @@
   "offset": "24D4",
   "jp": "賢者の塔　第四層",
   "en": "Sage's Tower 4th Level",
-  "zh": ""
+  "zh": "贤者之塔　第四层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5CD8/1",
@@ -238074,7 +238074,7 @@
   "offset": "24E6",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5D3C/0",
@@ -238083,7 +238083,7 @@
   "offset": "2506",
   "jp": "賢者の塔　第二層",
   "en": "Sage's Tower 2nd Level",
-  "zh": ""
+  "zh": "贤者之塔　第二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5D3C/1",
@@ -238092,7 +238092,7 @@
   "offset": "2518",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5DA0/0",
@@ -238101,7 +238101,7 @@
   "offset": "2538",
   "jp": "賢者の塔　第三層",
   "en": "Sage's Tower 3rd Level",
-  "zh": ""
+  "zh": "贤者之塔　第三层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/C5DA0/1",
@@ -238110,7 +238110,7 @@
   "offset": "254A",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAA30/0",
@@ -238119,7 +238119,7 @@
   "offset": "256A",
   "jp": "神獣宮　参道",
   "en": "Holy Beast Shrine Approach",
-  "zh": ""
+  "zh": "神兽宫　参道"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAA30/1",
@@ -238128,7 +238128,7 @@
   "offset": "2578",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAA94/0",
@@ -238137,7 +238137,7 @@
   "offset": "2598",
   "jp": "神獣宮　第一層",
   "en": "Holy Beast Shrine 1st Level",
-  "zh": ""
+  "zh": "神兽宫　第一层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAA94/1",
@@ -238146,7 +238146,7 @@
   "offset": "25A8",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAAF8/0",
@@ -238155,7 +238155,7 @@
   "offset": "25C8",
   "jp": "神獣宮　第四層",
   "en": "Holy Beast Shrine 4th Level",
-  "zh": ""
+  "zh": "神兽宫　第四层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAAF8/1",
@@ -238164,7 +238164,7 @@
   "offset": "25D8",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAB5C/0",
@@ -238173,7 +238173,7 @@
   "offset": "25F8",
   "jp": "神獣宮　第七層",
   "en": "Holy Beast Shrine 7th Level",
-  "zh": ""
+  "zh": "神兽宫　第七层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAB5C/1",
@@ -238182,7 +238182,7 @@
   "offset": "2608",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CABC0/0",
@@ -238191,7 +238191,7 @@
   "offset": "2628",
   "jp": "神獣宮　第十層",
   "en": "Holy Beast Shrine 10th Level",
-  "zh": ""
+  "zh": "神兽宫　第十层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAC24/0",
@@ -238200,7 +238200,7 @@
   "offset": "263A",
   "jp": "神獣宮　神獣神殿",
   "en": "Holy Beast Shrine God Temple",
-  "zh": ""
+  "zh": "神兽宫　神兽神殿"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAC88/0",
@@ -238209,7 +238209,7 @@
   "offset": "264E",
   "jp": "神獣宮　第二層",
   "en": "Holy Beast Shrine 2nd Level",
-  "zh": ""
+  "zh": "神兽宫　第二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CACEC/0",
@@ -238218,7 +238218,7 @@
   "offset": "2660",
   "jp": "神獣宮　第三層",
   "en": "Holy Beast Shrine 3rd Level",
-  "zh": ""
+  "zh": "神兽宫　第三层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAD50/0",
@@ -238227,7 +238227,7 @@
   "offset": "2672",
   "jp": "神獣宮　第五層",
   "en": "Holy Beast Shrine 5th Level",
-  "zh": ""
+  "zh": "神兽宫　第五层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CADB4/0",
@@ -238236,7 +238236,7 @@
   "offset": "2684",
   "jp": "神獣宮　第六層",
   "en": "Holy Beast Shrine 6th Level",
-  "zh": ""
+  "zh": "神兽宫　第六层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAE18/0",
@@ -238245,7 +238245,7 @@
   "offset": "2696",
   "jp": "神獣宮　第八層",
   "en": "Holy Beast Shrine 8th Level",
-  "zh": ""
+  "zh": "神兽宫　第八层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAE7C/0",
@@ -238254,7 +238254,7 @@
   "offset": "26A8",
   "jp": "神獣宮　第九層",
   "en": "Holy Beast Shrine 9th Level",
-  "zh": ""
+  "zh": "神兽宫　第九层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAEE0/0",
@@ -238263,7 +238263,7 @@
   "offset": "26BA",
   "jp": "神獣宮　第十一層",
   "en": "Holy Beast Shrine 11th Level",
-  "zh": ""
+  "zh": "神兽宫　第十一层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CAF44/0",
@@ -238272,7 +238272,7 @@
   "offset": "26CE",
   "jp": "神獣宮　第十二層",
   "en": "Holy Beast Shrine 12th Level",
-  "zh": ""
+  "zh": "神兽宫　第十二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CD140/0",
@@ -238281,7 +238281,7 @@
   "offset": "26E2",
   "jp": "墓守の村",
   "en": "Gravekeep Holm",
-  "zh": ""
+  "zh": "守墓人村"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/CD140/1",
@@ -238290,7 +238290,7 @@
   "offset": "26EC",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D1F60/0",
@@ -238299,7 +238299,7 @@
   "offset": "270C",
   "jp": "氷城　外苑",
   "en": "Ice Castle Outer Gardens",
-  "zh": ""
+  "zh": "冰城　外苑"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D1F60/1",
@@ -238308,7 +238308,7 @@
   "offset": "2718",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D1FC4/0",
@@ -238317,7 +238317,7 @@
   "offset": "2738",
   "jp": "氷城　内苑",
   "en": "Ice Castle Inner Gardens",
-  "zh": ""
+  "zh": "冰城　内苑"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D1FC4/1",
@@ -238326,7 +238326,7 @@
   "offset": "2744",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D2028/0",
@@ -238335,7 +238335,7 @@
   "offset": "2764",
   "jp": "氷城　聖堂",
   "en": "Ice Castle Shrine",
-  "zh": ""
+  "zh": "冰城　圣堂"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D2028/1",
@@ -238344,7 +238344,7 @@
   "offset": "2770",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D208C/0",
@@ -238353,7 +238353,7 @@
   "offset": "2790",
   "jp": "氷城　地下",
   "en": "Ice Castle Underground",
-  "zh": ""
+  "zh": "冰城　地下"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D208C/1",
@@ -238362,7 +238362,7 @@
   "offset": "279C",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D4670/0",
@@ -238371,7 +238371,7 @@
   "offset": "27BC",
   "jp": "土牙宮　第二層",
   "en": "Earth Shrine 2nd Level",
-  "zh": ""
+  "zh": "土牙宫　第二层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D4670/1",
@@ -238380,7 +238380,7 @@
   "offset": "27CC",
   "jp": "Map表示用　（1108後閑）",
   "en": "Map表示用　（1108後閑）",
-  "zh": ""
+  "zh": "地图显示用　（1108后闲）"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D46D4/0",
@@ -238389,7 +238389,7 @@
   "offset": "27EC",
   "jp": "土牙宮　第一層",
   "en": "Earth Shrine 1st Level",
-  "zh": ""
+  "zh": "土牙宫　第一层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D4738/0",
@@ -238398,7 +238398,7 @@
   "offset": "27FE",
   "jp": "土牙宮　第三層",
   "en": "Earth Shrine 3rd Level",
-  "zh": ""
+  "zh": "土牙宫　第三层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D479C/0",
@@ -238407,7 +238407,7 @@
   "offset": "2810",
   "jp": "土牙宮　第四層",
   "en": "Earth Shrine 4th Level",
-  "zh": ""
+  "zh": "土牙宫　第四层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D4800/0",
@@ -238416,7 +238416,7 @@
   "offset": "2822",
   "jp": "土牙宮　第五層",
   "en": "Earth Shrine 5th Level",
-  "zh": ""
+  "zh": "土牙宫　第五层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D4864/0",
@@ -238425,7 +238425,7 @@
   "offset": "2834",
   "jp": "土牙宮　第六層",
   "en": "Earth Shrine 6th Level",
-  "zh": ""
+  "zh": "土牙宫　第六层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D48C8/0",
@@ -238434,7 +238434,7 @@
   "offset": "2846",
   "jp": "土牙宮　第七層",
   "en": "Earth Shrine 7th Level",
-  "zh": ""
+  "zh": "土牙宫　第七层"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/D492C/0",
@@ -238443,7 +238443,7 @@
   "offset": "2858",
   "jp": "土牙宮　土牙神殿",
   "en": "Earth Shrine Earth Temple",
-  "zh": ""
+  "zh": "土牙宫　土牙神殿"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA0/0",
@@ -238452,7 +238452,7 @@
   "offset": "286C",
   "jp": "エンチャントルーレット",
   "en": "",
-  "zh": ""
+  "zh": "赋法轮盘"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA1/0",
@@ -238461,7 +238461,7 @@
   "offset": "2886",
   "jp": "エンチャントスロット",
   "en": "",
-  "zh": ""
+  "zh": "赋法老虎机"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA2/0",
@@ -238470,7 +238470,7 @@
   "offset": "289E",
   "jp": "エンチャントビンゴ",
   "en": "",
-  "zh": ""
+  "zh": "赋法宾果"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA3/0",
@@ -238479,7 +238479,7 @@
   "offset": "28B4",
   "jp": "アームレスリング",
   "en": "",
-  "zh": ""
+  "zh": "掰手腕"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA4/0",
@@ -238488,7 +238488,7 @@
   "offset": "28C8",
   "jp": "エンチャントクイズ",
   "en": "",
-  "zh": ""
+  "zh": "赋法竞猜"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA5/0",
@@ -238497,7 +238497,7 @@
   "offset": "28DE",
   "jp": "カジノ",
   "en": "Casino",
-  "zh": ""
+  "zh": "赌场"
  },
  {
   "id": "OTHER/SHOPLIST.TXT/DBBA5/1",
@@ -238506,7 +238506,7 @@
   "offset": "28E6",
   "jp": "Map表示用　（1031本橋）",
   "en": "Map表示用　（1031本橋）",
-  "zh": ""
+  "zh": "地图显示用　（1031本桥）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/0/0",
