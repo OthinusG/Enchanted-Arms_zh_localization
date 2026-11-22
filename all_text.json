@@ -262338,7 +262338,7 @@
   "offset": "1794",
   "jp": "進む",
   "en": "Continue",
-  "zh": ""
+  "zh": "继续"
  },
  {
   "id": "FMG/MENU.FMG/201",
@@ -262347,7 +262347,7 @@
   "offset": "179A",
   "jp": "このゲームはフィクションです",
   "en": "This game is a work of fiction.",
-  "zh": ""
+  "zh": "本游戏纯属虚构"
  },
  {
   "id": "FMG/MENU.FMG/202",
@@ -262356,7 +262356,7 @@
   "offset": "17B8",
   "jp": "実在の人物・地名・団体とは一切関係ありません",
   "en": "It has no relation to any actual person, place or group.",
-  "zh": ""
+  "zh": "与实际存在的人物、地名及团体均无任何关系"
  },
  {
   "id": "FMG/MENU.FMG/203",
@@ -262365,7 +262365,7 @@
   "offset": "17E6",
   "jp": "本デモソフトは、実際の製品版とは内容が",
   "en": "This demo may differ in content from the",
-  "zh": ""
+  "zh": "本体验版的内容可能与实际的"
  },
  {
   "id": "FMG/MENU.FMG/204",
@@ -262374,7 +262374,7 @@
   "offset": "180E",
   "jp": "異なります。また、開発中のバージョンの",
   "en": "finished product. As it is a development",
-  "zh": ""
+  "zh": "正式版有所不同。此外，由于尚处于"
  },
  {
   "id": "FMG/MENU.FMG/205",
@@ -262383,7 +262383,7 @@
   "offset": "1836",
   "jp": "ため正常に作動しないなど、予期できない",
   "en": "version you may also encounter errors or",
-  "zh": ""
+  "zh": "开发阶段，可能会发生无法正常运行等"
  },
  {
   "id": "FMG/MENU.FMG/206",
@@ -262392,7 +262392,7 @@
   "offset": "185E",
   "jp": "不具合が発見される場合があります。",
   "en": "problems that will not be present in the",
-  "zh": ""
+  "zh": "未预料到的异常情况。"
  },
  {
   "id": "FMG/MENU.FMG/207",
@@ -262401,7 +262401,7 @@
   "offset": "1882",
   "jp": "finished product.",
   "en": "finished product.",
-  "zh": ""
+  "zh": "finished product."
  },
  {
   "id": "FMG/MENU.FMG/304",
@@ -262410,7 +262410,7 @@
   "offset": "18A6",
   "jp": "⑳2006,2007 FromSoftware, Inc. All rights reserved.",
   "en": "⑳2006-2007 FromSoftware, Inc. All rights reserved.\nPublished and distributed by UBISOFT Entertainment under license from FromSoftware. \nEnchanted Arms is a trademark of FromSoftware and is used under license.",
-  "zh": ""
+  "zh": "⑳2006,2007 FromSoftware, Inc. All rights reserved."
  },
  {
   "id": "FMG/MENU.FMG/324",
@@ -262419,7 +262419,7 @@
   "offset": "190C",
   "jp": "⑳2006 FromSoftware, Inc. All rights reserved.",
   "en": "⑳2006,2007 FromSoftware, Inc. All rights reserved.\nPublished and distributed by UBISOFT Entertainment under license from FromSoftware. \nEnchanted Arms is a trademark of FromSoftware and is used under license.",
-  "zh": ""
+  "zh": "⑳2006 FromSoftware, Inc. All rights reserved."
  },
  {
   "id": "FMG/MENU.FMG/10001",
@@ -262428,7 +262428,7 @@
   "offset": "1968",
   "jp": "メインメニュー",
   "en": "Main Menu",
-  "zh": ""
+  "zh": "主菜单"
  },
  {
   "id": "FMG/MENU.FMG/10002",
@@ -262437,7 +262437,7 @@
   "offset": "1978",
   "jp": "パーティ編成",
   "en": "Edit Party",
-  "zh": ""
+  "zh": "队伍整编"
  },
  {
   "id": "FMG/MENU.FMG/10003",
@@ -262446,7 +262446,7 @@
   "offset": "1986",
   "jp": "キャラクター",
   "en": "Character",
-  "zh": ""
+  "zh": "角色"
  },
  {
   "id": "FMG/MENU.FMG/10004",
@@ -262455,7 +262455,7 @@
   "offset": "1994",
   "jp": "アイテム",
   "en": "Item",
-  "zh": ""
+  "zh": "道具"
  },
  {
   "id": "FMG/MENU.FMG/10005",
@@ -262464,7 +262464,7 @@
   "offset": "199E",
   "jp": "マップ",
   "en": "Map",
-  "zh": ""
+  "zh": "地图"
  },
  {
   "id": "FMG/MENU.FMG/10006",
@@ -262473,7 +262473,7 @@
   "offset": "19A6",
   "jp": "達成度",
   "en": "Completion",
-  "zh": ""
+  "zh": "达成度"
  },
  {
   "id": "FMG/MENU.FMG/10007",
@@ -262482,7 +262482,7 @@
   "offset": "19AE",
   "jp": "ヘルプ",
   "en": "Help",
-  "zh": ""
+  "zh": "帮助"
  },
  {
   "id": "FMG/MENU.FMG/10008",
@@ -262491,7 +262491,7 @@
   "offset": "19B6",
   "jp": "セーブ",
   "en": "Save",
-  "zh": ""
+  "zh": "保存"
  },
  {
   "id": "FMG/MENU.FMG/10009",
@@ -262500,7 +262500,7 @@
   "offset": "19BE",
   "jp": "ロード",
   "en": "Load",
-  "zh": ""
+  "zh": "读取"
  },
  {
   "id": "FMG/MENU.FMG/10010",
@@ -262509,7 +262509,7 @@
   "offset": "19C6",
   "jp": "システム",
   "en": "System",
-  "zh": ""
+  "zh": "系统"
  },
  {
   "id": "FMG/MENU.FMG/10011",
@@ -262518,7 +262518,7 @@
   "offset": "19D0",
   "jp": "スキル",
   "en": "Skills",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/10012",
@@ -262527,7 +262527,7 @@
   "offset": "19D8",
   "jp": "インフォメーション",
   "en": "Information",
-  "zh": ""
+  "zh": "资讯"
  },
  {
   "id": "FMG/MENU.FMG/10013",
@@ -262536,7 +262536,7 @@
   "offset": "19EC",
   "jp": "データ削除",
   "en": "Delete Data",
-  "zh": ""
+  "zh": "删除数据"
  },
  {
   "id": "FMG/MENU.FMG/10050",
@@ -262545,7 +262545,7 @@
   "offset": "19F8",
   "jp": "総プレイ時間",
   "en": "Total Play Time",
-  "zh": ""
+  "zh": "总游戏时间"
  },
  {
   "id": "FMG/MENU.FMG/10051",
@@ -262554,7 +262554,7 @@
   "offset": "1A06",
   "jp": "所持ＴＢ",
   "en": "Total TB",
-  "zh": ""
+  "zh": "持有ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/10052",
@@ -262563,7 +262563,7 @@
   "offset": "1A10",
   "jp": "現在地",
   "en": "Location",
-  "zh": ""
+  "zh": "当前位置"
  },
  {
   "id": "FMG/MENU.FMG/10053",
@@ -262572,7 +262572,7 @@
   "offset": "1A18",
   "jp": "ストーリーの目的",
   "en": "Objective",
-  "zh": ""
+  "zh": "剧情目标"
  },
  {
   "id": "FMG/MENU.FMG/10054",
@@ -262581,7 +262581,7 @@
   "offset": "1A2A",
   "jp": "%d:%d:%d",
   "en": "%d:%d:%d",
-  "zh": ""
+  "zh": "%d:%d:%d"
  },
  {
   "id": "FMG/MENU.FMG/10101",
@@ -262590,7 +262590,7 @@
   "offset": "1A3C",
   "jp": "キャラクター",
   "en": "Character",
-  "zh": ""
+  "zh": "角色"
  },
  {
   "id": "FMG/MENU.FMG/10201",
@@ -262599,7 +262599,7 @@
   "offset": "1A4A",
   "jp": "キャラクター",
   "en": "Character",
-  "zh": ""
+  "zh": "角色"
  },
  {
   "id": "FMG/MENU.FMG/10202",
@@ -262608,7 +262608,7 @@
   "offset": "1A58",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/10203",
@@ -262617,7 +262617,7 @@
   "offset": "1A64",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/10204",
@@ -262626,7 +262626,7 @@
   "offset": "1A6C",
   "jp": "アビリティ",
   "en": "Ability",
-  "zh": ""
+  "zh": "能力"
  },
  {
   "id": "FMG/MENU.FMG/10205",
@@ -262635,7 +262635,7 @@
   "offset": "1A78",
   "jp": "成長",
   "en": "Parameter",
-  "zh": ""
+  "zh": "成长"
  },
  {
   "id": "FMG/MENU.FMG/10206",
@@ -262644,7 +262644,7 @@
   "offset": "1A7E",
   "jp": "武器",
   "en": "Weapon",
-  "zh": ""
+  "zh": "武器"
  },
  {
   "id": "FMG/MENU.FMG/10207",
@@ -262653,7 +262653,7 @@
   "offset": "1A84",
   "jp": "キャラクター名変更",
   "en": "Character Name Change",
-  "zh": ""
+  "zh": "更改角色名"
  },
  {
   "id": "FMG/MENU.FMG/10208",
@@ -262662,7 +262662,7 @@
   "offset": "1A98",
   "jp": "キャラクター紹介",
   "en": "Character Bio",
-  "zh": ""
+  "zh": "角色介绍"
  },
  {
   "id": "FMG/MENU.FMG/10250",
@@ -262671,7 +262671,7 @@
   "offset": "1AAA",
   "jp": "インフォメーション",
   "en": "Information",
-  "zh": ""
+  "zh": "信息"
  },
  {
   "id": "FMG/MENU.FMG/10251",
@@ -262680,7 +262680,7 @@
   "offset": "1ABE",
   "jp": "マップ",
   "en": "Map",
-  "zh": ""
+  "zh": "地图"
  },
  {
   "id": "FMG/MENU.FMG/10252",
@@ -262689,7 +262689,7 @@
   "offset": "1AC6",
   "jp": "達成度",
   "en": "Complete %",
-  "zh": ""
+  "zh": "达成率"
  },
  {
   "id": "FMG/MENU.FMG/10253",
@@ -262698,7 +262698,7 @@
   "offset": "1ACE",
   "jp": "ヘルプ",
   "en": "Help",
-  "zh": ""
+  "zh": "帮助"
  },
  {
   "id": "FMG/MENU.FMG/10301",
@@ -262707,7 +262707,7 @@
   "offset": "1AD6",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/10302",
@@ -262716,7 +262716,7 @@
   "offset": "1AE2",
   "jp": "名称",
   "en": "Name",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/10303",
@@ -262725,7 +262725,7 @@
   "offset": "1AE8",
   "jp": "属性",
   "en": "Attribute",
-  "zh": ""
+  "zh": "属性"
  },
  {
   "id": "FMG/MENU.FMG/10304",
@@ -262734,7 +262734,7 @@
   "offset": "1AEE",
   "jp": "武器",
   "en": "Weapon",
-  "zh": ""
+  "zh": "武器"
  },
  {
   "id": "FMG/MENU.FMG/10305",
@@ -262743,7 +262743,7 @@
   "offset": "1AF4",
   "jp": "装飾品",
   "en": "Accessories",
-  "zh": ""
+  "zh": "饰品"
  },
  {
   "id": "FMG/MENU.FMG/10306",
@@ -262752,7 +262752,7 @@
   "offset": "1AFC",
   "jp": "ＳＰ",
   "en": "SP",
-  "zh": ""
+  "zh": "ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/10307",
@@ -262761,7 +262761,7 @@
   "offset": "1B02",
   "jp": "ＬＶ",
   "en": "LV",
-  "zh": ""
+  "zh": "ＬＶ"
  },
  {
   "id": "FMG/MENU.FMG/10308",
@@ -262770,7 +262770,7 @@
   "offset": "1B08",
   "jp": "ＨＰ",
   "en": "HP",
-  "zh": ""
+  "zh": "ＨＰ"
  },
  {
   "id": "FMG/MENU.FMG/10309",
@@ -262779,7 +262779,7 @@
   "offset": "1B0E",
   "jp": "ＥＰ",
   "en": "EP",
-  "zh": ""
+  "zh": "ＥＰ"
  },
  {
   "id": "FMG/MENU.FMG/10310",
@@ -262788,7 +262788,7 @@
   "offset": "1B14",
   "jp": "攻撃",
   "en": "Attack",
-  "zh": ""
+  "zh": "攻击"
  },
  {
   "id": "FMG/MENU.FMG/10311",
@@ -262797,7 +262797,7 @@
   "offset": "1B1A",
   "jp": "魔法攻撃",
   "en": "Magic Attack",
-  "zh": ""
+  "zh": "魔法攻击"
  },
  {
   "id": "FMG/MENU.FMG/10312",
@@ -262806,7 +262806,7 @@
   "offset": "1B24",
   "jp": "素早さ",
   "en": "Agility",
-  "zh": ""
+  "zh": "速度"
  },
  {
   "id": "FMG/MENU.FMG/10313",
@@ -262815,7 +262815,7 @@
   "offset": "1B2C",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/10314",
@@ -262824,7 +262824,7 @@
   "offset": "1B34",
   "jp": "ＥＸ",
   "en": "EX",
-  "zh": ""
+  "zh": "ＥＸ"
  },
  {
   "id": "FMG/MENU.FMG/10315",
@@ -262833,7 +262833,7 @@
   "offset": "1B3A",
   "jp": "ＶＰ",
   "en": "VP",
-  "zh": ""
+  "zh": "ＶＰ"
  },
  {
   "id": "FMG/MENU.FMG/10316",
@@ -262842,7 +262842,7 @@
   "offset": "1B40",
   "jp": "％",
   "en": "%",
-  "zh": ""
+  "zh": "％"
  },
  {
   "id": "FMG/MENU.FMG/10318",
@@ -262851,7 +262851,7 @@
   "offset": "1B44",
   "jp": "所持ＴＢ",
   "en": "Total TB",
-  "zh": ""
+  "zh": "持有ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/10319",
@@ -262860,7 +262860,7 @@
   "offset": "1B4E",
   "jp": "ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/10320",
@@ -262869,7 +262869,7 @@
   "offset": "1B54",
   "jp": "全",
   "en": "All",
-  "zh": ""
+  "zh": "全"
  },
  {
   "id": "FMG/MENU.FMG/10321",
@@ -262878,7 +262878,7 @@
   "offset": "1B58",
   "jp": "ＦＰ",
   "en": "FP",
-  "zh": ""
+  "zh": "ＦＰ"
  },
  {
   "id": "FMG/MENU.FMG/10322",
@@ -262887,7 +262887,7 @@
   "offset": "1B5E",
   "jp": "ＶＰ",
   "en": "VP",
-  "zh": ""
+  "zh": "ＶＰ"
  },
  {
   "id": "FMG/MENU.FMG/10323",
@@ -262896,7 +262896,7 @@
   "offset": "1B64",
   "jp": "所属",
   "en": "Type",
-  "zh": ""
+  "zh": "所属"
  },
  {
   "id": "FMG/MENU.FMG/10324",
@@ -262905,7 +262905,7 @@
   "offset": "1B6A",
   "jp": "補助",
   "en": "Support",
-  "zh": ""
+  "zh": "辅助"
  },
  {
   "id": "FMG/MENU.FMG/10326",
@@ -262914,7 +262914,7 @@
   "offset": "1B70",
   "jp": "サイズ",
   "en": "Size",
-  "zh": ""
+  "zh": "体型"
  },
  {
   "id": "FMG/MENU.FMG/10327",
@@ -262923,7 +262923,7 @@
   "offset": "1B78",
   "jp": "移動範囲",
   "en": "Move Range",
-  "zh": ""
+  "zh": "移动范围"
  },
  {
   "id": "FMG/MENU.FMG/10328",
@@ -262932,7 +262932,7 @@
   "offset": "1B82",
   "jp": "総戦闘参加回数",
   "en": "Total Battles",
-  "zh": ""
+  "zh": "参战总次数"
  },
  {
   "id": "FMG/MENU.FMG/10329",
@@ -262941,7 +262941,7 @@
   "offset": "1B92",
   "jp": "総撃破回数",
   "en": "Total Wins",
-  "zh": ""
+  "zh": "击破总次数"
  },
  {
   "id": "FMG/MENU.FMG/10330",
@@ -262950,7 +262950,7 @@
   "offset": "1B9E",
   "jp": "次のレベルまで",
   "en": "Until Next Level",
-  "zh": ""
+  "zh": "距下一等级"
  },
  {
   "id": "FMG/MENU.FMG/10331",
@@ -262959,7 +262959,7 @@
   "offset": "1BAE",
   "jp": "経験値",
   "en": "EXP",
-  "zh": ""
+  "zh": "经验值"
  },
  {
   "id": "FMG/MENU.FMG/10401",
@@ -262968,7 +262968,7 @@
   "offset": "1BB6",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/10402",
@@ -262977,7 +262977,7 @@
   "offset": "1BBE",
   "jp": "スキル習得",
   "en": "Learn Skill",
-  "zh": ""
+  "zh": "习得技能"
  },
  {
   "id": "FMG/MENU.FMG/10403",
@@ -262986,7 +262986,7 @@
   "offset": "1BCA",
   "jp": "スキル装備",
   "en": "Equip Skill",
-  "zh": ""
+  "zh": "装备技能"
  },
  {
   "id": "FMG/MENU.FMG/10404",
@@ -262995,7 +262995,7 @@
   "offset": "1BD6",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/10405",
@@ -263004,7 +263004,7 @@
   "offset": "1BDE",
   "jp": "スキル確認",
   "en": "Check Skill",
-  "zh": ""
+  "zh": "确认技能"
  },
  {
   "id": "FMG/MENU.FMG/10501",
@@ -263013,7 +263013,7 @@
   "offset": "1BEA",
   "jp": "アビリティ",
   "en": "Ability",
-  "zh": ""
+  "zh": "被动能力"
  },
  {
   "id": "FMG/MENU.FMG/10502",
@@ -263022,7 +263022,7 @@
   "offset": "1BF6",
   "jp": "アビリティの習得",
   "en": "Learn Ability",
-  "zh": ""
+  "zh": "习得被动能力"
  },
  {
   "id": "FMG/MENU.FMG/10503",
@@ -263031,7 +263031,7 @@
   "offset": "1C08",
   "jp": "アビリティの付け替え",
   "en": "Switch Abilities",
-  "zh": ""
+  "zh": "更换被动能力"
  },
  {
   "id": "FMG/MENU.FMG/10504",
@@ -263040,7 +263040,7 @@
   "offset": "1C1E",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/10601",
@@ -263049,7 +263049,7 @@
   "offset": "1C26",
   "jp": "マップ",
   "en": "Map",
-  "zh": ""
+  "zh": "地图"
  },
  {
   "id": "FMG/MENU.FMG/10602",
@@ -263058,7 +263058,7 @@
   "offset": "1C2E",
   "jp": "移動開始",
   "en": "Start Move",
-  "zh": ""
+  "zh": "开始移动"
  },
  {
   "id": "FMG/MENU.FMG/10603",
@@ -263067,7 +263067,7 @@
   "offset": "1C38",
   "jp": "敵情報",
   "en": "Enemy Info",
-  "zh": ""
+  "zh": "敌人情报"
  },
  {
   "id": "FMG/MENU.FMG/10604",
@@ -263076,7 +263076,7 @@
   "offset": "1C40",
   "jp": "%s に移動します",
   "en": "Move to %s",
-  "zh": ""
+  "zh": "移动至 %s"
  },
  {
   "id": "FMG/MENU.FMG/10605",
@@ -263085,7 +263085,7 @@
   "offset": "1C54",
   "jp": "マップ踏破",
   "en": "Map Coverage",
-  "zh": ""
+  "zh": "地图踏破率"
  },
  {
   "id": "FMG/MENU.FMG/10701",
@@ -263094,7 +263094,7 @@
   "offset": "1C60",
   "jp": "ヘルプ",
   "en": "Help",
-  "zh": ""
+  "zh": "帮助"
  },
  {
   "id": "FMG/MENU.FMG/10702",
@@ -263103,7 +263103,7 @@
   "offset": "1C68",
   "jp": "／",
   "en": "/",
-  "zh": ""
+  "zh": "／"
  },
  {
   "id": "FMG/MENU.FMG/10801",
@@ -263112,7 +263112,7 @@
   "offset": "1C6C",
   "jp": "アイテム",
   "en": "Item",
-  "zh": ""
+  "zh": "道具"
  },
  {
   "id": "FMG/MENU.FMG/10802",
@@ -263121,7 +263121,7 @@
   "offset": "1C76",
   "jp": "アイテム使用",
   "en": "Use Item",
-  "zh": ""
+  "zh": "使用道具"
  },
  {
   "id": "FMG/MENU.FMG/10803",
@@ -263130,7 +263130,7 @@
   "offset": "1C84",
   "jp": "アイテム並び替え",
   "en": "Sort Items",
-  "zh": ""
+  "zh": "整理道具"
  },
  {
   "id": "FMG/MENU.FMG/10901",
@@ -263139,7 +263139,7 @@
   "offset": "1C96",
   "jp": "達成度",
   "en": "Completion",
-  "zh": ""
+  "zh": "达成度"
  },
  {
   "id": "FMG/MENU.FMG/10902",
@@ -263148,7 +263148,7 @@
   "offset": "1C9E",
   "jp": "ストーリー",
   "en": "Story",
-  "zh": ""
+  "zh": "主线剧情"
  },
  {
   "id": "FMG/MENU.FMG/10903",
@@ -263157,7 +263157,7 @@
   "offset": "1CAA",
   "jp": "サブイベントの確認",
   "en": "Check Sub Events",
-  "zh": ""
+  "zh": "确认支线事件"
  },
  {
   "id": "FMG/MENU.FMG/10904",
@@ -263166,7 +263166,7 @@
   "offset": "1CBE",
   "jp": "戦闘",
   "en": "Battle",
-  "zh": ""
+  "zh": "战斗"
  },
  {
   "id": "FMG/MENU.FMG/10905",
@@ -263175,7 +263175,7 @@
   "offset": "1CC4",
   "jp": "ミニゲーム",
   "en": "Mini-Game",
-  "zh": ""
+  "zh": "小游戏"
  },
  {
   "id": "FMG/MENU.FMG/10911",
@@ -263184,7 +263184,7 @@
   "offset": "1CD0",
   "jp": "総プレイ時間",
   "en": "Total Play Time",
-  "zh": ""
+  "zh": "总游玩时间"
  },
  {
   "id": "FMG/MENU.FMG/10912",
@@ -263193,7 +263193,7 @@
   "offset": "1CDE",
   "jp": "総獲得ＴＢ",
   "en": "Total TB Obtained",
-  "zh": ""
+  "zh": "总获得ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/10916",
@@ -263202,7 +263202,7 @@
   "offset": "1CEA",
   "jp": "総マップ踏破",
   "en": "Total Map Coverage",
-  "zh": ""
+  "zh": "总地图踏破率"
  },
  {
   "id": "FMG/MENU.FMG/10917",
@@ -263211,7 +263211,7 @@
   "offset": "1CF8",
   "jp": "所持ゴーレム",
   "en": "Golems Obtained",
-  "zh": ""
+  "zh": "持有魔像"
  },
  {
   "id": "FMG/MENU.FMG/10918",
@@ -263220,7 +263220,7 @@
   "offset": "1D06",
   "jp": "ＦＰ最大ゴーレム所持",
   "en": "Golems with MAX FP",
-  "zh": ""
+  "zh": "持有ＦＰ达到最大的魔像"
  },
  {
   "id": "FMG/MENU.FMG/10919",
@@ -263229,7 +263229,7 @@
   "offset": "1D1C",
   "jp": "所持スキル",
   "en": "Skills Obtained",
-  "zh": ""
+  "zh": "持有技能"
  },
  {
   "id": "FMG/MENU.FMG/10920",
@@ -263238,7 +263238,7 @@
   "offset": "1D28",
   "jp": "所持サポート",
   "en": "Supports Obtained",
-  "zh": ""
+  "zh": "持有辅助技能"
  },
  {
   "id": "FMG/MENU.FMG/10921",
@@ -263247,7 +263247,7 @@
   "offset": "1D36",
   "jp": "ストーリー",
   "en": "Story",
-  "zh": ""
+  "zh": "主线剧情"
  },
  {
   "id": "FMG/MENU.FMG/10922",
@@ -263256,7 +263256,7 @@
   "offset": "1D42",
   "jp": "現在",
   "en": "Current",
-  "zh": ""
+  "zh": "当前"
  },
  {
   "id": "FMG/MENU.FMG/10941",
@@ -263265,7 +263265,7 @@
   "offset": "1D48",
   "jp": "サブイベント",
   "en": "Sub-event",
-  "zh": ""
+  "zh": "支线事件"
  },
  {
   "id": "FMG/MENU.FMG/10946",
@@ -263274,7 +263274,7 @@
   "offset": "1D56",
   "jp": "勝利",
   "en": "Wins",
-  "zh": ""
+  "zh": "胜利"
  },
  {
   "id": "FMG/MENU.FMG/10947",
@@ -263283,7 +263283,7 @@
   "offset": "1D5C",
   "jp": "１ターン勝利",
   "en": "One-turn Wins",
-  "zh": ""
+  "zh": "１回合胜利"
  },
  {
   "id": "FMG/MENU.FMG/10948",
@@ -263292,7 +263292,7 @@
   "offset": "1D6A",
   "jp": "ノーダメージ勝利",
   "en": "No Damage Wins",
-  "zh": ""
+  "zh": "无伤胜利"
  },
  {
   "id": "FMG/MENU.FMG/10949",
@@ -263301,7 +263301,7 @@
   "offset": "1D7C",
   "jp": "属性の相性をついた攻撃",
   "en": "Opposing Attribute Attacks",
-  "zh": ""
+  "zh": "属性克制攻击"
  },
  {
   "id": "FMG/MENU.FMG/10950",
@@ -263310,7 +263310,7 @@
   "offset": "1D94",
   "jp": "ＣＯＶＥＲ",
   "en": "Cover",
-  "zh": ""
+  "zh": "ＣＯＶＥＲ"
  },
  {
   "id": "FMG/MENU.FMG/10951",
@@ -263319,7 +263319,7 @@
   "offset": "1DA0",
   "jp": "連携攻撃",
   "en": "Combo Attack",
-  "zh": ""
+  "zh": "连携攻击"
  },
  {
   "id": "FMG/MENU.FMG/10952",
@@ -263328,7 +263328,7 @@
   "offset": "1DAA",
   "jp": "overbreak",
   "en": "Overbreak",
-  "zh": ""
+  "zh": "overbreak"
  },
  {
   "id": "FMG/MENU.FMG/10953",
@@ -263337,7 +263337,7 @@
   "offset": "1DBE",
   "jp": "overbreak-upper",
   "en": "Overbreak Upper",
-  "zh": ""
+  "zh": "overbreak-upper"
  },
  {
   "id": "FMG/MENU.FMG/10954",
@@ -263346,7 +263346,7 @@
   "offset": "1DDE",
   "jp": "ＥＸ使用",
   "en": "EX Used",
-  "zh": ""
+  "zh": "使用ＥＸ"
  },
  {
   "id": "FMG/MENU.FMG/10956",
@@ -263355,7 +263355,7 @@
   "offset": "1DE8",
   "jp": "総撃破数",
   "en": "Total Enemies Defeated",
-  "zh": ""
+  "zh": "总击破数"
  },
  {
   "id": "FMG/MENU.FMG/10957",
@@ -263364,7 +263364,7 @@
   "offset": "1DF2",
   "jp": "最大ダメージ値",
   "en": "Max Damage",
-  "zh": ""
+  "zh": "最大伤害值"
  },
  {
   "id": "FMG/MENU.FMG/10960",
@@ -263373,7 +263373,7 @@
   "offset": "1E02",
   "jp": "敗北",
   "en": "Losses",
-  "zh": ""
+  "zh": "战败"
  },
  {
   "id": "FMG/MENU.FMG/10961",
@@ -263382,7 +263382,7 @@
   "offset": "1E08",
   "jp": "戦闘",
   "en": "Battle",
-  "zh": ""
+  "zh": "战斗"
  },
  {
   "id": "FMG/MENU.FMG/10962",
@@ -263391,7 +263391,7 @@
   "offset": "1E0E",
   "jp": "勝敗回数",
   "en": "Number of Wins",
-  "zh": ""
+  "zh": "胜败次数"
  },
  {
   "id": "FMG/MENU.FMG/10963",
@@ -263400,7 +263400,7 @@
   "offset": "1E18",
   "jp": "発生回数",
   "en": "Number of Occurrences",
-  "zh": ""
+  "zh": "触发次数"
  },
  {
   "id": "FMG/MENU.FMG/10964",
@@ -263409,7 +263409,7 @@
   "offset": "1E22",
   "jp": "その他",
   "en": "Other",
-  "zh": ""
+  "zh": "其他"
  },
  {
   "id": "FMG/MENU.FMG/10965",
@@ -263418,7 +263418,7 @@
   "offset": "1E2A",
   "jp": "スキル別撃破数",
   "en": "Defeats by Skill",
-  "zh": ""
+  "zh": "技能分类击破数"
  },
  {
   "id": "FMG/MENU.FMG/10967",
@@ -263427,7 +263427,7 @@
   "offset": "1E3A",
   "jp": "拳スキル撃破数",
   "en": "Fist Skill Defeats",
-  "zh": ""
+  "zh": "拳类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10968",
@@ -263436,7 +263436,7 @@
   "offset": "1E4A",
   "jp": "牙スキル撃破数",
   "en": "Fang Skill Defeats",
-  "zh": ""
+  "zh": "牙类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10969",
@@ -263445,7 +263445,7 @@
   "offset": "1E5A",
   "jp": "剣スキル撃破数",
   "en": "Sword Skill Defeats",
-  "zh": ""
+  "zh": "剑类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10970",
@@ -263454,7 +263454,7 @@
   "offset": "1E6A",
   "jp": "槍スキル撃破数",
   "en": "Lance Skill Defeats",
-  "zh": ""
+  "zh": "枪类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10971",
@@ -263463,7 +263463,7 @@
   "offset": "1E7A",
   "jp": "打撃スキル撃破数",
   "en": "Strike Skill Defeats",
-  "zh": ""
+  "zh": "打击类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10972",
@@ -263472,7 +263472,7 @@
   "offset": "1E8C",
   "jp": "射撃スキル撃破数",
   "en": "Firing Skill Defeats",
-  "zh": ""
+  "zh": "射击类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10973",
@@ -263481,7 +263481,7 @@
   "offset": "1E9E",
   "jp": "歌スキル撃破数",
   "en": "Song Skill Defeats",
-  "zh": ""
+  "zh": "歌唱类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10974",
@@ -263490,7 +263490,7 @@
   "offset": "1EAE",
   "jp": "舞踏スキル撃破数",
   "en": "Dance Skill Defeats",
-  "zh": ""
+  "zh": "舞蹈类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10975",
@@ -263499,7 +263499,7 @@
   "offset": "1EC0",
   "jp": "ブレススキル撃破数",
   "en": "Breath Skill Defeats",
-  "zh": ""
+  "zh": "吐息类技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10976",
@@ -263508,7 +263508,7 @@
   "offset": "1ED4",
   "jp": "攻撃系魔導スキル撃破数",
   "en": "Attack Magic Skill Defeats",
-  "zh": ""
+  "zh": "攻击类魔导技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10977",
@@ -263517,7 +263517,7 @@
   "offset": "1EEC",
   "jp": "補助系魔導スキル撃破数",
   "en": "Support Magic Skill Defeats",
-  "zh": ""
+  "zh": "辅助类魔导技能击破数"
  },
  {
   "id": "FMG/MENU.FMG/10981",
@@ -263526,7 +263526,7 @@
   "offset": "1F04",
   "jp": "ミニゲーム",
   "en": "Mini-Game",
-  "zh": ""
+  "zh": "小游戏"
  },
  {
   "id": "FMG/MENU.FMG/10982",
@@ -263535,7 +263535,7 @@
   "offset": "1F10",
   "jp": "クイズ",
   "en": "Quiz",
-  "zh": ""
+  "zh": "问答"
  },
  {
   "id": "FMG/MENU.FMG/10983",
@@ -263544,7 +263544,7 @@
   "offset": "1F18",
   "jp": "ビンゴ",
   "en": "Bingo",
-  "zh": ""
+  "zh": "宾果"
  },
  {
   "id": "FMG/MENU.FMG/10984",
@@ -263553,7 +263553,7 @@
   "offset": "1F20",
   "jp": "ルーレット",
   "en": "Roulette",
-  "zh": ""
+  "zh": "轮盘"
  },
  {
   "id": "FMG/MENU.FMG/10985",
@@ -263562,7 +263562,7 @@
   "offset": "1F2C",
   "jp": "スロットゲーム",
   "en": "Slot Machine",
-  "zh": ""
+  "zh": "老虎机游戏"
  },
  {
   "id": "FMG/MENU.FMG/10986",
@@ -263571,7 +263571,7 @@
   "offset": "1F3C",
   "jp": "アームレスリング",
   "en": "Arm Wrestling",
-  "zh": ""
+  "zh": "扳手腕"
  },
  {
   "id": "FMG/MENU.FMG/10987",
@@ -263580,7 +263580,7 @@
   "offset": "1F4E",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像对决"
  },
  {
   "id": "FMG/MENU.FMG/11001",
@@ -263589,7 +263589,7 @@
   "offset": "1F5E",
   "jp": "パーティ編成",
   "en": "Change Party",
-  "zh": ""
+  "zh": "队伍编成"
  },
  {
   "id": "FMG/MENU.FMG/11002",
@@ -263598,7 +263598,7 @@
   "offset": "1F6C",
   "jp": "パーティキャラクター",
   "en": "Party Character",
-  "zh": ""
+  "zh": "编队角色"
  },
  {
   "id": "FMG/MENU.FMG/11004",
@@ -263607,7 +263607,7 @@
   "offset": "1F82",
   "jp": "待機キャラクター",
   "en": "Inactive Character",
-  "zh": ""
+  "zh": "待机角色"
  },
  {
   "id": "FMG/MENU.FMG/11005",
@@ -263616,7 +263616,7 @@
   "offset": "1F94",
   "jp": "はずす",
   "en": "Remove",
-  "zh": ""
+  "zh": "卸下"
  },
  {
   "id": "FMG/MENU.FMG/11011",
@@ -263625,7 +263625,7 @@
   "offset": "1F9C",
   "jp": "この配置でよろしいですか？",
   "en": "Is this formation okay?",
-  "zh": ""
+  "zh": "确定要使用该配置吗？"
  },
  {
   "id": "FMG/MENU.FMG/11012",
@@ -263634,7 +263634,7 @@
   "offset": "1FB8",
   "jp": "変更せずに終了",
   "en": "Quit without changing",
-  "zh": ""
+  "zh": "不作更改并退出"
  },
  {
   "id": "FMG/MENU.FMG/11013",
@@ -263643,7 +263643,7 @@
   "offset": "1FC8",
   "jp": "元に戻す",
   "en": "Return to previous setting",
-  "zh": ""
+  "zh": "恢复原状"
  },
  {
   "id": "FMG/MENU.FMG/11014",
@@ -263652,7 +263652,7 @@
   "offset": "1FD2",
   "jp": "アツマをパーティから外すことはできません",
   "en": "You can't remove Atsuma from the party.",
-  "zh": ""
+  "zh": "无法将阿茨玛移出队伍"
  },
  {
   "id": "FMG/MENU.FMG/11015",
@@ -263661,7 +263661,7 @@
   "offset": "1FFC",
   "jp": "“サイズ”の大きなキャラクターが多すぎます\nパーティキャラクターをはずすか、入れ替えてください",
   "en": "You have too many large-sized characters in your party.\nEither remove or swap some battle party characters.",
-  "zh": ""
+  "zh": "“体型”过大的角色过多\n请卸下编队角色，或进行替换"
  },
  {
   "id": "FMG/MENU.FMG/11016",
@@ -263670,7 +263670,7 @@
   "offset": "205C",
   "jp": "パーティには１キャラクター以上配置してください",
   "en": "The party must have at least one character.",
-  "zh": ""
+  "zh": "队伍中请至少配置１名角色"
  },
  {
   "id": "FMG/MENU.FMG/11021",
@@ -263679,7 +263679,7 @@
   "offset": "208C",
   "jp": "保存をしないと位置の変更はされません",
   "en": "Positions will not be remembered if you do not save.",
-  "zh": ""
+  "zh": "若不保存，位置更改将不会生效"
  },
  {
   "id": "FMG/MENU.FMG/11022",
@@ -263688,7 +263688,7 @@
   "offset": "20B2",
   "jp": "位置を元に戻します",
   "en": "Return to previous positions.",
-  "zh": ""
+  "zh": "将位置恢复原状"
  },
  {
   "id": "FMG/MENU.FMG/11023",
@@ -263697,7 +263697,7 @@
   "offset": "20C6",
   "jp": "①:はい",
   "en": "①: Yes",
-  "zh": ""
+  "zh": "①:是"
  },
  {
   "id": "FMG/MENU.FMG/11024",
@@ -263706,7 +263706,7 @@
   "offset": "20D0",
   "jp": "②:キャンセル",
   "en": "②: Cancel",
-  "zh": ""
+  "zh": "②:取消"
  },
  {
   "id": "FMG/MENU.FMG/11101",
@@ -263715,7 +263715,7 @@
   "offset": "20E0",
   "jp": "成長",
   "en": "Parameter",
-  "zh": ""
+  "zh": "成长"
  },
  {
   "id": "FMG/MENU.FMG/11201",
@@ -263724,7 +263724,7 @@
   "offset": "20E6",
   "jp": "武器",
   "en": "Weapon",
-  "zh": ""
+  "zh": "武器"
  },
  {
   "id": "FMG/MENU.FMG/11301",
@@ -263733,7 +263733,7 @@
   "offset": "20EC",
   "jp": "キャラクター名変更",
   "en": "Change Character Name",
-  "zh": ""
+  "zh": "更改角色名称"
  },
  {
   "id": "FMG/MENU.FMG/11302",
@@ -263742,7 +263742,7 @@
   "offset": "2100",
   "jp": "ゴーレムの名称を入力してください",
   "en": "Enter a name for this Golem.",
-  "zh": ""
+  "zh": "请输入魔像的名称"
  },
  {
   "id": "FMG/MENU.FMG/11303",
@@ -263751,7 +263751,7 @@
   "offset": "2122",
   "jp": "名称は最大１６文字まで入力できます",
   "en": "Name can be up to 16 letters.",
-  "zh": ""
+  "zh": "名称最多可输入１６个字符"
  },
  {
   "id": "FMG/MENU.FMG/11304",
@@ -263760,7 +263760,7 @@
   "offset": "2146",
   "jp": "名称が１７文字以上入力されたため、１６文字に切り詰めました",
   "en": "Only the first 16 letters you entered can be used.",
-  "zh": ""
+  "zh": "由于输入的名称超过１７个字符，已截取前１６个字符"
  },
  {
   "id": "FMG/MENU.FMG/11305",
@@ -263769,7 +263769,7 @@
   "offset": "2182",
   "jp": "名称が入力されなかったため、変更を中止しました",
   "en": "No letters were entered so the name was not changed.",
-  "zh": ""
+  "zh": "由于未输入名称，已取消更改"
  },
  {
   "id": "FMG/MENU.FMG/11401",
@@ -263778,7 +263778,7 @@
   "offset": "21B2",
   "jp": "キャラクター紹介",
   "en": "Character Bio",
-  "zh": ""
+  "zh": "角色介绍"
  },
  {
   "id": "FMG/MENU.FMG/11500",
@@ -263787,7 +263787,7 @@
   "offset": "21C4",
   "jp": "敵情報",
   "en": "Enemy Info",
-  "zh": ""
+  "zh": "敌人信息"
  },
  {
   "id": "FMG/MENU.FMG/11501",
@@ -263796,7 +263796,7 @@
   "offset": "21CC",
   "jp": "？？？",
   "en": "???",
-  "zh": ""
+  "zh": "？？？"
  },
  {
   "id": "FMG/MENU.FMG/11502",
@@ -263805,7 +263805,7 @@
   "offset": "21D4",
   "jp": "---",
   "en": "---",
-  "zh": ""
+  "zh": "---"
  },
  {
   "id": "FMG/MENU.FMG/11503",
@@ -263814,7 +263814,7 @@
   "offset": "21DC",
   "jp": "----",
   "en": "----",
-  "zh": ""
+  "zh": "----"
  },
  {
   "id": "FMG/MENU.FMG/11504",
@@ -263823,7 +263823,7 @@
   "offset": "21E6",
   "jp": "敵情報なし",
   "en": "No enemy info",
-  "zh": ""
+  "zh": "无敌人信息"
  },
  {
   "id": "FMG/MENU.FMG/12000",
@@ -263832,7 +263832,7 @@
   "offset": "21F2",
   "jp": "必要ＳＰ",
   "en": "SP Required",
-  "zh": ""
+  "zh": "所需ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/12001",
@@ -263841,7 +263841,7 @@
   "offset": "21FC",
   "jp": "所持ＳＰ",
   "en": "Total SP",
-  "zh": ""
+  "zh": "持有ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/12020",
@@ -263850,7 +263850,7 @@
   "offset": "2206",
   "jp": "スキルカテゴリー",
   "en": "Skill Category",
-  "zh": ""
+  "zh": "技能类型"
  },
  {
   "id": "FMG/MENU.FMG/12021",
@@ -263859,7 +263859,7 @@
   "offset": "2218",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12023",
@@ -263868,7 +263868,7 @@
   "offset": "2220",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12024",
@@ -263877,7 +263877,7 @@
   "offset": "2228",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12025",
@@ -263886,7 +263886,7 @@
   "offset": "2230",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12026",
@@ -263895,7 +263895,7 @@
   "offset": "2238",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12027",
@@ -263904,7 +263904,7 @@
   "offset": "2240",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12028",
@@ -263913,7 +263913,7 @@
   "offset": "2248",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12029",
@@ -263922,7 +263922,7 @@
   "offset": "2250",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12031",
@@ -263931,7 +263931,7 @@
   "offset": "2258",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12032",
@@ -263940,7 +263940,7 @@
   "offset": "2260",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12033",
@@ -263949,7 +263949,7 @@
   "offset": "2268",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12034",
@@ -263958,7 +263958,7 @@
   "offset": "2270",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12035",
@@ -263967,7 +263967,7 @@
   "offset": "2278",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12040",
@@ -263976,7 +263976,7 @@
   "offset": "2280",
   "jp": "サポート",
   "en": "Support",
-  "zh": ""
+  "zh": "辅助"
  },
  {
   "id": "FMG/MENU.FMG/12041",
@@ -263985,7 +263985,7 @@
   "offset": "228A",
   "jp": "ＥＸ",
   "en": "EX",
-  "zh": ""
+  "zh": "ＥＸ"
  },
  {
   "id": "FMG/MENU.FMG/12042",
@@ -263994,7 +263994,7 @@
   "offset": "2290",
   "jp": "スキル",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/12043",
@@ -264003,7 +264003,7 @@
   "offset": "2298",
   "jp": "装備スキル",
   "en": "Equipped Skills",
-  "zh": ""
+  "zh": "装备技能"
  },
  {
   "id": "FMG/MENU.FMG/12044",
@@ -264012,7 +264012,7 @@
   "offset": "22A4",
   "jp": "習得済みスキル",
   "en": "Learned Skills",
-  "zh": ""
+  "zh": "已习得技能"
  },
  {
   "id": "FMG/MENU.FMG/12045",
@@ -264021,7 +264021,7 @@
   "offset": "22B4",
   "jp": "習得可能スキルなし",
   "en": "No Learnable Skills.",
-  "zh": ""
+  "zh": "无习得可能技能"
  },
  {
   "id": "FMG/MENU.FMG/12046",
@@ -264030,7 +264030,7 @@
   "offset": "22C8",
   "jp": "装備ＥＸなし",
   "en": "No Equippable EX.",
-  "zh": ""
+  "zh": "无装备ＥＸ"
  },
  {
   "id": "FMG/MENU.FMG/12047",
@@ -264039,7 +264039,7 @@
   "offset": "22D6",
   "jp": "%sはＥＸを持っていません",
   "en": "%s has no EX.",
-  "zh": ""
+  "zh": "%s没有ＥＸ"
  },
  {
   "id": "FMG/MENU.FMG/12048",
@@ -264048,7 +264048,7 @@
   "offset": "22F2",
   "jp": "習得済みスキルなし",
   "en": "No Skills Learned.",
-  "zh": ""
+  "zh": "无已习得技能"
  },
  {
   "id": "FMG/MENU.FMG/12049",
@@ -264057,7 +264057,7 @@
   "offset": "2306",
   "jp": "ＳＰが足りないので%sは習得できません",
   "en": "Not enough SP to learn %s.",
-  "zh": ""
+  "zh": "ＳＰ不足，无法习得%s"
  },
  {
   "id": "FMG/MENU.FMG/12050",
@@ -264066,7 +264066,7 @@
   "offset": "232E",
   "jp": "？？？",
   "en": "???",
-  "zh": ""
+  "zh": "？？？"
  },
  {
   "id": "FMG/MENU.FMG/12051",
@@ -264075,7 +264075,7 @@
   "offset": "2336",
   "jp": "???",
   "en": "???",
-  "zh": ""
+  "zh": "???"
  },
  {
   "id": "FMG/MENU.FMG/12052",
@@ -264084,7 +264084,7 @@
   "offset": "233E",
   "jp": "－－－－－",
   "en": "－－－－－",
-  "zh": ""
+  "zh": "－－－－－"
  },
  {
   "id": "FMG/MENU.FMG/12053",
@@ -264093,7 +264093,7 @@
   "offset": "234A",
   "jp": "--",
   "en": "--",
-  "zh": ""
+  "zh": "--"
  },
  {
   "id": "FMG/MENU.FMG/12054",
@@ -264102,7 +264102,7 @@
   "offset": "2350",
   "jp": "%sを習得します",
   "en": "Learn %s.",
-  "zh": ""
+  "zh": "要习得%s吗"
  },
  {
   "id": "FMG/MENU.FMG/12055",
@@ -264111,7 +264111,7 @@
   "offset": "2362",
   "jp": "%sを習得しました",
   "en": "Learned %s.",
-  "zh": ""
+  "zh": "已习得%s"
  },
  {
   "id": "FMG/MENU.FMG/13000",
@@ -264120,7 +264120,7 @@
   "offset": "2376",
   "jp": "武器",
   "en": "Weapon",
-  "zh": ""
+  "zh": "武器"
  },
  {
   "id": "FMG/MENU.FMG/13001",
@@ -264129,7 +264129,7 @@
   "offset": "237C",
   "jp": "名称",
   "en": "Name",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/13002",
@@ -264138,7 +264138,7 @@
   "offset": "2382",
   "jp": "武器",
   "en": "Weapon",
-  "zh": ""
+  "zh": "武器"
  },
  {
   "id": "FMG/MENU.FMG/13003",
@@ -264147,7 +264147,7 @@
   "offset": "2388",
   "jp": "ステータス",
   "en": "",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/13004",
@@ -264156,7 +264156,7 @@
   "offset": "2394",
   "jp": "現在",
   "en": "Current",
-  "zh": ""
+  "zh": "当前"
  },
  {
   "id": "FMG/MENU.FMG/13005",
@@ -264165,7 +264165,7 @@
   "offset": "239A",
   "jp": "変更後",
   "en": "After",
-  "zh": ""
+  "zh": "变更后"
  },
  {
   "id": "FMG/MENU.FMG/13006",
@@ -264174,7 +264174,7 @@
   "offset": "23A2",
   "jp": "直接",
   "en": "Direct",
-  "zh": ""
+  "zh": "直接"
  },
  {
   "id": "FMG/MENU.FMG/13007",
@@ -264183,7 +264183,7 @@
   "offset": "23A8",
   "jp": "間接",
   "en": "Ranged",
-  "zh": ""
+  "zh": "间接"
  },
  {
   "id": "FMG/MENU.FMG/13008",
@@ -264192,7 +264192,7 @@
   "offset": "23AE",
   "jp": "援護",
   "en": "Support",
-  "zh": ""
+  "zh": "援护"
  },
  {
   "id": "FMG/MENU.FMG/13009",
@@ -264201,7 +264201,7 @@
   "offset": "23B4",
   "jp": "素早さ",
   "en": "Agility",
-  "zh": ""
+  "zh": "敏捷"
  },
  {
   "id": "FMG/MENU.FMG/13010",
@@ -264210,7 +264210,7 @@
   "offset": "23BC",
   "jp": "→",
   "en": "→",
-  "zh": ""
+  "zh": "→"
  },
  {
   "id": "FMG/MENU.FMG/14000",
@@ -264219,7 +264219,7 @@
   "offset": "23C0",
   "jp": "パラメータ",
   "en": "Parameters",
-  "zh": ""
+  "zh": "参数"
  },
  {
   "id": "FMG/MENU.FMG/14001",
@@ -264228,7 +264228,7 @@
   "offset": "23CC",
   "jp": "直接",
   "en": "Direct",
-  "zh": ""
+  "zh": "直接"
  },
  {
   "id": "FMG/MENU.FMG/14002",
@@ -264237,7 +264237,7 @@
   "offset": "23D2",
   "jp": "間接",
   "en": "Ranged",
-  "zh": ""
+  "zh": "间接"
  },
  {
   "id": "FMG/MENU.FMG/14003",
@@ -264246,7 +264246,7 @@
   "offset": "23D8",
   "jp": "援護",
   "en": "Support",
-  "zh": ""
+  "zh": "援护"
  },
  {
   "id": "FMG/MENU.FMG/14004",
@@ -264255,7 +264255,7 @@
   "offset": "23DE",
   "jp": "素早さ",
   "en": "Agility",
-  "zh": ""
+  "zh": "敏捷"
  },
  {
   "id": "FMG/MENU.FMG/14005",
@@ -264264,7 +264264,7 @@
   "offset": "23E6",
   "jp": "上昇量",
   "en": "Increase",
-  "zh": ""
+  "zh": "提升量"
  },
  {
   "id": "FMG/MENU.FMG/14006",
@@ -264273,7 +264273,7 @@
   "offset": "23EE",
   "jp": "成長度",
   "en": "Increase",
-  "zh": ""
+  "zh": "成长值"
  },
  {
   "id": "FMG/MENU.FMG/14007",
@@ -264282,7 +264282,7 @@
   "offset": "23F6",
   "jp": "成長結果",
   "en": "Result",
-  "zh": ""
+  "zh": "成长结果"
  },
  {
   "id": "FMG/MENU.FMG/14008",
@@ -264291,7 +264291,7 @@
   "offset": "2400",
   "jp": "必要ＳＰ",
   "en": "Required SP",
-  "zh": ""
+  "zh": "所需ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/14009",
@@ -264300,7 +264300,7 @@
   "offset": "240A",
   "jp": "所持ＳＰ",
   "en": "Total SP",
-  "zh": ""
+  "zh": "持有ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/14010",
@@ -264309,7 +264309,7 @@
   "offset": "2414",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/14011",
@@ -264318,7 +264318,7 @@
   "offset": "2420",
   "jp": "ＨＰ",
   "en": "HP",
-  "zh": ""
+  "zh": "ＨＰ"
  },
  {
   "id": "FMG/MENU.FMG/14012",
@@ -264327,7 +264327,7 @@
   "offset": "2426",
   "jp": "ＥＰ",
   "en": "EP",
-  "zh": ""
+  "zh": "ＥＰ"
  },
  {
   "id": "FMG/MENU.FMG/14013",
@@ -264336,7 +264336,7 @@
   "offset": "242C",
   "jp": "ＳＰ%dを使用して\n%sを%d成長させますか？",
   "en": "Use %d SP and improve %s by %d?",
-  "zh": ""
+  "zh": "消耗ＳＰ%d，\n将%s提升%d吗？"
  },
  {
   "id": "FMG/MENU.FMG/14014",
@@ -264345,7 +264345,7 @@
   "offset": "245C",
   "jp": "%sを成長させるためにはＳＰ%dが必要です",
   "en": "%d SP is required to improve %s.",
-  "zh": ""
+  "zh": "要提升%s需要ＳＰ%d"
  },
  {
   "id": "FMG/MENU.FMG/15001",
@@ -264354,7 +264354,7 @@
   "offset": "2488",
   "jp": "パーティ編成",
   "en": "Edit Party",
-  "zh": ""
+  "zh": "编成队伍"
  },
  {
   "id": "FMG/MENU.FMG/15002",
@@ -264363,7 +264363,7 @@
   "offset": "2496",
   "jp": "キャラクター変更",
   "en": "Change Character",
-  "zh": ""
+  "zh": "变更角色"
  },
  {
   "id": "FMG/MENU.FMG/15003",
@@ -264372,7 +264372,7 @@
   "offset": "24A8",
   "jp": "配置変更",
   "en": "Change Position",
-  "zh": ""
+  "zh": "变更站位"
  },
  {
   "id": "FMG/MENU.FMG/15004",
@@ -264381,7 +264381,7 @@
   "offset": "24B2",
   "jp": "メインパーティ",
   "en": "Main Party",
-  "zh": ""
+  "zh": "主力队伍"
  },
  {
   "id": "FMG/MENU.FMG/15005",
@@ -264390,7 +264390,7 @@
   "offset": "24C2",
   "jp": "リザーブ",
   "en": "Reserved Golem",
-  "zh": ""
+  "zh": "后备"
  },
  {
   "id": "FMG/MENU.FMG/16000",
@@ -264399,7 +264399,7 @@
   "offset": "24CC",
   "jp": "アイテム",
   "en": "Item",
-  "zh": ""
+  "zh": "道具"
  },
  {
   "id": "FMG/MENU.FMG/16001",
@@ -264408,7 +264408,7 @@
   "offset": "24D6",
   "jp": "名称",
   "en": "Name",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/16002",
@@ -264417,7 +264417,7 @@
   "offset": "24DC",
   "jp": "個数",
   "en": "Amount",
-  "zh": ""
+  "zh": "数量"
  },
  {
   "id": "FMG/MENU.FMG/16003",
@@ -264426,7 +264426,7 @@
   "offset": "24E2",
   "jp": "アイテムなし",
   "en": "No items",
-  "zh": ""
+  "zh": "无道具"
  },
  {
   "id": "FMG/MENU.FMG/16004",
@@ -264435,7 +264435,7 @@
   "offset": "24F0",
   "jp": "種類順にソート",
   "en": "Sort by category",
-  "zh": ""
+  "zh": "按种类排序"
  },
  {
   "id": "FMG/MENU.FMG/16005",
@@ -264444,7 +264444,7 @@
   "offset": "2500",
   "jp": "個数順にソート",
   "en": "Sort by amount",
-  "zh": ""
+  "zh": "按数量排序"
  },
  {
   "id": "FMG/MENU.FMG/16006",
@@ -264453,7 +264453,7 @@
   "offset": "2510",
   "jp": "名前順にソート",
   "en": "Sort by name",
-  "zh": ""
+  "zh": "按名称排序"
  },
  {
   "id": "FMG/MENU.FMG/16010",
@@ -264462,7 +264462,7 @@
   "offset": "2520",
   "jp": "このアイテムは使用できません",
   "en": "This item cannot be used.",
-  "zh": ""
+  "zh": "无法使用此道具"
  },
  {
   "id": "FMG/MENU.FMG/16011",
@@ -264471,7 +264471,7 @@
   "offset": "253E",
   "jp": "スキル＜%s＞を習得できるようになりました",
   "en": "You can now learn the skill <%s>.",
-  "zh": ""
+  "zh": "已可习得技能＜%s＞"
  },
  {
   "id": "FMG/MENU.FMG/16012",
@@ -264480,7 +264480,7 @@
   "offset": "256A",
   "jp": "ＶＰが %d 回復しました",
   "en": "%d VP recovered.",
-  "zh": ""
+  "zh": "ＶＰ回复了 %d 点"
  },
  {
   "id": "FMG/MENU.FMG/16013",
@@ -264489,7 +264489,7 @@
   "offset": "2586",
   "jp": "ＳＰが %d 上がりました",
   "en": "%d SP increased .",
-  "zh": ""
+  "zh": "ＳＰ提升了 %d 点"
  },
  {
   "id": "FMG/MENU.FMG/16014",
@@ -264498,7 +264498,7 @@
   "offset": "25A2",
   "jp": "ＦＰが %d 上がりました",
   "en": "%d FP increased .",
-  "zh": ""
+  "zh": "ＦＰ提升了 %d 点"
  },
  {
   "id": "FMG/MENU.FMG/16015",
@@ -264507,7 +264507,7 @@
   "offset": "25BE",
   "jp": "このキャラクターにはこれ以上%sを使えません",
   "en": "This character can't use any more %s.",
-  "zh": ""
+  "zh": "该角色无法再使用更多%s"
  },
  {
   "id": "FMG/MENU.FMG/16020",
@@ -264516,7 +264516,7 @@
   "offset": "25EC",
   "jp": "全アイテム",
   "en": "All Items",
-  "zh": ""
+  "zh": "全部道具"
  },
  {
   "id": "FMG/MENU.FMG/16021",
@@ -264525,7 +264525,7 @@
   "offset": "25F8",
   "jp": "補助アイテム",
   "en": "Support Items",
-  "zh": ""
+  "zh": "辅助道具"
  },
  {
   "id": "FMG/MENU.FMG/16022",
@@ -264534,7 +264534,7 @@
   "offset": "2606",
   "jp": "スキルアイテム",
   "en": "Skill Items",
-  "zh": ""
+  "zh": "技能道具"
  },
  {
   "id": "FMG/MENU.FMG/16023",
@@ -264543,7 +264543,7 @@
   "offset": "2616",
   "jp": "戦闘アイテム",
   "en": "Battle Items",
-  "zh": ""
+  "zh": "战斗道具"
  },
  {
   "id": "FMG/MENU.FMG/16024",
@@ -264552,7 +264552,7 @@
   "offset": "2624",
   "jp": "武器",
   "en": "Weapons",
-  "zh": ""
+  "zh": "武器"
  },
  {
   "id": "FMG/MENU.FMG/16025",
@@ -264561,7 +264561,7 @@
   "offset": "262A",
   "jp": "ゴーレムコア",
   "en": "Golem Cores",
-  "zh": ""
+  "zh": "魔像核心"
  },
  {
   "id": "FMG/MENU.FMG/16026",
@@ -264570,7 +264570,7 @@
   "offset": "2638",
   "jp": "武器コア",
   "en": "Weapon Cores",
-  "zh": ""
+  "zh": "武器核心"
  },
  {
   "id": "FMG/MENU.FMG/16027",
@@ -264579,7 +264579,7 @@
   "offset": "2642",
   "jp": "キーアイテム",
   "en": "Key Items",
-  "zh": ""
+  "zh": "关键道具"
  },
  {
   "id": "FMG/MENU.FMG/16028",
@@ -264588,7 +264588,7 @@
   "offset": "2650",
   "jp": "マテリアル",
   "en": "Materials",
-  "zh": ""
+  "zh": "素材"
  },
  {
   "id": "FMG/MENU.FMG/16030",
@@ -264597,7 +264597,7 @@
   "offset": "265C",
   "jp": "項目名",
   "en": "Item name",
-  "zh": ""
+  "zh": "项目名"
  },
  {
   "id": "FMG/MENU.FMG/16031",
@@ -264606,7 +264606,7 @@
   "offset": "2664",
   "jp": "使用前",
   "en": "Before use",
-  "zh": ""
+  "zh": "使用前"
  },
  {
   "id": "FMG/MENU.FMG/16032",
@@ -264615,7 +264615,7 @@
   "offset": "266C",
   "jp": "使用後",
   "en": "After use",
-  "zh": ""
+  "zh": "使用后"
  },
  {
   "id": "FMG/MENU.FMG/16033",
@@ -264624,7 +264624,7 @@
   "offset": "2674",
   "jp": "ＶＰ",
   "en": "VP",
-  "zh": ""
+  "zh": "ＶＰ"
  },
  {
   "id": "FMG/MENU.FMG/16034",
@@ -264633,7 +264633,7 @@
   "offset": "267A",
   "jp": "ＦＰ",
   "en": "FP",
-  "zh": ""
+  "zh": "ＦＰ"
  },
  {
   "id": "FMG/MENU.FMG/16035",
@@ -264642,7 +264642,7 @@
   "offset": "2680",
   "jp": "ＳＰ",
   "en": "SP",
-  "zh": ""
+  "zh": "ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/19001",
@@ -264651,7 +264651,7 @@
   "offset": "2686",
   "jp": "無",
   "en": "None",
-  "zh": ""
+  "zh": "无"
  },
  {
   "id": "FMG/MENU.FMG/19002",
@@ -264660,7 +264660,7 @@
   "offset": "268A",
   "jp": "地",
   "en": "Earth",
-  "zh": ""
+  "zh": "地"
  },
  {
   "id": "FMG/MENU.FMG/19003",
@@ -264669,7 +264669,7 @@
   "offset": "268E",
   "jp": "水",
   "en": "Water",
-  "zh": ""
+  "zh": "水"
  },
  {
   "id": "FMG/MENU.FMG/19004",
@@ -264678,7 +264678,7 @@
   "offset": "2692",
   "jp": "火",
   "en": "Fire",
-  "zh": ""
+  "zh": "火"
  },
  {
   "id": "FMG/MENU.FMG/19005",
@@ -264687,7 +264687,7 @@
   "offset": "2696",
   "jp": "風",
   "en": "Wind",
-  "zh": ""
+  "zh": "风"
  },
  {
   "id": "FMG/MENU.FMG/19006",
@@ -264696,7 +264696,7 @@
   "offset": "269A",
   "jp": "光",
   "en": "Light",
-  "zh": ""
+  "zh": "光"
  },
  {
   "id": "FMG/MENU.FMG/19007",
@@ -264705,7 +264705,7 @@
   "offset": "269E",
   "jp": "闇",
   "en": "Dark",
-  "zh": ""
+  "zh": "暗"
  },
  {
   "id": "FMG/MENU.FMG/20001",
@@ -264714,7 +264714,7 @@
   "offset": "26A2",
   "jp": "強制スタート",
   "en": "Quick Start",
-  "zh": ""
+  "zh": "强制开始"
  },
  {
   "id": "FMG/MENU.FMG/20002",
@@ -264723,7 +264723,7 @@
   "offset": "26B0",
   "jp": "オート",
   "en": "Auto",
-  "zh": ""
+  "zh": "自动"
  },
  {
   "id": "FMG/MENU.FMG/20005",
@@ -264732,7 +264732,7 @@
   "offset": "26B8",
   "jp": "エスケープ",
   "en": "Escape",
-  "zh": ""
+  "zh": "逃跑"
  },
  {
   "id": "FMG/MENU.FMG/20101",
@@ -264741,7 +264741,7 @@
   "offset": "26C4",
   "jp": "TURN",
   "en": "TURN",
-  "zh": ""
+  "zh": "TURN"
  },
  {
   "id": "FMG/MENU.FMG/20102",
@@ -264750,7 +264750,7 @@
   "offset": "26CE",
   "jp": "先手をとった！",
   "en": "You got the advantage!",
-  "zh": ""
+  "zh": "抢先出手！"
  },
  {
   "id": "FMG/MENU.FMG/20103",
@@ -264759,7 +264759,7 @@
   "offset": "26DE",
   "jp": "不意をつかれた！",
   "en": "Caught off guard!",
-  "zh": ""
+  "zh": "遭遇奇袭！"
  },
  {
   "id": "FMG/MENU.FMG/20301",
@@ -264768,7 +264768,7 @@
   "offset": "26F0",
   "jp": "行動選択",
   "en": "Select Action",
-  "zh": ""
+  "zh": "选择行动"
  },
  {
   "id": "FMG/MENU.FMG/20302",
@@ -264777,7 +264777,7 @@
   "offset": "26FA",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/20303",
@@ -264786,7 +264786,7 @@
   "offset": "2706",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20304",
@@ -264795,7 +264795,7 @@
   "offset": "270E",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20305",
@@ -264804,7 +264804,7 @@
   "offset": "2716",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20306",
@@ -264813,7 +264813,7 @@
   "offset": "271E",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20401",
@@ -264822,7 +264822,7 @@
   "offset": "2726",
   "jp": "移動選択",
   "en": "Select Move",
-  "zh": ""
+  "zh": "选择移动"
  },
  {
   "id": "FMG/MENU.FMG/20402",
@@ -264831,7 +264831,7 @@
   "offset": "2730",
   "jp": "キャラクター選択",
   "en": "Select Character",
-  "zh": ""
+  "zh": "选择角色"
  },
  {
   "id": "FMG/MENU.FMG/20403",
@@ -264840,7 +264840,7 @@
   "offset": "2742",
   "jp": "攻撃位置選択",
   "en": "Select Attack Position",
-  "zh": ""
+  "zh": "选择攻击位置"
  },
  {
   "id": "FMG/MENU.FMG/20404",
@@ -264849,7 +264849,7 @@
   "offset": "2750",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20405",
@@ -264858,7 +264858,7 @@
   "offset": "2758",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20406",
@@ -264867,7 +264867,7 @@
   "offset": "2760",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20407",
@@ -264876,7 +264876,7 @@
   "offset": "2768",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20501",
@@ -264885,7 +264885,7 @@
   "offset": "2770",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20502",
@@ -264894,7 +264894,7 @@
   "offset": "2778",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20503",
@@ -264903,7 +264903,7 @@
   "offset": "2780",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20504",
@@ -264912,7 +264912,7 @@
   "offset": "2788",
   "jp": "X",
   "en": "X",
-  "zh": ""
+  "zh": "X"
  },
  {
   "id": "FMG/MENU.FMG/20505",
@@ -264921,7 +264921,7 @@
   "offset": "278C",
   "jp": "SKILL",
   "en": "SKILL",
-  "zh": ""
+  "zh": "SKILL"
  },
  {
   "id": "FMG/MENU.FMG/20506",
@@ -264930,7 +264930,7 @@
   "offset": "2798",
   "jp": "EX",
   "en": "EX",
-  "zh": ""
+  "zh": "EX"
  },
  {
   "id": "FMG/MENU.FMG/20507",
@@ -264939,7 +264939,7 @@
   "offset": "279E",
   "jp": "ETC",
   "en": "ETC",
-  "zh": ""
+  "zh": "ETC"
  },
  {
   "id": "FMG/MENU.FMG/20508",
@@ -264948,7 +264948,7 @@
   "offset": "27A6",
   "jp": "ITEM",
   "en": "ITEM",
-  "zh": ""
+  "zh": "ITEM"
  },
  {
   "id": "FMG/MENU.FMG/20509",
@@ -264957,7 +264957,7 @@
   "offset": "27B0",
   "jp": "特性",
   "en": "Special",
-  "zh": ""
+  "zh": "特性"
  },
  {
   "id": "FMG/MENU.FMG/20601",
@@ -264966,7 +264966,7 @@
   "offset": "27B6",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/20602",
@@ -264975,7 +264975,7 @@
   "offset": "27C2",
   "jp": "ＨＰ",
   "en": "HP",
-  "zh": ""
+  "zh": "ＨＰ"
  },
  {
   "id": "FMG/MENU.FMG/20603",
@@ -264984,7 +264984,7 @@
   "offset": "27C8",
   "jp": "ＥＰ",
   "en": "EP",
-  "zh": ""
+  "zh": "ＥＰ"
  },
  {
   "id": "FMG/MENU.FMG/20604",
@@ -264993,7 +264993,7 @@
   "offset": "27CE",
   "jp": "連携",
   "en": "Combo",
-  "zh": ""
+  "zh": "连携"
  },
  {
   "id": "FMG/MENU.FMG/20605",
@@ -265002,7 +265002,7 @@
   "offset": "27D4",
   "jp": "ＭＡＸ",
   "en": "ＭＡＸ",
-  "zh": ""
+  "zh": "ＭＡＸ"
  },
  {
   "id": "FMG/MENU.FMG/20606",
@@ -265011,7 +265011,7 @@
   "offset": "27DC",
   "jp": "MAX",
   "en": "MAX",
-  "zh": ""
+  "zh": "MAX"
  },
  {
   "id": "FMG/MENU.FMG/20611",
@@ -265020,7 +265020,7 @@
   "offset": "27E4",
   "jp": "名称",
   "en": "Name",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/20612",
@@ -265029,7 +265029,7 @@
   "offset": "27EA",
   "jp": "ＨＰ",
   "en": "HP",
-  "zh": ""
+  "zh": "ＨＰ"
  },
  {
   "id": "FMG/MENU.FMG/20613",
@@ -265038,7 +265038,7 @@
   "offset": "27F0",
   "jp": "ダメージ",
   "en": "Damage",
-  "zh": ""
+  "zh": "伤害"
  },
  {
   "id": "FMG/MENU.FMG/20614",
@@ -265047,7 +265047,7 @@
   "offset": "27FA",
   "jp": "ＥＰ",
   "en": "EP",
-  "zh": ""
+  "zh": "ＥＰ"
  },
  {
   "id": "FMG/MENU.FMG/20615",
@@ -265056,7 +265056,7 @@
   "offset": "2800",
   "jp": "状態",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/20616",
@@ -265065,7 +265065,7 @@
   "offset": "2806",
   "jp": "連携ゲージ",
   "en": "Combo Gauge",
-  "zh": ""
+  "zh": "连携槽"
  },
  {
   "id": "FMG/MENU.FMG/20701",
@@ -265074,7 +265074,7 @@
   "offset": "2812",
   "jp": "HP",
   "en": "HP",
-  "zh": ""
+  "zh": "HP"
  },
  {
   "id": "FMG/MENU.FMG/20702",
@@ -265083,7 +265083,7 @@
   "offset": "2818",
   "jp": "EP",
   "en": "EP",
-  "zh": ""
+  "zh": "EP"
  },
  {
   "id": "FMG/MENU.FMG/20703",
@@ -265092,7 +265092,7 @@
   "offset": "281E",
   "jp": "Hit!",
   "en": "Hit!",
-  "zh": ""
+  "zh": "Hit!"
  },
  {
   "id": "FMG/MENU.FMG/20704",
@@ -265101,7 +265101,7 @@
   "offset": "2828",
   "jp": "Hits!",
   "en": "Hits!",
-  "zh": ""
+  "zh": "Hits!"
  },
  {
   "id": "FMG/MENU.FMG/20705",
@@ -265110,7 +265110,7 @@
   "offset": "2834",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20706",
@@ -265119,7 +265119,7 @@
   "offset": "283C",
   "jp": "C",
   "en": "C",
-  "zh": ""
+  "zh": "C"
  },
  {
   "id": "FMG/MENU.FMG/20707",
@@ -265128,7 +265128,7 @@
   "offset": "2840",
   "jp": "hain",
   "en": "hain",
-  "zh": ""
+  "zh": "hain"
  },
  {
   "id": "FMG/MENU.FMG/20708",
@@ -265137,7 +265137,7 @@
   "offset": "284A",
   "jp": "×",
   "en": "×",
-  "zh": ""
+  "zh": "×"
  },
  {
   "id": "FMG/MENU.FMG/20709",
@@ -265146,7 +265146,7 @@
   "offset": "284E",
   "jp": "1.2!",
   "en": "1.2!",
-  "zh": ""
+  "zh": "1.2!"
  },
  {
   "id": "FMG/MENU.FMG/20710",
@@ -265155,7 +265155,7 @@
   "offset": "2858",
   "jp": "1.5!",
   "en": "1.5!",
-  "zh": ""
+  "zh": "1.5!"
  },
  {
   "id": "FMG/MENU.FMG/20711",
@@ -265164,7 +265164,7 @@
   "offset": "2862",
   "jp": "2.0!",
   "en": "2.0!",
-  "zh": ""
+  "zh": "2.0!"
  },
  {
   "id": "FMG/MENU.FMG/20712",
@@ -265173,7 +265173,7 @@
   "offset": "286C",
   "jp": "2",
   "en": "2",
-  "zh": ""
+  "zh": "2"
  },
  {
   "id": "FMG/MENU.FMG/20713",
@@ -265182,7 +265182,7 @@
   "offset": "2870",
   "jp": "3",
   "en": "3",
-  "zh": ""
+  "zh": "3"
  },
  {
   "id": "FMG/MENU.FMG/20714",
@@ -265191,7 +265191,7 @@
   "offset": "2874",
   "jp": "4",
   "en": "4",
-  "zh": ""
+  "zh": "4"
  },
  {
   "id": "FMG/MENU.FMG/20715",
@@ -265200,7 +265200,7 @@
   "offset": "2878",
   "jp": "連携ボーナス+%d",
   "en": "Combo Bonus + %d",
-  "zh": ""
+  "zh": "连携奖励+%d"
  },
  {
   "id": "FMG/MENU.FMG/20716",
@@ -265209,7 +265209,7 @@
   "offset": "288C",
   "jp": "Recover",
   "en": "Recover",
-  "zh": ""
+  "zh": "恢复"
  },
  {
   "id": "FMG/MENU.FMG/20717",
@@ -265218,7 +265218,7 @@
   "offset": "289C",
   "jp": "Damage",
   "en": "Damage",
-  "zh": ""
+  "zh": "伤害"
  },
  {
   "id": "FMG/MENU.FMG/20718",
@@ -265227,7 +265227,7 @@
   "offset": "28AA",
   "jp": "EX Bonus ×",
   "en": "EX Bonus x",
-  "zh": ""
+  "zh": "EX奖励 ×"
  },
  {
   "id": "FMG/MENU.FMG/20719",
@@ -265236,7 +265236,7 @@
   "offset": "28C0",
   "jp": "制限時間",
   "en": "Time Limit",
-  "zh": ""
+  "zh": "时间限制"
  },
  {
   "id": "FMG/MENU.FMG/20720",
@@ -265245,7 +265245,7 @@
   "offset": "28CA",
   "jp": "%d:%02d",
   "en": "%d:%02d",
-  "zh": ""
+  "zh": "%d:%02d"
  },
  {
   "id": "FMG/MENU.FMG/20721",
@@ -265254,7 +265254,7 @@
   "offset": "28DA",
   "jp": "制限時間",
   "en": "Time Limit",
-  "zh": ""
+  "zh": "时间限制"
  },
  {
   "id": "FMG/MENU.FMG/20722",
@@ -265263,7 +265263,7 @@
   "offset": "28E4",
   "jp": "%d:%02d",
   "en": "%d:%02d",
-  "zh": ""
+  "zh": "%d:%02d"
  },
  {
   "id": "FMG/MENU.FMG/20723",
@@ -265272,7 +265272,7 @@
   "offset": "28F4",
   "jp": "+%d%%",
   "en": "+%d%%",
-  "zh": ""
+  "zh": "+%d%%"
  },
  {
   "id": "FMG/MENU.FMG/20724",
@@ -265281,7 +265281,7 @@
   "offset": "2900",
   "jp": "EX Bonus",
   "en": "EX Boost",
-  "zh": ""
+  "zh": "EX奖励"
  },
  {
   "id": "FMG/MENU.FMG/20725",
@@ -265290,7 +265290,7 @@
   "offset": "2912",
   "jp": "%d%%",
   "en": "%d%%",
-  "zh": ""
+  "zh": "%d%%"
  },
  {
   "id": "FMG/MENU.FMG/20801",
@@ -265299,7 +265299,7 @@
   "offset": "291C",
   "jp": "戦闘結果",
   "en": "Battle Results",
-  "zh": ""
+  "zh": "战斗结果"
  },
  {
   "id": "FMG/MENU.FMG/20802",
@@ -265308,7 +265308,7 @@
   "offset": "2926",
   "jp": "獲得経験値",
   "en": "EXP earned",
-  "zh": ""
+  "zh": "获得经验值"
  },
  {
   "id": "FMG/MENU.FMG/20803",
@@ -265317,7 +265317,7 @@
   "offset": "2932",
   "jp": "獲得ＴＢ",
   "en": "TB earned",
-  "zh": ""
+  "zh": "获得TB"
  },
  {
   "id": "FMG/MENU.FMG/20804",
@@ -265326,7 +265326,7 @@
   "offset": "293C",
   "jp": "入手アイテム",
   "en": "Items Obtained",
-  "zh": ""
+  "zh": "获得道具"
  },
  {
   "id": "FMG/MENU.FMG/20805",
@@ -265335,7 +265335,7 @@
   "offset": "294A",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/20806",
@@ -265344,7 +265344,7 @@
   "offset": "2952",
   "jp": "獲得ＳＰ",
   "en": "SP earned",
-  "zh": ""
+  "zh": "获得SP"
  },
  {
   "id": "FMG/MENU.FMG/20807",
@@ -265353,7 +265353,7 @@
   "offset": "295C",
   "jp": "所持ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "持有TB"
  },
  {
   "id": "FMG/MENU.FMG/20808",
@@ -265362,7 +265362,7 @@
   "offset": "2966",
   "jp": "ＬＶ",
   "en": "LV",
-  "zh": ""
+  "zh": "LV"
  },
  {
   "id": "FMG/MENU.FMG/20809",
@@ -265371,7 +265371,7 @@
   "offset": "296C",
   "jp": "ＶＰ",
   "en": "VP",
-  "zh": ""
+  "zh": "VP"
  },
  {
   "id": "FMG/MENU.FMG/20810",
@@ -265380,7 +265380,7 @@
   "offset": "2972",
   "jp": "ＬＶｕｐ",
   "en": "LV Up",
-  "zh": ""
+  "zh": "LV提升"
  },
  {
   "id": "FMG/MENU.FMG/20811",
@@ -265389,7 +265389,7 @@
   "offset": "297C",
   "jp": "×",
   "en": "x",
-  "zh": ""
+  "zh": "×"
  },
  {
   "id": "FMG/MENU.FMG/20901",
@@ -265398,7 +265398,7 @@
   "offset": "2980",
   "jp": "ゲームオーバー",
   "en": "Game Over",
-  "zh": ""
+  "zh": "游戏结束"
  },
  {
   "id": "FMG/MENU.FMG/20902",
@@ -265407,7 +265407,7 @@
   "offset": "2990",
   "jp": "リトライ",
   "en": "Retry",
-  "zh": ""
+  "zh": "重试"
  },
  {
   "id": "FMG/MENU.FMG/20903",
@@ -265416,7 +265416,7 @@
   "offset": "299A",
   "jp": "ロード",
   "en": "Load",
-  "zh": ""
+  "zh": "读取"
  },
  {
   "id": "FMG/MENU.FMG/20904",
@@ -265425,7 +265425,7 @@
   "offset": "29A2",
   "jp": "タイトル画面に戻る",
   "en": "Back to Title Screen",
-  "zh": ""
+  "zh": "返回标题画面"
  },
  {
   "id": "FMG/MENU.FMG/20905",
@@ -265434,7 +265434,7 @@
   "offset": "29B6",
   "jp": "決定",
   "en": "OK",
-  "zh": ""
+  "zh": "确定"
  },
  {
   "id": "FMG/MENU.FMG/21001",
@@ -265443,7 +265443,7 @@
   "offset": "29BC",
   "jp": "プレイ内容は失われます",
   "en": "Current progress will be lost.",
-  "zh": ""
+  "zh": "当前游戏进度将会丢失"
  },
  {
   "id": "FMG/MENU.FMG/21002",
@@ -265452,7 +265452,7 @@
   "offset": "29D4",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/21003",
@@ -265461,7 +265461,7 @@
   "offset": "29DC",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/21004",
@@ -265470,7 +265470,7 @@
   "offset": "29E4",
   "jp": "行動を終了していないメンバーがいます",
   "en": "Not all characters have moved.",
-  "zh": ""
+  "zh": "还有队员尚未结束行动"
  },
  {
   "id": "FMG/MENU.FMG/21005",
@@ -265479,7 +265479,7 @@
   "offset": "2A0A",
   "jp": "決定した行動がキャンセルされます",
   "en": "Cancel selected action.",
-  "zh": ""
+  "zh": "已决定的行动将被取消"
  },
  {
   "id": "FMG/MENU.FMG/21006",
@@ -265488,7 +265488,7 @@
   "offset": "2A2C",
   "jp": "逃亡します",
   "en": "Run away from battle.",
-  "zh": ""
+  "zh": "逃跑"
  },
  {
   "id": "FMG/MENU.FMG/21007",
@@ -265497,7 +265497,7 @@
   "offset": "2A38",
   "jp": "行動を開始します",
   "en": "Start",
-  "zh": ""
+  "zh": "开始行动"
  },
  {
   "id": "FMG/MENU.FMG/21008",
@@ -265506,7 +265506,7 @@
   "offset": "2A4A",
   "jp": "行動を開始します",
   "en": "Start",
-  "zh": ""
+  "zh": "开始行动"
  },
  {
   "id": "FMG/MENU.FMG/21009",
@@ -265515,7 +265515,7 @@
   "offset": "2A5C",
   "jp": "チュートリアルを実行します",
   "en": "Start tutorial.",
-  "zh": ""
+  "zh": "进行新手教程"
  },
  {
   "id": "FMG/MENU.FMG/21010",
@@ -265524,7 +265524,7 @@
   "offset": "2A78",
   "jp": "チュートリアルを終了します",
   "en": "Quit tutorial.",
-  "zh": ""
+  "zh": "退出新手教程"
  },
  {
   "id": "FMG/MENU.FMG/22001",
@@ -265533,7 +265533,7 @@
   "offset": "2A94",
   "jp": "チュートリアル終了",
   "en": "Quit tutorial",
-  "zh": ""
+  "zh": "结束新手教程"
  },
  {
   "id": "FMG/MENU.FMG/22002",
@@ -265542,7 +265542,7 @@
   "offset": "2AA8",
   "jp": "戦闘の流れについて",
   "en": "Battle flow",
-  "zh": ""
+  "zh": "关于战斗流程"
  },
  {
   "id": "FMG/MENU.FMG/22003",
@@ -265551,7 +265551,7 @@
   "offset": "2ABC",
   "jp": "画面情報について",
   "en": "Screen Info",
-  "zh": ""
+  "zh": "关于画面信息"
  },
  {
   "id": "FMG/MENU.FMG/22004",
@@ -265560,7 +265560,7 @@
   "offset": "2ACE",
   "jp": "移動と行動について",
   "en": "Movement / Actions",
-  "zh": ""
+  "zh": "关于移动与行动"
  },
  {
   "id": "FMG/MENU.FMG/22011",
@@ -265569,7 +265569,7 @@
   "offset": "2AE2",
   "jp": "ＥＸ",
   "en": "EX",
-  "zh": ""
+  "zh": "ＥＸ"
  },
  {
   "id": "FMG/MENU.FMG/22012",
@@ -265578,7 +265578,7 @@
   "offset": "2AE8",
   "jp": "アイテム",
   "en": "Item",
-  "zh": ""
+  "zh": "道具"
  },
  {
   "id": "FMG/MENU.FMG/22013",
@@ -265587,7 +265587,7 @@
   "offset": "2AF2",
   "jp": "属性の相性",
   "en": "Opposing attributes",
-  "zh": ""
+  "zh": "属性相克"
  },
  {
   "id": "FMG/MENU.FMG/22014",
@@ -265596,7 +265596,7 @@
   "offset": "2AFE",
   "jp": "連携攻撃",
   "en": "Combo Attack",
-  "zh": ""
+  "zh": "连携攻击"
  },
  {
   "id": "FMG/MENU.FMG/22015",
@@ -265605,7 +265605,7 @@
   "offset": "2B08",
   "jp": "オーバーブレイク",
   "en": "Overbreak",
-  "zh": ""
+  "zh": "超越破防"
  },
  {
   "id": "FMG/MENU.FMG/22016",
@@ -265614,7 +265614,7 @@
   "offset": "2B1A",
   "jp": "直接攻撃と間接攻撃",
   "en": "Direct / Ranged ATK",
-  "zh": ""
+  "zh": "直接攻击与间接攻击"
  },
  {
   "id": "FMG/MENU.FMG/22017",
@@ -265623,7 +265623,7 @@
   "offset": "2B2E",
   "jp": "行動不能と蘇生",
   "en": "Exhausted / Revive",
-  "zh": ""
+  "zh": "无法行动与复活"
  },
  {
   "id": "FMG/MENU.FMG/22018",
@@ -265632,7 +265632,7 @@
   "offset": "2B3E",
   "jp": "全体コマンド",
   "en": "Party Commands",
-  "zh": ""
+  "zh": "全体指令"
  },
  {
   "id": "FMG/MENU.FMG/22101",
@@ -265641,7 +265641,7 @@
   "offset": "2B4C",
   "jp": "クリティカル",
   "en": "Critical",
-  "zh": ""
+  "zh": "暴击"
  },
  {
   "id": "FMG/MENU.FMG/22102",
@@ -265650,7 +265650,7 @@
   "offset": "2B5A",
   "jp": "オーバーブレイク",
   "en": "Overbreak",
-  "zh": ""
+  "zh": "超越破防"
  },
  {
   "id": "FMG/MENU.FMG/22103",
@@ -265659,7 +265659,7 @@
   "offset": "2B6C",
   "jp": "スーパーブレイク",
   "en": "Superbreak",
-  "zh": ""
+  "zh": "超级破防"
  },
  {
   "id": "FMG/MENU.FMG/22104",
@@ -265668,7 +265668,7 @@
   "offset": "2B7E",
   "jp": "死亡",
   "en": "Death",
-  "zh": ""
+  "zh": "阵亡"
  },
  {
   "id": "FMG/MENU.FMG/22105",
@@ -265677,7 +265677,7 @@
   "offset": "2B84",
   "jp": "復活",
   "en": "Revive",
-  "zh": ""
+  "zh": "复活"
  },
  {
   "id": "FMG/MENU.FMG/22106",
@@ -265686,7 +265686,7 @@
   "offset": "2B8A",
   "jp": "ダメージ無効",
   "en": "Invulnerable",
-  "zh": ""
+  "zh": "伤害无效"
  },
  {
   "id": "FMG/MENU.FMG/22107",
@@ -265695,7 +265695,7 @@
   "offset": "2B98",
   "jp": "召還",
   "en": "Summon",
-  "zh": ""
+  "zh": "召唤"
  },
  {
   "id": "FMG/MENU.FMG/22108",
@@ -265704,7 +265704,7 @@
   "offset": "2B9E",
   "jp": "ノックバック",
   "en": "Knockback",
-  "zh": ""
+  "zh": "击退"
  },
  {
   "id": "FMG/MENU.FMG/22109",
@@ -265713,7 +265713,7 @@
   "offset": "2BAC",
   "jp": "吸収",
   "en": "Absorb",
-  "zh": ""
+  "zh": "吸收"
  },
  {
   "id": "FMG/MENU.FMG/22110",
@@ -265722,7 +265722,7 @@
   "offset": "2BB2",
   "jp": "バリアー",
   "en": "Barrier",
-  "zh": ""
+  "zh": "护盾"
  },
  {
   "id": "FMG/MENU.FMG/22111",
@@ -265731,7 +265731,7 @@
   "offset": "2BBC",
   "jp": "カバー",
   "en": "Cover",
-  "zh": ""
+  "zh": "掩护"
  },
  {
   "id": "FMG/MENU.FMG/22112",
@@ -265740,7 +265740,7 @@
   "offset": "2BC4",
   "jp": "毒回復",
   "en": "Cure Poison",
-  "zh": ""
+  "zh": "解毒"
  },
  {
   "id": "FMG/MENU.FMG/22113",
@@ -265749,7 +265749,7 @@
   "offset": "2BCC",
   "jp": "封印回復",
   "en": "Break Seal",
-  "zh": ""
+  "zh": "解除封印"
  },
  {
   "id": "FMG/MENU.FMG/22114",
@@ -265758,7 +265758,7 @@
   "offset": "2BD6",
   "jp": "重力移動制限回復",
   "en": "Break Gravity",
-  "zh": ""
+  "zh": "解除重力移动限制"
  },
  {
   "id": "FMG/MENU.FMG/22115",
@@ -265767,7 +265767,7 @@
   "offset": "2BE8",
   "jp": "麻痺回復",
   "en": "Cure Paralysis",
-  "zh": ""
+  "zh": "解除麻痹"
  },
  {
   "id": "FMG/MENU.FMG/22116",
@@ -265776,7 +265776,7 @@
   "offset": "2BF2",
   "jp": "怒り回復",
   "en": "Cure Anger",
-  "zh": ""
+  "zh": "解除愤怒"
  },
  {
   "id": "FMG/MENU.FMG/22117",
@@ -265785,7 +265785,7 @@
   "offset": "2BFC",
   "jp": "属性変更回復",
   "en": "Cure Attribute Change",
-  "zh": ""
+  "zh": "恢复属性变更"
  },
  {
   "id": "FMG/MENU.FMG/22118",
@@ -265794,7 +265794,7 @@
   "offset": "2C0A",
   "jp": "完全バリア",
   "en": "Total Barrier",
-  "zh": ""
+  "zh": "完全护盾"
  },
  {
   "id": "FMG/MENU.FMG/22119",
@@ -265803,7 +265803,7 @@
   "offset": "2C16",
   "jp": "状態異常バリア",
   "en": "Status Barrier",
-  "zh": ""
+  "zh": "异常状态护盾"
  },
  {
   "id": "FMG/MENU.FMG/22120",
@@ -265812,7 +265812,7 @@
   "offset": "2C26",
   "jp": "ダメージ減少",
   "en": "Reduce Damage",
-  "zh": ""
+  "zh": "伤害减轻"
  },
  {
   "id": "FMG/MENU.FMG/22121",
@@ -265821,7 +265821,7 @@
   "offset": "2C34",
   "jp": "ＥＰ消費減少",
   "en": "Reduce EP Consumption",
-  "zh": ""
+  "zh": "EP消耗降低"
  },
  {
   "id": "FMG/MENU.FMG/22122",
@@ -265830,7 +265830,7 @@
   "offset": "2C42",
   "jp": "ＨＰ毎回復",
   "en": "Recover HP each turn",
-  "zh": ""
+  "zh": "每回合HP恢复"
  },
  {
   "id": "FMG/MENU.FMG/29001",
@@ -265839,7 +265839,7 @@
   "offset": "2C4E",
   "jp": "HP",
   "en": "HP",
-  "zh": ""
+  "zh": "HP"
  },
  {
   "id": "FMG/MENU.FMG/29002",
@@ -265848,7 +265848,7 @@
   "offset": "2C54",
   "jp": "EP",
   "en": "EP",
-  "zh": ""
+  "zh": "EP"
  },
  {
   "id": "FMG/MENU.FMG/29003",
@@ -265857,7 +265857,7 @@
   "offset": "2C5A",
   "jp": "EX",
   "en": "EX",
-  "zh": ""
+  "zh": "EX"
  },
  {
   "id": "FMG/MENU.FMG/29004",
@@ -265866,7 +265866,7 @@
   "offset": "2C60",
   "jp": "PP",
   "en": "PP",
-  "zh": ""
+  "zh": "PP"
  },
  {
   "id": "FMG/MENU.FMG/29005",
@@ -265875,7 +265875,7 @@
   "offset": "2C66",
   "jp": "%s%%",
   "en": "%s%%",
-  "zh": ""
+  "zh": "%s%%"
  },
  {
   "id": "FMG/MENU.FMG/40001",
@@ -265884,7 +265884,7 @@
   "offset": "2C70",
   "jp": "ゴーレム合成",
   "en": "Golem Synthesis",
-  "zh": ""
+  "zh": "魔像合成"
  },
  {
   "id": "FMG/MENU.FMG/40002",
@@ -265893,7 +265893,7 @@
   "offset": "2C7E",
   "jp": "レシピ",
   "en": "Recipe",
-  "zh": ""
+  "zh": "配方"
  },
  {
   "id": "FMG/MENU.FMG/40003",
@@ -265902,7 +265902,7 @@
   "offset": "2C86",
   "jp": "マテリアル",
   "en": "Materials",
-  "zh": ""
+  "zh": "素材"
  },
  {
   "id": "FMG/MENU.FMG/40004",
@@ -265911,7 +265911,7 @@
   "offset": "2C92",
   "jp": "使用数",
   "en": "Number of uses",
-  "zh": ""
+  "zh": "使用数"
  },
  {
   "id": "FMG/MENU.FMG/40005",
@@ -265920,7 +265920,7 @@
   "offset": "2C9A",
   "jp": "個数",
   "en": "Amount",
-  "zh": ""
+  "zh": "持有数"
  },
  {
   "id": "FMG/MENU.FMG/40006",
@@ -265929,7 +265929,7 @@
   "offset": "2CA0",
   "jp": "→",
   "en": "→",
-  "zh": ""
+  "zh": "→"
  },
  {
   "id": "FMG/MENU.FMG/40007",
@@ -265938,7 +265938,7 @@
   "offset": "2CA4",
   "jp": "ＥＴＨＥＲ",
   "en": "ETHER",
-  "zh": ""
+  "zh": "ETHER"
  },
  {
   "id": "FMG/MENU.FMG/40008",
@@ -265947,7 +265947,7 @@
   "offset": "2CB0",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "属性数值"
  },
  {
   "id": "FMG/MENU.FMG/40009",
@@ -265956,7 +265956,7 @@
   "offset": "2CBC",
   "jp": "#CFFFF0000不足#c",
   "en": "#CFFFF0000insufficient#c",
-  "zh": ""
+  "zh": "#CFFFF0000不足#c"
  },
  {
   "id": "FMG/MENU.FMG/40010",
@@ -265965,7 +265965,7 @@
   "offset": "2CDA",
   "jp": "これ以上連れて行けないため、ショップで預かります",
   "en": "No free space. The Golem has been sent to the Shop and stored.",
-  "zh": ""
+  "zh": "已无法携带更多魔像，已保管至商店"
  },
  {
   "id": "FMG/MENU.FMG/40011",
@@ -265974,7 +265974,7 @@
   "offset": "2D0C",
   "jp": "ショップに預ける時は、「ゴーレム入れ替え」を行なってください",
   "en": "Select \"Swap Golems\" to leave Golems at the shop.",
-  "zh": ""
+  "zh": "需要存入商店时，请进行「魔像替换」"
  },
  {
   "id": "FMG/MENU.FMG/40051",
@@ -265983,7 +265983,7 @@
   "offset": "2D4A",
   "jp": "名称",
   "en": "Material",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/40052",
@@ -265992,7 +265992,7 @@
   "offset": "2D50",
   "jp": "必要数",
   "en": "Required",
-  "zh": ""
+  "zh": "需要数"
  },
  {
   "id": "FMG/MENU.FMG/40053",
@@ -266001,7 +266001,7 @@
   "offset": "2D58",
   "jp": "個数",
   "en": "Owned",
-  "zh": ""
+  "zh": "持有数"
  },
  {
   "id": "FMG/MENU.FMG/40054",
@@ -266010,7 +266010,7 @@
   "offset": "2D5E",
   "jp": "ステータス",
   "en": "",
-  "zh": ""
+  "zh": "属性数值"
  },
  {
   "id": "FMG/MENU.FMG/40055",
@@ -266019,7 +266019,7 @@
   "offset": "2D6A",
   "jp": "現在",
   "en": "Current",
-  "zh": ""
+  "zh": "当前"
  },
  {
   "id": "FMG/MENU.FMG/40056",
@@ -266028,7 +266028,7 @@
   "offset": "2D70",
   "jp": "変更後",
   "en": "After change",
-  "zh": ""
+  "zh": "变更后"
  },
  {
   "id": "FMG/MENU.FMG/40057",
@@ -266037,7 +266037,7 @@
   "offset": "2D78",
   "jp": "直接",
   "en": "Direct",
-  "zh": ""
+  "zh": "近战"
  },
  {
   "id": "FMG/MENU.FMG/40058",
@@ -266046,7 +266046,7 @@
   "offset": "2D7E",
   "jp": "間接",
   "en": "Ranged",
-  "zh": ""
+  "zh": "远程"
  },
  {
   "id": "FMG/MENU.FMG/40059",
@@ -266055,7 +266055,7 @@
   "offset": "2D84",
   "jp": "援護",
   "en": "Support",
-  "zh": ""
+  "zh": "辅助"
  },
  {
   "id": "FMG/MENU.FMG/40060",
@@ -266064,7 +266064,7 @@
   "offset": "2D8A",
   "jp": "素早さ",
   "en": "Agility",
-  "zh": ""
+  "zh": "敏捷"
  },
  {
   "id": "FMG/MENU.FMG/40101",
@@ -266073,7 +266073,7 @@
   "offset": "2D92",
   "jp": "修練所",
   "en": "Training Hall",
-  "zh": ""
+  "zh": "修炼所"
  },
  {
   "id": "FMG/MENU.FMG/40102",
@@ -266082,7 +266082,7 @@
   "offset": "2D9A",
   "jp": "ゴーレム生成",
   "en": "Create Golem",
-  "zh": ""
+  "zh": "魔像生成"
  },
  {
   "id": "FMG/MENU.FMG/40103",
@@ -266091,7 +266091,7 @@
   "offset": "2DA8",
   "jp": "ゴーレム還元",
   "en": "Return Golem",
-  "zh": ""
+  "zh": "魔像分解"
  },
  {
   "id": "FMG/MENU.FMG/40104",
@@ -266100,7 +266100,7 @@
   "offset": "2DB6",
   "jp": "アイテム合成",
   "en": "Synthesize Item",
-  "zh": ""
+  "zh": "道具合成"
  },
  {
   "id": "FMG/MENU.FMG/40105",
@@ -266109,7 +266109,7 @@
   "offset": "2DC4",
   "jp": "アイテム還元",
   "en": "Return Item",
-  "zh": ""
+  "zh": "道具分解"
  },
  {
   "id": "FMG/MENU.FMG/40201",
@@ -266118,7 +266118,7 @@
   "offset": "2DD2",
   "jp": "%s を合成します",
   "en": "Synthesize %s.",
-  "zh": ""
+  "zh": "合成 %s"
  },
  {
   "id": "FMG/MENU.FMG/40202",
@@ -266127,7 +266127,7 @@
   "offset": "2DE6",
   "jp": "マテリアルが足りません",
   "en": "Not enough Materials.",
-  "zh": ""
+  "zh": "素材不足"
  },
  {
   "id": "FMG/MENU.FMG/40203",
@@ -266136,7 +266136,7 @@
   "offset": "2DFE",
   "jp": "%s を合成しました",
   "en": "Synthesized %s.",
-  "zh": ""
+  "zh": "已合成 %s"
  },
  {
   "id": "FMG/MENU.FMG/40211",
@@ -266145,7 +266145,7 @@
   "offset": "2E14",
   "jp": "合成する",
   "en": "Synthesize",
-  "zh": ""
+  "zh": "合成"
  },
  {
   "id": "FMG/MENU.FMG/40212",
@@ -266154,7 +266154,7 @@
   "offset": "2E1E",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/40213",
@@ -266163,7 +266163,7 @@
   "offset": "2E2A",
   "jp": "キャラクター紹介",
   "en": "Character Bio",
-  "zh": ""
+  "zh": "角色介绍"
  },
  {
   "id": "FMG/MENU.FMG/41000",
@@ -266172,7 +266172,7 @@
   "offset": "2E3C",
   "jp": "ショップ",
   "en": "Shop",
-  "zh": ""
+  "zh": "商店"
  },
  {
   "id": "FMG/MENU.FMG/41001",
@@ -266181,7 +266181,7 @@
   "offset": "2E46",
   "jp": "アイテム購入",
   "en": "Buy Item",
-  "zh": ""
+  "zh": "购买道具"
  },
  {
   "id": "FMG/MENU.FMG/41002",
@@ -266190,7 +266190,7 @@
   "offset": "2E54",
   "jp": "コアマテリアル購入",
   "en": "Buy Core Material",
-  "zh": ""
+  "zh": "购买核心素材"
  },
  {
   "id": "FMG/MENU.FMG/41003",
@@ -266199,7 +266199,7 @@
   "offset": "2E68",
   "jp": "アイテム売却",
   "en": "Sell Item",
-  "zh": ""
+  "zh": "出售道具"
  },
  {
   "id": "FMG/MENU.FMG/41004",
@@ -266208,7 +266208,7 @@
   "offset": "2E76",
   "jp": "ゴーレム合成",
   "en": "Synthesize Golem",
-  "zh": ""
+  "zh": "魔像合成"
  },
  {
   "id": "FMG/MENU.FMG/41005",
@@ -266217,7 +266217,7 @@
   "offset": "2E84",
   "jp": "武器合成",
   "en": "Synthesize Weapon",
-  "zh": ""
+  "zh": "武器合成"
  },
  {
   "id": "FMG/MENU.FMG/41006",
@@ -266226,7 +266226,7 @@
   "offset": "2E8E",
   "jp": "ゴーレム入れ替え",
   "en": "Swap Golems",
-  "zh": ""
+  "zh": "魔像替换"
  },
  {
   "id": "FMG/MENU.FMG/41007",
@@ -266235,7 +266235,7 @@
   "offset": "2EA0",
   "jp": "ゴーレム名変更",
   "en": "Change Golem Name",
-  "zh": ""
+  "zh": "更改魔像名"
  },
  {
   "id": "FMG/MENU.FMG/41008",
@@ -266244,7 +266244,7 @@
   "offset": "2EB0",
   "jp": "所持ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "持有ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/41009",
@@ -266253,7 +266253,7 @@
   "offset": "2EBA",
   "jp": "ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/41010",
@@ -266262,7 +266262,7 @@
   "offset": "2EC0",
   "jp": "個数",
   "en": "Amount",
-  "zh": ""
+  "zh": "数量"
  },
  {
   "id": "FMG/MENU.FMG/41011",
@@ -266271,7 +266271,7 @@
   "offset": "2EC6",
   "jp": "種類順にソート",
   "en": "Sort by category",
-  "zh": ""
+  "zh": "按种类排序"
  },
  {
   "id": "FMG/MENU.FMG/41012",
@@ -266280,7 +266280,7 @@
   "offset": "2ED6",
   "jp": "個数順にソート",
   "en": "Sort by amount",
-  "zh": ""
+  "zh": "按数量排序"
  },
  {
   "id": "FMG/MENU.FMG/41013",
@@ -266289,7 +266289,7 @@
   "offset": "2EE6",
   "jp": "名前順にソート",
   "en": "Sort by name",
-  "zh": ""
+  "zh": "按名称排序"
  },
  {
   "id": "FMG/MENU.FMG/41014",
@@ -266298,7 +266298,7 @@
   "offset": "2EF6",
   "jp": "個数",
   "en": "Amount",
-  "zh": ""
+  "zh": "数量"
  },
  {
   "id": "FMG/MENU.FMG/41015",
@@ -266307,7 +266307,7 @@
   "offset": "2EFC",
   "jp": "→",
   "en": "→",
-  "zh": ""
+  "zh": "→"
  },
  {
   "id": "FMG/MENU.FMG/41016",
@@ -266316,7 +266316,7 @@
   "offset": "2F00",
   "jp": "サイズ",
   "en": "Size",
-  "zh": ""
+  "zh": "体型"
  },
  {
   "id": "FMG/MENU.FMG/41017",
@@ -266325,7 +266325,7 @@
   "offset": "2F08",
   "jp": "Ｓ",
   "en": "S",
-  "zh": ""
+  "zh": "Ｓ"
  },
  {
   "id": "FMG/MENU.FMG/41018",
@@ -266334,7 +266334,7 @@
   "offset": "2F0C",
   "jp": "Ｌ",
   "en": "L",
-  "zh": ""
+  "zh": "Ｌ"
  },
  {
   "id": "FMG/MENU.FMG/41019",
@@ -266343,7 +266343,7 @@
   "offset": "2F10",
   "jp": "連れて行くゴーレム",
   "en": "Golems to take along",
-  "zh": ""
+  "zh": "随行魔像"
  },
  {
   "id": "FMG/MENU.FMG/41020",
@@ -266352,7 +266352,7 @@
   "offset": "2F24",
   "jp": "預けておくゴーレム",
   "en": "Golems to leave behind",
-  "zh": ""
+  "zh": "存放魔像"
  },
  {
   "id": "FMG/MENU.FMG/41021",
@@ -266361,7 +266361,7 @@
   "offset": "2F38",
   "jp": "はずす",
   "en": "Remove",
-  "zh": ""
+  "zh": "卸下"
  },
  {
   "id": "FMG/MENU.FMG/41022",
@@ -266370,7 +266370,7 @@
   "offset": "2F40",
   "jp": "ＬＶ順にソート",
   "en": "Sort by level",
-  "zh": ""
+  "zh": "按ＬＶ排序"
  },
  {
   "id": "FMG/MENU.FMG/41023",
@@ -266379,7 +266379,7 @@
   "offset": "2F50",
   "jp": "サイズ順にソート",
   "en": "Sort by size",
-  "zh": ""
+  "zh": "按体型排序"
  },
  {
   "id": "FMG/MENU.FMG/41024",
@@ -266388,7 +266388,7 @@
   "offset": "2F62",
   "jp": "必要ＴＢ順にソート",
   "en": "Sort by required TB",
-  "zh": ""
+  "zh": "按所需ＴＢ排序"
  },
  {
   "id": "FMG/MENU.FMG/41025",
@@ -266397,7 +266397,7 @@
   "offset": "2F76",
   "jp": "マテリアル順にソート",
   "en": "Sort by materials",
-  "zh": ""
+  "zh": "按素材排序"
  },
  {
   "id": "FMG/MENU.FMG/41026",
@@ -266406,7 +266406,7 @@
   "offset": "2F8C",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/41027",
@@ -266415,7 +266415,7 @@
   "offset": "2F98",
   "jp": "次のレベルまで",
   "en": "Until next level",
-  "zh": ""
+  "zh": "距下一级还需"
  },
  {
   "id": "FMG/MENU.FMG/41028",
@@ -266424,7 +266424,7 @@
   "offset": "2FA8",
   "jp": "名称",
   "en": "Name",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/41029",
@@ -266433,7 +266433,7 @@
   "offset": "2FAE",
   "jp": "ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "TB"
  },
  {
   "id": "FMG/MENU.FMG/41030",
@@ -266442,7 +266442,7 @@
   "offset": "2FB4",
   "jp": "購入数",
   "en": "Amount",
-  "zh": ""
+  "zh": "购买数量"
  },
  {
   "id": "FMG/MENU.FMG/41031",
@@ -266451,7 +266451,7 @@
   "offset": "2FBC",
   "jp": "%s %d個をＴＢ%dで購入しますか？",
   "en": "Buy %d %s with %d TB?",
-  "zh": ""
+  "zh": "是否花费 %d TB 购买 %d 个 %s？"
  },
  {
   "id": "FMG/MENU.FMG/41032",
@@ -266460,7 +266460,7 @@
   "offset": "2FE4",
   "jp": "ステータス順にソート",
   "en": "Sort by status",
-  "zh": ""
+  "zh": "按能力值排序"
  },
  {
   "id": "FMG/MENU.FMG/41033",
@@ -266469,7 +266469,7 @@
   "offset": "2FFA",
   "jp": "属性順にソート",
   "en": "Sort by attribute",
-  "zh": ""
+  "zh": "按属性排序"
  },
  {
   "id": "FMG/MENU.FMG/41034",
@@ -266478,7 +266478,7 @@
   "offset": "300A",
   "jp": "スキル購入",
   "en": "Buy Skill",
-  "zh": ""
+  "zh": "购买技能"
  },
  {
   "id": "FMG/MENU.FMG/41035",
@@ -266487,7 +266487,7 @@
   "offset": "3016",
   "jp": "合計",
   "en": "Total",
-  "zh": ""
+  "zh": "合计"
  },
  {
   "id": "FMG/MENU.FMG/41036",
@@ -266496,7 +266496,7 @@
   "offset": "301C",
   "jp": "購入する",
   "en": "Buy",
-  "zh": ""
+  "zh": "购买"
  },
  {
   "id": "FMG/MENU.FMG/41037",
@@ -266505,7 +266505,7 @@
   "offset": "3026",
   "jp": "売却数",
   "en": "Amount",
-  "zh": ""
+  "zh": "出售数量"
  },
  {
   "id": "FMG/MENU.FMG/41038",
@@ -266514,7 +266514,7 @@
   "offset": "302E",
   "jp": "売却する",
   "en": "Sell",
-  "zh": ""
+  "zh": "出售"
  },
  {
   "id": "FMG/MENU.FMG/41039",
@@ -266523,7 +266523,7 @@
   "offset": "3038",
   "jp": "交換数",
   "en": "Amount",
-  "zh": ""
+  "zh": "兑换数量"
  },
  {
   "id": "FMG/MENU.FMG/41040",
@@ -266532,7 +266532,7 @@
   "offset": "3040",
   "jp": "交換する",
   "en": "Exchange",
-  "zh": ""
+  "zh": "兑换"
  },
  {
   "id": "FMG/MENU.FMG/41041",
@@ -266541,7 +266541,7 @@
   "offset": "304A",
   "jp": "枚",
   "en": " ",
-  "zh": ""
+  "zh": "张"
  },
  {
   "id": "FMG/MENU.FMG/41042",
@@ -266550,7 +266550,7 @@
   "offset": "304E",
   "jp": "%sを習得できるようになりました",
   "en": "Can now learn %s .",
-  "zh": ""
+  "zh": "已可习得%s"
  },
  {
   "id": "FMG/MENU.FMG/41201",
@@ -266559,7 +266559,7 @@
   "offset": "3070",
   "jp": "購入できるアイテムがありません",
   "en": "No items are available.",
-  "zh": ""
+  "zh": "没有可购买的道具"
  },
  {
   "id": "FMG/MENU.FMG/41202",
@@ -266568,7 +266568,7 @@
   "offset": "3090",
   "jp": "購入できるスキルがありません",
   "en": "No skills are available.",
-  "zh": ""
+  "zh": "没有可购买的技能"
  },
  {
   "id": "FMG/MENU.FMG/41203",
@@ -266577,7 +266577,7 @@
   "offset": "30AE",
   "jp": "購入できるコアマテリアルがありません",
   "en": "No core materials are available.",
-  "zh": ""
+  "zh": "没有可购买的核心素材"
  },
  {
   "id": "FMG/MENU.FMG/41204",
@@ -266586,7 +266586,7 @@
   "offset": "30D4",
   "jp": "売却できるアイテムがありません",
   "en": "You have no items to sell.",
-  "zh": ""
+  "zh": "没有可出售的道具"
  },
  {
   "id": "FMG/MENU.FMG/41205",
@@ -266595,7 +266595,7 @@
   "offset": "30F4",
   "jp": "合成できるゴーレムがいません",
   "en": "No Golems to be synthesized.",
-  "zh": ""
+  "zh": "没有可合成的魔像"
  },
  {
   "id": "FMG/MENU.FMG/41206",
@@ -266604,7 +266604,7 @@
   "offset": "3112",
   "jp": "合成できる武器がありません",
   "en": "No weapons can be synthesized.",
-  "zh": ""
+  "zh": "没有可合成的武器"
  },
  {
   "id": "FMG/MENU.FMG/41207",
@@ -266613,7 +266613,7 @@
   "offset": "312E",
   "jp": "入れ替えられるゴーレムがいません\n（“連れて行く”か“預けておく”かを変更できるゴーレムがいません）",
   "en": "You have no Golems that can be swapped.\n(Take along / leave behind cannot be used.)",
-  "zh": ""
+  "zh": "没有可替换的魔像\n（没有可在“同行”与“存放”之间切换的魔像）"
  },
  {
   "id": "FMG/MENU.FMG/41208",
@@ -266622,7 +266622,7 @@
   "offset": "3194",
   "jp": "名称を変更できるゴーレムがいません",
   "en": "You have no Golems with changeable names.",
-  "zh": ""
+  "zh": "没有可更改名称的魔像"
  },
  {
   "id": "FMG/MENU.FMG/41211",
@@ -266631,7 +266631,7 @@
   "offset": "31B8",
   "jp": "購入できるアイテムがありません",
   "en": "No items are available.",
-  "zh": ""
+  "zh": "没有可购买的道具"
  },
  {
   "id": "FMG/MENU.FMG/41212",
@@ -266640,7 +266640,7 @@
   "offset": "31D8",
   "jp": "購入できるスキルがありません",
   "en": "No skills are available.",
-  "zh": ""
+  "zh": "没有可购买的技能"
  },
  {
   "id": "FMG/MENU.FMG/41213",
@@ -266649,7 +266649,7 @@
   "offset": "31F6",
   "jp": "購入できるコアマテリアルがありません",
   "en": "No core materials are available.",
-  "zh": ""
+  "zh": "没有可购买的核心素材"
  },
  {
   "id": "FMG/MENU.FMG/41214",
@@ -266658,7 +266658,7 @@
   "offset": "321C",
   "jp": "売却できるアイテムがありません",
   "en": "No items to be sold.",
-  "zh": ""
+  "zh": "没有可出售的道具"
  },
  {
   "id": "FMG/MENU.FMG/41215",
@@ -266667,7 +266667,7 @@
   "offset": "323C",
   "jp": "合成できるゴーレムがいません",
   "en": "No Golems to be synthesized.",
-  "zh": ""
+  "zh": "没有可合成的魔像"
  },
  {
   "id": "FMG/MENU.FMG/41216",
@@ -266676,7 +266676,7 @@
   "offset": "325A",
   "jp": "入れ替えられるゴーレムがいません\n（“連れて行く”か“預けておく”かを変更できるゴーレムがいません）",
   "en": "You have no Golems that can be swapped.\n(Take along / leave behind cannot be used.)",
-  "zh": ""
+  "zh": "没有可替换的魔像\n（没有可在“同行”与“存放”之间切换的魔像）"
  },
  {
   "id": "FMG/MENU.FMG/41217",
@@ -266685,7 +266685,7 @@
   "offset": "32C0",
   "jp": "名称を変更できるゴーレムがいません",
   "en": "You have no Golems with changeable names.",
-  "zh": ""
+  "zh": "没有可更改名称的魔像"
  },
  {
   "id": "FMG/MENU.FMG/41218",
@@ -266694,7 +266694,7 @@
   "offset": "32E4",
   "jp": "合成できる武器がありません",
   "en": "No weapons can be synthesized.",
-  "zh": ""
+  "zh": "没有可合成的武器"
  },
  {
   "id": "FMG/MENU.FMG/41221",
@@ -266703,7 +266703,7 @@
   "offset": "3300",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "所持TB不足"
  },
  {
   "id": "FMG/MENU.FMG/41222",
@@ -266712,7 +266712,7 @@
   "offset": "3316",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "所持TB不足"
  },
  {
   "id": "FMG/MENU.FMG/41223",
@@ -266721,7 +266721,7 @@
   "offset": "332C",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "所持TB不足"
  },
  {
   "id": "FMG/MENU.FMG/41224",
@@ -266730,7 +266730,7 @@
   "offset": "3342",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "所持TB不足"
  },
  {
   "id": "FMG/MENU.FMG/41225",
@@ -266739,7 +266739,7 @@
   "offset": "3358",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "所持TB不足"
  },
  {
   "id": "FMG/MENU.FMG/41226",
@@ -266748,7 +266748,7 @@
   "offset": "336E",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "持有的ＴＢ不足"
  },
  {
   "id": "FMG/MENU.FMG/41227",
@@ -266757,7 +266757,7 @@
   "offset": "3384",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "持有的ＴＢ不足"
  },
  {
   "id": "FMG/MENU.FMG/41228",
@@ -266766,7 +266766,7 @@
   "offset": "339A",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "持有的ＴＢ不足"
  },
  {
   "id": "FMG/MENU.FMG/41230",
@@ -266775,7 +266775,7 @@
   "offset": "33B0",
   "jp": "これ以上、購入できません",
   "en": "You can't buy any more.",
-  "zh": ""
+  "zh": "无法再购买更多了"
  },
  {
   "id": "FMG/MENU.FMG/41231",
@@ -266784,7 +266784,7 @@
   "offset": "33CA",
   "jp": "これ以上、購入できません",
   "en": "You can't buy any more.",
-  "zh": ""
+  "zh": "无法再购买更多了"
  },
  {
   "id": "FMG/MENU.FMG/41232",
@@ -266793,7 +266793,7 @@
   "offset": "33E4",
   "jp": "これ以上、購入できません",
   "en": "You can't buy any more.",
-  "zh": ""
+  "zh": "无法再购买更多了"
  },
  {
   "id": "FMG/MENU.FMG/41233",
@@ -266802,7 +266802,7 @@
   "offset": "33FE",
   "jp": "これ以上、売却できません",
   "en": "You can't sell any more.",
-  "zh": ""
+  "zh": "无法再出售更多了"
  },
  {
   "id": "FMG/MENU.FMG/41234",
@@ -266811,7 +266811,7 @@
   "offset": "3418",
   "jp": "これ以上、交換できません",
   "en": "You can't exchange any more.",
-  "zh": ""
+  "zh": "无法再交换更多了"
  },
  {
   "id": "FMG/MENU.FMG/41235",
@@ -266820,7 +266820,7 @@
   "offset": "3432",
   "jp": "これ以上、購入できません",
   "en": "You can't buy any more.",
-  "zh": ""
+  "zh": "无法再购买更多了"
  },
  {
   "id": "FMG/MENU.FMG/41500",
@@ -266829,7 +266829,7 @@
   "offset": "344C",
   "jp": "メニューで使用すると\nスキルを習得できるアイテム\n\n習得スキル：%s\n（%s属性 %sスキル）\n習得可能キャラクター：%s\n必要なＳＰ：% 6d%s\n\n%s",
   "en": "An item that allows a skill to\nbe learned.\n\nAcquired Skill: %s\n (%s element  %s skill)\nUseable Character: %s\nRequired SP: % 6d%s\n\n%s",
-  "zh": ""
+  "zh": "在菜单中使用后\n可习得技能的道具\n\n习得技能：%s\n（%s属性 %s技能）\n可习得角色：%s\n所需ＳＰ：% 6d%s\n\n%s"
  },
  {
   "id": "FMG/MENU.FMG/41501",
@@ -266838,7 +266838,7 @@
   "offset": "34EA",
   "jp": "武器の合成に必要なアイテム\n\n合成武器：%s\n装備可能キャラクター：%s\n\n直接　% 4d  間接　% 4d\n援護　% 4d  素早さ% 4d\n\n必要なマテリアル：必要数(所持数)\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）",
   "en": "Required items to synthesize:\n\nWeapon synthesized: %s\nCan be equipped by: %s\n\nDirect  % 4d   Ranged  % 4d\nSupport % 4d   Agility % 4d\n\nRequired materials: Need (Held)\n         %s:% 4d (% 4d)\n         %s: % 4d (% 4d)\n         %s:% 4d (% 4d)",
-  "zh": ""
+  "zh": "合成武器所需的道具\n\n合成武器：%s\n可装备角色：%s\n\n直接　% 4d  间接　% 4d\n援护　% 4d  敏捷　% 4d\n\n所需素材：所需数(持有数)\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）"
  },
  {
   "id": "FMG/MENU.FMG/41502",
@@ -266847,7 +266847,7 @@
   "offset": "3606",
   "jp": "ゴーレムの合成に必要なアイテム\n\n合成ゴーレム：%s\nＬＶ　% 4d　 %s属性\nサイズ　% 2d 　移動力　% 2d\nＨＰ　% 4d   ＥＰ　% 4d\n直接　% 4d   間接　% 4d\n援護　% 4d   素早さ% 4d\n\n必要なマテリアル：必要数(所持数)\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）",
   "en": "Required items to synthesize:\n\nGolem synthesized - %s\nLV  % 4d     %s element\nSize  %2d     Mobility  %2d\nHP      % 4d   EP      % 4d\nDirect  % 4d   Ranged  % 4d\nSupport % 4d   Agility % 4d\n\nRequired materials: Need (Held)\n         %s:% 4d (% 4d)\n         %s: % 4d (% 4d)\n         %s:% 4d (% 4d)",
-  "zh": ""
+  "zh": "合成魔像所需的道具\n\n合成魔像：%s\n等级　% 4d　 %s属性\n尺寸　% 2d 　移动力　% 2d\nＨＰ　% 4d   ＥＰ　% 4d\n直接　% 4d   间接　% 4d\n援护　% 4d   敏捷　% 4d\n\n所需素材：所需数(持有数)\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）\n　　　%s：% 4d（% 4d）"
  },
  {
   "id": "FMG/MENU.FMG/41503",
@@ -266856,7 +266856,7 @@
   "offset": "3776",
   "jp": "装備することで、直接や間接などの\nステータスを増減するアイテム\n\n装備可能キャラクター：%s\n\n直接% 4d  間接% 4d\n援護% 4d  素早さ% 4d",
   "en": "An item that increases or\ndecreases close and ranged\nstatus when equipped.\n\nUseable characters: %s\n\nDirect  % 4d   Ranged  % 4d\nSupport % 4d   Agility % 4d",
-  "zh": ""
+  "zh": "装备后可增减直接、间接等\n属性数值的道具\n\n可装备角色：%s\n\n直接% 4d  间接% 4d\n援护% 4d  敏捷% 4d"
  },
  {
   "id": "FMG/MENU.FMG/41504",
@@ -266865,7 +266865,7 @@
   "offset": "3814",
   "jp": "全員",
   "en": "All",
-  "zh": ""
+  "zh": "全员"
  },
  {
   "id": "FMG/MENU.FMG/41505",
@@ -266874,7 +266874,7 @@
   "offset": "381A",
   "jp": "（% 3d）",
   "en": " (% 3d)",
-  "zh": ""
+  "zh": "（% 3d）"
  },
  {
   "id": "FMG/MENU.FMG/41506",
@@ -266883,7 +266883,7 @@
   "offset": "3828",
   "jp": "？？？",
   "en": "???",
-  "zh": ""
+  "zh": "？？？"
  },
  {
   "id": "FMG/MENU.FMG/41507",
@@ -266892,7 +266892,7 @@
   "offset": "3830",
   "jp": "サポート",
   "en": "Support",
-  "zh": ""
+  "zh": "支援"
  },
  {
   "id": "FMG/MENU.FMG/41508",
@@ -266901,7 +266901,7 @@
   "offset": "383A",
   "jp": "（現在のＳＰ）",
   "en": " (Current SP)",
-  "zh": ""
+  "zh": "（当前ＳＰ）"
  },
  {
   "id": "FMG/MENU.FMG/41510",
@@ -266910,7 +266910,7 @@
   "offset": "384A",
   "jp": "スキルの習得に必要なアイテム\n\n習得スキル：#CFFAAAA77%s#c\n　　　#CFFAAAA77（%s属性 %sスキル）#c\n習得可能キャラクター：#CFFAAAA77%s#c\n必要ＳＰ（現在のＳＰ）：\n　　　　#CFFAAAA77% 6d%s#c\n\n%s",
   "en": "An item required to learn a new skill.\n\nSkill learned: #CFFAAAA77%s#c\n  #CFFAAA77 (%s Attribute %s Skill) #c\n\nCharacter(s) to learn it: #CFFAAAA77%s#c\nRequired SP (Current SP):\n  #CFFAAAA77% 6d%s#c\n\n%s",
-  "zh": ""
+  "zh": "习得技能所需的道具\n\n习得技能：#CFFAAAA77%s#c\n　　　#CFFAAAA77（%s属性 %s技能）#c\n可习得角色：#CFFAAAA77%s#c\n所需ＳＰ（当前ＳＰ）：\n　　　　#CFFAAAA77% 6d%s#c\n\n%s"
  },
  {
   "id": "FMG/MENU.FMG/41511",
@@ -266919,7 +266919,7 @@
   "offset": "3950",
   "jp": "武器の合成に必要なアイテム\n\n合成武器：#CFFAAAA77%s#c\n装備可能キャラクター：#CFFAAAA77%s#c\n\nＨＰ#CFFAAAA77　% 6d#c  ＥＰ#CFFAAAA77  % 6d#c\n直接#CFFAAAA77　% 6d#c  間接#CFFAAAA77  % 6d#c\n援護#CFFAAAA77　% 6d#c  素早さ#CFFAAAA77% 6d#c\n\n必要マテリアル（所持マテリアル）\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c",
   "en": "An item required to synthesize\na new weapon.\n\nWeapon: #CFFAAAA77%s#c\nEquipped by: #CFFAAAA77%s#c\nHP#CFFAAAA77#c      % 6d#c   EP#CFFAAAA77#c      % 6d#c\nDirect#CFFAAAA77#c  % 6d#c   Ranged#CFFAAAA77#c  % 6d#c\nSupport#CFFAAAA77#c % 6d#c   Agility#CFFAAAA77#c % 6d#c\n\nRequired materials: Need (Held)\n         %s: #CFFAAAA77% 4d (% 4d) #c\n         %s:  #CFFAAAA77% 4d (% 4d) #c\n         %s: #CFFAAAA77% 4d (% 4d) #c",
-  "zh": ""
+  "zh": "合成武器所需的道具\n\n合成武器：#CFFAAAA77%s#c\n可装备角色：#CFFAAAA77%s#c\n\nＨＰ#CFFAAAA77　% 6d#c  ＥＰ#CFFAAAA77  % 6d#c\n直接#CFFAAAA77　% 6d#c  间接#CFFAAAA77  % 6d#c\n援护#CFFAAAA77　% 6d#c  敏捷#CFFAAAA77% 6d#c\n\n所需素材（持有素材）\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c"
  },
  {
   "id": "FMG/MENU.FMG/41512",
@@ -266928,7 +266928,7 @@
   "offset": "3B9E",
   "jp": "ゴーレムの合成に必要なアイテム\n\n合成ゴーレム：#CFFAAAA77%s#c\nＬＶ　　#CFFAAAA77% 4d#c   %s属性\nサイズ　　#CFFAAAA77% 2d#c   移動力　#CFFAAAA77% 2d#c\nＨＰ　#CFFAAAA77% 6d#c   ＥＰ　#CFFAAAA77% 4d#c\n直接　#CFFAAAA77% 6d#c   間接　#CFFAAAA77% 4d#c\n援護　#CFFAAAA77% 6d#c   素早さ#CFFAAAA77% 4d#c\n\n必要マテリアル（所持マテリアル）\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c",
   "en": "An item required to synthesize\na new golem.\n\nGolem: #CFFAAAA77%s#c\nLV  #CFFAAAA77% 4d#c   %s Attribute\nSize #CFFAAAA77% 2d#c    Mobility #CFFAAAA77% 2d#c\nHP      #CFFAAAA77% 6d#c  EP  #CFFAAAA77% 4d#c\nDirect  #CFFAAAA77% 6d#c  Ranged  #CFFAAAA77% 4d#c\nSupport #CFFAAAA77% 6d#c  Agility #CFFAAAA77% 4d#c\nRequired materials: Need (Held)\n         %s: #CFFAAAA77% 4d (% 4d) #c\n         %s:  #CFFAAAA77% 4d (% 4d) #c\n         %s: #CFFAAAA77% 4d (% 4d) #c",
-  "zh": ""
+  "zh": "合成魔像所需的道具\n\n合成魔像：#CFFAAAA77%s#c\n等级　　#CFFAAAA77% 4d#c   %s属性\n尺寸　　#CFFAAAA77% 2d#c   移动力　#CFFAAAA77% 2d#c\nＨＰ　#CFFAAAA77% 6d#c   ＥＰ　#CFFAAAA77% 4d#c\n直接　#CFFAAAA77% 6d#c   间接　#CFFAAAA77% 4d#c\n援护　#CFFAAAA77% 6d#c   敏捷　#CFFAAAA77% 4d#c\n\n所需素材（持有素材）\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c\n　　　　%s：#CFFAAAA77% 4d（% 4d）#c"
  },
  {
   "id": "FMG/MENU.FMG/41513",
@@ -266937,7 +266937,7 @@
   "offset": "3E52",
   "jp": "装備することで、直接や間接などの\nステータスを増減するアイテム\n\n装備可能キャラクター：#CFFAAAA77%s#c\n\nＨＰ　#CFFAAAA77% 6d#c  ＥＰ  #CFFAAAA77% 6d#c\n直接　#CFFAAAA77% 6d#c  間接  #CFFAAAA77% 6d#c\n援護　#CFFAAAA77% 6d#c  素早さ#CFFAAAA77% 6d#c",
   "en": "Item that raises or lowers\nparameter, such as direct or\nranged attack, when equipped.\n\nUseable Character: #CFFAAAA77%s#c\n\nHP      #CFFAAAA77% 6d#c  EP      #CFFAAAA77% 6d#c\nDirect  #CFFAAAA77% 6d#c  Ranged  #CFFAAAA77% 6d#c\nSupport #CFFAAAA77% 6d#c  Agility #CFFAAAA77% 6d#c    ",
-  "zh": ""
+  "zh": "装备后可增减直接、间接等\n属性数值的道具\n\n可装备角色：#CFFAAAA77%s#c\n\nＨＰ　#CFFAAAA77% 6d#c  ＥＰ  #CFFAAAA77% 6d#c\n直接　#CFFAAAA77% 6d#c  间接  #CFFAAAA77% 6d#c\n援护　#CFFAAAA77% 6d#c  敏捷　#CFFAAAA77% 6d#c"
  },
  {
   "id": "FMG/MENU.FMG/41514",
@@ -266946,7 +266946,7 @@
   "offset": "3FC4",
   "jp": "習得スキル：#CFFAAAA77%s#c\n　　　#CFFAAAA77（%s属性 %sスキル）#c\n習得可能キャラクター：#CFFAAAA77%s#c\n必要ＳＰ%s：\n　　　　#CFFAAAA77% 6d%s#c\n\n%s",
   "en": "Skill learned: #CFFAAAA77%s#c\n  #CFFAAA77(%s Attribute %s Skill) #c\n\nCharacter(s) to learn it: #CFFAAAA77%s#c\nRequired SP: #CFFAAAA77% 6d#c\n\n%s",
-  "zh": ""
+  "zh": "习得技能：#CFFAAAA77%s#c\n　　　#CFFAAAA77（%s属性 %s技能）#c\n可习得角色：#CFFAAAA77%s#c\n所需ＳＰ%s：\n　　　　#CFFAAAA77% 6d%s#c\n\n%s"
  },
  {
   "id": "FMG/MENU.FMG/42000",
@@ -266955,7 +266955,7 @@
   "offset": "40A0",
   "jp": "ＬＶ",
   "en": "LV",
-  "zh": ""
+  "zh": "等级"
  },
  {
   "id": "FMG/MENU.FMG/42001",
@@ -266964,7 +266964,7 @@
   "offset": "40A6",
   "jp": "ＶＰ",
   "en": "VP",
-  "zh": ""
+  "zh": "ＶＰ"
  },
  {
   "id": "FMG/MENU.FMG/42002",
@@ -266973,7 +266973,7 @@
   "offset": "40AC",
   "jp": "ステータス異常",
   "en": "Status Effect",
-  "zh": ""
+  "zh": "异常状态"
  },
  {
   "id": "FMG/MENU.FMG/42003",
@@ -266982,7 +266982,7 @@
   "offset": "40BC",
   "jp": "直接",
   "en": "Direct",
-  "zh": ""
+  "zh": "直接"
  },
  {
   "id": "FMG/MENU.FMG/42004",
@@ -266991,7 +266991,7 @@
   "offset": "40C2",
   "jp": "間接",
   "en": "Ranged",
-  "zh": ""
+  "zh": "间接"
  },
  {
   "id": "FMG/MENU.FMG/42005",
@@ -267000,7 +267000,7 @@
   "offset": "40C8",
   "jp": "援護",
   "en": "Support",
-  "zh": ""
+  "zh": "援护"
  },
  {
   "id": "FMG/MENU.FMG/42006",
@@ -267009,7 +267009,7 @@
   "offset": "40CE",
   "jp": "素早さ",
   "en": "Agility",
-  "zh": ""
+  "zh": "敏捷"
  },
  {
   "id": "FMG/MENU.FMG/42007",
@@ -267018,7 +267018,7 @@
   "offset": "40D6",
   "jp": "サイズ",
   "en": "Size",
-  "zh": ""
+  "zh": "尺寸"
  },
  {
   "id": "FMG/MENU.FMG/42008",
@@ -267027,7 +267027,7 @@
   "offset": "40DE",
   "jp": "移動範囲",
   "en": "Move Range",
-  "zh": ""
+  "zh": "移动范围"
  },
  {
   "id": "FMG/MENU.FMG/42009",
@@ -267036,7 +267036,7 @@
   "offset": "40E8",
   "jp": "所持アイテム",
   "en": "Items",
-  "zh": ""
+  "zh": "持有道具"
  },
  {
   "id": "FMG/MENU.FMG/42010",
@@ -267045,7 +267045,7 @@
   "offset": "40F6",
   "jp": "経験値",
   "en": "EXP",
-  "zh": ""
+  "zh": "经验值"
  },
  {
   "id": "FMG/MENU.FMG/42011",
@@ -267054,7 +267054,7 @@
   "offset": "40FE",
   "jp": "ＳＰ",
   "en": "SP",
-  "zh": ""
+  "zh": "ＳＰ"
  },
  {
   "id": "FMG/MENU.FMG/42012",
@@ -267063,7 +267063,7 @@
   "offset": "4104",
   "jp": "SUPPORT",
   "en": "Support",
-  "zh": ""
+  "zh": "辅助"
  },
  {
   "id": "FMG/MENU.FMG/42013",
@@ -267072,7 +267072,7 @@
   "offset": "4114",
   "jp": "SKILL",
   "en": "Skill",
-  "zh": ""
+  "zh": "技能"
  },
  {
   "id": "FMG/MENU.FMG/42014",
@@ -267081,7 +267081,7 @@
   "offset": "4120",
   "jp": "EX",
   "en": "EX",
-  "zh": ""
+  "zh": "EX"
  },
  {
   "id": "FMG/MENU.FMG/43000",
@@ -267090,7 +267090,7 @@
   "offset": "4126",
   "jp": "%sの名称は変更できません",
   "en": "%s's name can't be changed.",
-  "zh": ""
+  "zh": "无法更改%s的名称"
  },
  {
   "id": "FMG/MENU.FMG/43001",
@@ -267099,7 +267099,7 @@
   "offset": "4142",
   "jp": "%sは武器を装備できません",
   "en": "%s can't equip weapon.",
-  "zh": ""
+  "zh": "%s无法装备武器"
  },
  {
   "id": "FMG/MENU.FMG/43002",
@@ -267108,7 +267108,7 @@
   "offset": "415E",
   "jp": "%sはスキルを習得できません",
   "en": "%s can't acquire skill.",
-  "zh": ""
+  "zh": "%s无法习得技能"
  },
  {
   "id": "FMG/MENU.FMG/60001",
@@ -267117,7 +267117,7 @@
   "offset": "417C",
   "jp": "オプション",
   "en": "Option",
-  "zh": ""
+  "zh": "选项"
  },
  {
   "id": "FMG/MENU.FMG/60002",
@@ -267126,7 +267126,7 @@
   "offset": "4188",
   "jp": "サウンド",
   "en": "Sound",
-  "zh": ""
+  "zh": "声音"
  },
  {
   "id": "FMG/MENU.FMG/60003",
@@ -267135,7 +267135,7 @@
   "offset": "4192",
   "jp": "画面",
   "en": "Screen",
-  "zh": ""
+  "zh": "画面"
  },
  {
   "id": "FMG/MENU.FMG/60004",
@@ -267144,7 +267144,7 @@
   "offset": "4198",
   "jp": "壁紙",
   "en": "Wallpaper",
-  "zh": ""
+  "zh": "壁纸"
  },
  {
   "id": "FMG/MENU.FMG/60005",
@@ -267153,7 +267153,7 @@
   "offset": "419E",
   "jp": "その他",
   "en": "Other",
-  "zh": ""
+  "zh": "其他"
  },
  {
   "id": "FMG/MENU.FMG/60101",
@@ -267162,7 +267162,7 @@
   "offset": "41A6",
   "jp": "サウンドオプション",
   "en": "Sound options",
-  "zh": ""
+  "zh": "声音选项"
  },
  {
   "id": "FMG/MENU.FMG/60102",
@@ -267171,7 +267171,7 @@
   "offset": "41BA",
   "jp": "音楽",
   "en": "Music",
-  "zh": ""
+  "zh": "音乐"
  },
  {
   "id": "FMG/MENU.FMG/60103",
@@ -267180,7 +267180,7 @@
   "offset": "41C0",
   "jp": "効果音",
   "en": "Sound effects",
-  "zh": ""
+  "zh": "音效"
  },
  {
   "id": "FMG/MENU.FMG/60104",
@@ -267189,7 +267189,7 @@
   "offset": "41C8",
   "jp": "音声",
   "en": "Voice",
-  "zh": ""
+  "zh": "语音"
  },
  {
   "id": "FMG/MENU.FMG/60105",
@@ -267198,7 +267198,7 @@
   "offset": "41CE",
   "jp": "音声言語",
   "en": "Voice Language",
-  "zh": ""
+  "zh": "语音语言"
  },
  {
   "id": "FMG/MENU.FMG/60106",
@@ -267207,7 +267207,7 @@
   "offset": "41D8",
   "jp": "決定",
   "en": "Decide",
-  "zh": ""
+  "zh": "确定"
  },
  {
   "id": "FMG/MENU.FMG/60107",
@@ -267216,7 +267216,7 @@
   "offset": "41DE",
   "jp": "初期状態に戻す",
   "en": "Return to default settings",
-  "zh": ""
+  "zh": "恢复默认设置"
  },
  {
   "id": "FMG/MENU.FMG/60108",
@@ -267225,7 +267225,7 @@
   "offset": "41EE",
   "jp": "英語",
   "en": "English",
-  "zh": ""
+  "zh": "英语"
  },
  {
   "id": "FMG/MENU.FMG/60109",
@@ -267234,7 +267234,7 @@
   "offset": "41F4",
   "jp": "日本語",
   "en": "Japanese",
-  "zh": ""
+  "zh": "日语"
  },
  {
   "id": "FMG/MENU.FMG/60201",
@@ -267243,7 +267243,7 @@
   "offset": "41FC",
   "jp": "画面",
   "en": "Screen",
-  "zh": ""
+  "zh": "画面"
  },
  {
   "id": "FMG/MENU.FMG/60202",
@@ -267252,7 +267252,7 @@
   "offset": "4202",
   "jp": "輝度設定",
   "en": "Brightness settings",
-  "zh": ""
+  "zh": "亮度设置"
  },
  {
   "id": "FMG/MENU.FMG/60203",
@@ -267261,7 +267261,7 @@
   "offset": "420C",
   "jp": "パネル色変更",
   "en": "Change panel color",
-  "zh": ""
+  "zh": "变更面板颜色"
  },
  {
   "id": "FMG/MENU.FMG/60204",
@@ -267270,7 +267270,7 @@
   "offset": "421A",
   "jp": "地図表示",
   "en": "Map display",
-  "zh": ""
+  "zh": "显示地图"
  },
  {
   "id": "FMG/MENU.FMG/60205",
@@ -267279,7 +267279,7 @@
   "offset": "4224",
   "jp": "ＭＩＮ",
   "en": "MIN",
-  "zh": ""
+  "zh": "最小"
  },
  {
   "id": "FMG/MENU.FMG/60206",
@@ -267288,7 +267288,7 @@
   "offset": "422C",
   "jp": "ＭＡＸ",
   "en": "MAX",
-  "zh": ""
+  "zh": "最大"
  },
  {
   "id": "FMG/MENU.FMG/60207",
@@ -267297,7 +267297,7 @@
   "offset": "4234",
   "jp": "あり",
   "en": "Yes",
-  "zh": ""
+  "zh": "开启"
  },
  {
   "id": "FMG/MENU.FMG/60208",
@@ -267306,7 +267306,7 @@
   "offset": "423A",
   "jp": "なし",
   "en": "No",
-  "zh": ""
+  "zh": "关闭"
  },
  {
   "id": "FMG/MENU.FMG/60301",
@@ -267315,7 +267315,7 @@
   "offset": "4240",
   "jp": "壁紙",
   "en": "Wallpaper",
-  "zh": ""
+  "zh": "壁纸"
  },
  {
   "id": "FMG/MENU.FMG/60401",
@@ -267324,7 +267324,7 @@
   "offset": "4246",
   "jp": "ゲームオプション",
   "en": "Game options",
-  "zh": ""
+  "zh": "游戏选项"
  },
  {
   "id": "FMG/MENU.FMG/60402",
@@ -267333,7 +267333,7 @@
   "offset": "4258",
   "jp": "画面の明るさ",
   "en": "Screen brightness",
-  "zh": ""
+  "zh": "屏幕亮度"
  },
  {
   "id": "FMG/MENU.FMG/60403",
@@ -267342,7 +267342,7 @@
   "offset": "4266",
   "jp": "振動の強さ",
   "en": "Vibration strength",
-  "zh": ""
+  "zh": "震动强度"
  },
  {
   "id": "FMG/MENU.FMG/60404",
@@ -267351,7 +267351,7 @@
   "offset": "4272",
   "jp": "テキスト表示",
   "en": "Text display",
-  "zh": ""
+  "zh": "文本显示"
  },
  {
   "id": "FMG/MENU.FMG/60405",
@@ -267360,7 +267360,7 @@
   "offset": "4280",
   "jp": "カーソル位置",
   "en": "Cursor position",
-  "zh": ""
+  "zh": "光标位置"
  },
  {
   "id": "FMG/MENU.FMG/60406",
@@ -267369,7 +267369,7 @@
   "offset": "428E",
   "jp": "ダイナミックカメラ",
   "en": "Dynamic camera",
-  "zh": ""
+  "zh": "动态视角"
  },
  {
   "id": "FMG/MENU.FMG/60407",
@@ -267378,7 +267378,7 @@
   "offset": "42A2",
   "jp": "ＯＮ",
   "en": "ON",
-  "zh": ""
+  "zh": "开启"
  },
  {
   "id": "FMG/MENU.FMG/60408",
@@ -267387,7 +267387,7 @@
   "offset": "42A8",
   "jp": "ＯＦＦ",
   "en": "OFF",
-  "zh": ""
+  "zh": "关闭"
  },
  {
   "id": "FMG/MENU.FMG/60409",
@@ -267396,7 +267396,7 @@
   "offset": "42B0",
   "jp": "一文字ずつ表示",
   "en": "One at a time",
-  "zh": ""
+  "zh": "逐字显示"
  },
  {
   "id": "FMG/MENU.FMG/60410",
@@ -267405,7 +267405,7 @@
   "offset": "42C0",
   "jp": "一括で表示",
   "en": "All at once",
-  "zh": ""
+  "zh": "完整显示"
  },
  {
   "id": "FMG/MENU.FMG/60411",
@@ -267414,7 +267414,7 @@
   "offset": "42CC",
   "jp": "記憶する",
   "en": "Remember",
-  "zh": ""
+  "zh": "记住"
  },
  {
   "id": "FMG/MENU.FMG/60412",
@@ -267423,7 +267423,7 @@
   "offset": "42D6",
   "jp": "記憶しない",
   "en": "Don't remember",
-  "zh": ""
+  "zh": "不记住"
  },
  {
   "id": "FMG/MENU.FMG/60413",
@@ -267432,7 +267432,7 @@
   "offset": "42E2",
   "jp": "決定",
   "en": "Decide",
-  "zh": ""
+  "zh": "确定"
  },
  {
   "id": "FMG/MENU.FMG/60414",
@@ -267441,7 +267441,7 @@
   "offset": "42E8",
   "jp": "初期状態に戻す",
   "en": "Use default settings",
-  "zh": ""
+  "zh": "恢复默认设置"
  },
  {
   "id": "FMG/MENU.FMG/60415",
@@ -267450,7 +267450,7 @@
   "offset": "42F8",
   "jp": "カメラ上下操作",
   "en": "Camera Up/Down",
-  "zh": ""
+  "zh": "镜头上下操作"
  },
  {
   "id": "FMG/MENU.FMG/60416",
@@ -267459,7 +267459,7 @@
   "offset": "4308",
   "jp": "ノーマル",
   "en": "Normal",
-  "zh": ""
+  "zh": "标准"
  },
  {
   "id": "FMG/MENU.FMG/60417",
@@ -267468,7 +267468,7 @@
   "offset": "4312",
   "jp": "リバース",
   "en": "Reverse",
-  "zh": ""
+  "zh": "反转"
  },
  {
   "id": "FMG/MENU.FMG/60418",
@@ -267477,7 +267477,7 @@
   "offset": "431C",
   "jp": "センサー移動",
   "en": "Sensor Movement",
-  "zh": ""
+  "zh": "感应移动"
  },
  {
   "id": "FMG/MENU.FMG/60419",
@@ -267486,7 +267486,7 @@
   "offset": "432A",
   "jp": "あり",
   "en": "On",
-  "zh": ""
+  "zh": "开启"
  },
  {
   "id": "FMG/MENU.FMG/60420",
@@ -267495,7 +267495,7 @@
   "offset": "4330",
   "jp": "なし",
   "en": "Off",
-  "zh": ""
+  "zh": "关闭"
  },
  {
   "id": "FMG/MENU.FMG/60450",
@@ -267504,7 +267504,7 @@
   "offset": "4336",
   "jp": "設定を変更しますか？",
   "en": "Change settings?",
-  "zh": ""
+  "zh": "要更改设置吗？"
  },
  {
   "id": "FMG/MENU.FMG/60451",
@@ -267513,7 +267513,7 @@
   "offset": "434C",
   "jp": "ゲームを終了し、タイトル画面に戻ります　\n現在のプレイ状況が失われることがありますが、よろしいですか？",
   "en": "Quit the game and return to the Title Screen.\nCurrent progress will be lost, okay?",
-  "zh": ""
+  "zh": "退出游戏并返回标题画面。　\n当前的游戏进度可能会丢失，确定要退出吗？"
  },
  {
   "id": "FMG/MENU.FMG/60500",
@@ -267522,7 +267522,7 @@
   "offset": "43B4",
   "jp": "サインインしていないため、途中でゲームプレイを保存できません",
   "en": "You are currently not signed in. \nIf you continue, you will not be able to save your game.",
-  "zh": ""
+  "zh": "由于未登录，游戏过程中将无法保存进度"
  },
  {
   "id": "FMG/MENU.FMG/60501",
@@ -267531,7 +267531,7 @@
   "offset": "43F2",
   "jp": "サインインしないと、ゲームプレイを読み込めません\nサインインしますか？",
   "en": "You cannot load the game if you are not signed in.\nDo you want to sign in?",
-  "zh": ""
+  "zh": "未登录将无法读取游戏存档\n是否进行登录？"
  },
  {
   "id": "FMG/MENU.FMG/60502",
@@ -267540,7 +267540,7 @@
   "offset": "443A",
   "jp": "サインインしているユーザーが違います",
   "en": "Wrong user...",
-  "zh": ""
+  "zh": "当前登录的用户不一致"
  },
  {
   "id": "FMG/MENU.FMG/60503",
@@ -267549,7 +267549,7 @@
   "offset": "4460",
   "jp": "読み込み中…",
   "en": "Loading...",
-  "zh": ""
+  "zh": "读取中…"
  },
  {
   "id": "FMG/MENU.FMG/60504",
@@ -267558,7 +267558,7 @@
   "offset": "446E",
   "jp": "データ%dにゲームプレイを保存します",
   "en": "Save game to data %d.",
-  "zh": ""
+  "zh": "将游戏进度保存至存档%d"
  },
  {
   "id": "FMG/MENU.FMG/60505",
@@ -267567,7 +267567,7 @@
   "offset": "4494",
   "jp": "データ%dにゲームプレイを上書きします\nこれまでのゲームプレイは失われますが、よろしいですか？",
   "en": "Overwrite game to data %d.\nPreviously saved data will be lost, okay?",
-  "zh": ""
+  "zh": "将覆盖存档%d的游戏数据\n原有的游戏进度将会丢失，确定要覆盖吗？"
  },
  {
   "id": "FMG/MENU.FMG/60506",
@@ -267576,7 +267576,7 @@
   "offset": "44F4",
   "jp": "データ%dのゲームプレイを読み込みます\n現在のプレイ状況が失われますが、よろしいですか？",
   "en": "Load data %d.\nCurrent progress will be lost, okay?",
-  "zh": ""
+  "zh": "将读取存档%d的游戏进度\n当前的游戏进度将会丢失，确定要读取吗？"
  },
  {
   "id": "FMG/MENU.FMG/60507",
@@ -267585,7 +267585,7 @@
   "offset": "454E",
   "jp": "データの保存中には、HDDアクセスランプが点滅しますので\nその間は本体の電源を切らないでください",
   "en": "The HDD access lamp is on while saving data.\nDo not turn off the power while the lamp is on.",
-  "zh": ""
+  "zh": "保存数据期间，硬盘指示灯会闪烁，\n在此期间切勿切断主机电源"
  },
  {
   "id": "FMG/MENU.FMG/60508",
@@ -267594,7 +267594,7 @@
   "offset": "45B0",
   "jp": "データの読み込み中には、HDDアクセスランプが点滅しますので\nその間は本体の電源を切らないでください",
   "en": "The HDD access lamp is on while loading data.\nDo not turn off the power while the lamp is on.",
-  "zh": ""
+  "zh": "读取数据期间，硬盘指示灯会闪烁，\n在此期间切勿切断主机电源"
  },
  {
   "id": "FMG/MENU.FMG/60509",
@@ -267603,7 +267603,7 @@
   "offset": "4616",
   "jp": "ゲームプレイを正常に保存しました",
   "en": "Game data was saved successfully.",
-  "zh": ""
+  "zh": "游戏进度已成功保存"
  },
  {
   "id": "FMG/MENU.FMG/60510",
@@ -267612,7 +267612,7 @@
   "offset": "4638",
   "jp": "ゲームプレイを正常に読み込みました",
   "en": "Game data was loaded successfully.",
-  "zh": ""
+  "zh": "游戏进度已成功读取"
  },
  {
   "id": "FMG/MENU.FMG/60511",
@@ -267621,7 +267621,7 @@
   "offset": "465C",
   "jp": "保存に失敗しました",
   "en": "Save failed.",
-  "zh": ""
+  "zh": "保存失败"
  },
  {
   "id": "FMG/MENU.FMG/60512",
@@ -267630,7 +267630,7 @@
   "offset": "4670",
   "jp": "読み込みに失敗しました",
   "en": "Load failed.",
-  "zh": ""
+  "zh": "读取失败"
  },
  {
   "id": "FMG/MENU.FMG/60513",
@@ -267639,7 +267639,7 @@
   "offset": "4688",
   "jp": "ゲームプレイを保存するのに十分な空き容量がありません\nあと%dＫＢの空きが必要です",
   "en": "Insufficient space to save game.\n%d KB more free space required.",
-  "zh": ""
+  "zh": "没有足够的剩余空间来保存游戏进度\n还需要%dＫＢ的可用空间"
  },
  {
   "id": "FMG/MENU.FMG/60516",
@@ -267648,7 +267648,7 @@
   "offset": "46DC",
   "jp": "保存機器が見つからない、もしくは取得に失敗しました\n保存機器の接続状態を確認をしてください",
   "en": "Failed to find or acquire storage device.\nCheck the storage device connection.",
-  "zh": ""
+  "zh": "未找到存储设备，或获取存储设备失败\n请确认存储设备的连接状态"
  },
  {
   "id": "FMG/MENU.FMG/60517",
@@ -267657,7 +267657,7 @@
   "offset": "4738",
   "jp": "サインインしないと、ゲームの途中でゲームプレイを保存できません\nサインインしますか？",
   "en": "You are currently not signed in. \nIf you continue, you will not be able to save your game.\nDo you wish to sign in now?",
-  "zh": ""
+  "zh": "未登录将无法在游戏过程中保存进度\n是否进行登录？"
  },
  {
   "id": "FMG/MENU.FMG/60518",
@@ -267666,7 +267666,7 @@
   "offset": "478E",
   "jp": "ゲームプレイを保存できる容量があるかどうかチェックします\n%dＫＢ以上の空き容量がない場合\n途中でゲームプレイを保存することができません\n（すでにゲームプレイが保存されている場合には上書きが可能です）",
   "en": "Checking that there is sufficient space to save game.\nAt least %d KB of free space is needed to save game.\n(Previously saved data can still be overwritten.)",
-  "zh": ""
+  "zh": "正在检查是否有足够的空间来保存游戏进度\n若没有%dＫＢ以上的剩余空间\n在游戏过程中将无法保存游戏进度\n（若已存在保存的游戏进度，则可以进行覆盖）"
  },
  {
   "id": "FMG/MENU.FMG/60522",
@@ -267675,7 +267675,7 @@
   "offset": "4858",
   "jp": "データ%dのゲームプレイを読み込みます",
   "en": "Load game data %d.",
-  "zh": ""
+  "zh": "读取存档%d的游戏进度"
  },
  {
   "id": "FMG/MENU.FMG/60523",
@@ -267684,7 +267684,7 @@
   "offset": "4880",
   "jp": "データ%dのゲームプレイを読み込みます",
   "en": "Load game data %d.",
-  "zh": ""
+  "zh": "读取存档%d的游戏进度"
  },
  {
   "id": "FMG/MENU.FMG/60524",
@@ -267693,7 +267693,7 @@
   "offset": "48A8",
   "jp": "ゲームプレイが壊れています",
   "en": "The saved game appears to be damaged and cannot be used.",
-  "zh": ""
+  "zh": "存档数据已损坏"
  },
  {
   "id": "FMG/MENU.FMG/60526",
@@ -267702,7 +267702,7 @@
   "offset": "48C4",
   "jp": "サインインしていないため、ゲームプレイを読み込むことができません",
   "en": "You have to sign in to load the game.",
-  "zh": ""
+  "zh": "由于未登录，无法读取存档数据"
  },
  {
   "id": "FMG/MENU.FMG/60533",
@@ -267711,7 +267711,7 @@
   "offset": "4906",
   "jp": "サインインしていないため、保存ができません\nゲームプレイを保存せずに続きを始めることはできません\nゲームを終了します",
   "en": "You are not signed in, and so cannot save your progress.\nYou cannot continue without saving game data.\nEnding the game.",
-  "zh": ""
+  "zh": "由于未登录，无法保存\n无法在不保存游戏进度的情况下继续游戏\n即将结束游戏"
  },
  {
   "id": "FMG/MENU.FMG/60538",
@@ -267720,7 +267720,7 @@
   "offset": "497C",
   "jp": "十分な空き容量を確認しました\nゲームを始めます",
   "en": "Sufficient free space confirmed.\nStarting game.",
-  "zh": ""
+  "zh": "已确认有足够的可用空间\n开始游戏"
  },
  {
   "id": "FMG/MENU.FMG/60540",
@@ -267729,7 +267729,7 @@
   "offset": "49AC",
   "jp": "クリアデータを保存しました",
   "en": "Game clear data saved.",
-  "zh": ""
+  "zh": "通关数据已保存"
  },
  {
   "id": "FMG/MENU.FMG/60541",
@@ -267738,7 +267738,7 @@
   "offset": "49C8",
   "jp": "クリアした状態のゲームプレイを保存できます\n\nレベル、ゴーレム、アイテムなどを引き継いで\nプレイを再開できます\n（なお、一部イベントのみリセットされた状態での再開になります）",
   "en": "You can save your game clear data.\n\nYou can then restart the game and carry over levels,\nGolems and items.\n(Certain events will be played with status reset)",
-  "zh": ""
+  "zh": "可以保存已通关状态的游戏数据\n\n可继承等级、魔像、道具等\n重新开始游戏\n（另外，重新开始时仅有部分事件会被重置）"
  },
  {
   "id": "FMG/MENU.FMG/60542",
@@ -267747,7 +267747,7 @@
   "offset": "4A78",
   "jp": "このゲームプレイは\nXbox　Live以外で読み込むことができません",
   "en": "This game data can only be loaded in Xbox Live.",
-  "zh": ""
+  "zh": "该存档数据\n无法在Xbox Live之外的环境读取"
  },
  {
   "id": "FMG/MENU.FMG/60543",
@@ -267756,7 +267756,7 @@
   "offset": "4ABE",
   "jp": "ゲームプレイを保存しないまま、終了します\nクリア時のプレイ状況が失われますが、よろしいですか？",
   "en": "Finish without saving.\nYour clear data will be lost, okay?",
-  "zh": ""
+  "zh": "将在不保存游戏数据的情况下退出\n通关时的游戏进度将会丢失，是否确定？"
  },
  {
   "id": "FMG/MENU.FMG/60544",
@@ -267765,7 +267765,7 @@
   "offset": "4B1E",
   "jp": "ゲームプレイを保存するのに十分な空き容量がありません\n\nデータを削除しますか？",
   "en": "Not enough free space to save game data.\n%dKB more free space is required.\n\nDelete some data?",
-  "zh": ""
+  "zh": "没有足够的可用空间来保存游戏数据\n\n是否删除数据？"
  },
  {
   "id": "FMG/MENU.FMG/60555",
@@ -267774,7 +267774,7 @@
   "offset": "4B6E",
   "jp": "【eM】 システムデータ",
   "en": "System Data",
-  "zh": ""
+  "zh": "【eM】系统数据"
  },
  {
   "id": "FMG/MENU.FMG/60556",
@@ -267783,7 +267783,7 @@
   "offset": "4B88",
   "jp": "%",
   "en": "%",
-  "zh": ""
+  "zh": "%"
  },
  {
   "id": "FMG/MENU.FMG/60560",
@@ -267792,7 +267792,7 @@
   "offset": "4B8C",
   "jp": "【eM】 データ%d %d:%d:%d",
   "en": "%s %04d/%02d/%02d %02d:%02d:%02d",
-  "zh": ""
+  "zh": "【eM】数据%d %d:%d:%d"
  },
  {
   "id": "FMG/MENU.FMG/60561",
@@ -267801,7 +267801,7 @@
   "offset": "4BB4",
   "jp": "データ%d",
   "en": "Data %d",
-  "zh": ""
+  "zh": "数据%d"
  },
  {
   "id": "FMG/MENU.FMG/60562",
@@ -267810,7 +267810,7 @@
   "offset": "4BC0",
   "jp": "Lv%d",
   "en": "Lv %d",
-  "zh": ""
+  "zh": "Lv%d"
  },
  {
   "id": "FMG/MENU.FMG/60565",
@@ -267819,7 +267819,7 @@
   "offset": "4BCA",
   "jp": "Xbox 360 ハードディスク",
   "en": "Xbox 360 Hard Drive",
-  "zh": ""
+  "zh": "Xbox 360 硬盘"
  },
  {
   "id": "FMG/MENU.FMG/60566",
@@ -267828,7 +267828,7 @@
   "offset": "4BEC",
   "jp": "Xbox 360 メモリー ユニット",
   "en": "Xbox 360 Memory Unit",
-  "zh": ""
+  "zh": "Xbox 360 储存盒"
  },
  {
   "id": "FMG/MENU.FMG/60567",
@@ -267837,7 +267837,7 @@
   "offset": "4C12",
   "jp": "%d回",
   "en": "%d times",
-  "zh": ""
+  "zh": "%d次"
  },
  {
   "id": "FMG/MENU.FMG/60568",
@@ -267846,7 +267846,7 @@
   "offset": "4C1A",
   "jp": "%d:%d:%d",
   "en": "%d:%d:%d",
-  "zh": ""
+  "zh": "%d:%d:%d"
  },
  {
   "id": "FMG/MENU.FMG/60569",
@@ -267855,7 +267855,7 @@
   "offset": "4C2C",
   "jp": "%u",
   "en": "%u",
-  "zh": ""
+  "zh": "%u"
  },
  {
   "id": "FMG/MENU.FMG/60570",
@@ -267864,7 +267864,7 @@
   "offset": "4C32",
   "jp": "プレイ情報",
   "en": "Play Info",
-  "zh": ""
+  "zh": "游玩信息"
  },
  {
   "id": "FMG/MENU.FMG/60571",
@@ -267873,7 +267873,7 @@
   "offset": "4C3E",
   "jp": "進行度",
   "en": "Progress",
-  "zh": ""
+  "zh": "进度"
  },
  {
   "id": "FMG/MENU.FMG/60572",
@@ -267882,7 +267882,7 @@
   "offset": "4C46",
   "jp": "クリア回数",
   "en": "Clear Times",
-  "zh": ""
+  "zh": "通关次数"
  },
  {
   "id": "FMG/MENU.FMG/60573",
@@ -267891,7 +267891,7 @@
   "offset": "4C52",
   "jp": "総プレイ時間",
   "en": "Total Play Time",
-  "zh": ""
+  "zh": "总游玩时间"
  },
  {
   "id": "FMG/MENU.FMG/60574",
@@ -267900,7 +267900,7 @@
   "offset": "4C60",
   "jp": "所持ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "持有TB"
  },
  {
   "id": "FMG/MENU.FMG/60575",
@@ -267909,7 +267909,7 @@
   "offset": "4C6A",
   "jp": "ゲームプレイがありません",
   "en": "No game data",
-  "zh": ""
+  "zh": "没有存档数据"
  },
  {
   "id": "FMG/MENU.FMG/60576",
@@ -267918,7 +267918,7 @@
   "offset": "4C84",
   "jp": "破損しています",
   "en": "Corrupted",
-  "zh": ""
+  "zh": "已损坏"
  },
  {
   "id": "FMG/MENU.FMG/60577",
@@ -267927,7 +267927,7 @@
   "offset": "4C94",
   "jp": "ゲームクリア",
   "en": "Game completed",
-  "zh": ""
+  "zh": "游戏通关"
  },
  {
   "id": "FMG/MENU.FMG/60580",
@@ -267936,7 +267936,7 @@
   "offset": "4CA2",
   "jp": "①:はい",
   "en": "①: Yes",
-  "zh": ""
+  "zh": "①:是"
  },
  {
   "id": "FMG/MENU.FMG/60581",
@@ -267945,7 +267945,7 @@
   "offset": "4CAC",
   "jp": "②:いいえ",
   "en": "②: No",
-  "zh": ""
+  "zh": "②:否"
  },
  {
   "id": "FMG/MENU.FMG/60582",
@@ -267954,7 +267954,7 @@
   "offset": "4CB8",
   "jp": "①:サインインする",
   "en": "①: Sign in",
-  "zh": ""
+  "zh": "①:登录"
  },
  {
   "id": "FMG/MENU.FMG/60583",
@@ -267963,7 +267963,7 @@
   "offset": "4CCC",
   "jp": "②:サインインしない",
   "en": "②: Don't sign in",
-  "zh": ""
+  "zh": "②:不登录"
  },
  {
   "id": "FMG/MENU.FMG/60584",
@@ -267972,7 +267972,7 @@
   "offset": "4CE2",
   "jp": "②:そのまま始める",
   "en": "②: Start without signing in",
-  "zh": ""
+  "zh": "②:直接开始"
  },
  {
   "id": "FMG/MENU.FMG/60585",
@@ -267981,7 +267981,7 @@
   "offset": "4CF6",
   "jp": "①:保存場所を変更する",
   "en": "①: Change save location",
-  "zh": ""
+  "zh": "①:更改保存位置"
  },
  {
   "id": "FMG/MENU.FMG/60586",
@@ -267990,7 +267990,7 @@
   "offset": "4D0E",
   "jp": "②:セーブをやめる",
   "en": "②: Cancel save",
-  "zh": ""
+  "zh": "②:取消保存"
  },
  {
   "id": "FMG/MENU.FMG/60587",
@@ -267999,7 +267999,7 @@
   "offset": "4D22",
   "jp": "②:そのまま始める",
   "en": "②: Start without saving",
-  "zh": ""
+  "zh": "②:直接开始"
  },
  {
   "id": "FMG/MENU.FMG/60588",
@@ -268008,7 +268008,7 @@
   "offset": "4D36",
   "jp": "①:読み込む場所を変更する",
   "en": "①: Change load location",
-  "zh": ""
+  "zh": "①:更改读取位置"
  },
  {
   "id": "FMG/MENU.FMG/60589",
@@ -268017,7 +268017,7 @@
   "offset": "4D52",
   "jp": "②:ロードをやめる",
   "en": "②: Cancel load",
-  "zh": ""
+  "zh": "②:取消读取"
  },
  {
   "id": "FMG/MENU.FMG/60590",
@@ -268026,7 +268026,7 @@
   "offset": "4D66",
   "jp": "①:保存場所を変更する",
   "en": "①: Change save location",
-  "zh": ""
+  "zh": "①:更改保存位置"
  },
  {
   "id": "FMG/MENU.FMG/60591",
@@ -268035,7 +268035,7 @@
   "offset": "4D7E",
   "jp": "②:保存場所を変更しない",
   "en": "②: Don't change save location",
-  "zh": ""
+  "zh": "②:不更改保存位置"
  },
  {
   "id": "FMG/MENU.FMG/60592",
@@ -268044,7 +268044,7 @@
   "offset": "4D98",
   "jp": "①:ＯＫ",
   "en": "①: OK",
-  "zh": ""
+  "zh": "①:确定"
  },
  {
   "id": "FMG/MENU.FMG/60593",
@@ -268053,7 +268053,7 @@
   "offset": "4DA2",
   "jp": "①:保存場所をチェックする",
   "en": "①: Check save location",
-  "zh": ""
+  "zh": "①:检查保存位置"
  },
  {
   "id": "FMG/MENU.FMG/60594",
@@ -268062,7 +268062,7 @@
   "offset": "4DBE",
   "jp": "②:戻る",
   "en": "②: Return",
-  "zh": ""
+  "zh": "②:返回"
  },
  {
   "id": "FMG/MENU.FMG/60595",
@@ -268071,7 +268071,7 @@
   "offset": "4DC8",
   "jp": "②:保存せずに終了する",
   "en": "②: Quit without saving",
-  "zh": ""
+  "zh": "②:不保存并退出"
  },
  {
   "id": "FMG/MENU.FMG/60596",
@@ -268080,7 +268080,7 @@
   "offset": "4DE0",
   "jp": "①:タイトル画面に戻る",
   "en": "①: Back to title screen",
-  "zh": ""
+  "zh": "①:返回标题画面"
  },
  {
   "id": "FMG/MENU.FMG/60601",
@@ -268089,7 +268089,7 @@
   "offset": "4DF8",
   "jp": "システム",
   "en": "System",
-  "zh": ""
+  "zh": "系统"
  },
  {
   "id": "FMG/MENU.FMG/60602",
@@ -268098,7 +268098,7 @@
   "offset": "4E02",
   "jp": "セーブ",
   "en": "Save",
-  "zh": ""
+  "zh": "保存"
  },
  {
   "id": "FMG/MENU.FMG/60603",
@@ -268107,7 +268107,7 @@
   "offset": "4E0A",
   "jp": "ロード",
   "en": "Load",
-  "zh": ""
+  "zh": "读取"
  },
  {
   "id": "FMG/MENU.FMG/60604",
@@ -268116,7 +268116,7 @@
   "offset": "4E12",
   "jp": "ゲームオプション",
   "en": "Game options",
-  "zh": ""
+  "zh": "游戏设置"
  },
  {
   "id": "FMG/MENU.FMG/60605",
@@ -268125,7 +268125,7 @@
   "offset": "4E24",
   "jp": "サウンドオプション",
   "en": "Sound options",
-  "zh": ""
+  "zh": "声音设置"
  },
  {
   "id": "FMG/MENU.FMG/60606",
@@ -268134,7 +268134,7 @@
   "offset": "4E38",
   "jp": "タイトル画面に戻る",
   "en": "Back to Title Screen",
-  "zh": ""
+  "zh": "返回标题画面"
  },
  {
   "id": "FMG/MENU.FMG/60700",
@@ -268143,7 +268143,7 @@
   "offset": "4E4C",
   "jp": "チュートリアル",
   "en": "Tutorial",
-  "zh": ""
+  "zh": "教学指南"
  },
  {
   "id": "FMG/MENU.FMG/60701",
@@ -268152,7 +268152,7 @@
   "offset": "4E5C",
   "jp": "用語説明",
   "en": "Terminology",
-  "zh": ""
+  "zh": "名词解释"
  },
  {
   "id": "FMG/MENU.FMG/60750",
@@ -268161,7 +268161,7 @@
   "offset": "4E66",
   "jp": "戦闘の練習をしますか？",
   "en": "Train for battle?",
-  "zh": ""
+  "zh": "要进行战斗练习吗？"
  },
  {
   "id": "FMG/MENU.FMG/60767",
@@ -268170,7 +268170,7 @@
   "offset": "4E7E",
   "jp": "基本篇",
   "en": "Basic",
-  "zh": ""
+  "zh": "基础篇"
  },
  {
   "id": "FMG/MENU.FMG/60792",
@@ -268179,7 +268179,7 @@
   "offset": "4E86",
   "jp": "応用篇",
   "en": "Advanced",
-  "zh": ""
+  "zh": "进阶篇"
  },
  {
   "id": "FMG/MENU.FMG/70000",
@@ -268188,7 +268188,7 @@
   "offset": "4E8E",
   "jp": "制限時間",
   "en": "Time Limit",
-  "zh": ""
+  "zh": "时间限制"
  },
  {
   "id": "FMG/MENU.FMG/70001",
@@ -268197,7 +268197,7 @@
   "offset": "4E98",
   "jp": "残り　%d秒",
   "en": "%d seconds remaining",
-  "zh": ""
+  "zh": "剩余　%d秒"
  },
  {
   "id": "FMG/MENU.FMG/70002",
@@ -268206,7 +268206,7 @@
   "offset": "4EA6",
   "jp": "残り枚数",
   "en": "Pizza",
-  "zh": ""
+  "zh": "剩余数量"
  },
  {
   "id": "FMG/MENU.FMG/70003",
@@ -268215,7 +268215,7 @@
   "offset": "4EB0",
   "jp": "%d",
   "en": "%d",
-  "zh": ""
+  "zh": "%d"
  },
  {
   "id": "FMG/MENU.FMG/70004",
@@ -268224,7 +268224,7 @@
   "offset": "4EB6",
   "jp": "%d:%02d",
   "en": "%d:%02d",
-  "zh": ""
+  "zh": "%d:%02d"
  },
  {
   "id": "FMG/MENU.FMG/70005",
@@ -268233,7 +268233,7 @@
   "offset": "4EC6",
   "jp": "非常に強力な敵です。",
   "en": "This is a very powerful enemy.",
-  "zh": ""
+  "zh": "是非常强大的敌人。"
  },
  {
   "id": "FMG/MENU.FMG/70006",
@@ -268242,7 +268242,7 @@
   "offset": "4EDC",
   "jp": "本当に戦いますか？",
   "en": "You sure you want to fight?",
-  "zh": ""
+  "zh": "真的要战斗吗？"
  },
  {
   "id": "FMG/MENU.FMG/70010",
@@ -268251,7 +268251,7 @@
   "offset": "4EF0",
   "jp": "＜ピザ早食いのルール＞\n\n①ボタンを連打するかコントローラを振ると\nアツマがピザを食べます。\n\n連打やコントローラを振る速さが\n速ければ速いほど、アツマの食べるスピードが\nアップします。\n\n急いでピザを食べて\n制限時間内に、ピザ50枚を完食しましょう！",
   "en": "<Pizza-Eating Contest Rules>\n\nTap the ① button or shake the\nSIXAXIS™ wireless controller to make\nAtsuma eat pizza.\n\nThe faster you tap the button or shake the\nSIXAXIS™ wireless controller,\nthe faster Atsuma will eat.\n\nFeast as fast as you can to force down\n50 slices of pizza within the time limit!",
-  "zh": ""
+  "zh": "＜吃披萨比赛规则＞\n\n连按①按键或摇晃手柄，\n阿茨玛就会吃披萨。\n\n连按或摇晃手柄的速度\n越快，阿茨玛吃披萨的速度\n就越快。\n\n赶快吃披萨，\n在时间限制内吃完全部50块披萨吧！"
  },
  {
   "id": "FMG/MENU.FMG/70011",
@@ -268260,7 +268260,7 @@
   "offset": "4FEE",
   "jp": "ピザ早食いに、再チャレンジしますか？",
   "en": "Have another go at pizza eating?",
-  "zh": ""
+  "zh": "要再次挑战吃披萨比赛吗？"
  },
  {
   "id": "FMG/MENU.FMG/80001",
@@ -268269,7 +268269,7 @@
   "offset": "5014",
   "jp": "ゴーレムバトルメイン",
   "en": "Golem Battles Main",
-  "zh": ""
+  "zh": "魔像战主界面"
  },
  {
   "id": "FMG/MENU.FMG/80002",
@@ -268278,7 +268278,7 @@
   "offset": "502A",
   "jp": "シングル",
   "en": "Single",
-  "zh": ""
+  "zh": "单人"
  },
  {
   "id": "FMG/MENU.FMG/80003",
@@ -268287,7 +268287,7 @@
   "offset": "5034",
   "jp": "マルチ",
   "en": "Multiplayer",
-  "zh": ""
+  "zh": "多人"
  },
  {
   "id": "FMG/MENU.FMG/80051",
@@ -268296,7 +268296,7 @@
   "offset": "503C",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像战"
  },
  {
   "id": "FMG/MENU.FMG/80101",
@@ -268305,7 +268305,7 @@
   "offset": "504C",
   "jp": "ゴーレムバトルメニュー",
   "en": "Golem Battles Menu",
-  "zh": ""
+  "zh": "魔像战菜单"
  },
  {
   "id": "FMG/MENU.FMG/80201",
@@ -268314,7 +268314,7 @@
   "offset": "5064",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像战"
  },
  {
   "id": "FMG/MENU.FMG/80202",
@@ -268323,7 +268323,7 @@
   "offset": "5074",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/80203",
@@ -268332,7 +268332,7 @@
   "offset": "507A",
   "jp": "クラス",
   "en": "Class",
-  "zh": ""
+  "zh": "组别"
  },
  {
   "id": "FMG/MENU.FMG/80204",
@@ -268341,7 +268341,7 @@
   "offset": "5082",
   "jp": "ＡＢＣＤＥ",
   "en": "ABCDE",
-  "zh": ""
+  "zh": "ＡＢＣＤＥ"
  },
  {
   "id": "FMG/MENU.FMG/80205",
@@ -268350,7 +268350,7 @@
   "offset": "508E",
   "jp": "レベル",
   "en": "Level",
-  "zh": ""
+  "zh": "等级"
  },
  {
   "id": "FMG/MENU.FMG/80206",
@@ -268359,7 +268359,7 @@
   "offset": "5096",
   "jp": "対戦結果",
   "en": "Battle results",
-  "zh": ""
+  "zh": "对战结果"
  },
  {
   "id": "FMG/MENU.FMG/80207",
@@ -268368,7 +268368,7 @@
   "offset": "50A0",
   "jp": "Ｗｉｎ",
   "en": "WIN",
-  "zh": ""
+  "zh": "胜利"
  },
  {
   "id": "FMG/MENU.FMG/80208",
@@ -268377,7 +268377,7 @@
   "offset": "50A8",
   "jp": "未対戦",
   "en": "No battles",
-  "zh": ""
+  "zh": "未对战"
  },
  {
   "id": "FMG/MENU.FMG/80209",
@@ -268386,7 +268386,7 @@
   "offset": "50B0",
   "jp": "投入チップ",
   "en": "Bet",
-  "zh": ""
+  "zh": "下注筹码"
  },
  {
   "id": "FMG/MENU.FMG/80210",
@@ -268395,7 +268395,7 @@
   "offset": "50BC",
   "jp": "獲得チップ",
   "en": "Earned chips",
-  "zh": ""
+  "zh": "获得筹码"
  },
  {
   "id": "FMG/MENU.FMG/80211",
@@ -268404,7 +268404,7 @@
   "offset": "50C8",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/80212",
@@ -268413,7 +268413,7 @@
   "offset": "50D4",
   "jp": "所持チップが足りません",
   "en": "Not enough chips.",
-  "zh": ""
+  "zh": "持有筹码不足"
  },
  {
   "id": "FMG/MENU.FMG/80213",
@@ -268422,7 +268422,7 @@
   "offset": "50EC",
   "jp": "未勝利",
   "en": "No wins",
-  "zh": ""
+  "zh": "未获胜"
  },
  {
   "id": "FMG/MENU.FMG/80214",
@@ -268431,7 +268431,7 @@
   "offset": "50F4",
   "jp": "このパーティはまだ選択できません",
   "en": "This party can't be selected yet.",
-  "zh": ""
+  "zh": "暂无法选择该队伍"
  },
  {
   "id": "FMG/MENU.FMG/80301",
@@ -268440,7 +268440,7 @@
   "offset": "5116",
   "jp": "ゴーレムバトルパーティ情報",
   "en": "Golem Battle Party Info",
-  "zh": ""
+  "zh": "魔像对战队伍信息"
  },
  {
   "id": "FMG/MENU.FMG/80302",
@@ -268449,7 +268449,7 @@
   "offset": "5132",
   "jp": "対戦する",
   "en": "Battle",
-  "zh": ""
+  "zh": "进行对战"
  },
  {
   "id": "FMG/MENU.FMG/80303",
@@ -268458,7 +268458,7 @@
   "offset": "513C",
   "jp": "詳細ステータス",
   "en": "Status details",
-  "zh": ""
+  "zh": "详细状态"
  },
  {
   "id": "FMG/MENU.FMG/80401",
@@ -268467,7 +268467,7 @@
   "offset": "514C",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像对战"
  },
  {
   "id": "FMG/MENU.FMG/80402",
@@ -268476,7 +268476,7 @@
   "offset": "515C",
   "jp": "バトルスタート",
   "en": "Start Battle",
-  "zh": ""
+  "zh": "开始对战"
  },
  {
   "id": "FMG/MENU.FMG/80403",
@@ -268485,7 +268485,7 @@
   "offset": "516C",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/80404",
@@ -268494,7 +268494,7 @@
   "offset": "5178",
   "jp": "パーティ編成",
   "en": "Edit Party",
-  "zh": ""
+  "zh": "队伍编成"
  },
  {
   "id": "FMG/MENU.FMG/80405",
@@ -268503,7 +268503,7 @@
   "offset": "5186",
   "jp": "パーティにゴーレムがいないため、対戦できません",
   "en": "You can't battle because you have no golems in your party.",
-  "zh": ""
+  "zh": "队伍中没有魔像，无法进行对战"
  },
  {
   "id": "FMG/MENU.FMG/80501",
@@ -268512,7 +268512,7 @@
   "offset": "51B6",
   "jp": "バトル結果",
   "en": "Battle Results",
-  "zh": ""
+  "zh": "对战结果"
  },
  {
   "id": "FMG/MENU.FMG/80502",
@@ -268521,7 +268521,7 @@
   "offset": "51C2",
   "jp": "勝率",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "胜率"
  },
  {
   "id": "FMG/MENU.FMG/80503",
@@ -268530,7 +268530,7 @@
   "offset": "51C8",
   "jp": "通算獲得チップ",
   "en": "Total chips earned",
-  "zh": ""
+  "zh": "累计获得筹码"
  },
  {
   "id": "FMG/MENU.FMG/80504",
@@ -268539,7 +268539,7 @@
   "offset": "51D8",
   "jp": "獲得チップ",
   "en": "Earned chips",
-  "zh": ""
+  "zh": "获得筹码"
  },
  {
   "id": "FMG/MENU.FMG/80505",
@@ -268548,7 +268548,7 @@
   "offset": "51E4",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/81001",
@@ -268557,7 +268557,7 @@
   "offset": "51EA",
   "jp": "マッチ選択",
   "en": "Match Select",
-  "zh": ""
+  "zh": "选择比赛"
  },
  {
   "id": "FMG/MENU.FMG/81002",
@@ -268566,7 +268566,7 @@
   "offset": "51F6",
   "jp": "プレイヤー・マッチ",
   "en": "Player Match",
-  "zh": ""
+  "zh": "玩家比赛"
  },
  {
   "id": "FMG/MENU.FMG/81003",
@@ -268575,7 +268575,7 @@
   "offset": "520A",
   "jp": "ランク・マッチ",
   "en": "Ranked Match",
-  "zh": ""
+  "zh": "排位比赛"
  },
  {
   "id": "FMG/MENU.FMG/81004",
@@ -268584,7 +268584,7 @@
   "offset": "521A",
   "jp": "●ゴーレムバトル（ルール）\n　・他のゲーマーとゴーレムで対戦をします\n　・対戦はゴーレムのみのパーティで行います\n　・相手のパーティを全滅させると勝利になります\n　・対戦中にエスケープした場合は敗北になります\n\n●プレイヤー・マッチ\n　・ランクが変動しないフリー対戦を行います\n\n●ランク・マッチ\n　・ランクが変動する対戦を行います\n　・勝敗によって変動したランクは\n　　ランキングで確認できます",
   "en": "● Golem Battle (Rules)\n  - Battle against another gamer's Golems.\n  - Only Golems can take part in the battle.\n  - Defeat all opponent's Golems to win.\n  - If you flee from the battle it counts as a loss.\n\n● Player Match\n  - A free match that does not affect your rank.\n\n● Ranked Match\n  - A match that affects your rank.\n  - Victory or defeat affects your rank, which can be\n    viewed under Rankings.",
-  "zh": ""
+  "zh": "●魔像对战（规则）\n　・与其他玩家使用魔像进行对战\n　・仅限纯魔像组成的队伍参加对战\n　・全歼对方队伍即算胜利\n　・对战中途逃跑则视为败北\n\n●玩家比赛\n　・进行不影响段位的自由对战\n\n●排位比赛\n　・进行段位会发生变动的对战\n　・因胜负而变动的段位\n　　可在排行榜中确认"
  },
  {
   "id": "FMG/MENU.FMG/81005",
@@ -268593,7 +268593,7 @@
   "offset": "53A8",
   "jp": "ルール",
   "en": "Rules",
-  "zh": ""
+  "zh": "规则"
  },
  {
   "id": "FMG/MENU.FMG/81101",
@@ -268602,7 +268602,7 @@
   "offset": "53B0",
   "jp": "マッチ検索・作成",
   "en": "Search/Create Match",
-  "zh": ""
+  "zh": "搜索·创建比赛"
  },
  {
   "id": "FMG/MENU.FMG/81102",
@@ -268611,7 +268611,7 @@
   "offset": "53C2",
   "jp": "クイックマッチ",
   "en": "Quick Match",
-  "zh": ""
+  "zh": "快速比赛"
  },
  {
   "id": "FMG/MENU.FMG/81103",
@@ -268620,7 +268620,7 @@
   "offset": "53D2",
   "jp": "カスタムマッチ",
   "en": "Custom Match",
-  "zh": ""
+  "zh": "自定比赛"
  },
  {
   "id": "FMG/MENU.FMG/81104",
@@ -268629,7 +268629,7 @@
   "offset": "53E2",
   "jp": "マッチ作成",
   "en": "Create Match",
-  "zh": ""
+  "zh": "创建比赛"
  },
  {
   "id": "FMG/MENU.FMG/81105",
@@ -268638,7 +268638,7 @@
   "offset": "53EE",
   "jp": "●マッチ設定項目\n　・ゲームタイプ\n　　公開　：全てのゲーマーを受け入れるマッチです\n　　非公開：フレンドと対戦するマッチです\n　　　　　　ゲーム招待をしてフレンドと対戦します\n　・レベル制限\n　　ゴーレムのレベルにより、対戦相手を制限します\n　　高レベルのゴーレムを持ったゲーマーとの\n　　対戦を避けられます\n　・ターン数\n　　対戦のターン数の制限です\n　　このターン数以内に勝敗がつかない場合は\n　　与えた総ダメージ量により判定します",
   "en": "● Match Settings\n  - Game Type\n    Public: Any player can enter the match.\n    Private: Only your friends can join the match\n             Invite a friend and fight him/her.\n  - Level Limit\n    Limit your opponents by Golem level.\n    Use this setting to avoid having to fight players\n    with Golems of a far higher level than your own.\n  - Turn Limit\n    Limit the number of turns the battle will last.\n    If the battle is not decided within the turn limit,\n    total damage caused will be used to determine\n    the winner.",
-  "zh": ""
+  "zh": "●比赛设定项目\n　・游戏类型\n　　公开　：接受所有玩家加入的比赛\n　　非公开：与好友对战的比赛\n　　　　　　通过发送游戏邀请与好友对战\n　・等级限制\n　　根据魔像的等级限制对战对手\n　　可以避免与拥有高等级魔像的玩家\n　　进行对战\n　・回合数\n　　限制对战的回合数\n　　若在此回合数内未分出胜负，\n　　将根据造成的总伤害量进行判定"
  },
  {
   "id": "FMG/MENU.FMG/81106",
@@ -268647,7 +268647,7 @@
   "offset": "55A6",
   "jp": "マッチ説明",
   "en": "Match Description",
-  "zh": ""
+  "zh": "比赛说明"
  },
  {
   "id": "FMG/MENU.FMG/81201",
@@ -268656,7 +268656,7 @@
   "offset": "55B2",
   "jp": "マッチ作成",
   "en": "Create match",
-  "zh": ""
+  "zh": "创建比赛"
  },
  {
   "id": "FMG/MENU.FMG/81202",
@@ -268665,7 +268665,7 @@
   "offset": "55BE",
   "jp": "新規マッチを作成しています",
   "en": "Creating a new match...",
-  "zh": ""
+  "zh": "正在创建新比赛"
  },
  {
   "id": "FMG/MENU.FMG/81203",
@@ -268674,7 +268674,7 @@
   "offset": "55DA",
   "jp": "新規マッチ作成完了",
   "en": "New match created.",
-  "zh": ""
+  "zh": "新比赛创建完毕"
  },
  {
   "id": "FMG/MENU.FMG/81211",
@@ -268683,7 +268683,7 @@
   "offset": "55EE",
   "jp": "設定項目",
   "en": "Settings",
-  "zh": ""
+  "zh": "设定项目"
  },
  {
   "id": "FMG/MENU.FMG/81212",
@@ -268692,7 +268692,7 @@
   "offset": "55F8",
   "jp": "ゲームタイプ",
   "en": "Game type",
-  "zh": ""
+  "zh": "游戏类型"
  },
  {
   "id": "FMG/MENU.FMG/81213",
@@ -268701,7 +268701,7 @@
   "offset": "5606",
   "jp": "レベル制限",
   "en": "Level limit",
-  "zh": ""
+  "zh": "等级限制"
  },
  {
   "id": "FMG/MENU.FMG/81214",
@@ -268710,7 +268710,7 @@
   "offset": "5612",
   "jp": "モード",
   "en": "Mode",
-  "zh": ""
+  "zh": "模式"
  },
  {
   "id": "FMG/MENU.FMG/81215",
@@ -268719,7 +268719,7 @@
   "offset": "561A",
   "jp": "ターン数",
   "en": "Turn limit",
-  "zh": ""
+  "zh": "回合数"
  },
  {
   "id": "FMG/MENU.FMG/81216",
@@ -268728,7 +268728,7 @@
   "offset": "5624",
   "jp": "進行度",
   "en": "Progress",
-  "zh": ""
+  "zh": "进度"
  },
  {
   "id": "FMG/MENU.FMG/81217",
@@ -268737,7 +268737,7 @@
   "offset": "562C",
   "jp": "言語設定",
   "en": "Language settings",
-  "zh": ""
+  "zh": "语言设定"
  },
  {
   "id": "FMG/MENU.FMG/81218",
@@ -268746,7 +268746,7 @@
   "offset": "5636",
   "jp": "マッチ情報",
   "en": "Match Info",
-  "zh": ""
+  "zh": "比赛信息"
  },
  {
   "id": "FMG/MENU.FMG/81219",
@@ -268755,7 +268755,7 @@
   "offset": "5642",
   "jp": "プレイヤー",
   "en": "Player",
-  "zh": ""
+  "zh": "玩家"
  },
  {
   "id": "FMG/MENU.FMG/81220",
@@ -268764,7 +268764,7 @@
   "offset": "564E",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/81221",
@@ -268773,7 +268773,7 @@
   "offset": "5654",
   "jp": "勝率",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "胜率"
  },
  {
   "id": "FMG/MENU.FMG/81222",
@@ -268782,7 +268782,7 @@
   "offset": "565A",
   "jp": "最高レベル",
   "en": "Highest level",
-  "zh": ""
+  "zh": "最高等级"
  },
  {
   "id": "FMG/MENU.FMG/81223",
@@ -268791,7 +268791,7 @@
   "offset": "5666",
   "jp": "非公開",
   "en": "Private",
-  "zh": ""
+  "zh": "非公开"
  },
  {
   "id": "FMG/MENU.FMG/81224",
@@ -268800,7 +268800,7 @@
   "offset": "566E",
   "jp": "全て",
   "en": "All",
-  "zh": ""
+  "zh": "全部"
  },
  {
   "id": "FMG/MENU.FMG/81225",
@@ -268809,7 +268809,7 @@
   "offset": "5674",
   "jp": "%s以下",
   "en": "%s",
-  "zh": ""
+  "zh": "%s以下"
  },
  {
   "id": "FMG/MENU.FMG/81226",
@@ -268818,7 +268818,7 @@
   "offset": "567E",
   "jp": "日本語",
   "en": "Japanese",
-  "zh": ""
+  "zh": "日语"
  },
  {
   "id": "FMG/MENU.FMG/81227",
@@ -268827,7 +268827,7 @@
   "offset": "5686",
   "jp": "勝",
   "en": "Win",
-  "zh": ""
+  "zh": "胜"
  },
  {
   "id": "FMG/MENU.FMG/81228",
@@ -268836,7 +268836,7 @@
   "offset": "568A",
   "jp": "敗",
   "en": "Lose",
-  "zh": ""
+  "zh": "负"
  },
  {
   "id": "FMG/MENU.FMG/81229",
@@ -268845,7 +268845,7 @@
   "offset": "568E",
   "jp": "公開",
   "en": "Public",
-  "zh": ""
+  "zh": "公开"
  },
  {
   "id": "FMG/MENU.FMG/81230",
@@ -268854,7 +268854,7 @@
   "offset": "5694",
   "jp": "％",
   "en": "%",
-  "zh": ""
+  "zh": "％"
  },
  {
   "id": "FMG/MENU.FMG/81231",
@@ -268863,7 +268863,7 @@
   "offset": "5698",
   "jp": "マッチ作成プレイヤー",
   "en": "Player who created Match",
-  "zh": ""
+  "zh": "创建比赛的玩家"
  },
  {
   "id": "FMG/MENU.FMG/81232",
@@ -268872,7 +268872,7 @@
   "offset": "56AE",
   "jp": "プレイヤー",
   "en": "Player",
-  "zh": ""
+  "zh": "玩家"
  },
  {
   "id": "FMG/MENU.FMG/81233",
@@ -268881,7 +268881,7 @@
   "offset": "56BA",
   "jp": "%s以上",
   "en": "More than %s",
-  "zh": ""
+  "zh": "%s以上"
  },
  {
   "id": "FMG/MENU.FMG/81301",
@@ -268890,7 +268890,7 @@
   "offset": "56C4",
   "jp": "マッチ検索",
   "en": "Search for match",
-  "zh": ""
+  "zh": "搜索比赛"
  },
  {
   "id": "FMG/MENU.FMG/81302",
@@ -268899,7 +268899,7 @@
   "offset": "56D0",
   "jp": "マッチを検索しています",
   "en": "Searching for a match...",
-  "zh": ""
+  "zh": "正在搜索比赛"
  },
  {
   "id": "FMG/MENU.FMG/81303",
@@ -268908,7 +268908,7 @@
   "offset": "56E8",
   "jp": "マッチの検索に失敗しました",
   "en": "Failed to find a match.",
-  "zh": ""
+  "zh": "搜索比赛失败"
  },
  {
   "id": "FMG/MENU.FMG/81401",
@@ -268917,7 +268917,7 @@
   "offset": "5704",
   "jp": "検索結果",
   "en": "Search results",
-  "zh": ""
+  "zh": "搜索结果"
  },
  {
   "id": "FMG/MENU.FMG/81402",
@@ -268926,7 +268926,7 @@
   "offset": "570E",
   "jp": "マッチに参加しています",
   "en": "Joining the match...",
-  "zh": ""
+  "zh": "正在加入比赛"
  },
  {
   "id": "FMG/MENU.FMG/81403",
@@ -268935,7 +268935,7 @@
   "offset": "5726",
   "jp": "マッチに参加できませんでした",
   "en": "Couldn't join in the match.",
-  "zh": ""
+  "zh": "未能加入比赛"
  },
  {
   "id": "FMG/MENU.FMG/81404",
@@ -268944,7 +268944,7 @@
   "offset": "5744",
   "jp": "タイムアウトになりました",
   "en": "Timed out...",
-  "zh": ""
+  "zh": "连接已超时"
  },
  {
   "id": "FMG/MENU.FMG/81405",
@@ -268953,7 +268953,7 @@
   "offset": "575E",
   "jp": "条件に合うマッチは見つかりませんでした",
   "en": "There are no available matches.",
-  "zh": ""
+  "zh": "未找到符合条件的比赛"
  },
  {
   "id": "FMG/MENU.FMG/81501",
@@ -268962,7 +268962,7 @@
   "offset": "5786",
   "jp": "ロビー",
   "en": "Lobby",
-  "zh": ""
+  "zh": "大厅"
  },
  {
   "id": "FMG/MENU.FMG/81502",
@@ -268971,7 +268971,7 @@
   "offset": "578E",
   "jp": "対戦用データの送受信中です",
   "en": "Transfering battle data...",
-  "zh": ""
+  "zh": "正在收发对战用数据"
  },
  {
   "id": "FMG/MENU.FMG/81503",
@@ -268980,7 +268980,7 @@
   "offset": "57AA",
   "jp": "“ゴーレム名称”をチェック中です・・・\n名称に不適切な語句が用いられている場合、名称が伏せられることがあります",
   "en": "Checking \"Golem Name\"...\nNames may be rejected if they contain inappropriate language.",
-  "zh": ""
+  "zh": "正在检查“魔像名称”……\n若名称中包含不当词语，名称可能会被隐藏"
  },
  {
   "id": "FMG/MENU.FMG/81601",
@@ -268989,7 +268989,7 @@
   "offset": "581A",
   "jp": "ゴーレムバトル準備",
   "en": "Prepare Golem Battle",
-  "zh": ""
+  "zh": "准备魔像对战"
  },
  {
   "id": "FMG/MENU.FMG/81602",
@@ -268998,7 +268998,7 @@
   "offset": "582E",
   "jp": "パーティ編成",
   "en": "Edit Party",
-  "zh": ""
+  "zh": "队伍编制"
  },
  {
   "id": "FMG/MENU.FMG/81603",
@@ -269007,7 +269007,7 @@
   "offset": "583C",
   "jp": "ステータス",
   "en": "Status",
-  "zh": ""
+  "zh": "状态"
  },
  {
   "id": "FMG/MENU.FMG/81604",
@@ -269016,7 +269016,7 @@
   "offset": "5848",
   "jp": "ゴーレムバトル開始",
   "en": "Start Golem Battle",
-  "zh": ""
+  "zh": "开始魔像对战"
  },
  {
   "id": "FMG/MENU.FMG/81605",
@@ -269025,7 +269025,7 @@
   "offset": "585C",
   "jp": "プレイヤー",
   "en": "Player",
-  "zh": ""
+  "zh": "玩家"
  },
  {
   "id": "FMG/MENU.FMG/81606",
@@ -269034,7 +269034,7 @@
   "offset": "5868",
   "jp": "対戦者",
   "en": "Opponent",
-  "zh": ""
+  "zh": "对战对手"
  },
  {
   "id": "FMG/MENU.FMG/81607",
@@ -269043,7 +269043,7 @@
   "offset": "5870",
   "jp": "プレイヤーの状態",
   "en": "Player's status",
-  "zh": ""
+  "zh": "玩家状态"
  },
  {
   "id": "FMG/MENU.FMG/81608",
@@ -269052,7 +269052,7 @@
   "offset": "5882",
   "jp": "対戦者の状態",
   "en": "Opponent's status",
-  "zh": ""
+  "zh": "对战对手状态"
  },
  {
   "id": "FMG/MENU.FMG/81609",
@@ -269061,7 +269061,7 @@
   "offset": "5890",
   "jp": "準備中・・・",
   "en": "Preparing...",
-  "zh": ""
+  "zh": "准备中……"
  },
  {
   "id": "FMG/MENU.FMG/81610",
@@ -269070,7 +269070,7 @@
   "offset": "589E",
   "jp": "準備完了！",
   "en": "Preparation complete!",
-  "zh": ""
+  "zh": "准备完成！"
  },
  {
   "id": "FMG/MENU.FMG/81611",
@@ -269079,7 +269079,7 @@
   "offset": "58AA",
   "jp": "セッション終了中・・・",
   "en": "Session ending...",
-  "zh": ""
+  "zh": "正在结束会话……"
  },
  {
   "id": "FMG/MENU.FMG/81701",
@@ -269088,7 +269088,7 @@
   "offset": "58C2",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/81702",
@@ -269097,7 +269097,7 @@
   "offset": "58C8",
   "jp": "勝率",
   "en": "Win Rate",
-  "zh": ""
+  "zh": "胜率"
  },
  {
   "id": "FMG/MENU.FMG/81703",
@@ -269106,7 +269106,7 @@
   "offset": "58CE",
   "jp": "獲得チップ",
   "en": "Earned chips",
-  "zh": ""
+  "zh": "获得筹码"
  },
  {
   "id": "FMG/MENU.FMG/81704",
@@ -269115,7 +269115,7 @@
   "offset": "58DA",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/81705",
@@ -269124,7 +269124,7 @@
   "offset": "58E6",
   "jp": "ランキング成績",
   "en": "Ranking results",
-  "zh": ""
+  "zh": "排行榜战绩"
  },
  {
   "id": "FMG/MENU.FMG/81710",
@@ -269133,7 +269133,7 @@
   "offset": "58F6",
   "jp": "対戦相手と待ち合わせ中・・・",
   "en": "Waiting for opponent...",
-  "zh": ""
+  "zh": "正在等待对战对手……"
  },
  {
   "id": "FMG/MENU.FMG/81711",
@@ -269142,7 +269142,7 @@
   "offset": "5914",
   "jp": "成績の登録に成功しました",
   "en": "Successfully recorded results.",
-  "zh": ""
+  "zh": "战绩登记成功"
  },
  {
   "id": "FMG/MENU.FMG/81712",
@@ -269151,7 +269151,7 @@
   "offset": "592E",
   "jp": "成績の登録に失敗しました\n再実行しますか？",
   "en": "Result registration failed. Try again?",
-  "zh": ""
+  "zh": "战绩登记失败\n是否重试？"
  },
  {
   "id": "FMG/MENU.FMG/81713",
@@ -269160,7 +269160,7 @@
   "offset": "595A",
   "jp": "成績の登録に失敗しました",
   "en": "Result registration failed.",
-  "zh": ""
+  "zh": "战绩登记失败"
  },
  {
   "id": "FMG/MENU.FMG/81801",
@@ -269169,7 +269169,7 @@
   "offset": "5974",
   "jp": "対戦データ選択",
   "en": "Battle data select",
-  "zh": ""
+  "zh": "选择对战数据"
  },
  {
   "id": "FMG/MENU.FMG/81802",
@@ -269178,7 +269178,7 @@
   "offset": "5984",
   "jp": "ロードせずに対戦",
   "en": "Battle with preset",
-  "zh": ""
+  "zh": "不加载直接对战"
  },
  {
   "id": "FMG/MENU.FMG/81803",
@@ -269187,7 +269187,7 @@
   "offset": "5996",
   "jp": "ロードして対戦",
   "en": "Load player data",
-  "zh": ""
+  "zh": "加载数据并对战"
  },
  {
   "id": "FMG/MENU.FMG/81804",
@@ -269196,7 +269196,7 @@
   "offset": "59A6",
   "jp": "ランキング",
   "en": "Ranking",
-  "zh": ""
+  "zh": "排行榜"
  },
  {
   "id": "FMG/MENU.FMG/81805",
@@ -269205,7 +269205,7 @@
   "offset": "59B2",
   "jp": "●対戦\n　・自分の育てたゴーレム、\n　　または用意されたパーティで対戦します\n　・自分の育てたゴーレムが一体もいない場合は\n　　用意されたパーティで対戦を行います\n\n●ランキング\n　・これまでの対戦結果を表示します\n　・ランキングにはランクマッチの\n　　対戦結果のみ反映されます\n\n#CFFAAAA77※ゲーマプロフィールが\n　２つ以上サインインされていると、\n　マッチメイキングができない場合があります#c",
   "en": "● Battles\n  - Use the Golems you have raised in the main game\n    or a preset party to fight.\n  - If you do not have a single Golem of your own you\n    will have to use a preset party.\n\n● Ranking\n  - View your battle results\n  - Only the results of Ranked Matches affect\n    your Ranking.\n\n#CFFAAAA77(*)If more than 2 gamer profiles\n  are signed in, it may not be possible to perform\n  matchmaking. #c",
-  "zh": ""
+  "zh": "●对战\n　・使用自己培养的魔像，\n　　或使用预设队伍进行对战\n　・如果一只自己培养的魔像都没有，\n　　则会使用预设队伍进行对战\n\n●排行榜\n　・显示至今为止的对战结果\n　・排行榜仅会反映排位赛的\n　　对战结果\n\n#CFFAAAA77※若已登录２个以上的\n　玩家档案，可能将\n　无法进行匹配#c"
  },
  {
   "id": "FMG/MENU.FMG/81806",
@@ -269214,7 +269214,7 @@
   "offset": "5B4C",
   "jp": "Ｘｂｏｘ　Ｌｉｖｅ",
   "en": "Xbox Live",
-  "zh": ""
+  "zh": "Ｘｂｏｘ　Ｌｉｖｅ"
  },
  {
   "id": "FMG/MENU.FMG/81901",
@@ -269223,7 +269223,7 @@
   "offset": "5B60",
   "jp": "残り時間",
   "en": "Remaining time",
-  "zh": ""
+  "zh": "剩余时间"
  },
  {
   "id": "FMG/MENU.FMG/81902",
@@ -269232,7 +269232,7 @@
   "offset": "5B6A",
   "jp": "秒",
   "en": "Seconds",
-  "zh": ""
+  "zh": "秒"
  },
  {
   "id": "FMG/MENU.FMG/92001",
@@ -269241,7 +269241,7 @@
   "offset": "5B6E",
   "jp": "スロットゲーム",
   "en": "Slot Machine",
-  "zh": ""
+  "zh": "老虎机游戏"
  },
  {
   "id": "FMG/MENU.FMG/92002",
@@ -269250,7 +269250,7 @@
   "offset": "5B7E",
   "jp": "チップを賭ける",
   "en": "Bet chips",
-  "zh": ""
+  "zh": "下注筹码"
  },
  {
   "id": "FMG/MENU.FMG/92003",
@@ -269259,7 +269259,7 @@
   "offset": "5B8E",
   "jp": "枚数",
   "en": "Chips",
-  "zh": ""
+  "zh": "枚数"
  },
  {
   "id": "FMG/MENU.FMG/92004",
@@ -269268,7 +269268,7 @@
   "offset": "5B94",
   "jp": "役",
   "en": "Jackpot",
-  "zh": ""
+  "zh": "中奖组合"
  },
  {
   "id": "FMG/MENU.FMG/92005",
@@ -269277,7 +269277,7 @@
   "offset": "5B98",
   "jp": "オッズ",
   "en": "Odds",
-  "zh": ""
+  "zh": "赔率"
  },
  {
   "id": "FMG/MENU.FMG/92006",
@@ -269286,7 +269286,7 @@
   "offset": "5BA0",
   "jp": "投入チップ",
   "en": "Chips",
-  "zh": ""
+  "zh": "投入筹码"
  },
  {
   "id": "FMG/MENU.FMG/92007",
@@ -269295,7 +269295,7 @@
   "offset": "5BAC",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/92008",
@@ -269304,7 +269304,7 @@
   "offset": "5BB8",
   "jp": "ゲームスタート",
   "en": "Start game",
-  "zh": ""
+  "zh": "开始游戏"
  },
  {
   "id": "FMG/MENU.FMG/92009",
@@ -269313,7 +269313,7 @@
   "offset": "5BC8",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "成绩"
  },
  {
   "id": "FMG/MENU.FMG/92010",
@@ -269322,7 +269322,7 @@
   "offset": "5BCE",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/92011",
@@ -269331,7 +269331,7 @@
   "offset": "5BD6",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/92012",
@@ -269340,7 +269340,7 @@
   "offset": "5BDE",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/92013",
@@ -269349,7 +269349,7 @@
   "offset": "5BE6",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/92014",
@@ -269358,7 +269358,7 @@
   "offset": "5BEE",
   "jp": "連続役的中回数",
   "en": "Consecutive jackpots",
-  "zh": ""
+  "zh": "连续中奖次数"
  },
  {
   "id": "FMG/MENU.FMG/92015",
@@ -269367,7 +269367,7 @@
   "offset": "5BFE",
   "jp": "×%d",
   "en": "x %d",
-  "zh": ""
+  "zh": "×%d"
  },
  {
   "id": "FMG/MENU.FMG/92016",
@@ -269376,7 +269376,7 @@
   "offset": "5C06",
   "jp": "収支チップ",
   "en": "Chip balance",
-  "zh": ""
+  "zh": "筹码收支"
  },
  {
   "id": "FMG/MENU.FMG/92017",
@@ -269385,7 +269385,7 @@
   "offset": "5C12",
   "jp": "大当たり回数",
   "en": "Super jackpots",
-  "zh": ""
+  "zh": "大奖次数"
  },
  {
   "id": "FMG/MENU.FMG/92018",
@@ -269394,7 +269394,7 @@
   "offset": "5C20",
   "jp": "役的中率",
   "en": "Jackpot ratio",
-  "zh": ""
+  "zh": "中奖率"
  },
  {
   "id": "FMG/MENU.FMG/92019",
@@ -269403,7 +269403,7 @@
   "offset": "5C2A",
   "jp": "スロットゲームを終了しますか",
   "en": "Quit Slot Machine?",
-  "zh": ""
+  "zh": "要退出老虎机游戏吗"
  },
  {
   "id": "FMG/MENU.FMG/92020",
@@ -269412,7 +269412,7 @@
   "offset": "5C48",
   "jp": "枚獲得！",
   "en": "Earn chips!",
-  "zh": ""
+  "zh": "枚获得！"
  },
  {
   "id": "FMG/MENU.FMG/92021",
@@ -269421,7 +269421,7 @@
   "offset": "5C52",
   "jp": "はじめる",
   "en": "Start",
-  "zh": ""
+  "zh": "开始"
  },
  {
   "id": "FMG/MENU.FMG/92022",
@@ -269430,7 +269430,7 @@
   "offset": "5C5C",
   "jp": "１ライン",
   "en": "1 Line",
-  "zh": ""
+  "zh": "１线"
  },
  {
   "id": "FMG/MENU.FMG/92023",
@@ -269439,7 +269439,7 @@
   "offset": "5C66",
   "jp": "チップ",
   "en": "Chips",
-  "zh": ""
+  "zh": "筹码"
  },
  {
   "id": "FMG/MENU.FMG/93001",
@@ -269448,7 +269448,7 @@
   "offset": "5C6E",
   "jp": "ビンゴ",
   "en": "Bingo",
-  "zh": ""
+  "zh": "宾果"
  },
  {
   "id": "FMG/MENU.FMG/93002",
@@ -269457,7 +269457,7 @@
   "offset": "5C76",
   "jp": "チップを賭ける",
   "en": "Bet chips",
-  "zh": ""
+  "zh": "下注筹码"
  },
  {
   "id": "FMG/MENU.FMG/93003",
@@ -269466,7 +269466,7 @@
   "offset": "5C86",
   "jp": "枚数",
   "en": "Chips",
-  "zh": ""
+  "zh": "枚数"
  },
  {
   "id": "FMG/MENU.FMG/93004",
@@ -269475,7 +269475,7 @@
   "offset": "5C8C",
   "jp": "回数",
   "en": "Draws",
-  "zh": ""
+  "zh": "次数"
  },
  {
   "id": "FMG/MENU.FMG/93005",
@@ -269484,7 +269484,7 @@
   "offset": "5C92",
   "jp": "オッズ",
   "en": "Odds",
-  "zh": ""
+  "zh": "赔率"
  },
  {
   "id": "FMG/MENU.FMG/93006",
@@ -269493,7 +269493,7 @@
   "offset": "5C9A",
   "jp": "賭けチップ",
   "en": "Bet",
-  "zh": ""
+  "zh": "下注筹码"
  },
  {
   "id": "FMG/MENU.FMG/93007",
@@ -269502,7 +269502,7 @@
   "offset": "5CA6",
   "jp": "ゲームスタート",
   "en": "Start game",
-  "zh": ""
+  "zh": "开始游戏"
  },
  {
   "id": "FMG/MENU.FMG/93008",
@@ -269511,7 +269511,7 @@
   "offset": "5CB6",
   "jp": "残り",
   "en": "Remaining",
-  "zh": ""
+  "zh": "剩余"
  },
  {
   "id": "FMG/MENU.FMG/93009",
@@ -269520,7 +269520,7 @@
   "offset": "5CBC",
   "jp": "／",
   "en": "/",
-  "zh": ""
+  "zh": "／"
  },
  {
   "id": "FMG/MENU.FMG/93010",
@@ -269529,7 +269529,7 @@
   "offset": "5CC0",
   "jp": "回",
   "en": "times",
-  "zh": ""
+  "zh": "次"
  },
  {
   "id": "FMG/MENU.FMG/93011",
@@ -269538,7 +269538,7 @@
   "offset": "5CC4",
   "jp": "×%d",
   "en": "x %d",
-  "zh": ""
+  "zh": "×%d"
  },
  {
   "id": "FMG/MENU.FMG/93012",
@@ -269547,7 +269547,7 @@
   "offset": "5CCC",
   "jp": "収支チップ",
   "en": "Chip balance",
-  "zh": ""
+  "zh": "筹码收支"
  },
  {
   "id": "FMG/MENU.FMG/93013",
@@ -269556,7 +269556,7 @@
   "offset": "5CD8",
   "jp": "最短ビンゴ回数",
   "en": "Minimum moves",
-  "zh": ""
+  "zh": "最短宾果次数"
  },
  {
   "id": "FMG/MENU.FMG/93014",
@@ -269565,7 +269565,7 @@
   "offset": "5CE8",
   "jp": "ビンゴ回数",
   "en": "Number of bingos",
-  "zh": ""
+  "zh": "宾果次数"
  },
  {
   "id": "FMG/MENU.FMG/93015",
@@ -269574,7 +269574,7 @@
   "offset": "5CF4",
   "jp": "ビンゴを終了しますか",
   "en": "Quit playing bingo?",
-  "zh": ""
+  "zh": "要退出宾果游戏吗"
  },
  {
   "id": "FMG/MENU.FMG/93016",
@@ -269583,7 +269583,7 @@
   "offset": "5D0A",
   "jp": "枚獲得！",
   "en": "chips earned!",
-  "zh": ""
+  "zh": "枚获得！"
  },
  {
   "id": "FMG/MENU.FMG/93017",
@@ -269592,7 +269592,7 @@
   "offset": "5D14",
   "jp": "はじめる",
   "en": "Start",
-  "zh": ""
+  "zh": "开始"
  },
  {
   "id": "FMG/MENU.FMG/93018",
@@ -269601,7 +269601,7 @@
   "offset": "5D1E",
   "jp": "ギブアップしますか",
   "en": "End this Bingo game?",
-  "zh": ""
+  "zh": "要放弃吗"
  },
  {
   "id": "FMG/MENU.FMG/94001",
@@ -269610,7 +269610,7 @@
   "offset": "5D32",
   "jp": "ルーレット",
   "en": "Roulette",
-  "zh": ""
+  "zh": "轮盘赌"
  },
  {
   "id": "FMG/MENU.FMG/94002",
@@ -269619,7 +269619,7 @@
   "offset": "5D3E",
   "jp": "生涯収支",
   "en": "Lifetime balance",
-  "zh": ""
+  "zh": "生涯收支"
  },
  {
   "id": "FMG/MENU.FMG/94003",
@@ -269628,7 +269628,7 @@
   "offset": "5D48",
   "jp": "的中率",
   "en": "Accuracy",
-  "zh": ""
+  "zh": "命中率"
  },
  {
   "id": "FMG/MENU.FMG/94004",
@@ -269637,7 +269637,7 @@
   "offset": "5D50",
   "jp": "最大獲得チップ",
   "en": "Maximum chips won",
-  "zh": ""
+  "zh": "单次最多获得筹码"
  },
  {
   "id": "FMG/MENU.FMG/94005",
@@ -269646,7 +269646,7 @@
   "offset": "5D60",
   "jp": "連続的中回数",
   "en": "Consecutive hits",
-  "zh": ""
+  "zh": "连续命中次数"
  },
  {
   "id": "FMG/MENU.FMG/94006",
@@ -269655,7 +269655,7 @@
   "offset": "5D6E",
   "jp": "ゲーム開始",
   "en": "Start game",
-  "zh": ""
+  "zh": "开始游戏"
  },
  {
   "id": "FMG/MENU.FMG/94007",
@@ -269664,7 +269664,7 @@
   "offset": "5D7A",
   "jp": "ベットチップ",
   "en": "Bet chips",
-  "zh": ""
+  "zh": "下注筹码"
  },
  {
   "id": "FMG/MENU.FMG/94008",
@@ -269673,7 +269673,7 @@
   "offset": "5D88",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/94009",
@@ -269682,7 +269682,7 @@
   "offset": "5D94",
   "jp": "ルーレットを終了しますか",
   "en": "Quit playing roulette?",
-  "zh": ""
+  "zh": "要结束轮盘赌吗"
  },
  {
   "id": "FMG/MENU.FMG/94010",
@@ -269691,7 +269691,7 @@
   "offset": "5DAE",
   "jp": "枚獲得！",
   "en": "chips earned!",
-  "zh": ""
+  "zh": "枚获得！"
  },
  {
   "id": "FMG/MENU.FMG/94011",
@@ -269700,7 +269700,7 @@
   "offset": "5DB8",
   "jp": "収支チップ",
   "en": "Chip balance",
-  "zh": ""
+  "zh": "筹码收支"
  },
  {
   "id": "FMG/MENU.FMG/94012",
@@ -269709,7 +269709,7 @@
   "offset": "5DC4",
   "jp": "はじめる",
   "en": "Start",
-  "zh": ""
+  "zh": "开始"
  },
  {
   "id": "FMG/MENU.FMG/94013",
@@ -269718,7 +269718,7 @@
   "offset": "5DCE",
   "jp": "ベットする",
   "en": "Bet",
-  "zh": ""
+  "zh": "下注"
  },
  {
   "id": "FMG/MENU.FMG/94014",
@@ -269727,7 +269727,7 @@
   "offset": "5DDA",
   "jp": "ベットしなおす",
   "en": "Change bet",
-  "zh": ""
+  "zh": "重新下注"
  },
  {
   "id": "FMG/MENU.FMG/94015",
@@ -269736,7 +269736,7 @@
   "offset": "5DEA",
   "jp": "倍率",
   "en": "Odds",
-  "zh": ""
+  "zh": "赔率"
  },
  {
   "id": "FMG/MENU.FMG/94016",
@@ -269745,7 +269745,7 @@
   "offset": "5DF0",
   "jp": "×%2d",
   "en": "x %d",
-  "zh": ""
+  "zh": "×%2d"
  },
  {
   "id": "FMG/MENU.FMG/95001",
@@ -269754,7 +269754,7 @@
   "offset": "5DFA",
   "jp": "遊び方、ルール",
   "en": "How to play, Rules",
-  "zh": ""
+  "zh": "游玩方法与规则"
  },
  {
   "id": "FMG/MENU.FMG/95002",
@@ -269763,7 +269763,7 @@
   "offset": "5E0A",
   "jp": "枚数",
   "en": "Chips",
-  "zh": ""
+  "zh": "枚数"
  },
  {
   "id": "FMG/MENU.FMG/95003",
@@ -269772,7 +269772,7 @@
   "offset": "5E10",
   "jp": "①",
   "en": "①",
-  "zh": ""
+  "zh": "①"
  },
  {
   "id": "FMG/MENU.FMG/95004",
@@ -269781,7 +269781,7 @@
   "offset": "5E14",
   "jp": "②",
   "en": "②",
-  "zh": ""
+  "zh": "②"
  },
  {
   "id": "FMG/MENU.FMG/96001",
@@ -269790,7 +269790,7 @@
   "offset": "5E18",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/96003",
@@ -269799,7 +269799,7 @@
   "offset": "5E1E",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像战"
  },
  {
   "id": "FMG/MENU.FMG/96004",
@@ -269808,7 +269808,7 @@
   "offset": "5E2E",
   "jp": "ビンゴ",
   "en": "Bingo",
-  "zh": ""
+  "zh": "宾果"
  },
  {
   "id": "FMG/MENU.FMG/96005",
@@ -269817,7 +269817,7 @@
   "offset": "5E36",
   "jp": "スロットゲーム",
   "en": "Slot Machine",
-  "zh": ""
+  "zh": "老虎机"
  },
  {
   "id": "FMG/MENU.FMG/96006",
@@ -269826,7 +269826,7 @@
   "offset": "5E46",
   "jp": "ルーレット",
   "en": "Roulette",
-  "zh": ""
+  "zh": "轮盘赌"
  },
  {
   "id": "FMG/MENU.FMG/96008",
@@ -269835,7 +269835,7 @@
   "offset": "5E52",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/96201",
@@ -269844,7 +269844,7 @@
   "offset": "5E58",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像战"
  },
  {
   "id": "FMG/MENU.FMG/96202",
@@ -269853,7 +269853,7 @@
   "offset": "5E68",
   "jp": "勝数",
   "en": "Wins",
-  "zh": ""
+  "zh": "胜场"
  },
  {
   "id": "FMG/MENU.FMG/96203",
@@ -269862,7 +269862,7 @@
   "offset": "5E6E",
   "jp": "勝率",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "胜率"
  },
  {
   "id": "FMG/MENU.FMG/96204",
@@ -269871,7 +269871,7 @@
   "offset": "5E74",
   "jp": "連続勝利回数",
   "en": "Consecutive wins",
-  "zh": ""
+  "zh": "连胜次数"
  },
  {
   "id": "FMG/MENU.FMG/96205",
@@ -269880,7 +269880,7 @@
   "offset": "5E82",
   "jp": "ＴｒｕｅＳｋｉｌｌ",
   "en": "TrueSkill rankings",
-  "zh": ""
+  "zh": "ＴｒｕｅＳｋｉｌｌ"
  },
  {
   "id": "FMG/MENU.FMG/96301",
@@ -269889,7 +269889,7 @@
   "offset": "5E96",
   "jp": "ビンゴ",
   "en": "Bingo",
-  "zh": ""
+  "zh": "宾果"
  },
  {
   "id": "FMG/MENU.FMG/96302",
@@ -269898,7 +269898,7 @@
   "offset": "5E9E",
   "jp": "過去最高収支",
   "en": "Maximum win ever",
-  "zh": ""
+  "zh": "历史最高收益"
  },
  {
   "id": "FMG/MENU.FMG/96303",
@@ -269907,7 +269907,7 @@
   "offset": "5EAC",
   "jp": "最短ビンゴ回数",
   "en": "Lowest moves",
-  "zh": ""
+  "zh": "最短宾果次数"
  },
  {
   "id": "FMG/MENU.FMG/96304",
@@ -269916,7 +269916,7 @@
   "offset": "5EBC",
   "jp": "総ビンゴ回数",
   "en": "Total bingos",
-  "zh": ""
+  "zh": "总宾果次数"
  },
  {
   "id": "FMG/MENU.FMG/96305",
@@ -269925,7 +269925,7 @@
   "offset": "5ECA",
   "jp": "最高収支",
   "en": "Maximum win",
-  "zh": ""
+  "zh": "最高收益"
  },
  {
   "id": "FMG/MENU.FMG/96306",
@@ -269934,7 +269934,7 @@
   "offset": "5ED4",
   "jp": "最短ビンゴ回数",
   "en": "Lowest moves",
-  "zh": ""
+  "zh": "最短宾果次数"
  },
  {
   "id": "FMG/MENU.FMG/96307",
@@ -269943,7 +269943,7 @@
   "offset": "5EE4",
   "jp": "総ビンゴ回数",
   "en": "Total bingos",
-  "zh": ""
+  "zh": "总宾果次数"
  },
  {
   "id": "FMG/MENU.FMG/96401",
@@ -269952,7 +269952,7 @@
   "offset": "5EF2",
   "jp": "スロットゲーム",
   "en": "Slot Machine",
-  "zh": ""
+  "zh": "老虎机"
  },
  {
   "id": "FMG/MENU.FMG/96402",
@@ -269961,7 +269961,7 @@
   "offset": "5F02",
   "jp": "過去最高収支",
   "en": "Maximum win ever",
-  "zh": ""
+  "zh": "历史最高收益"
  },
  {
   "id": "FMG/MENU.FMG/96403",
@@ -269970,7 +269970,7 @@
   "offset": "5F10",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/96404",
@@ -269979,7 +269979,7 @@
   "offset": "5F18",
   "jp": "大当たり回数",
   "en": "Jackpots",
-  "zh": ""
+  "zh": "大奖次数"
  },
  {
   "id": "FMG/MENU.FMG/96405",
@@ -269988,7 +269988,7 @@
   "offset": "5F26",
   "jp": "役的中率",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "中奖率"
  },
  {
   "id": "FMG/MENU.FMG/96406",
@@ -269997,7 +269997,7 @@
   "offset": "5F30",
   "jp": "最高収支",
   "en": "Maximum win",
-  "zh": ""
+  "zh": "最高收益"
  },
  {
   "id": "FMG/MENU.FMG/96407",
@@ -270006,7 +270006,7 @@
   "offset": "5F3A",
   "jp": "役的中率",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "中奖率"
  },
  {
   "id": "FMG/MENU.FMG/96408",
@@ -270015,7 +270015,7 @@
   "offset": "5F44",
   "jp": "大当たり回数",
   "en": "Number of jackpots",
-  "zh": ""
+  "zh": "大奖次数"
  },
  {
   "id": "FMG/MENU.FMG/96501",
@@ -270024,7 +270024,7 @@
   "offset": "5F52",
   "jp": "ルーレット",
   "en": "Roulette",
-  "zh": ""
+  "zh": "轮盘赌"
  },
  {
   "id": "FMG/MENU.FMG/96502",
@@ -270033,7 +270033,7 @@
   "offset": "5F5E",
   "jp": "過去最高収支",
   "en": "Maximum win ever",
-  "zh": ""
+  "zh": "历史最高收益"
  },
  {
   "id": "FMG/MENU.FMG/96503",
@@ -270042,7 +270042,7 @@
   "offset": "5F6C",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/96504",
@@ -270051,7 +270051,7 @@
   "offset": "5F74",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/96505",
@@ -270060,7 +270060,7 @@
   "offset": "5F7C",
   "jp": "未使用",
   "en": "Not used",
-  "zh": ""
+  "zh": "未使用"
  },
  {
   "id": "FMG/MENU.FMG/96506",
@@ -270069,7 +270069,7 @@
   "offset": "5F84",
   "jp": "最高収支",
   "en": "Maximum win",
-  "zh": ""
+  "zh": "最高收益"
  },
  {
   "id": "FMG/MENU.FMG/96701",
@@ -270078,7 +270078,7 @@
   "offset": "5F8E",
   "jp": "ランキング",
   "en": "Ranking",
-  "zh": ""
+  "zh": "排行榜"
  },
  {
   "id": "FMG/MENU.FMG/96702",
@@ -270087,7 +270087,7 @@
   "offset": "5F9A",
   "jp": "順位",
   "en": "Rank",
-  "zh": ""
+  "zh": "排名"
  },
  {
   "id": "FMG/MENU.FMG/96703",
@@ -270096,7 +270096,7 @@
   "offset": "5FA0",
   "jp": "ゲーマータグ",
   "en": "Gamertag",
-  "zh": ""
+  "zh": "玩家代号"
  },
  {
   "id": "FMG/MENU.FMG/96704",
@@ -270105,7 +270105,7 @@
   "offset": "5FAE",
   "jp": "ゲーマースコア",
   "en": "Gamerscore",
-  "zh": ""
+  "zh": "玩家分数"
  },
  {
   "id": "FMG/MENU.FMG/96705",
@@ -270114,7 +270114,7 @@
   "offset": "5FBE",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "战绩"
  },
  {
   "id": "FMG/MENU.FMG/96706",
@@ -270123,7 +270123,7 @@
   "offset": "5FC4",
   "jp": "ランキングボード",
   "en": "Ranking Board",
-  "zh": ""
+  "zh": "排行榜看板"
  },
  {
   "id": "FMG/MENU.FMG/96707",
@@ -270132,7 +270132,7 @@
   "offset": "5FD6",
   "jp": "勝数（回）",
   "en": "Wins (times)",
-  "zh": ""
+  "zh": "胜场数（次）"
  },
  {
   "id": "FMG/MENU.FMG/96708",
@@ -270141,7 +270141,7 @@
   "offset": "5FE2",
   "jp": "勝率（％）",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "胜率（％）"
  },
  {
   "id": "FMG/MENU.FMG/96709",
@@ -270150,7 +270150,7 @@
   "offset": "5FEE",
   "jp": "連続勝利回数（回）",
   "en": "Consecutive wins (times)",
-  "zh": ""
+  "zh": "连胜次数（次）"
  },
  {
   "id": "FMG/MENU.FMG/96710",
@@ -270159,7 +270159,7 @@
   "offset": "6002",
   "jp": "過去最高収支（チップ）",
   "en": "Past top balance (Chips)",
-  "zh": ""
+  "zh": "历史最高收益（筹码）"
  },
  {
   "id": "FMG/MENU.FMG/96711",
@@ -270168,7 +270168,7 @@
   "offset": "601A",
   "jp": "最短ビンゴ回数（回）",
   "en": "Lowest moves to bingo (times)",
-  "zh": ""
+  "zh": "最短宾果次数（次）"
  },
  {
   "id": "FMG/MENU.FMG/96712",
@@ -270177,7 +270177,7 @@
   "offset": "6030",
   "jp": "総ビンゴ回数（回）",
   "en": "Total number of bingos (times)",
-  "zh": ""
+  "zh": "总宾果次数（次）"
  },
  {
   "id": "FMG/MENU.FMG/96713",
@@ -270186,7 +270186,7 @@
   "offset": "6044",
   "jp": "過去最高収支（チップ）",
   "en": "Maximum win ever (chips)",
-  "zh": ""
+  "zh": "历史最高收益（筹码）"
  },
  {
   "id": "FMG/MENU.FMG/96714",
@@ -270195,7 +270195,7 @@
   "offset": "605C",
   "jp": "役的中率（％）",
   "en": "Win rate (%)",
-  "zh": ""
+  "zh": "中奖率（％）"
  },
  {
   "id": "FMG/MENU.FMG/96715",
@@ -270204,7 +270204,7 @@
   "offset": "606C",
   "jp": "大当たり回数（回）",
   "en": "Number of jackpots (times)",
-  "zh": ""
+  "zh": "大奖次数（次）"
  },
  {
   "id": "FMG/MENU.FMG/96716",
@@ -270213,7 +270213,7 @@
   "offset": "6080",
   "jp": "過去最高収支（チップ）",
   "en": "Maximum win ever (chips)",
-  "zh": ""
+  "zh": "历史最高收支（筹码）"
  },
  {
   "id": "FMG/MENU.FMG/96720",
@@ -270222,7 +270222,7 @@
   "offset": "6098",
   "jp": "成績登録",
   "en": "Register results",
-  "zh": ""
+  "zh": "成绩登记"
  },
  {
   "id": "FMG/MENU.FMG/96801",
@@ -270231,7 +270231,7 @@
   "offset": "60A2",
   "jp": "成績をランキングボードに登録しますか？",
   "en": "Register these results to the Ranking Board?",
-  "zh": ""
+  "zh": "要把成绩登记到排行榜吗？"
  },
  {
   "id": "FMG/MENU.FMG/96802",
@@ -270240,7 +270240,7 @@
   "offset": "60CA",
   "jp": "成績をランキングボードに登録するには\nＸｂｏｘ Ｌｉｖｅにサインインする必要があります",
   "en": "You must be signed into Xbox Live to register results to\nthe Leaderboard.",
-  "zh": ""
+  "zh": "若要将成绩登记到排行榜\n需要登录Ｘｂｏｘ Ｌｉｖｅ"
  },
  {
   "id": "FMG/MENU.FMG/96803",
@@ -270249,7 +270249,7 @@
   "offset": "6122",
   "jp": "成績をランキングボードに登録するにはゲーマータグが必要です",
   "en": "A gamertag is required to register results to the\nLeaderboard.",
-  "zh": ""
+  "zh": "将成绩登记到排行榜需要玩家代号"
  },
  {
   "id": "FMG/MENU.FMG/96804",
@@ -270258,7 +270258,7 @@
   "offset": "615E",
   "jp": "サインアウトされたため、Ｘｂｏｘ Ｌｉｖｅを切断します\nＸｂｏｘ Ｌｉｖｅに接続するためにはサインインが必要です",
   "en": "You have signed out of Xbox Live.\nYou must sign in again to connect to Xbox Live.",
-  "zh": ""
+  "zh": "由于已注销，将断开Ｘｂｏｘ Ｌｉｖｅ的连接\n若要连接至Ｘｂｏｘ Ｌｉｖｅ需要登录"
  },
  {
   "id": "FMG/MENU.FMG/96805",
@@ -270267,7 +270267,7 @@
   "offset": "61D0",
   "jp": "ランキングボードを見るには\nＸｂｏｘ Ｌｉｖｅにサインインする必要があります",
   "en": "You must be signed into Xbox Live to view the Leaderboard.",
-  "zh": ""
+  "zh": "若要查看排行榜\n需要登录Ｘｂｏｘ Ｌｉｖｅ"
  },
  {
   "id": "FMG/MENU.FMG/96806",
@@ -270276,7 +270276,7 @@
   "offset": "621E",
   "jp": "ランキングボードに登録しました",
   "en": "Registered to Leaderboard.",
-  "zh": ""
+  "zh": "已登记到排行榜"
  },
  {
   "id": "FMG/MENU.FMG/96807",
@@ -270285,7 +270285,7 @@
   "offset": "623E",
   "jp": "ランキングボード登録に失敗しました",
   "en": "Failed to register to Leaderboard.",
-  "zh": ""
+  "zh": "排行榜登记失败"
  },
  {
   "id": "FMG/MENU.FMG/96808",
@@ -270294,7 +270294,7 @@
   "offset": "6262",
   "jp": "ランキングボードに登録中です・・・",
   "en": "Registering to Leaderboard.",
-  "zh": ""
+  "zh": "正在登记到排行榜……"
  },
  {
   "id": "FMG/MENU.FMG/96809",
@@ -270303,7 +270303,7 @@
   "offset": "6286",
   "jp": "---",
   "en": "---",
-  "zh": ""
+  "zh": "---"
  },
  {
   "id": "FMG/MENU.FMG/96810",
@@ -270312,7 +270312,7 @@
   "offset": "628E",
   "jp": "---------------",
   "en": "---------------",
-  "zh": ""
+  "zh": "---------------"
  },
  {
   "id": "FMG/MENU.FMG/96811",
@@ -270321,7 +270321,7 @@
   "offset": "62AE",
   "jp": "---",
   "en": "---",
-  "zh": ""
+  "zh": "---"
  },
  {
   "id": "FMG/MENU.FMG/96812",
@@ -270330,7 +270330,7 @@
   "offset": "62B6",
   "jp": "-------",
   "en": "-------",
-  "zh": ""
+  "zh": "-------"
  },
  {
   "id": "FMG/MENU.FMG/96813",
@@ -270339,7 +270339,7 @@
   "offset": "62C6",
   "jp": "成績が無いため登録できません",
   "en": "No results to register.",
-  "zh": ""
+  "zh": "没有成绩，无法登记"
  },
  {
   "id": "FMG/MENU.FMG/96814",
@@ -270348,7 +270348,7 @@
   "offset": "62E4",
   "jp": "ランキングボード読み込み中",
   "en": "Loading Leaderboard...",
-  "zh": ""
+  "zh": "排行榜读取中"
  },
  {
   "id": "FMG/MENU.FMG/96815",
@@ -270357,7 +270357,7 @@
   "offset": "6300",
   "jp": "今回の成績",
   "en": "Latest results",
-  "zh": ""
+  "zh": "本次成绩"
  },
  {
   "id": "FMG/MENU.FMG/96816",
@@ -270366,7 +270366,7 @@
   "offset": "630C",
   "jp": "通算成績",
   "en": "Cumulative results",
-  "zh": ""
+  "zh": "累计成绩"
  },
  {
   "id": "FMG/MENU.FMG/96817",
@@ -270375,7 +270375,7 @@
   "offset": "6316",
   "jp": "ランキングボードの読み込みに失敗しました",
   "en": "Failed to load the Leaderboard.",
-  "zh": ""
+  "zh": "排行榜读取失败"
  },
  {
   "id": "FMG/MENU.FMG/97001",
@@ -270384,7 +270384,7 @@
   "offset": "6340",
   "jp": "チップ購入",
   "en": "Buy Chips",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/97002",
@@ -270393,7 +270393,7 @@
   "offset": "634C",
   "jp": "チップ購入",
   "en": "Buy Chips",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/97003",
@@ -270402,7 +270402,7 @@
   "offset": "6358",
   "jp": "購入枚数",
   "en": "Number of chips bought",
-  "zh": ""
+  "zh": "购买数量"
  },
  {
   "id": "FMG/MENU.FMG/97004",
@@ -270411,7 +270411,7 @@
   "offset": "6362",
   "jp": "レート",
   "en": "Rate",
-  "zh": ""
+  "zh": "兑换率"
  },
  {
   "id": "FMG/MENU.FMG/97005",
@@ -270420,7 +270420,7 @@
   "offset": "636A",
   "jp": "ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/97006",
@@ -270429,7 +270429,7 @@
   "offset": "6370",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/97007",
@@ -270438,7 +270438,7 @@
   "offset": "637C",
   "jp": "所持ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "持有ＴＢ"
  },
  {
   "id": "FMG/MENU.FMG/97008",
@@ -270447,7 +270447,7 @@
   "offset": "6386",
   "jp": "補助アイテム",
   "en": "Support items",
-  "zh": ""
+  "zh": "辅助道具"
  },
  {
   "id": "FMG/MENU.FMG/97009",
@@ -270456,7 +270456,7 @@
   "offset": "6394",
   "jp": "個数",
   "en": "Amount",
-  "zh": ""
+  "zh": "数量"
  },
  {
   "id": "FMG/MENU.FMG/97020",
@@ -270465,7 +270465,7 @@
   "offset": "639A",
   "jp": "チップを購入できません",
   "en": "You can't buy chips.",
-  "zh": ""
+  "zh": "无法购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/97021",
@@ -270474,7 +270474,7 @@
   "offset": "63B2",
   "jp": "チップを購入できません",
   "en": "You can't buy chips.",
-  "zh": ""
+  "zh": "无法购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/97022",
@@ -270483,7 +270483,7 @@
   "offset": "63CA",
   "jp": "所持ＴＢが足りません",
   "en": "You don't have enough TB.",
-  "zh": ""
+  "zh": "持有的ＴＢ不足"
  },
  {
   "id": "FMG/MENU.FMG/98001",
@@ -270492,7 +270492,7 @@
   "offset": "63E0",
   "jp": "景品交換",
   "en": "Prize exchange",
-  "zh": ""
+  "zh": "兑换奖品"
  },
  {
   "id": "FMG/MENU.FMG/98002",
@@ -270501,7 +270501,7 @@
   "offset": "63EA",
   "jp": "名称",
   "en": "Name",
-  "zh": ""
+  "zh": "名称"
  },
  {
   "id": "FMG/MENU.FMG/98003",
@@ -270510,7 +270510,7 @@
   "offset": "63F0",
   "jp": "チップ",
   "en": "Chips",
-  "zh": ""
+  "zh": "筹码"
  },
  {
   "id": "FMG/MENU.FMG/98004",
@@ -270519,7 +270519,7 @@
   "offset": "63F8",
   "jp": "個数",
   "en": "Amount",
-  "zh": ""
+  "zh": "数量"
  },
  {
   "id": "FMG/MENU.FMG/98005",
@@ -270528,7 +270528,7 @@
   "offset": "63FE",
   "jp": "戦闘アイテム",
   "en": "Battle items",
-  "zh": ""
+  "zh": "战斗道具"
  },
  {
   "id": "FMG/MENU.FMG/98020",
@@ -270537,7 +270537,7 @@
   "offset": "640C",
   "jp": "交換できるアイテムがありません",
   "en": "No items for exchange.",
-  "zh": ""
+  "zh": "没有可兑换的道具"
  },
  {
   "id": "FMG/MENU.FMG/98021",
@@ -270546,7 +270546,7 @@
   "offset": "642C",
   "jp": "交換できるアイテムがありません",
   "en": "No items for exchange.",
-  "zh": ""
+  "zh": "没有可兑换的道具"
  },
  {
   "id": "FMG/MENU.FMG/98022",
@@ -270555,7 +270555,7 @@
   "offset": "644C",
   "jp": "所持チップが足りません",
   "en": "You don't have enough chips.",
-  "zh": ""
+  "zh": "持有的筹码不足"
  },
  {
   "id": "FMG/MENU.FMG/100001",
@@ -270564,7 +270564,7 @@
   "offset": "6464",
   "jp": "①:決定",
   "en": "①: OK",
-  "zh": ""
+  "zh": "①:确定"
  },
  {
   "id": "FMG/MENU.FMG/100002",
@@ -270573,7 +270573,7 @@
   "offset": "646E",
   "jp": "②:キャンセル",
   "en": "②: Cancel",
-  "zh": ""
+  "zh": "②:取消"
  },
  {
   "id": "FMG/MENU.FMG/100003",
@@ -270582,7 +270582,7 @@
   "offset": "647E",
   "jp": "①:はい",
   "en": "①: Yes",
-  "zh": ""
+  "zh": "①:是"
  },
  {
   "id": "FMG/MENU.FMG/100004",
@@ -270591,7 +270591,7 @@
   "offset": "6488",
   "jp": "②:いいえ",
   "en": "②: No",
-  "zh": ""
+  "zh": "②:否"
  },
  {
   "id": "FMG/MENU.FMG/100005",
@@ -270600,7 +270600,7 @@
   "offset": "6494",
   "jp": "①②:閉じる",
   "en": "①②: Close",
-  "zh": ""
+  "zh": "①②:关闭"
  },
  {
   "id": "FMG/MENU.FMG/101001",
@@ -270609,7 +270609,7 @@
   "offset": "64A2",
   "jp": "%dチップ",
   "en": "%d chip",
-  "zh": ""
+  "zh": "%d筹码"
  },
  {
   "id": "FMG/MENU.FMG/101002",
@@ -270618,7 +270618,7 @@
   "offset": "64AE",
   "jp": "%2.2f％",
   "en": "%2.2f%",
-  "zh": ""
+  "zh": "%2.2f％"
  },
  {
   "id": "FMG/MENU.FMG/101003",
@@ -270627,7 +270627,7 @@
   "offset": "64BC",
   "jp": "%d回",
   "en": "%d times",
-  "zh": ""
+  "zh": "%d次"
  },
  {
   "id": "FMG/MENU.FMG/101004",
@@ -270636,7 +270636,7 @@
   "offset": "64C4",
   "jp": "%2.1秒",
   "en": "%2.1 seconds",
-  "zh": ""
+  "zh": "%2.1秒"
  },
  {
   "id": "FMG/MENU.FMG/101005",
@@ -270645,7 +270645,7 @@
   "offset": "64D0",
   "jp": "%d回／秒",
   "en": "%d times / second",
-  "zh": ""
+  "zh": "%d次／秒"
  },
  {
   "id": "FMG/MENU.FMG/102001",
@@ -270654,7 +270654,7 @@
   "offset": "64DC",
   "jp": "ロードして対戦",
   "en": "Load player data",
-  "zh": ""
+  "zh": "读取存档进行对战"
  },
  {
   "id": "FMG/MENU.FMG/102002",
@@ -270663,7 +270663,7 @@
   "offset": "64EC",
   "jp": "ロードせずに対戦",
   "en": "Battle with preset",
-  "zh": ""
+  "zh": "不读存档直接对战"
  },
  {
   "id": "FMG/MENU.FMG/102003",
@@ -270672,7 +270672,7 @@
   "offset": "64FE",
   "jp": "インビテーションメニュー",
   "en": "Invitation Menu",
-  "zh": ""
+  "zh": "邀请菜单"
  },
  {
   "id": "FMG/MENU.FMG/102100",
@@ -270681,7 +270681,7 @@
   "offset": "6518",
   "jp": "ゲームへの参加",
   "en": "Joining game",
-  "zh": ""
+  "zh": "加入游戏"
  },
  {
   "id": "FMG/MENU.FMG/102101",
@@ -270690,7 +270690,7 @@
   "offset": "6528",
   "jp": "招待されたゲームに参加しますか？\nゲームで遊んでいる場合、保存していないゲームプレイは失われます",
   "en": "Accept invitation? Any unsaved progress will be lost.",
-  "zh": ""
+  "zh": "要加入受邀的游戏吗？\n如果正在游戏中，未保存的游戏进度将会丢失"
  },
  {
   "id": "FMG/MENU.FMG/102102",
@@ -270699,7 +270699,7 @@
   "offset": "658A",
   "jp": "ゲームに参加します",
   "en": "Join game",
-  "zh": ""
+  "zh": "加入游戏"
  },
  {
   "id": "FMG/MENU.FMG/102103",
@@ -270708,7 +270708,7 @@
   "offset": "659E",
   "jp": "いいえ",
   "en": "No",
-  "zh": ""
+  "zh": "否"
  },
  {
   "id": "FMG/MENU.FMG/102104",
@@ -270717,7 +270717,7 @@
   "offset": "65A6",
   "jp": "ゲーム招待",
   "en": "Game invitation",
-  "zh": ""
+  "zh": "游戏邀请"
  },
  {
   "id": "FMG/MENU.FMG/102105",
@@ -270726,7 +270726,7 @@
   "offset": "65B2",
   "jp": "●対戦\n　・自分の育てたゴーレム、\n　　または用意されたパーティで対戦します\n　・自分の育てたゴーレムが一体もいない場合は\n　　用意されたパーティで対戦を行います\n\n#CFFAAAA77※レベル制限が設定されているマッチに参加する場合\n　レベル制限を超えるレベルのゴーレムは\n　出場できません\n※全てのゴーレムがレベル制限により出場できない場合\n　用意されたパーティでの対戦になります\n※ゲーマプロフィールが\n　２つ以上サインインされていると、\n　マッチメイキングができない場合があります#c",
   "en": "● Battles\n  - Use the Golems you have raised in the main game\n    or a preset party to fight.\n  - If you do not have a single Golem of your own you\n    will have to use a preset party.\n\n\n#CFFAAAA77\n(*) When taking part in a Match with a level limit,\n     any Golems higher than the limit will not take part\n     in the battle.\n(*) If all of your Golems are above the level limit you\n    will have to use a preset party.\n(*) If more than 2 gamer profiles are signed in, it may\n    not be possible to perform matchmaking. #c",
-  "zh": ""
+  "zh": "●对战\n　・使用自己培育的魔像、\n　　或预设的队伍进行对战\n　・若没有自己培育的魔像，\n　　将使用预设的队伍进行对战\n\n#CFFAAAA77※加入设有等级限制的比赛时，\n　超过等级限制的魔像\n　无法出场\n※若所有魔像均因等级限制无法出场，\n　将使用预设队伍进行对战\n※若登录了２个以上的玩家档案，\n　有时可能无法进行匹配#c"
  },
  {
   "id": "FMG/MENU.FMG/102106",
@@ -270735,7 +270735,7 @@
   "offset": "67A0",
   "jp": "参加したマッチのレベル制限（最高レベル：%d）に適合しない\n%d体のゴーレムがロードしたゲームプレイから外されました",
   "en": "%d golems in your game data do not meet the level limit (max level: %d)\nfor the match and thus have been removed from the loaded game data.",
-  "zh": ""
+  "zh": "不符合所参加比赛等级限制（最高等级：%d）的\n%d只魔像已从读取的存档中移出"
  },
  {
   "id": "FMG/MENU.FMG/102107",
@@ -270744,7 +270744,7 @@
   "offset": "6816",
   "jp": "参加したマッチのレベル制限（最高レベル：%d）に全てのゴーレムが適合していません\nあらかじめ用意されたパーティで対戦を行います",
   "en": "None of the golems meet the level limit (max level: %d)\nfor the match and battle will begin with a prepared party.",
-  "zh": ""
+  "zh": "所有魔像均不符合所参加比赛的等级限制（最高等级：%d）\n将使用预设队伍进行对战"
  },
  {
   "id": "FMG/MENU.FMG/103001",
@@ -270753,7 +270753,7 @@
   "offset": "6896",
   "jp": "カジノ",
   "en": "Casino",
-  "zh": ""
+  "zh": "赌场"
  },
  {
   "id": "FMG/MENU.FMG/103002",
@@ -270762,7 +270762,7 @@
   "offset": "689E",
   "jp": "チップ購入",
   "en": "Buy Chips",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/103003",
@@ -270771,7 +270771,7 @@
   "offset": "68AA",
   "jp": "景品交換",
   "en": "Prize exchange",
-  "zh": ""
+  "zh": "兑换奖品"
  },
  {
   "id": "FMG/MENU.FMG/103004",
@@ -270780,7 +270780,7 @@
   "offset": "68B4",
   "jp": "ゴーレムバトル",
   "en": "Golem Battles",
-  "zh": ""
+  "zh": "魔像对决"
  },
  {
   "id": "FMG/MENU.FMG/103005",
@@ -270789,7 +270789,7 @@
   "offset": "68C4",
   "jp": "ビンゴ",
   "en": "Bingo",
-  "zh": ""
+  "zh": "宾果"
  },
  {
   "id": "FMG/MENU.FMG/103006",
@@ -270798,7 +270798,7 @@
   "offset": "68CC",
   "jp": "スロットゲーム",
   "en": "Slot Machine",
-  "zh": ""
+  "zh": "老虎机"
  },
  {
   "id": "FMG/MENU.FMG/103007",
@@ -270807,7 +270807,7 @@
   "offset": "68DC",
   "jp": "ルーレット",
   "en": "Roulette",
-  "zh": ""
+  "zh": "轮盘"
  },
  {
   "id": "FMG/MENU.FMG/103009",
@@ -270816,7 +270816,7 @@
   "offset": "68E8",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/103010",
@@ -270825,7 +270825,7 @@
   "offset": "68F4",
   "jp": "成績",
   "en": "Results",
-  "zh": ""
+  "zh": "成绩"
  },
  {
   "id": "FMG/MENU.FMG/103011",
@@ -270834,7 +270834,7 @@
   "offset": "68FA",
   "jp": "“ミニゲーム”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Mini Game\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "尚未登记“迷你游戏”的成绩\n若不登记成绩，该信息将会丢失，确定要继续吗？\n（成绩可在“成绩→登记成绩”中进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103071",
@@ -270843,7 +270843,7 @@
   "offset": "6988",
   "jp": "“ビンゴ”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Bingo\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“宾果”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103072",
@@ -270852,7 +270852,7 @@
   "offset": "6A12",
   "jp": "“スロットゲーム”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Slot Machine\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“老虎机”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103073",
@@ -270861,7 +270861,7 @@
   "offset": "6AA4",
   "jp": "“ビンゴ”“スロットゲーム”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Bingo\" and \"Slot Machine\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“宾果”“老虎机”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103074",
@@ -270870,7 +270870,7 @@
   "offset": "6B40",
   "jp": "“ルーレット”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Roulette\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“轮盘赌”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103075",
@@ -270879,7 +270879,7 @@
   "offset": "6BCE",
   "jp": "“ビンゴ”“ルーレット”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Bingo\" and \"Roulette\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“宾果”“轮盘赌”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103076",
@@ -270888,7 +270888,7 @@
   "offset": "6C66",
   "jp": "“スロットゲーム”“ルーレット”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Slot Machine\" and \"Roulette\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“老虎机”“轮盘赌”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103077",
@@ -270897,7 +270897,7 @@
   "offset": "6D06",
   "jp": "“ビンゴ”“スロットゲーム”“ルーレット”の成績を登録していません\n成績を登録しないと、この情報は失われますがよろしいですか？\n（成績は、成績→成績登録で登録できます）",
   "en": "\"Bingo\", \"Slot Machine\" and \"Roulette\" results are not recorded.\nIf you don't record the results, the information will be lost.\nIs that okay?\n(To record the results, go to \"Results\" then \"Register results\".)",
-  "zh": ""
+  "zh": "未登记“宾果”“老虎机”“轮盘赌”成绩\n若不登记成绩，此信息将会丢失，确定吗？\n（成绩可通过：成绩→成绩登记 进行登记）"
  },
  {
   "id": "FMG/MENU.FMG/103101",
@@ -270906,7 +270906,7 @@
   "offset": "6DB0",
   "jp": "スロットマシン選択",
   "en": "Select Slot Machine",
-  "zh": ""
+  "zh": "选择老虎机"
  },
  {
   "id": "FMG/MENU.FMG/103102",
@@ -270915,7 +270915,7 @@
   "offset": "6DC4",
   "jp": "エンチャント７７７",
   "en": "Enchant 777",
-  "zh": ""
+  "zh": "赋法777"
  },
  {
   "id": "FMG/MENU.FMG/103103",
@@ -270924,7 +270924,7 @@
   "offset": "6DD8",
   "jp": "ラッキーマテリアル",
   "en": "Lucky Material",
-  "zh": ""
+  "zh": "幸运素材"
  },
  {
   "id": "FMG/MENU.FMG/103104",
@@ -270933,7 +270933,7 @@
   "offset": "6DEC",
   "jp": "ゴーレムパラダイス",
   "en": "Golem Paradise",
-  "zh": ""
+  "zh": "魔像乐园"
  },
  {
   "id": "FMG/MENU.FMG/103105",
@@ -270942,7 +270942,7 @@
   "offset": "6E00",
   "jp": "ヨッピーリーチＲ",
   "en": "Yoppy's Reach R",
-  "zh": ""
+  "zh": "约比听牌R"
  },
  {
   "id": "FMG/MENU.FMG/103106",
@@ -270951,7 +270951,7 @@
   "offset": "6E12",
   "jp": "オーバーブレイクＲ",
   "en": "Overbreak R",
-  "zh": ""
+  "zh": "极限突破R"
  },
  {
   "id": "FMG/MENU.FMG/103107",
@@ -270960,7 +270960,7 @@
   "offset": "6E26",
   "jp": "ロンドンチャンスＲ",
   "en": "London Chance R",
-  "zh": ""
+  "zh": "伦敦机会R"
  },
  {
   "id": "FMG/MENU.FMG/103108",
@@ -270969,7 +270969,7 @@
   "offset": "6E3A",
   "jp": "フバイル三世ＤＸ",
   "en": "Fubial III R",
-  "zh": ""
+  "zh": "富拜尔三世DX"
  },
  {
   "id": "FMG/MENU.FMG/103109",
@@ -270978,7 +270978,7 @@
   "offset": "6E4C",
   "jp": "ＴＢハンターＤＸ",
   "en": "TB Hunter DX",
-  "zh": ""
+  "zh": "TB猎人DX"
  },
  {
   "id": "FMG/MENU.FMG/103110",
@@ -270987,7 +270987,7 @@
   "offset": "6E5E",
   "jp": "トキムネちゃまＤＸ",
   "en": "Li'l Tokimune DX",
-  "zh": ""
+  "zh": "时宗少爷DX"
  },
  {
   "id": "FMG/MENU.FMG/103200",
@@ -270996,7 +270996,7 @@
   "offset": "6E72",
   "jp": "チップ購入",
   "en": "Buy Chips",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/103201",
@@ -271005,7 +271005,7 @@
   "offset": "6E7E",
   "jp": "チップ購入",
   "en": "Buy Chips",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/103202",
@@ -271014,7 +271014,7 @@
   "offset": "6E8A",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/103203",
@@ -271023,7 +271023,7 @@
   "offset": "6E96",
   "jp": "所持ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "持有TB"
  },
  {
   "id": "FMG/MENU.FMG/103204",
@@ -271032,7 +271032,7 @@
   "offset": "6EA0",
   "jp": "ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "TB"
  },
  {
   "id": "FMG/MENU.FMG/103205",
@@ -271041,7 +271041,7 @@
   "offset": "6EA6",
   "jp": "所持ＴＢ%dをチップ%d枚に\n交換しますか？",
   "en": "Exchange %d TB for %d chips?",
-  "zh": ""
+  "zh": "要将持有的兑换为\n%d枚筹码吗？"
  },
  {
   "id": "FMG/MENU.FMG/103206",
@@ -271050,7 +271050,7 @@
   "offset": "6ED4",
   "jp": "チップ購入",
   "en": "Buy Chips",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/MENU.FMG/103207",
@@ -271059,7 +271059,7 @@
   "offset": "6EE0",
   "jp": "枚数",
   "en": "Chips",
-  "zh": ""
+  "zh": "枚数"
  },
  {
   "id": "FMG/MENU.FMG/103208",
@@ -271068,7 +271068,7 @@
   "offset": "6EE6",
   "jp": "所持チップ",
   "en": "Total chips",
-  "zh": ""
+  "zh": "持有筹码"
  },
  {
   "id": "FMG/MENU.FMG/103209",
@@ -271077,7 +271077,7 @@
   "offset": "6EF2",
   "jp": "ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "TB"
  },
  {
   "id": "FMG/MENU.FMG/103210",
@@ -271086,7 +271086,7 @@
   "offset": "6EF8",
   "jp": "所持ＴＢ",
   "en": "TB",
-  "zh": ""
+  "zh": "持有TB"
  },
  {
   "id": "FMG/MENU.FMG/103211",
@@ -271095,7 +271095,7 @@
   "offset": "6F02",
   "jp": "レート　チップ1枚＝ＴＢ",
   "en": "Rate  1 chip=TB",
-  "zh": ""
+  "zh": "汇率　1枚筹码＝TB"
  },
  {
   "id": "FMG/MENU.FMG/110001",
@@ -271104,7 +271104,7 @@
   "offset": "6F1C",
   "jp": "エーテル×%s",
   "en": "Ether x %s",
-  "zh": ""
+  "zh": "以太×%s"
  },
  {
   "id": "FMG/MENU.FMG/110002",
@@ -271113,7 +271113,7 @@
   "offset": "6F2C",
   "jp": "エンカウント率%s％",
   "en": "Encounter Rate %s",
-  "zh": ""
+  "zh": "遇敌率%s％"
  },
  {
   "id": "FMG/MENU.FMG/110003",
@@ -271122,7 +271122,7 @@
   "offset": "6F42",
   "jp": "カメラ固定",
   "en": "Set Camera",
-  "zh": ""
+  "zh": "固定视角"
  },
  {
   "id": "FMG/MENU.FMG/111001",
@@ -271131,7 +271131,7 @@
   "offset": "6F4E",
   "jp": "相手プレイヤーが対戦を中止しました\n対戦を終了します",
   "en": "Your opponent has cancelled the battle.\nThe battle has ended.",
-  "zh": ""
+  "zh": "对方玩家中止了对战\n对战即将结束"
  },
  {
   "id": "FMG/MENU.FMG/111002",
@@ -271140,7 +271140,7 @@
   "offset": "6F84",
   "jp": "サインアウトされたため、Ｘｂｏｘ Ｌｉｖｅを切断します\nＸｂｏｘ Ｌｉｖｅに接続するためにはサインインが必要です",
   "en": "Due to sign out, Xbox Live has been interrupted.\nYou must sign in to connect to Xbox Live.",
-  "zh": ""
+  "zh": "由于已注销，将断开Xbox Live的连接\n连接Xbox Live需要先登录"
  },
  {
   "id": "FMG/MENU.FMG/111003",
@@ -271149,7 +271149,7 @@
   "offset": "6FF6",
   "jp": "マルチプレイヤーが禁止されているプレイヤーのため\nゲームセッションを作成できません",
   "en": "Player is forbidden from multiplayer play, \nso game session can't be created.",
-  "zh": ""
+  "zh": "该玩家被禁止进行多人游戏\n无法创建游戏会话"
  },
  {
   "id": "FMG/MENU.FMG/111004",
@@ -271158,7 +271158,7 @@
   "offset": "704A",
   "jp": "マルチプレイヤーが禁止されているプレイヤーのため\nゲームセッションに参加できません",
   "en": "Can't join game session because player is forbidden from multiplayer play.",
-  "zh": ""
+  "zh": "由于该玩家被禁止进行多人游戏\n因此无法加入游戏战局"
  },
  {
   "id": "FMG/MENU.FMG/111005",
@@ -271167,7 +271167,7 @@
   "offset": "709E",
   "jp": "不正なゲームセッションに参加しようとしました",
   "en": "An attempt was made to join an inappropriate game session.",
-  "zh": ""
+  "zh": "试图加入违规的游戏战局"
  },
  {
   "id": "FMG/MENU.FMG/111006",
@@ -271176,7 +271176,7 @@
   "offset": "70CC",
   "jp": "Ｘｂｏｘ Ｌｉｖｅに参加していません",
   "en": "You are not signed in to Xbox Live.",
-  "zh": ""
+  "zh": "尚未加入Ｘｂｏｘ Ｌｉｖｅ"
  },
  {
   "id": "FMG/MENU.FMG/111007",
@@ -271185,7 +271185,7 @@
   "offset": "70F2",
   "jp": "このゲームセッションはすでに定員に達しているため、参加できませんでした",
   "en": "You can't participate in this game session because it is already full.",
-  "zh": ""
+  "zh": "该游戏战局人数已满，无法加入"
  },
  {
   "id": "FMG/MENU.FMG/111008",
@@ -271194,7 +271194,7 @@
   "offset": "713A",
   "jp": "サインインしていないため、Ｘｂｏｘ Ｌｉｖｅに参加できません",
   "en": "You are not signed in, so you can't join Xbox Live.",
-  "zh": ""
+  "zh": "由于尚未登录，无法加入Ｘｂｏｘ Ｌｉｖｅ"
  },
  {
   "id": "FMG/MENU.FMG/111009",
@@ -271203,7 +271203,7 @@
   "offset": "7178",
   "jp": "マルチプレイヤーが禁止されているプレイヤーのため\n操作を完了できませんでした",
   "en": "Couldn't complete operation because player is forbidden from multiplayer play.",
-  "zh": ""
+  "zh": "由于该玩家被禁止进行多人游戏\n未能完成操作"
  },
  {
   "id": "FMG/MENU.FMG/111010",
@@ -271212,7 +271212,7 @@
   "offset": "71C6",
   "jp": "マルチプレイヤーが禁止されているプレイヤーです",
   "en": "Player is forbidden from multiplayer play.",
-  "zh": ""
+  "zh": "该玩家被禁止进行多人游戏"
  },
  {
   "id": "FMG/MENU.FMG/111011",
@@ -271221,7 +271221,7 @@
   "offset": "71F6",
   "jp": "ゲームセッションが切断されました",
   "en": "You have been disconnected from Xbox Live.",
-  "zh": ""
+  "zh": "与游戏战局的连接已断开"
  },
  {
   "id": "FMG/MENU.FMG/111012",
@@ -271230,7 +271230,7 @@
   "offset": "7218",
   "jp": "オフラインになったため、ゲームセッションが切断されました",
   "en": "Game session has been interrupted because player is offline.",
-  "zh": ""
+  "zh": "由于已离线，与游戏战局的连接已断开"
  },
  {
   "id": "FMG/MENU.FMG/112001",
@@ -271239,7 +271239,7 @@
   "offset": "7252",
   "jp": "対戦相手との接続が切れました",
   "en": "Connection with opponent has been lost.",
-  "zh": ""
+  "zh": "与对战对手的连接已断开"
  },
  {
   "id": "FMG/MENU.FMG/112002",
@@ -271248,7 +271248,7 @@
   "offset": "7270",
   "jp": "対戦相手がオフラインになったため、あなたの不戦勝になります",
   "en": "Opponent has gone offline. You win by default.",
-  "zh": ""
+  "zh": "由于对战对手离线，判定为您不战而胜"
  },
  {
   "id": "FMG/MENU.FMG/112003",
@@ -271257,7 +271257,7 @@
   "offset": "72AC",
   "jp": "サインアウトされたため、オフラインになります\n対戦結果は負けになります\nＸｂｏｘ Ｌｉｖｅに接続するためにはサインインが必要です",
   "en": "Because of sign out, player has gone offline.\nBattle results will be a loss.\nMust be connected to join Xbox Live.",
-  "zh": ""
+  "zh": "由于已退出登录，将转为离线状态\n对战结果将判定为失败\n若要连接至Ｘｂｏｘ Ｌｉｖｅ，需要进行登录"
  },
  {
   "id": "FMG/MENU.FMG/112004",
@@ -271266,7 +271266,7 @@
   "offset": "732E",
   "jp": "対戦を中止すると不戦敗になります\nまた不正を減らすため、セッションの正確なスコアがチェックされます\nゲームの終了前にゲームをドロップアウトすると、スコアが下がることがあります\nよろしいですか？",
   "en": "Cancel the battle and it's a loss by default.\nTo reduce unfairness, the precise score of the session is checked.\nIf you drop out before the game is over, your score may go down.\nIs that okay?",
-  "zh": ""
+  "zh": "中止对战将判定为不战而败\n此外为减少作弊行为，系统将核对战局的准确积分\n如果在游戏结束前中途退出，可能会导致积分下降\n确定要中止吗？"
  },
  {
   "id": "FMG/MENU.FMG/112005",
@@ -271275,7 +271275,7 @@
   "offset": "73F0",
   "jp": "対戦中に逃亡した場合、敗北とみなされます\nまた、不正を減らすため、セッションの正確なスコアがチェックされます\nゲームの終了前にゲームをドロップアウトすると、スコアが下がることがあります\nよろしいですか？",
   "en": "If you escape during the battle, it is viewed as a loss.\nTo reduce unfairness, the precise score of the session is checked.\nIf you drop out before the game is over, your score may go down.\nIs that okay?",
-  "zh": ""
+  "zh": "在对战中逃跑将被视为战败\n此外，为减少作弊行为，系统将核对战局的准确积分\n如果在游戏结束前中途退出，可能会导致积分下降\n确定要逃跑吗？"
  },
  {
   "id": "FMG/MENU.FMG/112006",
@@ -271284,7 +271284,7 @@
   "offset": "74BC",
   "jp": "ランクマッチでは対戦結果をランキングに反映します\nよろしいですか？",
   "en": "Ranked Match battles affect ranking.\nIs that okay?",
-  "zh": ""
+  "zh": "排名赛的对战结果将计入排行榜\n确定要进行吗？"
  },
  {
   "id": "FMG/MENU.FMG/112007",
@@ -271293,7 +271293,7 @@
   "offset": "7500",
   "jp": "対戦を中止しますか？",
   "en": "Cancel battle?",
-  "zh": ""
+  "zh": "要中止对战吗？"
  },
  {
   "id": "FMG/MENU.FMG/112008",
@@ -271302,7 +271302,7 @@
   "offset": "7516",
   "jp": "オフラインになったため、あなたの不戦敗になります",
   "en": "You signed out. By default, you lose.",
-  "zh": ""
+  "zh": "由于已离线，判定为您不战而败"
  },
  {
   "id": "FMG/MENU.FMG/112009",
@@ -271311,7 +271311,7 @@
   "offset": "7548",
   "jp": "２名以上のゲーマーがサインインしているため、ゲームセッションを検索できません\nセッションに参加するゲーマーのみサインインした状態で検索してください",
   "en": "Can't search for game session because more than 2 gamers are signed in.\nTry searching again when only gamers who are joining the session are signed in.",
-  "zh": ""
+  "zh": "由于有２名及以上玩家已登录，无法搜索游戏战局\n请仅在参加战局的玩家处于登录状态下进行搜索"
  },
  {
   "id": "FMG/MENU.FMG/112010",
@@ -271320,7 +271320,7 @@
   "offset": "75DC",
   "jp": "オフラインになったため、このゲームは無効となります",
   "en": "Connection has been lost. This match ends in no contest.",
-  "zh": ""
+  "zh": "由于已离线，本场游戏判定无效"
  },
  {
   "id": "FMG/MENU.FMG/120000",
@@ -271329,7 +271329,7 @@
   "offset": "7610",
   "jp": "パーティに入れるキャラクターを決定します\nカーソルでキャラクターを選び、パーティの入れ替えをしてください\n\nなお、アツマをパーティから外すことはできません",
   "en": "Choose characters to put in your party.\nSelect a character with the cursor and then switch them\ninto the party.\n\nAtsuma cannot be removed from the party.",
-  "zh": ""
+  "zh": "决定编入队伍的角色\n请使用光标选择角色以进行队伍成员替换\n\n另外，阿茨玛无法移出队伍"
  },
  {
   "id": "FMG/MENU.FMG/120001",
