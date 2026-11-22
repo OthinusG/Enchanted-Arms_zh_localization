@@ -235554,7 +235554,7 @@
   "offset": "3C",
   "jp": "・ルール\n\n　１．０～３６の数字が書かれた\n　　　ホイールを使用します\n\n　２．ホイールの上をランプが回転し、\n　　　いずれかの数字で停止します\n\n　３．ランプがどの数字で止まるかを\n　　　予想してベットします",
   "en": "• Rules\n\n1. The wheel is marked with the numbers\n   0-36. \n\n2. A lamp spins over the wheel and stops\n   on a number.\n\n3. Bet on the number where you think the\n   lamp will stop.",
-  "zh": ""
+  "zh": "・规则\n\n　１．使用标有０～３６数字的\n　　　轮盘\n\n　２．指示灯在轮盘上旋转，\n　　　并停在任意一个数字上\n\n　３．预测指示灯会停在哪个数字上\n　　　并进行下注"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN/2/0",
@@ -235563,7 +235563,7 @@
   "offset": "110",
   "jp": "・賭け方\n\n　ストレート　　　×３６\n　　１個の数字に賭けます\n　　数字の中心にチップを置きます\n\n　スプリット　　　×１８\n　　２個の数字に賭けます\n　　２個の数字にまたがるようにチップを置きます",
   "en": "• How to Bet \n\n　Straight      x36\n   Bet on one number.\n   Place your chips in the middle of the\n   number.\n\n　Split         x18\n   Bet on two numbers.\n   Place your chips so they extend over\n   the two numbers.",
-  "zh": ""
+  "zh": "・下注方式\n\n　单一数字（单注）　×３６\n　　押在１个数字上\n　　将筹码放在数字中心\n\n　双号码（分注）　　×１８\n　　押在２个数字上\n　　将筹码放在跨越２个数字的边界线上"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN/3/0",
@@ -235572,7 +235572,7 @@
   "offset": "1D8",
   "jp": "\n　スリー　　　　　×１２\n　　(０、１、２)、(０、２、３)の３個の数字に賭けます\n　　(０、１、２)\n    　『０』『１』『２』にまたがるように\n　　　チップを置きます\n　　(０、２、３)\n    　『０』『２』『３』にまたがるように\n　　　チップを置きます\n\n　ストリート　　　×１２\n　　縦列で３個の数字に賭けます\n　　上部の外線にチップを置きます",
   "en": "　Threes        x12\n   Bet on three numbers (0,1,2) or (0,2,3) \n \n   Place your chips so they extend over the\n   three numbers.\n　　\n　Street        x12\n   Bet on three numbers in a column. Place\n   your chips on the upper outside line.",
-  "zh": ""
+  "zh": "三号码（三数注）　×１２\n　　押在(０、１、２)、(０、２、３)这３个数字上\n　　(０、１、２)\n    　将筹码放在跨越\n　　　『０』『１』『２』的位置\n　　(０、２、３)\n    　将筹码放在跨越\n　　　『０』『２』『３』的位置\n\n　单排三号码（街注）×１２\n　　押在一列纵向的３个数字上\n　　将筹码放在上方的外边线上"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN/4/0",
@@ -235581,7 +235581,7 @@
   "offset": "340",
   "jp": "\n　コーナー　　　　×９\n　　４個の数字に賭けます\n　　４個の数字にまたがるようにチップを置きます\n\n　シックスライン　×６\n　　縦２列、計６個の数字に賭けます\n　　上部の外線に２列にまたがるようにチップを置きます",
   "en": "　Corner        x9\n   Bet on four numbers.\n   Place your chips so they extend over the\n   four numbers.\n\n　Six line      x6\n   Bet on a total of six numbers in 2\n   columns.\n   Place your chips on the upper outside\n   line so they extend over the 2\n   columns.",
-  "zh": ""
+  "zh": "四号码（角注）　　×９\n　　押在４个数字上\n　　将筹码放在跨越４个数字的交叉点上\n\n　双排六号码（线注）×６\n　　押在纵向２列、共６个数字上\n　　将筹码放在上方跨越２列的外边线上"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN/5/0",
@@ -235590,7 +235590,7 @@
   "offset": "418",
   "jp": "\n　ダズン　　　　　×３\n　　１～１２、１３～２４、２５～３６の１２個の数字に\n　　賭けます\n　　１～１２は『１st１２』にチップを置きます\n　　１３～２４は『２nd１２』にチップを置きます\n　　２５～３６は『３rd１２』にチップを置きます\n\n　コラム　　　　　×３\n　　横１列、計１２個の数字に賭けます\n　　右端にある『２to１』にチップを置きます",
   "en": "　Dozen         x3\n   Bet on the 12 numbers 1-12, 13-24, or\n   25-36.\n   Place your chips on 1st 12, 2nd 12, or\n   3rd 12, respectively.\n\n　Row           x3\n   Bet on a total of 12 numbers in 1 row.\n   Put your chips on \"2 to 1\" at the far\n   right.",
-  "zh": ""
+  "zh": "打注（几十注）　　×３\n　　押在１～１２、１３～２４、２５～３６这１２个数字上\n　　１～１２请将筹码放在『１st１２』\n　　１３～２４请将筹码放在『２nd１２』\n　　２５～３６请将筹码放在『３rd１２』\n\n　列注（线注）　　　×３\n　　押在横向１行、共１２个数字上\n　　将筹码放在右端的『２to１』上"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN/6/0",
@@ -235599,7 +235599,7 @@
   "offset": "578",
   "jp": "\n　アウトサイド　　×２\n　　(赤、黒)、(奇数、偶数)、(大、小)の\n    １３個の数字に賭けます\n　　(赤、黒)\n　　　赤、または黒の菱形にチップを置きます\n　　(奇数、偶数)\n　　　奇数は『ODD』、偶数は『EVEN』に\n　　　チップを置きます\n　　(大、小)\n　　　大は『１to１８』、小は『１９to３６』に\n　　　チップを置きます",
   "en": "　Outside       x2\n   Bet on 13 numbers that are red/black,\n   odd/even, or high/low.\n\n   Red/black: Place chips on the red or\n   black diamond.\n   \n   Odd/even: Place chips on \"ODD\" or \"EVEN\".\n   \n   High/low: Place chips on \"1 to 18\" for\n   high or \"19 to 36\" for low.",
-  "zh": ""
+  "zh": "外部下注　　　　　×２\n　　押在(红、黑)、(奇数、偶数)、(大、小)这类\n    １８个数字构成的组别上\n　　(红、黑)\n　　　将筹码放在红色或黑色的菱形上\n　　(奇数、偶数)\n　　　奇数押在『ODD』，偶数押在『EVEN』\n　　(大、小)\n　　　大押在『１９to３６』，小押在『１to１８』"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN/7/0",
@@ -235608,7 +235608,7 @@
   "offset": "6D0",
   "jp": "・遊び方\n\n　１．方向キーでベットする数字を\n　　　選択します\n\n　２．ベットするチップ数を決定します\n　　　複数の数字にベット出来ます\n\n　３．ゲームスタートでルーレットが開始します",
   "en": "• How to Play \n\n 1. Use the left stick to select the\n    number(s) to bet on. \n\n 2. Choose the number of chips to bet.\n    You can place bets on more than one\n    number.\n\n 3. Roulette begins when the game starts.",
-  "zh": ""
+  "zh": "・游玩方法\n\n　１．使用方向键选择要下注的数字\n\n　２．决定要下注的筹码数量\n　　　可以同时押在多个数字上\n\n　３．选择开始游戏后，轮盘即开始运转"
  },
  {
   "id": "OTHER/ROULETTEDESC.BIN_/1/0",
