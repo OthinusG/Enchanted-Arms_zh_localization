@@ -2,6 +2,7 @@
 """
 Automated Batch Translation Processor for Enchanted Arms.
 Handles end-to-end batch localization, verification, PLAN update, git commit & push.
+Supports all categories: MSG, OTHER, FMG, EXTRA.
 """
 
 import sys
@@ -38,8 +39,9 @@ SYSTEM_PROMPT = """你是一名专业的日文游戏汉化翻译专家。请将�
 2. 绝对严格保留所有控制标记与排版符号：
    - 换行符 \\n 原样保留在译文相应位置。
    - 颜色标签（如 #CFF697DBE午餐#c）按原文严格保留，不得改变 #C... 或 #c 的十六进制代码。若日文原文末尾未闭合 #c，亦切勿自行添加多余的 #c。
-   - 引擎标记如 %F, %J008015, %M002030, %S101021, %s, %d, %02d, %% 原样保留在译文中。
-   - 特殊符号（如 ⑲, ②, ③ 等）原样保留。
+   - 格式占位符与引擎标记如 %F, %J008015, %M002030, %S101021, %s, %d, %02d, % 6d, % 4d, % 2d, %2.2f, %u, %% 严格原样保留（包括空格，如 % 6d 绝对不能写成 %6d）。
+   - 特殊符号（如 ①, ②, ③... ⑳ 等带圈数字）严格原样保留，不要转为 (1) 或普通阿拉伯数字。
+   - 纯字符表/排版符号（如 0123456789、字母表、假名表）请保持原样。
 3. 输出格式：必须仅输出一个合法的 JSON Object，键为条目的 key，值为对应的 zh 译文字符串。
 禁止任何 markdown 代码块标记（如 ```json），禁止多余说明。
 """
@@ -55,7 +57,23 @@ def extract_tags(text):
 def fix_zh_tags(jp, zh):
     if not zh:
         zh = jp
-    # 1. Percent tags
+
+    # 1. Spaced format specifiers (% 6d, % 4d, % 2d, % 3d) BEFORE percent tag extraction
+    for sp_fmt in ['% 6d', '% 4d', '% 2d', '% 3d']:
+        if sp_fmt in jp:
+            no_space = sp_fmt.replace(' ', '')
+            if no_space in zh and sp_fmt not in zh:
+                zh = zh.replace(no_space, sp_fmt)
+            elif sp_fmt not in zh:
+                zh = zh + ' ' + sp_fmt
+
+    # 2. Floating formats (%2.2f, %2.1)
+    for f_fmt in ['%2.2f', '%2.1']:
+        if f_fmt in jp and f_fmt not in zh:
+            if '%2' in zh:
+                zh = zh.replace('%2', f_fmt, 1)
+
+    # 3. Percent tags matching
     jp_percents = re.findall(r'%[A-Za-z0-9%]+', jp)
     zh_percents = re.findall(r'%[A-Za-z0-9%]+', zh)
     if jp_percents != zh_percents:
@@ -66,9 +84,9 @@ def fix_zh_tags(jp, zh):
                 if p.startswith('%J') or p.startswith('%M') or p.startswith('%S') or p == '%F':
                     zh = zh + p
                 else:
-                    zh = p + zh
+                    zh = p + ' ' + zh
 
-    # 2. Color tags count matching
+    # 4. Color tags count matching
     jp_colors_open = re.findall(r'#C[0-9A-Fa-f]{8}', jp)
     jp_colors_close = re.findall(r'#c', jp)
     zh_colors_open = re.findall(r'#C[0-9A-Fa-f]{8}', zh)
@@ -91,16 +109,23 @@ def fix_zh_tags(jp, zh):
         for _ in range(len(jp_colors_close) - len(zh_colors_close)):
             zh = zh + '#c'
 
-    # 3. Special characters
-    for sp in ['⑲', '②', '③', '④', '⑤', '⑨', '⑩', '⑫']:
+    # 5. Circled numbers (① through ⑳)
+    for code in range(0x2460, 0x2474):
+        sp = chr(code)
         if sp in jp and sp not in zh:
-            zh = zh + sp
+            num = str(code - 0x245F)
+            if f'({num})' in zh:
+                zh = zh.replace(f'({num})', sp)
+            elif f'（{num}）' in zh:
+                zh = zh.replace(f'（{num}）', sp)
+            else:
+                zh = sp + zh
         elif sp not in jp and sp in zh:
             zh = zh.replace(sp, '')
 
     return zh
 
-def translate_chunk(chunk, max_retries=3):
+def translate_chunk(chunk, max_retries=5):
     items_input = [{"key": f"{item['file']}@{item['offset']}", "jp": item["jp"], "en": item["en"]} for item in chunk]
     user_prompt = f"{SYSTEM_PROMPT}\n待翻译条目：\n{json.dumps(items_input, ensure_ascii=False)}"
     
@@ -156,20 +181,18 @@ def parse_batches_from_plan():
     with open('PLAN.md', 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
-    msg_batches = []
-    in_msg = False
+    batches = []
+    current_cat = ''
     for line in lines:
-        if line.startswith('### MSG'):
-            in_msg = True
+        if line.startswith('### '):
+            current_cat = line[4:].strip()
             continue
-        elif line.startswith('### '):
-            in_msg = False
-            continue
-        if in_msg and line.strip().startswith('- ['):
+        if line.strip().startswith('- ['):
             m = re.search(r'- \[([ x])\] `([^`]+)`(?:\s+([^·]+))?\s+·\s+0*(\d+)–0*(\d+)\s+·\s+([0-9,]+)\s+条', line)
             if m:
                 status, fname, part, start, end, cnt = m.groups()
-                msg_batches.append({
+                batches.append({
+                    'category': current_cat,
                     'raw_line': line.strip(),
                     'status': status,
                     'file': fname,
@@ -178,7 +201,7 @@ def parse_batches_from_plan():
                     'end': int(end),
                     'count': int(cnt.replace(',', ''))
                 })
-    return msg_batches
+    return batches
 
 def save_all_text_crlf(data, path="all_text.json"):
     json_str = json.dumps(data, ensure_ascii=False, indent=1)
@@ -186,13 +209,14 @@ def save_all_text_crlf(data, path="all_text.json"):
     with open(path, 'wb') as f:
         f.write(json_str.encode('utf-8'))
 
-def process_batch(batch_info, all_data, batch_idx=0, total_batches=52, chunk_size=30, max_workers=4):
+def process_batch(batch_info, all_data, batch_idx=0, total_batches=89, chunk_size=35, max_workers=3):
     start_idx = batch_info['start']
     end_idx = batch_info['end']
     b_name = f"{batch_info['file']} {batch_info['part']}".strip()
-    progress_pct = (end_idx / 21522.0) * 100.0
+    category = batch_info.get('category', 'OTHER').strip()
+    progress_pct = (end_idx / 30442.0) * 100.0
     print(f"\n==================================================")
-    print(f"[{batch_idx+1}/{total_batches}] Processing Batch: {b_name} ({start_idx}..{end_idx}, {batch_info['count']} items) - Overall MSG: {progress_pct:.1f}%")
+    print(f"[{batch_idx+1}/{total_batches}] Processing Batch: [{category}] {b_name} ({start_idx}..{end_idx}, {batch_info['count']} items) - Overall: {progress_pct:.1f}%")
     print(f"==================================================")
     
     # Save previous input state before modifying
@@ -274,18 +298,26 @@ def process_batch(batch_info, all_data, batch_idx=0, total_batches=52, chunk_siz
     else:
         print(f"Warning: Could not find '{target_uncompleted}' in PLAN.md to check.")
         
-    # Git commit and push
-    commit_msg = f"feat(msg): complete {b_name} ({start_idx:05d}–{end_idx:05d}) localization and verification"
+    # Git commit and push with retries
+    commit_msg = f"feat({category.lower()}): complete {b_name} ({start_idx:05d}–{end_idx:05d}) localization and verification"
     print(f"Committing: {commit_msg}")
     subprocess.run(["git", "add", "all_text.json", "PLAN.md"], check=True)
     subprocess.run(["git", "commit", "-m", commit_msg], check=True)
     
     print("Pushing to origin main...")
-    push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
-    if push_res.returncode == 0:
-        print("Pushed successfully!")
-    else:
-        print(f"Push failed:\n{push_res.stderr}")
+    pushed = False
+    for push_attempt in range(3):
+        push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
+        if push_res.returncode == 0:
+            pushed = True
+            print("Pushed successfully!")
+            break
+        else:
+            print(f"Push attempt {push_attempt + 1} failed: {push_res.stderr}. Retrying in 3s...")
+            time.sleep(3)
+            
+    if not pushed:
+        print("Push failed after 3 attempts.")
         return False
         
     # Update in-memory all_data
@@ -315,7 +347,6 @@ def main():
         if target_indices is not None and i not in target_indices:
             continue
         if b['status'] == 'x':
-            print(f"Skipping already completed batch {i}: {b['file']} {b['part']}")
             continue
             
         success = process_batch(b, all_data, batch_idx=i, total_batches=len(batches))
