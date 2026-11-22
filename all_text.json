@@ -195612,7 +195612,7 @@
   "offset": "B80",
   "jp": "◆コウ先生の講義を受けた\n　（ダジャレではない）\n\n　今日の講義はよく眠れたし、エンチャント\n　実習があったから、なかなか楽しかった\n\n◆実習が終わって昼休みになったので\n　待ちに待った昼メシだ！",
   "en": "I attended Professor Kou's class. Yeah,\nno fooling.\nI got a good nap in, and we had\nEnchant lab work, so it was all good.\n\nThen came noon recess, and the moment\nI'd been waiting for: lunch!",
-  "zh": ""
+  "zh": "◆听了寇老师的讲课\n　（不是在讲谐音冷笑话）\n\n　今天的课睡得很香，而且还有赋法\n　实习课，所以挺开心的\n\n◆实习结束后到了午休时间，\n　终于能吃上期盼已久的午饭了！"
  },
  {
   "id": "OTHER/EVENT3.BIN/C8/0",
@@ -195621,7 +195621,7 @@
   "offset": "C48",
   "jp": "◆授業が終わったのでトウヤとマコトと\n　一緒に、カフェテリアで昼メシを食べる\n　ことになった\n\n　カフェテリアは大講義室のある中央塔の\n　１Ｆにある",
   "en": "With class over, I joined Toya and\nMakoto for lunch at the Cafeteria,\nwhich is on the ground floor of the\nCentral Tower. The Central Tower is\nwhere the Lecture Hall is.",
-  "zh": ""
+  "zh": "◆放学后决定和托亚还有马科托\n　一起去自助餐厅吃午饭\n\n　自助餐厅位于设有大讲堂的中央塔的\n　１层"
  },
  {
   "id": "OTHER/EVENT3.BIN/C9/0",
@@ -195630,7 +195630,7 @@
   "offset": "CE0",
   "jp": "◆コウ先生と右腕について話をした\n　近いうちに、右腕についての研究結果を\n　聞かせてくれるらしい・・・",
   "en": "I spoke with Professor Kou about my\nright arm. He said he'd report on the\nfindings of his studies on that subject\nsometime soon.",
-  "zh": ""
+  "zh": "◆和寇老师谈了谈关于右臂的事\n　听说近期内，他会告诉我\n　关于右臂的研究结果……"
  },
  {
   "id": "OTHER/EVENT3.BIN/CA/0",
@@ -195639,7 +195639,7 @@
   "offset": "D4A",
   "jp": "◆カフェテリアにやってきた\n　昼メシはカフェテリアの\n　注文カウンターで買えるはずだ",
   "en": "We got to the Cafeteria, expecting to\nbe able to buy lunch at the counter.",
-  "zh": ""
+  "zh": "◆来到了自助餐厅\n　午饭应该可以在自助餐厅的\n　点餐柜台买到"
  },
  {
   "id": "OTHER/EVENT3.BIN/CB/0",
@@ -195648,7 +195648,7 @@
   "offset": "DA2",
   "jp": "◆昼メシを買った！",
   "en": "And we did!",
-  "zh": ""
+  "zh": "◆买到午饭了！"
  },
  {
   "id": "OTHER/EVENT3.BIN/CC/0",
@@ -195657,7 +195657,7 @@
   "offset": "DB8",
   "jp": "◆トウヤとマコトと一緒に昼メシを食べた！\n　やっぱり、マコトの弁当は絶品だ！！\n\n　＜本日のラブマコトランチの献立＞\n　＊厳選山海の幸ちらし寿司\n　＊ホタテ葡萄酒蒸し茸クリームソース\n　＊愛のマコトソースがけオムレット\n　　ピンクピクルス添え\n　＊メランコリー・レアチーズケーキ",
   "en": "The three of us had lunch together! And\nwouldn't you know it, Makoto's lunch was\na work of art!\n\nMakoto's lunch consisted of:\nscattered sushi, made with the\nfinest ingredients;\nscallops steamed in wine with mushroom\ncream sauce;\nan omelette with Makoto's special sauce and\npink pickles; and raspberry pecan\nchocolate chip cheesecake.",
-  "zh": ""
+  "zh": "◆和托亚、马科托一起吃了午饭！\n　马科托做的便当果然是极品！！\n\n　＜本日马科托爱心午餐菜单＞\n　＊严选山珍海味散寿司\n　＊葡萄酒蒸扇贝配蘑菇奶油酱\n　＊马科托爱意特调酱汁蛋包卷\n　　配粉红腌菜\n　＊忧郁·免烤芝士蛋糕"
  },
  {
   "id": "OTHER/EVENT3.BIN/12C/0",
@@ -195666,7 +195666,7 @@
   "offset": "ED2",
   "jp": "◆昼メシを食べ終わった後、お祭りに行く\n　ために学園を抜け出すことになった\n　けど、その前にコータに昼メシを\n　あげなくては\n\n　コータは庭の東側にある“封鎖区画”の\n　ところにいるはずだ",
   "en": "After lunch, we played hooky so we\ncould go to the Festival. We had to give\nCota his lunch first, though.\n\nCota would be over in the Sealed Ward,\noff on the east side of the yard.",
-  "zh": ""
+  "zh": "◆吃完午饭后，大家决定溜出学园\n　去参加庆典，\n　不过在这之前得先给柯达喂午饭才行\n\n　柯达应该在庭院东侧的“封锁区”\n　那里"
  },
  {
   "id": "OTHER/EVENT3.BIN/12D/0",
@@ -195675,7 +195675,7 @@
   "offset": "F92",
   "jp": "◆コータにご飯をあげた！\n　そのあと、封鎖区画について話していると\n　コウ先生がやってきて追い払われた\n　コウ先生は、やっぱり怖い",
   "en": "We fed Cota! Later, Professor Kou came\nand chased us away as we were talking\nabout the Sealed Ward. Professor Kou is\nscary...",
-  "zh": ""
+  "zh": "◆给柯达喂了饭！\n　之后在聊起封锁区的事时，\n　寇老师突然过来把我们撵跑了\n　寇老师果然好可怕啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/190/0",
@@ -195684,7 +195684,7 @@
   "offset": "1018",
   "jp": "◆カフェテリアまで逃げてきたあと\n　お祭りに参加するために、学園を脱出する\n　ことになった\n\n　先生や、生徒会のやつらが行く手をふさい\n　でいるらしいが、断固突破するぞ！",
   "en": "Once back in the Cafeteria, we made\nplans to ditch school so we could\nattend the Festival.\n\nWe're getting out, even if we have to go\nthrough the teachers and the student\nbody council combined!",
-  "zh": ""
+  "zh": "◆一路逃回自助餐厅后，\n　我们决定逃出学园去参加庆典\n\n　听说老师和学生会的那帮家伙挡住了去路，\n　但我们一定要坚决突破！"
  },
  {
   "id": "OTHER/EVENT3.BIN/191/0",
@@ -195693,7 +195693,7 @@
   "offset": "10C6",
   "jp": "◆南ホールの出口に立ちふさがっていた\n　先生を撃破！\n\n　あとで怒られるかもしれないが\n　とにかく、これで商業区へ行けるぞ！",
   "en": "We decked the teachers blocking the\nSouth Hall doors!\n\nThey'll be mad at us for sure, but for\nnow, we're off to the Trade District!",
-  "zh": ""
+  "zh": "◆击破了挡在南大厅出口的老师！\n\n　事后可能会挨训，\n　但不管怎样，这下能去商业区了！"
  },
  {
   "id": "OTHER/EVENT3.BIN/1F4/0",
@@ -195702,7 +195702,7 @@
   "offset": "1146",
   "jp": "◆無事学園を脱出し、お祭りが行われている\n　商業区へ来ることができた\n\n　賭け試合に参加するため、広場にある\n　テント小屋へ行くことになった",
   "en": "We got out of school free and clear, and\nmade it to the Festival at the Trade\nDistrict.\n\nWe headed for a tent in the Square,\nwhere they were having the prizefights.",
-  "zh": ""
+  "zh": "◆顺利逃出学园，来到了正在举办\n　庆典的商业区\n\n　为了参加博彩格斗赛，\n　我们决定前往广场上的帐篷小屋"
  },
  {
   "id": "OTHER/EVENT3.BIN/1F5/0",
@@ -195711,7 +195711,7 @@
   "offset": "11D6",
   "jp": "◆賭け試合に参加しようとしたら、受付の\n　おっさんに、ゴーレムを持っていないと\n　参加できないと言われた・・・\n\n　トウヤがゴーレムを手に入れるアテがある\n　らしく、テント小屋のとなりの、卵型の\n　出店へ行くことになった",
   "en": "When we tried to sign up for the\nprizefights, we were informed that we\nneed Golems in order to participate.\n\nToya seems to know where we can find\nsome Golems, so we go to the egg-shaped\nstand next to the tent.",
-  "zh": ""
+  "zh": "◆正想报名参加博彩格斗赛，接待处的大叔\n　却说没有魔像就不能参加……\n\n　托亚似乎有弄到魔像的门路，\n　于是我们决定去帐篷小屋旁边那个蛋形的\n　摊位看看"
  },
  {
   "id": "OTHER/EVENT3.BIN/1F6/0",
@@ -195720,7 +195720,7 @@
   "offset": "12B6",
   "jp": "◆賭け試合に参加するために\n　ゴーレムチケットツアーに参加して\n　ゴーレムを手に入れることになった\n\n　景品のゴーレムは、ゴーレムチケットを\n　４枚集めるともらえるそうだ",
   "en": "We join the Golem Ticket Tour so we\ncan get Golems, and thus, sign up for\nthe prizefights.\n\nWe need four Golem Tickets to redeem\nfor a gift Golem.",
-  "zh": ""
+  "zh": "◆为了参加博彩格斗赛，\n　我们决定参加魔像券巡游活动\n　来弄到魔像\n\n　据说只要集齐４张魔像券，\n　就能拿到作为奖品的魔像"
  },
  {
   "id": "OTHER/EVENT3.BIN/1F7/0",
@@ -195729,7 +195729,7 @@
   "offset": "1364",
   "jp": "◆集めたゴーレムチケット４枚と\n　引き換えに、ゴーレムを手に入れた！\n\n　あとは、テント小屋のおっさんのところに\n　行って、出場の手続きをするだけだ",
   "en": "We get our four Golem tickets and\nswap them for our Golem!\n\nAll we have to do now is go back to\nthe tent and sign up for the fights.",
-  "zh": ""
+  "zh": "◆用集齐的４张魔像券兑换，\n　拿到魔像了！\n\n　接下来只要去帐篷小屋的大叔那里\n　办理参赛手续就行了"
  },
  {
   "id": "OTHER/EVENT3.BIN/1F8/0",
@@ -195738,7 +195738,7 @@
   "offset": "13FC",
   "jp": "◆手続きをすませて、賭け試合に参加する\n　ことになった\n\n　血がたぎるぜ！",
   "en": "We sign up and are ready to\ntake part in the fights.\n\nNow we're excited!",
-  "zh": ""
+  "zh": "◆办完手续，准备参加博彩格斗赛了\n\n　热血沸腾起来了！"
  },
  {
   "id": "OTHER/EVENT3.BIN/258/0",
@@ -195747,7 +195747,7 @@
   "offset": "144A",
   "jp": "◆賭け試合の控え室にやってきた\n　試合までに、準備はバンタンにして\n　おかなくちゃな",
   "en": "We go into the dressing room so we can\nget ourselves ready for the fight.",
-  "zh": ""
+  "zh": "◆来到了博彩格斗赛的休息室\n　比赛前必须做好万全的准备才行啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/259/0",
@@ -195756,7 +195756,7 @@
   "offset": "14A2",
   "jp": "◆賭け試合、一回戦勝利！！",
   "en": "We win our first match!",
-  "zh": ""
+  "zh": "◆博彩格斗赛，首战告捷！！"
  },
  {
   "id": "OTHER/EVENT3.BIN/25A/0",
@@ -195765,7 +195765,7 @@
   "offset": "14C0",
   "jp": "◆二回戦でユウキという、みょうにハイ\n　テンションなゴーレムハンターと戦った\n\n◆一回戦のやつよりも、手ごわいやつだった\n\n◆戦いのあと、とつぜん発生した地震に\n　巻き込まれたけど、なんとか脱出した",
   "en": "We fought a surprisingly strong Golem\nhunter named Yuki in our second match.\n\nShe was tougher than our first opponent.\n\nAfter the match, we got caught in a sudden\nearthquake, which we somehow\nsurvived.",
-  "zh": ""
+  "zh": "◆第二轮和名叫勇树的、情绪莫名亢奋的\n　魔像猎人交了手\n\n◆是个比第一轮的家伙更难缠的对手\n\n◆战斗过后，虽然被卷入了突然发生的\n　地震，但总算是逃出来了"
  },
  {
   "id": "OTHER/EVENT3.BIN/2BC/0",
@@ -195774,7 +195774,7 @@
   "offset": "158A",
   "jp": "◆賭け試合小屋を脱出して外に出てみると\n　ヨコハマシティが地震で崩壊し、ゴーレム\n　たちが暴れていた\n\n　原因は不明だが、とにかく襲われている\n　人たちを助けなくちゃ！",
   "en": "Once outside the tent, we saw that the\nquake had leveled Yokohama City, and the\nGolems were running amok in the ruins.\n\nWe don't know how it happened. What\nmatters now is saving people from those\nGolems!",
-  "zh": ""
+  "zh": "◆逃出博彩格斗小屋来到外面一看，\n　横滨市街因地震而崩塌，\n　魔像们正在四处作乱\n\n　虽然原因不明，但总之必须先去解救\n　遭到袭击的人们！"
  },
  {
   "id": "OTHER/EVENT3.BIN/2BD/0",
@@ -195783,7 +195783,7 @@
   "offset": "1636",
   "jp": "◆襲われていた警備兵さんを助けた\n\n◆トウヤの提案で、警備兵さんはシティの\n　外で演習をしているシティ軍に応援を求め\n　にいくことになった",
   "en": "We rescued a security guard from attack.\n\nAt Toya's suggestion, the security guard\nwent to call for the City Forces, who\nare on maneuvers outside the city\nlimits.",
-  "zh": ""
+  "zh": "◆救下了遭到袭击的警卫士兵\n\n◆根据托亚的提议，警卫士兵前去向在市区\n　外进行演习的城市卫队请求支援了"
  },
  {
   "id": "OTHER/EVENT3.BIN/2BE/0",
@@ -195792,7 +195792,7 @@
   "offset": "16C4",
   "jp": "◆襲われていた子供を助けた\n\n◆けど、そのあとに、とつぜん雪が降り出し\n　て、街の人たちが次々に倒れてしまった\n\n　トウヤが言うには、雪が人々の精気を吸い\n　取っているらしい",
   "en": "We saved a child from attack,\nonly to have snow start falling, causing\neveryone it touches to drop where they\nstand.\n\nToya says the snow is sucking life force\nout of people.",
-  "zh": ""
+  "zh": "◆救下了遭到袭击的孩子\n\n◆可是紧接着突然下起了雪，\n　街上的人们一个接一个地倒下了\n\n　托亚说，那场雪似乎正在吸取人们的精气"
  },
  {
   "id": "OTHER/EVENT3.BIN/320/0",
@@ -195801,7 +195801,7 @@
   "offset": "1776",
   "jp": "◆コータや逃げ遅れた人たちを助けるため\n　学園の中を探索することになった",
   "en": "We go looking through the school for\nCota and others trapped there.",
-  "zh": ""
+  "zh": "◆为了搜救柯达和逃跑不及的人们，\n　决定在学园内部进行搜寻"
  },
  {
   "id": "OTHER/EVENT3.BIN/321/0",
@@ -195810,7 +195810,7 @@
   "offset": "17C2",
   "jp": "◆学園に向かう途中で、さっき賭け試合で\n　戦ったゴーレムハンターのユウキが\n　待っていた\n\n◆そこに、とつぜん暴走したゴーレムが襲い\n　かかってきたので、やっつけた\n\n◆せっかく助けたのにユウキは\n　“しね、バーカ”という捨てゼリフを\n　残して去っていった\n　なんてやつだ・・・",
   "en": "En route to school, we ran into Yuki, the\nGolem hunter that we squared off against\nin the prizefight.\n\nA berserk Golem suddenly attacked,\nand I took it out.\n\nAnd what does Yuki do? She tells me\nto drop dead, then hits the road.\nHow's that for gratitude?",
-  "zh": ""
+  "zh": "◆在前往学园的途中，刚才在博彩格斗赛中\n　交过手的魔像猎人勇树正在那里等着\n\n◆突然有一只暴走的魔像袭击过来，\n　于是出手打倒了它\n\n◆好不容易救下了她，勇树却只留下一句\n　“去死吧，大笨蛋”就径自离开了\n　真是个什么人啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/322/0",
@@ -195819,7 +195819,7 @@
   "offset": "18DC",
   "jp": "◆学園内も破壊されていた・・・",
   "en": "The school was also wiped out.",
-  "zh": ""
+  "zh": "◆学园内部也遭到了破坏……"
  },
  {
   "id": "OTHER/EVENT3.BIN/323/0",
@@ -195828,7 +195828,7 @@
   "offset": "18FE",
   "jp": "◆コータを発見したがコータは、封鎖区画の\n　方へと走っていってしまった\n　コータを追わなければ！",
   "en": "We found Cota, only to have him run\nstraight for the Sealed Ward.\nWe set off right after him.",
-  "zh": ""
+  "zh": "◆虽然发现了柯达，但柯达却朝着\n　封锁区的方向跑去了\n　必须得追上柯达！"
  },
  {
   "id": "OTHER/EVENT3.BIN/384/0",
@@ -195837,7 +195837,7 @@
   "offset": "1962",
   "jp": "◆封鎖区画の入り口が、何者かによって破壊\n　されていた\n\n　コータを追って封鎖区画の内部を\n　探索することになった",
   "en": "Some unknown person or persons blasted\nthe gate to the Sealed Ward.\n\nWe started searching the Sealed Ward\ntrying to find Cota.",
-  "zh": ""
+  "zh": "◆封锁区的入口被不知什么人破坏了\n\n　为了追赶柯达，\n　决定在封锁区内部进行探索"
  },
  {
   "id": "OTHER/EVENT3.BIN/385/0",
@@ -195846,7 +195846,7 @@
   "offset": "19D8",
   "jp": "◆封鎖区画に入ってしばらく進んだところで\n　また地震が起こり、床がくずれて落下して\n　しまった",
   "en": "Not long after we got inside the Sealed\nWard, an aftershock struck, causing\nthe ground to crack open around us.",
-  "zh": ""
+  "zh": "◆进入封锁区稍微深入了一段路之后，\n　又发生了地震，地板坍塌导致我们摔了下去"
  },
  {
   "id": "OTHER/EVENT3.BIN/386/0",
@@ -195855,7 +195855,7 @@
   "offset": "1A3A",
   "jp": "◆あと戻りできそうにないので、とりあえず\n　先に進んでみることになった\n　トウヤが言うには、この建物は古代につく\n　られたものらしい",
   "en": "Going back is no longer an option,\nso we keep moving forward.\nToya says this structure was built\nin ancient times.",
-  "zh": ""
+  "zh": "◆看来没办法回头了，总之决定\n　先往前走走看\n　托亚说，这座建筑似乎是古代\n　建造的遗迹"
  },
  {
   "id": "OTHER/EVENT3.BIN/387/0",
@@ -195864,7 +195864,7 @@
   "offset": "1AC2",
   "jp": "◆巨大なグルグルまわる機械を見た\n　トウヤが言うには、“魔導”で動く\n　動力機関らしい\n　“魔導”というのは、１０００年前に\n　失われた技術だ",
   "en": "We found a gigantic machine churning\nround and round. Toya said that it was\nan engine, one that ran on 'magic',\na technology that was lost to us\na millennium ago.",
-  "zh": ""
+  "zh": "◆见到了巨大的旋转机械\n　托亚说，这似乎是以“魔导”驱动的\n　动力机关\n　所谓的“魔导”，是在１０００年前\n　失传的技术"
  },
  {
   "id": "OTHER/EVENT3.BIN/388/0",
@@ -195873,7 +195873,7 @@
   "offset": "1B54",
   "jp": "◆エーテルをこめて、巨大な装置を動かして\n　先に進んだ\n　装置にふれたときに、右腕が光ったけど\n　あれは、なんだったんだろう・・・？",
   "en": "Fueled by Ether, the machine provided power\nto some gigantic hardware.\nMy right arm glowed when I touched it.\nWhat's that supposed to mean?",
-  "zh": ""
+  "zh": "◆注入以太启动了巨大装置，继续向前进\n　接触到装置的时候，右臂发光了，\n　那究竟是怎么回事呢……？"
  },
  {
   "id": "OTHER/EVENT3.BIN/389/0",
@@ -195882,7 +195882,7 @@
   "offset": "1BDC",
   "jp": "◆とつぜん襲いかかってきたゴーレムを\n　やっつけた\n　燃えててデカイやつだった\n\n　トウヤが言うには、倒したゴーレムは\n　この場所を守るガーディアンだったようだ",
   "en": "A Golem struck at us from out of nowhere.\nI took it out. It was big, but it burned\nanyway.\n\nToya said that it was the Guardian of\nthis site.",
-  "zh": ""
+  "zh": "◆打倒了突然袭击过来的魔像\n　是个浑身着火的巨大家伙\n\n　托亚说，打倒的魔像似乎是守护这里的\n　守护者"
  },
  {
   "id": "OTHER/EVENT3.BIN/38A/0",
@@ -195891,7 +195891,7 @@
   "offset": "1C80",
   "jp": "◆凍りついた通路にやってきた\n　そこで、とつぜん右腕が共鳴して\n　みょうな声が聞こえてきた\n\n　なんだってんだ、いったい・・・",
   "en": "We came to a passage that was frozen\nover, and my right arm suddenly began\nto resonate as I heard a weird voice.\n\nWhat was that supposed to be about?",
-  "zh": ""
+  "zh": "◆来到了一条冻结的通道\n　在那里，右臂突然产生共鸣，\n　并听到了奇怪的声音\n\n　这到底是怎么一回事啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/38B/0",
@@ -195900,7 +195900,7 @@
   "offset": "1D02",
   "jp": "◆封鎖区画には、みょうなゴーレムがいた\n\n　とつぜん右腕が暴れ出し、その右腕が\n　ふれたとたん、ゴーレムが動きはじめた",
   "en": "There was a weird Golem in the\nSealed Ward.\n\nMy right arm suddenly lashed out on its own.\nThe Golem started functioning the\ninstant my arm made contact with it.",
-  "zh": ""
+  "zh": "◆封锁区里有一只奇怪的魔像\n\n　右臂突然暴走失控，在那只右臂\n　触碰到的瞬间，魔像开始动了起来"
  },
  {
   "id": "OTHER/EVENT3.BIN/38C/0",
@@ -195909,7 +195909,7 @@
   "offset": "1D7C",
   "jp": "◆トウヤがオレをかばって重傷を負った\n\n　それを見たら、頭がまっしろになって\n　なにもわからなくなった",
   "en": "Toya was badly hurt from shielding me.\n\nMy mind went blank. I have\nno idea what happened next.",
-  "zh": ""
+  "zh": "◆托亚为了保护我而受了重伤\n\n　看到那一幕，我的脑子里一片空白，\n　什么都不知道了"
  },
  {
   "id": "OTHER/EVENT3.BIN/38D/0",
@@ -195918,7 +195918,7 @@
   "offset": "1DE6",
   "jp": "◆マコトが氷におしつぶされた・・・\n\n◆復活したデビルゴーレム・・・\n　クイーンオブアイスが、トウヤを連れ\n　去っていった・・・",
   "en": "Makoto was crushed under a block of ice.\n\nThe Devil Golem was reactivated. And the\nQueen of Ice abducted Toya.",
-  "zh": ""
+  "zh": "◆马科托被寒冰压倒在下面了……\n\n◆复活的恶魔魔像……\n　冰之女王将托亚掠走了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/3E8/0",
@@ -195927,7 +195927,7 @@
   "offset": "1E6A",
   "jp": "【第二章プロローグ】ダミー",
   "en": "Part II: Prologue Dummy Text",
-  "zh": ""
+  "zh": "【第二章序幕】占位符"
  },
  {
   "id": "OTHER/EVENT3.BIN/44C/0",
@@ -195936,7 +195936,7 @@
   "offset": "1E88",
   "jp": "◆どこか見知らぬ場所で目覚めた",
   "en": "I awoke in an unfamiliar place.",
-  "zh": ""
+  "zh": "◆在某个陌生的地方醒了过来"
  },
  {
   "id": "OTHER/EVENT3.BIN/44D/0",
@@ -195945,7 +195945,7 @@
   "offset": "1EAA",
   "jp": "◆近くにいる番兵に聞いたところ\n　ここはロンドン城にある牢屋らしい\n\n　ヨコハマシティがどうなったのか確かめる\n　ため、何とかして牢から出なければ・・・",
   "en": "I asked the guard standing nearby where\nI was. He told me I was in the cells of\nLondon Castle.\n\nI had to get out of there, so I could\nfind out what had become of Yokohama\nCity.",
-  "zh": ""
+  "zh": "◆向附近的守卫打听了一下，\n　这里似乎是伦敦城里的牢房。\n\n　为了确认横滨市变成什么样了，\n　无论如何都必须从牢房里逃出去……"
  },
  {
   "id": "OTHER/EVENT3.BIN/44E/0",
@@ -195954,7 +195954,7 @@
   "offset": "1F46",
   "jp": "◆牢屋の中にいたら、イヨウに暴力的な\n　女の子が、番兵に連れられてやってきた\n　名前はカリンというらしい\n\n　＜追記＞\n　カカト落としをくらったときに\n　パンツがちょっと見えた\n　白だった",
   "en": "While I was there, a guard brought a\nsurprisingly aggressive young lady to\njoin me. She said her name was Karin.\n\nAside: I got a glimpse of her panties\nas she nailed me with a heel dropkick.\nThey were white.",
-  "zh": ""
+  "zh": "◆待在牢房里的时候，守卫带来了一个\n　异常暴力的女孩子。\n　名字好像叫卡琳。\n\n　＜追记＞\n　挨了她一记下劈腿的时候，\n　稍微看到胖次了。\n　是白色的。"
  },
  {
   "id": "OTHER/EVENT3.BIN/44F/0",
@@ -195963,7 +195963,7 @@
   "offset": "2006",
   "jp": "◆そのカリンの命令で、牢から出るために\n　仮病をつかって番兵をだますことになった",
   "en": "On her orders, I faked a sudden illness\nso we could fool the guard into letting\nus out.",
-  "zh": ""
+  "zh": "◆按照那个卡琳的命令，为了逃出牢房，\n　我得装病去骗守卫。"
  },
  {
   "id": "OTHER/EVENT3.BIN/450/0",
@@ -195972,7 +195972,7 @@
   "offset": "205A",
   "jp": "◆せっかく名演技をしたのに、カリンが口を\n　すべらせたせいで、番兵に仮病がばれてし\n　まった",
   "en": "I gave a command performance, but Karin\ngave the game away to the guard. He\nwasn't fooled.",
-  "zh": ""
+  "zh": "◆明明演得很逼真，却因为卡琳说漏了嘴，\n　装病的事被守卫给识破了。"
  },
  {
   "id": "OTHER/EVENT3.BIN/451/0",
@@ -195981,7 +195981,7 @@
   "offset": "20BA",
   "jp": "◆ライガという、カリンの知り合い（？）が\n　あらわれて、牢の壁をぶち壊してくれた\n　おかげで牢から出られたが・・・\n\n　すごい馬鹿力だ・・・",
   "en": "Then an apparent acquaintance of\nKarin's, named Raigar, came busting\nthrough the walls of the prison cell.\nWe got out, and I was impressed.\n\nThat was a ridiculous show of strength.",
-  "zh": ""
+  "zh": "◆一个名叫莱加的卡琳熟人（？）\n　现身并帮我们砸碎了牢房的墙壁。\n　多亏他我们才得以脱身，不过……\n\n　真是惊人的怪力啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/4B0/0",
@@ -195990,7 +195990,7 @@
   "offset": "214A",
   "jp": "◆牢から出たあと、カリンの提案で、ロンド\n　ン市街地までいっしょに行くことになった\n　カリンは、どうやら右腕について、なにか\n　知っているようだ",
   "en": "Once we were free, we headed into\ndowntown London, at Karin's suggestion.\nShe seems to have some information about\nmy right arm.",
-  "zh": ""
+  "zh": "◆从牢里出来后，听从卡琳的提议，\n　我们决定一起前往伦敦市区。\n　卡琳似乎对我的右臂知道些什么。"
  },
  {
   "id": "OTHER/EVENT3.BIN/4B1/0",
@@ -195999,7 +195999,7 @@
   "offset": "21DE",
   "jp": "◆地下牢を抜けて、ダム内の水路に出た\n　水路を進んでいくと、ロンドンシティの\n　市街地につくらしい",
   "en": "We followed a waterway in the dam once\nwe were out of the prison cell, which\napparently led to downtown London City.",
-  "zh": ""
+  "zh": "◆穿过地牢，来到了大坝内的水路。\n　顺着水路往前走，似乎就能到达\n　伦敦市的市区。"
  },
  {
   "id": "OTHER/EVENT3.BIN/4B2/0",
@@ -196008,7 +196008,7 @@
   "offset": "2244",
   "jp": "◆水路内を警備していた騎士を倒した\n\n　カリンの話では、ヨコハマシティを\n　クイーンオブアイスが滅ぼしたせいで\n　ロンドンシティ内は警戒態勢に\n　あるらしい",
   "en": "I took out the Knight standing guard\nin the waterway.\n\nAccording to Karin, London City was on\nwartime footing since Yokohama City's\ndestruction at the hands of the Queen\nof Ice.",
-  "zh": ""
+  "zh": "◆打倒了在水路内巡逻的骑士。\n\n　据卡琳所说，由于横滨市\n　被冰之女王毁灭，\n　伦敦市内似乎正处于警戒状态。"
  },
  {
   "id": "OTHER/EVENT3.BIN/4B3/0",
@@ -196017,7 +196017,7 @@
   "offset": "22E4",
   "jp": "◆ダムを抜けて、地下水道まで来た\n　ロンドンシティの市街地は、地下水道を\n　抜けた先にあるそうだ",
   "en": "We left the dam for the sewer system.\nKarin said that we would gain downtown\nLondon City once we were out of the\nsewers.",
-  "zh": ""
+  "zh": "◆穿过大坝，来到了地下水道。\n　据说穿过地下水道之后，\n　前面就是伦敦市的市区。"
  },
  {
   "id": "OTHER/EVENT3.BIN/4B4/0",
@@ -196026,7 +196026,7 @@
   "offset": "2348",
   "jp": "◆地下水道の奥から、ロンドンシティの\n　貧民街にある酒場の中に出た",
   "en": "We left the sewers and found ourselves\nin a bar in the Inner City of London\nCity.",
-  "zh": ""
+  "zh": "◆从地下水道深处出来，\n　到了伦敦市贫民窟的一家酒馆里。"
  },
  {
   "id": "OTHER/EVENT3.BIN/514/0",
@@ -196035,7 +196035,7 @@
   "offset": "238E",
   "jp": "◆酒場でカリンから事情の説明を受けた\n　カリンとライガさんは、ロンドンシティ\n　近辺で活動しているレジスタンスの\n　メンバーらしい\n\n◆話し合いの結果、レジスタンスの作戦に\n　協力するのとひきかえに、右腕について\n　教えてもらうことになった\n\n　けれど、その前にまず、ヨコハマシティの\n　様子を見にいかなくちゃならない\n　トウヤもマコトも、きっと生きている\n　はずだ・・・",
   "en": "Once there, Karin described the\nsituation. She and Raigar were part of\nthe Resistance operating in and around\nLondon City.\n\nWe negotiated, and I agreed to help\nwith Resistance operations in exchange\nfor her explaining my right arm to me.\n\nBefore anything else, though, I needed\nto see about Yokohama City. I knew Toya\nand Makoto had to be alive. They just\nhad to be.",
-  "zh": ""
+  "zh": "◆在酒馆里听卡琳说明了情况。\n　卡琳和莱加先生好像是\n　在伦敦市附近活动的抵抗组织成员。\n\n◆商讨的结果是，以协助抵抗组织的作战\n　为交换，他们会把关于右臂的事情告诉我。\n\n　不过在那之前，首先必须去看看\n　横滨市的情况。\n　托亚和马科托一定还活着……"
  },
  {
   "id": "OTHER/EVENT3.BIN/515/0",
@@ -196044,7 +196044,7 @@
   "offset": "2506",
   "jp": "◆貧民街の広場で行われていた集会で\n　騎士がヨコハマシティをけなしていた\n\n　ロンドンシティのやつらは、最低だ・・・",
   "en": "A Knight insulted Yokohama City during\nthe meeting in the Inner City Square.\n\nThese London City types are really low.",
-  "zh": ""
+  "zh": "◆在贫民窟广场举行的集会上，\n　骑士贬低了横滨市。\n\n　伦敦市的这帮家伙真是差劲透顶……"
  },
  {
   "id": "OTHER/EVENT3.BIN/516/0",
@@ -196053,7 +196053,7 @@
   "offset": "257E",
   "jp": "◆ヨコハマシティへは、ロンドンシティから\n　のびている街道を進むと、つくそうだ",
   "en": "Word is that I can get to Yokohama City\nvia the main road leading out of London\nCity.",
-  "zh": ""
+  "zh": "◆听说沿着从伦敦市延伸出去的街道\n　一直往前走，就能到达横滨市。"
  },
  {
   "id": "OTHER/EVENT3.BIN/517/0",
@@ -196062,7 +196062,7 @@
   "offset": "25D0",
   "jp": "◆街道が、崖崩れで通れなくなっていた\n　ライガさんの提案で、森の中にある古い\n　軍の施設内を通っていくことになった",
   "en": "The main road was closed off due to a\nlandslide. At Raigar's suggestion, I\nopted to go around it via an old\nmilitary installation in the forest\ninstead.",
-  "zh": ""
+  "zh": "◆街道因为山体滑坡无法通行了。\n　根据莱加先生的提议，我们决定\n　穿过森林里的一处旧军队设施前行。"
  },
  {
   "id": "OTHER/EVENT3.BIN/518/0",
@@ -196071,7 +196071,7 @@
   "offset": "2646",
   "jp": "◆賭け試合のときに戦った、ユウキという\n　ゴーレムハンターに、森の中であった\n\n　ヨコハマシティの生き残りが、他にも\n　いたんだ・・・",
   "en": "I ran into Yuki, the Golem hunter that\nwe fought in the prizefights, on that\ntrip through the forest.\n\nI was surprised and glad that there was\nanother survivor from Yokohama City.",
-  "zh": ""
+  "zh": "◆在森林里遇到了之前在赌斗比赛中\n　交过手的魔像猎人勇树。\n\n　横滨市原来还有其他的幸存者啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/519/0",
@@ -196080,7 +196080,7 @@
   "offset": "26D0",
   "jp": "◆ロンドン軍の施設内で、道をふさいでいた\n　アマゾニアを倒した",
   "en": "An Amazonia barred our way to the London\nCity Forces facility. I took her out.",
-  "zh": ""
+  "zh": "◆在伦敦军的设施内，打倒了挡路的\n　亚马逊。"
  },
  {
   "id": "OTHER/EVENT3.BIN/51A/0",
@@ -196089,7 +196089,7 @@
   "offset": "2712",
   "jp": "◆森を抜けて、再び街道までやってきた",
   "en": "Once out of the forest, I was back on\nthe main road.",
-  "zh": ""
+  "zh": "◆穿过森林，再次回到了街道上。"
  },
  {
   "id": "OTHER/EVENT3.BIN/51B/0",
@@ -196098,7 +196098,7 @@
   "offset": "273A",
   "jp": "◆ヨコハマシティ方面に行くための橋を\n　ロンドン軍のやつらが爆破しやがった\n\n　やっぱりロンドンシティのやつらは\n　最低だ・・・\n　とくに、頬に傷のある、偉そうにしていた\n　騎士がムカついた",
   "en": "The bozos of the London City Forces\nblew up the bridge to Yokohama City.\n\nI really hate them now, especially\nthat snotty Knight with the scar on\nhis cheek.",
-  "zh": ""
+  "zh": "◆通往横滨市方向的桥，\n　居然被伦敦军的那群混蛋给炸掉了。\n\n　伦敦市的家伙果然都是人渣……\n　尤其是那个脸上有伤疤、神气活现的\n　骑士，真让人火大。"
  },
  {
   "id": "OTHER/EVENT3.BIN/51C/0",
@@ -196107,7 +196107,7 @@
   "offset": "27FC",
   "jp": "◆ヨコハマシティまでたどりついた\n　ヨコハマは凍りついてしまっていた・・・",
   "en": "When I finally got to Yokohama City,\nI found it sealed in ice.",
-  "zh": ""
+  "zh": "◆终于赶到了横滨市。\n　横滨已经彻底被冰封了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/578/0",
@@ -196116,7 +196116,7 @@
   "offset": "284A",
   "jp": "◆ヨコハマシティは凍りついていたけど\n　とにかく、ヨコハマシティの中に\n　入ってみよう・・・",
   "en": "Nonetheless, I decided to go in.",
-  "zh": ""
+  "zh": "◆横滨市虽然已经被冰封了，\n　但总之，先进到横滨市里面\n　看看吧……"
  },
  {
   "id": "OTHER/EVENT3.BIN/579/0",
@@ -196125,7 +196125,7 @@
   "offset": "28AA",
   "jp": "◆行く手を、巨大な氷山がふさいでいた\n\n　このままでは、先に進めないので\n　なんとかして破壊しなければならない\n　・・・とカリンが言った",
   "en": "A colossal iceberg blocked the way.\n\n\"We need to smash it somehow,\"\nsaid Raigar.",
-  "zh": ""
+  "zh": "◆去路被巨大的冰山挡住了。\n\n　这样下去没法前进，\n　必须想办法把它破坏掉才行\n　……卡琳这样说道。"
  },
  {
   "id": "OTHER/EVENT3.BIN/57A/0",
@@ -196134,7 +196134,7 @@
   "offset": "2936",
   "jp": "◆ヨコハマシティ軍の軍船を発見した\n　船首のエンチャント砲を使えば\n　氷山を破壊できそうだ\n\n　船を起動するために、エーテルを集めて\n　こなければ・・・とカリンが言った",
   "en": "We spotted a warship of the Yokohama\nCity Army. Its Enchant Cannon looked as\nthough it might crack the ice.\n\nWe needed to collect Ether to activate\nthe ship.",
-  "zh": ""
+  "zh": "◆发现了横滨市军的军舰。\n　如果使用船首的赋法炮，\n　应该就能破坏冰山了。\n\n　卡琳说，为了启动这艘船，\n　必须去收集以太才行……"
  },
  {
   "id": "OTHER/EVENT3.BIN/57B/0",
@@ -196143,7 +196143,7 @@
   "offset": "29E2",
   "jp": "◆エーテルを注入して、船を起動させた\n　船首のエンチャント砲を撃てとカリンに\n　言われた\n　",
   "en": "We pumped Ether into it, and got it\ngoing. \"Fire the ship's Enchant Cannon,\"\nsaid Raigar.",
-  "zh": ""
+  "zh": "◆注入以太，启动了船只。\n　卡琳让我开火射击船首的赋法炮。"
  },
  {
   "id": "OTHER/EVENT3.BIN/57C/0",
@@ -196152,7 +196152,7 @@
   "offset": "2A42",
   "jp": "◆エンチャント砲を撃って、氷山を破壊した",
   "en": "I fired the Enchant Cannon, destroying\nthe iceberg.",
-  "zh": ""
+  "zh": "◆发射赋法炮，破坏了冰山。"
  },
  {
   "id": "OTHER/EVENT3.BIN/57D/0",
@@ -196161,7 +196161,7 @@
   "offset": "2A6E",
   "jp": "◆とつぜん現われたゴーレムを倒した\n\n　するとそこにユウキが現われて、悠長に\n　ゴーレムハントがどうとか言いやがった\n　ムカつくやつだ・・・",
   "en": "I took out the Golem that popped up.\n\nJust then, Yuki showed up and suggested\na nice, leisurely Golem hunt.\nI hate her too.",
-  "zh": ""
+  "zh": "◆打倒了突然出现的魔像。\n\n　结果勇树突然冒了出来，还在那慢悠悠地\n　扯什么狩猎魔像之类的话。\n　真是个让人火大的家伙……"
  },
  {
   "id": "OTHER/EVENT3.BIN/57E/0",
@@ -196170,7 +196170,7 @@
   "offset": "2AFE",
   "jp": "◆港区の倉庫にやってきた\n　ここを抜ければ市街地につくはずだ",
   "en": "We reached a warehouse at the Port.\nWe could go through here to get to\ndowntown.",
-  "zh": ""
+  "zh": "◆来到了港区的仓库。\n　穿过这里应该就能到达市区了。"
  },
  {
   "id": "OTHER/EVENT3.BIN/57F/0",
@@ -196179,7 +196179,7 @@
   "offset": "2B3E",
   "jp": "◆ヨコハマシティの中で、クイーンオブ\n　アイスの手下らしきゴーレムを倒した\n\n　手下がいたということは、この先にきっと\n　クイーンオブアイスが・・・\n　そして、トウヤがいるはずだ",
   "en": "Once in Yokohama City, I took out a\nGolem that appeared to be a servant of\nthe Queen of Ice.\n\nIf the Queen of Ice's minions were\nthere, then the Queen of Ice herself\nshould be there too. And that would mean\nthat Toya would be there as well.",
-  "zh": ""
+  "zh": "◆在横滨市内打倒了疑似是冰之女王\n　部下的魔像。\n\n　既然有部下在，那么前方一定有\n　冰之女王……\n　而且，托亚应该也在那里。"
  },
  {
   "id": "OTHER/EVENT3.BIN/580/0",
@@ -196188,7 +196188,7 @@
   "offset": "2BF4",
   "jp": "◆学園も、凍りついていた",
   "en": "The school was frozen over as well.",
-  "zh": ""
+  "zh": "◆学园也已经被冰封了。"
  },
  {
   "id": "OTHER/EVENT3.BIN/581/0",
@@ -196197,7 +196197,7 @@
   "offset": "2C10",
   "jp": "◆凍りついたカフェテリアで、コータを\n　見かけた\n　コータは生きていたんだ！\n\n　コータが走っていった中央塔の方へ\n　向かおう！",
   "en": "I found Cota in the frozen Cafeteria.\nAnd he was alive!\n\nCota dashed toward the Central Tower.\nI'm following him!",
-  "zh": ""
+  "zh": "◆在冰封的食堂里看到了柯达。\n　柯达还活着！\n\n　柯达朝中央塔的方向跑过去了，\n　赶快追上去吧！"
  },
  {
   "id": "OTHER/EVENT3.BIN/582/0",
@@ -196206,7 +196206,7 @@
   "offset": "2C94",
   "jp": "◆なぜだか図書館の中は、まったく凍りつい\n　ていなかった",
   "en": "For some reason, there was no ice at all\nto be found in the library.",
-  "zh": ""
+  "zh": "◆不知为何，图书馆内部完全没有\n　被冰封。"
  },
  {
   "id": "OTHER/EVENT3.BIN/583/0",
@@ -196215,7 +196215,7 @@
   "offset": "2CD0",
   "jp": "◆図書館の中で、またコータの声を聞いた！\n　早くコータのところにいかなきゃ！",
   "en": "Once inside the library, I heard Cota\nagain! I've got to find him!",
-  "zh": ""
+  "zh": "◆在图书馆里又听到了柯达的声音！\n　得赶紧去柯达那里才行！"
  },
  {
   "id": "OTHER/EVENT3.BIN/584/0",
@@ -196224,7 +196224,7 @@
   "offset": "2D20",
   "jp": "◆図書館の中にあった転送装置から、みょう\n　な施設の中へと移動した",
   "en": "I used the teleporter in the library to\ntransit to another, strange facility.",
-  "zh": ""
+  "zh": "◆利用图书馆里的传送装置，\n　移动到了一个奇怪的设施内部。"
  },
  {
   "id": "OTHER/EVENT3.BIN/5DC/0",
@@ -196233,7 +196233,7 @@
   "offset": "2D66",
   "jp": "◆図書館にあった転送装置の先は\n　みょうな施設の中だった\n\n　とにかくきっと、この先にクイーンオブ\n　アイスとトウヤがいるはずだ\n　施設の中を探索しよう",
   "en": "The library teleporter took me to\nanother, strange facility.\n\nI figure the Queen of Ice and Toya are\nin here somewhere. Time to explore the\nplace.",
-  "zh": ""
+  "zh": "◆图书馆传送装置的前方\n　是一个奇怪的设施内部。\n\n　总之，冰之女王和托亚\n　一定就在前面。\n　开始探索设施内部吧。"
  },
  {
   "id": "OTHER/EVENT3.BIN/5DD/0",
@@ -196242,7 +196242,7 @@
   "offset": "2E02",
   "jp": "◆施設の中を進んだ先で\n　またコータの声を聞いた\n\n　早くコータのところへ行こう！",
   "en": "Proceeding deeper into the\nfacility I heard Cota bark again!\n\nI need to find him, quick!",
-  "zh": ""
+  "zh": "◆在设施深处前进时\n　又听到了柯达的声音\n\n　快到柯达身边去吧！"
  },
  {
   "id": "OTHER/EVENT3.BIN/5DF/0",
@@ -196251,7 +196251,7 @@
   "offset": "2E58",
   "jp": "◆コウ先生が、生きていた・・・！\n\n　コウ先生・・・いや、コウはデビル\n　ゴーレムを復活させるために、右腕の力を\n　利用したと言った\n\n　なんてやつだ・・・",
   "en": "Professor Kou is alive!\n\nHe told me that he manipulated me\ninto using the power of my right arm\nto reactivate the Devil Golem.\n\nThat's just evil.",
-  "zh": ""
+  "zh": "◆红老师竟然还活着……！\n\n　红老师……不，红说为了复活魔妖\n　魔像，利用了我右臂的力量\n\n　真是个无可救药的家伙……"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E0/0",
@@ -196260,7 +196260,7 @@
   "offset": "2EF8",
   "jp": "◆過去の記憶を思い出した\n　オレは、カリンを殺しかけたんだ・・・",
   "en": "I remember now. I remember that\nI attempted to kill Karin...",
-  "zh": ""
+  "zh": "◆我想起了过去的记忆\n　我……差点杀了卡琳……"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E1/0",
@@ -196269,7 +196269,7 @@
   "offset": "2F3C",
   "jp": "◆記憶を取り戻したオレに、カリンは\n　“一発、ぶん殴らせて”と言った\n　そしたらチャラにすると言ってくれた\n\n　そんで、はじめて“アツマ”って\n　名前をちゃんと呼んでくれた\n　涙が出そうになった",
   "en": "Seeing that I'd regained my memory,\nKarin said, \"When this is all over, let\nme punch you. Then I'll call us even.\"\n\nThen she called me by name, \"Atsuma,\"\nfor the first time. I was so happy\nI could have cried.",
-  "zh": ""
+  "zh": "◆面对恢复记忆的我，卡琳说\n　“让我狠狠揍你一拳”\n　这样就一笔勾销\n\n　而且，她第一次好好地叫了\n　“阿茨玛”这个名字\n　让我感动得差点哭出来"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E2/0",
@@ -196278,7 +196278,7 @@
   "offset": "3002",
   "jp": "◆コウが、コータを凶暴なゴーレムに\n　つくりかえた\n\n◆コータを倒した・・・",
   "en": "Kou turned Cota into a berserk Golem.\n\nI took him out...",
-  "zh": ""
+  "zh": "◆红把柯达改造成了\n　凶暴的魔像\n\n◆打倒了柯达……"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E3/0",
@@ -196287,7 +196287,7 @@
   "offset": "3052",
   "jp": "◆コウのあとを追っていくと、そこには\n　トウヤがいた\n　けれど、トウヤはクイーンオブアイスに\n　あやつられていて、前のトウヤじゃなく\n　なっていた",
   "en": "I chased after Kou, and ran into Toya.\nIt wasn't really him, though. The Queen\nof Ice was controlling him.",
-  "zh": ""
+  "zh": "◆追着红的身后赶去，在那里\n　见到了托亚\n　但是托亚被冰之女王\n　操纵着，已经不再是\n　以前的托亚了"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E4/0",
@@ -196296,7 +196296,7 @@
   "offset": "30E8",
   "jp": "◆コウを倒した\n　そのあと、クイーンオブアイスがコウを\n　殺し、トウヤを連れて去っていった\n\n　オレはまた、トウヤを救えなかった・・・\n\n◆死ぬ間際のコウの言葉で、右腕は太古の\n　技術を使い、デビルゴーレムの細胞を\n　利用してつくられたものであることが\n　わかった\n\n　オレは、その右腕を使って、殺戮をして\n　きたんだ・・・\n　たくさんの人を殺してきたんだ・・・",
   "en": "I took out Kou.\nThen the Queen of Ice killed Kou,\nand took Toya away with her.\n\nOnce again, I failed to save Toya.\n\nAs Kou breathed his last, I learned from\nhim that my right arm had been made from\ncells taken from a Devil Golem, through\nthe use of ancient technologies.\n\nI had used this arm to commit mass\nslaughter. How many people had I killed?",
-  "zh": ""
+  "zh": "◆打倒了红\n　随后冰之女王杀死了红，\n　带着托亚离开了\n\n　我还是没能拯救托亚……\n\n◆根据红临死前的话，得知了我的右臂\n　是运用太古的技术、利用魔妖魔像的\n　细胞制造出来的\n\n　我一直以来竟然都在用这条右臂，\n　进行着杀戮……\n　杀了那么多的人……"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E5/0",
@@ -196305,7 +196305,7 @@
   "offset": "3256",
   "jp": "◆コウが死んだことで、施設が崩壊を\n　はじめたが、みょうな金髪でサングラスの\n　男の誘導で脱出した",
   "en": "With Kou's death, the facility began to\ncollapse. A strange Blond Man wearing\nsunglasses helped me escape.",
-  "zh": ""
+  "zh": "◆随着红的死亡，设施开始\n　崩塌，但在一个戴着墨镜的奇怪金发\n　男子的引导下成功脱离了险境"
  },
  {
   "id": "OTHER/EVENT3.BIN/5E6/0",
@@ -196314,7 +196314,7 @@
   "offset": "32BC",
   "jp": "◆脱出したあと、金髪の男が“次は炎帝だ”\n　という言葉を残して去っていった・・・",
   "en": "Once we were clear, he left, saying,\n\"Next is the Emperor of Fire.\"",
-  "zh": ""
+  "zh": "◆逃出来后，金发男子留下一句\n　“下一个是炎帝”，便转身离开了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/640/0",
@@ -196323,7 +196323,7 @@
   "offset": "3310",
   "jp": "【第三章プロローグ】ダミー",
   "en": "Part III: Prologue Dummy Text",
-  "zh": ""
+  "zh": "【第三章序幕】占位文本"
  },
  {
   "id": "OTHER/EVENT3.BIN/6A4/0",
@@ -196332,7 +196332,7 @@
   "offset": "332E",
   "jp": "◆約束どおり、レジスタンスの手伝いをする\n　ことになった\n　レジスタンスのアジトへは、ロンドン城の\n　中を通っていくと近道らしい",
   "en": "As promised, I helped out the\nResistance. There was a shortcut to\ntheir Hideout inside London Castle.",
-  "zh": ""
+  "zh": "◆按照约定，决定去协助反抗军\n\n　据说穿过伦敦城内部，\n　就是前往反抗军秘密基地的捷径"
  },
  {
   "id": "OTHER/EVENT3.BIN/6A5/0",
@@ -196341,7 +196341,7 @@
   "offset": "33B2",
   "jp": "◆カリンが話しかけると、ロンドン城へ\n　向かう途中の門をふさいでいた騎士たちが\n　なぜかどいてくれた",
   "en": "For some reason, the Knights at the gate\nto the London Castle let us pass after\nKarin spoke to them.",
-  "zh": ""
+  "zh": "◆卡琳上前搭话后，不知为何\n　原本把守着通往伦敦城城门的骑士们\n　竟然让开了路"
  },
  {
   "id": "OTHER/EVENT3.BIN/6A6/0",
@@ -196350,7 +196350,7 @@
   "offset": "341A",
   "jp": "◆ロンドン城の広間で、街道の橋のところで\n　あった騎士が、貴族と話しているのを\n　見かけた",
   "en": "In the London Castle Hall, I spotted the\nKnight I'd seen on the bridge talking\nto some nobleman.",
-  "zh": ""
+  "zh": "◆在伦敦城大厅里，看见了之前在街道\n　桥头遇到的骑士正在和贵族交谈"
  },
  {
   "id": "OTHER/EVENT3.BIN/6A7/0",
@@ -196359,7 +196359,7 @@
   "offset": "3478",
   "jp": "◆レジスタンスのアジトへは\n　廃坑道の中を通っていけばつくらしい",
   "en": "The Resistance Hideout could be reached\nvia an abandoned mine.",
-  "zh": ""
+  "zh": "◆据说穿过废弃矿道，\n　就能到达反抗军的秘密基地"
  },
  {
   "id": "OTHER/EVENT3.BIN/6A8/0",
@@ -196368,7 +196368,7 @@
   "offset": "34BC",
   "jp": "◆また、ユウキに会った\n　これだけいろいろなところでウロウロして\n　いるということは、よほど暇なのだろう",
   "en": "There I was reunited with Yuki.\nShe really must have time on her hands,\nto be able to wander around the way she\ndoes.",
-  "zh": ""
+  "zh": "◆又遇到了勇树\n　能在这么多不同的地方到处乱逛，\n　看来她真是闲得发慌吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/6A9/0",
@@ -196377,7 +196377,7 @@
   "offset": "3528",
   "jp": "◆坑道の中でとつぜん襲ってきたゴーレムを\n　倒した\n　カリンが言うには、坑道のあたりには\n　いないはずのゴーレムらしい",
   "en": "I took down a Golem that attacked me in\nthe mines.\nAccording to Karin, that Golem had no\nbusiness being there.",
-  "zh": ""
+  "zh": "◆打倒了在矿道中突然袭来的魔像\n　据卡琳说，按理说这一带\n　应该不会出现这种魔像才对"
  },
  {
   "id": "OTHER/EVENT3.BIN/6AA/0",
@@ -196386,7 +196386,7 @@
   "offset": "35A2",
   "jp": "◆レジスタンスのアジトに到着した",
   "en": "I arrived at the Hideout.",
-  "zh": ""
+  "zh": "◆抵达了反抗军的秘密基地"
  },
  {
   "id": "OTHER/EVENT3.BIN/708/0",
@@ -196395,7 +196395,7 @@
   "offset": "35C6",
   "jp": "◆カリンがレジスタンスのリーダーに\n　紹介してくれるそうだ\n\n　とりあえず、アジトの中に入ろう",
   "en": "Karin said she'd introduce me to\nthe Resistance leader.\n\nSo, into the breach.",
-  "zh": ""
+  "zh": "◆卡琳说要把我介绍给\n　反抗军的首领\n\n　总之先进入基地吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/709/0",
@@ -196404,7 +196404,7 @@
   "offset": "3628",
   "jp": "◆リーダーに紹介された\n　リーダーといっしょにいた男は、やけに\n　猫背だった",
   "en": "I was introduced to the Leader.\nThe man standing next to him was really\nstooped over, even hunchbacked.",
-  "zh": ""
+  "zh": "◆被介绍给了首领\n　和首领在一起的那个男人，\n　驼背得特别厉害"
  },
  {
   "id": "OTHER/EVENT3.BIN/70A/0",
@@ -196413,7 +196413,7 @@
   "offset": "3678",
   "jp": "◆作戦室で不審者としてユウキが\n　捕まっていた\n　\n　結果的に、助けることになったが\n　ユウキは“礼は言わないぞ”と言って\n　去っていった\n\n　ホントになんなんだ、アイツは・・・",
   "en": "Yuki was grabbed in the Operations Room.\nThey thought she was an intruder.\n\nI ended up saving her, only to have her\nsay, \"Don't expect me to thank you,\" as\nshe left.\n\nFor the life of me, I can't figure out\nwhat her problem is.",
-  "zh": ""
+  "zh": "◆在作战室里，勇树被当作可疑人员\n　抓了起来\n　\n　虽然结果上帮了她一把，\n　但勇树却说了句“我才不会道谢呢”\n　就跑掉了\n\n　那家伙到底是怎么回事啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/70B/0",
@@ -196422,7 +196422,7 @@
   "offset": "372E",
   "jp": "◆レジスタンスの集会に参加した\n\n　リーダーはロンドン市街での活動に力を\n　そそぐと言っていたが、カリンはなんだか\n　納得していない様子だった",
   "en": "I attended a meeting of the Resistance.\n\nThe Leader said he'd put their energies\ninto action in the streets of London.\nFor some reason, though, this didn't\nseem to sit well with Karin.",
-  "zh": ""
+  "zh": "◆参加了反抗军的集会\n\n　首领说要把精力集中在伦敦市区的活动上，\n　但卡琳看起来总觉得无法释怀"
  },
  {
   "id": "OTHER/EVENT3.BIN/76C/0",
@@ -196431,7 +196431,7 @@
   "offset": "37C0",
   "jp": "◆集会のあと、カリンに手料理をごちそう\n　してもらうことになった\n\n　まあ、ありがたい話だけど、どうも\n　ライガさんの反応が気になる・・・",
   "en": "After the meeting, Karin cooked for\nthe both of us.\n\nIt was nice enough, when I wasn't\nworrying about Raigar's reaction, that\nis.",
-  "zh": ""
+  "zh": "◆集会结束后，卡琳决定亲自下厨\n　请大家饱餐一顿\n\n　哎，虽然心意很值得感激，但莱加先生\n　那耐人寻味的反应实在让人有点在意……"
  },
  {
   "id": "OTHER/EVENT3.BIN/76D/0",
@@ -196440,7 +196440,7 @@
   "offset": "384E",
   "jp": "◆毒殺されかけた",
   "en": "Someone tried to poison me.",
-  "zh": ""
+  "zh": "◆差点被毒死了"
  },
  {
   "id": "OTHER/EVENT3.BIN/7D0/0",
@@ -196449,7 +196449,7 @@
   "offset": "3862",
   "jp": "◆目が覚めると、ベッドのすぐそばに\n　ライガさんがいた\n　どうやら介抱してくれていたようだ\n\n　ライガさんに見舞いの品をもらった\n　けっこう苦労しているみたいだな・・・",
   "en": "When I came to, the first thing I saw\nwas Raigar, sitting at my bedside. Seems\nhe'd been nursing me.\n\nHe gave me a get-well gift. I guess I've\nbeen putting him to a lot of trouble.",
-  "zh": ""
+  "zh": "◆睁开眼时，莱加先生就在床边\n　看来他一直照顾着我\n\n　收到了莱加先生送的探病礼物\n　感觉他也挺不容易的啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/7D1/0",
@@ -196458,7 +196458,7 @@
   "offset": "390E",
   "jp": "◆屋上でユウキといっしょに星を見た\n\n　話しているうちに、なぜだかユウキが怒り\n　だして、戦いを挑んできた",
   "en": "I went stargazing with Yuki on the\nrooftop.\n\nFor some reason, as we were talking, she\ngot mad and picked a fight with me.",
-  "zh": ""
+  "zh": "◆在屋顶上和勇树一起看了星星\n\n　聊着聊着，勇树不知为何突然生起气来，\n　向我发起了挑战"
  },
  {
   "id": "OTHER/EVENT3.BIN/7D2/0",
@@ -196467,7 +196467,7 @@
   "offset": "397C",
   "jp": "◆戦いのあと、ユウキはオレに\n　“忘れたいことがあったって、前に進む\n　　しかない”と言ってくれた\n\n　少し・・・救われた気がした\n\n◆ユウキと話していると、物音がしたので\n　行ってみると、ロンドン軍の騎士団の\n　斥候がいて、戦いになった",
   "en": "Afterwards she said, \"I'm trying to\nforget something, and the only thing to\ndo is keep going forward.\"\n\nI feel as if we had a breakthrough here,\nmaybe.\n\nAs we were talking, I heard something.\nI went to see what it was, and found a\nLondon Army Knight recon unit. Combat\nensued.",
-  "zh": ""
+  "zh": "◆战斗结束后，勇树对我说：\n　“就算有想要忘记的事，也只能\n　　继续向前迈进啊”\n\n　感觉稍微……得到了一丝救赎\n\n◆正在和勇树交谈时，听到了响动，\n　跑去查看发现是伦敦军骑士团的\n　斥候，随即展开了战斗"
  },
  {
   "id": "OTHER/EVENT3.BIN/834/0",
@@ -196476,7 +196476,7 @@
   "offset": "3A6E",
   "jp": "◆斥候を倒したあと、騎士団の襲撃について\n　レジスタンスのみんなに知らせにいく\n　ことになった",
   "en": "Once I took them out, I went to inform\nthe Resistance that the Knights had\nattacked.",
-  "zh": ""
+  "zh": "◆打倒斥候后，决定去把骑士团\n　来袭的消息通知反抗军的大家"
  },
  {
   "id": "OTHER/EVENT3.BIN/835/0",
@@ -196485,7 +196485,7 @@
   "offset": "3AD0",
   "jp": "◆カリンの指示で、攻めてきた騎士団を\n　迎え撃つことになった\n\n　みんなに指示しているときのカリンは\n　ちょっといつもと雰囲気が違った\n　まるですごく偉い人みたいだった",
   "en": "We defended against the onrushing\nKnights, under Karin's command.\n\nShe seemed different when she was\ngiving orders. She came across as though\nshe were someone really important.",
-  "zh": ""
+  "zh": "◆在卡琳的指挥下，决定迎击\n　攻过来的骑士团\n\n　给所有人下达指示时的卡琳，\n　气质和平时有些不太一样，\n　简直就像个位高权重的大人物一样"
  },
  {
   "id": "OTHER/EVENT3.BIN/836/0",
@@ -196494,7 +196494,7 @@
   "offset": "3B7C",
   "jp": "◆アジトを襲った騎士たちを撃退したが\n　そこにオウカという騎士があらわれて\n　戦いになった\n\n◆オウカを倒したあと、オウカがライガさん\n　の弟だということが判明した\n　そのあと、オレが口をすべらせてしまった\n　せいで、ライガさんが内通者の濡れ衣を\n　きせられてしまった",
   "en": "As expected, we repelled them, only to\nhave a Knight named Ooka attack instead.\n\nAfter I took him down, I found that he\nwas Raigar's brother.\nI let this fact slip later on, which\nresulted in Raigar being suspected of\nbeing a traitor.",
-  "zh": ""
+  "zh": "◆击退了袭击基地的骑士们，\n　但这时一个名叫樱花的骑士现身，\n　又陷入了激战\n\n◆打倒樱花后，查明了他原来是莱加先生\n　的弟弟\n　随后因为我不小心说漏了嘴，\n　害得莱加先生被扣上了内奸的莫须有罪名"
  },
  {
   "id": "OTHER/EVENT3.BIN/898/0",
@@ -196503,7 +196503,7 @@
   "offset": "3C8C",
   "jp": "◆ライガさんの疑いを晴らすために\n　アジトの中で情報を集めることになった",
   "en": "I went looking for information in the\nHideout to prove Raigar's innocence.",
-  "zh": ""
+  "zh": "◆为了洗清莱加先生的嫌疑，\n　决定在基地内部收集情报"
  },
  {
   "id": "OTHER/EVENT3.BIN/899/0",
@@ -196512,7 +196512,7 @@
   "offset": "3CD8",
   "jp": "◆一通り情報を集めた結果、リーダーと\n　クヒ男があやしいということになり\n　リーダーに事情を問いただしにいったが\n　リーダーは留守だった\n\n◆リーダーが留守だったことでイライラした\n　カリンと少し口論になって、カリンは\n　一人でどこかへ行ってしまった",
   "en": "Having gathered the info, I suspected\nthe Leader and the Giggling Man instead.\nWhen I went to confront him, however, he\nwas gone.\n\nKarin was mad at this turn of events,\nand we had another argument, which ended\nwith her going off somewhere by herself.",
-  "zh": ""
+  "zh": "◆打探了一圈情报后，推断首领和那个\n　怪笑男非常可疑，于是前去向首领\n　质问真相，但首领却不在\n\n◆因为首领不在而焦躁不已的卡琳\n　和我起了点争执，随后卡琳便\n　一个人不知跑到哪里去了"
  },
  {
   "id": "OTHER/EVENT3.BIN/89A/0",
@@ -196521,7 +196521,7 @@
   "offset": "3DD6",
   "jp": "◆もう時間も遅いので、調査は次の日に\n　もちこすことになった\n\n◆ユウキと別れたあと、すこしライガさんの\n　様子を見に行くことにした",
   "en": "The lateness of the hour at this point\nmeant that the investigation would be\nsuspended until the next day.\n\nAfter Yuki took her leave, I decided to\nlook in on Raigar.",
-  "zh": ""
+  "zh": "◆时间已经不早了，调查决定延期到\n　第二天再继续\n\n◆和勇树告别后，决定去看看\n　莱加先生的情况"
  },
  {
   "id": "OTHER/EVENT3.BIN/89B/0",
@@ -196530,7 +196530,7 @@
   "offset": "3E5E",
   "jp": "◆ライガさんとオウカの関係をすこし聞いた\n　せっかく兄弟なんだから、仲直りできると\n　いいのに・・・",
   "en": "I heard some of Raigar and Ooka's\nrelationship. I hoped they'd be able to\nmend their fences.",
-  "zh": ""
+  "zh": "◆稍微打听了一下莱加先生和樱花的事\n　难得是亲兄弟，要是能和好如初\n　就好了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/89C/0",
@@ -196539,7 +196539,7 @@
   "offset": "3EC6",
   "jp": "◆時間ももう遅いし疲れたので、そろそろ\n　休むことにした",
   "en": "It was so late in the evening by this\ntime that I finally turned in.",
-  "zh": ""
+  "zh": "◆时间也已经很晚了，而且浑身疲惫，\n　差不多该去休息了"
  },
  {
   "id": "OTHER/EVENT3.BIN/8FC/0",
@@ -196548,7 +196548,7 @@
   "offset": "3F02",
   "jp": "◆ユウキにたたき起こされた\n　ユウキは“カリンが盗まれた”とか\n　意味不明のことを言っている\n\n　とにかく状況を把握するために\n　広間へ行こう",
   "en": "Yuki smacked me awake, shouting\nsomething about Karin being a thief.\n\nI headed to the common area to find\nout what was going on.",
-  "zh": ""
+  "zh": "◆被勇树猛力摇醒了\n　勇树嘴里嚷着“卡琳被偷走了”之类的\n　莫名其妙的话\n\n　总之为了弄清状况，\n　先去大厅吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/8FD/0",
@@ -196557,7 +196557,7 @@
   "offset": "3F94",
   "jp": "◆広場でリーダーが、カリンが炎帝の魔導器\n　を盗んで失踪したとさわいでいた\n　しかし、そこにライガさんが現われて\n　リーダーに悪事の証拠の手紙をつきつけた\n\n◆リーダーは、ハートソン男爵という貴族に\n　ロンドンシティの実権をにぎらせるために\n　魔導器とカリンを確保しようとしていた\n　らしい\n\n◆証拠をつきつけられたリーダーがカリンは\n　廃坑道の方にいるはずだと吐いた\n　カリンを追わなければ！",
   "en": "In the Square, there was a commotion.\nPeople were saying that the Leader was\nmaking noises that Karin had stolen the\nFire Magicore. Raigar then showed up\nwith a letter proving the Leader's\nguilt.\n\nIn it, the Leader worked to get the\nMagicore and Karin for a nobleman named\nBaron Hartson, who wanted to take over\nLondon City.\n\nThus confronted, the Leader confessed\nthat Karin was in the abandoned mine.\nWe've got to get her!",
-  "zh": ""
+  "zh": "◆在广场上，头领大喊大叫，声称卡琳\n　偷走了炎帝的魔导器并潜逃了\n　然而，莱加先生此时现身，\n　当面甩出了头领作恶证据的信件\n\n◆原来头领是为了让一位叫哈特森男爵的贵族\n　夺得伦敦市的实权，\n　才企图抓住卡琳并夺取魔导器\n\n◆面对铁证，头领招供出卡琳\n　应该就在废弃矿道那边\n　必须立刻去追卡琳！"
  },
  {
   "id": "OTHER/EVENT3.BIN/8FE/0",
@@ -196566,7 +196566,7 @@
   "offset": "4122",
   "jp": "◆廃坑道で待ち伏せをしていた\n　クヒ男を倒した！\n\n　クヒクヒクヒ、ざまあみろってんだ！\n\n◆クヒ男が言うには、カリンは廃坑道を出た\n　あたりでオウカに捕まっているらしい",
   "en": "The Giggling Man ambushed us in the\nabandoned mine. I took him out!\n\nTake that, traitor!\n\nHe told us that Ooka had grabbed Karin\nwhen she reached the abandoned mine.",
-  "zh": ""
+  "zh": "◆打倒了在废弃矿道埋伏的\n　怪笑男！\n\n　库嘻嘻嘻，活该，看招吧！\n\n◆据怪笑男交代，卡琳好像在刚出废弃矿道\n　附近的地方被樱花抓走了"
  },
  {
   "id": "OTHER/EVENT3.BIN/8FF/0",
@@ -196575,7 +196575,7 @@
   "offset": "41D0",
   "jp": "◆オウカを倒してカリンを救出した！\n\n　オウカは逃がしてしまったけど\n　とりあえずは、これでオッケーとしよう",
   "en": "I took Ooka down and rescued Karin!\n\nOoka got away, but we still came out\nahead.",
-  "zh": ""
+  "zh": "◆打倒了樱花，成功救出了卡琳！\n\n　虽然让樱花给逃跑了，\n　不过姑且先算过关吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/960/0",
@@ -196584,7 +196584,7 @@
   "offset": "4240",
   "jp": "◆カリンに炎帝の魔導器がそのへんに落ちて\n　いるから取ってこいと命令された\n\n　元気そうでよかったけど、助けてもらった\n　直後くらい、もうすこししおらしくして\n　ほしいもんだ",
   "en": "Karin ordered me to go find the\nFire Magicore. I found it on the table\nin a house near the Mechanics area.\n\nI was glad she seemed all right, but I\nwish she'd be a little more gracious\nabout being rescued, at least, right at\nthe time.",
-  "zh": ""
+  "zh": "◆卡琳命令我说，炎帝的魔导器就掉在\n　那附近，让我去捡回来\n\n　看她精神还不错是挺好的，但刚被人救了\n　之后，多少也表现得温顺一点\n　好不好啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/961/0",
@@ -196593,7 +196593,7 @@
   "offset": "42F2",
   "jp": "◆炎帝の魔導器をみつけて、手に入れた\n\n◆魔導器にさわっていると、急に魔導器が\n　熱くなって、頭の中がまっしろになった",
   "en": "I retrieved the Fire Magicore.\n\nAs soon as I touched it, it suddenly got\nvery hot, and my mind went blank again.",
-  "zh": ""
+  "zh": "◆找到了炎帝的魔导器，拿到了手\n\n◆摸着魔导器的时候，魔导器突然变得\n　滚烫，脑子里瞬间变得一片空白"
  },
  {
   "id": "OTHER/EVENT3.BIN/962/0",
@@ -196602,7 +196602,7 @@
   "offset": "436C",
   "jp": "◆気がついたら、みょうな空間にいて\n　例の謎の声と、炎帝らしきやつの声が\n　聞こえてきた\n\n　なんなんだよ、いったい・・・",
   "en": "The next thing I knew, I was in a\nstrange space, and I heard that same\nmysterious voice and what sounded\nlike the Emperor of Fire.\n\nI don't know what that was about.",
-  "zh": ""
+  "zh": "◆回过神来时，发现自己身处一个奇怪的空间，\n　听到了那个神秘的声音，还有疑似炎帝\n　那家伙的声音\n\n　到底是怎么一回事啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/963/0",
@@ -196611,7 +196611,7 @@
   "offset": "43EA",
   "jp": "◆みょうな空間から意識が戻ってきた\n　なんだか知らないが、炎帝の魔導器に\n　ヒビが入っていて、カリンに怒られた\n\n　ゴハン粒つけておけば直るから\n　そんなに怒ることないのに・・・　\n\n◆魔導器について話していると\n　とつぜんクイーンオブアイスが\n　トウヤを連れて現われた\n\n　トウヤは、クイーンオブアイスに\n　意識を操られている様子だった\n\n　ちっくしょう・・・",
   "en": "Then I came back from that weird place.\nI don't know how it happened, but the\nFire Magicore had a crack in it, and\nKarin was mad at me over it.\n\nIt was tiny. A grain of rice would plug\nit. Hardly a reason to get so upset.\n\nAs we talked about the Magicore, the\nQueen of Ice popped up out of nowhere,\nwith Toya in tow.\n\nIt was clear that she was controlling\nhim.\n\nBlast her!",
-  "zh": ""
+  "zh": "◆意识从那个奇怪的空间恢复了过来\n　虽然不知道怎么搞的，但炎帝的魔导器上\n　出现了裂痕，结果被卡琳狠狠臭骂了一顿\n\n　粘个米粒就能修好的东西，\n　至于发那么大脾气嘛……　\n\n◆正在谈论魔导器的事时，\n　冰之女王突然带着托亚现身了\n\n　托亚的意识看起来\n　完全被冰之女王给操控了\n\n　可恶啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/9C4/0",
@@ -196620,7 +196620,7 @@
   "offset": "4558",
   "jp": "◆クイーンオブアイスは、トウヤと\n　いっしょにロンドン城へ向かった\n\n　“ロンドンシティを凍りつかせる”と\n　言っていたので、急いで追わないと\n　ムチャクチャマズイ",
   "en": "The Queen of Ice and Toya headed for\nLondon Castle.\n\n\"I will freeze London City,\" she\ndeclared. We gotta catch her, and quick,\nbefore things really turn bad.",
-  "zh": ""
+  "zh": "◆冰之女王带着托亚\n　一起朝伦敦城赶去了\n\n　她扬言说“要把伦敦市彻底冻结”，\n　要是不赶紧追上去的话，\n　事情可就糟透了"
  },
  {
   "id": "OTHER/EVENT3.BIN/9C5/0",
@@ -196629,7 +196629,7 @@
   "offset": "4600",
   "jp": "◆ロンドン城につながる道で、倒れている\n　兵士をみつけた\n　急がないと、やばそうな雰囲気だ",
   "en": "We found fallen soldiers on the road\nto London Castle. Things were\nturning pretty desperate.",
-  "zh": ""
+  "zh": "◆在通往伦敦城的道路上，发现了倒地不起的\n　士兵\n　气氛极其不妙，必须加快脚步了"
  },
  {
   "id": "OTHER/EVENT3.BIN/9C6/0",
@@ -196638,7 +196638,7 @@
   "offset": "465E",
   "jp": "◆広間でオウカがライガさんを\n　待ち構えていた",
   "en": "Ooka was waiting in the Hall,\nfor Raigar.",
-  "zh": ""
+  "zh": "◆在大厅里，樱花正严阵以待\n　等候着莱加先生"
  },
  {
   "id": "OTHER/EVENT3.BIN/9C7/0",
@@ -196647,7 +196647,7 @@
   "offset": "4690",
   "jp": "◆戦いのあと、カリンを守るために\n　ライガさんがオウカを斬り捨てた\n\n　オウカは死んだ\n\n　オレには、なにも言えなかった\n　なに言ってもおこがましい気がした",
   "en": "When the fight was over, Raigar cut\nOoka down, for Karin's sake.\n\nOoka was dead.\n\nI had nothing to say. Or rather,\nanything I might have said would have\nseemed presumptuous.",
-  "zh": ""
+  "zh": "◆战斗结束后，为了保护卡琳，\n　莱加先生将樱花斩杀了\n\n　樱花死了\n\n　我一句话也说不出来\n　总觉得不管说什么，都显得有些狂妄不知轻重"
  },
  {
   "id": "OTHER/EVENT3.BIN/9C8/0",
@@ -196656,7 +196656,7 @@
   "offset": "4730",
   "jp": "◆謁見の間で待ち受けていた\n　クイーンオブアイスが、カリヴァン王を\n　・・・カリンのお父さんを殺した\n\n◆クイーンオブアイスは炎帝神殿で\n　待っていると言って去っていった",
   "en": "The Queen of Ice awaited us in the\nAudience Room, where she killed King\nCaliban-- Karin's father.\n\nThen she removed herself, saying that\nI would find her in the Inferno Temple.",
-  "zh": ""
+  "zh": "◆在谒见之厅守候着的冰之女王，\n　杀害了卡利班王……\n　也就是卡琳的父亲\n\n◆冰之女王丢下一句会在炎帝神殿\n　等着我们，随后便离去了"
  },
  {
   "id": "OTHER/EVENT3.BIN/A28/0",
@@ -196665,7 +196665,7 @@
   "offset": "47DE",
   "jp": "◆クイーンオブアイスを追って\n　炎帝神殿へ向かうことになった",
   "en": "I headed for the Inferno Temple,\nin hot pursuit of the Queen of Ice.",
-  "zh": ""
+  "zh": "◆大家决定追击冰之女王，\n　前往炎帝神殿"
  },
  {
   "id": "OTHER/EVENT3.BIN/A29/0",
@@ -196674,7 +196674,7 @@
   "offset": "481E",
   "jp": "◆炎帝神殿へ向かう途中で立ちふさがって\n　きたクイーンオブアイスの手下を\n　とつぜん現われた金髪の男がやっつけた\n\n◆金髪の男は、オレに向かって\n　“トウヤのことを救ってやって欲しい”\n　・・・と言った\n\n　いったいなんなんだ、コイツは？",
   "en": "Enroute, I found myself confronted by an\nagent of the Queen of Ice, who was\nstruck down by the Blond Man, who popped\nup out of nowhere.\n\nThen he turned to me and said, \"I need\nyou to rescue Toya.\"\n\nI can't figure him out.",
-  "zh": ""
+  "zh": "◆在前往炎帝神殿的途中，挡住去路的\n　冰之女王的手下，被一名突然现身的\n　金发男子给打倒了\n\n◆金发男子看着我说道：\n　“希望你能拯救托亚”……\n\n　这家伙，到底是什么来头啊？"
  },
  {
   "id": "OTHER/EVENT3.BIN/A2A/0",
@@ -196683,7 +196683,7 @@
   "offset": "4910",
   "jp": "◆炎帝神殿にたどりついた\n　この先に、クイーンオブアイスと\n　トウヤがいるはずだ",
   "en": "I reached the Inferno Temple.\nHere was where I should find the\nQueen of Ice and Toya.",
-  "zh": ""
+  "zh": "◆终于抵达了炎帝神殿\n　冰之女王和托亚\n　应该就在前面了"
  },
  {
   "id": "OTHER/EVENT3.BIN/A2B/0",
@@ -196692,7 +196692,7 @@
   "offset": "4964",
   "jp": "◆クイーンオブアイスの近くまできたのは\n　いいけれど、あのバケモノをどうやって\n　倒すのか・・・という話になった\n\n　やっぱり、右腕の力を使うしかないよな",
   "en": "I got within striking distance of her.\nThe problem was how to take her down.\n\nOnce again, it came down to the power\nof my right arm.",
-  "zh": ""
+  "zh": "◆好不容易逼近了冰之女王跟前是不假，\n　但大家开始商讨到底该怎么打倒\n　那个怪物……\n\n　看样子，果然还是只能动用右臂的力量了啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/A2C/0",
@@ -196701,7 +196701,7 @@
   "offset": "4A02",
   "jp": "◆炎帝の間の前にたちふさがっていた\n　番人のポセイドンを倒した\n\n◆カリンが急に、トウヤが古代人の血を\n　ひいているか聞いてきた\n\n　トウヤは“覚醒異変”だと聞いたことが\n　あったので、そう答えたら、みょうに\n　納得した様子だった",
   "en": "I took down Poseidon, the guardian of\nthe Royal Chamber.\n\nAll of a sudden, Karin asked me whether\nToya was of an ancient bloodline.\n\nI told her how I'd heard about Toya\nexperiencing a \"disturbed awakening,\"\nand she seemed strangely satisfied when\nshe heard this.",
-  "zh": ""
+  "zh": "◆打倒了挡在炎帝之间门前的\n　守门者波塞冬\n\n◆卡琳突然问我，托亚身上\n　是否流淌着古代人的血脉\n\n　我曾听说托亚是“觉醒异变者”，\n　于是就这样回答了她，她听后似乎\n　异常信服地点了点头"
  },
  {
   "id": "OTHER/EVENT3.BIN/A2D/0",
@@ -196710,7 +196710,7 @@
   "offset": "4AEC",
   "jp": "◆炎帝封印の間で、クイーンオブアイスが\n　待ち受けていた\n\n◆カリンが、オレたちの制止もきかず\n　炎帝を復活させるために、魔導器をもって\n　炎帝の元へと向かっていった\n\n◆炎帝の魔導器が壊れていたため\n　カリンは炎帝を復活させるために\n　炎帝に取りこまれてしまった・・・",
   "en": "The Queen of Ice awaited us in the hall\nwhere the Emperor of Fire was sealed\naway.\n\nIgnoring my attempts to stop her, Karin\nheaded for the Emperor of Fire,\ncarrying the Magicore, intending to\nrestore him.\n\nBecause the Magicore was damaged, Karin\nwas absorbed into the Emperor of Fire\nin the course of its revival.",
-  "zh": ""
+  "zh": "◆在炎帝封印之间，冰之女王\n　正严阵以待\n\n◆卡琳不顾我们的劝阻，\n　为了让炎帝复活，带着魔导器\n　径直冲向了炎帝身边\n\n◆由于炎帝的魔导器已经破损，\n　卡琳为了让炎帝复活，\n　竟然被吸入并融入了炎帝体内……"
  },
  {
   "id": "OTHER/EVENT3.BIN/A8C/0",
@@ -196719,7 +196719,7 @@
   "offset": "4BFE",
   "jp": "◆炎帝封印の間から脱出したオレたちの前に\n　また金髪が現われた\n\n◆金髪が言うには、カリンは魔導器として\n　炎帝に取りこまれた状態らしい\n\n　オレの右腕を使えば、カリンを救うことが\n　できるらしいが、その前に、とにかく\n　炎帝をおとなしくさせるために\n　やっつけないといけない\n\n　待ってろよ、カリン！",
   "en": "As we fled the chamber wherein the\nEmperor of Fire was sealed away, the\nBlond Man appeared once more.\n\nHe said that Karin would take the place\nof the Magicore in the Emperor of Fire's\nbody.\n\nHe added that my arm could rescue Karin,\nbut not before I put the Emperor of Fire\ndown, so he wouldn't resist my efforts.\n\nI'm coming, Karin!",
-  "zh": ""
+  "zh": "◆从炎帝封印之间逃出后，在我们面前\n　那个金发男子又现身了\n\n◆据金发男所说，卡琳现在是以魔导器的形式\n　被吸收进了炎帝的体内\n\n　只要借助我右臂的力量，似乎就能救出卡琳，\n　但在那之前，无论如何都必须先把炎帝打趴下，\n　让它彻底安分下来才行\n\n　等着我，卡琳！"
  },
  {
   "id": "OTHER/EVENT3.BIN/A8D/0",
@@ -196728,7 +196728,7 @@
   "offset": "4D30",
   "jp": "◆炎帝を倒したあと、金髪の言葉に\n　したがって右腕の力を使って\n　炎帝を吸収した\n\n　そして・・・\n\n　カリンの救出に成功！",
   "en": "Once I put the Emperor of Fire down,\nI did as the Blond Man said, and\nabsorbed the creature with my right arm.\n\nAnd what do you know?\n\nIt worked! I saved Karin!",
-  "zh": ""
+  "zh": "◆打倒炎帝后，我遵照金发男的话，\n　使用右臂的力量\n　吸收了炎帝\n\n　然后……\n\n　成功救出了卡琳！"
  },
  {
   "id": "OTHER/EVENT3.BIN/AF0/0",
@@ -196737,7 +196737,7 @@
   "offset": "4DB0",
   "jp": "【第四章プロローグ】ダミー",
   "en": "Part IV: Prologue Dummy Text",
-  "zh": ""
+  "zh": "【第四章序幕】占位文本"
  },
  {
   "id": "OTHER/EVENT3.BIN/B54/0",
@@ -196746,7 +196746,7 @@
   "offset": "4DCE",
   "jp": "◆今朝見た夢について悩んでいると\n　ユウキが声をかけてきた\n\n　そして、炎帝とクイーンオブアイスの\n　せいで崩壊したロンドンシティの\n　復興の手伝いをすることになった\n\n　とりあえず、復興の指揮をとっている\n　カリンに指示をもらうために、カリンの\n　いる公園に行こう",
   "en": "I was brooding in the morning over a\ndream I had when Yuki came over to me.\n\nThat's how I found myself helping\nrebuild London City in the wake of the\ndestruction caused by the Queen of Ice\nand the Emperor of Fire.\n\nI started out by going to see Karin,\nwho was in the Square, giving\ndirections on the reconstruction effort.",
-  "zh": ""
+  "zh": "◆正在为今天早晨做的梦发愁时，\n　勇树过来搭话了\n\n　随后，大家决定去协助重建因炎帝和\n　冰之女王而遭到破坏的伦敦市\n\n　总之，为了找统筹负责重建指挥的\n　卡琳领取任务指示，先去卡琳\n　所在的公园看看吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/B55/0",
@@ -196755,7 +196755,7 @@
   "offset": "4EDC",
   "jp": "◆カリンの指示で復興の手伝いをすることに\n　なった\n\n　＜カリンからの指示＞\n　以下の三つを行うこと\n\n　＊火の確保\n　＊水の確保\n　＊明かりの確保",
   "en": "I helped out with the reconstruction,\nunder Karin's direction.\n\nKarin's Directives:\nCarry out the following:\n\nGet fire;\nFind water;\nBring light.",
-  "zh": ""
+  "zh": "◆按照卡琳的指示，前去协助重建工作\n\n　＜来自卡琳的指示＞\n　落实以下三项任务：\n\n　＊确保火种\n　＊确保水源\n　＊确保照明"
  },
  {
   "id": "OTHER/EVENT3.BIN/B56/0",
@@ -196764,7 +196764,7 @@
   "offset": "4F74",
   "jp": "◆復興のお手伝い完了！\n\n　＜復興履歴＞\n　＊“ロンドンウィスキー”を燃料にして\n　　たき火の火を復興！\n\n　＊“馬鹿力”でがれきをどかして\n　　井戸を復興！\n\n　＊“エンチャントバーナー”で溶接して\n　　街灯を復興！",
   "en": "I've finished helping out with the\nreconstruction!\n\nAccomplishments:\nUsing London Whiskey, I got the fires\ngoing again!\n\nI reopened the well with the help of\nRaigar's great strength. He removed\nthe debris that blocked the well!\n\nI relit the streetlights by using\nEnchant Burners to re-weld them!",
-  "zh": ""
+  "zh": "◆重建协助工作完成！\n\n　＜重建记录＞\n　＊以“伦敦威士忌”为燃料，\n　　重新燃起了营火！\n\n　＊凭借“怪力”搬走瓦砾，\n　　修复了水井！\n\n　＊用“赋法喷枪”进行焊接，\n　　修复了路灯！"
  },
  {
   "id": "OTHER/EVENT3.BIN/BB8/0",
@@ -196773,7 +196773,7 @@
   "offset": "5052",
   "jp": "◆公園でたむろっていたやつらが\n　トウヤのことを悪く言っていた\n\n　ムカついたけど、でもトウヤがクイーン\n　オブアイスといっしょにいるのは事実だ\n\n　だから、仕方ない・・・",
   "en": "People loitering in the park were\nbadmouthing Toya.\n\nI didn't like it, but I couldn't deny\nthat he was in the company of the\nQueen of Ice.\n\nSo I guess they were entitled to\ncomplain.",
-  "zh": ""
+  "zh": "◆聚在公园里闲晃的那帮家伙\n　在大讲托亚的坏话\n\n　虽然听了很不爽，但托亚和冰之女王\n　在一起也是不争的事实\n\n　所以，也是没办法的事啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/BB9/0",
@@ -196782,7 +196782,7 @@
   "offset": "5102",
   "jp": "◆一人で悩んでいると、ユウキが現われて\n　戦いを挑んできた",
   "en": "As I was brooding, Yuki came up\nand picked a fight with me.",
-  "zh": ""
+  "zh": "◆正当我一个人心烦意乱时，勇树突然跳了出来，\n　向我发起了挑战"
  },
  {
   "id": "OTHER/EVENT3.BIN/BBA/0",
@@ -196791,7 +196791,7 @@
   "offset": "5140",
   "jp": "◆戦いのあと、ユウキがこう言った\n\n　“頑張ってさえいれば\n　　みんな、明日は今日よりちょっとだけ\n　　幸せになれる”\n\n　・・・ユウキは、いいやつだ\n\n◆ユウキと話したあと、一人で公園に\n　いたら、カリンがやってきた\n\n◆カリンは“親孝行の日曜大工”だといって\n　カリヴァン王の像・・・お父さんの像を\n　なおした\n\n　そのあと、カリンが\n　オレに会えて良かったと言ってくれた\n\n　・・・カリンも、いいやつだ",
   "en": "Afterward, she had this to say:\n\n\"Tomorrow will be at least a little bit\nbetter than today, so long as we all\nkeep working at it.\"\n\nI like her.\n\nAfter we talked, and I was alone in the\npark, Karin came over to me.\n\nShe'd repaired the statue of her father,\nKing Caliban, describing herself as\nloving daughter and parttime carpenter.\n\nLater she said she was glad to know me.\n\nI like her too.",
-  "zh": ""
+  "zh": "◆战斗结束后，勇树这样对我说道：\n\n　“只要一直努力下去，\n　　大家明天的幸福，就一定会比今天\n　　多那么一点点”\n\n　……勇树这家伙，真是个好人啊\n\n◆和勇树聊完后，我一个人呆在公园里，\n　卡琳走了过来\n\n◆卡琳说着这是“孝敬老爸的木工作业”，\n　修好了卡利班王的雕像……也就是她父亲的雕像\n\n　之后，卡琳还对我说了\n　能遇见我真是太好了\n\n　……卡琳这家伙，其实也是个好人啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/BBB/0",
@@ -196800,7 +196800,7 @@
   "offset": "52DC",
   "jp": "◆大階段で、金髪にあった\n\n◆トウヤを救いたいけど、右腕の力が暴走\n　するのが怖い・・・と言ったら\n　失望したと言われた\n\n　・・・こいつは、ムカつくやつだ\n\n　勝手ばかり言いやがって・・・",
   "en": "I ran into the Blond Man on the Grand\nSteps.\n\nI told him I wanted to rescue Toya, but\nthat I was also afraid of losing control\nof my right arm. He said he was\ndisappointed in me.\n\nHe really gets my goat, the way he\nspouts off like that.",
-  "zh": ""
+  "zh": "◆在大阶梯处，碰到了金发男\n\n◆我对他说虽然想救托亚，但害怕右臂的\n　力量会失控……\n　结果被他说对我感到失望\n\n　……这家伙，真是个让人火大的家伙\n\n　尽说些自以为是的风凉话……"
  },
  {
   "id": "OTHER/EVENT3.BIN/BBC/0",
@@ -196809,7 +196809,7 @@
   "offset": "539E",
   "jp": "◆ロンドン城の広間で、ライガさんが\n　騎士団の団長に戻るように頼まれていた\n\n　けど、ライガさんは断っていた\n　・・・ライガさんって意外と冷たいかも",
   "en": "In London Castle Hall, Raigar was\nasked to resume his place as leader of\nthe Knights.\n\nHe refused. I hadn't thought he could be\nso cold.",
-  "zh": ""
+  "zh": "◆在伦敦城大厅里，有人恳请莱加先生\n　重任骑士团团长一职\n\n　可是莱加先生却拒绝了\n　……莱加先生意外地也有冷酷的一面呢"
  },
  {
   "id": "OTHER/EVENT3.BIN/BBD/0",
@@ -196818,7 +196818,7 @@
   "offset": "5436",
   "jp": "◆寝室にもどってライガさんと話した\n\n　ライガさんは本当に大切なものを\n　みきわめるのが大切だと言ってくれた\n\n　オレにとって大切なのは\n　“トウヤを救うこと”だ\n\n　だから、もう迷わない\n\n◆ライガさんが、キョウトシティに伝わる\n　秘術ならば、右腕の力を制御できるかも\n　しれないと教えてくれた\n\n　右腕の力を使いこなせれば、トウヤを\n　助けられるかもしれない\n　キョウトシティに行こう！",
   "en": "I went back to the sleeping quarters,\nwhere I spoke with Raigar.\n\nHe told me that what matters is to\nfigure out for myself what's important.\n\nWhat's important to me is rescuing Toya.\n\nI know what to do now.\n\nRaigar also said that secret art that\nthey teach in Kyoto City might help me\nkeep control of the power in my right\narm.\n\nIf I can control this power, I might be\nable to save Toya.\n\nKyoto City, here I come!",
-  "zh": ""
+  "zh": "◆回到卧室后和莱加先生谈了谈\n\n　莱加先生开导我说，看清真正重要的事物\n　才是最关键的\n\n　对我来说，最重要的事情就是\n　“把托亚救出来”\n\n　所以，我不会再迷茫了\n\n◆莱加先生告诉我，如果使用京都城流传的\n　秘术，或许就能控制住右臂的力量了\n\n　要是能彻底驾驭右臂的力量，说不定\n　就能救出托亚了\n　出发去京都城吧！"
  },
  {
   "id": "OTHER/EVENT3.BIN/C1C/0",
@@ -196827,7 +196827,7 @@
   "offset": "55C0",
   "jp": "◆一人でキョウトシティへ向かうことにした",
   "en": "I decided to go to Kyoto City, alone.",
-  "zh": ""
+  "zh": "◆决定独自一人前往京都城"
  },
  {
   "id": "OTHER/EVENT3.BIN/C1D/0",
@@ -196836,7 +196836,7 @@
   "offset": "55EC",
   "jp": "◆みんなが、ロンドンシティの外で\n　待っていた\n\n　結局、いっしょにキョウトシティへ向かう\n　ことになった\n\n　・・・みんな、いいやつだ",
   "en": "The gang was all waiting for me\noutside London City.\n\nSo we all went off to Kyoto City\ntogether.\n\nWhat a great group.",
-  "zh": ""
+  "zh": "◆大家全都在伦敦城外\n　等着我\n\n　结果，大家还是一起动身前往京都城了\n\n　……大家都是些靠得住的好伙伴啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/C1E/0",
@@ -196845,7 +196845,7 @@
   "offset": "5678",
   "jp": "◆キョウトシティへは、街道を\n　ヨコハマシティと逆方向に進むと\n　つくそうだ\n\n　まずは、キョウトシティとの中継地点に\n　なるジャンクシティを目指そう",
   "en": "We get to Kyoto City by going down the\nmain road, in the opposite direction\nfrom Yokohama City.\n\nOur first stop on the road to Kyoto\nCity will be the way station at Junk\nCity.",
-  "zh": ""
+  "zh": "◆听说沿着街道往横滨城的\n　反方向走，\n　就能到达京都城\n\n　首先，先朝着作为前往京都城中继站的\n　废品城出发吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/C1F/0",
@@ -196854,7 +196854,7 @@
   "offset": "5712",
   "jp": "◆ジャンクシティに行く途中で\n　白い花が咲いた花畑をみた\n\n　ユウキが言うには、ここには伝説の\n　ゴーレムが現われるという言い伝えが\n　あるらしい",
   "en": "Enroute to Junk City, we came to\na field of white flowers.\n\nAccording to Yuki, a legendary Golem\ncould be found here.",
-  "zh": ""
+  "zh": "◆在前往废品城的途中，\n　看见了一片开满白花的花海\n\n　据勇树所说，这里流传着\n　会有传说中的魔像现身的传闻"
  },
  {
   "id": "OTHER/EVENT3.BIN/C20/0",
@@ -196863,7 +196863,7 @@
   "offset": "57A8",
   "jp": "◆ジャンクシティに到着\n　ユウキが、“魔導楽器”がどうとかいう\n　話を聞いてあわててどこかへ行って\n　しまった\n\n　仕方ないので、しばらく自由行動を\n　することになった",
   "en": "Once in Junk City, Yuki took off\nsomewhere, after hearing something\nabout \"magic instruments\".\n\nThat meant that we were all at loose\nends until she got back from wherever.",
-  "zh": ""
+  "zh": "◆抵达了废品城\n　勇树听说了一些关于“魔导乐器”的事情，\n　急急忙忙地不知道跑到哪里去了\n\n　没办法，大家只能暂时先各自自由行动了"
  },
  {
   "id": "OTHER/EVENT3.BIN/C21/0",
@@ -196872,7 +196872,7 @@
   "offset": "5854",
   "jp": "◆ユウキが一人で、ガラクタがたくさん\n　ある山のあたりで、突っ立っていた\n\n　なんか様子がおかしかったが\n　いったいどうしたんだろう・・・？",
   "en": "Yuki was standing atop a mound of junk.\n\nSomething didn't seem right, but I\ncouldn't tell what it might be.",
-  "zh": ""
+  "zh": "◆勇树一个人站在堆满垃圾的山头附近\n\n　总觉得样子有点奇怪，\n　到底怎么了呢……？"
  },
  {
   "id": "OTHER/EVENT3.BIN/C80/0",
@@ -196881,7 +196881,7 @@
   "offset": "58E4",
   "jp": "◆集合して、再び出発しようとしたときに\n　遠くでなにかさわぎが起こった\n\n　ちょっと見に行ってみることにした",
   "en": "We'd regrouped and were about to set out\nonce more when there was an uproar in\nthe distance.\n\nI decided to see what was happening.",
-  "zh": ""
+  "zh": "◆重新集合正准备再次出发时，\n　远处传来了骚动声。\n\n　决定过去看看到底怎么回事。"
  },
  {
   "id": "OTHER/EVENT3.BIN/C81/0",
@@ -196890,7 +196890,7 @@
   "offset": "5954",
   "jp": "◆さわぎを見に行ったところ、フバイル\n　という富豪の屋敷に泥棒が入ったらしい\n\n　見物していたら、ユウキが濡れ衣をきせ\n　られてフバイルに捕まってしまった",
   "en": "When I got there, I heard that someone\nhad broken into Fubial's manor, part of\nthe local upper crust.\n\nWhen Yuki went to see what was going on,\nshe was apprehended and falsely charged\nwith the crime.",
-  "zh": ""
+  "zh": "◆赶去看骚动时，听说好像是一个叫富拜尔的\n　富豪府邸进贼了。\n\n　正在围观时，勇树却被扣上莫须有的罪名，\n　被富拜尔抓了起来。"
  },
  {
   "id": "OTHER/EVENT3.BIN/C82/0",
@@ -196899,7 +196899,7 @@
   "offset": "59F2",
   "jp": "◆ユウキの濡れ衣を晴らすために\n　ジャンクシティの街で捜査を行うことに\n　なった\n\n　＜調査すべき項目＞\n　一、“被害者の証言”\n　二、“目撃情報”\n　三、“犯人の犯行動機”",
   "en": "It's up to me to investigate on the\nstreets of Junk City, in order to prove\nYuki innocent.\n\nInvestigation Checklist:\n1. The victim's statement\n2. Witness statements\n3. Motives for the break-in",
-  "zh": ""
+  "zh": "◆为了洗刷勇树的不白之冤，\n　决定在废品城的大街上展开调查。\n\n　＜需要调查的事项＞\n　一、“受害者的证言”\n　二、“目击情报”\n　三、“犯人的犯罪动机”"
  },
  {
   "id": "OTHER/EVENT3.BIN/C83/0",
@@ -196908,7 +196908,7 @@
   "offset": "5AA4",
   "jp": "◆捜査によって入手した情報は\n　整理すると以下の通り\n\n　＜犯人についての情報＞\n　＊身軽かつ地の利に明るい人間\n　＊伝説のゴーレムを欲しがっている\n　＊ツバのある帽子をかぶっていた\n\n◆情報を整理した結果、残念ながら\n　犯人がユウキである可能性が高いことが\n　わかった\n\n　ユウキの家を探ってみることになった",
   "en": "I uncovered the following information in\nthe course of my investigations:\n\nWitnesses said the following about the\nburglar:\nHe was athletic and familiar with the\nterritory;\nHe was after the legendary Golem; and\nHe wore a hat with a brim, or visor.\n\nNo matter how I look at it, this\ninformation strongly suggests that Yuki\ndid it.\n\nNow to search Yuki's residence.",
-  "zh": ""
+  "zh": "◆通过调查获得的情报，\n　整理如下：\n\n　＜关于犯人的情报＞\n　＊身手敏捷且熟悉地形的人\n　＊想要传说中的魔像\n　＊戴着有帽檐的帽子\n\n◆整理情报后的结果，很遗憾，\n　犯人是勇树的可能性极高。\n\n　决定去勇树家搜查一番看看。"
  },
  {
   "id": "OTHER/EVENT3.BIN/C84/0",
@@ -196917,7 +196917,7 @@
   "offset": "5BDE",
   "jp": "◆ユウキの家を捜査し、“ゴーレム笛”を\n　発見した\n　やはり、犯人はユウキということか・・・\n\n　それにしても、オレに似たヤツが\n　写っている写真があったが、あれは\n　誰だったんだろう？\n\n◆見つけた“ゴーレム笛”は\n　元の持ち主であるジャンクあさりの坊主に\n　返すことにした",
   "en": "A search of Yuki's residence turned up\nthe Golem Flute.\nLooks like she really did do it.\n\nBut I also found a picture of someone\nwho looks like me. I can't help\nwondering who that is.\n\nI decided to return the Golem Flute to\nits rightful owner, the junk digger boy.",
-  "zh": ""
+  "zh": "◆搜查勇树家时，发现了“魔像之笛”。\n　果然犯人就是勇树吗……\n\n　话虽如此，家里却摆着一张拍着\n　长得很像我的家伙的照片，那到底\n　是谁啊？\n\n◆决定把找到的“魔像之笛”\n　还给原主人——那个捡破烂的小子。"
  },
  {
   "id": "OTHER/EVENT3.BIN/C85/0",
@@ -196926,7 +196926,7 @@
   "offset": "5CF6",
   "jp": "◆ジャンクあさりの坊主にゴーレム笛を\n　返した",
   "en": "I returned the Golem Flute to the junk\ndigger boy.",
-  "zh": ""
+  "zh": "◆把魔像之笛还给了捡破烂的小子。"
  },
  {
   "id": "OTHER/EVENT3.BIN/CE4/0",
@@ -196935,7 +196935,7 @@
   "offset": "5D28",
   "jp": "◆ユウキを助けるために\n　フバイルの家に乗り込むことになった",
   "en": "Then I assaulted Fubial's residence\nto get Yuki out.",
-  "zh": ""
+  "zh": "◆为了营救勇树，\n　决定硬闯富拜尔的宅邸。"
  },
  {
   "id": "OTHER/EVENT3.BIN/CE5/0",
@@ -196944,7 +196944,7 @@
   "offset": "5D68",
   "jp": "◆フバイルを倒した！",
   "en": "I took Fubial down!",
-  "zh": ""
+  "zh": "◆打倒了富拜尔！"
  },
  {
   "id": "OTHER/EVENT3.BIN/CE6/0",
@@ -196953,7 +196953,7 @@
   "offset": "5D80",
   "jp": "◆ユウキを助けようとフバイルの家の中に\n　入ったが、ユウキはゴーレム笛を返した\n　ことに怒ってとびだしていった",
   "en": "Despite the fact that I broke in to\nFubial's residence to rescue her, Yuki\nchewed me out for giving back the Golem\nFlute, and ran off.",
-  "zh": ""
+  "zh": "◆本想救出勇树而冲进了富拜尔家，\n　但勇树却因为把魔像之笛还回去的事大发雷霆，\n　直接飞奔了出去。"
  },
  {
   "id": "OTHER/EVENT3.BIN/D48/0",
@@ -196962,7 +196962,7 @@
   "offset": "5DF2",
   "jp": "◆ユウキは、たぶん、ゴーレム笛を\n　取り返すために、ジャンクあさりの\n　坊主のところへ行ったはずだ",
   "en": "I figured she'd gone to find the junk\ndigger boy, to try and get the\nGolem Flute back.",
-  "zh": ""
+  "zh": "◆勇树大概是为了把魔像之笛\n　抢回来，跑去那个捡破烂的\n　小子那里了吧。"
  },
  {
   "id": "OTHER/EVENT3.BIN/D49/0",
@@ -196971,7 +196971,7 @@
   "offset": "5E58",
   "jp": "◆ユウキからユウキの兄貴が事故で\n　死んでしまった話を聞いた\n\n◆ユウキは、ゴーレム笛を奪ったあと\n　ジャンクシティの出口へと走っていった\n\n　たぶん、白い花畑で伝説のゴーレムを\n　呼び出す気だ\n　ユウキを追わなきゃ！",
   "en": "Yuki told me how her brother died\nin an accident.\n\nYuki headed for the gates of Junk City\nonce she stole the Golem Flute.\n\nI bet she's going to the field of white\nflowers,  to summon the legendary Golem.\nI've got to stop her!",
-  "zh": ""
+  "zh": "◆从勇树那里听说了她哥哥因事故\n　丧生的事。\n\n◆勇树夺走魔像之笛后，\n　朝着废品城的出口跑去了。\n\n　大概是想在白色花海召唤传说中的魔像。\n　得赶紧追上勇树！"
  },
  {
   "id": "OTHER/EVENT3.BIN/D4A/0",
@@ -196980,7 +196980,7 @@
   "offset": "5F36",
   "jp": "◆ユウキが伝説のゴーレムに襲われていた\n　ところに助けにはいった",
   "en": "I showed up just as the legendary Golem\nattacked Yuki.",
-  "zh": ""
+  "zh": "◆在勇树遭到传说中的魔像袭击时\n　赶到救下了她。"
  },
  {
   "id": "OTHER/EVENT3.BIN/D4B/0",
@@ -196989,7 +196989,7 @@
   "offset": "5F7A",
   "jp": "◆伝説のゴーレムを倒した\n\n◆ユウキを説得して、ゴーレム笛を\n　ジャンクあさりの坊主のところへ返しに\n　いくことになった",
   "en": "I took the legendary Golem down.\n\nThen I persuaded Yuki to return the\nGolem Flute to the junk digger boy.",
-  "zh": ""
+  "zh": "◆打倒了传说中的魔像。\n\n◆说服了勇树，\n　决定去把魔像之笛还给捡破烂的小子。"
  },
  {
   "id": "OTHER/EVENT3.BIN/D4C/0",
@@ -196998,7 +196998,7 @@
   "offset": "5FF6",
   "jp": "◆ジャンクあさりの坊主が\n　“形見の笛なんて、霊感が強いから\n　　受け取れない”と言った\n\n　なので、結局、ゴーレム笛はユウキが\n　持っていることになった\n\n　一件落着！",
   "en": "But the junk digger boy said,\n\"It is a keepsake, and as such, carries\nstrong impressions. Therefore, I cannot\naccept it.\"\n\nSo Yuki ended up keeping the Golem Flute\nafter all.\n\nCase closed.",
-  "zh": ""
+  "zh": "◆捡破烂的小子说：\n　“既然是遗物笛子，通灵感应太强了，\n　　我可不敢收。”\n\n　所以结果魔像之笛就由勇树保管了。\n\n　总算圆满解决！"
  },
  {
   "id": "OTHER/EVENT3.BIN/D4D/0",
@@ -197007,7 +197007,7 @@
   "offset": "60A4",
   "jp": "◆一件落着したところで、金髪が現われた\n　金髪はキョウトシティに行って、早く\n　秘術を学んでくるようにと言ってきた\n\n　言われなくても分かってる・・・っての\n\n　ホントにアイツは神出鬼没だな・・・",
   "en": "At that point, the Blond Man showed up\nand told me to get to Kyoto City and\nlearn the secret art.\n\nI was about to say, I know already,\nwhen--\n\nHe vanished. I really hate that.",
-  "zh": ""
+  "zh": "◆刚解决完事情，金发男就现身了。\n　金发男让我们赶紧前往京都城\n　习得秘术。\n\n　这种事不用你说我也知道……真是的。\n\n　那家伙还真是神出鬼没啊……"
  },
  {
   "id": "OTHER/EVENT3.BIN/DAC/0",
@@ -197016,7 +197016,7 @@
   "offset": "616C",
   "jp": "◆改めて、キョウトシティへ向かうことに\n　なった",
   "en": "So we got back on the road to\nKyoto City.",
-  "zh": ""
+  "zh": "◆重新整顿后，再次向京都城出发。"
  },
  {
   "id": "OTHER/EVENT3.BIN/DAD/0",
@@ -197025,7 +197025,7 @@
   "offset": "61A0",
   "jp": "◆キョウトシティ近くの湖畔で、女剣士が\n　黒ずくめのヤツらに襲われていた\n\n　助けにいこう！",
   "en": "We came upon a swordswoman under attack\nfrom men dressed in black from head to\ntoe, on the shore of a lake near Kyoto\nCity.\n\nNaturally, we went to her aid.",
-  "zh": ""
+  "zh": "◆在京都城附近的湖畔，有一名女剑士\n　正遭到一群黑衣人的袭击。\n\n　去救她！"
  },
  {
   "id": "OTHER/EVENT3.BIN/DAE/0",
@@ -197034,7 +197034,7 @@
   "offset": "6200",
   "jp": "◆黒ずくめのヤツらをやっつけた！\n\n◆助けた女剣士はサヤカさんという人で\n　なんと、ライガさんの婚約者だった\n　ことがわかった",
   "en": "We took out the men in black!\n\nThe swordswoman's name was Sayaka.\nNot only that, but she was also engaged\nto marry Raigar, at one time.",
-  "zh": ""
+  "zh": "◆打倒了那群黑衣人！\n\n◆救下的女剑士名叫小夜香，\n　没想到竟然是莱加先生的未婚妻。"
  },
  {
   "id": "OTHER/EVENT3.BIN/E10/0",
@@ -197043,7 +197043,7 @@
   "offset": "6282",
   "jp": "◆サヤカさんと話していたら、急に右腕が\n　共鳴をはじめた\n\n　キョウトシティにクイーンオブアイスが\n　現われたのかもしれない\n　確かめに行くぞ！",
   "en": "As I spoke with Sayaka, my right arm\nsuddenly began to resonate.\n\nThis means the Queen of Ice might be\nin Kyoto City.\nI've got to find out!",
-  "zh": ""
+  "zh": "◆正在和小夜香小姐说话时，右臂突然\n　开始共鸣。\n\n　说不定是冰之女王在京都城现身了。\n　去确认一下！"
  },
  {
   "id": "OTHER/EVENT3.BIN/E11/0",
@@ -197052,7 +197052,7 @@
   "offset": "6316",
   "jp": "◆キョウトシティ前の城門まできたが\n　クイーンオブアイスは、すでに去ったあと\n　だったようだ\n\n　目撃情報などを確かめたかったが\n　キョウトシティは封鎖中だと言われて\n　通してもらえなかった・・・",
   "en": "By the time I reached the castle gates\nof Kyoto City, it looked as though the\nQueen of Ice had already come and gone.\n\nI tried to get eyewitness statements,\nbut the city was in lockdown mode,\nand wouldn't let us in.",
-  "zh": ""
+  "zh": "◆来到了京都城前的城门前，\n　但冰之女王似乎已经离开了。\n\n　虽然想确认目击情报，\n　但对方说京都城正处于封锁中，\n　不肯放我们进去……"
  },
  {
   "id": "OTHER/EVENT3.BIN/E74/0",
@@ -197061,7 +197061,7 @@
   "offset": "63DE",
   "jp": "◆キョウトシティには入れないようなので\n　今晩はサヤカさんの里に泊めてもらい\n　また明日来ることにした",
   "en": "Unable to get in to Kyoto City, we opted\ninstead to spend the night in Sayaka's\nvillage, and try again tomorrow.",
-  "zh": ""
+  "zh": "◆既然进不去京都城，\n　今晚就借宿在小夜香小姐的故乡，\n　明天再来吧。"
  },
  {
   "id": "OTHER/EVENT3.BIN/E75/0",
@@ -197070,7 +197070,7 @@
   "offset": "6448",
   "jp": "◆サヤカさんの住むイワトの里に到着！\n\n　のどかでいい感じのところだ\n　カリンがやけに気に入っている",
   "en": "We arrived at Sayaka's village of Iwato.\n\nIt was a peaceful, tranquil place.\nKarin was especially fond of it.",
-  "zh": ""
+  "zh": "◆抵达了小夜香小姐居住的岩户之里！\n\n　真是个宁静惬意的好地方。\n　卡琳似乎格外中意这里。"
  },
  {
   "id": "OTHER/EVENT3.BIN/E76/0",
@@ -197079,7 +197079,7 @@
   "offset": "64B0",
   "jp": "◆サヤカさんのお父さん・・・ジョセイさん\n　に紹介してもらい、秘術を習得するための\n　手掛かりを教えてもらった\n\n　修験場の“シュゲンジャ”ならば\n　なにか知っているかもしれないそうだ\n\n　修験場に行くには、キョウト城にいる\n　ショウグンの許可がいるらしい",
   "en": "Josei, Sayaka's father, met us, and gave\nme a hint about how to acquire the\nsecret art.\n\nHe told me that the Ascetic Monk in the\nAscetic Court might be able to point me\nin the right direction.\n\nBut I'd need permission from the Shogun\nof Kyoto Castle to get to the Ascetic\nCourt.",
-  "zh": ""
+  "zh": "◆经由小夜香小姐引荐见到了她父亲……常清先生，\n　他告诉了我们习得秘术的线索。\n\n　听说修验场的“修验者”\n　或许会知道些什么。\n\n　不过要去修验场，似乎需要京都城\n　将军的许可。"
  },
  {
   "id": "OTHER/EVENT3.BIN/E77/0",
@@ -197088,7 +197088,7 @@
   "offset": "65B4",
   "jp": "◆ジョセイさんにいろいろ説明してもらった\n　あとに、しばらく自由行動になった\n\n　さっき、ジョセイさんがやけに、ライガさ\n　んにつらくあたっていたのが気になる\n\n　ちょっと理由を聞いてみようかな・・・",
   "en": "Josei told me all kinds of things.\nAfterward, we were on our own for a\nwhile.\n\nI was worried about the way in which\nJosei really lit into Raigar.\n\nSo I figured I'd try to find out why.",
-  "zh": ""
+  "zh": "◆听常清先生讲解完各种事情后，\n　暂时进入了自由行动时间。\n\n　刚才常清先生对莱加先生的态度格外刻薄，\n　让人有点在意。\n\n　去问问其中的原因吧……"
  },
  {
   "id": "OTHER/EVENT3.BIN/E78/0",
@@ -197097,7 +197097,7 @@
   "offset": "6680",
   "jp": "◆ライガさんに話を聞いたところ、ジョセイ\n　さんがライガさんを嫌っているのは、以前\n　あったロンドンシティとキョウトシティの\n　戦争のせいらしい\n\n　詳しい事情は知らないけれど、なんとか\n　ライガさんが許してもらえるといいな",
   "en": "When I asked, Raigar said that Josei\nhated him because of a past conflict\nbetween London City and Kyoto City.\n\nI don't know the whole story, but I\nhope Josei will stop blaming Raigar.",
-  "zh": ""
+  "zh": "◆向莱加先生打听后得知，常清先生讨厌\n　莱加先生，似乎是因为以前伦敦城\n　与京都城之间爆发的战争。\n\n　虽然详细情况不太清楚，但要是能让\n　莱加先生得到原谅就好了。"
  },
  {
   "id": "OTHER/EVENT3.BIN/E79/0",
@@ -197106,7 +197106,7 @@
   "offset": "6764",
   "jp": "◆寝床の準備ができたが、ジョセイさんの\n　言いつけでライガさんは物置で寝ること\n　になった\n\n　ひどい扱いだ・・・",
   "en": "As we were getting ready for bed,\nJosei made Raigar sleep in the\nstoreroom.\n\nThat was just mean.",
-  "zh": ""
+  "zh": "◆铺好了被褥，但在常清先生的\n　吩咐下，莱加先生只得睡在储物间里。\n\n　这待遇也太惨了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/E7A/0",
@@ -197115,7 +197115,7 @@
   "offset": "67DA",
   "jp": "◆夜中に目が覚めて、外に出たところ\n　ライガさんとサヤカさんが、二人で\n　重たい話をしていた\n\n　・・・うーむ、大人って感じだ",
   "en": "I woke up in the middle of the night\nand went outside, where I spotted\nRaigar and Sayaka talking in what\nseemed a pretty serious manner.\n\nThey looked really grown up to me.",
-  "zh": ""
+  "zh": "◆半夜醒来走到外面，\n　看到莱加先生和小夜香小姐两个人\n　正在聊着沉重的话题。\n\n　……唔，真有大人的感觉啊。"
  },
  {
   "id": "OTHER/EVENT3.BIN/ED8/0",
@@ -197124,7 +197124,7 @@
   "offset": "685C",
   "jp": "◆夜が明けて、キョウトシティへ向かう\n　ことになった\n\n　サヤカさんが、先に行ってショウグンと\n　約束をとりつけて、キョウト城の城門の\n　あたりで待っていてくれるらしい",
   "en": "At dawn, we headed to Kyoto City once\nmore.\n\nSayaka went ahead to make an appointment\nwith the Shogun for us and would be\nwaiting for us at the gates of Kyoto\nCastle.",
-  "zh": ""
+  "zh": "◆天亮后，决定启程前往京都城。\n\n　小夜香小姐先一步前去与将军定下会面之约，\n　听说会在京都城的城门附近等我们。"
  },
  {
   "id": "OTHER/EVENT3.BIN/ED9/0",
@@ -197133,7 +197133,7 @@
   "offset": "6908",
   "jp": "◆サヤカさんの案内でショウグンと\n　面会した\n\n　ショウグンは、とても、フユカイな\n　ヤツだったが、とにかく、修験場へ行く\n　許可がもらえた",
   "en": "We met with the Shogun, thanks to\nSayaka's introduction.\n\nThe Shogun was a really unlikable\nso-and-so, but he gave us permission to\ngo to the Ascetic Court, which is what\nmattered.",
-  "zh": ""
+  "zh": "◆在小夜香小姐的引荐下与将军会面了。\n\n　将军虽然是个让人非常不爽的\n　家伙，但不管怎样，总算拿到了前往修验场的\n　许可。"
  },
  {
   "id": "OTHER/EVENT3.BIN/F3C/0",
@@ -197142,7 +197142,7 @@
   "offset": "6998",
   "jp": "◆修験場への山門を開けるためのカギは\n　キョウトシティの大通りの途中で\n　南に入ったところにある、お寺に安置\n　されているらしい",
   "en": "The key to the Ascetic Court gates\nwas in a temple just off the main road\nof Kyoto City, heading for the southern\npart of town.",
-  "zh": ""
+  "zh": "◆打开修验场山门的钥匙，\n　似乎供奉在京都城主干道中途\n　往南走的一座寺庙里。"
  },
  {
   "id": "OTHER/EVENT3.BIN/F3D/0",
@@ -197151,7 +197151,7 @@
   "offset": "6A1C",
   "jp": "◆お寺の中で、カギを入手したが\n　カリンがとつぜん現われたニンジャ軍団\n　にさらわれてしまった",
   "en": "I got the key from the temple, only to\nhave a band of ninja suddenly pop up\nand kidnap Karin.",
-  "zh": ""
+  "zh": "◆虽然在寺庙中拿到了钥匙，\n　但卡琳却被突然出现的忍者军团\n　给掳走了。"
  },
  {
   "id": "OTHER/EVENT3.BIN/FA0/0",
@@ -197160,7 +197160,7 @@
   "offset": "6A7E",
   "jp": "◆ライガさんが言うには、カリンを\n　さらったニンジャたちは、川の向こうに\n　ある門の方へ逃げていったらしい",
   "en": "According to Raigar, the ninja who\nabducted Karin fled toward a gate on the\nfar side of the river.",
-  "zh": ""
+  "zh": "◆据莱加先生所说，抓走卡琳的\n　忍者们似乎朝着河对岸的门方向逃去了。"
  },
  {
   "id": "OTHER/EVENT3.BIN/FA1/0",
@@ -197169,7 +197169,7 @@
   "offset": "6AEC",
   "jp": "◆ニンジャ屋敷に潜入した",
   "en": "We stole into the Ninja Hideout.",
-  "zh": ""
+  "zh": "◆潜入了忍者宅邸。"
  },
  {
   "id": "OTHER/EVENT3.BIN/FA2/0",
@@ -197178,7 +197178,7 @@
   "offset": "6B08",
   "jp": "◆ニンジャ屋敷の地下にとらわれていた\n　カリンを助け出した",
   "en": "There, we found Karin in the cellar,\nand rescued her.",
-  "zh": ""
+  "zh": "◆救出了被囚禁在忍者宅邸地下的卡琳。"
  },
  {
   "id": "OTHER/EVENT3.BIN/FA3/0",
@@ -197187,7 +197187,7 @@
   "offset": "6B46",
   "jp": "◆カリンを助けたあと、襲ってきたニンジャ\n　の頭、オボロを撃退した",
   "en": "I repelled Oboro, the ninja boss,\nonce Karin was safe.",
-  "zh": ""
+  "zh": "◆救出卡琳之后，击退了前来袭击的忍者\n　头领胧"
  },
  {
   "id": "OTHER/EVENT3.BIN/1004/0",
@@ -197196,7 +197196,7 @@
   "offset": "6B8C",
   "jp": "◆カリンをさらったオボロっていうニンジャ\n　は、トキムネの配下らしい\n　\n　トキムネとオボロの関係をさぐるために\n　キョウト城へトキムネをといつめにいく\n　ことになった",
   "en": "Oboro, the ninja who abducted Karin,\nturned out to be an agent of Tokimune.\n\nNow it's back to Kyoto Castle, to\ninterrogate Tokimune about his\nconnection to Oboro.",
-  "zh": ""
+  "zh": "◆绑架卡琳的那个叫胧的忍者，\n　似乎是时宗的部下。\n　\n　为了查明时宗与胧的关系，\n　我们决定前往京都城质问时宗"
  },
  {
   "id": "OTHER/EVENT3.BIN/1005/0",
@@ -197205,7 +197205,7 @@
   "offset": "6C38",
   "jp": "◆トキムネをといつめにいき、こらしめよう\n　としたが、サヤカさんに止められてしまっ\n　た\n　\n　しかも、怒ったトキムネによって、修験場\n　へ行くことを禁じられてしまった",
   "en": "As I was on my way to interrogate\nTokimune, Sayaka stopped me.\n\nNot only that, but Tokimune, enraged,\nforbade me permission to go to the\nAscetic Court.",
-  "zh": ""
+  "zh": "◆我们前去质问时宗，本想好好教训他一顿，\n　却被小夜香小姐拦下了。\n　\n　而且，恼羞成怒的时宗还下令\n　禁止我们前往修验场"
  },
  {
   "id": "OTHER/EVENT3.BIN/1068/0",
@@ -197214,7 +197214,7 @@
   "offset": "6CE4",
   "jp": "◆謹慎を命じられたサヤカさんは\n　トキムネの命令通り、オレたちが修験場に\n　行くのを許さないといい\n　里に帰っていった\n\n　サヤカさんを説得して修験場に通してもら\n　うために、イワトの里に行くことになった",
   "en": "Ordered by Tokimune to keep us under\nguard, Sayaka obediently told us she\nwould not let us near the Ascetic\nCourt. With that, she returned to her\nvillage.\n\nSo I had to go follow her to Iwato and\npersuade her to let us go to the Ascetic\nCourt, somehow.",
-  "zh": ""
+  "zh": "◆被勒令闭门思过的小夜香小姐表示，\n　她必须遵从时宗的命令，绝不允许我们去\n　修验场，说完便回村子去了。\n\n　为了说服小夜香小姐放我们前往修验场，\n　我们决定前往岩户之里"
  },
  {
   "id": "OTHER/EVENT3.BIN/1069/0",
@@ -197223,7 +197223,7 @@
   "offset": "6DB4",
   "jp": "◆サヤカさんを説得するために、屋敷にいっ\n　たが、サヤカさんは留守だった\n　仕方ないので、そのまま修験場に向かうこ\n　とになった\n　\n　修験場へつながる門の封印は、門の前にあ\n　る祠の中で、“修験場のカギ”を使えば\n　とけるはずだ",
   "en": "I went to Sayaka's house to talk to her,\nbut she wasn't there. So I had no choice\nbut to go to the Ascetic Court on my own\ninitiative.\n\nThe lock on the Ascetic Court gate was\nin a small shrine in front of those very\ngates. The Ascetic Court key would\nunlock it.",
-  "zh": ""
+  "zh": "◆为了说服小夜香小姐，我们去了她的宅邸，\n　但她人却不在。\n　没办法，只能直接前往修验场了。\n　\n　通往修验场大门的封印，只要在门前的\n　祠堂里使用“修验场钥匙”，\n　应该就能解开了"
  },
  {
   "id": "OTHER/EVENT3.BIN/106A/0",
@@ -197232,7 +197232,7 @@
   "offset": "6E9E",
   "jp": "◆祠の中で“修験場のカギ”を使って、門の\n　封印をといた",
   "en": "So I put the Ascetic Court key in the\nsmall shrine, and the gates opened.",
-  "zh": ""
+  "zh": "◆在祠堂中使用“修验场钥匙”，解开了\n　大门的封印"
  },
  {
   "id": "OTHER/EVENT3.BIN/106B/0",
@@ -197241,7 +197241,7 @@
   "offset": "6EDA",
   "jp": "◆修験場へつながる山門の前で、サヤカさん\n　が現われた\n　サヤカさんはトキムネの命令にそむくこと\n　はできないと言い、やむなく戦いになった",
   "en": "Then Sayaka confronted me at the Ascetic\nCourt gates. She said she could not go\nagainst Tokimune's orders, and thus, we\nhad no choice but to fight.",
-  "zh": ""
+  "zh": "◆在通往修验场的山门前，小夜香小姐\n　现身了。\n　小夜香小姐称自己无法违抗时宗的命令，\n　双方迫不得已大打出手"
  },
  {
   "id": "OTHER/EVENT3.BIN/106C/0",
@@ -197250,7 +197250,7 @@
   "offset": "6F68",
   "jp": "◆サヤカさんを倒した・・・\n　そして、修験場に向かうことになった",
   "en": "I took Sayaka down... Then I entered\nthe Ascetic Court.",
-  "zh": ""
+  "zh": "◆打倒了小夜香小姐……\n　接下来，我们要前往修验场了"
  },
  {
   "id": "OTHER/EVENT3.BIN/10CC/0",
@@ -197259,7 +197259,7 @@
   "offset": "6FAC",
   "jp": "◆サヤカさんを倒したあと、修験場に入った\n　“シュゲンジャ”は、修験場のどこかにい\n　るはず\n　とりあえず、山をのぼっていこう",
   "en": "After I defeated Sayaka, I entered the\nAscetic Court.\nI knew the Ascetic Monk would be in\nthere somewhere.\nI decided to start my search by\nclimbing the mountain.",
-  "zh": ""
+  "zh": "◆打倒小夜香小姐后，进入了修验场。\n　“修验者”应该就在修验场的某处。\n　总之，先往山上走吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/10CD/0",
@@ -197268,7 +197268,7 @@
   "offset": "702E",
   "jp": "◆変わった形の岩の上に、人影が見えた\n　あれがシュゲンジャかもしれない\n　行ってみよう",
   "en": "I saw a human form atop an oddly-shaped\nrock. Thinking it might be the Ascetic\nMonk, I went to have a look.",
-  "zh": ""
+  "zh": "◆在奇形怪状的岩石上方，看到了一个人影。\n　那人可能就是修验者。\n　过去看看吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/10CE/0",
@@ -197277,7 +197277,7 @@
   "offset": "7088",
   "jp": "◆シュゲンジャにあって、事情を説明したあ\n　と、秘術の修行を受けることになった\n　詳しい修行の内容は、準備ができたあとに\n　してくれるらしい\n　\n　準備ができたら、岩の上にいるシュゲン\n　ジャのところへ行こう",
   "en": "Once I found the Ascetic Monk, I\nexplained my circumstances to him, and\nhe agreed to teach me the secret art.\nHe said he would give me the full\ntraining once preparations were in\nplace.\n\nSo, once the preparations were\ncompleted, I went up the rock to see\nthe Ascetic Monk.",
-  "zh": ""
+  "zh": "◆见到修验者并说明事情原委后，\n　他同意传授我们秘术并进行修行。\n　至于详细的修行内容，似乎等准备就绪\n　之后才会告诉我们。\n　\n　准备好后，就去岩石上的修验者那里吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/1130/0",
@@ -197286,7 +197286,7 @@
   "offset": "715C",
   "jp": "◆シュゲンジャから修行の詳しい内容を\n　聞いた\n　秘術の習得のための修行とは、砦将の社に\n　あるコアマテリアルを取ってくることだ",
   "en": "The Ascetic Monk told me what's involved\nin the training. To acquire the secret\nart, I would have to get the Core\nMaterial from the Lord of Earth's\nShrine.",
-  "zh": ""
+  "zh": "◆向修验者打听了修行的详细内容。\n　习得秘术的修行，就是去将砦将之祠里\n　的核心材料取回来"
  },
  {
   "id": "OTHER/EVENT3.BIN/1131/0",
@@ -197295,7 +197295,7 @@
   "offset": "71E0",
   "jp": "◆右腕の力をなんとかおさえこんで、砦将\n　のいる台座から、コアマテリアルを手に\n　入れた！\n　\n　あとは、これを持ってシュゲンジャのと\n　ころへ戻ればいいだけだ",
   "en": "I got the Core Material from the Lord of\nEarth's pedestal, somehow keeping the\npower of my right arm under control in\nthe process.\n\nNow all I have to do is get back to\nthe Ascetic Monk, who is waiting for me.",
-  "zh": ""
+  "zh": "◆总算压制住了右臂的力量，成功从砦将\n　所在的基座上取得了核心材料！\n　\n　接下来，只要带着这个回到修验者那里\n　就行了"
  },
  {
   "id": "OTHER/EVENT3.BIN/1132/0",
@@ -197304,7 +197304,7 @@
   "offset": "7284",
   "jp": "◆シュゲンジャのところへ戻った\n　特に外見に変わりはないが、“静”を\n　習得できたらしい\n　　\n　シュゲンジャがいうには、“静”と\n　対になる“発”という秘術もあるらしい\n　“発”は、“静”で律した力を\n　解き放つ秘術だそうだ\n\n　なんだか、分かったような分からない\n　ような話だが\n　いつかは使えるようになるのだろうか？",
   "en": "So I went back to the Ascetic Monk. He\ndidn't seem all that different, but he\nappeared to have achieved a quality that\nyou might call the \"Gaea\".\n\nHe said that the counterpart to the\n\"Gaea\" was a secret art called the\n\"Fury\", and that the power of the\n\"Gaea\" would be released by the\n\"Fury\".\n\nI don't pretend to completely understand\nwhat he said, but I hope these words\nwill be of some use at some point.",
-  "zh": ""
+  "zh": "◆回到了修验者那里。\n　虽然外表看不出什么变化，但似乎已经\n　习得了“静”。\n　　\n　据修验者所言，还有一种与“静”\n　成对的秘术叫做“发”。\n　据说“发”是将通过“静”所约束的力量\n　释放出来的秘术。\n\n　虽然听起来似懂非懂的，\n　但有朝一日自己也能运用自如吗？"
  },
  {
   "id": "OTHER/EVENT3.BIN/1194/0",
@@ -197313,7 +197313,7 @@
   "offset": "73CA",
   "jp": "◆イワトの里に戻ると、里がニンジャ\n　軍団の襲撃を受けていた",
   "en": "Back at Iwato, I found the village under\nattack by ninja in force.",
-  "zh": ""
+  "zh": "◆回到岩户之里后，发现村子正遭到忍者\n　军团的袭击"
  },
  {
   "id": "OTHER/EVENT3.BIN/1195/0",
@@ -197322,7 +197322,7 @@
   "offset": "740A",
   "jp": "◆オボロ率いる、ニンジャ軍団を倒して\n　サヤカさんを助けたが\n　サヤカさんは傷を負って倒れて\n　しまった・・・",
   "en": "I took out Oboro and his ninja, thus\nrescuing Sayaka, but she was also\ndowned herself with injuries.",
-  "zh": ""
+  "zh": "◆虽然打倒了胧率领的忍者军团，\n　救出了小夜香小姐，\n　但小夜香小姐却身负重伤倒下了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/11F8/0",
@@ -197331,7 +197331,7 @@
   "offset": "747C",
   "jp": "◆オボロの言葉から、トキムネが砦将を\n　復活させようとしていることが判明した\n　ため、トキムネを止めるために\n　キョウト城へ向かうことになった",
   "en": "Oboro confessed that Tokimune meant to\nrestore the Lord of Earth. So it's\nanother trip to Kyoto Castle, this time\nto stop Tokimune.",
-  "zh": ""
+  "zh": "◆从胧的话中得知，时宗企图复活砦将。\n　为了阻止时宗，\n　我们决定前往京都城"
  },
  {
   "id": "OTHER/EVENT3.BIN/11F9/0",
@@ -197340,7 +197340,7 @@
   "offset": "750E",
   "jp": "◆金髪の助けを借りて、キョウト城に\n　潜入成功！",
   "en": "With help from the Blond Man, I sneak\ninto Kyoto Castle!",
-  "zh": ""
+  "zh": "◆借助金发男子的帮助，成功潜入京都城！"
  },
  {
   "id": "OTHER/EVENT3.BIN/11FA/0",
@@ -197349,7 +197349,7 @@
   "offset": "7542",
   "jp": "◆謁見の間で、トキムネと、トキムネ\n　率いる親衛隊を倒したが、逃げられて\n　しまった",
   "en": "I defeated Tokimune and his palace\nguards in the Audience Room, only\nto let Tokimune get away.",
-  "zh": ""
+  "zh": "◆在觐见之厅打倒了时宗以及他率领的\n　亲卫队，但还是被他逃跑了"
  },
  {
   "id": "OTHER/EVENT3.BIN/11FB/0",
@@ -197358,7 +197358,7 @@
   "offset": "759A",
   "jp": "◆抜け道を抜けた先で、トキムネの死体を\n　発見\n\n　金髪が言うには、トキムネを殺したのは\n　オボロらしい",
   "en": "Down a secret passage, I came across\nTokimune's corpse.\n\nThe Blond Man said that Oboro killed\nTokimune.",
-  "zh": ""
+  "zh": "◆穿过密道后，在前方发现了时宗的尸体。\n\n　据金发男子所说，杀死时宗的似乎是胧"
  },
  {
   "id": "OTHER/EVENT3.BIN/11FC/0",
@@ -197367,7 +197367,7 @@
   "offset": "7606",
   "jp": "◆砦将の社にかけつけると、そこには\n　クイーンオブアイスとトウヤがいた\n\n　砦将にはすでに魔導器がはめられて\n　おり、砦将が復活してしまった！",
   "en": "I charged back to the Lord of Earth's\nShrine, only to find myself\nface-to-face with the Queen of Ice and\nToya.\n\nThey'd already implanted the Magicore\ninto the Lord of Earth!\n\nIt was fully reactivated!",
-  "zh": ""
+  "zh": "◆赶到砦将之祠时，冰之女王和托亚\n　就在那里。\n\n　砦将身上已被嵌入了魔导器，\n　砦将复活了！"
  },
  {
   "id": "OTHER/EVENT3.BIN/11FD/0",
@@ -197376,7 +197376,7 @@
   "offset": "7698",
   "jp": "◆なんとか砦将を撃退した\n　“静”を使って右腕の力をコントロール\n　して砦将を吸収した",
   "en": "Somehow, I defeated the Lord of Earth.\nI used the power of the \"Still\" to\ncontrol the power of my right arm, and\nthus, absorbed the Lord of Earth.",
-  "zh": ""
+  "zh": "◆总算击退了砦将。\n　使用“静”控制住右臂的力量，\n　将砦将吸收了"
  },
  {
   "id": "OTHER/EVENT3.BIN/125C/0",
@@ -197385,7 +197385,7 @@
   "offset": "76F2",
   "jp": "【第五章プロローグ】ダミー",
   "en": "Part V: Prologue Dummy Text",
-  "zh": ""
+  "zh": "【第五章序幕】占位文本"
  },
  {
   "id": "OTHER/EVENT3.BIN/12C0/0",
@@ -197394,7 +197394,7 @@
   "offset": "7710",
   "jp": "◆トウヤを救うための相談をしたが\n　“魔導器であるトウヤを殺すべき”と\n　いう案しか出なかった",
   "en": "I talked with the Ascetic Monk about how\nto save Toya, but the only idea that\ncame up was killing him, because he was\na Magicore himself.",
-  "zh": ""
+  "zh": "◆商量了拯救托亚的方法，但最终大家只提\n　出了“应该杀掉作为魔导器的托亚”\n　这一方案"
  },
  {
   "id": "OTHER/EVENT3.BIN/12C1/0",
@@ -197403,7 +197403,7 @@
   "offset": "7772",
   "jp": "◆シュゲンジャの忠告で、右腕の力を\n　クイーンオブアイスに使うと\n　トウヤが死んでしまうことがわかった",
   "en": "The Ascetic Monk warned me that Toya\nwould die if I used the power of my\nright arm on the Queen of Ice.",
-  "zh": ""
+  "zh": "◆听从修验者的忠告，得知如果对冰之女王\n　使用右臂力量的话，\n　托亚就会丧命"
  },
  {
   "id": "OTHER/EVENT3.BIN/12C2/0",
@@ -197412,7 +197412,7 @@
   "offset": "77DC",
   "jp": "◆賢者の塔の賢者に知恵を借りることに\n　なった",
   "en": "My next stop was the Sage's Tower,\nto gain the wisdom of the Sage.",
-  "zh": ""
+  "zh": "◆决定前往贤者之塔，向贤者求教"
  },
  {
   "id": "OTHER/EVENT3.BIN/1324/0",
@@ -197421,7 +197421,7 @@
   "offset": "780E",
   "jp": "◆賢者の塔は、砂漠の北にある火山道を\n　抜けたところにあるらしい",
   "en": "The Sage's Tower was down the Volcanic\nPath, to the north of the desert.",
-  "zh": ""
+  "zh": "◆贤者之塔似乎穿过沙漠北方的火山道\n　就到了"
  },
  {
   "id": "OTHER/EVENT3.BIN/1325/0",
@@ -197430,7 +197430,7 @@
   "offset": "7852",
   "jp": "◆火山道へつながる道の途中をがれきが\n　ふさいでいた",
   "en": "The road to the Volcanic Path was\nblocked with rubble.",
-  "zh": ""
+  "zh": "◆通往火山道的半路上被瓦砾堵住了"
  },
  {
   "id": "OTHER/EVENT3.BIN/1326/0",
@@ -197439,7 +197439,7 @@
   "offset": "788A",
   "jp": "◆ジャンクあさりの坊主にがれきを\n　どかしてもらった",
   "en": "So I got the junk digger boy\nto remove it.",
-  "zh": ""
+  "zh": "◆让捡垃圾的小子帮忙把瓦砾搬开了"
  },
  {
   "id": "OTHER/EVENT3.BIN/1327/0",
@@ -197448,7 +197448,7 @@
   "offset": "78C2",
   "jp": "◆金髪が現われて、トウヤがオレの助けを\n　求めていないと言った\n\n　ふざけやがって・・・\n　そんなの信じられるもんかよ",
   "en": "The Blond Man popped up and told me that\nToya didn't need me to help him.\n\nWhy, that no-good so-and-so.\nThere's no way I can believe that.",
-  "zh": ""
+  "zh": "◆金发男子现身，说托亚根本不需要\n　我的帮助。\n\n　开什么玩笑……\n　我怎么可能会相信那种鬼话！"
  },
  {
   "id": "OTHER/EVENT3.BIN/1388/0",
@@ -197457,7 +197457,7 @@
   "offset": "793C",
   "jp": "◆賢者の塔にやってきた\n　賢者は頂上にいるらしい",
   "en": "I arrived at the Sage's Tower.\nThe Sage was on the top floor.",
-  "zh": ""
+  "zh": "◆来到了贤者之塔。\n　贤者似乎就在塔顶"
  },
  {
   "id": "OTHER/EVENT3.BIN/1389/0",
@@ -197466,7 +197466,7 @@
   "offset": "7970",
   "jp": "◆番人のオーディンを倒した",
   "en": "I took out Odin, the Guardian.",
-  "zh": ""
+  "zh": "◆打倒了守门人奥丁"
  },
  {
   "id": "OTHER/EVENT3.BIN/138A/0",
@@ -197475,7 +197475,7 @@
   "offset": "798E",
   "jp": "◆賢者に会って、事情を説明した\n　賢者もやはりトウヤの救い方は\n　分からないらしい・・・",
   "en": "I met with the Sage and explained my\nproblem. But she didn't know how I could\nsave Toya either. I might have guessed.",
-  "zh": ""
+  "zh": "◆见到了贤者，并说明了事情原委。\n　果然贤者似乎也不知道该如何拯救\n　托亚……"
  },
  {
   "id": "OTHER/EVENT3.BIN/13EC/0",
@@ -197484,7 +197484,7 @@
   "offset": "79EA",
   "jp": "◆賢者との話の途中で、地響きがした\n　賢者は“お前たちの客だ”と言った\n\n　なんのことだか良く分からないが\n　とりあえず、様子を見に行ってみよう",
   "en": "While the Sage and I were talking, we\nexperienced an earth tremor. The Sage\nsaid, \"It's for you.\"\n\nI don't know what that was supposed to\nmean, but I went to have a look anyway.",
-  "zh": ""
+  "zh": "◆与贤者交谈途中，地面发出了震动。\n　贤者说“那是找你们的客人”。\n\n　虽然搞不清是怎么回事，\n　但总之先去看看情况吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/13ED/0",
@@ -197493,7 +197493,7 @@
   "offset": "7A7E",
   "jp": "◆地響きがあった方へ行ってみると\n　クイーンオブアイスとトウヤがいた\n\n　クイーンオブアイスは、氷の城へくる\n　ようにオレたちに言ったあと、手下を\n　けしかけてきた",
   "en": "I went to see what caused the tremor,\nand found the Queen of Ice and Toya.\n\nThe Queen of Ice told us to meet her at\nthe Ice Castle, then sent her minion\nto attack us.",
-  "zh": ""
+  "zh": "◆朝着传来震动的方向走去，\n　看到了冰之女王和托亚。\n\n　冰之女王命令我们去冰之城后，\n　便唆使手下攻了过来"
  },
  {
   "id": "OTHER/EVENT3.BIN/13ED/1",
@@ -197502,7 +197502,7 @@
   "offset": "7B24",
   "jp": "ＰＳ３版誤字修正",
   "en": "",
-  "zh": ""
+  "zh": "ＰＳ３版错字修正"
  },
  {
   "id": "OTHER/EVENT3.BIN/13EE/0",
@@ -197511,7 +197511,7 @@
   "offset": "7B36",
   "jp": "◆クイーンオブアイスの手下のゴーレムを\n　倒した\n\n　クイーンオブアイスは、“氷の城”で\n　待っているといって、去っていった",
   "en": "I took down the Golem that the Queen of\nIce sent against us.\n\nThen the Queen of Ice departed, saying\nthat she would meet us at the Ice\nCastle.",
-  "zh": ""
+  "zh": "◆打倒了冰之女王的手下魔像\n\n　冰之女王留下话说在“冰之城”\n　等着我们，然后就离开了"
  },
  {
   "id": "OTHER/EVENT3.BIN/13EF/0",
@@ -197520,7 +197520,7 @@
   "offset": "7BB6",
   "jp": "◆クイーンオブアイスの手下を倒したあと\n　改めて賢者と話した\n\n　賢者がいうには、もう一つ魔導器・・・\n　クイーンオブアイス本来の魔導器を\n　ヤツにねじこめば、トウヤと分離する\n　ことができるかもしれないらしい\n\n　けれど、クイーンオブアイスの魔導器\n　なんて、どこにあるのだろう",
   "en": "I spoke with the Sage again after\nI routed the Queen of Ice.\n\nThe Sage said that it might be\npossible to separate Toya from the Queen\nof Ice by embedding a different\nMagicore, her proper one, into her.\n\nThe question is, where might the Queen\nof Ice's Magicore be, anyway?",
-  "zh": ""
+  "zh": "◆打倒冰之女王的手下后，\n　再次与贤者交谈\n\n　据贤者所说，只要把另一个魔导器……\n　冰之女王原本的魔导器塞进那家伙体内，\n　或许就能让她与托亚分离\n\n　可是，冰之女王的魔导器\n　究竟会在哪里呢"
  },
  {
   "id": "OTHER/EVENT3.BIN/13EF/1",
@@ -197529,7 +197529,7 @@
   "offset": "7CD0",
   "jp": "ＰＳ３版誤字修正",
   "en": "",
-  "zh": ""
+  "zh": "ＰＳ３版错字修正"
  },
  {
   "id": "OTHER/EVENT3.BIN/13F0/0",
@@ -197538,7 +197538,7 @@
   "offset": "7CE2",
   "jp": "◆賢者に部屋を追い出されて、外に\n　いったら、金髪がまた現われた\n\n　そして、なんと金髪がクイーンオブ\n　アイスの魔導器を持っていることが\n　わかった\n\n　金髪は、この先にある“墓守の村”で\n　待ってるという",
   "en": "The Sage chased me out of her\nroom. Outside, I ran into the Blond Man\nyet again.\n\nBut this time, I found out that he, of\nall people, had the Queen of Ice's\nMagicore.\n\nThen he said he'd meet me at Gravekeep\nHolm, which was down the road.",
-  "zh": ""
+  "zh": "◆被贤者赶出房间来到外面后，\n　那个金发男又出现了\n\n　而且，没想到金发男竟然持有\n　冰之女王的魔导器\n\n　金发男说，他会在前方的\n　“守墓人村”等我"
  },
  {
   "id": "OTHER/EVENT3.BIN/1450/0",
@@ -197547,7 +197547,7 @@
   "offset": "7DB6",
   "jp": "◆賢者と話していると、賢者がお前は\n　もっと右腕のことを知るべきだ\n　とか言って、いきなりみょうなところに\n　とばされてしまった",
   "en": "When I spoke to the Sage, she said I\nneeded to learn more about my right arm.\nWith that, she chased me to some strange\nplace.",
-  "zh": ""
+  "zh": "◆和贤者说话时，贤者说什么\n　“你应该更加了解自己的右臂”，\n　突然就把我传送到了一个奇怪的地方"
  },
  {
   "id": "OTHER/EVENT3.BIN/1451/0",
@@ -197556,7 +197556,7 @@
   "offset": "7E3A",
   "jp": "◆いつものみょうな空間で、右腕と話した\n　右腕のやつは、いつものように\n　思わせぶりなことを言うだけだったけど\n　なんだか“世界のため”になにかしようと\n　しているように感じた",
   "en": "I talked to my right arm in that same\nweird space.\nThe stupid thing carried on as if it\nknew something that I didn't.\nNonetheless, it gave me some sense\nthat it was doing something for the\ngood of the world.",
-  "zh": ""
+  "zh": "◆在老样子的奇怪空间里和右臂对话了\n　右臂那家伙还是像往常一样净说些\n　故弄玄虚的话，不过总觉得它似乎\n　是想“为了世界”做些什么"
  },
  {
   "id": "OTHER/EVENT3.BIN/1452/0",
@@ -197565,7 +197565,7 @@
   "offset": "7EEE",
   "jp": "◆右腕と話したあと、現われたゴーレムを\n　撃退した\n\n◆撃退後、賢者がやってきて、元の世界に\n　戻してくれた\n\n　・・・そもそも、連れてきたのは\n　賢者だけど・・・",
   "en": "After I talked to my right arm, I took\nout the Golem that appeared next.\n\nAfter that, the Sage came and\nbrought me back to the real world.\n\nNever mind the fact that the Sage\nsent me to that weird space in the\nfirst place.",
-  "zh": ""
+  "zh": "◆和右臂谈完后，击退了出现的魔像\n\n◆击退魔像后，贤者现身将我送回了\n　原本的世界\n\n　……说到底，明明就是贤者\n　把我带过来的……"
  },
  {
   "id": "OTHER/EVENT3.BIN/14B4/0",
@@ -197574,7 +197574,7 @@
   "offset": "7F96",
   "jp": "◆夢の世界で倒したゴーレムから手に\n　入れた“神の結晶”で賢者が武具を\n　つくってくれることになった",
   "en": "The Sage took the God Orb that\nI got from the Golem that I took down\nin the dream realm, and said she would\nmake a weapon out of it.",
-  "zh": ""
+  "zh": "◆贤者答应使用在梦境世界中打倒魔像\n　所获得的“神之结晶”，为我打造武具"
  },
  {
   "id": "OTHER/EVENT3.BIN/14B5/0",
@@ -197583,7 +197583,7 @@
   "offset": "7FFE",
   "jp": "◆夜、賢者と話した\n　なんだか、この人と話していると\n　とても落ち着いた気分になる",
   "en": "That night, I spoke with the Sage.\nTalking to her really put me at ease.",
-  "zh": ""
+  "zh": "◆夜晚与贤者谈了谈\n　不知为何，和这个人说话时\n　心情会变得非常平静"
  },
  {
   "id": "OTHER/EVENT3.BIN/1518/0",
@@ -197592,7 +197592,7 @@
   "offset": "8054",
   "jp": "◆賢者に武具をつくってもらった\n\n◆“墓守の村”に向かう転送装置を\n　使えるようにしてもらった\n\n　転送装置を使って墓守の村へ行こう",
   "en": "The Sage made the weapon for me.\n\nShe also let me use the Teleporter to\nget to Gravekeep Holm.\n\nSo that's what I did.",
-  "zh": ""
+  "zh": "◆贤者帮我打造了武具\n\n◆前往“守墓人村”的传送装置\n　可以使用了\n\n　使用传送装置前往守墓人村吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/1519/0",
@@ -197601,7 +197601,7 @@
   "offset": "80DC",
   "jp": "◆墓守の村についた\n　まずは情報収集をしよう",
   "en": "Upon arrival at Gravekeep Holm,\nthe first thing I did was to gather\ninformation.",
-  "zh": ""
+  "zh": "◆到达了守墓人村\n　首先去收集情报吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/151A/0",
@@ -197610,7 +197610,7 @@
   "offset": "810C",
   "jp": "◆クイーンオブアイスの城へ行くためには\n　村の奥にある城門をひらく必要が\n　あるようだ",
   "en": "I would have to open the gates at the\nfar end of the village, in order to get\ninto the Queen of Ice's Castle.",
-  "zh": ""
+  "zh": "◆看来若想前往冰之女王的城堡，\n　必须打开村子深处的城门才行"
  },
  {
   "id": "OTHER/EVENT3.BIN/157C/0",
@@ -197619,7 +197619,7 @@
   "offset": "8166",
   "jp": "◆城門のカギは、村の長老がもっている\n　らしいことが分かった",
   "en": "I found out that the Village Elder\nhad the key to the gates.",
-  "zh": ""
+  "zh": "◆得知城门的钥匙似乎在村里的\n　长老手中"
  },
  {
   "id": "OTHER/EVENT3.BIN/157D/0",
@@ -197628,7 +197628,7 @@
   "offset": "81A6",
   "jp": "◆長老の家にいったところ、長老は\n　墓場の方へ行ったらしいことがわかった\n\n◆長老の娘から、金髪の残した手紙を\n　もらった",
   "en": "I went over to the Village Elder's\nhouse, only to find that she had gone\nto the graveyard.\n\nHer daughter gave me a message that\nthe Blond Man left for me.",
-  "zh": ""
+  "zh": "◆前往长老家后，得知长老似乎\n　去了墓地那边\n\n◆从长老的女儿那里收到了金发男\n　留下的信"
  },
  {
   "id": "OTHER/EVENT3.BIN/157E/0",
@@ -197637,7 +197637,7 @@
   "offset": "8224",
   "jp": "◆墓場でゴーレムに襲われていた長老を\n　助けた",
   "en": "At the graveyard, I rescued the Village\nElder from a Golem that was attacking\nher.",
-  "zh": ""
+  "zh": "◆在墓地救下了被魔像袭击的长老"
  },
  {
   "id": "OTHER/EVENT3.BIN/157F/0",
@@ -197646,7 +197646,7 @@
   "offset": "8256",
   "jp": "◆長老からカギがもらえることになった\n　それから、今夜は長老の家に泊めて\n　もらえることになった",
   "en": "I got the key from the Elder as a\nresult. He also let me spend the night\nin his home.",
-  "zh": ""
+  "zh": "◆长老答应将钥匙交给我\n　而且今晚还允许我在长老家借宿"
  },
  {
   "id": "OTHER/EVENT3.BIN/15E0/0",
@@ -197655,7 +197655,7 @@
   "offset": "82BA",
   "jp": "◆城門の前で待っている金髪のもとに\n　一人で向かうことにした",
   "en": "I headed alone to where the Blond Man\nwas waiting for me at the gates.",
-  "zh": ""
+  "zh": "◆决定独自一人前往城门前\n　去找在那里等待的金发男"
  },
  {
   "id": "OTHER/EVENT3.BIN/15E1/0",
@@ -197664,7 +197664,7 @@
   "offset": "82FA",
   "jp": "◆金髪を倒して、クイーンオブアイスの\n　魔導器を手に入れた",
   "en": "I took him out, and got myself the\nQueen of Ice's Magicore.",
-  "zh": ""
+  "zh": "◆打倒了金发男，\n　得到了冰之女王的魔导器"
  },
  {
   "id": "OTHER/EVENT3.BIN/1644/0",
@@ -197673,7 +197673,7 @@
   "offset": "8338",
   "jp": "◆クイーンオブアイスの魔導器も手に入り\n　準備が整ったので、墓守の村で一晩過ごす\n　ことになった\n\n◆絶対に、トウヤを助けるぞ・・・",
   "en": "With the Queen of Ice's Magicore in\nhand, I was all set, so I decided to\nstay the night in Gravekeep Holm.\n\nAfter that, I'll save Toya, no matter\nwhat.",
-  "zh": ""
+  "zh": "◆冰之女王的魔导器也到手了，\n　准备工作已经就绪，决定在守墓人村过上一夜\n\n◆我绝对要救出托亚……"
  },
  {
   "id": "OTHER/EVENT3.BIN/16A8/0",
@@ -197682,7 +197682,7 @@
   "offset": "83C0",
   "jp": "◆世が明けた\n　決戦の地である、氷の城へ向かおう",
   "en": "At the break of dawn, I headed for the\nIce Castle, and my final battle.",
-  "zh": ""
+  "zh": "◆天亮了\n　向着决战之地——冰之城进发吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/16A9/0",
@@ -197691,7 +197691,7 @@
   "offset": "83F4",
   "jp": "◆“太古のカギ”を使って城門を開いた",
   "en": "Using the Key of the Ancients, I opened\nthe gates.",
-  "zh": ""
+  "zh": "◆使用“远古钥匙”打开了城门"
  },
  {
   "id": "OTHER/EVENT3.BIN/16AA/0",
@@ -197700,7 +197700,7 @@
   "offset": "841C",
   "jp": "◆クイーンオブアイスの城の前まできた\n　トウヤが待っている・・・早く行こう",
   "en": "I'd reached the Castle of the Queen of\nIce. Toya awaited me inside. I had to\nhurry.",
-  "zh": ""
+  "zh": "◆来到了冰之女王的城门前\n　托亚在等着我……得快点过去"
  },
  {
   "id": "OTHER/EVENT3.BIN/170C/0",
@@ -197709,7 +197709,7 @@
   "offset": "846A",
   "jp": "◆クイーンオブアイスの城の地下で\n　あやしいゴーレムの残骸らしきものを見た\n\n　右腕が激しく共鳴したが、いったい\n　あれはなんなのだろう？",
   "en": "I found what looked like the remains of\nGolems in the cells beneath the Queen of\nIce's Castle.\n\nMy right arm resonated something fierce\nin their presence. I couldn't figure\nit out.",
-  "zh": ""
+  "zh": "◆在冰之女王城堡的地下看到了疑似\n　可疑魔像残骸的东西\n\n　右臂产生了剧烈的共鸣，\n　那究竟是什么东西呢？"
  },
  {
   "id": "OTHER/EVENT3.BIN/170D/0",
@@ -197718,7 +197718,7 @@
   "offset": "84F8",
   "jp": "◆トウヤが待ち構えていた\n\n　トウヤは自分を殺すようにオレに迫り\n　戦いを挑んできた",
   "en": "Toya was ready for me.\n\nHe rushed me, as if he meant to kill me.",
-  "zh": ""
+  "zh": "◆托亚严阵以待\n\n　托亚逼我杀了他，\n　并向我发起了挑战"
  },
  {
   "id": "OTHER/EVENT3.BIN/170E/0",
@@ -197727,7 +197727,7 @@
   "offset": "8550",
   "jp": "◆トウヤを倒した\n\n　トウヤはクイーンオブアイスによって\n　呼び戻されてしまった・・・",
   "en": "I took Toya out.\n\nThe Queen of Ice called him back.",
-  "zh": ""
+  "zh": "◆打倒了托亚\n\n　托亚被冰之女王召回了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/1770/0",
@@ -197736,7 +197736,7 @@
   "offset": "85AA",
   "jp": "◆クイーンオブアイスに呼び戻された\n　トウヤを追わなければ・・・！\n\n　ここまで来て、あきらめられるかよ",
   "en": "The Queen of Ice called Toya back. I had\nto get after him!\n\nI wasn't about to give up now.",
-  "zh": ""
+  "zh": "◆必须去追被冰之女王召回的\n　托亚才行……！\n\n　都走到这一步了，我怎么可能会放弃啊"
  },
  {
   "id": "OTHER/EVENT3.BIN/1771/0",
@@ -197745,7 +197745,7 @@
   "offset": "8616",
   "jp": "◆クイーンオブアイスのところへ\n　ようやくたどりついた\n\n　クイーンオブアイスは魔導器である\n　トウヤを体内に取り込んでしまった",
   "en": "I finally found myself face-to-face\nwith the Queen of Ice.\n\nThe Queen of Ice had absorbed Toya,\nher Magicore, into herself.",
-  "zh": ""
+  "zh": "◆终于赶到了冰之女王所在的地方\n\n　冰之女王将作为魔导器的托亚\n　吸入了自己的体内"
  },
  {
   "id": "OTHER/EVENT3.BIN/1772/0",
@@ -197754,7 +197754,7 @@
   "offset": "869A",
   "jp": "◆クイーンオブアイスを倒し\n　魔導器をぶちこんで\n　トウヤを救いだした！！！\n\n　そして、クイーンオブアイスを\n　右腕で吸収した\n\n　けれど・・・せっかく再会したのに\n　マコトは死んでしまった・・・",
   "en": "I took the Queen of Ice down, implanted\nthe Magicore in her, and set Toya free!\n\nThen I absorbed the Queen of Ice with\nmy right arm.\n\nBut even though I'd been reunited with\nToya, it didn't change the fact that\nMakoto was dead.",
-  "zh": ""
+  "zh": "◆打倒了冰之女王，\n　强行塞入魔导器救出了托亚！！！\n\n　随后，用右臂吸收了冰之女王\n\n　可是……好不容易重逢，\n　马科托却死去了……"
  },
  {
   "id": "OTHER/EVENT3.BIN/1773/0",
@@ -197763,7 +197763,7 @@
   "offset": "8764",
   "jp": "◆やっぱりマコトは生きていた\n\n◆クイーンオブアイスが死んだことで\n　城が崩壊して、落下してしまった\n\n　・・・前もこんなことがあったような\n　気がする・・・",
   "en": "But Makoto was alive after all.\n\nWith the death of the Queen of Ice,\nher Castle collapsed into ruins.\n\nAnd I had the strangest feeling\nof déjà vu.",
-  "zh": ""
+  "zh": "◆马科托果然还活着\n\n◆随着冰之女王的死亡城堡开始崩溃，\n　掉了下去\n\n　……总觉得以前也遇到过这种事……"
  },
  {
   "id": "OTHER/EVENT3.BIN/17D4/0",
@@ -197772,7 +197772,7 @@
   "offset": "8806",
   "jp": "◆聖堂から落下してきて、目が覚めた\n　なんだか、右腕がざわつく・・・",
   "en": "The collapse began with the shrine, and\nI came back to myself. My right arm was\nall a-flutter, for some reason.",
-  "zh": ""
+  "zh": "◆从圣堂掉落下来后醒了过来\n　不知为何，右臂躁动不安……"
  },
  {
   "id": "OTHER/EVENT3.BIN/17D5/0",
@@ -197781,7 +197781,7 @@
   "offset": "884E",
   "jp": "◆ブレインオブヘッドの目的は\n　“世界を再構築すること”だという\n　ことが判明した\n\n　ふざっけんなよ！\n　そんなことしたら、みんな無くなっち\n　まうだろうが！！",
   "en": "I realized that Infinity's goal was\n\"to remake the world\".\n\nTo that I said, don't be stupid!\nIf you do that, you'll wipe us all out!",
-  "zh": ""
+  "zh": "◆查明了主脑魔像的目的\n　是要“重构世界”\n\n　开什么玩笑！\n　要是干出这种事，大家不就全完了吗！！"
  },
  {
   "id": "OTHER/EVENT3.BIN/17D6/0",
@@ -197790,7 +197790,7 @@
   "offset": "88F4",
   "jp": "◆トウヤとマコトがブレインオブヘッド\n　に取り込まれかけたオレを助けてくれた",
   "en": "Toya and Makoto rescued me as Infinity\ntried to absorb me.",
-  "zh": ""
+  "zh": "◆托亚和马科托救下了差点被主脑魔像\n　吸入体内的我"
  },
  {
   "id": "OTHER/EVENT3.BIN/17D7/0",
@@ -197799,7 +197799,7 @@
   "offset": "8944",
   "jp": "◆みんなと協力して、“発”を使い\n　ブレインオブヘッドを倒した！！！",
   "en": "We all pooled our resources to use the\n\"Force\" and take down Infinity!",
-  "zh": ""
+  "zh": "◆与大家齐心协力使用“发”，\n　打倒了主脑魔像！！！"
  },
  {
   "id": "OTHER/EVENT3.BIN/1838/0",
@@ -197808,7 +197808,7 @@
   "offset": "898C",
   "jp": "◆ヨコハマシティの復興祭のイベントに\n　参加するために、商業区にやってきた\n\n◆みんなと噴水のある広場で\n　待ち合わせをするはずだったが\n　待ち合わせ場所を伝え忘れていたこと\n　が判明\n\n　みんなを探して、集合場所を伝えないと",
   "en": "I went down to the Trade District to\ntake part in the events at the Yokohama\nCity Rebuilding Festival.\n\nWe were supposed to rendezvous\nat the fountain in the Square, but I\nrealized that I forgot to tell them\nwhere we were supposed to meet.\n\nNow I have to find them and tell them of\nthe meeting place.",
-  "zh": ""
+  "zh": "◆为了参加横滨市复兴节的活动，\n　来到了商业区\n\n◆本该和大家在有喷水的广场\n　集合碰头，却发现忘记告诉他们集合地点了\n\n　必须找到大家，通知集合地点才行"
  },
  {
   "id": "OTHER/EVENT3.BIN/1839/0",
@@ -197817,7 +197817,7 @@
   "offset": "8A72",
   "jp": "◆みんなに集合場所を伝えた！\n\n◆マコトが見当たらないけど、まあマコト\n　だし、ほっとこう\n\n　みんなが待ってる！\n　広場の噴水前へ、向かうぞ！",
   "en": "I got the word out to the gang!\n\nI couldn't find Makoto, but Makoto is\nMakoto, so forget about it.\n\nBut everyone else is waiting for me\nthere! So I'm off to meet them at the\nfountain in the Square!",
-  "zh": ""
+  "zh": "◆已经把集合地点通知大家了！\n\n◆虽然没找到马科托，不过反正也是马科托\n　就算了，别管他了\n\n　大家都在等着呢！\n　前往广场的喷泉前吧！"
  },
  {
   "id": "OTHER/FESTIVAL.BIN/1/0",
