@@ -212658,7 +212658,7 @@
   "offset": "16C8",
   "jp": "エンチャント学園",
   "en": "Enchant University",
-  "zh": ""
+  "zh": "赋法学园"
  },
  {
   "id": "OTHER/MAPLIST.DAT/FFFF/1",
@@ -212667,7 +212667,7 @@
   "offset": "16DA",
   "jp": "エンチャンター養成大学",
   "en": "",
-  "zh": ""
+  "zh": "赋法师培养大学"
  },
  {
   "id": "OTHER/MAPLIST.DAT/FFFF/2",
@@ -212676,7 +212676,7 @@
   "offset": "16F2",
   "jp": "ヨコハマシティの学園エリアの\n中心部にあるエンチャンター養\n成大学。小中高大すべてが同一\n敷地内にある巨大な学園",
   "en": "Enchant University, in \ncentral Yokohama's school \ndistrict, where pupils of \nall ages are taught.",
-  "zh": ""
+  "zh": "位于横滨市学园区\n中心部的赋法师培养\n大学。涵盖小学至大学全部学段、\n处于同一园区内的庞大学园"
  },
  {
   "id": "OTHER/MAPLIST.DAT/0/0",
@@ -212685,7 +212685,7 @@
   "offset": "1764",
   "jp": "エンチャント学園　カフェテリア",
   "en": "Cafeteria",
-  "zh": ""
+  "zh": "赋法学园　餐厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3/0",
@@ -212694,7 +212694,7 @@
   "offset": "1788",
   "jp": "エンチャント学園　大講義室",
   "en": "Lecture Hall",
-  "zh": ""
+  "zh": "赋法学园　大讲堂"
  },
  {
   "id": "OTHER/MAPLIST.DAT/8/0",
@@ -212703,7 +212703,7 @@
   "offset": "17A8",
   "jp": "エンチャント学園　南ホール",
   "en": "South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/9/0",
@@ -212712,7 +212712,7 @@
   "offset": "17C8",
   "jp": "エンチャント学園　東ホール",
   "en": "East Hall",
-  "zh": ""
+  "zh": "赋法学园　东大厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/B/0",
@@ -212721,7 +212721,7 @@
   "offset": "17E8",
   "jp": "エンチャント学園　教員棟",
   "en": "Faculty Ward",
-  "zh": ""
+  "zh": "赋法学园　教工楼"
  },
  {
   "id": "OTHER/MAPLIST.DAT/C/0",
@@ -212730,7 +212730,7 @@
   "offset": "1806",
   "jp": "エンチャント学園　回廊南部",
   "en": "South Corridor",
-  "zh": ""
+  "zh": "赋法学园　回廊南部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/E/0",
@@ -212739,7 +212739,7 @@
   "offset": "1826",
   "jp": "エンチャント学園　中央塔廊下",
   "en": "Central Tower Corridor",
-  "zh": ""
+  "zh": "赋法学园　中央塔走廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/10/0",
@@ -212748,7 +212748,7 @@
   "offset": "1848",
   "jp": "エンチャント学園　回廊東部",
   "en": "East Corridor",
-  "zh": ""
+  "zh": "赋法学园　回廊东部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/C8/0",
@@ -212757,7 +212757,7 @@
   "offset": "1868",
   "jp": "エンチャント学園　空中回廊",
   "en": "Sky Corridor",
-  "zh": ""
+  "zh": "赋法学园　空中回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/190/0",
@@ -212766,7 +212766,7 @@
   "offset": "1888",
   "jp": "エンチャント学園　空中回廊",
   "en": "Sky Corridor",
-  "zh": ""
+  "zh": "赋法学园　空中回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1F4/0",
@@ -212775,7 +212775,7 @@
   "offset": "18A8",
   "jp": "エンチャント学園　空中回廊",
   "en": "Sky Corridor",
-  "zh": ""
+  "zh": "赋法学园　空中回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/258/0",
@@ -212784,7 +212784,7 @@
   "offset": "18C8",
   "jp": "エンチャント学園　空中回廊",
   "en": "Sky Corridor",
-  "zh": ""
+  "zh": "赋法学园　空中回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1FFFF/0",
@@ -212793,7 +212793,7 @@
   "offset": "18E8",
   "jp": "ヨコハマシティ",
   "en": "Yokohama City",
-  "zh": ""
+  "zh": "横滨市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1FFFF/1",
@@ -212802,7 +212802,7 @@
   "offset": "18F8",
   "jp": "大陸の東に位置する海上都市",
   "en": "",
-  "zh": ""
+  "zh": "坐落于大陆东部的海上都市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1FFFF/2",
@@ -212811,7 +212811,7 @@
   "offset": "1914",
   "jp": "大陸の東に位置する海上都市\n高度なエンチャント技術が発展\nしており、シティの中心には\nエンチャント学園がある",
   "en": "A maritime city in the \neast. Home of Enchant \nUniversity, where Enchant \ntechniques first evolved.",
-  "zh": ""
+  "zh": "坐落于大陆东部的海上都市。\n拥有高度发达的赋法技术，\n都市中心坐落着\n赋法学园"
  },
  {
   "id": "OTHER/MAPLIST.DAT/10000/0",
@@ -212820,7 +212820,7 @@
   "offset": "1982",
   "jp": "ヨコハマシティ　商業区",
   "en": "Trade District",
-  "zh": ""
+  "zh": "横滨市　商业区"
  },
  {
   "id": "OTHER/MAPLIST.DAT/10001/0",
@@ -212829,7 +212829,7 @@
   "offset": "199E",
   "jp": "ヨコハマシティ　賭け試合テント",
   "en": "Golem Tent",
-  "zh": ""
+  "zh": "横滨市　魔像博彩帐篷"
  },
  {
   "id": "OTHER/MAPLIST.DAT/5FFFF/0",
@@ -212838,7 +212838,7 @@
   "offset": "19C2",
   "jp": "エンチャント学園",
   "en": "Enchant Uiversity",
-  "zh": ""
+  "zh": "赋法学园"
  },
  {
   "id": "OTHER/MAPLIST.DAT/5FFFF/1",
@@ -212847,7 +212847,7 @@
   "offset": "19D4",
   "jp": "崩壊学園情報説明",
   "en": "",
-  "zh": ""
+  "zh": "崩塌学园信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/5FFFF/2",
@@ -212856,7 +212856,7 @@
   "offset": "19E6",
   "jp": "ヨコハマシティの学園エリアの\n中心部にあるエンチャンター養\n成大学。現在は、地震のため\n各所が崩壊している",
   "en": "Enchant University,\ncurrently deteriorating \nafter sustaining severe \ndamage in an earthquake.",
-  "zh": ""
+  "zh": "位于横滨市学园区\n中心部的赋法师培养\n大学。如今因地震而\n各处崩塌"
  },
  {
   "id": "OTHER/MAPLIST.DAT/50000/0",
@@ -212865,7 +212865,7 @@
   "offset": "1A52",
   "jp": "エンチャント学園　南ホール",
   "en": "South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/50001/0",
@@ -212874,7 +212874,7 @@
   "offset": "1A72",
   "jp": "エンチャント学園　カフェテリア",
   "en": "Cafeteria",
-  "zh": ""
+  "zh": "赋法学园　餐厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/6FFFF/0",
@@ -212883,7 +212883,7 @@
   "offset": "1A96",
   "jp": "ヨコハマシティ",
   "en": "Yokohama City",
-  "zh": ""
+  "zh": "横滨市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/6FFFF/1",
@@ -212892,7 +212892,7 @@
   "offset": "1AA6",
   "jp": "崩壊商業区情報説明",
   "en": "",
-  "zh": ""
+  "zh": "崩塌商业区信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/6FFFF/2",
@@ -212901,7 +212901,7 @@
   "offset": "1ABA",
   "jp": "大陸の東に位置する海上都市\n高度なエンチャント技術が発展\nしていたが、現在は地震のため\n各所が崩壊している",
   "en": "A maritime city in the\neast, home of Enchant \ntechniques. Now in decline \nafter an earthquake.",
-  "zh": ""
+  "zh": "坐落于大陆东部的海上都市。\n虽然曾拥有高度发达的赋法技术，\n但如今因地震而\n各处崩塌"
  },
  {
   "id": "OTHER/MAPLIST.DAT/60000/0",
@@ -212910,7 +212910,7 @@
   "offset": "1B26",
   "jp": "ヨコハマシティ　商業区",
   "en": "Trade District",
-  "zh": ""
+  "zh": "横滨市　商业区"
  },
  {
   "id": "OTHER/MAPLIST.DAT/7FFFF/0",
@@ -212919,7 +212919,7 @@
   "offset": "1B42",
   "jp": "封鎖区画",
   "en": "Sealed Ward",
-  "zh": ""
+  "zh": "封锁区段"
  },
  {
   "id": "OTHER/MAPLIST.DAT/7FFFF/1",
@@ -212928,7 +212928,7 @@
   "offset": "1B4C",
   "jp": "封鎖区画情報説明",
   "en": "",
-  "zh": ""
+  "zh": "封锁区段信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/7FFFF/2",
@@ -212937,7 +212937,7 @@
   "offset": "1B5E",
   "jp": "学園の地下にある施設。起源は\n定かではないが、ヨコハマシテ\nィの建立と時を同じくしてつく\nられたらしい",
   "en": "A sealed underground \nfacility beneath the \nUniversity. Said to have \nbeen built with the city.",
-  "zh": ""
+  "zh": "位于学园地下的设施。起源虽\n不可考，但据说是在横滨市\n建立的同一时期建造的"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70000/0",
@@ -212946,7 +212946,7 @@
   "offset": "1BC6",
   "jp": "封鎖区画　出入口",
   "en": "Entrance",
-  "zh": ""
+  "zh": "封锁区段　出入口"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70001/0",
@@ -212955,7 +212955,7 @@
   "offset": "1BDC",
   "jp": "封鎖区画　奈落の間",
   "en": "Depths",
-  "zh": ""
+  "zh": "封锁区段　深渊之间"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70002/0",
@@ -212964,7 +212964,7 @@
   "offset": "1BF4",
   "jp": "封鎖区画　動力の間",
   "en": "Power Room",
-  "zh": ""
+  "zh": "封锁区段　动力之间"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70003/0",
@@ -212973,7 +212973,7 @@
   "offset": "1C0C",
   "jp": "封鎖区画　上層回廊",
   "en": "Upper Corridor",
-  "zh": ""
+  "zh": "封锁区画　上层回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70004/0",
@@ -212982,7 +212982,7 @@
   "offset": "1C24",
   "jp": "封鎖区画　守人の間",
   "en": "Guardian Room",
-  "zh": ""
+  "zh": "封锁区画　守卫之间"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70005/0",
@@ -212991,7 +212991,7 @@
   "offset": "1C3C",
   "jp": "封鎖区画　施錠の間",
   "en": "Lock Room",
-  "zh": ""
+  "zh": "封锁区画　上锁之间"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70006/0",
@@ -213000,7 +213000,7 @@
   "offset": "1C54",
   "jp": "封鎖区画　玄室",
   "en": "Chamber",
-  "zh": ""
+  "zh": "封锁区画　玄室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70007/0",
@@ -213009,7 +213009,7 @@
   "offset": "1C68",
   "jp": "封鎖区画　下層回廊",
   "en": "Lower Corridor",
-  "zh": ""
+  "zh": "封锁区画　下层回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/70008/0",
@@ -213018,7 +213018,7 @@
   "offset": "1C80",
   "jp": "封鎖区画　階段の間",
   "en": "Stair Room",
-  "zh": ""
+  "zh": "封锁区画　阶梯之间"
  },
  {
   "id": "OTHER/MAPLIST.DAT/14FFFF/0",
@@ -213027,7 +213027,7 @@
   "offset": "1C98",
   "jp": "ロンドン城",
   "en": "London Castle",
-  "zh": ""
+  "zh": "伦敦城"
  },
  {
   "id": "OTHER/MAPLIST.DAT/14FFFF/1",
@@ -213036,7 +213036,7 @@
   "offset": "1CA4",
   "jp": "ロンドン城情報説明",
   "en": "",
-  "zh": ""
+  "zh": "伦敦城信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/14FFFF/2",
@@ -213045,7 +213045,7 @@
   "offset": "1CB8",
   "jp": "ロンドンシティにある王城\n城全体が巨大なダムとなってお\nり、城壁の内側には大量の水が\nたたえられている",
   "en": "The royal castle of\nLondon. Also serves as\na giant dam, with thick \nwalls to hold water back.",
-  "zh": ""
+  "zh": "位于伦敦市的王城。\n整座城堡本身就是一座巨大的水坝，\n城墙内侧蓄有大量的水。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/140004/0",
@@ -213054,7 +213054,7 @@
   "offset": "1D20",
   "jp": "ロンドン城　大広間",
   "en": "Grand Hall",
-  "zh": ""
+  "zh": "伦敦城　大殿"
  },
  {
   "id": "OTHER/MAPLIST.DAT/140007/0",
@@ -213063,7 +213063,7 @@
   "offset": "1D38",
   "jp": "ロンドン城　機構区画",
   "en": "Mechanics Area",
-  "zh": ""
+  "zh": "伦敦城　机构区画"
  },
  {
   "id": "OTHER/MAPLIST.DAT/17FFFF/0",
@@ -213072,7 +213072,7 @@
   "offset": "1D52",
   "jp": "ロンドンシティ",
   "en": "London City",
-  "zh": ""
+  "zh": "伦敦市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/17FFFF/1",
@@ -213081,7 +213081,7 @@
   "offset": "1D62",
   "jp": "貧民街情報説明",
   "en": "",
-  "zh": ""
+  "zh": "贫民街信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/17FFFF/2",
@@ -213090,7 +213090,7 @@
   "offset": "1D72",
   "jp": "大陸の北東に位置する古い歴史\nをもつシティ。いつも霧が深く\nたちこめていることから、別名\n“霧の都”と呼ばれている",
   "en": "A historic city in the\nnortheast. Permanently \nshrouded in mist, its \nalias is \"City of Fog.\"",
-  "zh": ""
+  "zh": "位于大陆东北部、历史悠久的城市。\n因常年大雾弥漫，\n又被称为“雾之都”。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/170000/0",
@@ -213099,7 +213099,7 @@
   "offset": "1DE6",
   "jp": "ロンドンシティ　大階段",
   "en": "Grand Steps",
-  "zh": ""
+  "zh": "伦敦市　大阶梯"
  },
  {
   "id": "OTHER/MAPLIST.DAT/170001/0",
@@ -213108,7 +213108,7 @@
   "offset": "1E02",
   "jp": "ロンドンシティ　貧民街",
   "en": "London Inner City",
-  "zh": ""
+  "zh": "伦敦市　贫民街"
  },
  {
   "id": "OTHER/MAPLIST.DAT/170002/0",
@@ -213117,7 +213117,7 @@
   "offset": "1E1E",
   "jp": "ロンドンシティ　酒場",
   "en": "Bar",
-  "zh": ""
+  "zh": "伦敦市　酒馆"
  },
  {
   "id": "OTHER/MAPLIST.DAT/18FFFF/0",
@@ -213126,7 +213126,7 @@
   "offset": "1E38",
   "jp": "ロンドン城ダム区画",
   "en": "Castle Dam",
-  "zh": ""
+  "zh": "伦敦城水坝区画"
  },
  {
   "id": "OTHER/MAPLIST.DAT/18FFFF/1",
@@ -213135,7 +213135,7 @@
   "offset": "1E4C",
   "jp": "ダム情報説明",
   "en": "",
-  "zh": ""
+  "zh": "水坝信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/18FFFF/2",
@@ -213144,7 +213144,7 @@
   "offset": "1E5A",
   "jp": "ロンドン王城内にあるダム区画\n分厚い城壁の内部は、貯水調節\nのための水路になっている\n水路の最奥には、牢がある",
   "en": "The thick castle walls are\nriddled with canals that\ncontrol water flow. The\nprison lies deep within.",
-  "zh": ""
+  "zh": "位于伦敦王城内的水坝区画。\n厚重的城墙内部被建成了调节蓄水的水路，\n水路的最深处设有牢房。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/180000/0",
@@ -213153,7 +213153,7 @@
   "offset": "1ECA",
   "jp": "ロンドン城ダム区画　地下牢",
   "en": "Prison Cell",
-  "zh": ""
+  "zh": "伦敦城水坝区画　地牢"
  },
  {
   "id": "OTHER/MAPLIST.DAT/180001/0",
@@ -213162,7 +213162,7 @@
   "offset": "1EEA",
   "jp": "ロンドン城ダム区画　西貯水塔",
   "en": "West Water Tower",
-  "zh": ""
+  "zh": "伦敦城水坝区画　西蓄水塔"
  },
  {
   "id": "OTHER/MAPLIST.DAT/180002/0",
@@ -213171,7 +213171,7 @@
   "offset": "1F0C",
   "jp": "ロンドン城ダム区画　外郭通路",
   "en": "Exterior Path",
-  "zh": ""
+  "zh": "伦敦城水坝区画　外郭通路"
  },
  {
   "id": "OTHER/MAPLIST.DAT/180003/0",
@@ -213180,7 +213180,7 @@
   "offset": "1F2E",
   "jp": "ロンドン城ダム区画　南西貯水塔",
   "en": "SW Water Tower",
-  "zh": ""
+  "zh": "伦敦城水坝区画　西南蓄水塔"
  },
  {
   "id": "OTHER/MAPLIST.DAT/180007/0",
@@ -213189,7 +213189,7 @@
   "offset": "1F52",
   "jp": "ロンドン城ダム区画　地下水道",
   "en": "Sewer",
-  "zh": ""
+  "zh": "伦敦城水坝区画　地下水道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/19FFFF/0",
@@ -213198,7 +213198,7 @@
   "offset": "1F74",
   "jp": "ロンディヌス平原",
   "en": "Londinus Plains",
-  "zh": ""
+  "zh": "伦狄纽斯平原"
  },
  {
   "id": "OTHER/MAPLIST.DAT/19FFFF/1",
@@ -213207,7 +213207,7 @@
   "offset": "1F86",
   "jp": "森情報説明",
   "en": "",
-  "zh": ""
+  "zh": "森林信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/19FFFF/2",
@@ -213216,7 +213216,7 @@
   "offset": "1F92",
   "jp": "ロンドンシティ郊外の奥深い森\nかつて、森の地下には、ロンド\nンシティ軍の基地があったが\n現在は廃墟と化している",
   "en": "The dense forest outside\nLondon was once the site\nof a military base, but is\nnow abandoned.",
-  "zh": ""
+  "zh": "伦敦市郊外的幽深森林。\n曾经森林的地下建有伦敦市军的基地，\n但如今已沦为废墟。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/190000/0",
@@ -213225,7 +213225,7 @@
   "offset": "2002",
   "jp": "ロンディヌス平原　荒地",
   "en": "Wilds",
-  "zh": ""
+  "zh": "伦狄纽斯平原　荒地"
  },
  {
   "id": "OTHER/MAPLIST.DAT/190001/0",
@@ -213234,7 +213234,7 @@
   "offset": "201E",
   "jp": "ロンディヌス平原　森林北部",
   "en": "North Forest",
-  "zh": ""
+  "zh": "伦狄纽斯平原　森林北部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/190006/0",
@@ -213243,7 +213243,7 @@
   "offset": "203E",
   "jp": "ロンディヌス平原　軍道地下",
   "en": "Military Path",
-  "zh": ""
+  "zh": "伦狄纽斯平原　军道地下"
  },
  {
   "id": "OTHER/MAPLIST.DAT/190007/0",
@@ -213252,7 +213252,7 @@
   "offset": "205E",
   "jp": "ロンディヌス平原　森林南部",
   "en": "South Forest",
-  "zh": ""
+  "zh": "伦狄纽斯平原　森林南部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1AFFFF/0",
@@ -213261,7 +213261,7 @@
   "offset": "207E",
   "jp": "ラガウ海沿岸",
   "en": "Ragau Coast",
-  "zh": ""
+  "zh": "拉高海岸"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1AFFFF/1",
@@ -213270,7 +213270,7 @@
   "offset": "208C",
   "jp": "街道情報説明",
   "en": "",
-  "zh": ""
+  "zh": "街道信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1AFFFF/2",
@@ -213279,7 +213279,7 @@
   "offset": "209A",
   "jp": "ロンドンシティとヨコハマ\nシティをつなぐ、街道\nキョウトシティへと向かう\n谷道にも通じている",
   "en": "Connects the cities of \nLondon and Yokohama. A\nmountain path also leads\ntoward Kyoto City.",
-  "zh": ""
+  "zh": "连接伦敦市与横滨市的街道。\n途中也可通往前往京都城市的山谷小路。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1A0000/0",
@@ -213288,7 +213288,7 @@
   "offset": "20F8",
   "jp": "ラガウ海沿岸　街道分岐路",
   "en": "Fork",
-  "zh": ""
+  "zh": "拉高海岸　街道分岔路"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1A0001/0",
@@ -213297,7 +213297,7 @@
   "offset": "2116",
   "jp": "ラガウ海沿岸　岬",
   "en": "Cape",
-  "zh": ""
+  "zh": "拉高海岸　海角"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1A0002/0",
@@ -213306,7 +213306,7 @@
   "offset": "212C",
   "jp": "ラガウ海沿岸　埠頭",
   "en": "Wharf",
-  "zh": ""
+  "zh": "拉高海岸　码头"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1BFFFF/0",
@@ -213315,7 +213315,7 @@
   "offset": "2144",
   "jp": "エンチャント学園",
   "en": "Enchant University",
-  "zh": ""
+  "zh": "赋法学园"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1BFFFF/1",
@@ -213324,7 +213324,7 @@
   "offset": "2156",
   "jp": "凍結学園情報説明",
   "en": "",
-  "zh": ""
+  "zh": "冻结学园信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1BFFFF/2",
@@ -213333,7 +213333,7 @@
   "offset": "2168",
   "jp": "クイーンオブアイスの力により\n凍りついたエンチャント学園\n氷におおわれ、かつての威厳\nある姿の面影はない",
   "en": "Enchant University, frozen\nsolid by the Queen of Ice.\nNo trace of its former\nglory remains.",
-  "zh": ""
+  "zh": "因冰之女王的力量而\n彻底冻结的赋法学园。\n被寒冰笼罩，已无半点\n往日威严的模样。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1B0000/0",
@@ -213342,7 +213342,7 @@
   "offset": "21D2",
   "jp": "エンチャント学園　南ホール",
   "en": "South Hall",
-  "zh": ""
+  "zh": "赋法学园　南大厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1B0001/0",
@@ -213351,7 +213351,7 @@
   "offset": "21F2",
   "jp": "エンチャント学園　カフェテリア",
   "en": "Cafeteria",
-  "zh": ""
+  "zh": "赋法学园　餐厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1B0002/0",
@@ -213360,7 +213360,7 @@
   "offset": "2216",
   "jp": "エンチャント学園　中央塔廊下",
   "en": "Tower Corridor",
-  "zh": ""
+  "zh": "赋法学园　中央塔走廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1B0003/0",
@@ -213369,7 +213369,7 @@
   "offset": "2238",
   "jp": "エンチャント学園　図書館",
   "en": "Library",
-  "zh": ""
+  "zh": "赋法学园　图书馆"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1CFFFF/0",
@@ -213378,7 +213378,7 @@
   "offset": "2256",
   "jp": "ヨコハマシティ",
   "en": "Yokohama City",
-  "zh": ""
+  "zh": "横滨市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1CFFFF/1",
@@ -213387,7 +213387,7 @@
   "offset": "2266",
   "jp": "凍結港区情報説明",
   "en": "",
-  "zh": ""
+  "zh": "冻结港区信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1CFFFF/2",
@@ -213396,7 +213396,7 @@
   "offset": "2278",
   "jp": "クイーンオブアイスの力により\n凍りついたヨコハマシティ\n氷におおわれ、生きているもの\nの姿はない",
   "en": "Yokohama City, frozen\nsolid by the Queen of Ice.\nThere are no signs of life\nanywhere.",
-  "zh": ""
+  "zh": "因冰之女王的力量而\n彻底冻结的横滨市。\n被寒冰笼罩，已见不到\n任何活物的身影。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1C0000/0",
@@ -213405,7 +213405,7 @@
   "offset": "22DA",
   "jp": "ヨコハマシティ　港区倉庫",
   "en": "Port Warehouse",
-  "zh": ""
+  "zh": "横滨市　港区仓库"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1C0001/0",
@@ -213414,7 +213414,7 @@
   "offset": "22F8",
   "jp": "ヨコハマシティ　港区税関",
   "en": "Port Customs",
-  "zh": ""
+  "zh": "横滨市　港区海关"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1C0002/0",
@@ -213423,7 +213423,7 @@
   "offset": "2316",
   "jp": "ヨコハマシティ　港区市街地",
   "en": "Port City",
-  "zh": ""
+  "zh": "横滨市　港区街区"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1C0003/0",
@@ -213432,7 +213432,7 @@
   "offset": "2336",
   "jp": "ヨコハマシティ　港区駅",
   "en": "Port Station",
-  "zh": ""
+  "zh": "横滨市　港区车站"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1C0004/0",
@@ -213441,7 +213441,7 @@
   "offset": "2352",
   "jp": "ヨコハマシティ　学園周辺",
   "en": "School Area",
-  "zh": ""
+  "zh": "横滨市　学园周边"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1DFFFF/0",
@@ -213450,7 +213450,7 @@
   "offset": "2370",
   "jp": "魔導研究施設",
   "en": "Magic Laboratory",
-  "zh": ""
+  "zh": "魔导研究设施"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1DFFFF/1",
@@ -213459,7 +213459,7 @@
   "offset": "237E",
   "jp": "コウの魔法塔情報説明",
   "en": "",
-  "zh": ""
+  "zh": "高的魔法塔信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1DFFFF/2",
@@ -213468,7 +213468,7 @@
   "offset": "2394",
   "jp": "高度なエンチャント技術でつく\nりだされた、研究施設",
   "en": "A research facility\ncreated using high-level\nEnchant technology.",
-  "zh": ""
+  "zh": "运用高度赋法技术\n建造而成的研究设施。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1D0000/0",
@@ -213477,7 +213477,7 @@
   "offset": "23C8",
   "jp": "魔導研究施設　転送棟",
   "en": "Transporter Block",
-  "zh": ""
+  "zh": "魔导研究设施　传送栋"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1D0001/0",
@@ -213486,7 +213486,7 @@
   "offset": "23E2",
   "jp": "魔導研究施設　中央棟",
   "en": "Central Block",
-  "zh": ""
+  "zh": "魔导研究设施　中央栋"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1D0006/0",
@@ -213495,7 +213495,7 @@
   "offset": "23FC",
   "jp": "魔導研究施設　臨床棟",
   "en": "Clinic Block",
-  "zh": ""
+  "zh": "魔导研究设施　临床栋"
  },
  {
   "id": "OTHER/MAPLIST.DAT/1D0007/0",
@@ -213504,7 +213504,7 @@
   "offset": "2416",
   "jp": "魔導研究施設　実験棟",
   "en": "Experiment Block",
-  "zh": ""
+  "zh": "魔导研究设施　实验栋"
  },
  {
   "id": "OTHER/MAPLIST.DAT/28FFFF/0",
@@ -213513,7 +213513,7 @@
   "offset": "2430",
   "jp": "ノードニア山地",
   "en": "Nordnia Mines",
-  "zh": ""
+  "zh": "诺德尼亚山地"
  },
  {
   "id": "OTHER/MAPLIST.DAT/28FFFF/1",
@@ -213522,7 +213522,7 @@
   "offset": "2440",
   "jp": "坑道情報説明",
   "en": "",
-  "zh": ""
+  "zh": "坑道信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/28FFFF/2",
@@ -213531,7 +213531,7 @@
   "offset": "244E",
   "jp": "ロンドンシティ郊外にある\n廃坑道。かつては大量のマテリ\nアルが採掘されていたが、今は\n枯渇してしまっている",
   "en": "A mine on the outskirts of\nLondon. Once a rich source\nof material, it has now\ncompletely dried up.",
-  "zh": ""
+  "zh": "位于伦敦市郊外的\n废弃矿道。过去曾开采出\n大量的素材，但如今已完全\n枯竭了。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/280000/0",
@@ -213540,7 +213540,7 @@
   "offset": "24BA",
   "jp": "ノードニア山地　渓谷",
   "en": "Gorge",
-  "zh": ""
+  "zh": "诺德尼亚山地　溪谷"
  },
  {
   "id": "OTHER/MAPLIST.DAT/280002/0",
@@ -213549,7 +213549,7 @@
   "offset": "24D4",
   "jp": "ノードニア山地　廃坑道",
   "en": "Abandoned Mine",
-  "zh": ""
+  "zh": "诺德尼亚山地　废弃矿道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/29FFFF/0",
@@ -213558,7 +213558,7 @@
   "offset": "24F0",
   "jp": "ドルメン遺跡",
   "en": "Dolmen Ruins",
-  "zh": ""
+  "zh": "石棚遗迹"
  },
  {
   "id": "OTHER/MAPLIST.DAT/29FFFF/1",
@@ -213567,7 +213567,7 @@
   "offset": "24FE",
   "jp": "レジスタンスアジト情報説明",
   "en": "",
-  "zh": ""
+  "zh": "反抗军据点信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/29FFFF/2",
@@ -213576,7 +213576,7 @@
   "offset": "251A",
   "jp": "廃坑道の先にある古い遺跡\n古来、炎帝の魔導器を収める場\n所として、ロンドン王家によっ\nてつくりだされた施設",
   "en": "Ancient structure in front\nof the mine. Built long\nago to house the Emperor\nof Fire's Magicore.",
-  "zh": ""
+  "zh": "位于废弃矿道深处的古老遗迹。\n自古以来作为安置炎帝魔导器之所，\n由伦敦王室建造而成的设施。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/290000/0",
@@ -213585,7 +213585,7 @@
   "offset": "2586",
   "jp": "ドルメン遺跡　外郭",
   "en": "Exterior",
-  "zh": ""
+  "zh": "石棚遗迹　外郭"
  },
  {
   "id": "OTHER/MAPLIST.DAT/290002/0",
@@ -213594,7 +213594,7 @@
   "offset": "259E",
   "jp": "ドルメン遺跡　広間",
   "en": "Main Chamber",
-  "zh": ""
+  "zh": "石棚遗迹　大厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/290004/0",
@@ -213603,7 +213603,7 @@
   "offset": "25B6",
   "jp": "ドルメン遺跡　食堂",
   "en": "Dolmen Ruins ",
-  "zh": ""
+  "zh": "多尔门遗迹　食堂"
  },
  {
   "id": "OTHER/MAPLIST.DAT/290005/0",
@@ -213612,7 +213612,7 @@
   "offset": "25CE",
   "jp": "ドルメン遺跡　宿坊",
   "en": "Dormitory",
-  "zh": ""
+  "zh": "多尔门遗迹　宿坊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/290007/0",
@@ -213621,7 +213621,7 @@
   "offset": "25E6",
   "jp": "ドルメン遺跡　作戦室",
   "en": "Operations Room",
-  "zh": ""
+  "zh": "多尔门遗迹　作战室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2AFFFF/0",
@@ -213630,7 +213630,7 @@
   "offset": "2600",
   "jp": "ロンドン城",
   "en": "London Castle",
-  "zh": ""
+  "zh": "伦敦城"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2AFFFF/1",
@@ -213639,7 +213639,7 @@
   "offset": "260C",
   "jp": "崩壊ロンドン城情報説明",
   "en": "",
-  "zh": ""
+  "zh": "崩塌伦敦城信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2AFFFF/2",
@@ -213648,7 +213648,7 @@
   "offset": "2624",
   "jp": "ロンドンシティにある王城\nクイーンオブアイスによって\n各所が破壊されてしまっている",
   "en": "The royal castle of\nLondon. It has suffered\nsome damage from the Queen\nof Ice.",
-  "zh": ""
+  "zh": "位于伦敦市的王城。\n因冰之女王的袭击，\n各处均已化为废墟。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0000/0",
@@ -213657,7 +213657,7 @@
   "offset": "2678",
   "jp": "ロンドン城　廊下",
   "en": "Corridor",
-  "zh": ""
+  "zh": "伦敦城　走廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0002/0",
@@ -213666,7 +213666,7 @@
   "offset": "268E",
   "jp": "ロンドン城　執政室",
   "en": "Admin Chamber",
-  "zh": ""
+  "zh": "伦敦城　执政室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0003/0",
@@ -213675,7 +213675,7 @@
   "offset": "26A6",
   "jp": "ロンドン城　王私室",
   "en": "Royal Quarters",
-  "zh": ""
+  "zh": "伦敦城　国王寝室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0004/0",
@@ -213684,7 +213684,7 @@
   "offset": "26BE",
   "jp": "ロンドン城　大広間",
   "en": "Grand Hall",
-  "zh": ""
+  "zh": "伦敦城　大厅"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0005/0",
@@ -213693,7 +213693,7 @@
   "offset": "26D6",
   "jp": "ロンドン城　炎帝神殿",
   "en": "Inferno Temple",
-  "zh": ""
+  "zh": "伦敦城　炎帝神殿"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0006/0",
@@ -213702,7 +213702,7 @@
   "offset": "26F0",
   "jp": "ロンドン城　謁見の間",
   "en": "Audience Room",
-  "zh": ""
+  "zh": "伦敦城　觐见之室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A0009/0",
@@ -213711,7 +213711,7 @@
   "offset": "270A",
   "jp": "ロンドン城　西貴賓室",
   "en": "West Suite",
-  "zh": ""
+  "zh": "伦敦城　西贵宾室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2A000A/0",
@@ -213720,7 +213720,7 @@
   "offset": "2724",
   "jp": "ロンドン城　東貴賓室",
   "en": "East Suite",
-  "zh": ""
+  "zh": "伦敦城　东贵宾室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2CFFFF/0",
@@ -213729,7 +213729,7 @@
   "offset": "273E",
   "jp": "ロンドンシティ",
   "en": "London City",
-  "zh": ""
+  "zh": "伦敦市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2CFFFF/1",
@@ -213738,7 +213738,7 @@
   "offset": "274E",
   "jp": "崩壊貧民街情報説明",
   "en": "",
-  "zh": ""
+  "zh": "废墟贫民街信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2CFFFF/2",
@@ -213747,7 +213747,7 @@
   "offset": "2762",
   "jp": "大陸の北東に位置する古い歴史\nをもつシティ。炎帝とクイーン\nオブアイスの戦いによって、各\n所が破壊されてしまっている",
   "en": "Historic city in the NE.\nDamaged in the battle\nbetween the Emperor of\nFire and the Queen of Ice.",
-  "zh": ""
+  "zh": "位于大陆东北方、拥有悠久历史\n的城市。由于炎帝与冰之女王\n的激战，多处已化为废墟。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2C0000/0",
@@ -213756,7 +213756,7 @@
   "offset": "27D8",
   "jp": "ロンドンシティ　大階段",
   "en": "Grand Steps",
-  "zh": ""
+  "zh": "伦敦市　大阶梯"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2C0001/0",
@@ -213765,7 +213765,7 @@
   "offset": "27F4",
   "jp": "ロンドンシティ　貧民街",
   "en": "London Inner City",
-  "zh": ""
+  "zh": "伦敦市　贫民街"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2DFFFF/0",
@@ -213774,7 +213774,7 @@
   "offset": "2810",
   "jp": "炎帝神殿",
   "en": "Inferno Temple",
-  "zh": ""
+  "zh": "炎帝神殿"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2DFFFF/1",
@@ -213783,7 +213783,7 @@
   "offset": "281A",
   "jp": "王家地下迷宮情報説明",
   "en": "",
-  "zh": ""
+  "zh": "王家地下迷宫信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2DFFFF/2",
@@ -213792,7 +213792,7 @@
   "offset": "2830",
   "jp": "ロンドン城のダムの底にある\n地下神殿\nデビルゴーレム“炎帝”を\n封じるためにつくりだされた",
   "en": "An underground temple deep\nin the London Castle Dam.\nCreated to house the Devil\nGolem, Emperor of Fire.",
-  "zh": ""
+  "zh": "位于伦敦城大坝下方的\n地下神殿。\n是为了封印恶魔魔像“炎帝”\n而专门建造的场所。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0000/0",
@@ -213801,7 +213801,7 @@
   "offset": "288C",
   "jp": "炎帝神殿　追弔の路",
   "en": "Hall of Grief",
-  "zh": ""
+  "zh": "炎帝神殿　追悼之径"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0001/0",
@@ -213810,7 +213810,7 @@
   "offset": "28A4",
   "jp": "炎帝神殿　墓守の間",
   "en": "Grave Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　守墓之室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0002/0",
@@ -213819,7 +213819,7 @@
   "offset": "28BC",
   "jp": "炎帝神殿　瞑目の間",
   "en": "Tyrant Cell",
-  "zh": ""
+  "zh": "炎帝神殿　瞑目之室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0006/0",
@@ -213828,7 +213828,7 @@
   "offset": "28D4",
   "jp": "炎帝神殿　封印の間",
   "en": "Seal Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　封印之室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0007/0",
@@ -213837,7 +213837,7 @@
   "offset": "28EC",
   "jp": "炎帝神殿　炎帝の路",
   "en": "Royal Hallway",
-  "zh": ""
+  "zh": "炎帝神殿　炎帝之径"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0008/0",
@@ -213846,7 +213846,7 @@
   "offset": "2904",
   "jp": "炎帝神殿　炎帝の間",
   "en": "Royal Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　炎帝之室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/2D0009/0",
@@ -213855,7 +213855,7 @@
   "offset": "291C",
   "jp": "炎帝神殿　祭壇の間",
   "en": "Alter Chamber",
-  "zh": ""
+  "zh": "炎帝神殿　祭坛之室"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3CFFFF/0",
@@ -213864,7 +213864,7 @@
   "offset": "2934",
   "jp": "ヤルツァンプ峡谷",
   "en": "Yalzemp Gorge",
-  "zh": ""
+  "zh": "雅尔赞普峡谷"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3CFFFF/1",
@@ -213873,7 +213873,7 @@
   "offset": "2946",
   "jp": "谷道情報説明",
   "en": "",
-  "zh": ""
+  "zh": "谷道信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3CFFFF/2",
@@ -213882,7 +213882,7 @@
   "offset": "2954",
   "jp": "切り立った渓谷沿いの、谷道\n谷の一角には、一面美しい白い\n花が咲きほこっている",
   "en": "Beautiful white flowers\nbloom along the path\nthrough this impressive\ncanyon.",
-  "zh": ""
+  "zh": "沿着陡峭峡谷延伸的山谷小径。\n在山谷的一角，漫山遍野盛开着\n美丽的白色花朵。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3C0000/0",
@@ -213891,7 +213891,7 @@
   "offset": "29A4",
   "jp": "ヤルツァンプ峡谷　東部",
   "en": "East",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　东部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3C0001/0",
@@ -213900,7 +213900,7 @@
   "offset": "29C0",
   "jp": "ヤルツァンプ峡谷　中部",
   "en": "Center",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　中部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3C0002/0",
@@ -213909,7 +213909,7 @@
   "offset": "29DC",
   "jp": "ヤルツァンプ峡谷　西部",
   "en": "West",
-  "zh": ""
+  "zh": "雅尔赞普峡谷　西部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3C0003/0",
@@ -213918,7 +213918,7 @@
   "offset": "29F8",
   "jp": "ヤルツァンプ峡谷　盆地",
   "en": "Basin",
-  "zh": ""
+  "zh": "雅鲁藏布峡谷 盆地"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3DFFFF/0",
@@ -213927,7 +213927,7 @@
   "offset": "2A14",
   "jp": "ズィラーヤ砂漠",
   "en": "Zuala Desert",
-  "zh": ""
+  "zh": "兹拉雅沙漠"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3DFFFF/1",
@@ -213936,7 +213936,7 @@
   "offset": "2A24",
   "jp": "砂漠情報説明",
   "en": "",
-  "zh": ""
+  "zh": "沙漠信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3DFFFF/2",
@@ -213945,7 +213945,7 @@
   "offset": "2A32",
   "jp": "灼熱の大砂漠\n砂漠に埋もれるようにして古代\nにつくられた遺跡があり、中に\nは財宝が眠ると言われている",
   "en": "A scorching desert. Said\nto be the site of near-\nburied ancient ruins where\nvaluable treasures sleep.",
-  "zh": ""
+  "zh": "酷热难耐的大沙漠\n沙漠中掩埋着古代\n建造的遗迹，据说\n内部沉睡着财宝"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3D0001/0",
@@ -213954,7 +213954,7 @@
   "offset": "2A98",
   "jp": "ズィラーヤ砂漠　遺跡",
   "en": "Ruins",
-  "zh": ""
+  "zh": "兹拉雅沙漠 遗迹"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3D0002/0",
@@ -213963,7 +213963,7 @@
   "offset": "2AB2",
   "jp": "ズィラーヤ砂漠　大砂丘",
   "en": "Dunes",
-  "zh": ""
+  "zh": "兹拉雅沙漠 大沙丘"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3EFFFF/0",
@@ -213972,7 +213972,7 @@
   "offset": "2ACE",
   "jp": "ジャンクシティ",
   "en": "Junk City",
-  "zh": ""
+  "zh": "废品城"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3EFFFF/1",
@@ -213981,7 +213981,7 @@
   "offset": "2ADE",
   "jp": "ジャンクシティ情報説明",
   "en": "",
-  "zh": ""
+  "zh": "废品城信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3EFFFF/2",
@@ -213990,7 +213990,7 @@
   "offset": "2AF6",
   "jp": "砂漠地帯に位置するシティ\n“ジャンク”と呼ばれる古代の\n遺物の上につくられている",
   "en": "Situated in the desert.\nA city built atop \"junk,\" \nor, in other words, the \nrelics of an ancient era.",
-  "zh": ""
+  "zh": "坐落于沙漠地带的城市\n建在被称为“废品”的\n古代遗物之上"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3E0000/0",
@@ -213999,7 +213999,7 @@
   "offset": "2B48",
   "jp": "ジャンクシティ　市街地",
   "en": "Downtown",
-  "zh": ""
+  "zh": "废品城 市区"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3E0002/0",
@@ -214008,7 +214008,7 @@
   "offset": "2B64",
   "jp": "ジャンクシティ　奇岩群",
   "en": "Rock Pinnacles",
-  "zh": ""
+  "zh": "废品城 奇岩群"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3FFFFF/0",
@@ -214017,7 +214017,7 @@
   "offset": "2B80",
   "jp": "ヤマシロ湿原",
   "en": "Yamashiro Marsh",
-  "zh": ""
+  "zh": "山城湿原"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3FFFFF/1",
@@ -214026,7 +214026,7 @@
   "offset": "2B8E",
   "jp": "山麓の湖畔情報説明",
   "en": "",
-  "zh": ""
+  "zh": "山麓湖畔信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3FFFFF/2",
@@ -214035,7 +214035,7 @@
   "offset": "2BA2",
   "jp": "キョウトシティにほど近い湖沼\n地帯。たゆたう清らかな水の上\nに葦の原が広がっている",
   "en": "A wet, marshy region close\nto Kyoto City. A mat of\nreeds covers the pure \nwater underneath.",
-  "zh": ""
+  "zh": "靠近京都城的湖沼地带。\n在荡漾的清澈水面上，\n辽阔的芦苇原绵延不绝"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3F0000/0",
@@ -214044,7 +214044,7 @@
   "offset": "2BF6",
   "jp": "ヤマシロ湿原　湖沼",
   "en": "Lake",
-  "zh": ""
+  "zh": "山城湿原 湖沼"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3F0001/0",
@@ -214053,7 +214053,7 @@
   "offset": "2C0E",
   "jp": "ヤマシロ湿原　大滝",
   "en": "Waterfall",
-  "zh": ""
+  "zh": "山城湿原 大瀑布"
  },
  {
   "id": "OTHER/MAPLIST.DAT/3F0002/0",
@@ -214062,7 +214062,7 @@
   "offset": "2C26",
   "jp": "ヤマシロ湿原　山林",
   "en": "Forest",
-  "zh": ""
+  "zh": "山城湿原 山林"
  },
  {
   "id": "OTHER/MAPLIST.DAT/40FFFF/0",
@@ -214071,7 +214071,7 @@
   "offset": "2C3E",
   "jp": "キョウトシティ",
   "en": "Kyoto City",
-  "zh": ""
+  "zh": "京都城"
  },
  {
   "id": "OTHER/MAPLIST.DAT/40FFFF/1",
@@ -214080,7 +214080,7 @@
   "offset": "2C4E",
   "jp": "キョウトシティー情報説明",
   "en": "",
-  "zh": ""
+  "zh": "京都城信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/40FFFF/2",
@@ -214089,7 +214089,7 @@
   "offset": "2C68",
   "jp": "内陸部に位置する、山と一体化\nしたきらびやかな街\n代々ショウグンと呼ばれる\n統治者が治めている",
   "en": "A dazzling city built\ninside a mountain. Ruled\nby the Shogun.",
-  "zh": ""
+  "zh": "坐落于内陆、与群山融为一体的\n绚丽繁华之都\n世代由被称为将军的\n统治者掌管"
  },
  {
   "id": "OTHER/MAPLIST.DAT/400000/0",
@@ -214098,7 +214098,7 @@
   "offset": "2CC8",
   "jp": "キョウトシティ　市街地",
   "en": "Kyoto City Downtown",
-  "zh": ""
+  "zh": "京都城 市区"
  },
  {
   "id": "OTHER/MAPLIST.DAT/41FFFF/0",
@@ -214107,7 +214107,7 @@
   "offset": "2CE4",
   "jp": "キョウト城",
   "en": "Kyoto Castle",
-  "zh": ""
+  "zh": "京都天守阁"
  },
  {
   "id": "OTHER/MAPLIST.DAT/41FFFF/1",
@@ -214116,7 +214116,7 @@
   "offset": "2CF0",
   "jp": "キョウト城情報説明",
   "en": "",
-  "zh": ""
+  "zh": "京都天守阁信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/41FFFF/2",
@@ -214125,7 +214125,7 @@
   "offset": "2D04",
   "jp": "キョウトシティを治める\nショウグンの居城\nきらびやかな装飾がほどこされ\nており、金塗りの屋根が美しい",
   "en": "The castle of the Shogun,\nruler of Kyoto. Covered\nin ornamental decorations\nand a gold-plated roof.",
-  "zh": ""
+  "zh": "统领京都城的\n将军所居之城\n饰有绚丽夺目的装潢，\n镀金屋顶美轮美奂"
  },
  {
   "id": "OTHER/MAPLIST.DAT/410001/0",
@@ -214134,7 +214134,7 @@
   "offset": "2D6A",
   "jp": "キョウト城　天守",
   "en": "Tower",
-  "zh": ""
+  "zh": "京都天守阁 天守"
  },
  {
   "id": "OTHER/MAPLIST.DAT/410002/0",
@@ -214143,7 +214143,7 @@
   "offset": "2D80",
   "jp": "キョウト城　大広間",
   "en": "Great Hall",
-  "zh": ""
+  "zh": "京都天守阁 大殿"
  },
  {
   "id": "OTHER/MAPLIST.DAT/410004/0",
@@ -214152,7 +214152,7 @@
   "offset": "2D98",
   "jp": "キョウト城　ショウグン寝所",
   "en": "Shogun's Rooms",
-  "zh": ""
+  "zh": "京都天守阁 将军寝殿"
  },
  {
   "id": "OTHER/MAPLIST.DAT/410005/0",
@@ -214161,7 +214161,7 @@
   "offset": "2DB8",
   "jp": "キョウト城　地下道",
   "en": "Underground",
-  "zh": ""
+  "zh": "京都天守阁 地道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/42FFFF/0",
@@ -214170,7 +214170,7 @@
   "offset": "2DD0",
   "jp": "イワトの里",
   "en": "Iwato Village",
-  "zh": ""
+  "zh": "岩户之里"
  },
  {
   "id": "OTHER/MAPLIST.DAT/42FFFF/1",
@@ -214179,7 +214179,7 @@
   "offset": "2DDC",
   "jp": "サヤカの里情報説明",
   "en": "",
-  "zh": ""
+  "zh": "沙耶香之里信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/42FFFF/2",
@@ -214188,7 +214188,7 @@
   "offset": "2DF0",
   "jp": "静かにたたずむ隠れ里\n代々キョウトシティを治める\nショウグンにつかえるサムライ\nの一族が住んでいる",
   "en": "A quiet, hidden village in\nwhich the Samurai, \nservants of the Shogun,\ndwell.",
-  "zh": ""
+  "zh": "静静伫立的隐秘之乡\n世代侍奉京都城统领\n将军的武士一族\n生活于此"
  },
  {
   "id": "OTHER/MAPLIST.DAT/420000/0",
@@ -214197,7 +214197,7 @@
   "offset": "2E54",
   "jp": "イワトの里　里内",
   "en": "Inner Hamlet",
-  "zh": ""
+  "zh": "岩户之里 村内"
  },
  {
   "id": "OTHER/MAPLIST.DAT/420001/0",
@@ -214206,7 +214206,7 @@
   "offset": "2E6A",
   "jp": "イワトの里　屋敷（サヤカの家）",
   "en": "Sayaka's House",
-  "zh": ""
+  "zh": "岩户之里 宅邸（沙耶香家）"
  },
  {
   "id": "OTHER/MAPLIST.DAT/43FFFF/0",
@@ -214215,7 +214215,7 @@
   "offset": "2E8E",
   "jp": "ニンジャ屋敷",
   "en": "Ninja Hideout",
-  "zh": ""
+  "zh": "忍者宅邸"
  },
  {
   "id": "OTHER/MAPLIST.DAT/43FFFF/1",
@@ -214224,7 +214224,7 @@
   "offset": "2E9C",
   "jp": "ニンジャ屋敷情報説明",
   "en": "",
-  "zh": ""
+  "zh": "忍者宅邸信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/43FFFF/2",
@@ -214233,7 +214233,7 @@
   "offset": "2EB2",
   "jp": "ショウグンにつかえるニンジャ\n一族の根城\n侵入者を寄せ付けぬため、様々\nなカラクリが仕掛けられている",
   "en": "Hideaway of the Ninja,\nservants of the Shogun.\nFurnished with many traps\nto deter trespassers.",
-  "zh": ""
+  "zh": "侍奉将军的忍者一族的\n大本营。\n为了抵御入侵者，内部机关\n重重、暗藏玄机。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430000/0",
@@ -214242,7 +214242,7 @@
   "offset": "2F18",
   "jp": "ニンジャ屋敷　屋敷前",
   "en": "Front",
-  "zh": ""
+  "zh": "忍者宅邸 宅邸前"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430001/0",
@@ -214251,7 +214251,7 @@
   "offset": "2F32",
   "jp": "ニンジャ屋敷　地下道",
   "en": "Underground",
-  "zh": ""
+  "zh": "忍者宅邸 地下道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430002/0",
@@ -214260,7 +214260,7 @@
   "offset": "2F4C",
   "jp": "ニンジャ屋敷　居間周辺",
   "en": "Living Rooms",
-  "zh": ""
+  "zh": "忍者宅邸 起居室周边"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430006/0",
@@ -214269,7 +214269,7 @@
   "offset": "2F68",
   "jp": "ニンジャ屋敷　物見",
   "en": "Lookout",
-  "zh": ""
+  "zh": "忍者宅邸 瞭望塔"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430007/0",
@@ -214278,7 +214278,7 @@
   "offset": "2F80",
   "jp": "ニンジャ屋敷　岩屋",
   "en": "Stone Chamber",
-  "zh": ""
+  "zh": "忍者宅邸 石屋"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430064/0",
@@ -214287,7 +214287,7 @@
   "offset": "2F98",
   "jp": "ニンジャ屋敷　屋敷前",
   "en": "Front",
-  "zh": ""
+  "zh": "忍者宅邸 宅邸前"
  },
  {
   "id": "OTHER/MAPLIST.DAT/4300C8/0",
@@ -214296,7 +214296,7 @@
   "offset": "2FB2",
   "jp": "ニンジャ屋敷　屋敷前",
   "en": "Front",
-  "zh": ""
+  "zh": "忍者宅邸 宅邸前"
  },
  {
   "id": "OTHER/MAPLIST.DAT/43012C/0",
@@ -214305,7 +214305,7 @@
   "offset": "2FCC",
   "jp": "ニンジャ屋敷　廊下",
   "en": "Corridor",
-  "zh": ""
+  "zh": "忍者宅邸 回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430190/0",
@@ -214314,7 +214314,7 @@
   "offset": "2FE4",
   "jp": "ニンジャ屋敷　廊下",
   "en": "Corridor",
-  "zh": ""
+  "zh": "忍者宅邸 回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/4301F4/0",
@@ -214323,7 +214323,7 @@
   "offset": "2FFC",
   "jp": "ニンジャ屋敷　廊下",
   "en": "Corridor",
-  "zh": ""
+  "zh": "忍者宅邸 回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430258/0",
@@ -214332,7 +214332,7 @@
   "offset": "3014",
   "jp": "ニンジャ屋敷　廊下",
   "en": "Ninja Hideout ",
-  "zh": ""
+  "zh": "忍者宅邸 回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/4302BC/0",
@@ -214341,7 +214341,7 @@
   "offset": "302C",
   "jp": "ニンジャ屋敷　廊下",
   "en": "Corridor",
-  "zh": ""
+  "zh": "忍者宅邸 回廊"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430320/0",
@@ -214350,7 +214350,7 @@
   "offset": "3044",
   "jp": "ニンジャ屋敷　二階",
   "en": "2nd Floor",
-  "zh": ""
+  "zh": "忍者宅邸 二楼"
  },
  {
   "id": "OTHER/MAPLIST.DAT/430384/0",
@@ -214359,7 +214359,7 @@
   "offset": "305C",
   "jp": "ニンジャ屋敷　二階",
   "en": "2nd Floor",
-  "zh": ""
+  "zh": "忍者宅邸 二楼"
  },
  {
   "id": "OTHER/MAPLIST.DAT/4303E8/0",
@@ -214368,7 +214368,7 @@
   "offset": "3074",
   "jp": "ニンジャ屋敷　灯篭の間",
   "en": "Lantern Room",
-  "zh": ""
+  "zh": "忍者宅邸 灯笼之间"
  },
  {
   "id": "OTHER/MAPLIST.DAT/43044C/0",
@@ -214377,7 +214377,7 @@
   "offset": "3090",
   "jp": "ニンジャ屋敷　二階",
   "en": "2nd Floor",
-  "zh": ""
+  "zh": "忍者宅邸 二楼"
  },
  {
   "id": "OTHER/MAPLIST.DAT/4304B0/0",
@@ -214386,7 +214386,7 @@
   "offset": "30A8",
   "jp": "ニンジャ屋敷　二階",
   "en": "2nd Floor",
-  "zh": ""
+  "zh": "忍者宅邸 二楼"
  },
  {
   "id": "OTHER/MAPLIST.DAT/44FFFF/0",
@@ -214395,7 +214395,7 @@
   "offset": "30C0",
   "jp": "修験場",
   "en": "Ascetic Court",
-  "zh": ""
+  "zh": "修验场"
  },
  {
   "id": "OTHER/MAPLIST.DAT/44FFFF/1",
@@ -214404,7 +214404,7 @@
   "offset": "30C8",
   "jp": "修験場情報説明",
   "en": "",
-  "zh": ""
+  "zh": "修验场情报说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/44FFFF/2",
@@ -214413,7 +214413,7 @@
   "offset": "30D8",
   "jp": "霊験を修得するためにつくられ\nた修行の場。秘術を身につけた\n“シュゲンジャ”が住んでいる",
   "en": "A place created to teach\nspiritual power. Home of\nthe Ascetic Monk, master\nof powerful techniques.",
-  "zh": ""
+  "zh": "为修行灵验之力而建造的\n修行场所。掌握了秘术的\n“修验者”居住在此。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/440000/0",
@@ -214422,7 +214422,7 @@
   "offset": "3132",
   "jp": "修験場　参道",
   "en": "Approach",
-  "zh": ""
+  "zh": "修验场 参道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/440001/0",
@@ -214431,7 +214431,7 @@
   "offset": "3144",
   "jp": "修験場　渓流",
   "en": "Stream",
-  "zh": ""
+  "zh": "修验场 溪流"
  },
  {
   "id": "OTHER/MAPLIST.DAT/440002/0",
@@ -214440,7 +214440,7 @@
   "offset": "3156",
   "jp": "修験場　断崖",
   "en": "Cliff",
-  "zh": ""
+  "zh": "修验场 断崖"
  },
  {
   "id": "OTHER/MAPLIST.DAT/440003/0",
@@ -214449,7 +214449,7 @@
   "offset": "3168",
   "jp": "修験場　霊域",
   "en": "Spirit Region",
-  "zh": ""
+  "zh": "修验场 灵域"
  },
  {
   "id": "OTHER/MAPLIST.DAT/440004/0",
@@ -214458,7 +214458,7 @@
   "offset": "317A",
   "jp": "修験場　砦将の社",
   "en": "Earth Temple",
-  "zh": ""
+  "zh": "修验场 砦将之社"
  },
  {
   "id": "OTHER/MAPLIST.DAT/440005/0",
@@ -214467,7 +214467,7 @@
   "offset": "3190",
   "jp": "修験場　峠",
   "en": "Pass",
-  "zh": ""
+  "zh": "修验场 山道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/50FFFF/0",
@@ -214476,7 +214476,7 @@
   "offset": "31A0",
   "jp": "ヴェオヴィス火山",
   "en": "Vorbios Volcano",
-  "zh": ""
+  "zh": "维奥维斯火山"
  },
  {
   "id": "OTHER/MAPLIST.DAT/50FFFF/1",
@@ -214485,7 +214485,7 @@
   "offset": "31B2",
   "jp": "火山道情報説明",
   "en": "",
-  "zh": ""
+  "zh": "火山道情报说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/50FFFF/2",
@@ -214494,7 +214494,7 @@
   "offset": "31C2",
   "jp": "賢者の塔に続く火山道\n訪れる者はほとんどいない\n灼熱の溶岩が満ちる地",
   "en": "A volcanic road that leads\nto the Sage's Tower.\nFew ever visit this\nscorching mound of magma.",
-  "zh": ""
+  "zh": "通往贤者之塔的火山道。\n鲜少有人涉足此处，\n是一片充满滚烫熔岩的险地。"
  },
  {
   "id": "OTHER/MAPLIST.DAT/500002/0",
@@ -214503,7 +214503,7 @@
   "offset": "3208",
   "jp": "ヴェオヴィス火山　風穴",
   "en": "Wind Tunnel",
-  "zh": ""
+  "zh": "维奥维斯火山 风穴"
  },
  {
   "id": "OTHER/MAPLIST.DAT/500003/0",
@@ -214512,7 +214512,7 @@
   "offset": "3224",
   "jp": "ヴェオヴィス火山　溶岩洞",
   "en": "Magma Cave",
-  "zh": ""
+  "zh": "维奥维斯火山 熔岩洞"
  },
  {
   "id": "OTHER/MAPLIST.DAT/500004/0",
@@ -214521,7 +214521,7 @@
   "offset": "3242",
   "jp": "ヴェオヴィス火山　山頂",
   "en": "Summit",
-  "zh": ""
+  "zh": "维奥维斯火山 山顶"
  },
  {
   "id": "OTHER/MAPLIST.DAT/51FFFF/0",
@@ -214530,7 +214530,7 @@
   "offset": "325E",
   "jp": "賢者の塔",
   "en": "Sage's Tower",
-  "zh": ""
+  "zh": "贤者之塔"
  },
  {
   "id": "OTHER/MAPLIST.DAT/51FFFF/1",
@@ -214539,7 +214539,7 @@
   "offset": "3268",
   "jp": "賢者の塔情報説明",
   "en": "",
-  "zh": ""
+  "zh": "贤者之塔情报说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/51FFFF/2",
@@ -214548,7 +214548,7 @@
   "offset": "327A",
   "jp": "天空に向けてそびえる巨大な塔\n大陸でも最古の建造物で\n塔の頂上には、魔導の知識を\n修めた賢者が住むという",
   "en": "A tall tower. The oldest\nbuilding on the continent.\nA Sage wise in the ways of\nmagic lives at the top.",
-  "zh": ""
+  "zh": "耸立在苍穹之中的巨大高塔\n也是整座大陆上最古老的建筑物\n据说塔顶居住着一位通晓\n魔导知识的贤者"
  },
  {
   "id": "OTHER/MAPLIST.DAT/510000/0",
@@ -214557,7 +214557,7 @@
   "offset": "32E4",
   "jp": "賢者の塔　中央部",
   "en": "Center",
-  "zh": ""
+  "zh": "贤者之塔　中央部"
  },
  {
   "id": "OTHER/MAPLIST.DAT/510001/0",
@@ -214566,7 +214566,7 @@
   "offset": "32FA",
   "jp": "賢者の塔　頂上部",
   "en": "Top Level",
-  "zh": ""
+  "zh": "贤者之塔　顶层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/510002/0",
@@ -214575,7 +214575,7 @@
   "offset": "3310",
   "jp": "賢者の塔　第四層",
   "en": "4th Level",
-  "zh": ""
+  "zh": "贤者之塔　第四层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/510003/0",
@@ -214584,7 +214584,7 @@
   "offset": "3326",
   "jp": "賢者の塔　第二層",
   "en": "2nd Level",
-  "zh": ""
+  "zh": "贤者之塔　第二层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/510004/0",
@@ -214593,7 +214593,7 @@
   "offset": "333C",
   "jp": "賢者の塔　第三層",
   "en": "3rd Level",
-  "zh": ""
+  "zh": "贤者之塔　第三层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53FFFF/0",
@@ -214602,7 +214602,7 @@
   "offset": "3352",
   "jp": "神獣宮",
   "en": "Holy Beast Shrine",
-  "zh": ""
+  "zh": "神兽宫"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53FFFF/1",
@@ -214611,7 +214611,7 @@
   "offset": "335A",
   "jp": "オメガダンジョン情報説明",
   "en": "",
-  "zh": ""
+  "zh": "欧米茄迷宫信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53FFFF/2",
@@ -214620,7 +214620,7 @@
   "offset": "3374",
   "jp": "ゴーレムウォー時代につくり出\nされた奥深い遺跡\n最奥には、伝承の存在である\n神獣が眠ると言われている",
   "en": "A dark remnant of\nthe Golem War. The\nlegendary Holy Beast is\nsaid to sleep inside.",
-  "zh": ""
+  "zh": "在魔像战争时代建造的\n深幽遗迹\n据说在最深处，沉睡着\n传说中的神兽"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530000/0",
@@ -214629,7 +214629,7 @@
   "offset": "33DA",
   "jp": "神獣宮　参道",
   "en": "Approach",
-  "zh": ""
+  "zh": "神兽宫　参道"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530001/0",
@@ -214638,7 +214638,7 @@
   "offset": "33EC",
   "jp": "神獣宮　第一層",
   "en": "1st Level",
-  "zh": ""
+  "zh": "神兽宫　第一层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530002/0",
@@ -214647,7 +214647,7 @@
   "offset": "3400",
   "jp": "神獣宮　第四層",
   "en": "4th Level",
-  "zh": ""
+  "zh": "神兽宫　第四层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530003/0",
@@ -214656,7 +214656,7 @@
   "offset": "3414",
   "jp": "神獣宮　第七層",
   "en": "7th Level",
-  "zh": ""
+  "zh": "神兽宫　第七层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530004/0",
@@ -214665,7 +214665,7 @@
   "offset": "3428",
   "jp": "神獣宮　第十層",
   "en": "10th Level",
-  "zh": ""
+  "zh": "神兽宫　第十层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530005/0",
@@ -214674,7 +214674,7 @@
   "offset": "343C",
   "jp": "神獣宮　神獣神殿",
   "en": "God Temple",
-  "zh": ""
+  "zh": "神兽宫　神兽神殿"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530006/0",
@@ -214683,7 +214683,7 @@
   "offset": "3452",
   "jp": "神獣宮　第二層",
   "en": "2nd Level",
-  "zh": ""
+  "zh": "神兽宫　第二层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530007/0",
@@ -214692,7 +214692,7 @@
   "offset": "3466",
   "jp": "神獣宮　第三層",
   "en": "3rd Level",
-  "zh": ""
+  "zh": "神兽宫　第三层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530008/0",
@@ -214701,7 +214701,7 @@
   "offset": "347A",
   "jp": "神獣宮　第五層",
   "en": "5th Level",
-  "zh": ""
+  "zh": "神兽宫　第五层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/530009/0",
@@ -214710,7 +214710,7 @@
   "offset": "348E",
   "jp": "神獣宮　第六層",
   "en": "6th Level",
-  "zh": ""
+  "zh": "神兽宫　第六层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53000A/0",
@@ -214719,7 +214719,7 @@
   "offset": "34A2",
   "jp": "神獣宮　第八層",
   "en": "8th Level",
-  "zh": ""
+  "zh": "神兽宫　第八层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53000B/0",
@@ -214728,7 +214728,7 @@
   "offset": "34B6",
   "jp": "神獣宮　第九層",
   "en": "9th Level",
-  "zh": ""
+  "zh": "神兽宫　第九层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53000C/0",
@@ -214737,7 +214737,7 @@
   "offset": "34CA",
   "jp": "神獣宮　第十一層",
   "en": "11th Level",
-  "zh": ""
+  "zh": "神兽宫　第十一层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/53000D/0",
@@ -214746,7 +214746,7 @@
   "offset": "34E0",
   "jp": "神獣宮　第十二層",
   "en": "12th Level",
-  "zh": ""
+  "zh": "神兽宫　第十二层"
  },
  {
   "id": "OTHER/MAPLIST.DAT/54FFFF/0",
@@ -214755,7 +214755,7 @@
   "offset": "34F6",
   "jp": "墓守の村",
   "en": "Gravekeep Holm",
-  "zh": ""
+  "zh": "守墓之村"
  },
  {
   "id": "OTHER/MAPLIST.DAT/54FFFF/1",
@@ -214764,7 +214764,7 @@
   "offset": "3500",
   "jp": "最後の村情報説明",
   "en": "",
-  "zh": ""
+  "zh": "最后的村庄信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/54FFFF/2",
@@ -214773,7 +214773,7 @@
   "offset": "3512",
   "jp": "極寒の地にある忘れられた村\n村の奥には、巨大な城壁がそび\nえ立っており、その向こうは\n人外の地だと言われている",
   "en": "A forgotten village in\nthe frozen wastes. Beyond \nthe giant castle walls lie \ninhabitable lands.",
-  "zh": ""
+  "zh": "位于极寒之地被遗忘的村庄\n村庄深处耸立着巨大的城墙\n据说高墙的另一侧\n是人迹罕至的非人之地"
  },
  {
   "id": "OTHER/MAPLIST.DAT/540000/0",
@@ -214782,7 +214782,7 @@
   "offset": "3582",
   "jp": "墓守の村　村内",
   "en": "Village",
-  "zh": ""
+  "zh": "守墓之村　村内"
  },
  {
   "id": "OTHER/MAPLIST.DAT/56FFFF/0",
@@ -214791,7 +214791,7 @@
   "offset": "3596",
   "jp": "氷城",
   "en": "Ice Castle",
-  "zh": ""
+  "zh": "冰城"
  },
  {
   "id": "OTHER/MAPLIST.DAT/56FFFF/1",
@@ -214800,7 +214800,7 @@
   "offset": "359C",
   "jp": "ＱｏＩ古城情報説明",
   "en": "",
-  "zh": ""
+  "zh": "冰之女王古城信息说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/56FFFF/2",
@@ -214809,7 +214809,7 @@
   "offset": "35B0",
   "jp": "クイーンオブアイスの創りあげ\nた巨大な氷の城\n上空にはエーテルの波が集まり\n城を妖しく照らし出している",
   "en": "A giant frozen castle,\ncreated by the Queen of\nIce. Eerily lit by waves\nof Ether.",
-  "zh": ""
+  "zh": "冰之女王所创造的\n巨大冰雪城堡\n上空汇聚的以太波浪\n为城堡笼罩上一层妖异的光辉"
  },
  {
   "id": "OTHER/MAPLIST.DAT/560000/0",
@@ -214818,7 +214818,7 @@
   "offset": "3618",
   "jp": "氷城　外苑",
   "en": "Outer Gardens",
-  "zh": ""
+  "zh": "冰城　外苑"
  },
  {
   "id": "OTHER/MAPLIST.DAT/560001/0",
@@ -214827,7 +214827,7 @@
   "offset": "3628",
   "jp": "氷城　内苑",
   "en": "Inner Gardens",
-  "zh": ""
+  "zh": "冰城　内苑"
  },
  {
   "id": "OTHER/MAPLIST.DAT/560002/0",
@@ -214836,7 +214836,7 @@
   "offset": "3638",
   "jp": "氷城　聖堂",
   "en": "Shrine",
-  "zh": ""
+  "zh": "冰城　圣堂"
  },
  {
   "id": "OTHER/MAPLIST.DAT/560003/0",
@@ -214845,7 +214845,7 @@
   "offset": "3648",
   "jp": "氷城　地下",
   "en": "Underground",
-  "zh": ""
+  "zh": "冰城　地下"
  },
  {
   "id": "OTHER/MAPLIST.DAT/59FFFF/0",
@@ -214854,7 +214854,7 @@
   "offset": "3658",
   "jp": "ヨコハマシティ",
   "en": "Yokohama City",
-  "zh": ""
+  "zh": "横滨市"
  },
  {
   "id": "OTHER/MAPLIST.DAT/59FFFF/1",
@@ -214863,7 +214863,7 @@
   "offset": "3668",
   "jp": "復興ヨコハマシティ情報説明",
   "en": "",
-  "zh": ""
+  "zh": "复兴横滨市情报说明"
  },
  {
   "id": "OTHER/MAPLIST.DAT/59FFFF/2",
@@ -214872,7 +214872,7 @@
   "offset": "3684",
   "jp": "大陸の東に位置する海上都市\n急速な復興活動により、かつて\nの姿を取り戻そうとしている",
   "en": "A maritime city in the\neast, now undergoing some\nhasty reconstruction to \nrestore its former glory.",
-  "zh": ""
+  "zh": "位于大陆东部的海上都市\n正在迅速展开复兴活动，试图\n重现昔日的繁貌"
  },
  {
   "id": "OTHER/MAPLIST.DAT/590000/0",
@@ -214881,7 +214881,7 @@
   "offset": "36DA",
   "jp": "ヨコハマシティ　商業区",
   "en": "Trade District",
-  "zh": ""
+  "zh": "横滨市　商业区"
  },
  {
   "id": "OTHER/MAPLIST.TXT/0/0",
