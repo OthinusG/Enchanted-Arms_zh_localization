@@ -198240,7 +198240,7 @@
   "offset": "14",
   "jp": "・ルール\n\n　１．コンピュータのパーティとバトルをします\n\n　２．バトルに勝利するとチップをもらえます\n　　　\n　３．バトル中にエスケープした場合は敗北になります\n",
   "en": "• Rules\n\n 1．You battle with a computer party.\n\n 2. If you win, you receive chips.\n　　　\n 3. If you flee, you are defeated.\n\n 4. EX gauge will become zero once \n    you enter the battle.",
-  "zh": ""
+  "zh": "・规则\n\n　１．与电脑队伍进行战斗\n\n　２．战斗胜利即可获得筹码\n　　　\n　３．若在战斗中逃跑则视为失败"
  },
  {
   "id": "OTHER/GOLEMBATTLESINGLE.BIN/2/0",
@@ -198249,7 +198249,7 @@
   "offset": "BA",
   "jp": "・遊び方\n\n　１．方向キーで対戦するパーティーを選択します\n\n　２．味方のパーティを編成します\n　　　\n　３．敵パーティとバトルが始まります",
   "en": "• How to Play\n\n 1. Use the left stick to select an enemy\n    party.\n\n 2. Line up your allies. \n　　　\n 3. Start the battle.",
-  "zh": ""
+  "zh": "・玩法\n\n　１．使用方向键选择对战队伍\n\n　２．编制己方队伍\n　　　\n　３．与敌方队伍的战斗随即开始"
  },
  {
   "id": "OTHER/ITEMLIST.TXT/1/0",
