@@ -226239,7 +226239,7 @@
   "offset": "1C10",
   "jp": "アツマ（ダミー1）",
   "en": "",
-  "zh": ""
+  "zh": "阿茨玛（假人1）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2/0",
@@ -226248,7 +226248,7 @@
   "offset": "1C24",
   "jp": "アツマ（ダミー２）",
   "en": "",
-  "zh": ""
+  "zh": "阿茨玛（假人２）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3/0",
@@ -226257,7 +226257,7 @@
   "offset": "1C38",
   "jp": "なまえ３",
   "en": "",
-  "zh": ""
+  "zh": "名字３"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4/0",
@@ -226266,7 +226266,7 @@
   "offset": "1C42",
   "jp": "なまえ４",
   "en": "",
-  "zh": ""
+  "zh": "名字４"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5/0",
@@ -226275,7 +226275,7 @@
   "offset": "1C4C",
   "jp": "なまえ５",
   "en": "",
-  "zh": ""
+  "zh": "名字５"
  },
  {
   "id": "OTHER/NAMELIST.TXT/6/0",
@@ -226284,7 +226284,7 @@
   "offset": "1C56",
   "jp": "なまえ６",
   "en": "",
-  "zh": ""
+  "zh": "名字６"
  },
  {
   "id": "OTHER/NAMELIST.TXT/7/0",
@@ -226293,7 +226293,7 @@
   "offset": "1C60",
   "jp": "マリア",
   "en": "",
-  "zh": ""
+  "zh": "玛丽亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A/0",
@@ -226302,7 +226302,7 @@
   "offset": "1C68",
   "jp": "アツマ",
   "en": "Atsuma",
-  "zh": ""
+  "zh": "阿茨玛"
  },
  {
   "id": "OTHER/NAMELIST.TXT/B/0",
@@ -226311,7 +226311,7 @@
   "offset": "1C70",
   "jp": "アツマ",
   "en": "Atsuma",
-  "zh": ""
+  "zh": "阿茨玛"
  },
  {
   "id": "OTHER/NAMELIST.TXT/C/0",
@@ -226320,7 +226320,7 @@
   "offset": "1C78",
   "jp": "アツマ",
   "en": "Atsuma",
-  "zh": ""
+  "zh": "阿茨玛"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F/0",
@@ -226329,7 +226329,7 @@
   "offset": "1C80",
   "jp": "アツマ",
   "en": "Atsuma",
-  "zh": ""
+  "zh": "阿茨玛"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14/0",
@@ -226338,7 +226338,7 @@
   "offset": "1C88",
   "jp": "トウヤ",
   "en": "Toya",
-  "zh": ""
+  "zh": "托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15/0",
@@ -226347,7 +226347,7 @@
   "offset": "1C90",
   "jp": "トウヤ",
   "en": "Toya",
-  "zh": ""
+  "zh": "托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16/0",
@@ -226356,7 +226356,7 @@
   "offset": "1C98",
   "jp": "トウヤ",
   "en": "Toya",
-  "zh": ""
+  "zh": "托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/19/0",
@@ -226365,7 +226365,7 @@
   "offset": "1CA0",
   "jp": "トウヤ",
   "en": "Toya",
-  "zh": ""
+  "zh": "托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E/0",
@@ -226374,7 +226374,7 @@
   "offset": "1CA8",
   "jp": "マコト",
   "en": "Makoto",
-  "zh": ""
+  "zh": "马科托"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F/0",
@@ -226383,7 +226383,7 @@
   "offset": "1CB0",
   "jp": "謎の男",
   "en": "Mystery Man",
-  "zh": ""
+  "zh": "谜之男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/21/0",
@@ -226392,7 +226392,7 @@
   "offset": "1CB8",
   "jp": "Ｙｏ－Ｙｏ",
   "en": "Yo-Yo",
-  "zh": ""
+  "zh": "Ｙｏ－Ｙｏ"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23/0",
@@ -226401,7 +226401,7 @@
   "offset": "1CC4",
   "jp": "マコト",
   "en": "Makoto",
-  "zh": ""
+  "zh": "马科托"
  },
  {
   "id": "OTHER/NAMELIST.TXT/28/0",
@@ -226410,7 +226410,7 @@
   "offset": "1CCC",
   "jp": "カリン",
   "en": "Karin",
-  "zh": ""
+  "zh": "卡琳"
  },
  {
   "id": "OTHER/NAMELIST.TXT/32/0",
@@ -226419,7 +226419,7 @@
   "offset": "1CD4",
   "jp": "ユウキ",
   "en": "Yuki",
-  "zh": ""
+  "zh": "勇树"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3C/0",
@@ -226428,7 +226428,7 @@
   "offset": "1CDC",
   "jp": "ライガ",
   "en": "Raigar",
-  "zh": ""
+  "zh": "莱加"
  },
  {
   "id": "OTHER/NAMELIST.TXT/46/0",
@@ -226437,7 +226437,7 @@
   "offset": "1CE4",
   "jp": "オボロ",
   "en": "Oboro",
-  "zh": ""
+  "zh": "胧"
  },
  {
   "id": "OTHER/NAMELIST.TXT/48/0",
@@ -226446,7 +226446,7 @@
   "offset": "1CEC",
   "jp": "カゲ",
   "en": "Kage",
-  "zh": ""
+  "zh": "影"
  },
  {
   "id": "OTHER/NAMELIST.TXT/50/0",
@@ -226455,7 +226455,7 @@
   "offset": "1CF2",
   "jp": "サヤカ",
   "en": "Sayaka",
-  "zh": ""
+  "zh": "小耶"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A/0",
@@ -226464,7 +226464,7 @@
   "offset": "1CFA",
   "jp": "コウ",
   "en": "Kou",
-  "zh": ""
+  "zh": "晃"
  },
  {
   "id": "OTHER/NAMELIST.TXT/82/0",
@@ -226473,7 +226473,7 @@
   "offset": "1D00",
   "jp": "生活指導のオニ",
   "en": "Counselor Coach",
-  "zh": ""
+  "zh": "训导恶鬼"
  },
  {
   "id": "OTHER/NAMELIST.TXT/96/0",
@@ -226482,7 +226482,7 @@
   "offset": "1D10",
   "jp": "ＡＡＡリーダー",
   "en": "A3 Leader",
-  "zh": ""
+  "zh": "ＡＡＡ队长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/97/0",
@@ -226491,7 +226491,7 @@
   "offset": "1D20",
   "jp": "ＡＡＡ処理班員",
   "en": "A3 Member",
-  "zh": ""
+  "zh": "ＡＡＡ处理队员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/98/0",
@@ -226500,7 +226500,7 @@
   "offset": "1D30",
   "jp": "ＹＥＣリーダー",
   "en": "YEC Leader",
-  "zh": ""
+  "zh": "ＹＥＣ会长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/99/0",
@@ -226509,7 +226509,7 @@
   "offset": "1D40",
   "jp": "ＹＥＣルーキー",
   "en": "YEC Rookie",
-  "zh": ""
+  "zh": "ＹＥＣ新人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/9A/0",
@@ -226518,7 +226518,7 @@
   "offset": "1D50",
   "jp": "ＹＥＣ幹部",
   "en": "YEC Executive",
-  "zh": ""
+  "zh": "ＹＥＣ干部"
  },
  {
   "id": "OTHER/NAMELIST.TXT/9B/0",
@@ -226527,7 +226527,7 @@
   "offset": "1D5C",
   "jp": "ＴＦＣ会員８０１",
   "en": "TFC Member 801",
-  "zh": ""
+  "zh": "ＴＦＣ会员８０１"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A0/0",
@@ -226536,7 +226536,7 @@
   "offset": "1D6E",
   "jp": "ＡＡＡ情報班員",
   "en": "A3 Info Officer",
-  "zh": ""
+  "zh": "ＡＡＡ情报队员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A1/0",
@@ -226545,7 +226545,7 @@
   "offset": "1D7E",
   "jp": "ＴＦＣ会員００７",
   "en": "TFC Member 007",
-  "zh": ""
+  "zh": "ＴＦＣ会员００７"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A2/0",
@@ -226554,7 +226554,7 @@
   "offset": "1D90",
   "jp": "ＴＦＣ会員００７",
   "en": "TFC Member 007",
-  "zh": ""
+  "zh": "ＴＦＣ会员００７"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A3/0",
@@ -226563,7 +226563,7 @@
   "offset": "1DA2",
   "jp": "ＴＦＣ会員０３５",
   "en": "TFC Member 035",
-  "zh": ""
+  "zh": "ＴＦＣ会员０３５"
  },
  {
   "id": "OTHER/NAMELIST.TXT/B0/0",
@@ -226572,7 +226572,7 @@
   "offset": "1DB4",
   "jp": "クレイジーピザ",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "疯狂披萨"
  },
  {
   "id": "OTHER/NAMELIST.TXT/B3/0",
@@ -226581,7 +226581,7 @@
   "offset": "1DC4",
   "jp": "クレイジーピザ",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "疯狂披萨"
  },
  {
   "id": "OTHER/NAMELIST.TXT/BE/0",
@@ -226590,7 +226590,7 @@
   "offset": "1DD4",
   "jp": "クロフォード",
   "en": "Crawford",
-  "zh": ""
+  "zh": "克劳福德"
  },
  {
   "id": "OTHER/NAMELIST.TXT/154/0",
@@ -226599,7 +226599,7 @@
   "offset": "1DE2",
   "jp": "情にあつい番兵",
   "en": "Friendly Soldier",
-  "zh": ""
+  "zh": "重情义的守兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/168/0",
@@ -226608,7 +226608,7 @@
   "offset": "1DF2",
   "jp": "トキムネ",
   "en": "Tokimune",
-  "zh": ""
+  "zh": "时宗"
  },
  {
   "id": "OTHER/NAMELIST.TXT/190/0",
@@ -226617,7 +226617,7 @@
   "offset": "1DFC",
   "jp": "オウカ",
   "en": "Ooka",
-  "zh": ""
+  "zh": "樱花"
  },
  {
   "id": "OTHER/NAMELIST.TXT/19A/0",
@@ -226626,7 +226626,7 @@
   "offset": "1E04",
   "jp": "カリヴァン",
   "en": "Caliban",
-  "zh": ""
+  "zh": "卡利班"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A4/0",
@@ -226635,7 +226635,7 @@
   "offset": "1E10",
   "jp": "緑光騎士団　剣兵",
   "en": "Green Knight",
-  "zh": ""
+  "zh": "绿光骑士团　剑兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A5/0",
@@ -226644,7 +226644,7 @@
   "offset": "1E22",
   "jp": "緑光騎士団　剣兵",
   "en": "Green Knight",
-  "zh": ""
+  "zh": "绿光骑士团　剑兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A6/0",
@@ -226653,7 +226653,7 @@
   "offset": "1E34",
   "jp": "緑光騎士団　槍兵",
   "en": "Green Lancer",
-  "zh": ""
+  "zh": "绿光骑士团　枪兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A7/0",
@@ -226662,7 +226662,7 @@
   "offset": "1E46",
   "jp": "緑光騎士団　槍兵",
   "en": "Green Lancer",
-  "zh": ""
+  "zh": "绿光骑士团　枪兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/258/0",
@@ -226671,7 +226671,7 @@
   "offset": "1E58",
   "jp": "アーセナルリーダー",
   "en": "Arsenal Leader",
-  "zh": ""
+  "zh": "兵工厂队长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/366/0",
@@ -226680,7 +226680,7 @@
   "offset": "1E6C",
   "jp": "クヒ男",
   "en": "Giggling Man",
-  "zh": ""
+  "zh": "窃笑男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/370/0",
@@ -226689,7 +226689,7 @@
   "offset": "1E74",
   "jp": "カナ",
   "en": "Kana",
-  "zh": ""
+  "zh": "加奈"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E8/0",
@@ -226698,7 +226698,7 @@
   "offset": "1E7A",
   "jp": "トキムネ",
   "en": "Tokimune",
-  "zh": ""
+  "zh": "时宗"
  },
  {
   "id": "OTHER/NAMELIST.TXT/578/0",
@@ -226707,7 +226707,7 @@
   "offset": "1E84",
   "jp": "ジョセイ",
   "en": "Josei",
-  "zh": ""
+  "zh": "女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/582/0",
@@ -226716,7 +226716,7 @@
   "offset": "1E8E",
   "jp": "シュゲンジャ",
   "en": "Ascetic Monk",
-  "zh": ""
+  "zh": "修验者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/58C/0",
@@ -226725,7 +226725,7 @@
   "offset": "1E9C",
   "jp": "賢者",
   "en": "Sage",
-  "zh": ""
+  "zh": "贤者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0/0",
@@ -226734,7 +226734,7 @@
   "offset": "1EA2",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A1/0",
@@ -226743,7 +226743,7 @@
   "offset": "1EAC",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A2/0",
@@ -226752,7 +226752,7 @@
   "offset": "1EB6",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A3/0",
@@ -226761,7 +226761,7 @@
   "offset": "1EC0",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/640/0",
@@ -226770,7 +226770,7 @@
   "offset": "1ECA",
   "jp": "フバイル",
   "en": "Fubial",
-  "zh": ""
+  "zh": "富拜尔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/655/0",
@@ -226779,7 +226779,7 @@
   "offset": "1ED4",
   "jp": "フバイルの腰巾着",
   "en": "Fubial's Aide",
-  "zh": ""
+  "zh": "富拜尔的跟班"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1388/0",
@@ -226788,7 +226788,7 @@
   "offset": "1EE6",
   "jp": "クイーンオブアイス",
   "en": "Queen of Ice",
-  "zh": ""
+  "zh": "冰之女王"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1389/0",
@@ -226797,7 +226797,7 @@
   "offset": "1EFA",
   "jp": "？？？",
   "en": "???",
-  "zh": ""
+  "zh": "？？？"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138A/0",
@@ -226806,7 +226806,7 @@
   "offset": "1F02",
   "jp": "？？？",
   "en": "???",
-  "zh": ""
+  "zh": "？？？"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1392/0",
@@ -226815,7 +226815,7 @@
   "offset": "1F0A",
   "jp": "炎帝",
   "en": "Emperor of Fire",
-  "zh": ""
+  "zh": "炎帝"
  },
  {
   "id": "OTHER/NAMELIST.TXT/139C/0",
@@ -226824,7 +226824,7 @@
   "offset": "1F10",
   "jp": "アマゾニア",
   "en": "Amazonia",
-  "zh": ""
+  "zh": "亚马逊女战士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13A6/0",
@@ -226833,7 +226833,7 @@
   "offset": "1F1C",
   "jp": "サスカッチ",
   "en": "Sasquatch",
-  "zh": ""
+  "zh": "萨斯夸奇"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13B0/0",
@@ -226842,7 +226842,7 @@
   "offset": "1F28",
   "jp": "ヴァルキリー",
   "en": "Valkyrie",
-  "zh": ""
+  "zh": "女武神"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13BA/0",
@@ -226851,7 +226851,7 @@
   "offset": "1F36",
   "jp": "ヴァンパイア",
   "en": "Vampire",
-  "zh": ""
+  "zh": "吸血鬼"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C4/0",
@@ -226860,7 +226860,7 @@
   "offset": "1F44",
   "jp": "ウホボンゴ",
   "en": "Uhabongo",
-  "zh": ""
+  "zh": "乌哈邦戈"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CE/0",
@@ -226869,7 +226869,7 @@
   "offset": "1F50",
   "jp": "ウッディアン",
   "en": "Woodian",
-  "zh": ""
+  "zh": "伍迪安"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13D8/0",
@@ -226878,7 +226878,7 @@
   "offset": "1F5E",
   "jp": "スプーキー・ブー",
   "en": "Spooky Boo",
-  "zh": ""
+  "zh": "幽灵布"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13F6/0",
@@ -226887,7 +226887,7 @@
   "offset": "1F70",
   "jp": "アースゴーレム",
   "en": "Earth Guardian",
-  "zh": ""
+  "zh": "大地魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1400/0",
@@ -226896,7 +226896,7 @@
   "offset": "1F80",
   "jp": "ハウスゴーレム",
   "en": "House Guardian",
-  "zh": ""
+  "zh": "房屋魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/140A/0",
@@ -226905,7 +226905,7 @@
   "offset": "1F90",
   "jp": "プラントゴーレム",
   "en": "Plant Guardian",
-  "zh": ""
+  "zh": "植物魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1414/0",
@@ -226914,7 +226914,7 @@
   "offset": "1FA2",
   "jp": "ローズウィップ",
   "en": "Rosewhip",
-  "zh": ""
+  "zh": "玫瑰长鞭"
  },
  {
   "id": "OTHER/NAMELIST.TXT/141E/0",
@@ -226923,7 +226923,7 @@
   "offset": "1FB2",
   "jp": "テイムトップス",
   "en": "Tiem-Tops",
-  "zh": ""
+  "zh": "驯服陀螺"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1428/0",
@@ -226932,7 +226932,7 @@
   "offset": "1FC2",
   "jp": "ＮＢデストロイヤー",
   "en": "NB Destroyer",
-  "zh": ""
+  "zh": "NB破坏者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1432/0",
@@ -226941,7 +226941,7 @@
   "offset": "1FD6",
   "jp": "イグジスタンス",
   "en": "Existence",
-  "zh": ""
+  "zh": "存在"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1450/0",
@@ -226950,7 +226950,7 @@
   "offset": "1FE6",
   "jp": "エルドラーダ",
   "en": "Eldorada",
-  "zh": ""
+  "zh": "黄金国"
  },
  {
   "id": "OTHER/NAMELIST.TXT/146E/0",
@@ -226959,7 +226959,7 @@
   "offset": "1FF4",
   "jp": "セイレーン",
   "en": "Siren",
-  "zh": ""
+  "zh": "塞壬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1482/0",
@@ -226968,7 +226968,7 @@
   "offset": "2000",
   "jp": "サイレントアサシン",
   "en": "Silent Assassin",
-  "zh": ""
+  "zh": "无声刺客"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1496/0",
@@ -226977,7 +226977,7 @@
   "offset": "2014",
   "jp": "アーリバラッド",
   "en": "Alibarad",
-  "zh": ""
+  "zh": "阿里巴拉德"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14A0/0",
@@ -226986,7 +226986,7 @@
   "offset": "2024",
   "jp": "ダブラード",
   "en": "Dabrad",
-  "zh": ""
+  "zh": "达布拉德"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14AA/0",
@@ -226995,7 +226995,7 @@
   "offset": "2030",
   "jp": "タイガリオン",
   "en": "Taigalion",
-  "zh": ""
+  "zh": "虎狮兽"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14B4/0",
@@ -227004,7 +227004,7 @@
   "offset": "203E",
   "jp": "ウィンドゴーレム",
   "en": "Wind Guardian",
-  "zh": ""
+  "zh": "疾风魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14D2/0",
@@ -227013,7 +227013,7 @@
   "offset": "2050",
   "jp": "フロレシア",
   "en": "Floresia",
-  "zh": ""
+  "zh": "弗洛蕾西亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14DC/0",
@@ -227022,7 +227022,7 @@
   "offset": "205C",
   "jp": "ハーピィ",
   "en": "Harpy",
-  "zh": ""
+  "zh": "鹰身女妖"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14E6/0",
@@ -227031,7 +227031,7 @@
   "offset": "2066",
   "jp": "ファニークラウン",
   "en": "Funny Clown",
-  "zh": ""
+  "zh": "搞笑小丑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14F0/0",
@@ -227040,7 +227040,7 @@
   "offset": "2078",
   "jp": "ファイアーゴーレム",
   "en": "Fire Guardian",
-  "zh": ""
+  "zh": "烈焰魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14FA/0",
@@ -227049,7 +227049,7 @@
   "offset": "208C",
   "jp": "デビルン",
   "en": "Devilin",
-  "zh": ""
+  "zh": "小恶魔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/150E/0",
@@ -227058,7 +227058,7 @@
   "offset": "2096",
   "jp": "エンジェリーナ",
   "en": "Angelina",
-  "zh": ""
+  "zh": "安吉丽娜"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1536/0",
@@ -227067,7 +227067,7 @@
   "offset": "20A6",
   "jp": "プリムローズ",
   "en": "Primrose",
-  "zh": ""
+  "zh": "樱草花"
  },
  {
   "id": "OTHER/NAMELIST.TXT/155E/0",
@@ -227076,7 +227076,7 @@
   "offset": "20B4",
   "jp": "ＳＧドミニオン",
   "en": "SG Dominion",
-  "zh": ""
+  "zh": "SG统治者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1568/0",
@@ -227085,7 +227085,7 @@
   "offset": "20C4",
   "jp": "ＳＧセントール",
   "en": "SG Sentor",
-  "zh": ""
+  "zh": "SG半人马"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1586/0",
@@ -227094,7 +227094,7 @@
   "offset": "20D4",
   "jp": "デイジーブルー",
   "en": "Daisy Blue",
-  "zh": ""
+  "zh": "蓝色雏菊"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1590/0",
@@ -227103,7 +227103,7 @@
   "offset": "20E4",
   "jp": "バグランジ",
   "en": "Baglanji",
-  "zh": ""
+  "zh": "巴格兰吉"
  },
  {
   "id": "OTHER/NAMELIST.TXT/159A/0",
@@ -227112,7 +227112,7 @@
   "offset": "20F0",
   "jp": "ウェアウルフ",
   "en": "Werewolf",
-  "zh": ""
+  "zh": "狼人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15B8/0",
@@ -227121,7 +227121,7 @@
   "offset": "20FE",
   "jp": "ナイトグレネーダー",
   "en": "Knight Grenadier",
-  "zh": ""
+  "zh": "骑士掷弹兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15C2/0",
@@ -227130,7 +227130,7 @@
   "offset": "2112",
   "jp": "ナイトアピューイ",
   "en": "Knight Avei",
-  "zh": ""
+  "zh": "骑士阿皮尤伊"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15D6/0",
@@ -227139,7 +227139,7 @@
   "offset": "2124",
   "jp": "ゴールドスクワット",
   "en": "Gold Squat",
-  "zh": ""
+  "zh": "黄金蹲兽"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15E0/0",
@@ -227148,7 +227148,7 @@
   "offset": "2138",
   "jp": "ロイヤルポーン",
   "en": "Royal Bone",
-  "zh": ""
+  "zh": "皇家步卒"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15EA/0",
@@ -227157,7 +227157,7 @@
   "offset": "2148",
   "jp": "ダリアシールズ",
   "en": "Dariaslez",
-  "zh": ""
+  "zh": "达利亚护盾"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15F4/0",
@@ -227166,7 +227166,7 @@
   "offset": "2158",
   "jp": "ぶるうどっぐ",
   "en": "Bulldog",
-  "zh": ""
+  "zh": "斗牛犬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1608/0",
@@ -227175,7 +227175,7 @@
   "offset": "2166",
   "jp": "ブラッドフェンサー",
   "en": "Blood Fencer",
-  "zh": ""
+  "zh": "鲜血剑士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1612/0",
@@ -227184,7 +227184,7 @@
   "offset": "217A",
   "jp": "ロードオニキス",
   "en": "Lord Onyx",
-  "zh": ""
+  "zh": "玛瑙领主"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1626/0",
@@ -227193,7 +227193,7 @@
   "offset": "218A",
   "jp": "デスサイズ",
   "en": "Death Scythe",
-  "zh": ""
+  "zh": "死神之镰"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1630/0",
@@ -227202,7 +227202,7 @@
   "offset": "2196",
   "jp": "サムライ",
   "en": "Samurai",
-  "zh": ""
+  "zh": "武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/163A/0",
@@ -227211,7 +227211,7 @@
   "offset": "21A0",
   "jp": "リリィリリィ",
   "en": "Lilly-Lilly",
-  "zh": ""
+  "zh": "百合百合"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1662/0",
@@ -227220,7 +227220,7 @@
   "offset": "21AE",
   "jp": "ガリラヤ",
   "en": "Galirya",
-  "zh": ""
+  "zh": "加利利亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/169E/0",
@@ -227229,7 +227229,7 @@
   "offset": "21B8",
   "jp": "レディアズライト",
   "en": "Lady Azlight",
-  "zh": ""
+  "zh": "蓝铜矿夫人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16A8/0",
@@ -227238,7 +227238,7 @@
   "offset": "21CA",
   "jp": "プリオネ",
   "en": "Plione",
-  "zh": ""
+  "zh": "普利昂"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16C6/0",
@@ -227247,7 +227247,7 @@
   "offset": "21D4",
   "jp": "ベラドンナ",
   "en": "Belladonna",
-  "zh": ""
+  "zh": "贝拉多娜"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16D0/0",
@@ -227256,7 +227256,7 @@
   "offset": "21E0",
   "jp": "メイジガーディアン",
   "en": "Mage Guardian",
-  "zh": ""
+  "zh": "法师守卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16DA/0",
@@ -227265,7 +227265,7 @@
   "offset": "21F4",
   "jp": "クロウベリィ",
   "en": "Crowberry",
-  "zh": ""
+  "zh": "岩高兰"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16E4/0",
@@ -227274,7 +227274,7 @@
   "offset": "2202",
   "jp": "リオ・ミモーザ",
   "en": "Rio Mimoza",
-  "zh": ""
+  "zh": "含羞草河"
  },
  {
   "id": "OTHER/NAMELIST.TXT/16EE/0",
@@ -227283,7 +227283,7 @@
   "offset": "2212",
   "jp": "ゆずりは",
   "en": "Yuzuriha",
-  "zh": ""
+  "zh": "杠"
  },
  {
   "id": "OTHER/NAMELIST.TXT/170C/0",
@@ -227292,7 +227292,7 @@
   "offset": "221C",
   "jp": "アークエンジェル",
   "en": "Archangel",
-  "zh": ""
+  "zh": "大天使"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1720/0",
@@ -227301,7 +227301,7 @@
   "offset": "222E",
   "jp": "サーベルタイガー",
   "en": "Saber Tiger",
-  "zh": ""
+  "zh": "剑齿虎"
  },
  {
   "id": "OTHER/NAMELIST.TXT/172A/0",
@@ -227310,7 +227310,7 @@
   "offset": "2240",
   "jp": "スフィンクス",
   "en": "Sphinx",
-  "zh": ""
+  "zh": "斯芬克斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/173E/0",
@@ -227319,7 +227319,7 @@
   "offset": "224E",
   "jp": "ゲイルランサー",
   "en": "Gale Lancer",
-  "zh": ""
+  "zh": "疾风枪兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/175C/0",
@@ -227328,7 +227328,7 @@
   "offset": "225E",
   "jp": "ペガサス",
   "en": "Pegasus",
-  "zh": ""
+  "zh": "佩加索斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1766/0",
@@ -227337,7 +227337,7 @@
   "offset": "2268",
   "jp": "ルビィバタフライ",
   "en": "Ruby Butterfly",
-  "zh": ""
+  "zh": "红宝石蝴蝶"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1770/0",
@@ -227346,7 +227346,7 @@
   "offset": "227A",
   "jp": "ポセイドン",
   "en": "Poseidon",
-  "zh": ""
+  "zh": "波塞冬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/177A/0",
@@ -227355,7 +227355,7 @@
   "offset": "2286",
   "jp": "マーメイド",
   "en": "Mermaid",
-  "zh": ""
+  "zh": "美人鱼"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1784/0",
@@ -227364,7 +227364,7 @@
   "offset": "2292",
   "jp": "グレートマンモス",
   "en": "Great Mammoth",
-  "zh": ""
+  "zh": "巨型猛犸"
  },
  {
   "id": "OTHER/NAMELIST.TXT/178E/0",
@@ -227373,7 +227373,7 @@
   "offset": "22A4",
   "jp": "ヒュドラ",
   "en": "Hydra",
-  "zh": ""
+  "zh": "许德拉"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1798/0",
@@ -227382,7 +227382,7 @@
   "offset": "22AE",
   "jp": "バンドッグ",
   "en": "Vandog",
-  "zh": ""
+  "zh": "恶犬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17A2/0",
@@ -227391,7 +227391,7 @@
   "offset": "22BA",
   "jp": "ガーネットキティ",
   "en": "Garnet Kitty",
-  "zh": ""
+  "zh": "石榴石小猫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17B6/0",
@@ -227400,7 +227400,7 @@
   "offset": "22CC",
   "jp": "パレスガンナー",
   "en": "Palace Gunner",
-  "zh": ""
+  "zh": "宫廷枪手"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17D4/0",
@@ -227409,7 +227409,7 @@
   "offset": "22DC",
   "jp": "ナイトサーヴァント",
   "en": "Knight Servant",
-  "zh": ""
+  "zh": "骑士从从"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17DE/0",
@@ -227418,7 +227418,7 @@
   "offset": "22F0",
   "jp": "カブキ",
   "en": "Kabuki",
-  "zh": ""
+  "zh": "歌舞伎"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17F2/0",
@@ -227427,7 +227427,7 @@
   "offset": "22F8",
   "jp": "オルフェウス",
   "en": "Orpheus",
-  "zh": ""
+  "zh": "俄耳甫斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17FC/0",
@@ -227436,7 +227436,7 @@
   "offset": "2306",
   "jp": "クノイチ",
   "en": "Kunoichi",
-  "zh": ""
+  "zh": "女忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/17FD/0",
@@ -227445,7 +227445,7 @@
   "offset": "2310",
   "jp": "ホノカ",
   "en": "Honoka",
-  "zh": ""
+  "zh": "穗乃香"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1806/0",
@@ -227454,7 +227454,7 @@
   "offset": "2318",
   "jp": "ホノカ",
   "en": "Honoka",
-  "zh": ""
+  "zh": "穗乃香"
  },
  {
   "id": "OTHER/NAMELIST.TXT/181A/0",
@@ -227463,7 +227463,7 @@
   "offset": "2320",
   "jp": "ラピスマギナ",
   "en": "Lapis Magina",
-  "zh": ""
+  "zh": "青金石玛吉娜"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1856/0",
@@ -227472,7 +227472,7 @@
   "offset": "232E",
   "jp": "ミノタウロス",
   "en": "Minotaur",
-  "zh": ""
+  "zh": "米诺陶洛斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1860/0",
@@ -227481,7 +227481,7 @@
   "offset": "233C",
   "jp": "メドゥーサ",
   "en": "Medusa",
-  "zh": ""
+  "zh": "美杜莎"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1874/0",
@@ -227490,7 +227490,7 @@
   "offset": "2348",
   "jp": "ホルス",
   "en": "",
-  "zh": ""
+  "zh": "荷鲁斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1888/0",
@@ -227499,7 +227499,7 @@
   "offset": "2350",
   "jp": "ラットザリッパー",
   "en": "Rat The Ripper",
-  "zh": ""
+  "zh": "开膛手鼠"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1892/0",
@@ -227508,7 +227508,7 @@
   "offset": "2362",
   "jp": "バジリスク",
   "en": "Basilisk",
-  "zh": ""
+  "zh": "巴西利斯克"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A6/0",
@@ -227517,7 +227517,7 @@
   "offset": "236E",
   "jp": "カマイタチ",
   "en": "",
-  "zh": ""
+  "zh": "镰鼬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18BA/0",
@@ -227526,7 +227526,7 @@
   "offset": "237A",
   "jp": "ケルベロス",
   "en": "Cerberus",
-  "zh": ""
+  "zh": "刻耳柏洛斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1900/0",
@@ -227535,7 +227535,7 @@
   "offset": "2386",
   "jp": "鴉天狗",
   "en": "",
-  "zh": ""
+  "zh": "鸦天狗"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1914/0",
@@ -227544,7 +227544,7 @@
   "offset": "238E",
   "jp": "スザク",
   "en": "Phoenicia",
-  "zh": ""
+  "zh": "朱雀"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1946/0",
@@ -227553,7 +227553,7 @@
   "offset": "2396",
   "jp": "セイリュウ",
   "en": "Aero Dragon",
-  "zh": ""
+  "zh": "青龙"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1950/0",
@@ -227562,7 +227562,7 @@
   "offset": "23A2",
   "jp": "ライトアポストル",
   "en": "Light Apostle",
-  "zh": ""
+  "zh": "光之信徒"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1964/0",
@@ -227571,7 +227571,7 @@
   "offset": "23B4",
   "jp": "アクアジェル",
   "en": "Aqua Jelly",
-  "zh": ""
+  "zh": "水母胶怪"
  },
  {
   "id": "OTHER/NAMELIST.TXT/198C/0",
@@ -227580,7 +227580,7 @@
   "offset": "23C2",
   "jp": "ガーゴイル",
   "en": "Gargoyle",
-  "zh": ""
+  "zh": "石像鬼"
  },
  {
   "id": "OTHER/NAMELIST.TXT/19DC/0",
@@ -227589,7 +227589,7 @@
   "offset": "23CE",
   "jp": "グランドクロスＶ",
   "en": "Grand Cross V",
-  "zh": ""
+  "zh": "大十字V"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A0E/0",
@@ -227598,7 +227598,7 @@
   "offset": "23E0",
   "jp": "プリルコットン",
   "en": "Prill Cotton",
-  "zh": ""
+  "zh": "棉球灵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A18/0",
@@ -227607,7 +227607,7 @@
   "offset": "23F0",
   "jp": "リネアリス",
   "en": "Lenialis",
-  "zh": ""
+  "zh": "莉妮雅丽丝"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A22/0",
@@ -227616,7 +227616,7 @@
   "offset": "23FC",
   "jp": "だるま師匠",
   "en": "Round Master",
-  "zh": ""
+  "zh": "达摩大师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A5E/0",
@@ -227625,7 +227625,7 @@
   "offset": "2408",
   "jp": "ファリーキャロル",
   "en": "Folly Carol",
-  "zh": ""
+  "zh": "蠢行颂歌"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A7C/0",
@@ -227634,7 +227634,7 @@
   "offset": "241A",
   "jp": "ナ・イール",
   "en": "Na Eil",
-  "zh": ""
+  "zh": "纳·伊尔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1A90/0",
@@ -227643,7 +227643,7 @@
   "offset": "2426",
   "jp": "スケルトン",
   "en": "Skeleton",
-  "zh": ""
+  "zh": "骷髅兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1AB8/0",
@@ -227652,7 +227652,7 @@
   "offset": "2432",
   "jp": "ワラシャーマン",
   "en": "Straw Shaman",
-  "zh": ""
+  "zh": "稻草萨满"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1AC2/0",
@@ -227661,7 +227661,7 @@
   "offset": "2442",
   "jp": "ピエロ死神",
   "en": "",
-  "zh": ""
+  "zh": "小丑死神"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1ACC/0",
@@ -227670,7 +227670,7 @@
   "offset": "244E",
   "jp": "マーリングレイヴ",
   "en": "Marlin Glave",
-  "zh": ""
+  "zh": "旗鱼战戟"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1AEA/0",
@@ -227679,7 +227679,7 @@
   "offset": "2460",
   "jp": "オーディン",
   "en": "Odin",
-  "zh": ""
+  "zh": "奥丁"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1AF4/0",
@@ -227688,7 +227688,7 @@
   "offset": "246C",
   "jp": "砦将",
   "en": "Lord of Earth",
-  "zh": ""
+  "zh": "砦将"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1AFE/0",
@@ -227697,7 +227697,7 @@
   "offset": "2472",
   "jp": "アヌビス",
   "en": "Anubis",
-  "zh": ""
+  "zh": "阿努比斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B08/0",
@@ -227706,7 +227706,7 @@
   "offset": "247C",
   "jp": "黒竜",
   "en": "Black Dragon",
-  "zh": ""
+  "zh": "黑龙"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B12/0",
@@ -227715,7 +227715,7 @@
   "offset": "2482",
   "jp": "ブレインオブヘッド",
   "en": "Infinity",
-  "zh": ""
+  "zh": "脑核首脑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B13/0",
@@ -227724,7 +227724,7 @@
   "offset": "2496",
   "jp": "ブレインオブヘッド",
   "en": "Infinity",
-  "zh": ""
+  "zh": "脑核首脑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B14/0",
@@ -227733,7 +227733,7 @@
   "offset": "24AA",
   "jp": "ブレインオブヘッド",
   "en": "Infinity",
-  "zh": ""
+  "zh": "脑核首脑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B15/0",
@@ -227742,7 +227742,7 @@
   "offset": "24BE",
   "jp": "ブレインオブヘッド",
   "en": "Infinity",
-  "zh": ""
+  "zh": "脑核首脑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B16/0",
@@ -227751,7 +227751,7 @@
   "offset": "24D2",
   "jp": "ブレインオブヘッド",
   "en": "Infinity",
-  "zh": ""
+  "zh": "脑核首脑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B17/0",
@@ -227760,7 +227760,7 @@
   "offset": "24E6",
   "jp": "ブレインオブヘッド",
   "en": "Infinity",
-  "zh": ""
+  "zh": "脑核首脑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B18/0",
@@ -227769,7 +227769,7 @@
   "offset": "24FA",
   "jp": "エーテルの腕",
   "en": "",
-  "zh": ""
+  "zh": "以太之臂"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B19/0",
@@ -227778,7 +227778,7 @@
   "offset": "2508",
   "jp": "ＱｏＩ魔導器",
   "en": "Queen of Ice MC",
-  "zh": ""
+  "zh": "冰之女王魔导器"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B1A/0",
@@ -227787,7 +227787,7 @@
   "offset": "2516",
   "jp": "炎帝魔導器",
   "en": "Fire Emperor MC",
-  "zh": ""
+  "zh": "炎帝魔导器"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B1B/0",
@@ -227796,7 +227796,7 @@
   "offset": "2522",
   "jp": "砦将魔導器",
   "en": "Lord of Earth MC",
-  "zh": ""
+  "zh": "砦将魔导器"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B1C/0",
@@ -227805,7 +227805,7 @@
   "offset": "252E",
   "jp": "対デビルゴーレム兵器",
   "en": "",
-  "zh": ""
+  "zh": "对恶魔魔像兵器"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B26/0",
@@ -227814,7 +227814,7 @@
   "offset": "2544",
   "jp": "ライコウ",
   "en": "Raiko",
-  "zh": ""
+  "zh": "雷光"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B30/0",
@@ -227823,7 +227823,7 @@
   "offset": "254E",
   "jp": "ＡＰＯ",
   "en": "APO",
-  "zh": ""
+  "zh": "ＡＰＯ"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B3A/0",
@@ -227832,7 +227832,7 @@
   "offset": "2556",
   "jp": "Ｍｒ．プレジデント",
   "en": "Executor",
-  "zh": ""
+  "zh": "总统先生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B44/0",
@@ -227841,7 +227841,7 @@
   "offset": "256A",
   "jp": "ＧＰヨコハマガード",
   "en": "Yokohama Guard",
-  "zh": ""
+  "zh": "ＧＰ横滨守卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B4E/0",
@@ -227850,7 +227850,7 @@
   "offset": "257E",
   "jp": "あおいろ童子",
   "en": "Blue Imp",
-  "zh": ""
+  "zh": "青色童子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B62/0",
@@ -227859,7 +227859,7 @@
   "offset": "258C",
   "jp": "ビャッコ",
   "en": "White Tiger",
-  "zh": ""
+  "zh": "白虎"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B6C/0",
@@ -227868,7 +227868,7 @@
   "offset": "2596",
   "jp": "ゲンブ",
   "en": "Divine Turtle",
-  "zh": ""
+  "zh": "玄武"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B76/0",
@@ -227877,7 +227877,7 @@
   "offset": "259E",
   "jp": "メガペンガ",
   "en": "Mega Penga",
-  "zh": ""
+  "zh": "百万企鹅"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B80/0",
@@ -227886,7 +227886,7 @@
   "offset": "25AA",
   "jp": "セバスチャン",
   "en": "Sebastian",
-  "zh": ""
+  "zh": "塞巴斯蒂安"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B8A/0",
@@ -227895,7 +227895,7 @@
   "offset": "25B8",
   "jp": "インフィニティ",
   "en": "Omega",
-  "zh": ""
+  "zh": "无限"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B94/0",
@@ -227904,7 +227904,7 @@
   "offset": "25C8",
   "jp": "砦将",
   "en": "Lord of Earth",
-  "zh": ""
+  "zh": "砦将"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1B9E/0",
@@ -227913,7 +227913,7 @@
   "offset": "25CE",
   "jp": "炎帝",
   "en": "Emperor of Fire",
-  "zh": ""
+  "zh": "炎帝"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1BA8/0",
@@ -227922,7 +227922,7 @@
   "offset": "25D4",
   "jp": "アヌビス",
   "en": "Anubis",
-  "zh": ""
+  "zh": "阿努比斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1BB2/0",
@@ -227931,7 +227931,7 @@
   "offset": "25DE",
   "jp": "黒竜",
   "en": "Black Dragon",
-  "zh": ""
+  "zh": "黑龙"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1BBC/0",
@@ -227940,7 +227940,7 @@
   "offset": "25E4",
   "jp": "クイーンオブアイス",
   "en": "Queen of Ice",
-  "zh": ""
+  "zh": "冰之女王"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1BC6/0",
@@ -227949,7 +227949,7 @@
   "offset": "25F8",
   "jp": "クラウドブレイカー",
   "en": "Ground Breaker",
-  "zh": ""
+  "zh": "碎地者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1BD0/0",
@@ -227958,7 +227958,7 @@
   "offset": "260C",
   "jp": "舞",
   "en": "",
-  "zh": ""
+  "zh": "舞"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1BDA/0",
@@ -227967,7 +227967,7 @@
   "offset": "2610",
   "jp": "パンプキンジャック",
   "en": "Calabaza",
-  "zh": ""
+  "zh": "南瓜杰克"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C20/0",
@@ -227976,7 +227976,7 @@
   "offset": "2624",
   "jp": "キマイラ",
   "en": "Chimera",
-  "zh": ""
+  "zh": "奇美拉"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C2A/0",
@@ -227985,7 +227985,7 @@
   "offset": "262E",
   "jp": "スレイプニル",
   "en": "Sleepnil",
-  "zh": ""
+  "zh": "斯雷普尼尔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C34/0",
@@ -227994,7 +227994,7 @@
   "offset": "263C",
   "jp": "ゾンビゴーレム",
   "en": "Zombie",
-  "zh": ""
+  "zh": "僵尸魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C3E/0",
@@ -228003,7 +228003,7 @@
   "offset": "264C",
   "jp": "レディセレナイト",
   "en": "Lady Selene",
-  "zh": ""
+  "zh": "月光女士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C48/0",
@@ -228012,7 +228012,7 @@
   "offset": "265E",
   "jp": "アトラス",
   "en": "Atlas",
-  "zh": ""
+  "zh": "阿特拉斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C52/0",
@@ -228021,7 +228021,7 @@
   "offset": "2668",
   "jp": "ジン",
   "en": "Djin",
-  "zh": ""
+  "zh": "精灵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C5C/0",
@@ -228030,7 +228030,7 @@
   "offset": "266E",
   "jp": "ディノタイタス",
   "en": "Dianotitus",
-  "zh": ""
+  "zh": "恐暴泰坦"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C66/0",
@@ -228039,7 +228039,7 @@
   "offset": "267E",
   "jp": "アログナトゥス",
   "en": "Alognatus",
-  "zh": ""
+  "zh": "异颚兽"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C70/0",
@@ -228048,7 +228048,7 @@
   "offset": "268E",
   "jp": "ジュレ・クリムスン",
   "en": "Jure Crimson",
-  "zh": ""
+  "zh": "深红胶质怪"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C7A/0",
@@ -228057,7 +228057,7 @@
   "offset": "26A2",
   "jp": "アニマ",
   "en": "Aniana",
-  "zh": ""
+  "zh": "阿尼玛"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C84/0",
@@ -228066,7 +228066,7 @@
   "offset": "26AA",
   "jp": "ケイオスグラント",
   "en": "Chaos Grant",
-  "zh": ""
+  "zh": "混沌古兰特"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C8E/0",
@@ -228075,7 +228075,7 @@
   "offset": "26BC",
   "jp": "ロージィ・スピネル",
   "en": "Rosy Spinel",
-  "zh": ""
+  "zh": "玫瑰尖晶"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1C98/0",
@@ -228084,7 +228084,7 @@
   "offset": "26D0",
   "jp": "ブレイズインプ",
   "en": "Blaze Imp",
-  "zh": ""
+  "zh": "炽焰小恶魔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CA2/0",
@@ -228093,7 +228093,7 @@
   "offset": "26E0",
   "jp": "アダープラント",
   "en": "Adaplant",
-  "zh": ""
+  "zh": "蝮蛇植物"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CAC/0",
@@ -228102,7 +228102,7 @@
   "offset": "26F0",
   "jp": "コンゴウブジン",
   "en": "Grand Warrior",
-  "zh": ""
+  "zh": "金刚武人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CB6/0",
@@ -228111,7 +228111,7 @@
   "offset": "2700",
   "jp": "キャノンガーダー",
   "en": "Cannon Guarder",
-  "zh": ""
+  "zh": "加农守卫者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CC0/0",
@@ -228120,7 +228120,7 @@
   "offset": "2712",
   "jp": "サハギン",
   "en": "Sahagin",
-  "zh": ""
+  "zh": "沙华鱼人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CCA/0",
@@ -228129,7 +228129,7 @@
   "offset": "271C",
   "jp": "グリフォン",
   "en": "Griffon",
-  "zh": ""
+  "zh": "狮鹫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CD4/0",
@@ -228138,7 +228138,7 @@
   "offset": "2728",
   "jp": "ホブゴブリン",
   "en": "Hobgoblin",
-  "zh": ""
+  "zh": "大地精"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CDE/0",
@@ -228147,7 +228147,7 @@
   "offset": "2736",
   "jp": "バラモン",
   "en": "Baramon",
-  "zh": ""
+  "zh": "婆罗门"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CE8/0",
@@ -228156,7 +228156,7 @@
   "offset": "2740",
   "jp": "アイスゴーレム",
   "en": "Ice Guardian",
-  "zh": ""
+  "zh": "冰霜魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CF2/0",
@@ -228165,7 +228165,7 @@
   "offset": "2750",
   "jp": "イビルアイ",
   "en": "Evil Eye",
-  "zh": ""
+  "zh": "邪眼"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1CFC/0",
@@ -228174,7 +228174,7 @@
   "offset": "275C",
   "jp": "カマイタチ",
   "en": "Wind Cutter",
-  "zh": ""
+  "zh": "镰鼬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D06/0",
@@ -228183,7 +228183,7 @@
   "offset": "2768",
   "jp": "イーグルランサー",
   "en": "Eagle Lancer",
-  "zh": ""
+  "zh": "鹰枪兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D10/0",
@@ -228192,7 +228192,7 @@
   "offset": "277A",
   "jp": "ネクロマンサー",
   "en": "Necromancer",
-  "zh": ""
+  "zh": "死灵法师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D1A/0",
@@ -228201,7 +228201,7 @@
   "offset": "278A",
   "jp": "ドゥエンデ",
   "en": "Duende",
-  "zh": ""
+  "zh": "杜恩德"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D24/0",
@@ -228210,7 +228210,7 @@
   "offset": "2796",
   "jp": "アズラエル",
   "en": "Azriel",
-  "zh": ""
+  "zh": "亚兹拉尔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D2E/0",
@@ -228219,7 +228219,7 @@
   "offset": "27A2",
   "jp": "バーサーカー",
   "en": "Berserker",
-  "zh": ""
+  "zh": "狂战士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D38/0",
@@ -228228,7 +228228,7 @@
   "offset": "27B0",
   "jp": "セラフィム",
   "en": "Seraphim",
-  "zh": ""
+  "zh": "炽天使"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D42/0",
@@ -228237,7 +228237,7 @@
   "offset": "27BC",
   "jp": "ベリアル",
   "en": "Belial",
-  "zh": ""
+  "zh": "贝利尔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F3E/0",
@@ -228246,7 +228246,7 @@
   "offset": "27C6",
   "jp": "ダミーザコ",
   "en": "",
-  "zh": ""
+  "zh": "测试杂兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F3F/0",
@@ -228255,7 +228255,7 @@
   "offset": "27D2",
   "jp": "ダミーボス",
   "en": "",
-  "zh": ""
+  "zh": "测试Boss"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F40/0",
@@ -228264,7 +228264,7 @@
   "offset": "27DE",
   "jp": "コアマテリアル",
   "en": "Core Material",
-  "zh": ""
+  "zh": "核心素材"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F41/0",
@@ -228273,7 +228273,7 @@
   "offset": "27EE",
   "jp": "チェック用１",
   "en": "",
-  "zh": ""
+  "zh": "检查用１"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F42/0",
@@ -228282,7 +228282,7 @@
   "offset": "27FC",
   "jp": "チェック用２",
   "en": "",
-  "zh": ""
+  "zh": "检查用２"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F43/0",
@@ -228291,7 +228291,7 @@
   "offset": "280A",
   "jp": "チェック用３",
   "en": "",
-  "zh": ""
+  "zh": "检查用３"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F44/0",
@@ -228300,7 +228300,7 @@
   "offset": "2818",
   "jp": "魔導器ダミー",
   "en": "",
-  "zh": ""
+  "zh": "魔导器测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F45/0",
@@ -228309,7 +228309,7 @@
   "offset": "2826",
   "jp": "アツマ１２０％",
   "en": "",
-  "zh": ""
+  "zh": "阿茨玛１２０％"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F4A/0",
@@ -228318,7 +228318,7 @@
   "offset": "2836",
   "jp": "トウヤ　Ｌｖ１テスト",
   "en": "",
-  "zh": ""
+  "zh": "托亚　Lv1测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F4B/0",
@@ -228327,7 +228327,7 @@
   "offset": "284C",
   "jp": "トウヤ",
   "en": "Toya",
-  "zh": ""
+  "zh": "托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F4C/0",
@@ -228336,7 +228336,7 @@
   "offset": "2854",
   "jp": "トウヤ　Ｌｖ１０テスト",
   "en": "",
-  "zh": ""
+  "zh": "托亚　Lv10测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F4D/0",
@@ -228345,7 +228345,7 @@
   "offset": "286C",
   "jp": "近距離トウヤ",
   "en": "",
-  "zh": ""
+  "zh": "近距离托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F4E/0",
@@ -228354,7 +228354,7 @@
   "offset": "287A",
   "jp": "トウヤ１２０％",
   "en": "",
-  "zh": ""
+  "zh": "托亚１２０％"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F54/0",
@@ -228363,7 +228363,7 @@
   "offset": "288A",
   "jp": "マコト　Ｌｖ１テスト",
   "en": "",
-  "zh": ""
+  "zh": "马科托　Lv1测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F55/0",
@@ -228372,7 +228372,7 @@
   "offset": "28A0",
   "jp": "マコト",
   "en": "Makoto",
-  "zh": ""
+  "zh": "马科托"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F56/0",
@@ -228381,7 +228381,7 @@
   "offset": "28A8",
   "jp": "マコト　Ｌｖ１０テスト",
   "en": "",
-  "zh": ""
+  "zh": "马科托　Lv10测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F57/0",
@@ -228390,7 +228390,7 @@
   "offset": "28C0",
   "jp": "マコト１２０％",
   "en": "",
-  "zh": ""
+  "zh": "马科托１２０％"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F5E/0",
@@ -228399,7 +228399,7 @@
   "offset": "28D0",
   "jp": "ユウキ　賭け試合テスト",
   "en": "",
-  "zh": ""
+  "zh": "勇树　赌斗测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F68/0",
@@ -228408,7 +228408,7 @@
   "offset": "28E8",
   "jp": "賭け試合ザコ　テスト",
   "en": "",
-  "zh": ""
+  "zh": "赌斗杂兵　测试"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F72/0",
@@ -228417,7 +228417,7 @@
   "offset": "28FE",
   "jp": "プリム１２０％",
   "en": "",
-  "zh": ""
+  "zh": "普里姆１２０％"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F73/0",
@@ -228426,7 +228426,7 @@
   "offset": "290E",
   "jp": "ポーン１２０％",
   "en": "",
-  "zh": ""
+  "zh": "珀恩１２０％"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F74/0",
@@ -228435,7 +228435,7 @@
   "offset": "291E",
   "jp": "トップス１２０％",
   "en": "",
-  "zh": ""
+  "zh": "托普斯１２０％"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F75/0",
@@ -228444,7 +228444,7 @@
   "offset": "2930",
   "jp": "テンプル１２０％",
   "en": "",
-  "zh": ""
+  "zh": "圣殿120%"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F76/0",
@@ -228453,7 +228453,7 @@
   "offset": "2942",
   "jp": "ピエロ１２０％",
   "en": "",
-  "zh": ""
+  "zh": "小丑120%"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F77/0",
@@ -228462,7 +228462,7 @@
   "offset": "2952",
   "jp": "バンドッグ",
   "en": "Vandog",
-  "zh": ""
+  "zh": "绑匪犬"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1F78/0",
@@ -228471,7 +228471,7 @@
   "offset": "295E",
   "jp": "ウィンドゴーレム",
   "en": "Wind Guardian",
-  "zh": ""
+  "zh": "风之魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2326/0",
@@ -228480,7 +228480,7 @@
   "offset": "2970",
   "jp": "初心者用　お試しパーティ　1",
   "en": "Sample Party 1",
-  "zh": ""
+  "zh": "新手用 试玩队伍 1"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2327/0",
@@ -228489,7 +228489,7 @@
   "offset": "298E",
   "jp": "初心者用　お試しパーティ　２",
   "en": "Sample Party 2",
-  "zh": ""
+  "zh": "新手用 试玩队伍 2"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2328/0",
@@ -228498,7 +228498,7 @@
   "offset": "29AC",
   "jp": "我輩はカモである",
   "en": "Sitting duck",
-  "zh": ""
+  "zh": "我就是只肥羊"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2329/0",
@@ -228507,7 +228507,7 @@
   "offset": "29BE",
   "jp": "名犬ラッシーズ",
   "en": "The Guard Dogs",
-  "zh": ""
+  "zh": "名犬莱西们"
  },
  {
   "id": "OTHER/NAMELIST.TXT/232A/0",
@@ -228516,7 +228516,7 @@
   "offset": "29CE",
   "jp": "ふりむけばヨコハマ",
   "en": "It's Yokohama!",
-  "zh": ""
+  "zh": "蓦然回首是横滨"
  },
  {
   "id": "OTHER/NAMELIST.TXT/232B/0",
@@ -228525,7 +228525,7 @@
   "offset": "29E2",
   "jp": "トリコロール",
   "en": "Tricolor",
-  "zh": ""
+  "zh": "三色旗"
  },
  {
   "id": "OTHER/NAMELIST.TXT/232C/0",
@@ -228534,7 +228534,7 @@
   "offset": "29F0",
   "jp": "ブッチ＆サンダンス",
   "en": "The Defenders",
-  "zh": ""
+  "zh": "布奇与太阳舞小子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/232D/0",
@@ -228543,7 +228543,7 @@
   "offset": "2A04",
   "jp": "プラトーン",
   "en": "The Platoon",
-  "zh": ""
+  "zh": "野战排"
  },
  {
   "id": "OTHER/NAMELIST.TXT/232E/0",
@@ -228552,7 +228552,7 @@
   "offset": "2A10",
   "jp": "ジャングルブック",
   "en": "The Dark Woods",
-  "zh": ""
+  "zh": "丛林奇谭"
  },
  {
   "id": "OTHER/NAMELIST.TXT/232F/0",
@@ -228561,7 +228561,7 @@
   "offset": "2A22",
   "jp": "アニマル・ハウス",
   "en": "Wild Animals",
-  "zh": ""
+  "zh": "动物屋"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2330/0",
@@ -228570,7 +228570,7 @@
   "offset": "2A34",
   "jp": "未知との遭遇",
   "en": "The Unknown",
-  "zh": ""
+  "zh": "第三类接触"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2331/0",
@@ -228579,7 +228579,7 @@
   "offset": "2A42",
   "jp": "岩くつ王",
   "en": "King of Rocks",
-  "zh": ""
+  "zh": "岩窟王"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2332/0",
@@ -228588,7 +228588,7 @@
   "offset": "2A4C",
   "jp": "おしゃれ泥棒",
   "en": "Heart Breakers",
-  "zh": ""
+  "zh": "偷龙转凤"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2333/0",
@@ -228597,7 +228597,7 @@
   "offset": "2A5A",
   "jp": "ワイルドバンチ",
   "en": "The Dark Knights",
-  "zh": ""
+  "zh": "日落黄沙"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2334/0",
@@ -228606,7 +228606,7 @@
   "offset": "2A6A",
   "jp": "マイフェアレディ",
   "en": "Our lady of Ice",
-  "zh": ""
+  "zh": "窈窕淑女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2335/0",
@@ -228615,7 +228615,7 @@
   "offset": "2A7C",
   "jp": "デッドコースター",
   "en": "The Reapers",
-  "zh": ""
+  "zh": "绝命终结站"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2336/0",
@@ -228624,7 +228624,7 @@
   "offset": "2A8E",
   "jp": "禁じられた遊び",
   "en": "Dance of Death",
-  "zh": ""
+  "zh": "禁忌的游戏"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2337/0",
@@ -228633,7 +228633,7 @@
   "offset": "2A9E",
   "jp": "風と共に去りぬ",
   "en": "Harpy Madness ",
-  "zh": ""
+  "zh": "乱世佳人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2338/0",
@@ -228642,7 +228642,7 @@
   "offset": "2AAE",
   "jp": "ブレイブハート",
   "en": "Winged Lancers",
-  "zh": ""
+  "zh": "勇敢的心"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2339/0",
@@ -228651,7 +228651,7 @@
   "offset": "2ABE",
   "jp": "美女と野獣",
   "en": "Sugar and Spice",
-  "zh": ""
+  "zh": "美女与野兽"
  },
  {
   "id": "OTHER/NAMELIST.TXT/233A/0",
@@ -228660,7 +228660,7 @@
   "offset": "2ACA",
   "jp": "だるま三銃士",
   "en": "3 Brothers",
-  "zh": ""
+  "zh": "达摩三剑客"
  },
  {
   "id": "OTHER/NAMELIST.TXT/233B/0",
@@ -228669,7 +228669,7 @@
   "offset": "2AD8",
   "jp": "おいでやすキョウト",
   "en": "Come to Kyoto",
-  "zh": ""
+  "zh": "欢迎来到京都"
  },
  {
   "id": "OTHER/NAMELIST.TXT/233C/0",
@@ -228678,7 +228678,7 @@
   "offset": "2AEC",
   "jp": "レイダース",
   "en": "Deadman's Envy",
-  "zh": ""
+  "zh": "法柜奇兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/233D/0",
@@ -228687,7 +228687,7 @@
   "offset": "2AF8",
   "jp": "お熱いのがお好き",
   "en": "Firepower",
-  "zh": ""
+  "zh": "热情似火"
  },
  {
   "id": "OTHER/NAMELIST.TXT/233E/0",
@@ -228696,7 +228696,7 @@
   "offset": "2B0A",
   "jp": "テルマ＆ルイーズ",
   "en": "The Seducers",
-  "zh": ""
+  "zh": "末路狂花"
  },
  {
   "id": "OTHER/NAMELIST.TXT/233F/0",
@@ -228705,7 +228705,7 @@
   "offset": "2B1C",
   "jp": "バトルロワイアル",
   "en": "The Pain",
-  "zh": ""
+  "zh": "大逃杀"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2340/0",
@@ -228714,7 +228714,7 @@
   "offset": "2B2E",
   "jp": "アマデウス",
   "en": "The Aquarius",
-  "zh": ""
+  "zh": "莫扎特传"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2341/0",
@@ -228723,7 +228723,7 @@
   "offset": "2B3A",
   "jp": "トップガン",
   "en": "The Dark Guard",
-  "zh": ""
+  "zh": "壮志凌云"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2342/0",
@@ -228732,7 +228732,7 @@
   "offset": "2B46",
   "jp": "真夜中のカーボーイ",
   "en": "2nd Amendment",
-  "zh": ""
+  "zh": "午夜牛郎"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2343/0",
@@ -228741,7 +228741,7 @@
   "offset": "2B5A",
   "jp": "マッドマックス",
   "en": "The Villainous",
-  "zh": ""
+  "zh": "疯狂的麦克斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2344/0",
@@ -228750,7 +228750,7 @@
   "offset": "2B6A",
   "jp": "地獄の黙示録",
   "en": "The Apocalypse",
-  "zh": ""
+  "zh": "现代启示录"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2345/0",
@@ -228759,7 +228759,7 @@
   "offset": "2B78",
   "jp": "ラストエンペラー",
   "en": "The Destroyers",
-  "zh": ""
+  "zh": "末代皇帝"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2346/0",
@@ -228768,7 +228768,7 @@
   "offset": "2B8A",
   "jp": "地上最大のショウ",
   "en": "Greatest Show",
-  "zh": ""
+  "zh": "地上最大演出"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2710/0",
@@ -228777,7 +228777,7 @@
   "offset": "2B9C",
   "jp": "笑顔が似合う売り子",
   "en": "Smiling Salesgirl",
-  "zh": ""
+  "zh": "笑容可人的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2711/0",
@@ -228786,7 +228786,7 @@
   "offset": "2BB0",
   "jp": "調子の良い売り子",
   "en": "Happy Salesgirl",
-  "zh": ""
+  "zh": "油腔滑调的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2712/0",
@@ -228795,7 +228795,7 @@
   "offset": "2BC2",
   "jp": "新人の売り子",
   "en": "New Salesgirl",
-  "zh": ""
+  "zh": "新来的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2713/0",
@@ -228804,7 +228804,7 @@
   "offset": "2BD0",
   "jp": "トウヤ好きの売り子",
   "en": "Salesgirl Who Likes Toya",
-  "zh": ""
+  "zh": "喜欢托亚的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2714/0",
@@ -228813,7 +228813,7 @@
   "offset": "2BE4",
   "jp": "イマドキ風の売り子",
   "en": "Trendy Salesgirl",
-  "zh": ""
+  "zh": "赶时髦的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2715/0",
@@ -228822,7 +228822,7 @@
   "offset": "2BF8",
   "jp": "元気がとりえのウェイトレス",
   "en": "Happy Waitress",
-  "zh": ""
+  "zh": "活力十足的女服务生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2716/0",
@@ -228831,7 +228831,7 @@
   "offset": "2C14",
   "jp": "勝ち気な売り子",
   "en": "Competitive Salesgirl",
-  "zh": ""
+  "zh": "好胜的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/271A/0",
@@ -228840,7 +228840,7 @@
   "offset": "2C24",
   "jp": "かつぜつのいい売り子",
   "en": "Active Seller",
-  "zh": ""
+  "zh": "口齿伶俐的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/271B/0",
@@ -228849,7 +228849,7 @@
   "offset": "2C3A",
   "jp": "声のよく通る売り子",
   "en": "Seller With A Loud Voice",
-  "zh": ""
+  "zh": "嗓门响亮的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/271C/0",
@@ -228858,7 +228858,7 @@
   "offset": "2C4E",
   "jp": "ジューサーズ四姉妹末っ子",
   "en": "Youngest Juicer Sister",
-  "zh": ""
+  "zh": "果汁四姐妹的小妹"
  },
  {
   "id": "OTHER/NAMELIST.TXT/271D/0",
@@ -228867,7 +228867,7 @@
   "offset": "2C68",
   "jp": "ジューサーズ四姉妹三女",
   "en": "Third Juicer Sister",
-  "zh": ""
+  "zh": "果汁四姐妹的三妹"
  },
  {
   "id": "OTHER/NAMELIST.TXT/271E/0",
@@ -228876,7 +228876,7 @@
   "offset": "2C80",
   "jp": "ジューサーズ四姉妹次女",
   "en": "Second Juicer Sister",
-  "zh": ""
+  "zh": "果汁四姐妹的二姐"
  },
  {
   "id": "OTHER/NAMELIST.TXT/271F/0",
@@ -228885,7 +228885,7 @@
   "offset": "2C98",
   "jp": "ジューサーズ四姉妹長女",
   "en": "Eldest Juicer Sister",
-  "zh": ""
+  "zh": "果汁四姐妹的大姐"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2720/0",
@@ -228894,7 +228894,7 @@
   "offset": "2CB0",
   "jp": "さわやか笑顔の売り子",
   "en": "Seller With A Gentle Smile",
-  "zh": ""
+  "zh": "笑容清爽的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2742/0",
@@ -228903,7 +228903,7 @@
   "offset": "2CC6",
   "jp": "歌の上手な売り子",
   "en": "Singing Salesgirl",
-  "zh": ""
+  "zh": "歌喉动人的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2743/0",
@@ -228912,7 +228912,7 @@
   "offset": "2CD8",
   "jp": "子どもに人気の売り子",
   "en": "Children-Friendly Salesgirl",
-  "zh": ""
+  "zh": "受孩子欢迎的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2744/0",
@@ -228921,7 +228921,7 @@
   "offset": "2CEE",
   "jp": "とってもグルメな売り子",
   "en": "Gourmet Salesgirl",
-  "zh": ""
+  "zh": "极懂美食的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2745/0",
@@ -228930,7 +228930,7 @@
   "offset": "2D06",
   "jp": "宣伝上手な売り子",
   "en": "Good-Publicity Salesgirl",
-  "zh": ""
+  "zh": "擅长招徕的女摊贩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2774/0",
@@ -228939,7 +228939,7 @@
   "offset": "2D18",
   "jp": "妹と仲よしの店員さん",
   "en": "Friendly Shopkeeper",
-  "zh": ""
+  "zh": "和妹妹感情要好的店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2775/0",
@@ -228948,7 +228948,7 @@
   "offset": "2D2E",
   "jp": "接客マニュアルが手放せない店員さん",
   "en": "Rookie Shopkeeper",
-  "zh": ""
+  "zh": "手不离服务手册的店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2776/0",
@@ -228957,7 +228957,7 @@
   "offset": "2D52",
   "jp": "働き者の店員さん",
   "en": "Hardworking Shopkeeper",
-  "zh": ""
+  "zh": "勤快的店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2777/0",
@@ -228966,7 +228966,7 @@
   "offset": "2D64",
   "jp": "クールさが魅力の店員さん",
   "en": "Cool Shopkeeper",
-  "zh": ""
+  "zh": "冷峻迷人的店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AF8/0",
@@ -228975,7 +228975,7 @@
   "offset": "2D7E",
   "jp": "くたびれた警備員",
   "en": "Worn-Out Guard",
-  "zh": ""
+  "zh": "疲惫不堪的警卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AF9/0",
@@ -228984,7 +228984,7 @@
   "offset": "2D90",
   "jp": "チャラチャラした警備兵",
   "en": "Preppy Guard",
-  "zh": ""
+  "zh": "轻浮油滑的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AFA/0",
@@ -228993,7 +228993,7 @@
   "offset": "2DA8",
   "jp": "ふけ顔の兵士",
   "en": "Old-Looking Soldier",
-  "zh": ""
+  "zh": "长相显老的士兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AFB/0",
@@ -229002,7 +229002,7 @@
   "offset": "2DB6",
   "jp": "仕事熱心な警備兵",
   "en": "Workaholic Guard",
-  "zh": ""
+  "zh": "热心工作的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AFC/0",
@@ -229011,7 +229011,7 @@
   "offset": "2DC8",
   "jp": "いつも貧乏くじをひく警備兵",
   "en": "Unlucky Guard",
-  "zh": ""
+  "zh": "总抽到下下签的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AFD/0",
@@ -229020,7 +229020,7 @@
   "offset": "2DE4",
   "jp": "りりしい警備兵",
   "en": "Manly Guard",
-  "zh": ""
+  "zh": "威风凛凛的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AFE/0",
@@ -229029,7 +229029,7 @@
   "offset": "2DF4",
   "jp": "妙にカタい警備兵",
   "en": "Strict Guard",
-  "zh": ""
+  "zh": "莫名死板的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2AFF/0",
@@ -229038,7 +229038,7 @@
   "offset": "2E06",
   "jp": "ぺーぺーの新人警備兵",
   "en": "New Guard",
-  "zh": ""
+  "zh": "微不足道的新人警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B00/0",
@@ -229047,7 +229047,7 @@
   "offset": "2E1C",
   "jp": "正面ゲート警備兵",
   "en": "Front Gate Guard",
-  "zh": ""
+  "zh": "正门警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B01/0",
@@ -229056,7 +229056,7 @@
   "offset": "2E2E",
   "jp": "ヨッピーレール駅員",
   "en": "Yuppie Rail Stationman",
-  "zh": ""
+  "zh": "约匹铁道站员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B02/0",
@@ -229065,7 +229065,7 @@
   "offset": "2E42",
   "jp": "キビキビした警備員",
   "en": "On-Edge Guard",
-  "zh": ""
+  "zh": "行动利落的警卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B03/0",
@@ -229074,7 +229074,7 @@
   "offset": "2E56",
   "jp": "新米警備員",
   "en": "Newbie Guard",
-  "zh": ""
+  "zh": "新手警备员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B04/0",
@@ -229083,7 +229083,7 @@
   "offset": "2E62",
   "jp": "１０年間の無遅刻無欠勤を誇る警備員",
   "en": "Guard Who Is Never Late",
-  "zh": ""
+  "zh": "以十年全勤无迟到为傲的警备员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B05/0",
@@ -229092,7 +229092,7 @@
   "offset": "2E86",
   "jp": "物腰のやわらかい警備員",
   "en": "Light-Footed Guard",
-  "zh": ""
+  "zh": "举止温和的警备员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B06/0",
@@ -229101,7 +229101,7 @@
   "offset": "2E9E",
   "jp": "ベテラン警備員",
   "en": "Veteran Guard",
-  "zh": ""
+  "zh": "资深警备员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B07/0",
@@ -229110,7 +229110,7 @@
   "offset": "2EAE",
   "jp": "そそっかしい警備員",
   "en": "Careless Guard",
-  "zh": ""
+  "zh": "冒失的警备员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B08/0",
@@ -229119,7 +229119,7 @@
   "offset": "2EC2",
   "jp": "のんびり屋の警備員",
   "en": "Easygoing Guard",
-  "zh": ""
+  "zh": "慢吞吞的警备员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B2A/0",
@@ -229128,7 +229128,7 @@
   "offset": "2ED6",
   "jp": "友だちたくさんの警備兵",
   "en": "Guard With Many Friends",
-  "zh": ""
+  "zh": "朋友很多的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B2B/0",
@@ -229137,7 +229137,7 @@
   "offset": "2EEE",
   "jp": "未来を見据える警備兵",
   "en": "Guard Concerned About His Future",
-  "zh": ""
+  "zh": "放眼未来的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B2C/0",
@@ -229146,7 +229146,7 @@
   "offset": "2F04",
   "jp": "文武両道の警備兵",
   "en": "Warrior Poet Guard",
-  "zh": ""
+  "zh": "文武双全的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B2D/0",
@@ -229155,7 +229155,7 @@
   "offset": "2F16",
   "jp": "コツコツ努力家の警備兵",
   "en": "Diligent Guard",
-  "zh": ""
+  "zh": "脚踏实地的努力派警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B34/0",
@@ -229164,7 +229164,7 @@
   "offset": "2F2E",
   "jp": "市民思いの警備兵",
   "en": "Guard Who Loves The People",
-  "zh": ""
+  "zh": "心系市民的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B35/0",
@@ -229173,7 +229173,7 @@
   "offset": "2F40",
   "jp": "温和な警備兵",
   "en": "Warm And Friendly Guard",
-  "zh": ""
+  "zh": "温和的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2B36/0",
@@ -229182,7 +229182,7 @@
   "offset": "2F4E",
   "jp": "平和好きの警備兵",
   "en": "Guard Who Loves Peace",
-  "zh": ""
+  "zh": "热爱和平的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/32C8/0",
@@ -229191,7 +229191,7 @@
   "offset": "2F60",
   "jp": "熱血先生",
   "en": "Hot-Blooded Teacher",
-  "zh": ""
+  "zh": "热血老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/32C9/0",
@@ -229200,7 +229200,7 @@
   "offset": "2F6A",
   "jp": "研究熱心な先生",
   "en": "Professor Bookworm ",
-  "zh": ""
+  "zh": "热心研究的老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/32CA/0",
@@ -229209,7 +229209,7 @@
   "offset": "2F7A",
   "jp": "学生思いの先生",
   "en": "Teacher Who Treasures Students",
-  "zh": ""
+  "zh": "关爱学生的老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/32CB/0",
@@ -229218,7 +229218,7 @@
   "offset": "2F8A",
   "jp": "記念館の受付のお姉さん",
   "en": "Memorial Hall Receptionist",
-  "zh": ""
+  "zh": "纪念馆接待处的大姐姐"
  },
  {
   "id": "OTHER/NAMELIST.TXT/36B0/0",
@@ -229227,7 +229227,7 @@
   "offset": "2FA2",
   "jp": "生活指導のオニ",
   "en": "Counselor Coach",
-  "zh": ""
+  "zh": "生活指导魔鬼老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/36B1/0",
@@ -229236,7 +229236,7 @@
   "offset": "2FB2",
   "jp": "マテリアルに目がない先生",
   "en": "Teacher Who Loves Materials",
-  "zh": ""
+  "zh": "对材料毫无抵抗力的老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/36B2/0",
@@ -229245,7 +229245,7 @@
   "offset": "2FCC",
   "jp": "女子学生に人気の先生",
   "en": "Teacher Popular With The Girls",
-  "zh": ""
+  "zh": "深受女学生欢迎的老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A98/0",
@@ -229254,7 +229254,7 @@
   "offset": "2FE2",
   "jp": "ガリ勉くん",
   "en": "Bookworm",
-  "zh": ""
+  "zh": "书呆子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A99/0",
@@ -229263,7 +229263,7 @@
   "offset": "2FEE",
   "jp": "留年スレスレの不良学生",
   "en": "Bad egg likely to stay back a year",
-  "zh": ""
+  "zh": "濒临留级的不良学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A9A/0",
@@ -229272,7 +229272,7 @@
   "offset": "3006",
   "jp": "成績急降下中の男子学生",
   "en": "Student With Falling Grades",
-  "zh": ""
+  "zh": "成绩一落千丈的男学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A9B/0",
@@ -229281,7 +229281,7 @@
   "offset": "301E",
   "jp": "ロンドンシティ一の秀才",
   "en": "London City Prodigy",
-  "zh": ""
+  "zh": "伦敦城第一秀才"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A9C/0",
@@ -229290,7 +229290,7 @@
   "offset": "3036",
   "jp": "ＡＡＡリーダー",
   "en": "A3 Leader",
-  "zh": ""
+  "zh": "ＡＡＡ队长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A9D/0",
@@ -229299,7 +229299,7 @@
   "offset": "3046",
   "jp": "三バカトリオ　レッド",
   "en": "Three Morons : Red",
-  "zh": ""
+  "zh": "笨蛋三人组　红"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3A9E/0",
@@ -229308,7 +229308,7 @@
   "offset": "305C",
   "jp": "ＴＦＣ会員０２１",
   "en": "TFC Member 021",
-  "zh": ""
+  "zh": "ＴＦＣ会员０２１"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AB6/0",
@@ -229317,7 +229317,7 @@
   "offset": "306E",
   "jp": "ＹＥＣリーダー",
   "en": "YEC Leader",
-  "zh": ""
+  "zh": "ＹＥＣ队长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AB7/0",
@@ -229326,7 +229326,7 @@
   "offset": "307E",
   "jp": "ＡＡＡ古株メンバー",
   "en": "A3 Old Member",
-  "zh": ""
+  "zh": "ＡＡＡ老成员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AB8/0",
@@ -229335,7 +229335,7 @@
   "offset": "3092",
   "jp": "ＡＡＡ新入りメンバー",
   "en": "A3 New Member",
-  "zh": ""
+  "zh": "ＡＡＡ新成员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AB9/0",
@@ -229344,7 +229344,7 @@
   "offset": "30A8",
   "jp": "お説教のベテラン",
   "en": "Lecture Veteran",
-  "zh": ""
+  "zh": "说教老手"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3ABA/0",
@@ -229353,7 +229353,7 @@
   "offset": "30BA",
   "jp": "三バカトリオ　ブラウン",
   "en": "Three Morons : Brown",
-  "zh": ""
+  "zh": "笨蛋三人组　棕"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3ABB/0",
@@ -229362,7 +229362,7 @@
   "offset": "30D2",
   "jp": "ねぼすけ君",
   "en": "Sleepyhead",
-  "zh": ""
+  "zh": "贪睡虫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3ABC/0",
@@ -229371,7 +229371,7 @@
   "offset": "30DE",
   "jp": "ＴＦＣ会員０８７",
   "en": "TFC Member 087",
-  "zh": ""
+  "zh": "ＴＦＣ会员０８７"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AD4/0",
@@ -229380,7 +229380,7 @@
   "offset": "30F0",
   "jp": "ＹＥＣルーキー",
   "en": "YEC Rookie",
-  "zh": ""
+  "zh": "ＹＥＣ新人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AD5/0",
@@ -229389,7 +229389,7 @@
   "offset": "3100",
   "jp": "ＹＥＣ幹部",
   "en": "YEC Executive",
-  "zh": ""
+  "zh": "ＹＥＣ干部"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AD6/0",
@@ -229398,7 +229398,7 @@
   "offset": "310C",
   "jp": "資産家の息子のＹＥＣメンバー",
   "en": "YEC Member From A Rich Family",
-  "zh": ""
+  "zh": "资产家之子的ＹＥＣ成员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AD7/0",
@@ -229407,7 +229407,7 @@
   "offset": "312A",
   "jp": "ゴーレム試合に青春をかける男子学生",
   "en": "Student Who Loves Golem Battles",
-  "zh": ""
+  "zh": "把青春赌在魔像比赛上的男学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AD8/0",
@@ -229416,7 +229416,7 @@
   "offset": "314E",
   "jp": "三バカトリオ　イエロー",
   "en": "Three Morons : Yellow",
-  "zh": ""
+  "zh": "笨蛋三人组　黄"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3AD9/0",
@@ -229425,7 +229425,7 @@
   "offset": "3166",
   "jp": "動物王国を夢見る学生",
   "en": "Student Who Loves Animals",
-  "zh": ""
+  "zh": "梦想建立动物王国的学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3ADA/0",
@@ -229434,7 +229434,7 @@
   "offset": "317C",
   "jp": "ＴＦＣ会員０３３",
   "en": "TFC Member 033",
-  "zh": ""
+  "zh": "ＴＦＣ会员０３３"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E80/0",
@@ -229443,7 +229443,7 @@
   "offset": "318E",
   "jp": "トウヤＬＯＶＥ",
   "en": "Toya LOVE",
-  "zh": ""
+  "zh": "挚爱托亚"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E81/0",
@@ -229452,7 +229452,7 @@
   "offset": "319E",
   "jp": "学園一の小悪魔",
   "en": "School Troublemaker",
-  "zh": ""
+  "zh": "学院第一小恶魔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E82/0",
@@ -229461,7 +229461,7 @@
   "offset": "31AE",
   "jp": "ＴＦＣ会員２００",
   "en": "TFC Member 200",
-  "zh": ""
+  "zh": "ＴＦＣ会员２００"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E83/0",
@@ -229470,7 +229470,7 @@
   "offset": "31C0",
   "jp": "おっとりしたＡＡＡメンバー",
   "en": "Quiet A3 Member",
-  "zh": ""
+  "zh": "性格温吞的ＡＡＡ成员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E84/0",
@@ -229479,7 +229479,7 @@
   "offset": "31DC",
   "jp": "夢は外交官！",
   "en": "Future Foreign Minister",
-  "zh": ""
+  "zh": "梦想是外交官！"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E9E/0",
@@ -229488,7 +229488,7 @@
   "offset": "31EA",
   "jp": "ＴＦＣ会員０１９",
   "en": "TFC Member 019",
-  "zh": ""
+  "zh": "ＴＦＣ会员０１９"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3E9F/0",
@@ -229497,7 +229497,7 @@
   "offset": "31FC",
   "jp": "浮気性のＴＦＣ会員０６３",
   "en": "Flirtatious TFC Member 063",
-  "zh": ""
+  "zh": "见异思迁的ＴＦＣ会员０６３"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EA0/0",
@@ -229506,7 +229506,7 @@
   "offset": "3216",
   "jp": "周りに流されやすいＡＡＡメンバー",
   "en": "Easily-Led A3 Member",
-  "zh": ""
+  "zh": "容易随波逐流的ＡＡＡ成员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EA1/0",
@@ -229515,7 +229515,7 @@
   "offset": "3238",
   "jp": "とっても内気な女子学生",
   "en": "Incredibly Shy Girl",
-  "zh": ""
+  "zh": "非常内向的女学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EBC/0",
@@ -229524,7 +229524,7 @@
   "offset": "3250",
   "jp": "ＴＦＣ会員０４７",
   "en": "TFC Member 047",
-  "zh": ""
+  "zh": "ＴＦＣ会员０４７"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EBD/0",
@@ -229533,7 +229533,7 @@
   "offset": "3262",
   "jp": "移り気なＴＦＣ会員０６４",
   "en": "Fickle TFC Member 064",
-  "zh": ""
+  "zh": "善变的ＴＦＣ会员０６４"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EBE/0",
@@ -229542,7 +229542,7 @@
   "offset": "327C",
   "jp": "お祭り大好き女子学生",
   "en": "Student Who Loves Festivals",
-  "zh": ""
+  "zh": "最喜欢祭典的女学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EBF/0",
@@ -229551,7 +229551,7 @@
   "offset": "3292",
   "jp": "学園一のダイエット博士",
   "en": "The Diet Doctor",
-  "zh": ""
+  "zh": "学院第一的减肥博士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/3EC0/0",
@@ -229560,7 +229560,7 @@
   "offset": "32AA",
   "jp": "努力家の女子学生",
   "en": "Hardworking Student",
-  "zh": ""
+  "zh": "努力型的女学生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4268/0",
@@ -229569,7 +229569,7 @@
   "offset": "32BC",
   "jp": "叩き売りのおやじ",
   "en": "Bargain salesman",
-  "zh": ""
+  "zh": "大甩卖的大叔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4269/0",
@@ -229578,7 +229578,7 @@
   "offset": "32CE",
   "jp": "ゴーレムチケットツアー店員",
   "en": "Golem Ticket Tour Clerk",
-  "zh": ""
+  "zh": "魔像兑换券巡回店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4272/0",
@@ -229587,7 +229587,7 @@
   "offset": "32EA",
   "jp": "不器用なピザ屋台のおやじ",
   "en": "Clumsy Pizza Store Owner",
-  "zh": ""
+  "zh": "笨手笨脚的披萨摊大叔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4274/0",
@@ -229596,7 +229596,7 @@
   "offset": "3304",
   "jp": "上半身には自信のある男",
   "en": "Man With Confidence In His Physique",
-  "zh": ""
+  "zh": "对上半身充满自信的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C0/0",
@@ -229605,7 +229605,7 @@
   "offset": "331C",
   "jp": "ピザゴーレム０",
   "en": "",
-  "zh": ""
+  "zh": "披萨魔像０"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C1/0",
@@ -229614,7 +229614,7 @@
   "offset": "332C",
   "jp": "ピザゴーレム１",
   "en": "",
-  "zh": ""
+  "zh": "披萨魔像１"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C2/0",
@@ -229623,7 +229623,7 @@
   "offset": "333C",
   "jp": "ピザゴーレム２",
   "en": "",
-  "zh": ""
+  "zh": "披萨魔像２"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C3/0",
@@ -229632,7 +229632,7 @@
   "offset": "334C",
   "jp": "ピザゴーレム３",
   "en": "",
-  "zh": ""
+  "zh": "披萨魔像３"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C4/0",
@@ -229641,7 +229641,7 @@
   "offset": "335C",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C5/0",
@@ -229650,7 +229650,7 @@
   "offset": "336A",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44C6/0",
@@ -229659,7 +229659,7 @@
   "offset": "3378",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44CA/0",
@@ -229668,7 +229668,7 @@
   "offset": "3386",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44F2/0",
@@ -229677,7 +229677,7 @@
   "offset": "3394",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44F3/0",
@@ -229686,7 +229686,7 @@
   "offset": "33A2",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44F4/0",
@@ -229695,7 +229695,7 @@
   "offset": "33B0",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44F5/0",
@@ -229704,7 +229704,7 @@
   "offset": "33BE",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/44F6/0",
@@ -229713,7 +229713,7 @@
   "offset": "33CC",
   "jp": "ピザゴーレム",
   "en": "Crazy Pizza",
-  "zh": ""
+  "zh": "披萨魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4650/0",
@@ -229722,7 +229722,7 @@
   "offset": "33DA",
   "jp": "親切なチンピラ",
   "en": "Friendly Hoodlum",
-  "zh": ""
+  "zh": "热心的混混"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4651/0",
@@ -229731,7 +229731,7 @@
   "offset": "33EA",
   "jp": "呼び込み鉄砲玉",
   "en": "Hoodlum",
-  "zh": ""
+  "zh": "拉客的马前卒"
  },
  {
   "id": "OTHER/NAMELIST.TXT/466E/0",
@@ -229740,7 +229740,7 @@
   "offset": "33FA",
   "jp": "チンピラ係員",
   "en": "Hoodlum Official",
-  "zh": ""
+  "zh": "混混工作人员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/4A38/0",
@@ -229749,7 +229749,7 @@
   "offset": "3408",
   "jp": "クロフォード",
   "en": "Crawford",
-  "zh": ""
+  "zh": "克劳福德"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F0/0",
@@ -229758,7 +229758,7 @@
   "offset": "3416",
   "jp": "人任せ主義のパパ",
   "en": "Pass-The-Buck Father",
-  "zh": ""
+  "zh": "万事推给别人的爸爸"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F1/0",
@@ -229767,7 +229767,7 @@
   "offset": "3428",
   "jp": "昔おちこぼれだった男",
   "en": "Man Who Failed Long Ago",
-  "zh": ""
+  "zh": "从前是个吊车尾的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F2/0",
@@ -229776,7 +229776,7 @@
   "offset": "343E",
   "jp": "祭りを楽しみたいおじさん",
   "en": "Old Man Who Enjoys Festivals",
-  "zh": ""
+  "zh": "想尽情享受节庆的大叔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F3/0",
@@ -229785,7 +229785,7 @@
   "offset": "3458",
   "jp": "トウヤの知り合いの男",
   "en": "Touya's Acquaintance",
-  "zh": ""
+  "zh": "托亚的熟人男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F4/0",
@@ -229794,7 +229794,7 @@
   "offset": "346E",
   "jp": "ホテル従業員",
   "en": "Hotel Staff",
-  "zh": ""
+  "zh": "酒店员工"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F5/0",
@@ -229803,7 +229803,7 @@
   "offset": "347C",
   "jp": "ピエロ使い",
   "en": "Clown Master",
-  "zh": ""
+  "zh": "使役小丑的人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/55F6/0",
@@ -229812,7 +229812,7 @@
   "offset": "3488",
   "jp": "自分の街に誇りを持つ男",
   "en": "Man Who Is Proud Of His City",
-  "zh": ""
+  "zh": "为自己的城市感到自豪的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/560E/0",
@@ -229821,7 +229821,7 @@
   "offset": "34A0",
   "jp": "酒臭い男",
   "en": "Man Who Smells Of Drink",
-  "zh": ""
+  "zh": "满身酒气的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/560F/0",
@@ -229830,7 +229830,7 @@
   "offset": "34AA",
   "jp": "甘やかされて育った男",
   "en": "Spoiled Man",
-  "zh": ""
+  "zh": "娇生惯养长大的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5610/0",
@@ -229839,7 +229839,7 @@
   "offset": "34C0",
   "jp": "親バカな男",
   "en": "Doting Father",
-  "zh": ""
+  "zh": "溺爱孩子的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5611/0",
@@ -229848,7 +229848,7 @@
   "offset": "34CC",
   "jp": "後悔先にたたないヘタレ男",
   "en": "Man With Many Regrets",
-  "zh": ""
+  "zh": "悔之晚矣的窝囊男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5612/0",
@@ -229857,7 +229857,7 @@
   "offset": "34E6",
   "jp": "ひとり言の多い男",
   "en": "Man Who Talks To Himself",
-  "zh": ""
+  "zh": "自言自语很多的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5613/0",
@@ -229866,7 +229866,7 @@
   "offset": "34F8",
   "jp": "愉快痛快豪快な男",
   "en": "Carefree Man",
-  "zh": ""
+  "zh": "痛快爽朗豪迈的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5622/0",
@@ -229875,7 +229875,7 @@
   "offset": "350A",
   "jp": "ヨコハマシティを愛する男性",
   "en": "Man Who Loves Yokohama City",
-  "zh": ""
+  "zh": "深爱横滨市的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5623/0",
@@ -229884,7 +229884,7 @@
   "offset": "3526",
   "jp": "先進的な考えの男性",
   "en": "Progressive Thinker",
-  "zh": ""
+  "zh": "思想先进的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5624/0",
@@ -229893,7 +229893,7 @@
   "offset": "353A",
   "jp": "故郷を愛する男性",
   "en": "Man Who Loves His Hometown",
-  "zh": ""
+  "zh": "热爱故乡的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5625/0",
@@ -229902,7 +229902,7 @@
   "offset": "354C",
   "jp": "やさしい目元の男性",
   "en": "Man With Gentle Eyes",
-  "zh": ""
+  "zh": "眼神温柔的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5626/0",
@@ -229911,7 +229911,7 @@
   "offset": "3560",
   "jp": "大らかな性格の男性",
   "en": "Man With A Big Heart",
-  "zh": ""
+  "zh": "性格豁达的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5627/0",
@@ -229920,7 +229920,7 @@
   "offset": "3574",
   "jp": "家族思いの男性",
   "en": "Man Who Loves His Family",
-  "zh": ""
+  "zh": "顾家的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5653/0",
@@ -229929,7 +229929,7 @@
   "offset": "3584",
   "jp": "元海の男",
   "en": "Former Man of the Seas",
-  "zh": ""
+  "zh": "曾经的讨海汉"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5654/0",
@@ -229938,7 +229938,7 @@
   "offset": "358E",
   "jp": "妻の深い愛にこたえる男",
   "en": "Man Who Greatly Values His Wife",
-  "zh": ""
+  "zh": "回应妻子深沉爱意的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5655/0",
@@ -229947,7 +229947,7 @@
   "offset": "35A6",
   "jp": "ヨコハマいちのピザ通",
   "en": "Pizza Master of Yokohama",
-  "zh": ""
+  "zh": "横滨第一的披萨行家"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5656/0",
@@ -229956,7 +229956,7 @@
   "offset": "35BC",
   "jp": "いつも妻に振り回されている男",
   "en": "Man Controlled By His Wife",
-  "zh": ""
+  "zh": "总被妻子耍得团团转的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5657/0",
@@ -229965,7 +229965,7 @@
   "offset": "35DA",
   "jp": "暇をつぶしたい男",
   "en": "Man Looking To Kill Time",
-  "zh": ""
+  "zh": "想打发时间的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5659/0",
@@ -229974,7 +229974,7 @@
   "offset": "35EC",
   "jp": "ゴーレムチケットツアーチャレンジャー",
   "en": "Golem Ticket Tour Challenger",
-  "zh": ""
+  "zh": "魔像门票之旅挑战者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/565A/0",
@@ -229983,7 +229983,7 @@
   "offset": "3612",
   "jp": "曲芸好きの男",
   "en": "Man Who Likes Acrobatics",
-  "zh": ""
+  "zh": "喜欢杂技的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/565B/0",
@@ -229992,7 +229992,7 @@
   "offset": "3620",
   "jp": "少年の心を持った男",
   "en": "Man Who Is A Child At Heart",
-  "zh": ""
+  "zh": "怀有少年之心的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/565C/0",
@@ -230001,7 +230001,7 @@
   "offset": "3634",
   "jp": "ヒゲの手入れは怠らない男",
   "en": "Man Who Cares For His Whiskers",
-  "zh": ""
+  "zh": "绝不疏于打理胡须的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/565E/0",
@@ -230010,7 +230010,7 @@
   "offset": "364E",
   "jp": "決断力に欠ける男",
   "en": "Man Who Can't Make Decisions",
-  "zh": ""
+  "zh": "缺乏决断力的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/565F/0",
@@ -230019,7 +230019,7 @@
   "offset": "3660",
   "jp": "訳知り顔の得意な男",
   "en": "Man Who Thinks He Knows Everything",
-  "zh": ""
+  "zh": "爱摆懂王面孔的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5660/0",
@@ -230028,7 +230028,7 @@
   "offset": "3674",
   "jp": "ヨコハマ事情通",
   "en": "Yokohama Informant",
-  "zh": ""
+  "zh": "横滨包打听"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5661/0",
@@ -230037,7 +230037,7 @@
   "offset": "3684",
   "jp": "ジンクス好きの男",
   "en": "Man Who Likes Jinxes",
-  "zh": ""
+  "zh": "迷信吉凶的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5662/0",
@@ -230046,7 +230046,7 @@
   "offset": "3696",
   "jp": "ハニーにベタ惚れな男",
   "en": "Man Who Loves His Honey Bunny",
-  "zh": ""
+  "zh": "痴迷甜心的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5663/0",
@@ -230055,7 +230055,7 @@
   "offset": "36AC",
   "jp": "有名店探しが趣味の男",
   "en": "Man Who Likes Famous Stores",
-  "zh": ""
+  "zh": "爱好探名店的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59D8/0",
@@ -230064,7 +230064,7 @@
   "offset": "36C2",
   "jp": "事なかれ主義のママ",
   "en": "Safety-First Mother",
-  "zh": ""
+  "zh": "奉行息事宁人的妈妈"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59D9/0",
@@ -230073,7 +230073,7 @@
   "offset": "36D6",
   "jp": "ショッピングに目がないおばさん",
   "en": "Woman Who Loves Shopping",
-  "zh": ""
+  "zh": "极度狂热购物的大婶"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59DA/0",
@@ -230082,7 +230082,7 @@
   "offset": "36F6",
   "jp": "物欲が満ちているおばさん",
   "en": "Greedy Woman",
-  "zh": ""
+  "zh": "物欲充沛的大婶"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59DB/0",
@@ -230091,7 +230091,7 @@
   "offset": "3710",
   "jp": "兄に憧れる女",
   "en": "Woman Who Adores Her Brother",
-  "zh": ""
+  "zh": "崇拜哥哥的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59DC/0",
@@ -230100,7 +230100,7 @@
   "offset": "371E",
   "jp": "井戸端会議が趣味の女",
   "en": "Gossip Queen",
-  "zh": ""
+  "zh": "爱好闲聊八卦的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59DD/0",
@@ -230109,7 +230109,7 @@
   "offset": "3734",
   "jp": "ブティック『ハーバー』店員",
   "en": "Harbor Boutique Staff",
-  "zh": ""
+  "zh": "精品店“港湾”店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59DE/0",
@@ -230118,7 +230118,7 @@
   "offset": "3750",
   "jp": "お祭りが好きな女",
   "en": "Woman Who Loves Festivals",
-  "zh": ""
+  "zh": "喜爱节庆的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59DF/0",
@@ -230127,7 +230127,7 @@
   "offset": "3762",
   "jp": "好奇心旺盛な女性",
   "en": "Curious Woman",
-  "zh": ""
+  "zh": "好奇心旺盛的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59F6/0",
@@ -230136,7 +230136,7 @@
   "offset": "3774",
   "jp": "ブルジョワ層のおばさん",
   "en": "Bourgeois Woman",
-  "zh": ""
+  "zh": "资产阶级大婶"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59F7/0",
@@ -230145,7 +230145,7 @@
   "offset": "378C",
   "jp": "世間話が好きな女",
   "en": "Woman Who Loves Gossip",
-  "zh": ""
+  "zh": "喜爱拉家常的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59F8/0",
@@ -230154,7 +230154,7 @@
   "offset": "379E",
   "jp": "ジュエリーショップ店員",
   "en": "Jewelry Shop Staff",
-  "zh": ""
+  "zh": "珠宝店店员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59F9/0",
@@ -230163,7 +230163,7 @@
   "offset": "37B6",
   "jp": "面倒見の良い女性",
   "en": "Woman Who Looks After Others",
-  "zh": ""
+  "zh": "懂得照顾人的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59FA/0",
@@ -230172,7 +230172,7 @@
   "offset": "37C8",
   "jp": "ご近所情報通の女",
   "en": "Woman Who Sees Everything",
-  "zh": ""
+  "zh": "通晓邻里动向的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59FB/0",
@@ -230181,7 +230181,7 @@
   "offset": "37DA",
   "jp": "しつけに厳しい女",
   "en": "Strict Woman",
-  "zh": ""
+  "zh": "讲究规矩严厉的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59FC/0",
@@ -230190,7 +230190,7 @@
   "offset": "37EC",
   "jp": "バー『シーグル』のママ",
   "en": "Owner Of Seagull Bar",
-  "zh": ""
+  "zh": "酒吧“海鸥”的老板娘"
  },
  {
   "id": "OTHER/NAMELIST.TXT/59FD/0",
@@ -230199,7 +230199,7 @@
   "offset": "3804",
   "jp": "落ち着いた物腰の女",
   "en": "Calm And Collected Lady",
-  "zh": ""
+  "zh": "举止沉稳从容的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0A/0",
@@ -230208,7 +230208,7 @@
   "offset": "3818",
   "jp": "子どもとのふれあいを大切にする女性",
   "en": "Woman Who Values Children",
-  "zh": ""
+  "zh": "看重与孩子互动的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0B/0",
@@ -230217,7 +230217,7 @@
   "offset": "383C",
   "jp": "イベントチェックを欠かさない女性",
   "en": "Woman Who Checks All Events",
-  "zh": ""
+  "zh": "不错过任何活动的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0C/0",
@@ -230226,7 +230226,7 @@
   "offset": "385E",
   "jp": "スマートな都会派の女性",
   "en": "Smart Urban Woman",
-  "zh": ""
+  "zh": "干练时髦的都市女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0D/0",
@@ -230235,7 +230235,7 @@
   "offset": "3876",
   "jp": "おしゃれ大好きな女性",
   "en": "Fashionable Lady",
-  "zh": ""
+  "zh": "热衷时尚打扮的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0E/0",
@@ -230244,7 +230244,7 @@
   "offset": "388C",
   "jp": "えくぼが魅力的な女性",
   "en": "Woman With Lovely Dimples",
-  "zh": ""
+  "zh": "酒窝迷人的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A0F/0",
@@ -230253,7 +230253,7 @@
   "offset": "38A2",
   "jp": "ほがらかな笑顔の女性",
   "en": "Woman With A Lovely Smile",
-  "zh": ""
+  "zh": "笑容明朗爽快的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A14/0",
@@ -230262,7 +230262,7 @@
   "offset": "38B8",
   "jp": "やさしい笑顔の女",
   "en": "Woman With A Kind Smile",
-  "zh": ""
+  "zh": "面带温柔笑容的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A15/0",
@@ -230271,7 +230271,7 @@
   "offset": "38CA",
   "jp": "夫をこよなく愛する女",
   "en": "Woman Who Loves Her Husband Deeply",
-  "zh": ""
+  "zh": "深爱丈夫的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A16/0",
@@ -230280,7 +230280,7 @@
   "offset": "38E0",
   "jp": "いつもお守りを押し付けられる女",
   "en": "Woman Who Always Pushes Charms",
-  "zh": ""
+  "zh": "总被人硬塞护身符的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A17/0",
@@ -230289,7 +230289,7 @@
   "offset": "3900",
   "jp": "ピザにはうるさい女",
   "en": "Woman Who Is Picky About Pizza",
-  "zh": ""
+  "zh": "对披萨格外挑剔的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A1A/0",
@@ -230298,7 +230298,7 @@
   "offset": "3914",
   "jp": "カワイイものには目がない女",
   "en": "Woman Who Loves Cute Things",
-  "zh": ""
+  "zh": "对可爱事物毫无抵抗力的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A1E/0",
@@ -230307,7 +230307,7 @@
   "offset": "3930",
   "jp": "ヨコハマ幼稚園ヨッピー組先生",
   "en": "Yoppi Kindergarten Class Teacher",
-  "zh": ""
+  "zh": "横滨幼儿园波比班老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A1F/0",
@@ -230316,7 +230316,7 @@
   "offset": "394E",
   "jp": "時間をもてあます女",
   "en": "Woman With Plenty Of Time",
-  "zh": ""
+  "zh": "闲得发慌的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A22/0",
@@ -230325,7 +230325,7 @@
   "offset": "3962",
   "jp": "いつもしぶしぶ夫に付き合う女",
   "en": "Woman Who Clings To Her Husband",
-  "zh": ""
+  "zh": "总勉强陪同丈夫的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A23/0",
@@ -230334,7 +230334,7 @@
   "offset": "3980",
   "jp": "おっとり系の女",
   "en": "Gentle Woman",
-  "zh": ""
+  "zh": "温婉的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A24/0",
@@ -230343,7 +230343,7 @@
   "offset": "3990",
   "jp": "ダーリンＬＯＶＥな女",
   "en": "Woman Who Adores Her Sugar Bear",
-  "zh": ""
+  "zh": "最爱亲爱的的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A26/0",
@@ -230352,7 +230352,7 @@
   "offset": "39A6",
   "jp": "子供のわがままに手をやく女",
   "en": "Woman Suffering From Child's Demands",
-  "zh": ""
+  "zh": "拿任性孩子没辙的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A27/0",
@@ -230361,7 +230361,7 @@
   "offset": "39C2",
   "jp": "ナチュラルメイクが得意な女",
   "en": "Woman Skilled At Subtle Make Up",
-  "zh": ""
+  "zh": "擅长裸妆的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5A28/0",
@@ -230370,7 +230370,7 @@
   "offset": "39DE",
   "jp": "眉毛の曲線に命をかける女",
   "en": "Woman With Lovely Curved Eyebrows",
-  "zh": ""
+  "zh": "把眉毛弧度当生命的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC0/0",
@@ -230379,7 +230379,7 @@
   "offset": "39F8",
   "jp": "ピュアなハートを持った子供",
   "en": "Child With A Pure Heart",
-  "zh": ""
+  "zh": "拥有纯洁心灵的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC2/0",
@@ -230388,7 +230388,7 @@
   "offset": "3A14",
   "jp": "甘やかされて育った子供",
   "en": "Spoiled Child",
-  "zh": ""
+  "zh": "被娇惯长大的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC3/0",
@@ -230397,7 +230397,7 @@
   "offset": "3A2C",
   "jp": "今どき珍しく素直な子供",
   "en": "Honest Child",
-  "zh": ""
+  "zh": "如今少见的坦率孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC4/0",
@@ -230406,7 +230406,7 @@
   "offset": "3A44",
   "jp": "いつも親に振り回されている子供",
   "en": "Child With Difficult Parents",
-  "zh": ""
+  "zh": "总是被父母耍得团团转的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC5/0",
@@ -230415,7 +230415,7 @@
   "offset": "3A64",
   "jp": "健気な子供",
   "en": "Brave Child",
-  "zh": ""
+  "zh": "懂事坚强的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC7/0",
@@ -230424,7 +230424,7 @@
   "offset": "3A70",
   "jp": "天真爛漫な兄",
   "en": "Naive Older Brother",
-  "zh": ""
+  "zh": "天真烂漫的哥哥"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC8/0",
@@ -230433,7 +230433,7 @@
   "offset": "3A7E",
   "jp": "無邪気な弟",
   "en": "Innocent Younger Brother",
-  "zh": ""
+  "zh": "天真无邪的弟弟"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DC9/0",
@@ -230442,7 +230442,7 @@
   "offset": "3A8A",
   "jp": "スケールのでかい夢を見る子供",
   "en": "Child With Big Dreams",
-  "zh": ""
+  "zh": "怀抱宏大梦想的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DCA/0",
@@ -230451,7 +230451,7 @@
   "offset": "3AA8",
   "jp": "のりもの好きの子供",
   "en": "Child Who Loves Vehicles",
-  "zh": ""
+  "zh": "喜欢交通工具的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DCB/0",
@@ -230460,7 +230460,7 @@
   "offset": "3ABC",
   "jp": "親孝行な子供",
   "en": "Child Who Loves His Parents",
-  "zh": ""
+  "zh": "孝顺父母的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DCC/0",
@@ -230469,7 +230469,7 @@
   "offset": "3ACA",
   "jp": "ジャンケンにだけは強い子供",
   "en": "Child With One Strength",
-  "zh": ""
+  "zh": "唯独猜拳很强的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DCD/0",
@@ -230478,7 +230478,7 @@
   "offset": "3AE6",
   "jp": "ジャンケンにだけは弱い子供",
   "en": "Child With One Weakness",
-  "zh": ""
+  "zh": "唯独猜拳很弱的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DD1/0",
@@ -230487,7 +230487,7 @@
   "offset": "3B02",
   "jp": "ヨコハマ幼稚園ヨッピー組５番",
   "en": "Yoppi Kindergarten Class No. 5",
-  "zh": ""
+  "zh": "横滨幼儿园小悠班５号"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DD2/0",
@@ -230496,7 +230496,7 @@
   "offset": "3B20",
   "jp": "ヨコハマ幼稚園ヨッピー組３番",
   "en": "Yoppi Kindergarten Class No. 3",
-  "zh": ""
+  "zh": "横滨幼儿园小悠班３号"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DD3/0",
@@ -230505,7 +230505,7 @@
   "offset": "3B3E",
   "jp": "好奇心旺盛な子供",
   "en": "Curious Child",
-  "zh": ""
+  "zh": "好奇心旺盛的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DD4/0",
@@ -230514,7 +230514,7 @@
   "offset": "3B50",
   "jp": "無垢な瞳をもった子供",
   "en": "Child With Innocent Eyes",
-  "zh": ""
+  "zh": "眼神清澈无瑕的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DD5/0",
@@ -230523,7 +230523,7 @@
   "offset": "3B66",
   "jp": "我慢のできない子供",
   "en": "Child With No Patience",
-  "zh": ""
+  "zh": "毫无耐心的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DD6/0",
@@ -230532,7 +230532,7 @@
   "offset": "3B7A",
   "jp": "おねだりのうまい子供",
   "en": "Persistent Child",
-  "zh": ""
+  "zh": "擅长撒娇要东西的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DF2/0",
@@ -230541,7 +230541,7 @@
   "offset": "3B90",
   "jp": "お勉強の好きな少年",
   "en": "Child Who Loves To Study",
-  "zh": ""
+  "zh": "热爱学习的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DF3/0",
@@ -230550,7 +230550,7 @@
   "offset": "3BA4",
   "jp": "元気はつらつな少年",
   "en": "Lively Child",
-  "zh": ""
+  "zh": "朝气蓬勃的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DF4/0",
@@ -230559,7 +230559,7 @@
   "offset": "3BB8",
   "jp": "キラキラした瞳の少年",
   "en": "Boy With Sparkling Eyes",
-  "zh": ""
+  "zh": "眼神闪闪发光的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/5DF5/0",
@@ -230568,7 +230568,7 @@
   "offset": "3BCE",
   "jp": "大人ぶってる少年",
   "en": "Mature Boy",
-  "zh": ""
+  "zh": "爱装大人的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/61A8/0",
@@ -230577,7 +230577,7 @@
   "offset": "3BE0",
   "jp": "サオリ",
   "en": "Saori",
-  "zh": ""
+  "zh": "纱织"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A410/0",
@@ -230586,7 +230586,7 @@
   "offset": "3BE8",
   "jp": "兵士一族に育った警備兵",
   "en": "Guard From A Family Of Soldiers",
-  "zh": ""
+  "zh": "出身军人世家的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A411/0",
@@ -230595,7 +230595,7 @@
   "offset": "3C00",
   "jp": "元教育係の近衛兵",
   "en": "Former Drill Sergeant",
-  "zh": ""
+  "zh": "曾任教官的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A412/0",
@@ -230604,7 +230604,7 @@
   "offset": "3C12",
   "jp": "耳の早い警備兵",
   "en": "Guard Who Hears Everything",
-  "zh": ""
+  "zh": "消息灵通的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A413/0",
@@ -230613,7 +230613,7 @@
   "offset": "3C22",
   "jp": "剣術指南も務める近衛兵",
   "en": "Sword Trainer Guard",
-  "zh": ""
+  "zh": "兼任剑术指南的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A414/0",
@@ -230622,7 +230622,7 @@
   "offset": "3C3A",
   "jp": "古株の近衛兵",
   "en": "Old Royal Guard",
-  "zh": ""
+  "zh": "资深的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A415/0",
@@ -230631,7 +230631,7 @@
   "offset": "3C48",
   "jp": "登用間もない近衛兵",
   "en": "Rookie Guard",
-  "zh": ""
+  "zh": "刚任用不久的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A416/0",
@@ -230640,7 +230640,7 @@
   "offset": "3C5C",
   "jp": "出自にこだわる警備兵",
   "en": "Guard Who Looks After Himself",
-  "zh": ""
+  "zh": "讲究门第出身的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A417/0",
@@ -230649,7 +230649,7 @@
   "offset": "3C72",
   "jp": "ゴーレムが苦手な近衛兵",
   "en": "Guard Who Doesn't Like Golems",
-  "zh": ""
+  "zh": "不擅长应付魔像的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A418/0",
@@ -230658,7 +230658,7 @@
   "offset": "3C8A",
   "jp": "緑光騎士兵",
   "en": "Green Light Knight",
-  "zh": ""
+  "zh": "绿光骑士兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A419/0",
@@ -230667,7 +230667,7 @@
   "offset": "3C96",
   "jp": "偵察部隊兵",
   "en": "Scout",
-  "zh": ""
+  "zh": "侦察部队兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A41A/0",
@@ -230676,7 +230676,7 @@
   "offset": "3CA2",
   "jp": "遊撃部隊兵長",
   "en": "Strike Force Captain",
-  "zh": ""
+  "zh": "游击部队兵长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A41B/0",
@@ -230685,7 +230685,7 @@
   "offset": "3CB0",
   "jp": "遊撃部隊兵",
   "en": "Strike Force Member",
-  "zh": ""
+  "zh": "游击部队兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A41C/0",
@@ -230694,7 +230694,7 @@
   "offset": "3CBC",
   "jp": "仲間からも煙たがられている警備兵",
   "en": "Hard-To-Approach Guard",
-  "zh": ""
+  "zh": "连同伴都嫌弃的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A41D/0",
@@ -230703,7 +230703,7 @@
   "offset": "3CDE",
   "jp": "警備兵長",
   "en": "Guard Captain",
-  "zh": ""
+  "zh": "警卫兵长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A41E/0",
@@ -230712,7 +230712,7 @@
   "offset": "3CE8",
   "jp": "警備兵",
   "en": "Guard",
-  "zh": ""
+  "zh": "警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A41F/0",
@@ -230721,7 +230721,7 @@
   "offset": "3CF0",
   "jp": "心優しい近衛兵",
   "en": "Gentle Guard",
-  "zh": ""
+  "zh": "心地善良的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A420/0",
@@ -230730,7 +230730,7 @@
   "offset": "3D00",
   "jp": "下積みに耐える警備兵",
   "en": "Guard Living As An Underling",
-  "zh": ""
+  "zh": "默默忍受底层生活的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4D8/0",
@@ -230739,7 +230739,7 @@
   "offset": "3D16",
   "jp": "城内で働きたがっている警備兵",
   "en": "Guard Who Wants To Work At A Castle",
-  "zh": ""
+  "zh": "想在城内工作的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4D9/0",
@@ -230748,7 +230748,7 @@
   "offset": "3D34",
   "jp": "職務に忠実な警備兵",
   "en": "Guard Faithful To His Duty",
-  "zh": ""
+  "zh": "恪尽职守的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4DA/0",
@@ -230757,7 +230757,7 @@
   "offset": "3D48",
   "jp": "勉強熱心な警備兵",
   "en": "Diligent Student Guard",
-  "zh": ""
+  "zh": "热衷学习的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4DB/0",
@@ -230766,7 +230766,7 @@
   "offset": "3D5A",
   "jp": "城内一力持ちの近衛兵",
   "en": "Strongest Guard In The Castle",
-  "zh": ""
+  "zh": "城内力气最大的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4DC/0",
@@ -230775,7 +230775,7 @@
   "offset": "3D70",
   "jp": "信心深い近衛兵",
   "en": "Religious Guard",
-  "zh": ""
+  "zh": "虔诚的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4DD/0",
@@ -230784,7 +230784,7 @@
   "offset": "3D80",
   "jp": "喧嘩っ早い近衛兵",
   "en": "Quick-Tempered Guard",
-  "zh": ""
+  "zh": "动不动就爱打架的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4DE/0",
@@ -230793,7 +230793,7 @@
   "offset": "3D92",
   "jp": "いつも気さくな近衛兵",
   "en": "Frank Guard",
-  "zh": ""
+  "zh": "总是平易近人的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4DF/0",
@@ -230802,7 +230802,7 @@
   "offset": "3DA8",
   "jp": "生真面目な近衛兵",
   "en": "Serious Guard",
-  "zh": ""
+  "zh": "一丝不苟的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E0/0",
@@ -230811,7 +230811,7 @@
   "offset": "3DBA",
   "jp": "戦闘経験豊富な近衛兵",
   "en": "Guard With Combat Expertise",
-  "zh": ""
+  "zh": "战斗经验丰富的近卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E1/0",
@@ -230820,7 +230820,7 @@
   "offset": "3DD0",
   "jp": "見下した態度の警備兵",
   "en": "Supercilious Guard",
-  "zh": ""
+  "zh": "态度居高临下的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E2/0",
@@ -230829,7 +230829,7 @@
   "offset": "3DE6",
   "jp": "身の軽い騎士団兵",
   "en": "Light-Footed Knight",
-  "zh": ""
+  "zh": "身手轻捷的骑士团兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E3/0",
@@ -230838,7 +230838,7 @@
   "offset": "3DF8",
   "jp": "戦いなれた騎士団兵",
   "en": "Combat-Experienced Knight",
-  "zh": ""
+  "zh": "身经百战的骑士团兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E4/0",
@@ -230847,7 +230847,7 @@
   "offset": "3E0C",
   "jp": "粘り強い騎士団兵",
   "en": "Persistent Knight",
-  "zh": ""
+  "zh": "坚韧顽强的骑士团兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E5/0",
@@ -230856,7 +230856,7 @@
   "offset": "3E1E",
   "jp": "気の強い警備兵",
   "en": "Strong-Willed Guard",
-  "zh": ""
+  "zh": "要强的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E6/0",
@@ -230865,7 +230865,7 @@
   "offset": "3E2E",
   "jp": "腕力のある警備兵",
   "en": "Muscular Guard",
-  "zh": ""
+  "zh": "臂力过人的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E7/0",
@@ -230874,7 +230874,7 @@
   "offset": "3E40",
   "jp": "打たれ強い警備兵",
   "en": "Robust Guard",
-  "zh": ""
+  "zh": "抗击打能力强的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A4E8/0",
@@ -230883,7 +230883,7 @@
   "offset": "3E52",
   "jp": "使命感に燃える警備兵",
   "en": "Guard Passionate About His Mission",
-  "zh": ""
+  "zh": "充满使命感的警卫兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A7F8/0",
@@ -230892,7 +230892,7 @@
   "offset": "3E68",
   "jp": "大酒飲みの番兵",
   "en": "Heavy-Drinking Guard",
-  "zh": ""
+  "zh": "嗜酒如命的守卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A7F9/0",
@@ -230901,7 +230901,7 @@
   "offset": "3E78",
   "jp": "大家族を抱える番兵",
   "en": "Guard With An Extended Family",
-  "zh": ""
+  "zh": "背负大家庭的守卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A7FA/0",
@@ -230910,7 +230910,7 @@
   "offset": "3E8C",
   "jp": "追っ手１",
   "en": "",
-  "zh": ""
+  "zh": "追兵１"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A7FB/0",
@@ -230919,7 +230919,7 @@
   "offset": "3E96",
   "jp": "追っ手２",
   "en": "",
-  "zh": ""
+  "zh": "追兵２"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A7FC/0",
@@ -230928,7 +230928,7 @@
   "offset": "3EA0",
   "jp": "演説兵士",
   "en": "Oratory Soldier",
-  "zh": ""
+  "zh": "演讲士兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A85C/0",
@@ -230937,7 +230937,7 @@
   "offset": "3EAA",
   "jp": "イベント用兵士B-1",
   "en": "",
-  "zh": ""
+  "zh": "剧情用士兵B-1"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A85D/0",
@@ -230946,7 +230946,7 @@
   "offset": "3EC0",
   "jp": "イベント用兵士B-2",
   "en": "",
-  "zh": ""
+  "zh": "剧情用士兵B-2"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A85E/0",
@@ -230955,7 +230955,7 @@
   "offset": "3ED6",
   "jp": "イベント用兵士B-3",
   "en": "",
-  "zh": ""
+  "zh": "剧情用士兵B-3"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A85F/0",
@@ -230964,7 +230964,7 @@
   "offset": "3EEC",
   "jp": "イベント用兵士B-4",
   "en": "",
-  "zh": ""
+  "zh": "イベント用兵士B-4"
  },
  {
   "id": "OTHER/NAMELIST.TXT/A860/0",
@@ -230973,7 +230973,7 @@
   "offset": "3F02",
   "jp": "イベント用兵士B-5",
   "en": "",
-  "zh": ""
+  "zh": "イベント用兵士B-5"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE48/0",
@@ -230982,7 +230982,7 @@
   "offset": "3F18",
   "jp": "帳簿を手放さない男",
   "en": "Man With A Notebook",
-  "zh": ""
+  "zh": "帳簿を手放さない男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE49/0",
@@ -230991,7 +230991,7 @@
   "offset": "3F2C",
   "jp": "生き字引と呼ばれる男",
   "en": "Walking Dictionary",
-  "zh": ""
+  "zh": "生き字引と呼ばれる男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE4A/0",
@@ -231000,7 +231000,7 @@
   "offset": "3F42",
   "jp": "不器用そうな男",
   "en": "Clumsy-Looking Man",
-  "zh": ""
+  "zh": "不器用そうな男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE4B/0",
@@ -231009,7 +231009,7 @@
   "offset": "3F52",
   "jp": "百の口説き文句を持つ男",
   "en": "Casanova",
-  "zh": ""
+  "zh": "百の口説き文句を持つ男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE4C/0",
@@ -231018,7 +231018,7 @@
   "offset": "3F6A",
   "jp": "いつも伏目がちな男",
   "en": "Man With Downcast Eyes",
-  "zh": ""
+  "zh": "いつも伏目がちな男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE4D/0",
@@ -231027,7 +231027,7 @@
   "offset": "3F7E",
   "jp": "たくましさにあこがれる男",
   "en": "Man Who Wants To Become Strong",
-  "zh": ""
+  "zh": "たくましさにあこがれる男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE4E/0",
@@ -231036,7 +231036,7 @@
   "offset": "3F98",
   "jp": "ジェントルが売りの男",
   "en": "Gentle Man",
-  "zh": ""
+  "zh": "ジェントルが売りの男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE4F/0",
@@ -231045,7 +231045,7 @@
   "offset": "3FAE",
   "jp": "ゴーレムマニア",
   "en": "Golem Maniac",
-  "zh": ""
+  "zh": "ゴーレムマニア"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EE50/0",
@@ -231054,7 +231054,7 @@
   "offset": "3FBE",
   "jp": "歴史書を愛読する男",
   "en": "Man Who Loves History Books",
-  "zh": ""
+  "zh": "歴史書を愛読する男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEAC/0",
@@ -231063,7 +231063,7 @@
   "offset": "3FD2",
   "jp": "鬼教官の異名を持つ男",
   "en": "Tough Instructor",
-  "zh": ""
+  "zh": "鬼教官の異名を持つ男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEAD/0",
@@ -231072,7 +231072,7 @@
   "offset": "3FE8",
   "jp": "いつまでもやんちゃな男",
   "en": "Naughty Man",
-  "zh": ""
+  "zh": "いつまでもやんちゃな男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEAE/0",
@@ -231081,7 +231081,7 @@
   "offset": "4000",
   "jp": "元鍛冶屋の名物オヤジ",
   "en": "Former Blacksmith",
-  "zh": ""
+  "zh": "元鍛冶屋の名物オヤジ"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEAF/0",
@@ -231090,7 +231090,7 @@
   "offset": "4016",
   "jp": "オヤジさんと慕われる男",
   "en": "Adored Old Man",
-  "zh": ""
+  "zh": "オヤジさんと慕われる男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEB0/0",
@@ -231099,7 +231099,7 @@
   "offset": "402E",
   "jp": "ワイルドが売りの男",
   "en": "Wild Crazy Man",
-  "zh": ""
+  "zh": "ワイルドが売りの男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEB1/0",
@@ -231108,7 +231108,7 @@
   "offset": "4042",
   "jp": "怪力自慢の男",
   "en": "Powerful Man",
-  "zh": ""
+  "zh": "怪力自慢の男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EEB2/0",
@@ -231117,7 +231117,7 @@
   "offset": "4050",
   "jp": "肝っ玉の小さい男",
   "en": "Cowardly Man",
-  "zh": ""
+  "zh": "肝っ玉の小さい男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F230/0",
@@ -231126,7 +231126,7 @@
   "offset": "4062",
   "jp": "まっすぐな目をした女",
   "en": "Girl With Honest Eyes",
-  "zh": ""
+  "zh": "まっすぐな目をした女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F231/0",
@@ -231135,7 +231135,7 @@
   "offset": "4078",
   "jp": "女丈夫を誇った女",
   "en": "Brave Woman",
-  "zh": ""
+  "zh": "女丈夫を誇った女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F232/0",
@@ -231144,7 +231144,7 @@
   "offset": "408A",
   "jp": "荒くれ者たちの手綱を握る女",
   "en": "Girl In Control",
-  "zh": ""
+  "zh": "荒くれ者たちの手綱を握る女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F233/0",
@@ -231153,7 +231153,7 @@
   "offset": "40A6",
   "jp": "妖しいウワサの絶えない女",
   "en": "Woman Full Of Strange Rumors",
-  "zh": ""
+  "zh": "妖しいウワサの絶えない女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F234/0",
@@ -231162,7 +231162,7 @@
   "offset": "40C0",
   "jp": "背中に傷を持つ女",
   "en": "Woman With An Injured Back",
-  "zh": ""
+  "zh": "背中に傷を持つ女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F235/0",
@@ -231171,7 +231171,7 @@
   "offset": "40D2",
   "jp": "とびきり親切な女",
   "en": "Wonderfully Kind Woman",
-  "zh": ""
+  "zh": "とびきり親切な女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F294/0",
@@ -231180,7 +231180,7 @@
   "offset": "40E4",
   "jp": "元看護士の女",
   "en": "Former Nurse",
-  "zh": ""
+  "zh": "元看護士の女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F295/0",
@@ -231189,7 +231189,7 @@
   "offset": "40F2",
   "jp": "愁いを帯びた目の女",
   "en": "Girl With Worried Eyes",
-  "zh": ""
+  "zh": "愁いを帯びた目の女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F296/0",
@@ -231198,7 +231198,7 @@
   "offset": "4106",
   "jp": "おっかさんと慕われる女",
   "en": "Adored Old Woman",
-  "zh": ""
+  "zh": "おっかさんと慕われる女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F297/0",
@@ -231207,7 +231207,7 @@
   "offset": "411E",
   "jp": "雑用にも嫌な顔ひとつしない女",
   "en": "Woman Who Does Chores Happily",
-  "zh": ""
+  "zh": "雑用にも嫌な顔ひとつしない女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F298/0",
@@ -231216,7 +231216,7 @@
   "offset": "413C",
   "jp": "育ちのよさそうな女",
   "en": "Well-Bred Lady",
-  "zh": ""
+  "zh": "育ちのよさそうな女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F299/0",
@@ -231225,7 +231225,7 @@
   "offset": "4150",
   "jp": "聖母のような美しい女",
   "en": "Incredibly Beautiful Lady",
-  "zh": ""
+  "zh": "聖母のような美しい女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F29A/0",
@@ -231234,7 +231234,7 @@
   "offset": "4166",
   "jp": "必死な男たち",
   "en": "Desperate Men",
-  "zh": ""
+  "zh": "必死な男たち"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13880/0",
@@ -231243,7 +231243,7 @@
   "offset": "4174",
   "jp": "職業案内所のヌシ",
   "en": "Master Of The Trade District",
-  "zh": ""
+  "zh": "職業案内所のヌシ"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13881/0",
@@ -231252,7 +231252,7 @@
   "offset": "4186",
   "jp": "いつも火の車な仲買人",
   "en": "Impoverished Broker",
-  "zh": ""
+  "zh": "いつも火の車な仲買人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13882/0",
@@ -231261,7 +231261,7 @@
   "offset": "419C",
   "jp": "生粋のロンドンっ子",
   "en": "Genuine Londonite",
-  "zh": ""
+  "zh": "生粋のロンドンっ子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13883/0",
@@ -231270,7 +231270,7 @@
   "offset": "41B0",
   "jp": "口から先に生まれた男",
   "en": "Endlessly Talking Man",
-  "zh": ""
+  "zh": "口から先に生まれた男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13884/0",
@@ -231279,7 +231279,7 @@
   "offset": "41C6",
   "jp": "苦労のあとの色濃い男",
   "en": "Worn-Out Man",
-  "zh": ""
+  "zh": "饱经风霜的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13885/0",
@@ -231288,7 +231288,7 @@
   "offset": "41DC",
   "jp": "寂しい目をした男",
   "en": "Man With Sad Eyes",
-  "zh": ""
+  "zh": "眼神落寞的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13886/0",
@@ -231297,7 +231297,7 @@
   "offset": "41EE",
   "jp": "冷たい感じの金持ち男",
   "en": "Cold-Hearted Rich Man",
-  "zh": ""
+  "zh": "神情冷漠的富商男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13887/0",
@@ -231306,7 +231306,7 @@
   "offset": "4204",
   "jp": "ヨコハマを見た男",
   "en": "Man Who Saw Yokohama",
-  "zh": ""
+  "zh": "见过横滨的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13888/0",
@@ -231315,7 +231315,7 @@
   "offset": "4216",
   "jp": "にやけ面の男",
   "en": "Foppish Man",
-  "zh": ""
+  "zh": "满脸堆笑的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13889/0",
@@ -231324,7 +231324,7 @@
   "offset": "4224",
   "jp": "皮肉屋を気取る男",
   "en": "Sarcastic Man",
-  "zh": ""
+  "zh": "自命冷嘲热讽的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1388A/0",
@@ -231333,7 +231333,7 @@
   "offset": "4236",
   "jp": "いつも恋人じゃなく友だち止まりな男",
   "en": "Man Always Stuck At \"Just Friends\"",
-  "zh": ""
+  "zh": "总是止步于朋友的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1388B/0",
@@ -231342,7 +231342,7 @@
   "offset": "425A",
   "jp": "c0800_貧民男A11（未定）",
   "en": "",
-  "zh": ""
+  "zh": "c0800_贫民男A11（未定）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138E4/0",
@@ -231351,7 +231351,7 @@
   "offset": "427C",
   "jp": "ちゃきちゃきのロンドン大工",
   "en": "Efficient London Carpenter",
-  "zh": ""
+  "zh": "地道的伦敦木匠"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138E5/0",
@@ -231360,7 +231360,7 @@
   "offset": "4298",
   "jp": "学者のような佇まいの男",
   "en": "Learned-Looking Man",
-  "zh": ""
+  "zh": "学者模样的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138E6/0",
@@ -231369,7 +231369,7 @@
   "offset": "42B0",
   "jp": "気ぜわしい仕草の男",
   "en": "Restless Man",
-  "zh": ""
+  "zh": "举止急躁的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138E7/0",
@@ -231378,7 +231378,7 @@
   "offset": "42C4",
   "jp": "冷めた流し目の男",
   "en": "Man With Cold Eyes",
-  "zh": ""
+  "zh": "冷眼斜视的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138E8/0",
@@ -231387,7 +231387,7 @@
   "offset": "42D6",
   "jp": "アンチヨコハマで有名な男",
   "en": "Man Who Hates Yokohama",
-  "zh": ""
+  "zh": "出了名反横滨的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138E9/0",
@@ -231396,7 +231396,7 @@
   "offset": "42F0",
   "jp": "いつもふくれっ面の男",
   "en": "Always-Pouting Man",
-  "zh": ""
+  "zh": "总是板着脸的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138EA/0",
@@ -231405,7 +231405,7 @@
   "offset": "4306",
   "jp": "目つきの悪い男",
   "en": "Shifty-Looking Man",
-  "zh": ""
+  "zh": "眼神不善的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138EB/0",
@@ -231414,7 +231414,7 @@
   "offset": "4316",
   "jp": "ホラ吹き男",
   "en": "Boastful Man",
-  "zh": ""
+  "zh": "吹牛大王"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138EC/0",
@@ -231423,7 +231423,7 @@
   "offset": "4322",
   "jp": "父親思いの男性",
   "en": "Man Who Cares About His Father",
-  "zh": ""
+  "zh": "孝敬父亲的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138ED/0",
@@ -231432,7 +231432,7 @@
   "offset": "4332",
   "jp": "裏表のなさそうな男",
   "en": "Open And Honest Man",
-  "zh": ""
+  "zh": "表里如一的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138EE/0",
@@ -231441,7 +231441,7 @@
   "offset": "4346",
   "jp": "笑い声の似合う男",
   "en": "Man With A Big Smile",
-  "zh": ""
+  "zh": "笑声开朗的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/138EF/0",
@@ -231450,7 +231450,7 @@
   "offset": "4358",
   "jp": "マスター",
   "en": "Bar Master",
-  "zh": ""
+  "zh": "酒保"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C68/0",
@@ -231459,7 +231459,7 @@
   "offset": "4362",
   "jp": "落ち着きのない女",
   "en": "Restless Woman",
-  "zh": ""
+  "zh": "坐立不安的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C69/0",
@@ -231468,7 +231468,7 @@
   "offset": "4374",
   "jp": "たくましさを感じさせる女性",
   "en": "Trustworthy Lady",
-  "zh": ""
+  "zh": "给人坚强感的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C6A/0",
@@ -231477,7 +231477,7 @@
   "offset": "4390",
   "jp": "謎の情報網を持つ女",
   "en": "Woman With Secret Contacts",
-  "zh": ""
+  "zh": "拥有神秘情报网的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C6B/0",
@@ -231486,7 +231486,7 @@
   "offset": "43A4",
   "jp": "合成装置女",
   "en": "Synthesis Machine Lady",
-  "zh": ""
+  "zh": "合成装置女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C6C/0",
@@ -231495,7 +231495,7 @@
   "offset": "43B0",
   "jp": "毎日の散歩を欠かさない女",
   "en": "Girl Who Takes A Walk Every Day",
-  "zh": ""
+  "zh": "每天坚持散步的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C6D/0",
@@ -231504,7 +231504,7 @@
   "offset": "43CA",
   "jp": "はきのない女",
   "en": "Spiritless Girl",
-  "zh": ""
+  "zh": "无精打采的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C6E/0",
@@ -231513,7 +231513,7 @@
   "offset": "43D8",
   "jp": "スタイル抜群の女",
   "en": "Girl Ahead Of The Pack",
-  "zh": ""
+  "zh": "身材出众的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C6F/0",
@@ -231522,7 +231522,7 @@
   "offset": "43EA",
   "jp": "いつも周りを凍らせる女",
   "en": "Woman Who Makes Others Tense",
-  "zh": ""
+  "zh": "总是让周围气氛降温的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C70/0",
@@ -231531,7 +231531,7 @@
   "offset": "4402",
   "jp": "夢見る心を忘れない女",
   "en": "Dreamy Girl",
-  "zh": ""
+  "zh": "怀揣梦想的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13C71/0",
@@ -231540,7 +231540,7 @@
   "offset": "4418",
   "jp": "c0810_貧民女A09（未定）",
   "en": "",
-  "zh": ""
+  "zh": "c0810_贫民女A09（未定）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CCC/0",
@@ -231549,7 +231549,7 @@
   "offset": "443A",
   "jp": "放っておけない女",
   "en": "Girl Who Cannot Let Anything Alone",
-  "zh": ""
+  "zh": "让人放不下的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CCD/0",
@@ -231558,7 +231558,7 @@
   "offset": "444C",
   "jp": "無い物ねだりな女",
   "en": "Girl Who Asks For The Moon",
-  "zh": ""
+  "zh": "贪心不足的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CCE/0",
@@ -231567,7 +231567,7 @@
   "offset": "445E",
   "jp": "聞き上手な女",
   "en": "Girl Who Is A Good Listener",
-  "zh": ""
+  "zh": "善于倾听的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CCF/0",
@@ -231576,7 +231576,7 @@
   "offset": "446C",
   "jp": "いつも不安顔の女",
   "en": "Girl Who Always Looks Uneasy",
-  "zh": ""
+  "zh": "总是满脸不安的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CD0/0",
@@ -231585,7 +231585,7 @@
   "offset": "447E",
   "jp": "手荒れに悩む女",
   "en": "Woman With Rough Hands",
-  "zh": ""
+  "zh": "为手部粗糙烦恼的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CD1/0",
@@ -231594,7 +231594,7 @@
   "offset": "448E",
   "jp": "アーセナルの胃袋をあずかる女料理人",
   "en": "Cook For The Arsenal",
-  "zh": ""
+  "zh": "掌管兵工厂伙食的女厨师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CD2/0",
@@ -231603,7 +231603,7 @@
   "offset": "44B2",
   "jp": "他人に厳しい女",
   "en": "Girl Who Is Tough On Others",
-  "zh": ""
+  "zh": "待人严厉的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CD3/0",
@@ -231612,7 +231612,7 @@
   "offset": "44C2",
   "jp": "どこか上の空な女",
   "en": "Slightly Aloof Woman",
-  "zh": ""
+  "zh": "有些心不在焉的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/13CD4/0",
@@ -231621,7 +231621,7 @@
   "offset": "44D4",
   "jp": "口許の色っぽい女",
   "en": "Sexy Woman",
-  "zh": ""
+  "zh": "唇边带笑的风韵女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14050/0",
@@ -231630,7 +231630,7 @@
   "offset": "44E6",
   "jp": "いちにんまえの男",
   "en": "Curious Boy",
-  "zh": ""
+  "zh": "独当一面的男子汉"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14051/0",
@@ -231639,7 +231639,7 @@
   "offset": "44F8",
   "jp": "正義の味方を夢見る少年",
   "en": "Boy Who Dreams Of Being A Hero",
-  "zh": ""
+  "zh": "梦想成为正义使者的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14052/0",
@@ -231648,7 +231648,7 @@
   "offset": "4510",
   "jp": "クラス委員タイプの少年",
   "en": "Class Leader",
-  "zh": ""
+  "zh": "班长模样的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14053/0",
@@ -231657,7 +231657,7 @@
   "offset": "4528",
   "jp": "かけっこが得意そうな少年",
   "en": "Boy Who Looks Like A Good Runner",
-  "zh": ""
+  "zh": "看起来擅长赛跑的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14054/0",
@@ -231666,7 +231666,7 @@
   "offset": "4542",
   "jp": "街一番のガキ大将",
   "en": "Brat Pack Leader",
-  "zh": ""
+  "zh": "街区第一的孩子王"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14055/0",
@@ -231675,7 +231675,7 @@
   "offset": "4554",
   "jp": "もの知り少年",
   "en": "Encyclopedia Boy",
-  "zh": ""
+  "zh": "博学的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14438/0",
@@ -231684,7 +231684,7 @@
   "offset": "4562",
   "jp": "気難しげな老人",
   "en": "Sour Old Man",
-  "zh": ""
+  "zh": "脾气古怪的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14439/0",
@@ -231693,7 +231693,7 @@
   "offset": "4572",
   "jp": "男手ひとつで家族を守る老人",
   "en": "Old Man Who Protects His Family",
-  "zh": ""
+  "zh": "一手守护全家的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1443A/0",
@@ -231702,7 +231702,7 @@
   "offset": "458E",
   "jp": "教えてやるじいさん",
   "en": "Old Man who loves to teach",
-  "zh": ""
+  "zh": "爱指点人的老头"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1443B/0",
@@ -231711,7 +231711,7 @@
   "offset": "45A2",
   "jp": "神経質そうな老人",
   "en": "Nervous-Looking Old Man",
-  "zh": ""
+  "zh": "看起来神经质的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1443C/0",
@@ -231720,7 +231720,7 @@
   "offset": "45B4",
   "jp": "どこか遠くを見ている老人",
   "en": "Old Man With A Distant Look",
-  "zh": ""
+  "zh": "眺望远方的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1443D/0",
@@ -231729,7 +231729,7 @@
   "offset": "45CE",
   "jp": "勝負師の目をした老人",
   "en": "Old Man With A Gambler's Eyes",
-  "zh": ""
+  "zh": "眼神犀利的赌徒老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14820/0",
@@ -231738,7 +231738,7 @@
   "offset": "45E4",
   "jp": "貧乏神さえ逃げ出しそうな老婆",
   "en": "Poor Old Woman",
-  "zh": ""
+  "zh": "连穷神见了都要绕道的老妇"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14821/0",
@@ -231747,7 +231747,7 @@
   "offset": "4602",
   "jp": "優しい目をした老婆",
   "en": "Old Woman With Kind Eyes",
-  "zh": ""
+  "zh": "眼神慈祥的老妇"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14822/0",
@@ -231756,7 +231756,7 @@
   "offset": "4616",
   "jp": "もったいないばあさん",
   "en": "Stingy Old Woman",
-  "zh": ""
+  "zh": "舍不得浪费的老太太"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14823/0",
@@ -231765,7 +231765,7 @@
   "offset": "462C",
   "jp": "深いシワの老婆",
   "en": "Wrinkled Old Woman",
-  "zh": ""
+  "zh": "满脸深纹的老妇"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C08/0",
@@ -231774,7 +231774,7 @@
   "offset": "463C",
   "jp": "ロンドンシティから来た紳士",
   "en": "Gentleman From London City",
-  "zh": ""
+  "zh": "来自伦敦城的绅士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C09/0",
@@ -231783,7 +231783,7 @@
   "offset": "4658",
   "jp": "かつて王に仕えた男性",
   "en": "Man Who Once Worked For The King",
-  "zh": ""
+  "zh": "曾经侍奉过国王的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C0A/0",
@@ -231792,7 +231792,7 @@
   "offset": "466E",
   "jp": "口うるさそうな男性",
   "en": "Loud-Mouthed Man",
-  "zh": ""
+  "zh": "看起来爱唠叨的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C0B/0",
@@ -231801,7 +231801,7 @@
   "offset": "4682",
   "jp": "出張の多い男性",
   "en": "Man Who Travels A Lot",
-  "zh": ""
+  "zh": "经常出差的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C0C/0",
@@ -231810,7 +231810,7 @@
   "offset": "4692",
   "jp": "元王家付の都市計画家",
   "en": "Former Royal City Planner",
-  "zh": ""
+  "zh": "前王室御用城市规划师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C0D/0",
@@ -231819,7 +231819,7 @@
   "offset": "46A8",
   "jp": "ハートソン",
   "en": "Hartson",
-  "zh": ""
+  "zh": "哈特森"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C6C/0",
@@ -231828,7 +231828,7 @@
   "offset": "46B4",
   "jp": "ロンドンシティから来た高飛車な男",
   "en": "Domineering Man From London City",
-  "zh": ""
+  "zh": "来自伦敦城盛气凌人的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C6D/0",
@@ -231837,7 +231837,7 @@
   "offset": "46D6",
   "jp": "若さあふれる男性",
   "en": "Wild And Youthful Man",
-  "zh": ""
+  "zh": "朝气蓬勃的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C6E/0",
@@ -231846,7 +231846,7 @@
   "offset": "46E8",
   "jp": "引き締まった顔つきの男性",
   "en": "Tense-Looking Man",
-  "zh": ""
+  "zh": "神情坚毅的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14C6F/0",
@@ -231855,7 +231855,7 @@
   "offset": "4702",
   "jp": "元王家付の建築家",
   "en": "Former Royal Architect",
-  "zh": ""
+  "zh": "前王室御用建筑师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14FF0/0",
@@ -231864,7 +231864,7 @@
   "offset": "4714",
   "jp": "ロンドンシティから来た貴婦人",
   "en": "Noblewoman From London City",
-  "zh": ""
+  "zh": "来自伦敦城的高贵妇人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14FF1/0",
@@ -231873,7 +231873,7 @@
   "offset": "4732",
   "jp": "柔らかな笑顔の似合う女性",
   "en": "Woman With A Soft Smile",
-  "zh": ""
+  "zh": "笑容温婉的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14FF2/0",
@@ -231882,7 +231882,7 @@
   "offset": "474C",
   "jp": "妙に貫禄のある女性",
   "en": "Dignified-Looking Woman",
-  "zh": ""
+  "zh": "颇有威严的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/14FF3/0",
@@ -231891,7 +231891,7 @@
   "offset": "4760",
   "jp": "陰りのある表情の女性",
   "en": "Woman With A Gloomy Face",
-  "zh": ""
+  "zh": "面带阴霾的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15054/0",
@@ -231900,7 +231900,7 @@
   "offset": "4776",
   "jp": "派手なツメ色の女性",
   "en": "Woman With Flashy Nails",
-  "zh": ""
+  "zh": "美甲鲜艳的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15055/0",
@@ -231909,7 +231909,7 @@
   "offset": "478A",
   "jp": "香水の匂いを振りまく女性",
   "en": "Woman Who Smells Of Perfume",
-  "zh": ""
+  "zh": "散发着香水味的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/15056/0",
@@ -231918,7 +231918,7 @@
   "offset": "47A4",
   "jp": "留学経験のある女性",
   "en": "Well-Read Woman",
-  "zh": ""
+  "zh": "有留学经历的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A88/0",
@@ -231927,7 +231927,7 @@
   "offset": "47B8",
   "jp": "某家の箱入り息子",
   "en": "Shut-In Son",
-  "zh": ""
+  "zh": "某大户人家的娇生子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A89/0",
@@ -231936,7 +231936,7 @@
   "offset": "47CA",
   "jp": "ござるサムライ",
   "en": "Formal Samurai",
-  "zh": ""
+  "zh": "在下武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A8A/0",
@@ -231945,7 +231945,7 @@
   "offset": "47DA",
   "jp": "いつも淡々としたサムライ",
   "en": "Disinterested Samurai",
-  "zh": ""
+  "zh": "总是很平淡的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A8B/0",
@@ -231954,7 +231954,7 @@
   "offset": "47F4",
   "jp": "やつれ顔のサムライ",
   "en": "Haggard Samurai",
-  "zh": ""
+  "zh": "面容憔悴的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A8C/0",
@@ -231963,7 +231963,7 @@
   "offset": "4808",
   "jp": "いつも大げさなサムライ",
   "en": "Exaggerating Samurai",
-  "zh": ""
+  "zh": "总是大惊小怪的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A8D/0",
@@ -231972,7 +231972,7 @@
   "offset": "4820",
   "jp": "剣の名手と名高いサムライ",
   "en": "Samurai Known As A Great Swordsman",
-  "zh": ""
+  "zh": "闻名遐迩的剑术名手武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A8E/0",
@@ -231981,7 +231981,7 @@
   "offset": "483A",
   "jp": "うぬぼれ屋なサムライ",
   "en": "Vain Samurai",
-  "zh": ""
+  "zh": "自命不凡的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A8F/0",
@@ -231990,7 +231990,7 @@
   "offset": "4850",
   "jp": "性格が優しすぎるサムライ",
   "en": "Extremely Kind Samurai",
-  "zh": ""
+  "zh": "性格过于温柔的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A90/0",
@@ -231999,7 +231999,7 @@
   "offset": "486A",
   "jp": "苦労性のサムライ",
   "en": "Hardworking Samurai",
-  "zh": ""
+  "zh": "天生劳碌命的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A91/0",
@@ -232008,7 +232008,7 @@
   "offset": "487C",
   "jp": "内ベンケイなサムライ",
   "en": "Big-mouthed but cowardly Samurai",
-  "zh": ""
+  "zh": "窝里横的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18A92/0",
@@ -232017,7 +232017,7 @@
   "offset": "4892",
   "jp": "飽きっぽい性格のサムライ",
   "en": "Samurai Who Gets Bored Quickly",
-  "zh": ""
+  "zh": "喜新厌旧的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AEC/0",
@@ -232026,7 +232026,7 @@
   "offset": "48AC",
   "jp": "いつもいばり散らしているサムライ",
   "en": "Arrogant Samurai",
-  "zh": ""
+  "zh": "总是趾高气扬的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AED/0",
@@ -232035,7 +232035,7 @@
   "offset": "48CE",
   "jp": "キョウト生まれキョウト育ちのサムライ",
   "en": "Samurai Born And Raised In Kyoto",
-  "zh": ""
+  "zh": "生于京都长于京都的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AEE/0",
@@ -232044,7 +232044,7 @@
   "offset": "48F4",
   "jp": "思い出し笑いの多いサムライ",
   "en": "Samurai Who Laughs To Himself",
-  "zh": ""
+  "zh": "总爱偷笑的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AEF/0",
@@ -232053,7 +232053,7 @@
   "offset": "4910",
   "jp": "俳句をたしなむサムライ",
   "en": "Samurai Who Likes Haiku",
-  "zh": ""
+  "zh": "爱好俳句的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AF0/0",
@@ -232062,7 +232062,7 @@
   "offset": "4928",
   "jp": "槍の名手と名高いサムライ",
   "en": "Samurai Known As A Great Lancer",
-  "zh": ""
+  "zh": "闻名遐迩的枪术名手武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AF1/0",
@@ -232071,7 +232071,7 @@
   "offset": "4942",
   "jp": "うっかりサムライ",
   "en": "Careless Samurai",
-  "zh": ""
+  "zh": "冒失的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AF2/0",
@@ -232080,7 +232080,7 @@
   "offset": "4954",
   "jp": "しつこい性格のサムライ",
   "en": "Persistent Samurai",
-  "zh": ""
+  "zh": "死缠烂打的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AF3/0",
@@ -232089,7 +232089,7 @@
   "offset": "496C",
   "jp": "大食漢なサムライ",
   "en": "Samurai Who Eats A Lot",
-  "zh": ""
+  "zh": "大胃王武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AF4/0",
@@ -232098,7 +232098,7 @@
   "offset": "497E",
   "jp": "半人前のサムライ",
   "en": "Inexperienced Samurai",
-  "zh": ""
+  "zh": "半吊子武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/18AF5/0",
@@ -232107,7 +232107,7 @@
   "offset": "4990",
   "jp": "鼻っ柱の強いサムライ",
   "en": "Aggressive Samurai",
-  "zh": ""
+  "zh": "争强好胜的武士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D4C0/0",
@@ -232116,7 +232116,7 @@
   "offset": "49A6",
   "jp": "気風のいい主人",
   "en": "Big-Hearted Owner",
-  "zh": ""
+  "zh": "豪爽的店主"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D4C1/0",
@@ -232125,7 +232125,7 @@
   "offset": "49B6",
   "jp": "違いの分かる主人",
   "en": "Owner Who Knows The Difference",
-  "zh": ""
+  "zh": "懂行的店主"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D4C2/0",
@@ -232134,7 +232134,7 @@
   "offset": "49C8",
   "jp": "かかあ天下の細工職人",
   "en": "Craftsman With Overbearing Wife",
-  "zh": ""
+  "zh": "惧内的细工匠人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D4C3/0",
@@ -232143,7 +232143,7 @@
   "offset": "49DE",
   "jp": "目のくまの濃い男",
   "en": "Man With Dark Rings Under His Eyes",
-  "zh": ""
+  "zh": "黑眼圈很重的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D4C4/0",
@@ -232152,7 +232152,7 @@
   "offset": "49F0",
   "jp": "許されぬ恋路を行く男",
   "en": "Man With A Forbidden Love",
-  "zh": ""
+  "zh": "踏上不伦之恋的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D4C5/0",
@@ -232161,7 +232161,7 @@
   "offset": "4A06",
   "jp": "仕事の丁寧な男",
   "en": "Conscientious Working Man",
-  "zh": ""
+  "zh": "工作细致的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D524/0",
@@ -232170,7 +232170,7 @@
   "offset": "4A16",
   "jp": "ケンカが華の男",
   "en": "Man Who Likes To Fight",
-  "zh": ""
+  "zh": "好勇斗狠的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D525/0",
@@ -232179,7 +232179,7 @@
   "offset": "4A26",
   "jp": "借金まみれの博打打ち",
   "en": "Indebted Gambler",
-  "zh": ""
+  "zh": "债台高筑的赌徒"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D526/0",
@@ -232188,7 +232188,7 @@
   "offset": "4A3C",
   "jp": "趣味はお寺めぐりの遊び人",
   "en": "Player Who Likes To Visit Temples",
-  "zh": ""
+  "zh": "兴趣是游览寺庙的纨绔子弟"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D527/0",
@@ -232197,7 +232197,7 @@
   "offset": "4A56",
   "jp": "いなせなキョウト男",
   "en": "Stylish Man From Kyoto",
-  "zh": ""
+  "zh": "潇洒帅气的京都男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D528/0",
@@ -232206,7 +232206,7 @@
   "offset": "4A6A",
   "jp": "こわもて店主",
   "en": "Stern-Faced Store Owner",
-  "zh": ""
+  "zh": "面相凶狠的店主"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D529/0",
@@ -232215,7 +232215,7 @@
   "offset": "4A78",
   "jp": "おしどり夫婦な男",
   "en": "Lovebird Husband",
-  "zh": ""
+  "zh": "恩爱夫妻的丈夫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D52A/0",
@@ -232224,7 +232224,7 @@
   "offset": "4A8A",
   "jp": "とにかくガンコな主人",
   "en": "Stubborn Husband",
-  "zh": ""
+  "zh": "极其顽固的老板"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D8A8/0",
@@ -232233,7 +232233,7 @@
   "offset": "4AA0",
   "jp": "箱入り娘を卒業した女",
   "en": "Girl With A Sheltered Childhood",
-  "zh": ""
+  "zh": "告别大家闺秀生活的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D8A9/0",
@@ -232242,7 +232242,7 @@
   "offset": "4AB6",
   "jp": "スゴ腕女将",
   "en": "Powerful Proprietress",
-  "zh": ""
+  "zh": "精明干练的老板娘"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D8AA/0",
@@ -232251,7 +232251,7 @@
   "offset": "4AC2",
   "jp": "面食いな女",
   "en": "Woman Who Loves Handsome Men",
-  "zh": ""
+  "zh": "以貌取人的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D8AB/0",
@@ -232260,7 +232260,7 @@
   "offset": "4ACE",
   "jp": "キョウト名物肝っ玉かあちゃん",
   "en": "Well-Minded Mother",
-  "zh": ""
+  "zh": "京都闻名的胆大母亲"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D8AC/0",
@@ -232269,7 +232269,7 @@
   "offset": "4AEC",
   "jp": "涙ぐましい努力の女",
   "en": "Industrious Woman",
-  "zh": ""
+  "zh": "让人心生敬佩的努力女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D8AD/0",
@@ -232278,7 +232278,7 @@
   "offset": "4B00",
   "jp": "暖かい気持ちにしてくれる女",
   "en": "Warm-Hearted Woman",
-  "zh": ""
+  "zh": "给人温暖感觉的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D90C/0",
@@ -232287,7 +232287,7 @@
   "offset": "4B1C",
   "jp": "むせ返るような色気の女",
   "en": "Heart-Stoppingly Sexy Woman",
-  "zh": ""
+  "zh": "充满窒息般魅惑的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D90D/0",
@@ -232296,7 +232296,7 @@
   "offset": "4B34",
   "jp": "おしどり夫婦な女",
   "en": "Lovebird Wife",
-  "zh": ""
+  "zh": "如胶似漆的妻子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D90E/0",
@@ -232305,7 +232305,7 @@
   "offset": "4B46",
   "jp": "香の匂いも艶っぽい女",
   "en": "Woman With Fine Perfume",
-  "zh": ""
+  "zh": "熏香怡人的美艳女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D90F/0",
@@ -232314,7 +232314,7 @@
   "offset": "4B5C",
   "jp": "流し目もあでやかな女",
   "en": "Bewitching-Looking Woman",
-  "zh": ""
+  "zh": "眼神勾人心魄的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D910/0",
@@ -232323,7 +232323,7 @@
   "offset": "4B72",
   "jp": "意地っぱりな女",
   "en": "Stubborn Woman",
-  "zh": ""
+  "zh": "倔强要强的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1D911/0",
@@ -232332,7 +232332,7 @@
   "offset": "4B82",
   "jp": "c1211_キョウトシティ女B05（未定）",
   "en": "",
-  "zh": ""
+  "zh": "c1211_京都城女子B05（未定）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1DC90/0",
@@ -232341,7 +232341,7 @@
   "offset": "4BAE",
   "jp": "鼻たれあともまぶしい少年",
   "en": "Boy With A Runny Nose",
-  "zh": ""
+  "zh": "连鼻涕痕迹都显得耀眼的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1DC91/0",
@@ -232350,7 +232350,7 @@
   "offset": "4BC8",
   "jp": "いつも涙目の少年",
   "en": "Boy Always About To Cry",
-  "zh": ""
+  "zh": "总是泪汪汪的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1DC92/0",
@@ -232359,7 +232359,7 @@
   "offset": "4BDA",
   "jp": "ひなたの匂いのする少年",
   "en": "Boy Who Smells Like Sunshine",
-  "zh": ""
+  "zh": "带着阳光气味的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E078/0",
@@ -232368,7 +232368,7 @@
   "offset": "4BF2",
   "jp": "瓦版五紙を愛読する老人",
   "en": "Old Man Who Loves To Read",
-  "zh": ""
+  "zh": "酷爱阅读五种小报的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E079/0",
@@ -232377,7 +232377,7 @@
   "offset": "4C0A",
   "jp": "顔色のさえない老人",
   "en": "Pale Old Man",
-  "zh": ""
+  "zh": "面色暗淡的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E07A/0",
@@ -232386,7 +232386,7 @@
   "offset": "4C1E",
   "jp": "夫婦漫才な老人",
   "en": "Funny Old Husband",
-  "zh": ""
+  "zh": "像演双簧相声般风趣的老大爷"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E07B/0",
@@ -232395,7 +232395,7 @@
   "offset": "4C2E",
   "jp": "一流料亭を渡り歩く名料理人",
   "en": "Cook Who Worked At Top Restaurants",
-  "zh": ""
+  "zh": "辗转于各家一流料亭的名厨"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E07C/0",
@@ -232404,7 +232404,7 @@
   "offset": "4C4A",
   "jp": "肺わずらいの老人",
   "en": "Old Man With Weak Lungs",
-  "zh": ""
+  "zh": "患有肺疾的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E460/0",
@@ -232413,7 +232413,7 @@
   "offset": "4C5C",
   "jp": "ご近所でも評判の着付け名人",
   "en": "Well-Dressed Individual",
-  "zh": ""
+  "zh": "在街坊邻里备受好评的和服着装达人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E461/0",
@@ -232422,7 +232422,7 @@
   "offset": "4C78",
   "jp": "泣く子も黙る遣り手ばば",
   "en": "Aggressive Old Lady",
-  "zh": ""
+  "zh": "能止小儿夜啼的精明能干老太婆"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E462/0",
@@ -232431,7 +232431,7 @@
   "offset": "4C90",
   "jp": "世話焼きの大家主",
   "en": "Meddlesome Landlord",
-  "zh": ""
+  "zh": "爱操心的大房东"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E463/0",
@@ -232440,7 +232440,7 @@
   "offset": "4CA2",
   "jp": "夫婦漫才な老婆",
   "en": "Funny Old Lady",
-  "zh": ""
+  "zh": "像演双簧相声般风趣的老大娘"
  },
  {
   "id": "OTHER/NAMELIST.TXT/1E464/0",
@@ -232449,7 +232449,7 @@
   "offset": "4CB2",
   "jp": "仕切り屋おばば",
   "en": "Controlling Old Lady",
-  "zh": ""
+  "zh": "爱包办管闲事的老太婆"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23280/0",
@@ -232458,7 +232458,7 @@
   "offset": "4CC2",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23281/0",
@@ -232467,7 +232467,7 @@
   "offset": "4CCC",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23282/0",
@@ -232476,7 +232476,7 @@
   "offset": "4CD6",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23283/0",
@@ -232485,7 +232485,7 @@
   "offset": "4CE0",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23284/0",
@@ -232494,7 +232494,7 @@
   "offset": "4CEA",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23285/0",
@@ -232503,7 +232503,7 @@
   "offset": "4CF4",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23286/0",
@@ -232512,7 +232512,7 @@
   "offset": "4CFE",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23287/0",
@@ -232521,7 +232521,7 @@
   "offset": "4D08",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23288/0",
@@ -232530,7 +232530,7 @@
   "offset": "4D12",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23289/0",
@@ -232539,7 +232539,7 @@
   "offset": "4D1C",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2328A/0",
@@ -232548,7 +232548,7 @@
   "offset": "4D26",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2328B/0",
@@ -232557,7 +232557,7 @@
   "offset": "4D30",
   "jp": "ニンジャ",
   "en": "Ninja",
-  "zh": ""
+  "zh": "忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23668/0",
@@ -232566,7 +232566,7 @@
   "offset": "4D3A",
   "jp": "強い意志を感じさせる女性",
   "en": "Strong-Willed Woman",
-  "zh": ""
+  "zh": "透着坚强意志的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23669/0",
@@ -232575,7 +232575,7 @@
   "offset": "4D54",
   "jp": "料理上手な女性",
   "en": "Woman Who Cooks Well",
-  "zh": ""
+  "zh": "擅长料理的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2366A/0",
@@ -232584,7 +232584,7 @@
   "offset": "4D64",
   "jp": "儚げな雰囲気の女性",
   "en": "Slightly Vain Woman",
-  "zh": ""
+  "zh": "带着楚楚可怜气息的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2366B/0",
@@ -232593,7 +232593,7 @@
   "offset": "4D78",
   "jp": "たくましく家族を支える女性",
   "en": "Woman Who Supports Her Family",
-  "zh": ""
+  "zh": "坚强操持家庭的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2366C/0",
@@ -232602,7 +232602,7 @@
   "offset": "4D94",
   "jp": "お茶立ての得意な女性",
   "en": "Skilled Tea Lady",
-  "zh": ""
+  "zh": "擅长点茶的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23A50/0",
@@ -232611,7 +232611,7 @@
   "offset": "4DAA",
   "jp": "里の行く末を背負う少年",
   "en": "Boy Who Carries The Village's Fate",
-  "zh": ""
+  "zh": "肩负村子未来的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23E38/0",
@@ -232620,7 +232620,7 @@
   "offset": "4DC2",
   "jp": "静ひつな空気をまとう老人",
   "en": "Serene Old Man",
-  "zh": ""
+  "zh": "周身萦绕静谧气息的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23E39/0",
@@ -232629,7 +232629,7 @@
   "offset": "4DDC",
   "jp": "年齢を感じさせぬ老人",
   "en": "Youthful Old Man",
-  "zh": ""
+  "zh": "看不出年纪的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23E3A/0",
@@ -232638,7 +232638,7 @@
   "offset": "4DF2",
   "jp": "里の時を見つめ続けてきた老人",
   "en": "Old Man Who Looks After The Village",
-  "zh": ""
+  "zh": "见证村子漫长岁月的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23E3B/0",
@@ -232647,7 +232647,7 @@
   "offset": "4E10",
   "jp": "強いまなざしの老人",
   "en": "Old Man With Steely Eyes",
-  "zh": ""
+  "zh": "目光坚毅的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/23E3C/0",
@@ -232656,7 +232656,7 @@
   "offset": "4E24",
   "jp": "刀匠",
   "en": "Swordsmith",
-  "zh": ""
+  "zh": "刀匠"
  },
  {
   "id": "OTHER/NAMELIST.TXT/24220/0",
@@ -232665,7 +232665,7 @@
   "offset": "4E2A",
   "jp": "曇りなき眼を持つ男",
   "en": "Man With Clear Eyes",
-  "zh": ""
+  "zh": "目光澄澈的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/24221/0",
@@ -232674,7 +232674,7 @@
   "offset": "4E3E",
   "jp": "薬師",
   "en": "Healing Buddha",
-  "zh": ""
+  "zh": "药师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D0/0",
@@ -232683,7 +232683,7 @@
   "offset": "4E44",
   "jp": "根っからの商売人気質な男",
   "en": "Born Salesman",
-  "zh": ""
+  "zh": "骨子里天生是商人的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D1/0",
@@ -232692,7 +232692,7 @@
   "offset": "4E5E",
   "jp": "香辛料の匂いのする男",
   "en": "Man Who Smells Of Spice",
-  "zh": ""
+  "zh": "身上带着香料味的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D2/0",
@@ -232701,7 +232701,7 @@
   "offset": "4E74",
   "jp": "アニキと慕われる男",
   "en": "Adored Young Man",
-  "zh": ""
+  "zh": "被尊为大哥的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D3/0",
@@ -232710,7 +232710,7 @@
   "offset": "4E88",
   "jp": "腕っ節ひとつでのし上がる男",
   "en": "Very Strong Man",
-  "zh": ""
+  "zh": "全凭腕力出人头地的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D4/0",
@@ -232719,7 +232719,7 @@
   "offset": "4EA4",
   "jp": "一獲千金を夢見る男",
   "en": "Man Who Dreams Of Getting Rich",
-  "zh": ""
+  "zh": "梦想一夜暴富的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D5/0",
@@ -232728,7 +232728,7 @@
   "offset": "4EB8",
   "jp": "心豊かな時を生きる男",
   "en": "Man Who Lives A Rich Life",
-  "zh": ""
+  "zh": "过着内心丰盈时光的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D6/0",
@@ -232737,7 +232737,7 @@
   "offset": "4ECE",
   "jp": "ロマンに生きる男",
   "en": "Romantic Man",
-  "zh": ""
+  "zh": "为浪漫而生的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D7/0",
@@ -232746,7 +232746,7 @@
   "offset": "4EE0",
   "jp": "不死鳥と呼ばれる男",
   "en": "Man Known As \"The Phoenix\"",
-  "zh": ""
+  "zh": "被称为不死鸟的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D8/0",
@@ -232755,7 +232755,7 @@
   "offset": "4EF4",
   "jp": "c1620_ジャンクシティ男A08（未定）",
   "en": "",
-  "zh": ""
+  "zh": "c1620_废品城男子A08（未定）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278D9/0",
@@ -232764,7 +232764,7 @@
   "offset": "4F20",
   "jp": "街一番のお調子者",
   "en": "Town Sneak",
-  "zh": ""
+  "zh": "镇上最能起哄的人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/278DA/0",
@@ -232773,7 +232773,7 @@
   "offset": "4F32",
   "jp": "c1620_ジャンクシティ男A10（未定）",
   "en": "",
-  "zh": ""
+  "zh": "c1620_废品城男子A10（未定）"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27934/0",
@@ -232782,7 +232782,7 @@
   "offset": "4F5E",
   "jp": "街一番の力持ち",
   "en": "Town Strongman",
-  "zh": ""
+  "zh": "镇上力气最大的人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27935/0",
@@ -232791,7 +232791,7 @@
   "offset": "4F6E",
   "jp": "かもねぎ男",
   "en": "Lucky Man",
-  "zh": ""
+  "zh": "送上门的大肥羊男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27936/0",
@@ -232800,7 +232800,7 @@
   "offset": "4F7A",
   "jp": "方々に敵を作っている男",
   "en": "Man With Many Enemies",
-  "zh": ""
+  "zh": "四处树敌的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27937/0",
@@ -232809,7 +232809,7 @@
   "offset": "4F92",
   "jp": "そろそろ身をかためたい男",
   "en": "Man Who Wants To Get Married",
-  "zh": ""
+  "zh": "差不多想成家的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27938/0",
@@ -232818,7 +232818,7 @@
   "offset": "4FAC",
   "jp": "発掘王を名乗る男",
   "en": "The Excavationist",
-  "zh": ""
+  "zh": "自称发掘王的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27939/0",
@@ -232827,7 +232827,7 @@
   "offset": "4FBE",
   "jp": "ロートル警備員",
   "en": "Rotor Guard",
-  "zh": ""
+  "zh": "年迈的警卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2793A/0",
@@ -232836,7 +232836,7 @@
   "offset": "4FCE",
   "jp": "世界をまたにかける男",
   "en": "Globe-Trotter",
-  "zh": ""
+  "zh": "走南闯北的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2793B/0",
@@ -232845,7 +232845,7 @@
   "offset": "4FE4",
   "jp": "ちょっとお節介な男",
   "en": "Interfering Man",
-  "zh": ""
+  "zh": "有点爱管闲事的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27CB8/0",
@@ -232854,7 +232854,7 @@
   "offset": "4FF8",
   "jp": "抜け目ない眼差しの女",
   "en": "Girl With A Cunning Look",
-  "zh": ""
+  "zh": "眼神精明的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27CB9/0",
@@ -232863,7 +232863,7 @@
   "offset": "500E",
   "jp": "新たな恋に踏み出せない女",
   "en": "Girl Who Cannot Let Past Love Go",
-  "zh": ""
+  "zh": "无法迈向新恋情的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27CBA/0",
@@ -232872,7 +232872,7 @@
   "offset": "5028",
   "jp": "手癖の悪い女",
   "en": "Woman Given To Thievery",
-  "zh": ""
+  "zh": "手脚不干净的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27CBB/0",
@@ -232881,7 +232881,7 @@
   "offset": "5036",
   "jp": "都会生活にあこがれる女",
   "en": "Girl Who Wants To Live In The City",
-  "zh": ""
+  "zh": "向往都市生活的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27CBC/0",
@@ -232890,7 +232890,7 @@
   "offset": "504E",
   "jp": "耐える女",
   "en": "Suffering Woman",
-  "zh": ""
+  "zh": "隐忍的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27CBD/0",
@@ -232899,7 +232899,7 @@
   "offset": "5058",
   "jp": "世渡り上手な女",
   "en": "Girl Who Gets What She Wants",
-  "zh": ""
+  "zh": "处世圆滑的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27D1C/0",
@@ -232908,7 +232908,7 @@
   "offset": "5068",
   "jp": "一日五食は欠かせない女",
   "en": "Girl Who Eats Five Times A Day",
-  "zh": ""
+  "zh": "一日五餐必不可少的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27D1D/0",
@@ -232917,7 +232917,7 @@
   "offset": "5080",
   "jp": "掘り師と呼ばれる女",
   "en": "The Digger",
-  "zh": ""
+  "zh": "被称为淘掘者的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27D1E/0",
@@ -232926,7 +232926,7 @@
   "offset": "5094",
   "jp": "かもねぎ女",
   "en": "Lucky Woman",
-  "zh": ""
+  "zh": "送上门来的肥羊女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27D1F/0",
@@ -232935,7 +232935,7 @@
   "offset": "50A0",
   "jp": "八人姉妹の長女",
   "en": "Oldest Of Eight Sisters",
-  "zh": ""
+  "zh": "八姐妹中的长女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/27D20/0",
@@ -232944,7 +232944,7 @@
   "offset": "50B0",
   "jp": "お宝ハンター",
   "en": "Treasure Hunter",
-  "zh": ""
+  "zh": "宝藏猎人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/280A0/0",
@@ -232953,7 +232953,7 @@
   "offset": "50BE",
   "jp": "想像力たくましい少年",
   "en": "Boy With A Vivid Imagination",
-  "zh": ""
+  "zh": "想象力丰富的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/280A1/0",
@@ -232962,7 +232962,7 @@
   "offset": "50D4",
   "jp": "将来のお嫁さんを心に決めた少年",
   "en": "Boy Who Has Chosen His Wife Already",
-  "zh": ""
+  "zh": "心中已定下未来新娘的少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/280A2/0",
@@ -232971,7 +232971,7 @@
   "offset": "50F4",
   "jp": "コテコテのジャンク少年",
   "en": "Junkyard Boy",
-  "zh": ""
+  "zh": "地道的废品少年"
  },
  {
   "id": "OTHER/NAMELIST.TXT/28488/0",
@@ -232980,7 +232980,7 @@
   "offset": "510C",
   "jp": "怪しい鑑定眼を持つ男",
   "en": "Self-Appointed Connoisseur",
-  "zh": ""
+  "zh": "鉴赏眼光可疑的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/28489/0",
@@ -232989,7 +232989,7 @@
   "offset": "5122",
   "jp": "自称『伝説の詐欺師』",
   "en": "The Legendary Conman",
-  "zh": ""
+  "zh": "自称“传说中的诈欺师”"
  },
  {
   "id": "OTHER/NAMELIST.TXT/28870/0",
@@ -232998,7 +232998,7 @@
   "offset": "5138",
   "jp": "いつも幸せそうな老婆",
   "en": "Happy Old Lady",
-  "zh": ""
+  "zh": "总是看似很幸福的老妇"
  },
  {
   "id": "OTHER/NAMELIST.TXT/28871/0",
@@ -233007,7 +233007,7 @@
   "offset": "514E",
   "jp": "平和が一番な老婆",
   "en": "Old Lady Who Loves Peace",
-  "zh": ""
+  "zh": "以和为贵的老妇"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2C6F0/0",
@@ -233016,7 +233016,7 @@
   "offset": "5160",
   "jp": "照れ屋な男性",
   "en": "Shy Man",
-  "zh": ""
+  "zh": "容易害羞的男性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2C6F1/0",
@@ -233025,7 +233025,7 @@
   "offset": "516E",
   "jp": "純朴という言葉が似合う男性",
   "en": "Man of Simple Words",
-  "zh": ""
+  "zh": "宛如纯朴代名词的男性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2CAD8/0",
@@ -233034,7 +233034,7 @@
   "offset": "518A",
   "jp": "書物が似合うクールな美人",
   "en": "Cool Beauty Who Likes Books",
-  "zh": ""
+  "zh": "与书卷气质相衬的冷美人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2CAD9/0",
@@ -233043,7 +233043,7 @@
   "offset": "51A4",
   "jp": "不思議な色を瞳にたたえる女性",
   "en": "Woman With Strange-Colored Eyes",
-  "zh": ""
+  "zh": "眼眸泛着奇异色彩的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2CADA/0",
@@ -233052,7 +233052,7 @@
   "offset": "51C2",
   "jp": "物静かな佇まいの女性",
   "en": "Quiet Woman",
-  "zh": ""
+  "zh": "神态沉静从容的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2CADB/0",
@@ -233061,7 +233061,7 @@
   "offset": "51D8",
   "jp": "人々を見守ってきた女性",
   "en": "Woman Who Watches Over Others",
-  "zh": ""
+  "zh": "一直守护着众人的女性"
  },
  {
   "id": "OTHER/NAMELIST.TXT/2D690/0",
@@ -233070,7 +233070,7 @@
   "offset": "51F0",
   "jp": "村の長老",
   "en": "Village Elder",
-  "zh": ""
+  "zh": "村中长老"
  },
  {
   "id": "OTHER/NAMELIST.TXT/30D40/0",
@@ -233079,7 +233079,7 @@
   "offset": "51FA",
   "jp": "コータ",
   "en": "Cota",
-  "zh": ""
+  "zh": "柯达"
  },
  {
   "id": "OTHER/NAMELIST.TXT/30DA4/0",
@@ -233088,7 +233088,7 @@
   "offset": "5202",
   "jp": "サンディ",
   "en": "Sandy",
-  "zh": ""
+  "zh": "桑迪"
  },
  {
   "id": "OTHER/NAMELIST.TXT/31128/0",
@@ -233097,7 +233097,7 @@
   "offset": "520C",
   "jp": "ニャン吉",
   "en": "Jezebel",
-  "zh": ""
+  "zh": "喵吉"
  },
  {
   "id": "OTHER/NAMELIST.TXT/7B890/0",
@@ -233106,7 +233106,7 @@
   "offset": "5216",
   "jp": "ウホボンゴ",
   "en": "Uhabongo",
-  "zh": ""
+  "zh": "乌霍邦戈"
  },
  {
   "id": "OTHER/NAMELIST.TXT/7B891/0",
@@ -233115,7 +233115,7 @@
   "offset": "5222",
   "jp": "ウホボンゴ",
   "en": "Uhabongo",
-  "zh": ""
+  "zh": "乌霍邦戈"
  },
  {
   "id": "OTHER/NAMELIST.TXT/7B892/0",
@@ -233124,7 +233124,7 @@
   "offset": "522E",
   "jp": "ウホボンゴ",
   "en": "Uhabongo",
-  "zh": ""
+  "zh": "乌霍邦戈"
  },
  {
   "id": "OTHER/NAMELIST.TXT/829D8/0",
@@ -233133,7 +233133,7 @@
   "offset": "523A",
   "jp": "ファニークラウン",
   "en": "Funny Clown",
-  "zh": ""
+  "zh": "滑稽小丑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/829D9/0",
@@ -233142,7 +233142,7 @@
   "offset": "524C",
   "jp": "ファニークラウン",
   "en": "Funny Clown",
-  "zh": ""
+  "zh": "滑稽小丑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/829DA/0",
@@ -233151,7 +233151,7 @@
   "offset": "525E",
   "jp": "ファニークラウン",
   "en": "Funny Clown",
-  "zh": ""
+  "zh": "滑稽小丑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/829DB/0",
@@ -233160,7 +233160,7 @@
   "offset": "5270",
   "jp": "ファニークラウン",
   "en": "Funny Clown",
-  "zh": ""
+  "zh": "滑稽小丑"
  },
  {
   "id": "OTHER/NAMELIST.TXT/82DC0/0",
@@ -233169,7 +233169,7 @@
   "offset": "5282",
   "jp": "ファイアーゴーレム",
   "en": "Fire Guardian",
-  "zh": ""
+  "zh": "火之魔像"
  },
  {
   "id": "OTHER/NAMELIST.TXT/84918/0",
@@ -233178,7 +233178,7 @@
   "offset": "5296",
   "jp": "プリムローズ",
   "en": "Primrose",
-  "zh": ""
+  "zh": "报春花"
  },
  {
   "id": "OTHER/NAMELIST.TXT/887FB/0",
@@ -233187,7 +233187,7 @@
   "offset": "52A4",
   "jp": "ゴールドスクワット",
   "en": "Gold Squat",
-  "zh": ""
+  "zh": "黄金深蹲者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/95E70/0",
@@ -233196,7 +233196,7 @@
   "offset": "52B8",
   "jp": "ホノカ",
   "en": "Honoka",
-  "zh": ""
+  "zh": "穗乃香"
  },
  {
   "id": "OTHER/NAMELIST.TXT/95E71/0",
@@ -233205,7 +233205,7 @@
   "offset": "52C0",
   "jp": "クノイチ",
   "en": "Kunoichi",
-  "zh": ""
+  "zh": "女忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/95E72/0",
@@ -233214,7 +233214,7 @@
   "offset": "52CA",
   "jp": "クノイチ",
   "en": "Kunoichi",
-  "zh": ""
+  "zh": "女忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/95E73/0",
@@ -233223,7 +233223,7 @@
   "offset": "52D4",
   "jp": "クノイチ",
   "en": "Kunoichi",
-  "zh": ""
+  "zh": "女忍者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/ABE00/0",
@@ -233232,7 +233232,7 @@
   "offset": "52DE",
   "jp": "セバスチャン",
   "en": "Sebastian",
-  "zh": ""
+  "zh": "塞巴斯蒂安"
  },
  {
   "id": "OTHER/NAMELIST.TXT/ACE03/0",
@@ -233241,7 +233241,7 @@
   "offset": "52EC",
   "jp": "アヌビス",
   "en": "Anubis",
-  "zh": ""
+  "zh": "阿努比斯"
  },
  {
   "id": "OTHER/NAMELIST.TXT/AD1EB/0",
@@ -233250,7 +233250,7 @@
   "offset": "52F6",
   "jp": "黒竜",
   "en": "Black Dragon",
-  "zh": ""
+  "zh": "黑龙"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EF420/0",
@@ -233259,7 +233259,7 @@
   "offset": "52FC",
   "jp": "司会",
   "en": "Host",
-  "zh": ""
+  "zh": "主持人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/EF421/0",
@@ -233268,7 +233268,7 @@
   "offset": "5302",
   "jp": "謎の声",
   "en": "Mysterious Voice",
-  "zh": ""
+  "zh": "神秘的声音"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F07AD/0",
@@ -233277,7 +233277,7 @@
   "offset": "530A",
   "jp": "男性客",
   "en": "Male Customer",
-  "zh": ""
+  "zh": "男顾客"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F07AE/0",
@@ -233286,7 +233286,7 @@
   "offset": "5312",
   "jp": "女性客",
   "en": "Female Customer",
-  "zh": ""
+  "zh": "女顾客"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F07AF/0",
@@ -233295,7 +233295,7 @@
   "offset": "531A",
   "jp": "年配客",
   "en": "Elderly Customer",
-  "zh": ""
+  "zh": "年长顾客"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F07B2/0",
@@ -233304,7 +233304,7 @@
   "offset": "5322",
   "jp": "案内機",
   "en": "Direction Machine",
-  "zh": ""
+  "zh": "向导机"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F07B7/0",
@@ -233313,7 +233313,7 @@
   "offset": "532A",
   "jp": "案内板",
   "en": "Direction Sign",
-  "zh": ""
+  "zh": "指示牌"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1360/0",
@@ -233322,7 +233322,7 @@
   "offset": "5332",
   "jp": "トウヤ＆マコト",
   "en": "Toya & Makoto",
-  "zh": ""
+  "zh": "托亚＆马科托"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1361/0",
@@ -233331,7 +233331,7 @@
   "offset": "5342",
   "jp": "ＹＥＣメンバーたち",
   "en": "YEC Members",
-  "zh": ""
+  "zh": "ＹＥＣ成员们"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1362/0",
@@ -233340,7 +233340,7 @@
   "offset": "5356",
   "jp": "ＴＦＣメンバーたち",
   "en": "TFC Members",
-  "zh": ""
+  "zh": "ＴＦＣ成员们"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1363/0",
@@ -233349,7 +233349,7 @@
   "offset": "536A",
   "jp": "ＡＡＡメンバーたち",
   "en": "A3 Members",
-  "zh": ""
+  "zh": "ＡＡＡ成员们"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1364/0",
@@ -233358,7 +233358,7 @@
   "offset": "537E",
   "jp": "男子学生たち",
   "en": "Male Students",
-  "zh": ""
+  "zh": "男学生们"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1365/0",
@@ -233367,7 +233367,7 @@
   "offset": "538C",
   "jp": "アツマ＆マコト",
   "en": "Atsuma & Makoto",
-  "zh": ""
+  "zh": "阿茨玛＆马科托"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1366/0",
@@ -233376,7 +233376,7 @@
   "offset": "539C",
   "jp": "カリン＆ライガ",
   "en": "Karin & Raigar",
-  "zh": ""
+  "zh": "卡琳＆莱加"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1367/0",
@@ -233385,7 +233385,7 @@
   "offset": "53AC",
   "jp": "トキムネ親衛隊",
   "en": "Tokimune Bodyguards",
-  "zh": ""
+  "zh": "时宗亲卫队"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1368/0",
@@ -233394,7 +233394,7 @@
   "offset": "53BC",
   "jp": "フバイルの手下たち",
   "en": "Fubial's Servants",
-  "zh": ""
+  "zh": "弗拜尔的手下们"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1374/0",
@@ -233403,7 +233403,7 @@
   "offset": "53D0",
   "jp": "マンプク",
   "en": "Big Eater",
-  "zh": ""
+  "zh": "满腹"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1375/0",
@@ -233412,7 +233412,7 @@
   "offset": "53DA",
   "jp": "バーニング",
   "en": "Burning",
-  "zh": ""
+  "zh": "燃烧者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1376/0",
@@ -233421,7 +233421,7 @@
   "offset": "53E6",
   "jp": "単細胞",
   "en": "Bubble Head",
-  "zh": ""
+  "zh": "单细胞"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1377/0",
@@ -233430,7 +233430,7 @@
   "offset": "53EE",
   "jp": "マドンナ",
   "en": "Madonna",
-  "zh": ""
+  "zh": "麦当娜"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1378/0",
@@ -233439,7 +233439,7 @@
   "offset": "53F8",
   "jp": "ゴリさん",
   "en": "Silent Sword",
-  "zh": ""
+  "zh": "阿猩先生"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F137A/0",
@@ -233448,7 +233448,7 @@
   "offset": "5404",
   "jp": "？？？",
   "en": "???",
-  "zh": ""
+  "zh": "？？？"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F137B/0",
@@ -233457,7 +233457,7 @@
   "offset": "540C",
   "jp": "クイズマシーン",
   "en": "Quiz Machine",
-  "zh": ""
+  "zh": "问答机器"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F137C/0",
@@ -233466,7 +233466,7 @@
   "offset": "541C",
   "jp": "三バカトリオ",
   "en": "Three Morons",
-  "zh": ""
+  "zh": "笨蛋三人组"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F137D/0",
@@ -233475,7 +233475,7 @@
   "offset": "542A",
   "jp": "アーセナルリーダー＆クヒ男",
   "en": "Arsenal Leader & Giggling Man",
-  "zh": ""
+  "zh": "军械库头领＆傻笑男"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1748/0",
@@ -233484,7 +233484,7 @@
   "offset": "5446",
   "jp": "美脚の暴力娘",
   "en": "Wild Girl with Lovely Legs",
-  "zh": ""
+  "zh": "美腿暴力女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1749/0",
@@ -233493,7 +233493,7 @@
   "offset": "5454",
   "jp": "巨漢の剣士",
   "en": "Giant Swordsman",
-  "zh": ""
+  "zh": "魁梧的剑士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F174A/0",
@@ -233502,7 +233502,7 @@
   "offset": "5460",
   "jp": "ほほに傷を持つ男",
   "en": "Man With A Scarred Cheek",
-  "zh": ""
+  "zh": "脸上有伤疤的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F174B/0",
@@ -233511,7 +233511,7 @@
   "offset": "5472",
   "jp": "やたら調子のいい男",
   "en": "Unreasonably Happy Man",
-  "zh": ""
+  "zh": "格外自来熟的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F174C/0",
@@ -233520,7 +233520,7 @@
   "offset": "5486",
   "jp": "金銀財宝を散りばめた男",
   "en": "Man Wearing A Lot Of Gold",
-  "zh": ""
+  "zh": "浑身穿金戴银的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F174D/0",
@@ -233529,7 +233529,7 @@
   "offset": "549E",
   "jp": "黒髪の女剣士",
   "en": "Swordswoman With Black Hair",
-  "zh": ""
+  "zh": "黑发女剑士"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F174E/0",
@@ -233538,7 +233538,7 @@
   "offset": "54AC",
   "jp": "おだやかな表情の老人",
   "en": "Kind-Looking Old Man",
-  "zh": ""
+  "zh": "神情温和的老人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F174F/0",
@@ -233547,7 +233547,7 @@
   "offset": "54C2",
   "jp": "法衣姿の男",
   "en": "Man In Priestly Robes",
-  "zh": ""
+  "zh": "身穿法衣的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1750/0",
@@ -233556,7 +233556,7 @@
   "offset": "54CE",
   "jp": "ニンジャ装束の男",
   "en": "Man Dressed Like A Ninja",
-  "zh": ""
+  "zh": "忍者装束的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1751/0",
@@ -233565,7 +233565,7 @@
   "offset": "54E0",
   "jp": "華美な身なりの男",
   "en": "Gorgeous Man",
-  "zh": ""
+  "zh": "衣着华丽的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1752/0",
@@ -233574,7 +233574,7 @@
   "offset": "54F2",
   "jp": "元海の男",
   "en": "Former Man of the Seas",
-  "zh": ""
+  "zh": "曾经的水手"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1753/0",
@@ -233583,7 +233583,7 @@
   "offset": "54FC",
   "jp": "のりもの好きの子供",
   "en": "Child Who Loves Vehicles",
-  "zh": ""
+  "zh": "喜欢交通工具的小孩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1754/0",
@@ -233592,7 +233592,7 @@
   "offset": "5510",
   "jp": "やさしい笑顔の女",
   "en": "Woman With A Kind Smile",
-  "zh": ""
+  "zh": "笑容温柔的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1755/0",
@@ -233601,7 +233601,7 @@
   "offset": "5522",
   "jp": "親孝行な子供",
   "en": "Child Who Loves His Parents",
-  "zh": ""
+  "zh": "孝顺的小孩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1756/0",
@@ -233610,7 +233610,7 @@
   "offset": "5530",
   "jp": "妻の深い愛にこたえる男",
   "en": "Man Who Greatly Values His Wife",
-  "zh": ""
+  "zh": "回应妻子深情的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1757/0",
@@ -233619,7 +233619,7 @@
   "offset": "5548",
   "jp": "夫をこよなく愛する女",
   "en": "Woman Who Loves Her Husband Deeply",
-  "zh": ""
+  "zh": "深爱丈夫的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1758/0",
@@ -233628,7 +233628,7 @@
   "offset": "555E",
   "jp": "いつもお守りを押し付けられる女",
   "en": "Woman Who Always Pushes Charms",
-  "zh": ""
+  "zh": "总被强塞护身符的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1759/0",
@@ -233637,7 +233637,7 @@
   "offset": "557E",
   "jp": "ジャンケンにだけは強い子供",
   "en": "Child With One Strength",
-  "zh": ""
+  "zh": "唯独猜拳很强的小孩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F175A/0",
@@ -233646,7 +233646,7 @@
   "offset": "559A",
   "jp": "ジャンケンにだけは弱い子供",
   "en": "Child With One Weakness",
-  "zh": ""
+  "zh": "唯独猜拳很弱的小孩"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F175B/0",
@@ -233655,7 +233655,7 @@
   "offset": "55B6",
   "jp": "ヨコハマいちのピザ通",
   "en": "Pizza Master of Yokohama",
-  "zh": ""
+  "zh": "横滨第一披萨通"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F175C/0",
@@ -233664,7 +233664,7 @@
   "offset": "55CC",
   "jp": "ピザにはうるさい女",
   "en": "Woman Who Is Picky About Pizza",
-  "zh": ""
+  "zh": "对披萨挑剔的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F175D/0",
@@ -233673,7 +233673,7 @@
   "offset": "55E0",
   "jp": "不器用なピザ屋台のおやじ",
   "en": "Clumsy Pizza Store Owner",
-  "zh": ""
+  "zh": "笨手笨脚的披萨摊大叔"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F175E/0",
@@ -233682,7 +233682,7 @@
   "offset": "55FA",
   "jp": "おやじ好きの売り子",
   "en": "Seller Who Likes Older Men",
-  "zh": ""
+  "zh": "喜欢大叔的卖货女郎"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F175F/0",
@@ -233691,7 +233691,7 @@
   "offset": "560E",
   "jp": "片思いの恋に悩む警備兵",
   "en": "Guard Suffering Unrequited Love",
-  "zh": ""
+  "zh": "为单相思烦恼的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1760/0",
@@ -233700,7 +233700,7 @@
   "offset": "5626",
   "jp": "暇をつぶしたい男",
   "en": "Man Looking To Kill Time",
-  "zh": ""
+  "zh": "想打发时间的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1761/0",
@@ -233709,7 +233709,7 @@
   "offset": "5638",
   "jp": "カワイイものには目がない女",
   "en": "Woman Who Loves Cute Things",
-  "zh": ""
+  "zh": "对可爱事物毫无抵抗力的女人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1762/0",
@@ -233718,7 +233718,7 @@
   "offset": "5654",
   "jp": "ヨコハマ幼稚園ヨッピー組５番",
   "en": "Yoppi Kindergarten Class No. 5",
-  "zh": ""
+  "zh": "横滨幼儿园波比班5号"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1763/0",
@@ -233727,7 +233727,7 @@
   "offset": "5672",
   "jp": "ヨコハマ幼稚園ヨッピー組３番",
   "en": "Warm And Friendly Guard",
-  "zh": ""
+  "zh": "横滨幼儿园波比班3号"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1764/0",
@@ -233736,7 +233736,7 @@
   "offset": "5690",
   "jp": "ヨコハマ幼稚園ヨッピー組先生",
   "en": "Yoppi Kindergarten Class No. 3",
-  "zh": ""
+  "zh": "横滨幼儿园波比班老师"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1765/0",
@@ -233745,7 +233745,7 @@
   "offset": "56AE",
   "jp": "温和な警備兵",
   "en": "Yoppi Kindergarten Class Teacher",
-  "zh": ""
+  "zh": "温和的警备兵"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1766/0",
@@ -233754,7 +233754,7 @@
   "offset": "56BC",
   "jp": "ジューサーズ四姉妹長女",
   "en": "Eldest Juicer Sister",
-  "zh": ""
+  "zh": "榨汁机四姐妹长女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1767/0",
@@ -233763,7 +233763,7 @@
   "offset": "56D4",
   "jp": "ジューサーズ四姉妹次女",
   "en": "Second Juicer Sister",
-  "zh": ""
+  "zh": "榨汁机四姐妹次女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1768/0",
@@ -233772,7 +233772,7 @@
   "offset": "56EC",
   "jp": "ジューサーズ四姉妹三女",
   "en": "Third Juicer Sister",
-  "zh": ""
+  "zh": "榨汁机四姐妹三女"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1769/0",
@@ -233781,7 +233781,7 @@
   "offset": "5704",
   "jp": "ジューサーズ四姉妹末っ子",
   "en": "Youngest Juicer Sister",
-  "zh": ""
+  "zh": "榨汁机四姐妹小妹"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F176A/0",
@@ -233790,7 +233790,7 @@
   "offset": "571E",
   "jp": "気前のいい男",
   "en": "Optimistic Man",
-  "zh": ""
+  "zh": "大方的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F176B/0",
@@ -233799,7 +233799,7 @@
   "offset": "572C",
   "jp": "あどけない笑顔の子供",
   "en": "Child With An Innocent Smile",
-  "zh": ""
+  "zh": "天真无邪笑容的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F176C/0",
@@ -233808,7 +233808,7 @@
   "offset": "5742",
   "jp": "ヨコハマ警備隊長",
   "en": "Captain Of The Yokohama Guard",
-  "zh": ""
+  "zh": "横滨警备队长"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F176D/0",
@@ -233817,7 +233817,7 @@
   "offset": "5754",
   "jp": "ヨコハマ警備隊",
   "en": "Yokohama Guard",
-  "zh": ""
+  "zh": "横滨警备队"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F176E/0",
@@ -233826,7 +233826,7 @@
   "offset": "5764",
   "jp": "時間をもてあます女",
   "en": "Woman With Plenty Of Time",
-  "zh": ""
+  "zh": "打发时间的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F176F/0",
@@ -233835,7 +233835,7 @@
   "offset": "5778",
   "jp": "曲芸好きの男",
   "en": "Man Who Likes Acrobatics",
-  "zh": ""
+  "zh": "喜欢杂技的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1770/0",
@@ -233844,7 +233844,7 @@
   "offset": "5786",
   "jp": "子供思いの女",
   "en": "Woman Who Cares For Children",
-  "zh": ""
+  "zh": "为孩子着想的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1771/0",
@@ -233853,7 +233853,7 @@
   "offset": "5794",
   "jp": "ゴーレム好きな子供",
   "en": "Child Who Loves Golems",
-  "zh": ""
+  "zh": "喜欢魔像的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1772/0",
@@ -233862,7 +233862,7 @@
   "offset": "57A8",
   "jp": "少年の心を持った男",
   "en": "Man Who Is A Child At Heart",
-  "zh": ""
+  "zh": "怀揣少年之心的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1773/0",
@@ -233871,7 +233871,7 @@
   "offset": "57BC",
   "jp": "いつもしぶしぶ夫に付き合う女",
   "en": "Woman Who Clings To Her Husband",
-  "zh": ""
+  "zh": "总是勉强陪丈夫的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1774/0",
@@ -233880,7 +233880,7 @@
   "offset": "57DA",
   "jp": "好奇心旺盛な子供",
   "en": "Curious Child",
-  "zh": ""
+  "zh": "好奇心旺盛的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1776/0",
@@ -233889,7 +233889,7 @@
   "offset": "57EC",
   "jp": "しつけに熱心な女",
   "en": "Woman Keen On Discipline",
-  "zh": ""
+  "zh": "热心于管教的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1777/0",
@@ -233898,7 +233898,7 @@
   "offset": "57FE",
   "jp": "我が子に甘い男",
   "en": "Man Who Spoils His Children",
-  "zh": ""
+  "zh": "溺爱自家孩子的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1778/0",
@@ -233907,7 +233907,7 @@
   "offset": "580E",
   "jp": "食いしん坊な子供",
   "en": "Gluttonous Child",
-  "zh": ""
+  "zh": "贪吃的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1779/0",
@@ -233916,7 +233916,7 @@
   "offset": "5820",
   "jp": "ナンパな男",
   "en": "Flirtatious Man",
-  "zh": ""
+  "zh": "轻浮搭讪的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F177A/0",
@@ -233925,7 +233925,7 @@
   "offset": "582C",
   "jp": "ガードの硬い女",
   "en": "Woman With Tough Defenses",
-  "zh": ""
+  "zh": "戒心很强的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F177B/0",
@@ -233934,7 +233934,7 @@
   "offset": "583C",
   "jp": "有名店探しが趣味の男",
   "en": "Man Who Likes Famous Stores",
-  "zh": ""
+  "zh": "以寻找名店为爱好的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F177C/0",
@@ -233943,7 +233943,7 @@
   "offset": "5852",
   "jp": "ゴーレムバトルチャンピオンが夢の男",
   "en": "Man Who Dreams Of Defeating Golems",
-  "zh": ""
+  "zh": "梦想成为魔像对决冠军的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F177D/0",
@@ -233952,7 +233952,7 @@
   "offset": "5876",
   "jp": "父の夢を応援する子供",
   "en": "Child Who Supports Father's Dream",
-  "zh": ""
+  "zh": "支持父亲梦想的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F177E/0",
@@ -233961,7 +233961,7 @@
   "offset": "588C",
   "jp": "夫の夢を支える女",
   "en": "Woman Who Supports Husband's Dream",
-  "zh": ""
+  "zh": "支持丈夫梦想的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F177F/0",
@@ -233970,7 +233970,7 @@
   "offset": "589E",
   "jp": "無垢な瞳をもった子供",
   "en": "Child With Innocent Eyes",
-  "zh": ""
+  "zh": "拥有纯真双眸的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1780/0",
@@ -233979,7 +233979,7 @@
   "offset": "58B4",
   "jp": "さわやか笑顔の売り子",
   "en": "Seller With A Gentle Smile",
-  "zh": ""
+  "zh": "笑容清爽的售货员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1781/0",
@@ -233988,7 +233988,7 @@
   "offset": "58CA",
   "jp": "ハニーにベタ惚れな男",
   "en": "Man Who Loves His Honey Bunny",
-  "zh": ""
+  "zh": "深爱甜心的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1782/0",
@@ -233997,7 +233997,7 @@
   "offset": "58E0",
   "jp": "ダーリンＬＯＶＥな女",
   "en": "Woman Who Adores Her Sugar Bear",
-  "zh": ""
+  "zh": "深爱亲爱的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1783/0",
@@ -234006,7 +234006,7 @@
   "offset": "58F6",
   "jp": "上半身には自信のある男",
   "en": "Man With Confidence In His Physique",
-  "zh": ""
+  "zh": "对上半身充满自信的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1784/0",
@@ -234015,7 +234015,7 @@
   "offset": "590E",
   "jp": "ヒゲの手入れは怠らない男",
   "en": "Man Who Cares For His Whiskers",
-  "zh": ""
+  "zh": "打理胡须毫不懈怠的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1785/0",
@@ -234024,7 +234024,7 @@
   "offset": "5928",
   "jp": "おねだりのうまい子供",
   "en": "Persistent Child",
-  "zh": ""
+  "zh": "擅长撒娇要东西的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1786/0",
@@ -234033,7 +234033,7 @@
   "offset": "593E",
   "jp": "決断力に欠ける男",
   "en": "Man Who Can't Make Decisions",
-  "zh": ""
+  "zh": "缺乏决断力的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1787/0",
@@ -234042,7 +234042,7 @@
   "offset": "5950",
   "jp": "ナチュラルメイクが得意な女",
   "en": "Woman Skilled At Subtle Make Up",
-  "zh": ""
+  "zh": "擅长化淡妆的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1788/0",
@@ -234051,7 +234051,7 @@
   "offset": "596C",
   "jp": "眉毛の曲線に命をかける女",
   "en": "Woman With Lovely Curved Eyebrows",
-  "zh": ""
+  "zh": "将生命赌在眉毛弧度上的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1789/0",
@@ -234060,7 +234060,7 @@
   "offset": "5986",
   "jp": "我慢のできない子供",
   "en": "Child With No Patience",
-  "zh": ""
+  "zh": "毫无耐心的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F178A/0",
@@ -234069,7 +234069,7 @@
   "offset": "599A",
   "jp": "子供のわがままに手をやく女",
   "en": "Woman Suffering From Child's Demands",
-  "zh": ""
+  "zh": "拿任性孩子没办法的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F178B/0",
@@ -234078,7 +234078,7 @@
   "offset": "59B6",
   "jp": "ゴーレムチケットツアーチャレンジャー",
   "en": "Golem Ticket Tour Challenger",
-  "zh": ""
+  "zh": "魔像票巡游挑战者"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F178C/0",
@@ -234087,7 +234087,7 @@
   "offset": "59DC",
   "jp": "ジンクス好きの男",
   "en": "Man Who Likes Jinxes",
-  "zh": ""
+  "zh": "迷信兆头的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F178D/0",
@@ -234096,7 +234096,7 @@
   "offset": "59EE",
   "jp": "おっとり系の女",
   "en": "Gentle Woman",
-  "zh": ""
+  "zh": "从容温和系的女子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F178E/0",
@@ -234105,7 +234105,7 @@
   "offset": "59FE",
   "jp": "訳知り顔の得意な男",
   "en": "Man Who Thinks He Knows Everything",
-  "zh": ""
+  "zh": "擅长摆出心知肚明表情的男子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F178F/0",
@@ -234114,7 +234114,7 @@
   "offset": "5A12",
   "jp": "ヨコハマ事情通",
   "en": "Yokohama Informant",
-  "zh": ""
+  "zh": "横滨包打听"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1790/0",
@@ -234123,7 +234123,7 @@
   "offset": "5A22",
   "jp": "平和好きの警備兵",
   "en": "Guard Who Loves Peace",
-  "zh": ""
+  "zh": "热爱和平的警卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1791/0",
@@ -234132,7 +234132,7 @@
   "offset": "5A34",
   "jp": "酒の入った男",
   "en": "Man Who Drinks Alcohol",
-  "zh": ""
+  "zh": "醉醺醺的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1792/0",
@@ -234141,7 +234141,7 @@
   "offset": "5A42",
   "jp": "いつも妻に振り回されている男",
   "en": "Man Controlled By His Wife",
-  "zh": ""
+  "zh": "总被妻子呼来喝去的男人"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1793/0",
@@ -234150,7 +234150,7 @@
   "offset": "5A60",
   "jp": "真面目がとりえの警備兵",
   "en": "Guard Who Tries To Work Hard",
-  "zh": ""
+  "zh": "唯独认真的警卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1794/0",
@@ -234159,7 +234159,7 @@
   "offset": "5A78",
   "jp": "市民思いの警備兵",
   "en": "Guard Who Loves The People",
-  "zh": ""
+  "zh": "心系市民的警卫"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1795/0",
@@ -234168,7 +234168,7 @@
   "offset": "5A8A",
   "jp": "甘えんぼうの子供",
   "en": "Spoiled Child",
-  "zh": ""
+  "zh": "爱撒娇的孩子"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1796/0",
@@ -234177,7 +234177,7 @@
   "offset": "5A9C",
   "jp": "かつぜつのいい売り子",
   "en": "Active Seller",
-  "zh": ""
+  "zh": "口齿伶俐的售货员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F1797/0",
@@ -234186,7 +234186,7 @@
   "offset": "5AB2",
   "jp": "声のよく通る売り子",
   "en": "Seller With A Loud Voice",
-  "zh": ""
+  "zh": "嗓门响亮的售货员"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41DC/0",
@@ -234195,7 +234195,7 @@
   "offset": "5AC6",
   "jp": "DummyChr_00",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_00"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41DD/0",
@@ -234204,7 +234204,7 @@
   "offset": "5ADE",
   "jp": "DummyChr_01",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_01"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41DE/0",
@@ -234213,7 +234213,7 @@
   "offset": "5AF6",
   "jp": "DummyChr_02",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_02"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41DF/0",
@@ -234222,7 +234222,7 @@
   "offset": "5B0E",
   "jp": "DummyChr_03",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_03"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E0/0",
@@ -234231,7 +234231,7 @@
   "offset": "5B26",
   "jp": "DummyChr_04",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_04"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E1/0",
@@ -234240,7 +234240,7 @@
   "offset": "5B3E",
   "jp": "DummyChr_05",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_05"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E2/0",
@@ -234249,7 +234249,7 @@
   "offset": "5B56",
   "jp": "DummyChr_06",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_06"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E3/0",
@@ -234258,7 +234258,7 @@
   "offset": "5B6E",
   "jp": "DummyChr_07",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_07"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E4/0",
@@ -234267,7 +234267,7 @@
   "offset": "5B86",
   "jp": "DummyChr_08",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_08"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E5/0",
@@ -234276,7 +234276,7 @@
   "offset": "5B9E",
   "jp": "DummyChr_09",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_09"
  },
  {
   "id": "OTHER/NAMELIST.TXT/F41E6/0",
@@ -234285,7 +234285,7 @@
   "offset": "5BB6",
   "jp": "DummyChr_10",
   "en": "",
-  "zh": ""
+  "zh": "DummyChr_10"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1000000/0",
