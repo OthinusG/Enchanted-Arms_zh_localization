@@ -234294,7 +234294,7 @@
   "offset": "A7E",
   "jp": "基本的な用語の説明です",
   "en": "Explanation of basic glossary terms.",
-  "zh": ""
+  "zh": "基本用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1010000/0",
@@ -234303,7 +234303,7 @@
   "offset": "AA4",
   "jp": "キャラクターに関する用語の説明です",
   "en": "Explanation of basic character terms.",
-  "zh": ""
+  "zh": "角色相关用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1010100/0",
@@ -234312,7 +234312,7 @@
   "offset": "ACE",
   "jp": "◆人間\n\nキャラクターの一種\nアツマやトウヤなど\n\nゴーレムと違い\n新たなスキルの習得・武器の装備ができる",
   "en": "◆ Humans\n\nA type of character :\nAtsuma, Toya, etc.\n\nUnlike Golems, they can learn new skills\nand equip weapons.",
-  "zh": ""
+  "zh": "◆人类\n\n角色的一种\n例如阿茨玛和托亚等\n\n与魔像不同\n可以习得新技能、装备武器"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1010200/0",
@@ -234321,7 +234321,7 @@
   "offset": "B44",
   "jp": "◆ゴーレム\n\nエーテルをエンチャントして動く擬似生物\nキャラクターの一種\n\n\n\n\n\n\n\n\n\n“マテリアル”と“ゴーレムコア”で\n合成でき、一度合成したゴーレムは\n仲間として連れて行くことができる\n\n人間と異なり\nスキルの習得・武器の装備ができない",
   "en": "◆ Golems\n\nA type of character:\nArtificial beings, operated using Ether\nvia Enchantment.\n\n\n\n\n\n\n\n\nGolems created by synthesizing \nMaterial and Golem Cores can \naccompany your party.\n\nUnlike humans, they cannot learn \nnew skills or equip weapons.",
-  "zh": ""
+  "zh": "◆魔像\n\n通过对以太进行赋法而行动的拟似生物\n角色的一种\n\n\n\n\n\n\n\n\n\n可以通过“素材”与“魔像核心”\n合成出来，合成过的魔像\n可以作为同伴随行带走\n\n与人类不同\n无法习得技能、装备武器"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1010300/0",
@@ -234330,7 +234330,7 @@
   "offset": "C46",
   "jp": "◆パーティ\n\n戦闘に出るキャラクターたちのこと\n\nパーティに入れるキャラクターは\nメニューで編成することができる",
   "en": "◆ Party\n\nThe group of characters that fight\nin battles.\n\nYou can edit which characters will fight\nin your party from the Menu.",
-  "zh": ""
+  "zh": "◆队伍\n\n指上场参战的角色们\n\n加入队伍的角色\n可以在菜单中进行编成"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020000/0",
@@ -234339,7 +234339,7 @@
   "offset": "CC4",
   "jp": "キャラクターやパーティのパラメータ用語の説明です",
   "en": "Explanation of character and party parameter terms.",
-  "zh": ""
+  "zh": "角色与队伍参数用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020100/0",
@@ -234348,7 +234348,7 @@
   "offset": "CFC",
   "jp": "◆ＬＶ　（レベル）\n\nキャラクターの強さ\n\n\n\n\n\n\n\n\n\n\n経験値をためると上昇し\n最大ＨＰ・最大ＥＰ・最大ＶＰ\n通常・間接・援護・素早さ\nの各パラメータが上昇する\n\n最大で９９９",
   "en": "◆ Level (LV)\n\nA character's strength.\n\n\n\n\n\n\n\n\n\n\nGoes up when a character earns \nenough experience points. Also \nawards gains in all parameters: \nmaximum HP, EP, VP, Direct, \nRanged, Assist, and Agility.\nMaximum level is 999.",
-  "zh": ""
+  "zh": "◆ＬＶ　（等级）\n\n角色的强弱程度\n\n\n\n\n\n\n\n\n\n\n积攒经验值便会提升\n最大ＨＰ・最大ＥＰ・最大ＶＰ\n直接・间接・援护・速度\n各项参数都会随之提升\n\n最高为９９９"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020200/0",
@@ -234357,7 +234357,7 @@
   "offset": "DBC",
   "jp": "◆経験値\n\nキャラクターの戦闘経験\n\n戦闘に勝利することで上昇し\n一定の値を超えるとＬＶが上昇する\n\n\n\n\n\n\n\n経験値はＳＰと異なり\n戦闘に参加したキャラクターだけでなく\n全てのキャラクターが獲得できる",
   "en": "◆ Experience Points (EXP)\n\nA character's experience in battle.\nPoints are attained when a character\nis victorious in battle, and can raise a\ncharacter's Level upon reaching a \nset amount.\n\n\n\n\n\n\nUnlike SP, all characters will receive\nExperience Points, even if they don't\nparticipate in battle.",
-  "zh": ""
+  "zh": "◆经验值\n\n角色的战斗经验\n\n通过赢得战斗胜利来增加\n超过一定数值后ＬＶ便会提升\n\n\n\n\n\n\n\n经验值与ＳＰ不同\n不仅是参战的角色\n所有角色都能够获得"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020300/0",
@@ -234366,7 +234366,7 @@
   "offset": "E90",
   "jp": "◆ＳＰ　（スキルポイント）\n\nキャラクターの技術経験\n\n戦闘に勝利することで上昇し\nスキルの習得やパラメータの成長に\n使用することが出来る\n\n\n\n\n\n\nＳＰは経験値と異なり\n戦闘に参加したキャラクターのみが\n獲得できる",
   "en": "◆ Skill Points (SP)\n\nCharacters' proficiency with skills.\n\nAttained when a character is\nvictorious, and can be used to improve\nskill acquisition and parameters.\n\n\n\n\n\n\nUnlike EXP, only characters who\nactively participated in battle will\nreceive Skill Points.",
-  "zh": ""
+  "zh": "◆ＳＰ　（技能点数）\n\n角色的技术经验\n\n通过赢得战斗胜利来增加\n可用于习得技能\n以及培养提升参数\n\n\n\n\n\n\nＳＰ与经验值不同\n只有参战的角色\n才能够获得"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020400/0",
@@ -234375,7 +234375,7 @@
   "offset": "F7C",
   "jp": "◆ＨＰ　（ヒットポイント）・最大ＨＰ\n\nキャラクターの体力\n\n万全の状態での体力を最大ＨＰ\n現在の状態の体力をＨＰで表す\n\n\n\n\n\n\n\n“ＨＰ／最大ＨＰ”のゲージで\n表示されることが多い\n\n攻撃を受けると減少し\n０になると“行動不能”となる\nＬＶが上がると最大ＨＰは上昇する\n\n\n\n\n\n\n戦闘が終了すると\nＨＰは最大量まで回復する\n\nただし、ＶＰが０の時は通常どおり回復せず\nＨＰは１となる",
   "en": "◆ Hit Points / Max Hit Points (HP/Max HP)\n\nCharacters' stamina.\nThe maximum amount of stamina a\ncharacter can possess is expressed\nby Max HP, and his/her current amount\nof stamina is expressed by HP.\n\n\n\n\n\n\nMost often seen in the\n\"HP/Max HP\" gauge.\nReduced when the character takes an\nattack. If HP drops to 0, the character\nbecomes Unconscious. Max HP increases\nevery time the character gains a Level.\n\n\n\n\n\n\nUpon finishing a battle, the character's\nHP will be fully recovered.\nHowever, when VP are reduced to 0,\nthe character's full HP will not be\nrecovered and will instead be reduced\nto 1.",
-  "zh": ""
+  "zh": "◆ＨＰ　（体力值）・最大ＨＰ\n\n角色的体力\n\n万全状态下的体力以最大ＨＰ表示\n当前状态下的体力以ＨＰ表示\n\n\n\n\n\n\n\n大多显示为\n“ＨＰ／最大ＨＰ”的槽\n\n受到攻击就会减少\n归０时便会陷入“无法行动”状态\nＬＶ提升时最大ＨＰ也会上升\n\n\n\n\n\n\n战斗结束后\nＨＰ会恢复至最大值\n\n但当ＶＰ为０时无法如常恢复\nＨＰ将变为１"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020500/0",
@@ -234384,7 +234384,7 @@
   "offset": "1114",
   "jp": "◆ＥＰ　（エーテルポイント）・最大ＥＰ\n\nキャラクターが持つエーテルの量\n\n持てる最大値を最大ＥＰ\n現在持っている値をＥＰで表す\n\n\n\n\n\n\n\n“ＥＰ／最大ＥＰ”のゲージで\n表示されることが多い\n\nスキルを使うと減少し\n必要量が無いとスキルが使えない\nＬＶが上がると最大ＥＰは上昇する\n\n\n\n\n\n\n戦闘が終了すると\nＥＰは最大まで回復する\n\nただし、ＶＰが０の時は通常どおり回復せず\nＥＰは１となる",
   "en": "◆ Ether Points / Max Ether Points\n   (EP/Max EP)\n\nThe amount of Ether a character has.\n\n\n\n\n\n\n\n\n\nThe maximum amount of Ether a\ncharacter can possess is expressed\nby Max EP, and his/her current amount\nof Ether is expressed by EP.\nFrequently displayed through the\n\"EP/Max EP\" gauge.\n\n\n\n\n\n\nReduced when a character uses a skill.\nWhen a character doesn't possess\nenough EP, skills cannot be used.\nMax EP goes up every time the character\ngains a Level.\n\n\n\n\n\n\n\nWhen a battle finishes, EP will\nrecover up to the maximum.\n\nHowever, when VP are reduced to 0,\nthe character's EP will not be recovered\nand will instead be reduced to 1.",
-  "zh": ""
+  "zh": "◆ＥＰ　（以太点数）・最大ＥＰ\n\n角色拥有的以太量\n\n能拥有的最大值以最大ＥＰ表示\n当前拥有的数值以ＥＰ表示\n\n\n\n\n\n\n\n大多显示为\n“ＥＰ／最大ＥＰ”的槽\n\n使用技能就会减少\n未达所需量则无法使用技能\nＬＶ提升时最大ＥＰ也会上升\n\n\n\n\n\n\n战斗结束后\nＥＰ会恢复至最大值\n\n但当ＶＰ为０时无法如常恢复\nＥＰ将变为１"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020600/0",
@@ -234393,7 +234393,7 @@
   "offset": "12AA",
   "jp": "◆ＶＰ　（バイタリティポイント）\n\nキャラクターの耐久力\n\n\n\n\n\n\n\n\n\n\n戦闘中に攻撃を受けた回数\n“行動不能”やその後３ターン経過した回数\n“overbreak-upper”を受けた回数\n逃亡した回数\nに応じて減少\n\n\n\n\n\n\n\nまた、戦闘を続けているだけでも\n少しずつ減少する\n\nＶＰが０の状態では\n戦闘時のＨＰとＥＰが、１になってしまう\n\n\n\n\n\n\n\nＶＰは、０になっていない限り\nパーティから外しておけば\n少しずつ回復していく\nまた、回復アイテムを使用するか\nフィールド上の回復ポイントを利用すると\n即座にＶＰを回復することができる",
   "en": "◆ Vitality Points (VP)\n\nCharacters' endurance.\n\n\n\n\n\n\n\n\n\nReduced during battle by:\n- number of times attacked\n- number of times 3 turns passed with\n  the character Unconscious\n- number of times character was\n  attacked with an \"Overbreak-upper\"\n- number of times character fled from battle\n\n\n\n\n\nVP will also slowly decrease\nas a battle goes on.\n\nWhen VP are reduced to 0, the character's\nHP and EP during battle will be\nreduced to 1.\n\n\n\n\n\n\nAs long as VP have not dropped to 0, the\ncharacter will slowly recover HP and EP if\nhe or she is removed from the party.\n\nVP can also be recovered instantly by\nusing items or Refresh Points.",
-  "zh": ""
+  "zh": "◆ＶＰ　（活力点数）\n\n角色的耐力\n\n\n\n\n\n\n\n\n\n\n根据战斗中受到攻击的次数、\n陷入“无法行动”及此后经过３回合的次数、\n遭受“overbreak-upper”的次数、\n逃跑的次数\n而相应减少\n\n\n\n\n\n\n\n此外，即使仅持续战斗\n也会逐渐减少\n\n在ＶＰ为０的状态下\n战斗时的ＨＰ与ＥＰ都会变成１\n\n\n\n\n\n\n\n只要ＶＰ没有归０\n将其移出参战队伍\n就会逐渐恢复\n此外，使用恢复道具\n或利用原野上的恢复点\n即可立即恢复ＶＰ"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020700/0",
@@ -234402,7 +234402,7 @@
   "offset": "14D2",
   "jp": "◆直接\n\n基本的な攻撃方法となる\n直接攻撃スキルを扱う巧みさ\n\n値が増えるほど効果が大きくなる\n\n\n\n\n\n\n\nＬＶが上がると上昇する\nまた、「成長」メニューで\nスキルポイントを使って\n上昇することも出来る",
   "en": "◆ Direct\n\nExpresses mastery of Direct Attack\nSkill, the basic method of attack.\n\nAs these points go up, so do the\neffects of related attacks.\n\n\n\n\n\n\nPoints go up when Level does. You\nmay also use Skill Points in\nthe \"Parameter\" Menu to raise them.",
-  "zh": ""
+  "zh": "◆直接\n\n作为基本攻击方式的\n直接攻击技能的娴熟度\n\n数值越高效果越大\n\n\n\n\n\n\n\nＬＶ提升时会上升\n此外在“成长”菜单中\n使用技能点数\n也可以使其提升"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020800/0",
@@ -234411,7 +234411,7 @@
   "offset": "15A6",
   "jp": "◆間接\n\n“ＣＯＶＥＲ”効果を無視して敵を攻撃する\n間接攻撃スキルを扱う巧みさ\n\n値が増えるほど効果が大きくなる\n\n\n\n\n\n\n\nＬＶが上がると上昇する\nまた、「成長」メニューで\nスキルポイントを使って\n上昇することも出来る",
   "en": "◆ Ranged\n\nExpresses mastery of Ranged Attack Skill,\nwhich hits enemies regardless of COVER\neffect.\nAs these points go up so do the\neffects of related attacks.\n\n\n\n\n\n\nPoints go up when Level does. You may\nalso use Skill Points in the\n\"Parameter\" Menu to raise them.",
-  "zh": ""
+  "zh": "◆间接\n\n无视“ＣＯＶＥＲ”效果攻击敌人的\n间接攻击技能的娴熟度\n\n数值越高效果越大\n\n\n\n\n\n\n\nＬＶ提升时会上升\n此外在“成长”菜单中\n使用技能点数\n也可以使其提升"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020900/0",
@@ -234420,7 +234420,7 @@
   "offset": "168C",
   "jp": "◆援護\n\n仲間の回復・特殊効果の付加などを行なう\n援護スキルを扱う巧みさ\n\n値が増えるほど効果が大きくなる\n\n\n\n\n\n\n\nＬＶが上がると上昇する\nまた、「成長」メニューで\nスキルポイントを使って\n上昇することも出来る",
   "en": "◆ Support\n\nExpresses mastery of Support Skill,\nwhich allows characters to recover and\nhelp their allies in a variety of ways.\nAs these points go up so do the\neffects of related attacks.\n\n\n\n\n\n\nPoints go up when Level does.\nYou may also spend Skill Points in the\n\"Parameter\" Menu to raise them.",
-  "zh": ""
+  "zh": "◆援护\n\n负责同伴恢复、附加特殊效果等\n援护技能的娴熟度\n\n数值越高效果越大\n\n\n\n\n\n\n\nＬＶ提升时会上升\n此外在“成长”菜单中\n使用技能点数\n也可以使其提升"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020A00/0",
@@ -234429,7 +234429,7 @@
   "offset": "176E",
   "jp": "◆素早さ\n\nキャラクターの素早さ\n\n値が増えるほど\n敵に“不意打ち”されにくくなる\nまた逃亡時のＶＰ減少にも影響する\n\n\n\n\n\n\nＬＶが上がると上昇する\nまた、「成長」メニューで\nスキルポイントを使って\n上昇することも出来る",
   "en": "◆ Agility\n\nCharacter's agility.\nThe more points of this your characters\nhave, the harder it is for enemies to\nsurprise attack them. Also reduces VP\nlost when fleeing from battle.\n\n\n\n\n\n\nPoints go up when Level does.\nYou may also spend Skill Points in the\n\"Parameter\" Menu to raise them.",
-  "zh": ""
+  "zh": "◆速度\n\n角色的敏捷速度\n\n数值越高\n越不易被敌人“突袭”\n也会影响逃跑时扣除的ＶＰ\n\n\n\n\n\n\nＬＶ提升时会上升\n此外在“成长”菜单中\n使用技能点数\n也可以使其提升"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020B00/0",
@@ -234438,7 +234438,7 @@
   "offset": "1858",
   "jp": "◆サイズ\n\nキャラクターの大きさ\n戦闘中に何グリッドを占めるかを表す\n\n１／４／１２　の３種類がある",
   "en": "◆ Size\n\nCharacter's size.\n\nExpresses how many squares the\ncharacter occupies on the battle grid.\nThere are three sizes: 1, 4 and 12.",
-  "zh": ""
+  "zh": "◆体型\n\n角色的大小\n表示在战斗中占据几个格子\n\n共有 １／４／１２ ３种"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020C00/0",
@@ -234447,7 +234447,7 @@
   "offset": "18C6",
   "jp": "◆移動力\n\nキャラクターの移動量\n１ターンに何グリッド移動できるかを表す",
   "en": "◆ Mobility\n\nDistance a character is able to move\nExpressed via number of squares\ncharacter can move in 1 turn.",
-  "zh": ""
+  "zh": "◆移动力\n\n角色的移动距离\n表示１回合内可以移动几个格子"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020D00/0",
@@ -234456,7 +234456,7 @@
   "offset": "1922",
   "jp": "◆キャラクター属性\n\nキャラクターの性質\n火・水・風・土・光・闇　の６種類がある\n\n\n\n\n\n\n\n\n\n同じくスキルにも属性があり\nキャラクター属性との相性によって\n異なる効果が発生する\n\n同じ属性のスキル攻撃を受けた時には\nその効果が半分になる\n\n\n\n\n\n\n火⇔水、風⇔土、光⇔闇　による攻撃は\nそれぞれ属性の相性をついた攻撃と言われ\nその効果が２倍になる",
   "en": "◆ Character Element\n\nCharacter's elemental alignment\n6 types: Fire, Water, Wind, Earth,\nLight, and Dark.\n\n\n\n\n\n\n\n\nLike characters, Skills also possess\nElements, and different effects for\neach Skill will manifest depending on\nthe Skill's element and the character's\nElement.\n\n\n\n\n\n\n\nIf the character is hit with an attack\nof the same element, the effect\nwill be halved.\n\n\n\n\n\n\n\n\n\nFire / Water, Wind / Earth, and\nLight / Dark are all opposites and\nattacks with these elements on their\nopposing elements will produce\ntwice the effect.",
-  "zh": ""
+  "zh": "◆角色属性\n\n角色的性质\n共有火、水、风、土、光、暗 ６种\n\n\n\n\n\n\n\n\n\n技能同样具有属性\n根据与角色属性的相克关系\n会产生不同的效果\n\n受到同属性技能攻击时\n该伤害效果减半\n\n\n\n\n\n\n火⇔水、风⇔土、光⇔暗 之间的攻击\n被称为针对属性相克的攻击\n该伤害效果变为２倍"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020E00/0",
@@ -234465,7 +234465,7 @@
   "offset": "1A8C",
   "jp": "◆ＦＰ　（フレンドリィポイント）\n\nキャラクターの信頼（絆）の力\n\n\n\n\n\n\n\n\n\n\n仲間として戦闘に参加すると\n少しずつ上昇していき\n連携ゲージの上昇量に影響する\n\n\n\n\n\n\n\n\nＦＰを上昇させるアイテムもある\n\n最大値は９９９",
   "en": "◆ Friend Points (FP)\n\nThe strength of characters' trust (bond).\n\n\n\n\n\n\n\n\n\n\nWhen participating in battle as an ally,\nthis parameter will go up steadily, and will\naffect the maximum Combo Gauge amount.\n\n\n\n\n\n\n\n\nThere are also items that will raise FP.\n\nMaximum FP is 999.",
-  "zh": ""
+  "zh": "◆ＦＰ　（友好点数）\n\n角色之间信任（羁绊）的力量\n\n\n\n\n\n\n\n\n\n\n作为同伴参加战斗\n就会逐渐上升\n并影响连击槽的增长量\n\n\n\n\n\n\n\n\n也有可以提升ＦＰ的道具\n\n最大值为９９９"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1020F00/0",
@@ -234474,7 +234474,7 @@
   "offset": "1B7E",
   "jp": "◆所持ＴＢ\n\nパーティが持っている\nＴＢ（タブレット）の総額\n\nＴＢは世界に流通する通貨の単位\nアイテムの購入などに使用する",
   "en": "◆ TB\n\nThe total number of tablets possessed\nby the party.\nTablets are the universal currency used\nin this world. Used when buying and\nselling items",
-  "zh": ""
+  "zh": "◆持有ＴＢ\n\n队伍所持有的\nＴＢ（石板币）总额\n\nＴＢ是世界上流通的货币单位\n用于购买道具等"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030000/0",
@@ -234483,7 +234483,7 @@
   "offset": "1C02",
   "jp": "戦闘で使われる用語の説明です",
   "en": "Explanation of basic battle terms.",
-  "zh": ""
+  "zh": "战斗中使用用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030100/0",
@@ -234492,7 +234492,7 @@
   "offset": "1C2C",
   "jp": "◆連携ゲージ\n\n各キャラクターの持つ\n“連携技”を使うために必要なゲージ\n\n\n\n\n\n\n\n\n\nＦＰが高いほど初期値は高く\nキャラクターによって固有の量だけ\nターンごとに上昇する\nまた、１ターンの間に\n仲間と同じ敵を攻撃すると\n少しずつ上昇する\n\n\n\n\n\n\n連携ゲージが最大になった\nキャラクター同士が\n同じ敵を攻撃すると連携技が成立\n通常より大きなダメージを\n与えることができる\n\n\n\n\n\n\n\n連携ゲージは\n連携技を発動すると０になる\n\n連携ゲージの状態は\n戦闘終了後も、維持される\n\n\n\n\n\n\n\nまた連携技は、より多くのキャラクターで\n発動すると効果が上がる",
   "en": "◆ Combo Gauge\n\nThe gauge for using \"Combo Attacks\".\nThe greater the FP, the higher the Combo\nGauge you begin with. Continues to rise\na set amount every turn, and will rise if \nallies attack the same enemy in a turn.\n\n\n\n\n\n\nWhen at maximum, a Combo Attack will\nbe unleashed the next time two or more\ncharacters attack the same enemy.\nThe gauge then returns to zero. The\nmore characters that use a Combo\nAttack, the stronger the effect will be.",
-  "zh": ""
+  "zh": "◆连击槽\n\n各角色使用其拥有的\n“连击技”所需的槽\n\n\n\n\n\n\n\n\n\nＦＰ越高初始值越高\n每回合会上升\n各角色固有的数值量\n此外，在１个回合内\n与同伴攻击同一个敌人\n也会逐渐上升\n\n\n\n\n\n\n连击槽达到最大的\n角色之间\n若攻击同一个敌人即可成立连击技\n能够造成\n比平时更高的伤害\n\n\n\n\n\n\n\n发动连击技后\n连击槽会归０\n\n连击槽的状态\n在战斗结束后也会保持\n\n\n\n\n\n\n\n此外，由更多角色\n一同发动连击技时，效果会进一步提升"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030200/0",
@@ -234501,7 +234501,7 @@
   "offset": "1E68",
   "jp": "◆ＥＸゲージ\n\nパーティが共通で持つ\n“ＥＸ”を使うためのゲージ\n\n\n\n\n\n\n\n\n\nゲージは敵を倒したとき\n戦闘に勝利したとき\nターン中に大ダメージを受けた\nキャラクターが出たときなどに上昇する\n“OverBreak”や“連携攻撃”を\nきめた場合、通常よりも多く上昇する\n\n\n\n\n\n\nＥＸゲージが必要量たまると\nＥＸを使用することが出来る",
   "en": "◆ EX Gauge\n\nA gauge that represents the shared \nEX available to all party members.\n\n\n\n\n\n\n\n\n\nThe gauge rises when enemies are \ndefeated or when a character \nsustains major damage during their\nturn.\n\n\n\n\n\n\n\n\nPerforming \"Overbreaks\" or \n\"Combination Attacks\" further \nincreases the gauge. When the EX\nGauge reaches a certain level, EX\nbecomes available for use.",
-  "zh": ""
+  "zh": "◆ＥＸ槽\n\n队伍共通拥有的\n用于使用“ＥＸ”的槽\n\n\n\n\n\n\n\n\n\n在打倒敌人时、\n赢得战斗胜利时、\n回合中出现受到大伤害的\n角色时等情况下该槽会上升\n成功打出“OverBreak”或“连击攻击”\n时，上升量比平时更多\n\n\n\n\n\n\n当ＥＸ槽积攒至所需量时\n即可使用ＥＸ"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030300/0",
@@ -234510,7 +234510,7 @@
   "offset": "1FD0",
   "jp": "◆overbreak　（オーバーブレイク）\n\n１ターンの間に\n相手の最大ＨＰを超えるダメージを\n与えた場合には、overbreakが発動する\n\n\n\n\n\n\n\n\noverbreakが発動すると\n入手できるＳＰが上昇する\n\noverbreakには、更に上位の\noverbreak-upperと呼ばれるものもある",
   "en": "◆ Overbreak\n\nIf your character manages to inflict\nmore damage on an enemy during a\nsingle turn than that enemy's Max\nHP, it will trigger an Overbreak.\n\n\n\n\n\n\n\nTriggering an Overbreak will raise the\namount of SP that character will earn.\n\nThere is also something even greater\nthan an Overbreak called an Overbreak-Upper.",
-  "zh": ""
+  "zh": "◆overbreak　（极限击破）\n\n在１个回合内\n造成超过对手最大ＨＰ的伤害时\n就会触发overbreak\n\n\n\n\n\n\n\n\n触发overbreak后\n可获得的ＳＰ会增加\n\noverbreak中，还存在更高一级的\n被称为overbreak-upper的形式"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030400/0",
@@ -234519,7 +234519,7 @@
   "offset": "2122",
   "jp": "◆overbreak-upper\n　（オーバーブレイクアッパー）\n\n１ターンの間に、相手の最大ＨＰの\n２倍を超えるダメージを与えた場合には\noverbreak-upperが発動する\n\n\n\n\n\n\n\noverbreak-upperが発動すると\n入手できるＳＰが上昇する\n\n\n\n\n\n\n\n\n\n\nまた、overbreak-upperで\n“行動不能”に陥ったキャラクターは\nすぐに戦闘フィールドから取り除かれ\nその戦闘に参加することが出来なくなる",
   "en": "◆ Overbreak-Upper\n\nIf your character manages to inflict\nmore damage on an enemy during a\nsingle turn than twice that enemy's Max\nHP, it will trigger an Overbreak-Upper.\n\n\n\n\n\n\n\nTriggering an Overbreak-Upper will raise\nthe amount of SP that character will\nearn.\n\n\n\n\n\n\n\n\n\nAlso, if one of your characters is\nrendered Unconscious by an\nOverbreak-Upper, they will be \nimmediately removed from the field\nand will be unable to participate for\nthe rest of that battle.",
-  "zh": ""
+  "zh": "◆overbreak-upper\n　（强力极限击破）\n\n在１个回合内，造成超过对手最大ＨＰ\n２倍以上的伤害时\n就会触发overbreak-upper\n\n\n\n\n\n\n\n触发overbreak-upper后\n可获得的ＳＰ会增加\n\n\n\n\n\n\n\n\n\n\n此外，因overbreak-upper\n而陷入“无法行动”的角色\n会被立即移出战斗场地\n无法再参加该场战斗"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030500/0",
@@ -234528,7 +234528,7 @@
   "offset": "22E2",
   "jp": "◆ＣＯＶＥＲ　（カバー）\n\n他のキャラクターの後ろのグリッドに\n配置されたキャラクターは\n攻撃を受けた時に受けるダメージが\n減少する\n\n\n\n\n\n\n\nただし、この効果が現れるのは\n“通常”攻撃を受けたときのみ\n間接攻撃には影響しない",
   "en": "◆ Cover\n\nCover will cause a character who is\nplaced behind another character on the\ngrid to take less damage when attacked\nwith a Direct Attack.\n\n\n\n\n\n\n\nHowever, only applies for Direct Attacks\nand has no effect on Ranged Attacks.",
-  "zh": ""
+  "zh": "◆ＣＯＶＥＲ　（掩护）\n\n配置在其他角色后方格子的\n角色\n在受到攻击时所承受的伤害\n会减轻\n\n\n\n\n\n\n\n不过，该效果仅在\n受到“直接”攻击时才会显现\n对间接攻击无效"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030600/0",
@@ -234537,7 +234537,7 @@
   "offset": "23D4",
   "jp": "◆行動不能\n\nＨＰが０になったキャラクターは\n行動不能となり、戦闘に参加できなくなる\n\n\n\n\n\n\n\n\n\n行動不能は通常３ターン続き\nこの間に“蘇生”することで\n再度戦闘に参加することが出来る\n\n回復をしなかった場合、その戦闘には\n二度と参加することが出来ない\n\n\n\n\n\n\nただし、“overbreak-upper”で\n行動不能に陥ったキャラクターは\nすぐに戦闘フィールドから取り除かれ\nその戦闘に参加することが出来なくなる",
   "en": "◆ Exhausted\n\nWhen a character's HP is reduced to 0,\nthat character becomes Exhausted and\nunable to participate in battle.\n\n\n\n\n\n\n\n\nA character's Exhausted state usually\nlasts for three turns. If the character is\nrevived during one of those turns, they\nbecome able to participate in battle again.\nIf they are not revived, they will be unable\nto participate in that battle again.\n\n\n\n\n\n\nHowever, if one of your characters is\nrendered Exhausted by an\nOverbreak-Upper, they will be \nimmediately removed from the field\nand will be unable to participate for\nthe rest of that battle.",
-  "zh": ""
+  "zh": "◆无法行动\n\nＨＰ归０的角色\n会陷入无法行动状态，无法参加战斗\n\n\n\n\n\n\n\n\n\n无法行动通常持续３回合\n在此期间只要进行“复活”\n即可再次参加战斗\n\n若未进行恢复，在该场战斗中\n将无法再次出战\n\n\n\n\n\n\n不过，因“overbreak-upper”\n而陷入无法行动的角色\n会被立即移出战斗场地\n无法再参加该场战斗"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030700/0",
@@ -234546,7 +234546,7 @@
   "offset": "2586",
   "jp": "◆グリッド\n\n戦闘フィールドの一区切り\n\n戦闘フィールドは\n味方側４×３、敵側４×３の\n計２４グリッドで構成される",
   "en": "◆ Grid\n\nA section of the battle field.\n\nThe battle field consists of a 4x3 grid\nfor your allies and a 4x3 grid for your\nenemies, making for a 24 grid field total.",
-  "zh": ""
+  "zh": "◆格子\n\n战斗场地的一个区域划分\n\n战斗场地由\n己方４×３、敌方４×３\n共计２４个格子构成"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1030800/0",
@@ -234555,7 +234555,7 @@
   "offset": "2602",
   "jp": "◆ターン\n\n戦闘の時間的な区切り\n\n\n\n\n\n\n\n\n\n\n味方と敵の全員が行動するまでを\n１ターンとし\n戦闘終了までに全員が３回行動したときは\n３ターンかかったと言う",
   "en": "◆ Turn\n\nRepresents the amount of time used for\nall ally characters and all enemy\ncharacters to act. For example, if everyone\non the field acts 3 times, 3 turns will pass.",
-  "zh": ""
+  "zh": "◆回合\n\n战斗的时间阶段划分\n\n\n\n\n\n\n\n\n\n\n以己方与敌方全员行动完毕为\n１回合\n至战斗结束全员共行动３次时\n即为花费了３回合"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040000/0",
@@ -234564,7 +234564,7 @@
   "offset": "26B2",
   "jp": "フィールドにあるギミックなどの用語の説明です",
   "en": "Explanation of field terms and gimmicks.",
-  "zh": ""
+  "zh": "原野上的机关等用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040100/0",
@@ -234573,7 +234573,7 @@
   "offset": "26F2",
   "jp": "◆オブジェクト破壊（エンチャントブレイク）\n\nフィールド上に設置されている\n樽や木箱などの破壊可能なオブジェクトを\n殴って破壊するアクション\n\n\n\n\n\n\n\n\nオブジェクトの中にＴＢやアイテムが\n入っていた場合、入手することができる",
   "en": "◆Breaking Objects (Enchant Break)\n\nPunch and destroy breakable objects\nfound in each area, such as barrels\nand wooden boxes.\n\n\n\n\n\n\n\n\nThese objects sometimes contain TB\nor items which can then be picked up.",
-  "zh": ""
+  "zh": "◆物件破坏（赋法破坏）\n\n挥拳破坏设置在原野上的\n木桶和木箱等可破坏物件的\n动作\n\n\n\n\n\n\n\n\n若物件内含有\nＴＢ或道具，破坏后即可拾取"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040200/0",
@@ -234582,7 +234582,7 @@
   "offset": "27E8",
   "jp": "◆ワイヤー移動（エンチャントワイヤー）\n\nワイヤーをとばし、離れたところへ\n移動するアクション\n\n\n\n\n\n\n\n\n\nエンチャントワイヤーが可能な場所は\n足下と移動先の上空に\nワイヤーフックポイントが表示されている",
   "en": "◆Wire Movement (Enchant Wire)\n\nThrow out a wire and move to an\notherwise inaccessible location.\n\n\n\n\n\n\n\n\n\nWhere it is possible to use this tool\na wire hook point is displayed at the\nstart and destination points.",
-  "zh": ""
+  "zh": "◆钢索移动（赋法钢索）\n\n射出钢索，向远处\n移动的动作\n\n\n\n\n\n\n\n\n\n可以进行赋法钢索的地方\n脚下与目的地的高空中\n会显示钢索挂钩点"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040300/0",
@@ -234591,7 +234591,7 @@
   "offset": "28C4",
   "jp": "◆ダンス（エンチャントダンス）\n\nフィールド上でダンスを踊ることで\nＥＸゲージを上昇させるアクション\n\n\n\n\n\n\n\n\n\nダンスを踊ると、ＥＸゲージが上昇する\nだけではなく、敵とエンカウントする\n確率も高くなる",
   "en": "◆Dance (Enchant Dance)\n\nStart dancing and refill the EX Gauge.\n\nDancing  increases your EX Gauge,\nbut also increases the likelihood of\nenemy encounters.",
-  "zh": ""
+  "zh": "◆舞蹈（赋法之舞）\n\n在原野上跳舞\n以增长ＥＸ槽的动作\n\n\n\n\n\n\n\n\n\n跳舞不仅会增长ＥＸ槽\n遭遇敌人的\n概率也会升高"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040400/0",
@@ -234600,7 +234600,7 @@
   "offset": "29A4",
   "jp": "◆キューブ移動（エンチャントキューブ）\n\nエンチャントで起動する\nキューブ型の移動装置\n\n平行に移動するタイプと\n上下に移動するタイプがある\n\n\n\n\n\n\nまれにエンチャント漏れを起こす\nキューブがあるので\nその場合はエーテルを再注入しなければ\n落下してしまう",
   "en": "◆ Cube Movement (Enchant Cube)\n\nA cube movement device powered by\nEnchantment.\n\nSome move horizontally, and some\nvertically.\n\n\n\n\n\n\nAn Enchant Leak may occur in some \ncubes. If you do not refill with Ether, it \nwill fall.",
-  "zh": ""
+  "zh": "◆方块移动（赋法方块）\n\n依靠赋法启动的\n方块型移动装置\n\n分为水平移动型\n与上下升降型\n\n\n\n\n\n\n偶尔会有发生以太泄漏的\n方块\n此时若不重新注入以太\n就会坠落"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040500/0",
@@ -234609,7 +234609,7 @@
   "offset": "2AB6",
   "jp": "◆回復（リフレッシュ）ポイント\n\nＶＰを回復することができるポイント\n\nフィールド各地に置かれている\n",
   "en": "◆ Recharge Station.\n\nA point on the field that allows characters\nto recover VP\n\nFound on every field.",
-  "zh": ""
+  "zh": "◆回复点\n\n可以恢复VP的地点\n\n分布在原野各地"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040600/0",
@@ -234618,7 +234618,7 @@
   "offset": "2B28",
   "jp": "◆ショップ\n\nアイテムの売買\nゴーレムや武器の合成ができる場所",
   "en": "◆ Shop\n\nA place where you can buy and sell \nitems and synthesize Golems and \nweapons.",
-  "zh": ""
+  "zh": "◆商店\n\n进行道具买卖\n以及合成魔像和武器的场所"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1040700/0",
@@ -234627,7 +234627,7 @@
   "offset": "2B70",
   "jp": "◆カジノ\n\nゴーレムバトルやルーレットなどの\nミニゲームをプレイできる場所\n\nチップを購入し、増やすことで\n珍しいアイテムを手に入れることができる",
   "en": "◆ Casino\n\nA place that allows you to fight Golem\nBattles, play roulette, and enjoy other\nmini games.\nGain enough chips and you can trade them in\nfor rare items.",
-  "zh": ""
+  "zh": "◆赌场\n\n可以游玩魔像对决、轮盘赌等\n迷你游戏的场所\n\n购买并赢取更多筹码，\n就能兑换稀有道具"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050000/0",
@@ -234636,7 +234636,7 @@
   "offset": "2C0E",
   "jp": "アイテムに関する用語の説明です",
   "en": "Explanation of item related terms.",
-  "zh": ""
+  "zh": "道具相关用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050100/0",
@@ -234645,7 +234645,7 @@
   "offset": "2C3C",
   "jp": "◆戦闘アイテム\n\n戦闘中に使用するアイテム\n\nＨＰやＥＰを回復するもの\nステータス異常を回復するものなど\nいくつかの種類がある",
   "en": "◆ Battle Items\n\nItems used during battle.\nThere are many different item types.\nThe most common ones allow you to heal\ncharacters' HP and EP, and cure status\neffects.",
-  "zh": ""
+  "zh": "◆战斗道具\n\n在战斗中使用的道具\n\n包括恢复HP和EP、\n治疗异常状态等\n多种类型"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050200/0",
@@ -234654,7 +234654,7 @@
   "offset": "2CCA",
   "jp": "◆補助アイテム\n\nメニューで使用するアイテム\n\nＶＰを回復するものや\nＦＰを増やすものなど\nいくつかの種類がある",
   "en": "◆ Support Items\n\nItems that are accessed and used\nfrom the Menu.\nThere are many different types, including\nones that will recover VP, ones that will\nincrease FP, and others.",
-  "zh": ""
+  "zh": "◆辅助道具\n\n在菜单中使用的道具\n\n包括恢复VP、\n增加FP等\n多种类型"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050300/0",
@@ -234663,7 +234663,7 @@
   "offset": "2D42",
   "jp": "◆武器\n\n人間が装備するアイテム\n\n装備することで\n直接・間接・援護・素早さ・\nＨＰ・ＥＰの各パラメータが増減する",
   "en": "◆ Weapons\n\nItems that humans can equip.\n\nEquipping these will raise or lower\nparameters: HP, EP, Assist, Direct,\nRanged and Agility.",
-  "zh": ""
+  "zh": "◆武器\n\n由人类装备的道具\n\n装备后，\n直接、间接、支援、速度、\nHP、EP各参数会发生增减"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050400/0",
@@ -234672,7 +234672,7 @@
   "offset": "2DC2",
   "jp": "◆マテリアル\n\nゴーレムや武器の合成に必要なアイテム\n\n合成は“ショップ”で行なうことができる",
   "en": "◆ Material\n\nUsed to create Golems and weapons.\n\nCreation can be performed in Shops.",
-  "zh": ""
+  "zh": "◆素材\n\n合成魔像与武器所需的道具\n\n可以在“商店”中进行合成"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050500/0",
@@ -234681,7 +234681,7 @@
   "offset": "2E2C",
   "jp": "◆武器コア\n\n武器を合成するために必要なアイテム\nマテリアルの一種で\n合成のコアとして用いられる\n\n合成は“ショップ”で行なうことができる",
   "en": "◆ Weapon Cores\n\nAn item necessary for weapon creation.\nA type of Material that is used as the core\nduring creation.\n\nCreation can be performed at Shops.",
-  "zh": ""
+  "zh": "◆武器核心\n\n合成武器所必需的道具\n属于素材的一种，\n用作合成的核心媒介\n\n可以在“商店”中进行合成"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050600/0",
@@ -234690,7 +234690,7 @@
   "offset": "2EC6",
   "jp": "◆ゴーレムコア\n\nゴーレムを合成するために必要なアイテム\nマテリアルの一種で\n合成のコアとして用いられる\n\n合成は“ショップ”で行なうことができる",
   "en": "◆ Golem Cores\n\nAn item necessary for Golem creation.\nA type of Material that is used as the core\nduring creation.\n\nCreation can be performed at Shops.",
-  "zh": ""
+  "zh": "◆魔像核心\n\n合成魔像所必需的道具\n属于素材的一种，\n用作合成的核心媒介\n\n可以在“商店”中进行合成"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1050700/0",
@@ -234699,7 +234699,7 @@
   "offset": "2F68",
   "jp": "◆キーアイテム\n\n様々なイベントで得られる\n特殊なアイテム\n\nストーリーを進めるのに用いられる",
   "en": "◆ Key Items\n\nSpecial items that are attained through\na variety of different events.\n\nTheir usage is required to progress along\nthe story.",
-  "zh": ""
+  "zh": "◆关键道具\n\n通过各类事件获得的\n特殊道具\n\n用于推进故事剧情"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1060000/0",
@@ -234708,7 +234708,7 @@
   "offset": "2FD0",
   "jp": "スキルに関する用語の説明です",
   "en": "Explanation of basic Skill terms.",
-  "zh": ""
+  "zh": "技能相关用语的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1060100/0",
@@ -234717,7 +234717,7 @@
   "offset": "2FF6",
   "jp": "◆スキル\n\nキャラクターの持つ様々な技能\n戦闘中の行動は\nスキルを使うことで行なわれる\n\n\n\n\n\n\n\n\nスキルを使用するためには\nまずＳＰを用いてスキルを習得し\nその上で装備しなければならない\n\n装備するだけで効果が出るものを\n特に“サポート”と言う",
   "en": "◆ Skill\n\nVarious techniques possessed by the\ncharacters. All actions performed in\nbattle are done using Skills.\n\n\n\n\n\n\n\nIn order to use Skills, you must first apply\nSkill Points (SP) to a Skill you wish your\ncharacter to learn, then equip the Skill\nso your character can use it.\nSkills which provide effects as soon as\nthey are equipped are known as Support\nSkills.",
-  "zh": ""
+  "zh": "◆技能\n\n角色所持有的各项本领\n战斗中的行动\n都是通过使用技能来进行的\n\n\n\n\n\n\n\n\n若要使用技能，\n必须先消耗SP习得该技能，\n并在此基础上进行装备\n\n仅需装备即可生效的技能，\n特称为“支援”"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1060200/0",
@@ -234726,7 +234726,7 @@
   "offset": "30FC",
   "jp": "◆サポート\n\n装備するだけで効果が出るスキル\n\nＨＰやＥＰを増やすものや\nステータス異常をふせぐものなど\n様々な種類がある",
   "en": "◆ Support\n\nSkills that produce effects as soon as they\nare equipped.\n\n\n\n\n\n\n\n\n\nThere are many types of Support Skills,\nthe most common of which will raise\na character's HP and/or EP and protect\nthem from status abnormalities.",
-  "zh": ""
+  "zh": "◆支援\n\n仅需装备即可生效的技能\n\n包括提升HP和EP、\n预防异常状态等\n各种类型"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1060300/0",
@@ -234735,7 +234735,7 @@
   "offset": "317E",
   "jp": "◆ＥＸ\n\n人間だけが持つ特殊なスキル\n\n\n\n\n\n\n\n\n\n\n経験を積むと覚え\n覚えたＥＸは\nＥＸゲージを消費することで\n戦闘中に使うことができる\n\n\n\n\n\n\n\n\nプレイヤーが習得・装備させる必要は無い",
   "en": "◆ EX\n\nA special skill that only humans possess.\n\nGained after acquiring a certain amount of\nEXP, EX skills can be used in battle by\nexpending the EX Gauge.\n\n\n\n\n\n\nThere is no need for you to equip them.\n\nAs the skill is performed, shake the\nSIXAXIS™ wireless controller to cause\ngreater damage.",
-  "zh": ""
+  "zh": "◆EX\n\n仅有人类持有的特殊技能\n\n\n\n\n\n\n\n\n\n\n随着积累经验而领悟，\n领悟后的EX技能\n可通过消耗EX计量条\n在战斗中使用\n\n\n\n\n\n\n\n\n无需玩家特意习得或装备"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/1060400/0",
@@ -234744,7 +234744,7 @@
   "offset": "324C",
   "jp": "◆ＰＰ　（パワーポイント）\n\nスキルの威力\nスキルそのものの威力に加え\nキャラクターの各パラメータを\n反映させた値\n\n\n\n\n\n\n\nキャラクターが成長すれば\n値は上昇する",
   "en": "◆ Power Points (PP)\n\nDetermines the strength for Skills.\nIn addition to displaying Skill strength,\nthese points also reflect the status of\nevery parameter for that character.\n\n\n\n\n\n\n\nThese points go up as the character\ndevelops.",
-  "zh": ""
+  "zh": "◆PP（力量点数）\n\n技能的威力\n在技能本身威力的基础上，\n进一步反映了\n角色各项参数后的综合数值\n\n\n\n\n\n\n\n随着角色成长，\n该数值也会提升"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2000000/0",
@@ -234753,7 +234753,7 @@
   "offset": "3306",
   "jp": "メインメニューの簡単な説明です",
   "en": "Explanation for the Main Menu.",
-  "zh": ""
+  "zh": "主菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2010000/0",
@@ -234762,7 +234762,7 @@
   "offset": "3334",
   "jp": "パーティ編成メニューの簡単な説明です",
   "en": "Explanation for the Party Edit menu.",
-  "zh": ""
+  "zh": "队伍编成菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2010100/0",
@@ -234771,7 +234771,7 @@
   "offset": "3368",
   "jp": "◆パーティ編成\n\nパーティに入れるキャラクターを\n変更するメニュー\n\nカーソルでキャラクターを２体選ぶと\nそのキャラクター同士が入れ替わる\n\n\n\n\n\n\n既にパーティにいるキャラクター同士を\n入れ替えた場合、戦闘中にコマンドが\n表示される順番を変えることもできる\n\nなお、アツマをパーティから外すことは\n出来ない",
   "en": "◆ Change Party\nA menu that allows you to select which\nmembers to place in your party.\n\nUse the cursor to select any two\ncharacters and switch their positions.\n\n\n\n\n\n\n\nChanging positions for characters that\nare already in your party will also\nchange their battle command order.\n\nAtsuma can never be removed from the\nparty.",
-  "zh": ""
+  "zh": "◆队伍编成\n\n变更参战队伍成员的\n菜单\n\n用光标选择两名角色，\n即可将这两名角色调换位置\n\n\n\n\n\n\n若调换已在队伍中的角色位置，\n也可以改变其在战斗中指令\n显示的先后顺序\n\n另外，阿茨玛无法从队伍中\n移出"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2020000/0",
@@ -234780,7 +234780,7 @@
   "offset": "34AE",
   "jp": "キャラクターメニューの簡単な説明です",
   "en": "Explanation of the Character Menu.",
-  "zh": ""
+  "zh": "角色菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2020100/0",
@@ -234789,7 +234789,7 @@
   "offset": "34E0",
   "jp": "◆ステータス\n\nキャラクターの詳細なパラメータを\n参照するメニュー\n\nパラメータやスキルの情報を\n切り替えて見ることもできる",
   "en": "◆ Status\n\nA menu that allows you to view detailed\nbreakdowns of a character's parameters.\n\nYou can switch between parameter and\nskill information instantly.",
-  "zh": ""
+  "zh": "◆状态\n\n查看角色详细参数的\n菜单\n\n也可以切换查看\n参数与技能的相关信息"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2020200/0",
@@ -234798,7 +234798,7 @@
   "offset": "3564",
   "jp": "◆武器\n\n武器を装備させるメニュー\n\n手に入れた武器の中から\nキャラクターに装備させるものを選択できる\n\n\n\n\n\n\n\n武器を装備すると\n直接・間接・援護・素早さ・\nＨＰ・ＥＰの各パラメータが増減する\n\nなお、武器を装備できるのは人間のみ\nゴーレムは装備することができない",
   "en": "◆ Weapon\n\nA menu that allows you to equip your\ncharacters with weapons.\nChoose the weapon you wish for them\nto equip from the list of weapons you\npossess.\n\n\n\n\n\n\nEquipping weapons will affect one or\nmore of that character's parameters:\nHP, EP, Direct, Ranged, Assist, and\nAgility.\nOnly humans can equip weapons.",
-  "zh": ""
+  "zh": "◆武器\n\n为角色装备武器的菜单\n\n可从已获得的武器中，\n选择让角色装备的武器\n\n\n\n\n\n\n\n装备武器后，\n直接、间接、支援、速度、\nHP、EP各参数会发生增减\n\n另外，仅有人类可以装备武器，\n魔像无法装备"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2020300/0",
@@ -234807,7 +234807,7 @@
   "offset": "3686",
   "jp": "◆キャラクター紹介\n\nキャラクターの説明を見るためのメニュー\n\n仲間になった人間やゴーレムの\n背景について知ることができる",
   "en": "◆ Character Bio\n\nA menu to introduce and explain the\ngame's characters.\nYou can learn about the background of\nboth your human characters and your \nGolems.",
-  "zh": ""
+  "zh": "◆角色介绍\n\n用于查看角色说明的菜单\n\n可以了解已成为同伴的\n人类与魔像的背景故事"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2030000/0",
@@ -234816,7 +234816,7 @@
   "offset": "3708",
   "jp": "成長メニューの簡単な説明です",
   "en": "Explanation of Parameters",
-  "zh": ""
+  "zh": "成长菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2030100/0",
@@ -234825,7 +234825,7 @@
   "offset": "372C",
   "jp": "◆成長\n\nＳＰを用いて、キャラクターのパラメータを\n成長させるメニュー\n\n成長に必要なＳＰは\n成長させるたびに上昇していく",
   "en": "◆ Parameter\n\nA menu that allows you to use SP to\nraise character parameters.\n\nThe SP required to raise a parameter\nincreases every time a parameter is raised.",
-  "zh": ""
+  "zh": "◆成长\n\n消耗SP来提升角色参数的\n菜单\n\n成长所需的SP\n会在每次提升后随之增加"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2040000/0",
@@ -234834,7 +234834,7 @@
   "offset": "37B0",
   "jp": "スキルメニューの簡単な説明です",
   "en": "Explanation of the Skill menu.",
-  "zh": ""
+  "zh": "技能菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2040100/0",
@@ -234843,7 +234843,7 @@
   "offset": "37D8",
   "jp": "◆スキル\n\nスキルの習得・装備（付け替え）を\n行なうメニュー\nゴーレムは、装備しているスキルを\n確認することしかできない\n\n\n\n\n\n\n\nスキルには\nスキル・サポート・ＥＸの３つの種類があり\nこのうちスキルとサポートは\n習得するために\n戦闘で手に入れたＳＰが必要となる\n\n\n\n\n\n\n\nまた、スキルを習得するには\nショップで購入するなどの方法で\nあらかじめ入手しておかねばならない",
   "en": "◆ Skill\n\nA menu for acquiring and equipping\n(switching) skills.\n\nFor Golems, this menu can only be used\nto check their skills, not change them.\n\n\n\n\n\nSkills are divided into Skill, Support,\nand EX types.\n\nOf these three, Skill and Support\nrequire Skill Points (SP) to learn\nSkills will also need to be obtained by\nvarious methods, such as buying them\n\n\n\n\n\nin shops, before they can be used.",
-  "zh": ""
+  "zh": "◆技能\n\n用于习得、装备（更换）技能的\n菜单\n魔像只能在其中确认\n当前已装备的技能\n\n\n\n\n\n\n\n技能分为\n技能、支援、EX这3种类型，\n其中技能与支援在习得时，\n需要消耗战斗中获得的SP\n\n\n\n\n\n\n\n另外，若想习得技能，\n还必须事先通过商店购买等方式\n入手相应的技能"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2050000/0",
@@ -234852,7 +234852,7 @@
   "offset": "395C",
   "jp": "アイテムメニューの簡単な説明です",
   "en": "Explanation of the Item Menu.",
-  "zh": ""
+  "zh": "道具菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2050100/0",
@@ -234861,7 +234861,7 @@
   "offset": "398C",
   "jp": "◆アイテム使用\n\nアイテムを使用するためのメニュー\n\n手に入れたアイテムを確認できるほか\n“補助アイテム”を使用することができる",
   "en": "◆ Use Item\n\nA menu that allows you to use items.\n\nUse Support Items as well as see what\nitems you currently possess.",
-  "zh": ""
+  "zh": "◆使用道具\n\n用于使用道具的菜单\n\n除了确认持有的道具外，\n还可以使用“辅助道具”"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2050200/0",
@@ -234870,7 +234870,7 @@
   "offset": "3A20",
   "jp": "◆アイテム並び替え\n\n戦闘アイテムの並べ替えを\n行なうメニュー\n\nカーソルでアイテムを２つ選ぶと\nそのアイテム同士が入れ替わる\n\n\n\n\n\n\nここで決定した並びは以後適応され\n戦闘中でもそのまま表示される\n\nなお、選択したアイテムの特徴は\n画面下に簡単な説明文で表示される",
   "en": "◆ Sort Items\n\nA menu that allows you to change the\norder of Battle Items.\n\nSelect two different items with the\ncursor to have them switch places.\n\n\n\n\n\nThe new order will be reflected in the\nbattle menu as well.\n\nA simple description of the currently\nselected item will always be displayed\nat the bottom of the screen.",
-  "zh": ""
+  "zh": "◆道具排序\n\n用于重新调整战斗道具顺序的\n菜单\n\n用光标选择两个道具，\n即可将这两个道具调换位置\n\n\n\n\n\n\n在此确定的顺序随后会生效，\n在战斗中也会直接按此顺序显示\n\n另外，所选道具的特征\n会在画面下方以简短说明文字显示"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2060000/0",
@@ -234879,7 +234879,7 @@
   "offset": "3B44",
   "jp": "インフォメーションメニューの簡単な説明です",
   "en": "Explanation of the Information menu.",
-  "zh": ""
+  "zh": "情报资讯菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2060100/0",
@@ -234888,7 +234888,7 @@
   "offset": "3B78",
   "jp": "◆マップ\n\n今まで行った場所に出現する\n敵の確認を行なうメニュー\n\n\n\n\n\n\n\n\n\nなお、見ることのできる情報は\n撃退したことのある敵のみ\n撃退前の敵は、属性のみ確認できる\n\n敵からアイテムを入手した場合\nその情報も確認することができる",
   "en": "◆ Map\n\nA menu that lets you check which enemies\nappear in locations you have visited.\nOnly enemies which you have defeated at\nleast once will be shown.\nAny enemies in an area that you have not\n\n\n\n\n\nyet defeated will only have their element\ndisplayed.\n\nIf you received an item from an enemy\nwhen you defeated it, that item will also\nbe shown as part of the enemy's\ninformation.",
-  "zh": ""
+  "zh": "◆地图\n\n用于确认已去过的地点中\n所出现的敌人的菜单\n\n\n\n\n\n\n\n\n\n另外，能够查看的详细信息\n仅限击退过的敌人，\n未击退过的敌人仅能确认其属性\n\n如果曾从敌人身上获得过道具，\n该道具的情报也可以在此确认"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2060200/0",
@@ -234897,7 +234897,7 @@
   "offset": "3C6E",
   "jp": "◆達成度\n\n“ストーリー”、“戦闘”、“ミニゲーム”の\n３つの項目の、達成度を確認することが\nできるメニュー\n\n\n\n\n\n\n\n\n（１）ストーリー\nこれまでにクリアしたイベント\n現在プレイ中のイベントを確認する\nメニュー\n\n\n\n\n\n\n\n\n（２）戦闘\n戦闘の記録を確認するメニュー\n\nこれまでに撃退した敵の数や\noverbreakの発生回数など\n様々な記録を見ることができる\n\n\n\n\n\n\n（３）ミニゲーム\nミニゲームの成績を確認するメニュー\n\nミニゲームは、世界のどこかにあるカジノで\nプレイすることができる",
   "en": "◆Completion\n\nView your completion rate in three\ncategories: \"Story,\" \"Battle\" and\n\"Mini-Games.\"\n\n\n\n\n\n\n\n\n(1) Story: Check events cleared, and\ncurrent story event.\n\n\n\n\n\n\n\n\n\n\n(2) Battle: Check battle results, and\nview your records.\n\n\n\n\n\n\n\n\n\n\n(3) Mini-Games: View mini-game\nachievements. Mini-games can be\nplayed in casinos around the world.",
-  "zh": ""
+  "zh": "◆达成度\n\n可确认“故事”、“战斗”、“迷你游戏”\n这3个项目的达成度的\n菜单\n\n\n\n\n\n\n\n\n（１）故事\n确认迄今为止已通关的事件，\n以及当前正在进行的事件的\n菜单\n\n\n\n\n\n\n\n\n（２）战斗\n确认战斗记录的菜单\n\n可查看迄今为止击退的敌人数量、\noverbreak的发生次数等\n各项记录\n\n\n\n\n\n\n（３）迷你游戏\n确认迷你游戏成绩的菜单\n\n迷你游戏可在世界某处的赌场中\n进行游玩"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2070000/0",
@@ -234906,7 +234906,7 @@
   "offset": "3E6E",
   "jp": "セーブメニューの簡単な説明です",
   "en": "Explanation of the Save Menu.",
-  "zh": ""
+  "zh": "存档菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2070100/0",
@@ -234915,7 +234915,7 @@
   "offset": "3E96",
   "jp": "◆セーブ\n\nゲームプレイを保存するメニュー\nこれまでのゲームプレイを\n保存することができる",
   "en": "◆ Save\n\nSave your current progress from this\nmenu.",
-  "zh": ""
+  "zh": "◆保存\n\n保存游戏进度的菜单\n可将迄今为止的游戏进度\n保存下来"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2080000/0",
@@ -234924,7 +234924,7 @@
   "offset": "3EFA",
   "jp": "ロードメニューの簡単な説明です",
   "en": "Explanation of the Load Menu.",
-  "zh": ""
+  "zh": "读取菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2080100/0",
@@ -234933,7 +234933,7 @@
   "offset": "3F22",
   "jp": "◆ロード\n\nゲームプレイを読み込むメニュー\n以前セーブしたゲームプレイを\n読み込むことができる",
   "en": "◆ Load\n\nLoad previously saved data from this\nmenu.",
-  "zh": ""
+  "zh": "◆读取\n\n读取游戏进度的菜单\n可以读取先前保存的\n游戏进度"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2090000/0",
@@ -234942,7 +234942,7 @@
   "offset": "3F8C",
   "jp": "システムメニューの簡単な説明です",
   "en": "Explanation of the System Menu.",
-  "zh": ""
+  "zh": "系统菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2090100/0",
@@ -234951,7 +234951,7 @@
   "offset": "3FC0",
   "jp": "◆ゲームオプション\n\n画面の明るさやテキスト表示の仕方などの\n設定を行なうメニュー",
   "en": "◆ Game options\n\nA menu that allows you to adjust \nvarious gameplay settings, such as \nscreen brightness and text display.",
-  "zh": ""
+  "zh": "◆游戏设置\n\n可对画面亮度及文字显示方式等\n进行设置的菜单"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2090200/0",
@@ -234960,7 +234960,7 @@
   "offset": "4028",
   "jp": "◆サウンドオプション\n\n音楽や効果音、音声の音量を\n設定するメニュー",
   "en": "◆ Sound options\n\nA menu that allows you to change\nsettings for music, sound effects,\nand voice.",
-  "zh": ""
+  "zh": "◆声音设置\n\n可对音乐、音效以及语音音量\n进行设置的菜单"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2090300/0",
@@ -234969,7 +234969,7 @@
   "offset": "407A",
   "jp": "◆データ削除\n\nＨＤＤ内のデータを削除するメニュー",
   "en": "◆ Delete Data\n\nA menu that allows you to delete\ndata from the HDD.",
-  "zh": ""
+  "zh": "◆删除数据\n\n可删除硬盘内数据的菜单"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/2090400/0",
@@ -234978,7 +234978,7 @@
   "offset": "40C2",
   "jp": "◆タイトル画面に戻る\n\nゲームを終了し\nタイトル画面に戻るためのメニュー",
   "en": "◆ Back to Title Screen\n\nA menu option that allows you to end the\ngame and return to the Title Screen.",
-  "zh": ""
+  "zh": "◆返回标题画面\n\n结束游戏\n并返回标题画面的菜单"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3000000/0",
@@ -234987,7 +234987,7 @@
   "offset": "411E",
   "jp": "メインメニュー以外のメニューについての簡単な説明です",
   "en": "Explanation for other menus.",
-  "zh": ""
+  "zh": "主菜单以外菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3010000/0",
@@ -234996,7 +234996,7 @@
   "offset": "4166",
   "jp": "タイトルメニューの簡単な説明です",
   "en": "Explanation of the Title Menu.",
-  "zh": ""
+  "zh": "标题菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3010100/0",
@@ -235005,7 +235005,7 @@
   "offset": "419A",
   "jp": "◆ＮＥＷ　ＧＡＭＥ\n\nはじめからゲームをプレイするメニュー\n",
   "en": "◆ NEW GAME\n\nLets you start a new game from the beginning\nof the story.",
-  "zh": ""
+  "zh": "◆ＮＥＷ　ＧＡＭＥ\n\n从头开始游玩游戏的菜单"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3010200/0",
@@ -235014,7 +235014,7 @@
   "offset": "41EC",
   "jp": "◆ＬＯＡＤ　ＧＡＭＥ\n\nゲームプレイを読み込むメニュー\n以前セーブしたゲームプレイを\n読み込むことができる",
   "en": "◆ LOAD GAME\n\nLoad and continue previously saved \ndata.",
-  "zh": ""
+  "zh": "◆ＬＯＡＤ　ＧＡＭＥ\n\n读取游戏进度的菜单\n可以读取先前保存的\n游戏进度"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3020000/0",
@@ -235023,7 +235023,7 @@
   "offset": "426C",
   "jp": "ミニマップメニューの簡単な説明です",
   "en": "Explanation of the Mini Map Menu.",
-  "zh": ""
+  "zh": "迷你地图菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3020100/0",
@@ -235032,7 +235032,7 @@
   "offset": "429C",
   "jp": "◆ミニマップ\n\nゲーム中、⑦を押すと表示される\n周辺マップを確認するメニュー\n\n重要な場所や、他の地域への入り口が\n確認できる",
   "en": "◆ Mini Map\n\nPressing START button during gameplay\nwill display a mini map of your\nsurroundings.\n\n\n\n\n\n\n\nYou can use this map to check for\nimportant map features or entrances and\nexits to other areas.",
-  "zh": ""
+  "zh": "◆迷你地图\n\n游戏中按下⑦即可显示\n用于确认周边地图的菜单\n\n可在此确认重要地点\n以及通往其他区域的入口"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030000/0",
@@ -235041,7 +235041,7 @@
   "offset": "432E",
   "jp": "ショップメニューの簡単な説明です",
   "en": "Explanation of the Shop Menu.",
-  "zh": ""
+  "zh": "商店菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030100/0",
@@ -235050,7 +235050,7 @@
   "offset": "435E",
   "jp": "◆アイテム購入\n\n手に入れたＴＢを用いて\n戦闘アイテムや補助アイテム\nマテリアルといった消耗品を\n購入するメニュー\n\n\n\n\n\n\n\nなお、アイテムは\n自動的に並べ替えることもできる",
   "en": "◆ Buy Item\n\nUse tablets gained during the course of\nthe game to buy Battle Items, Support\nItems, Materials, and other consumable\nitems.\n\n\n\n\n\n\nYou can choose items to be\nautomatically ordered.",
-  "zh": ""
+  "zh": "◆购买道具\n\n使用所获得的ＴＢ\n购买战斗道具、辅助道具\n以及素材等消耗品的菜单\n\n\n\n\n\n\n\n此外，道具还可以\n进行自动排序"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030200/0",
@@ -235059,7 +235059,7 @@
   "offset": "441E",
   "jp": "◆スキル購入\n\n手に入れたＴＢを用いて\n習得できるスキルを購入するメニュー\n\nスキルは、１種類につき\n１つしか入手できない\n\n\n\n\n\n\nなお、スキルは\n自動的に並べ替えることもできる",
   "en": "◆ Buy Skill\n\nUse tablets gained during the course\nof the game to buy Skills for your\ncharacters.\n\n\n\n\n\n\n\nYou can only possess one Skill for\neach type of Skill offered.\n\nYou can choose Skills to be\nautomatically ordered.",
-  "zh": ""
+  "zh": "◆购买技能\n\n使用所获得的ＴＢ\n购买可习得技能的菜单\n\n每种技能\n只能获得１个\n\n\n\n\n\n\n此外，技能还可以\n进行自动排序"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030300/0",
@@ -235068,7 +235068,7 @@
   "offset": "44EA",
   "jp": "◆コアマテリアル購入\n\n手に入れたＴＢを用いて\nゴーレムの合成に必要な“ゴーレムコア”\n武器の合成に必要な“武器コア”を\n購入するメニュー\n\n\n\n\n\n\n\nコアマテリアルは、１種類につき\n１つしか入手できない\n\nなお、コアマテリアルは\n自動的に並べ替えることもできる",
   "en": "◆ Buy Core Material\n\nUse tablets gained during the course\nof the game to buy \"Golem Cores\" and\n\"Weapon Cores\" necessary for the\ncreation of Golems and Weapons.\n\n\n\n\n\n\nYou can only possess one Core Material\nfor each type of Core offered.\n\nYou can choose Core Materials to be\nautomatically ordered.",
-  "zh": ""
+  "zh": "◆购买核心素材\n\n使用所获得的ＴＢ\n购买合成魔像所需的“魔像核心”\n以及合成武器所需的“武器核心”的菜单\n\n\n\n\n\n\n\n每种核心素材\n只能获得１个\n\n此外，核心素材还可以\n进行自动排序"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030400/0",
@@ -235077,7 +235077,7 @@
   "offset": "4602",
   "jp": "◆アイテム売却\n\n手に入れたアイテムを売却し\nＴＢに変えるメニュー\n\n中には、売却できないアイテムもある\n\n\n\n\n\n\n\nなお、アイテムは\n自動的に並べ替えることもできる",
   "en": "◆ Sell Item\n\nSell items you don't need in exchange\nfor TB.\n\nSome items cannot be sold.",
-  "zh": ""
+  "zh": "◆出售道具\n\n将所获得的道具出售\n换取ＴＢ的菜单\n\n其中也有一部分无法出售的道具\n\n\n\n\n\n\n\n此外，道具还可以\n进行自动排序"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030500/0",
@@ -235086,7 +235086,7 @@
   "offset": "46BA",
   "jp": "◆ゴーレム合成\n\n“マテリアル”と“ゴーレムコア”を使い\nゴーレムを合成するメニュー\n\n\n\n\n\n\n\n\n\n合成したゴーレムは\n「ゴーレム入れ替え」で\n仲間として連れて行くことができる",
   "en": "◆ Synthesize Golem\n\nUse Material and Golem Cores to create\na new Golem.",
-  "zh": ""
+  "zh": "◆魔像合成\n\n使用“素材”与“魔像核心”\n来合成魔像的菜单\n\n\n\n\n\n\n\n\n\n合成的魔像可以通过\n「替换魔像」功能\n作为同伴随行带走"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3030600/0",
@@ -235095,7 +235095,7 @@
   "offset": "477A",
   "jp": "◆武器合成\n\n“マテリアル”と“武器コア”を使い\n武器を合成するメニュー",
   "en": "◆ Synthesize Weapon\n\nUse Material and Weapon Cores to\ncreate a new weapon.",
-  "zh": ""
+  "zh": "◆武器合成\n\n使用“素材”与“武器核心”\n来合成武器的菜单"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040000/0",
@@ -235104,7 +235104,7 @@
   "offset": "47D4",
   "jp": "カジノメニューの簡単な説明です",
   "en": "Explanation of the Casino Menu.",
-  "zh": ""
+  "zh": "赌场菜单的简要说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040100/0",
@@ -235113,7 +235113,7 @@
   "offset": "4800",
   "jp": "◆チップ購入\n\n手に入れたＴＢを用いて\nチップを購入するメニュー\n\nミニゲームをプレイするためには\nこのチップが必要となる\n\n\n\n\n\n\nチップは、珍しいアイテムと交換する\nことができる",
   "en": "◆ Buy Chips\n\nUse tablets gained during the course of your\nadventure to buy chips.\n\nYou will need chips to play the various mini\ngames.\n\n\n\n\n\n\nChips can be exchanged for rare items.",
-  "zh": ""
+  "zh": "◆购买筹码\n\n使用所获得的ＴＢ\n来购买筹码的菜单\n\n游玩小游戏时\n需要用到这些筹码\n\n\n\n\n\n\n筹码还可以用来兑换\n稀有道具"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040200/0",
@@ -235122,7 +235122,7 @@
   "offset": "48C4",
   "jp": "◆景品交換\n\n手に入れたチップと\n珍しいアイテムとを交換するメニュー\n\nチップは「チップ購入」で購入できるほか\nミニゲームに勝つと増やすことができる",
   "en": "◆ Prize Exchange\n\nAllows you to exchange chips for\nrare items.\n\nChips can be purchased from the casino\nor won in mini games.",
-  "zh": ""
+  "zh": "◆兑换奖品\n\n使用所获得的筹码\n来兑换稀有道具的菜单\n\n筹码除可在「购买筹码」中购买外\n在小游戏中获胜也能增加"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040300/0",
@@ -235131,7 +235131,7 @@
   "offset": "496A",
   "jp": "◆ゴーレムバトル\n\n闘技場のゴーレムと対戦し\n勝敗を競うゲーム\n\nプレイするためにはチップが必要となり\n勝敗によってチップが増減する",
   "en": "◆ Golem Battles\n\nA game where your Golems compete with\nothers for prizes.\n\nChips are required to play, and more\ncan be gained if you win.",
-  "zh": ""
+  "zh": "◆魔像对决\n\n与竞技场的魔像交手\n比试胜负的游戏\n\n游玩需要消耗筹码\n根据胜负结果筹码会增减"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040400/0",
@@ -235140,7 +235140,7 @@
   "offset": "49F8",
   "jp": "◆ビンゴ\n\n１から２４までの数字が並んだボードを用い\n無作為に選ばれた数字と同じ数字を\n消していき、縦・横・斜めのいずれか１列を\nそろえるゲーム\n\n\n\n\n\n\n\n１０回までチャンスがあり\nそれまでに列をそろえると勝ちとなる\n\nプレイするためにはチップが必要となり\n勝敗によってチップが増減する",
   "en": "◆ Bingo\n\nA game with 24 places numbered 1-24 on\na card where the player tries to match\n5 of them in either a horizontal,\nvertical, or diagonal line.\n\n\n\n\n\n\nYou have 10 chances to make a line.\n\nChips are required to play, and\nmore can be gained if you win.",
-  "zh": ""
+  "zh": "◆宾果游戏\n\n使用排列有数字１到２４的面板\n依次消除与随机抽选数字相同的格子\n使横、竖、斜任意一列连成一线的游戏\n\n\n\n\n\n\n\n共有１０次机会\n若在此之前连成一线即为获胜\n\n游玩需要消耗筹码\n根据胜负结果筹码会增减"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040500/0",
@@ -235149,7 +235149,7 @@
   "offset": "4B2C",
   "jp": "◆スロットゲーム\n\n３つのリールを回し\nボタンを押して止めることによって\n役をそろえるゲーム\n\n\n\n\n\n\n\n\nチップの枚数に応じて\nリールの横１列で役をそろえると\n勝ちになる場合と\n横３列、斜め含め５列のいずれかで\n役をそろえればいい場合とがある\n\n\n\n\n\n\n\nプレイするためにはチップが必要となり\n勝敗によってチップが増減する",
   "en": "◆ Slot Machine\n\nSpin the 3 reels and press a button\nto stop them. Try to align their\npictures for prizes.\n\n\n\n\n\n\n\nThe more chips you use, the more \npossibilities there are to have\npictures lined up.  The standard bet is\none horizontal line; the max is 3\nhorizontal and 2 diagonal lines.\n\n\n\n\n\n\n\nChips are required to play, and more\ncan be gained if you win.",
-  "zh": ""
+  "zh": "◆老虎机游戏\n\n转动３个转轮\n通过按下按键使其停止\n来凑齐图案组合的游戏\n\n\n\n\n\n\n\n\n根据投入的筹码数量\n有时只要转轮横向１列凑齐图案即获胜\n有时则在横向３列及包含斜向在内的５列中\n任意１列凑齐图案即可获胜\n\n\n\n\n\n\n\n游玩需要消耗筹码\n根据胜负结果筹码会增减"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/3040600/0",
@@ -235158,7 +235158,7 @@
   "offset": "4C82",
   "jp": "◆ルーレット\n\n円盤を回転させ、どこで数字が止まるかを\n予想するゲーム\n\n数字に賭ける、偶数・奇数に賭ける\n色に賭けるなど、様々な賭け方ができる\n\n\n\n\n\n\nプレイするためにはチップが必要となり\n勝敗によってチップが増減する",
   "en": "◆ Roulette\n\nSpin a wheel and try to predict what\nnumber and color it will stop on.\n\n\n\n\n\n\n\n\nYou can bet on odd numbers, even\nnumbers, red, or black: all sorts of\nvariations.\n\nChips are required to play, and more\ncan be gained if you win.",
-  "zh": ""
+  "zh": "◆轮盘赌\n\n转动圆盘\n预测珠子最终会停在哪个数字上的游戏\n\n不仅可以押注数字，还能押注单双\n或押注颜色等，拥有多种下注方式\n\n\n\n\n\n\n游玩需要消耗筹码\n根据胜负结果筹码会增减"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4000000/0",
@@ -235167,7 +235167,7 @@
   "offset": "4D6A",
   "jp": "戦闘の説明です",
   "en": "Explanation of the game's battle system.",
-  "zh": ""
+  "zh": "战斗的说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4010000/0",
@@ -235176,7 +235176,7 @@
   "offset": "4D84",
   "jp": "戦闘の基本的な進め方についての説明です",
   "en": "Explanation of the basic battle controls.",
-  "zh": ""
+  "zh": "战斗基本流程的相关说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4010100/0",
@@ -235185,7 +235185,7 @@
   "offset": "4DB8",
   "jp": "◆基本ルール\n\n戦闘は、以下の行動を繰り返し、進行する\n（１）味方全員の移動場所・行動を選択する\n（２）味方の行動\n（３）敵全員が移動場所・行動を選択する\n（４）敵の行動\n\n\n\n\n\n\n戦闘から逃亡するか\nどちらかのキャラクターが全滅するまで\n続けられる",
   "en": "◆ Basic Rules\nBattle involves.\n1) Selecting where all your party members\nwill move and what actions they will perform.\n2) Performing those actions.\n3) Waiting for enemies to move.\n4) Waiting for enemies to act.\n\n\n\n\n\n\nBattles will continue until one party either\nruns away or is victorious.",
-  "zh": ""
+  "zh": "◆基本规则\n\n战斗通过反复执行以下行动来进行\n（１）选择所有我方成员的移动位置与行动\n（２）我方行动\n（３）所有敌方选择移动位置与行动\n（４）敌方行动\n\n\n\n\n\n\n战斗将持续进行，直到成功逃脱\n或某一方全军覆没为止"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4010200/0",
@@ -235194,7 +235194,7 @@
   "offset": "4EC4",
   "jp": "◆移動場所選択\n\nキャラクターを選択すると表示される\n移動可能範囲から\n移動したいグリッドを選択する\n\n\n\n\n\n\n\n\nなお、ターン開始時カーソルは\nパーティの一番上のキャラクターに\n重なっているが\n他のキャラクターを先に動かすこともできる",
   "en": "◆ Select Position\n\nSelecting a character will display which\ngrids that character can move to\nChoose the grid you wish the character\nto move to from among those options.\n\n\n\n\n\n\nAt the beginning of a turn, the cursor\nwill automatically select the first\ncharacter in the party order, but you\ncan choose to begin the turn with\nanother character.",
-  "zh": ""
+  "zh": "◆选择移动位置\n\n选中角色后，从显示的\n可移动范围内\n选择想要移动的网格\n\n\n\n\n\n\n\n\n此外，回合开始时光标虽默认停留在\n队伍最上方的角色身上\n但也可以优先操作其他角色行动"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4010300/0",
@@ -235203,7 +235203,7 @@
   "offset": "4FBE",
   "jp": "◆行動選択\n\n移動先を決めた後、そのキャラクターの\n行動を決めることができる\n\n\n\n\n\n\n\n\n\n⑤の左右で\n「ＩＴＥＭ」「ＳＫＩＬＬ」「ＥＸ」の\n切り替え、上下で項目を選択する\n\n\n\n\n\n\n\n\n\nＥＸは、十分なＥＸゲージが無い時には\n使うことができない",
   "en": "◆ Action select\n\nAfter selecting where your character will\nmove, you will choose what actions\nhe or she will perform.\n\n\n\n\n\n\n\nUsing right and left ⑤, choose \nbetween three categories, Item, Skill,\nand EX, then choose which action from\nthose categories you wish to perform.\n\nEX can only be used when the EX Gauge\nis high enough.",
-  "zh": ""
+  "zh": "◆选择行动\n\n决定移动位置后，即可决定\n该角色的行动\n\n\n\n\n\n\n\n\n\n按⑤的左右键可切换\n「ＩＴＥＭ」「ＳＫＩＬＬ」「ＥＸ」\n按上下键可选择具体项目\n\n\n\n\n\n\n\n\n\n若ＥＸ槽不足\n则无法使用ＥＸ"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4010400/0",
@@ -235212,7 +235212,7 @@
   "offset": "50C2",
   "jp": "◆待機\n\n行動選択時に「待機」を選択すると\nそのキャラクターは攻撃などの行動を\n取らない代わりに\nＥＰを回復することができる",
   "en": "◆ Standby\n\nChoosing Standby will have a character\nperform no actions during their turn, but\nin exchange will allow them to recover EP.",
-  "zh": ""
+  "zh": "◆待机\n\n在选择行动时若选择「待机」\n该角色虽不会采取攻击等行动\n但相对地可以恢复ＥＰ"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4010500/0",
@@ -235221,7 +235221,7 @@
   "offset": "5146",
   "jp": "◆行動\n\n全てのキャラクターの行動を入力した後\n１人１人行動を行なう\n\n④で“早送り”することもできる",
   "en": "◆ Action\n\nAfter selecting the actions for all\ncharacters, the characters will each\nperform those actions.\nIt is possible to fast-forward through\nthese actions by ④.",
-  "zh": ""
+  "zh": "◆行动\n\n输入所有角色的行动指令后\n各角色将逐一执行行动\n\n按④也可以进行“快进”"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4020000/0",
@@ -235230,7 +235230,7 @@
   "offset": "51B8",
   "jp": "補助的な機能の説明です",
   "en": "Explanation of supporting functions.",
-  "zh": ""
+  "zh": "辅助功能的相关说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4020100/0",
@@ -235239,7 +235239,7 @@
   "offset": "51DC",
   "jp": "◆カメラ切替\n\n行動選択時、キャラクターの位置を\n確認したいときなどは\n③を押すことで\nカメラ位置を切り替えられる",
   "en": "◆ Change Camera\n\nWhile selecting a character's action,\n③ will allow you to change the\ncamera's position. Useful when you\nwant to check a character's position.",
-  "zh": ""
+  "zh": "◆切换视角\n\n在选择行动时，若想确认\n角色的位置等信息，\n可按③\n来切换视角位置"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4020200/0",
@@ -235248,7 +235248,7 @@
   "offset": "5262",
   "jp": "◆敵ステータス確認\n\n敵にカーソルをあわせ、①を押すことで\n敵の情報が確認できる",
   "en": "◆ Check Enemy Status\n\nPlace the cursor on an enemy and press ①\nto see that enemy's information.",
-  "zh": ""
+  "zh": "◆查看敌人状态\n\n将光标对准敌人并按①，\n即可查看该敌人的信息"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4030000/0",
@@ -235257,7 +235257,7 @@
   "offset": "52C2",
   "jp": "戦闘中に④で表示される全体コマンドの説明です",
   "en": "Explanation of Party Commands (displayed during battle by ④).",
-  "zh": ""
+  "zh": "战斗中按④所显示的全体指令说明"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4030100/0",
@@ -235266,7 +235266,7 @@
   "offset": "52FE",
   "jp": "◆強制スタート\n\nキャラクター全員の行動を決めず\nその場で行動を開始するメニュー\n\n行動が選択されていないキャラクターは\nその場で待機することになる",
   "en": "◆ Quick Start\n\nAllows you to have characters begin acting\nwithout having decided each of their\nactions individually.\n\n\n\n\n\n\n\nThose characters who have not had their\nactions selected will be automatically put\non Standby.",
-  "zh": ""
+  "zh": "◆强制开始\n\n无需决定全体角色的行动，\n直接就地开始行动的菜单\n\n未选择行动的角色\n将会就地待机"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4030200/0",
@@ -235275,7 +235275,7 @@
   "offset": "539C",
   "jp": "◆オート\n\nキャラクターを自動で動かすメニュー\n\n１ターンの間、キャラクターは自分で考え\n行動する",
   "en": "◆ Auto\n\nAutomatically moves the characters.\n\nCharacters set to Auto will choose their\npositions and Actions by themselves\nfor that turn.",
-  "zh": ""
+  "zh": "◆自动\n\n让角色自动行动的菜单\n\n在1个回合内，角色将自行思考\n并采取行动"
  },
  {
   "id": "OTHER/NEWMENUHELP.BIN/4030300/0",
@@ -235284,7 +235284,7 @@
   "offset": "540C",
   "jp": "◆エスケープ\n\n戦闘を放棄し、逃げ出すメニュー\n\n必ず成功するが、キャラクターのＶＰは\n減少してしまう",
   "en": "◆ Escape\n\nAllows you to forfeit and escape from a\nbattle.\n\nAllows you to escape every time, but will\ntake away some of the characters' VP. ",
-  "zh": ""
+  "zh": "◆逃跑\n\n放弃战斗并逃走的菜单\n\n虽然必定成功，但角色的VP\n将会减少"
  },
  {
   "id": "OTHER/OPENING.BIN/1/0",
