@@ -253743,7 +253743,7 @@
   "offset": "14",
   "jp": "・ルール\n\n　１．チップを払ってベットする\n　　　ラインを決定します\n\n　２．ライン上に同じ絵柄がそろうと\n　　　役になります\n\n　３．そろった絵柄により\n　　　チップが払い戻されます",
   "en": "• Rules\n\n 1. Pay chips to determine the line\n 　 where the bet will be placed\n\n 2. The goal is to have the same patterns\n 　 match across the line\n\n 3. Chips are rewarded according to\n 　 what degree the patterns matched",
-  "zh": ""
+  "zh": "・规则\n\n　１．支付筹码决定要下注的\n　　　赔付线\n\n　２．赔付线上凑齐相同的图案\n　　　即可达成中奖组合\n\n　３．根据凑齐的图案\n　　　赔付相应的筹码"
  },
  {
   "id": "OTHER/SLOTDESC.BIN/2/0",
@@ -253752,7 +253752,7 @@
   "offset": "CE",
   "jp": "・遊び方\n\n　１．方向キーでベットする\n　　　チップ数を選びます\n\n　２．①でスロットが回転します\n\n　３．①を押すとリールが\n　　　左から順番に停止します\n　　　３つのリールを停止すると終了です",
   "en": "• How to Play \n\n 1. Use the left stick to select the\n 　 number of chips to bet\n\n 2. Press ① to spin the slots\n \n 3. The reels will stop from left to\n    right when ① is pressed.\n    The game is over after all three\n    reels stop",
-  "zh": ""
+  "zh": "・玩法说明\n\n　１．使用方向键选择要下注的\n　　　筹码数量\n\n　２．按①转动老虎机\n\n　３．按①转轮将\n　　　从左到右依次停止\n　　　３个转轮全部停止即为结束"
  },
  {
   "id": "OTHER/STAFF.TXT/1/0",
