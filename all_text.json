@@ -258117,7 +258117,7 @@
   "offset": "B48",
   "jp": "ゲームのデータを保存します",
   "en": "Save game data.",
-  "zh": ""
+  "zh": "保存游戏数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/10203",
@@ -258126,7 +258126,7 @@
   "offset": "B64",
   "jp": "ゲームのデータを読み込みます",
   "en": "Load game data.",
-  "zh": ""
+  "zh": "读取游戏数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/10204",
@@ -258135,7 +258135,7 @@
   "offset": "B82",
   "jp": "画面の明るさやテキスト表示など、ゲームの設定を行います",
   "en": "Change game settings including brightness and text display.",
-  "zh": ""
+  "zh": "进行画面亮度及文本显示等游戏设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/10205",
@@ -258144,7 +258144,7 @@
   "offset": "BBA",
   "jp": "音量の設定を行います",
   "en": "Change volume settings.",
-  "zh": ""
+  "zh": "进行音量设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/10206",
@@ -258153,7 +258153,7 @@
   "offset": "BD0",
   "jp": "HDDに保存されているデータの削除を行います",
   "en": "Delete data saved to the HDD.",
-  "zh": ""
+  "zh": "删除保存在硬盘中的数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/10207",
@@ -258162,7 +258162,7 @@
   "offset": "BFE",
   "jp": "ゲームを終了し、タイトルに戻ります",
   "en": "Quit game and return to Title Screen.",
-  "zh": ""
+  "zh": "结束游戏并返回标题画面"
  },
  {
   "id": "FMG/LINEHELP.FMG/10410",
@@ -258171,7 +258171,7 @@
   "offset": "C22",
   "jp": "選択した場所にゲームプレイを保存します",
   "en": "Save the game at the selected location.",
-  "zh": ""
+  "zh": "将游戏进度保存至所选位置"
  },
  {
   "id": "FMG/LINEHELP.FMG/10411",
@@ -258180,7 +258180,7 @@
   "offset": "C4A",
   "jp": "選択した場所のゲームプレイを読み込みます",
   "en": "Load the selected data.",
-  "zh": ""
+  "zh": "读取所选位置的游戏进度"
  },
  {
   "id": "FMG/LINEHELP.FMG/20002",
@@ -258189,7 +258189,7 @@
   "offset": "C74",
   "jp": "パーティを組むキャラクターを決定します",
   "en": "Select party characters.",
-  "zh": ""
+  "zh": "决定组成队伍的角色"
  },
  {
   "id": "FMG/LINEHELP.FMG/20003",
@@ -258198,7 +258198,7 @@
   "offset": "C9C",
   "jp": "キャラクター情報の確認、装備変更、キャラクター強化を行います",
   "en": "Check / strengthen characters and change equipment.",
-  "zh": ""
+  "zh": "查看角色信息、更换装备以及强化角色"
  },
  {
   "id": "FMG/LINEHELP.FMG/20004",
@@ -258207,7 +258207,7 @@
   "offset": "CDA",
   "jp": "ＳＰを用いてキャラクターを成長させます",
   "en": "Use SP to improve character's parameters.",
-  "zh": ""
+  "zh": "消耗SP让角色成长"
  },
  {
   "id": "FMG/LINEHELP.FMG/20005",
@@ -258216,7 +258216,7 @@
   "offset": "D02",
   "jp": "スキルの習得、装備、確認を行います",
   "en": "Learn, equip and check skills.",
-  "zh": ""
+  "zh": "学习、装备以及查看技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20006",
@@ -258225,7 +258225,7 @@
   "offset": "D26",
   "jp": "アイテムの使用、情報の確認を行います",
   "en": "Use / check items.",
-  "zh": ""
+  "zh": "使用道具及查看道具信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/20007",
@@ -258234,7 +258234,7 @@
   "offset": "D4C",
   "jp": "敵情報、ゲームの記録、ヘルプ情報を確認します",
   "en": "View enemy info, game records and help.",
-  "zh": ""
+  "zh": "查看敌人情报、游戏记录以及帮助信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/20008",
@@ -258243,7 +258243,7 @@
   "offset": "D7A",
   "jp": "今までのゲームプレイを保存します",
   "en": "Save game progress.",
-  "zh": ""
+  "zh": "保存至今为止的游戏进度"
  },
  {
   "id": "FMG/LINEHELP.FMG/20009",
@@ -258252,7 +258252,7 @@
   "offset": "D9C",
   "jp": "保存したゲームプレイを読み込みます",
   "en": "Load saved game.",
-  "zh": ""
+  "zh": "读取已保存的游戏进度"
  },
  {
   "id": "FMG/LINEHELP.FMG/20010",
@@ -258261,7 +258261,7 @@
   "offset": "DC0",
   "jp": "システム設定の変更やデータ削除を行います",
   "en": "Change system settings and delete data.",
-  "zh": ""
+  "zh": "更改系统设置及删除数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/20011",
@@ -258270,7 +258270,7 @@
   "offset": "DEA",
   "jp": "HDDに保存されているデータの削除を行います",
   "en": "Delete data saved to the HDD.",
-  "zh": ""
+  "zh": "删除保存在硬盘中的数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/20051",
@@ -258279,7 +258279,7 @@
   "offset": "E18",
   "jp": "一度行ったことのある場所の敵情報を確認します",
   "en": "View enemy information for locations you have visited.",
-  "zh": ""
+  "zh": "查看去过的地点的敌人情报"
  },
  {
   "id": "FMG/LINEHELP.FMG/20052",
@@ -258288,7 +258288,7 @@
   "offset": "E46",
   "jp": "ゲームに関するさまざまな記録を見ます",
   "en": "View various game records.",
-  "zh": ""
+  "zh": "查看与游戏相关的各项记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/20053",
@@ -258297,7 +258297,7 @@
   "offset": "E6C",
   "jp": "ゲームの進め方や、用語について確認します",
   "en": "Learn how to play the game and a glossary of game terms.",
-  "zh": ""
+  "zh": "确认游戏进行方式及相关用语"
  },
  {
   "id": "FMG/LINEHELP.FMG/20101",
@@ -258306,7 +258306,7 @@
   "offset": "E96",
   "jp": "使用するアイテムを選択します",
   "en": "Select an item to use.",
-  "zh": ""
+  "zh": "选择要使用的道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/20130",
@@ -258315,7 +258315,7 @@
   "offset": "EB4",
   "jp": "選択したキャラクターにアイテムを使用します",
   "en": "Use an item with the selected character.",
-  "zh": ""
+  "zh": "对所选角色使用道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/20150",
@@ -258324,7 +258324,7 @@
   "offset": "EE0",
   "jp": "使用できるアイテムがありません",
   "en": "No useable item found.",
-  "zh": ""
+  "zh": "没有可使用的道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/20210",
@@ -258333,7 +258333,7 @@
   "offset": "F00",
   "jp": "選択した項目を確認します",
   "en": "Check selected category.",
-  "zh": ""
+  "zh": "确认所选项目"
  },
  {
   "id": "FMG/LINEHELP.FMG/20211",
@@ -258342,7 +258342,7 @@
   "offset": "F1A",
   "jp": "戦闘の練習をします",
   "en": "Practice combat.",
-  "zh": ""
+  "zh": "进行战斗练习"
  },
  {
   "id": "FMG/LINEHELP.FMG/20212",
@@ -258351,7 +258351,7 @@
   "offset": "F2E",
   "jp": "用語の確認をします",
   "en": "Check terminology.",
-  "zh": ""
+  "zh": "确认相关用语"
  },
  {
   "id": "FMG/LINEHELP.FMG/20214",
@@ -258360,7 +258360,7 @@
   "offset": "F42",
   "jp": "選択中の項目の説明です",
   "en": "Explanation of selected category.",
-  "zh": ""
+  "zh": "当前选中项目的说明"
  },
  {
   "id": "FMG/LINEHELP.FMG/20215",
@@ -258369,7 +258369,7 @@
   "offset": "F5A",
   "jp": "基本的な戦闘の練習をします",
   "en": "Practice basic combat.",
-  "zh": ""
+  "zh": "进行基础战斗练习"
  },
  {
   "id": "FMG/LINEHELP.FMG/20216",
@@ -258378,7 +258378,7 @@
   "offset": "F76",
   "jp": "応用的な戦闘の練習をします",
   "en": "Practice advanced combat.",
-  "zh": ""
+  "zh": "进行进阶战斗练习"
  },
  {
   "id": "FMG/LINEHELP.FMG/20450",
@@ -258387,7 +258387,7 @@
   "offset": "F92",
   "jp": "選択したエリアの敵情報を確認します",
   "en": "View enemy data for selected area.",
-  "zh": ""
+  "zh": "查看所选区域的敌人情报"
  },
  {
   "id": "FMG/LINEHELP.FMG/20451",
@@ -258396,7 +258396,7 @@
   "offset": "FB6",
   "jp": "このエリアに移動します",
   "en": "Move to this area.",
-  "zh": ""
+  "zh": "移动至该区域"
  },
  {
   "id": "FMG/LINEHELP.FMG/20452",
@@ -258405,7 +258405,7 @@
   "offset": "FCE",
   "jp": "このエリアの敵情報を確認します",
   "en": "View enemy data for this area.",
-  "zh": ""
+  "zh": "查看该区域的敌人情报"
  },
  {
   "id": "FMG/LINEHELP.FMG/20640",
@@ -258414,7 +258414,7 @@
   "offset": "FEE",
   "jp": "敵の詳細情報を確認します",
   "en": "View enemy details.",
-  "zh": ""
+  "zh": "查看敌人的详细情报"
  },
  {
   "id": "FMG/LINEHELP.FMG/20641",
@@ -258423,7 +258423,7 @@
   "offset": "1008",
   "jp": "敵の詳細情報です",
   "en": "Enemy details.",
-  "zh": ""
+  "zh": "敌人的详细情报"
  },
  {
   "id": "FMG/LINEHELP.FMG/20642",
@@ -258432,7 +258432,7 @@
   "offset": "101A",
   "jp": "敵の情報がありません",
   "en": "No enemy data .",
-  "zh": ""
+  "zh": "没有敌人信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/20651",
@@ -258441,7 +258441,7 @@
   "offset": "1030",
   "jp": "選択したキャラクターの状態の確認、装備の変更などを行います",
   "en": "Check selected character's status and change equipment.",
-  "zh": ""
+  "zh": "查看所选角色的状态、变更装备等"
  },
  {
   "id": "FMG/LINEHELP.FMG/20707",
@@ -258450,7 +258450,7 @@
   "offset": "106C",
   "jp": "キャラクターの詳細情報です",
   "en": "View detailed character info.",
-  "zh": ""
+  "zh": "角色的详细信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/20708",
@@ -258459,7 +258459,7 @@
   "offset": "1088",
   "jp": "選択したパラメータを成長させます",
   "en": "Improve selected character's parameters.",
-  "zh": ""
+  "zh": "提升所选的属性参数"
  },
  {
   "id": "FMG/LINEHELP.FMG/20709",
@@ -258468,7 +258468,7 @@
   "offset": "10AA",
   "jp": "キャラクターの説明です",
   "en": "Character description.",
-  "zh": ""
+  "zh": "角色介绍说明"
  },
  {
   "id": "FMG/LINEHELP.FMG/20802",
@@ -258477,7 +258477,7 @@
   "offset": "10C2",
   "jp": "キャラクターの詳細情報を確認します",
   "en": "Check character details.",
-  "zh": ""
+  "zh": "确认角色的详细信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/20803",
@@ -258486,7 +258486,7 @@
   "offset": "10E6",
   "jp": "武器の装備を行います",
   "en": "Equip weapons.",
-  "zh": ""
+  "zh": "进行武器装备"
  },
  {
   "id": "FMG/LINEHELP.FMG/20804",
@@ -258495,7 +258495,7 @@
   "offset": "10FC",
   "jp": "このキャラクターの説明を見ます",
   "en": "View character description.",
-  "zh": ""
+  "zh": "查看该角色的说明"
  },
  {
   "id": "FMG/LINEHELP.FMG/20805",
@@ -258504,7 +258504,7 @@
   "offset": "111C",
   "jp": "ＳＰを用いてキャラクターを成長させます",
   "en": "Use SP to improve character's parameters.",
-  "zh": ""
+  "zh": "消耗ＳＰ让角色成长"
  },
  {
   "id": "FMG/LINEHELP.FMG/20806",
@@ -258513,7 +258513,7 @@
   "offset": "1144",
   "jp": "スキルの習得、装備を行います",
   "en": "Learn and equip skills.",
-  "zh": ""
+  "zh": "进行技能的习得与装备"
  },
  {
   "id": "FMG/LINEHELP.FMG/20807",
@@ -258522,7 +258522,7 @@
   "offset": "1162",
   "jp": "ゴーレムの名称を変更します",
   "en": "Change Golem name.",
-  "zh": ""
+  "zh": "更改魔像的名称"
  },
  {
   "id": "FMG/LINEHELP.FMG/20808",
@@ -258531,7 +258531,7 @@
   "offset": "117E",
   "jp": "ダミー",
   "en": "Dummy",
-  "zh": ""
+  "zh": "虚拟数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/20809",
@@ -258540,7 +258540,7 @@
   "offset": "1186",
   "jp": "スキルの習得、確認を行います",
   "en": "Learn and check skills.",
-  "zh": ""
+  "zh": "进行技能的习得与确认"
  },
  {
   "id": "FMG/LINEHELP.FMG/20810",
@@ -258549,7 +258549,7 @@
   "offset": "11A4",
   "jp": "キャラクターの詳細情報です",
   "en": "Detailed character information.",
-  "zh": ""
+  "zh": "角色的详细信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/20902",
@@ -258558,7 +258558,7 @@
   "offset": "11C0",
   "jp": "ＳＰを用いてスキルを習得します",
   "en": "Use SP to learn new skills.",
-  "zh": ""
+  "zh": "消耗ＳＰ习得技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20903",
@@ -258567,7 +258567,7 @@
   "offset": "11E0",
   "jp": "戦闘で使用するスキルを装備します",
   "en": "Equip skills to use during battle.",
-  "zh": ""
+  "zh": "装备战斗中使用的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20904",
@@ -258576,7 +258576,7 @@
   "offset": "1202",
   "jp": "習得したいスキルの種類を選択してください",
   "en": "Select the type of skill you want to learn.",
-  "zh": ""
+  "zh": "请选择想要习得的技能种类"
  },
  {
   "id": "FMG/LINEHELP.FMG/20905",
@@ -258585,7 +258585,7 @@
   "offset": "122C",
   "jp": "戦闘で使用するスキルを確認します",
   "en": "Check skills that can be used during battle.",
-  "zh": ""
+  "zh": "确认战斗中使用的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20920",
@@ -258594,7 +258594,7 @@
   "offset": "124E",
   "jp": "選択した種類のスキルを習得します",
   "en": "Learn a skill of the selected type.",
-  "zh": ""
+  "zh": "习得所选种类的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20921",
@@ -258603,7 +258603,7 @@
   "offset": "1270",
   "jp": "選択した種類のスキルを習得・確認します",
   "en": "Learn / check a skill of the selected type.",
-  "zh": ""
+  "zh": "习得·确认所选种类的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20922",
@@ -258612,7 +258612,7 @@
   "offset": "1298",
   "jp": "選択した種類のスキルを確認します",
   "en": "Check a skill of the selected type.",
-  "zh": ""
+  "zh": "确认所选种类的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20923",
@@ -258621,7 +258621,7 @@
   "offset": "12BA",
   "jp": "習得可能なスキルがありません",
   "en": "No learnable skills.",
-  "zh": ""
+  "zh": "没有可习得的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20924",
@@ -258630,7 +258630,7 @@
   "offset": "12D8",
   "jp": "装備しているスキルがありません",
   "en": "No skills equipped.",
-  "zh": ""
+  "zh": "未装备任何技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20925",
@@ -258639,7 +258639,7 @@
   "offset": "12F8",
   "jp": "装備しているＥＸがありません",
   "en": "No EX equipped.",
-  "zh": ""
+  "zh": "未装备任何ＥＸ"
  },
  {
   "id": "FMG/LINEHELP.FMG/20926",
@@ -258648,7 +258648,7 @@
   "offset": "1316",
   "jp": "装備スキルをはずします",
   "en": "Remove equipped skills.",
-  "zh": ""
+  "zh": "卸下装备的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20927",
@@ -258657,7 +258657,7 @@
   "offset": "132E",
   "jp": "選択したキャラクターにたいして、スキルの習得、装備を行います",
   "en": "Learn and equip skills for selected character.",
-  "zh": ""
+  "zh": "对所选角色进行技能习得与装备"
  },
  {
   "id": "FMG/LINEHELP.FMG/20928",
@@ -258666,7 +258666,7 @@
   "offset": "136C",
   "jp": "選択したキャラクターにたいして、スキルの確認を行います",
   "en": "Check skills for selected character.",
-  "zh": ""
+  "zh": "确认所选角色的技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/20929",
@@ -258675,7 +258675,7 @@
   "offset": "13A4",
   "jp": "選択したキャラクターにたいして、ＳＰを用いた成長を行います",
   "en": "Use SP to increase selected character's parameters.",
-  "zh": ""
+  "zh": "消耗ＳＰ对所选角色进行属性提升"
  },
  {
   "id": "FMG/LINEHELP.FMG/21002",
@@ -258684,7 +258684,7 @@
   "offset": "13E0",
   "jp": "ＳＰを用いてアビリティを習得します",
   "en": "Use SP to learn new abilities.",
-  "zh": ""
+  "zh": "消耗ＳＰ习得能力"
  },
  {
   "id": "FMG/LINEHELP.FMG/21003",
@@ -258693,7 +258693,7 @@
   "offset": "1404",
   "jp": "使用するアビリティを選択します",
   "en": "Select the ability to use.",
-  "zh": ""
+  "zh": "选择要使用的能力"
  },
  {
   "id": "FMG/LINEHELP.FMG/21352",
@@ -258702,7 +258702,7 @@
   "offset": "1424",
   "jp": "パーティを組むキャラクターを入れ替えます",
   "en": "Switch party characters.",
-  "zh": ""
+  "zh": "更换编入队伍的角色"
  },
  {
   "id": "FMG/LINEHELP.FMG/21353",
@@ -258711,7 +258711,7 @@
   "offset": "144E",
   "jp": "キャラクターの配置を変更します",
   "en": "Change character positions.",
-  "zh": ""
+  "zh": "变更角色的站位配置"
  },
  {
   "id": "FMG/LINEHELP.FMG/21402",
@@ -258720,7 +258720,7 @@
   "offset": "146E",
   "jp": "現在の変更結果を保存して、位置変更を終了します",
   "en": "Save changes and quit position change.",
-  "zh": ""
+  "zh": "保存当前变更结果并退出位置调整"
  },
  {
   "id": "FMG/LINEHELP.FMG/21403",
@@ -258729,7 +258729,7 @@
   "offset": "149E",
   "jp": "現在の変更結果を保存せずに、位置変更を終了します",
   "en": "Quit position change without saving changes.",
-  "zh": ""
+  "zh": "不保存当前变更结果并退出位置调整"
  },
  {
   "id": "FMG/LINEHELP.FMG/21404",
@@ -258738,7 +258738,7 @@
   "offset": "14D0",
   "jp": "位置を元に戻します",
   "en": "Return to previous position.",
-  "zh": ""
+  "zh": "恢复初始位置"
  },
  {
   "id": "FMG/LINEHELP.FMG/21502",
@@ -258747,7 +258747,7 @@
   "offset": "14E4",
   "jp": "補助アイテムを使用します",
   "en": "Use a support item.",
-  "zh": ""
+  "zh": "使用辅助道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/21503",
@@ -258756,7 +258756,7 @@
   "offset": "14FE",
   "jp": "アイテムの確認・並べ替えをします",
   "en": "Check / sort items.",
-  "zh": ""
+  "zh": "查看・整理道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/21504",
@@ -258765,7 +258765,7 @@
   "offset": "1520",
   "jp": "種類順に並べ替えます",
   "en": "Sort by type.",
-  "zh": ""
+  "zh": "按种类排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/21505",
@@ -258774,7 +258774,7 @@
   "offset": "1536",
   "jp": "所持数が多い順に並べ替えます",
   "en": "Sort by number held.",
-  "zh": ""
+  "zh": "按持有数量从多到少排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/21506",
@@ -258783,7 +258783,7 @@
   "offset": "1554",
   "jp": "名前順に並べ替えます",
   "en": "Sort by name.",
-  "zh": ""
+  "zh": "按名称排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/21602",
@@ -258792,7 +258792,7 @@
   "offset": "156A",
   "jp": "ストーリーの流れを確認します",
   "en": "Check progress of the story.",
-  "zh": ""
+  "zh": "查看剧情进展"
  },
  {
   "id": "FMG/LINEHELP.FMG/21603",
@@ -258801,7 +258801,7 @@
   "offset": "1588",
   "jp": "ゲームのいろいろな記録を確認します",
   "en": "View various game records.",
-  "zh": ""
+  "zh": "查看各项游戏记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/21604",
@@ -258810,7 +258810,7 @@
   "offset": "15AC",
   "jp": "ミニゲームの成績を確認します",
   "en": "View mini-game results.",
-  "zh": ""
+  "zh": "查看小游戏成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/21605",
@@ -258819,7 +258819,7 @@
   "offset": "15CA",
   "jp": "タイムラインのイベント内容を確認します",
   "en": "View a time line of events.",
-  "zh": ""
+  "zh": "查看时间线上的事件内容"
  },
  {
   "id": "FMG/LINEHELP.FMG/21612",
@@ -258828,7 +258828,7 @@
   "offset": "15F2",
   "jp": "現在までの勝敗回数です",
   "en": "Total number of wins.",
-  "zh": ""
+  "zh": "截至目前的胜负场数"
  },
  {
   "id": "FMG/LINEHELP.FMG/21613",
@@ -258837,7 +258837,7 @@
   "offset": "160A",
   "jp": "現在までの発生回数です",
   "en": "Total number of occurrences.",
-  "zh": ""
+  "zh": "截至目前的发生次数"
  },
  {
   "id": "FMG/LINEHELP.FMG/21614",
@@ -258846,7 +258846,7 @@
   "offset": "1622",
   "jp": "現在までの撃破数です",
   "en": "Total number of enemies defeated.",
-  "zh": ""
+  "zh": "截至目前的击破数"
  },
  {
   "id": "FMG/LINEHELP.FMG/21615",
@@ -258855,7 +258855,7 @@
   "offset": "1638",
   "jp": "現在までのスキル戦歴です",
   "en": "Skill use history.",
-  "zh": ""
+  "zh": "截至目前的技能战历"
  },
  {
   "id": "FMG/LINEHELP.FMG/21622",
@@ -258864,7 +258864,7 @@
   "offset": "1652",
   "jp": "ゴーレムバトルの記録です",
   "en": "Golem Battle records.",
-  "zh": ""
+  "zh": "魔像对战的记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/21623",
@@ -258873,7 +258873,7 @@
   "offset": "166C",
   "jp": "ビンゴの記録です",
   "en": "Bingo records.",
-  "zh": ""
+  "zh": "宾果游戏的记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/21624",
@@ -258882,7 +258882,7 @@
   "offset": "167E",
   "jp": "スロットゲームの記録です",
   "en": "Slot machine records.",
-  "zh": ""
+  "zh": "老虎机游戏的记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/21625",
@@ -258891,7 +258891,7 @@
   "offset": "1698",
   "jp": "ルーレットの記録です",
   "en": "Roulette records.",
-  "zh": ""
+  "zh": "轮盘赌的记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/21626",
@@ -258900,7 +258900,7 @@
   "offset": "16AE",
   "jp": "アームレスリングの記録です",
   "en": "Arm wrestling records.",
-  "zh": ""
+  "zh": "掰手腕的记录"
  },
  {
   "id": "FMG/LINEHELP.FMG/21631",
@@ -258909,7 +258909,7 @@
   "offset": "16CA",
   "jp": "選択したイベントを確認します",
   "en": "View selected event.",
-  "zh": ""
+  "zh": "查看所选事件"
  },
  {
   "id": "FMG/LINEHELP.FMG/21641",
@@ -258918,7 +258918,7 @@
   "offset": "16E8",
   "jp": "イベントの詳細です",
   "en": "Event details.",
-  "zh": ""
+  "zh": "事件详情"
  },
  {
   "id": "FMG/LINEHELP.FMG/30002",
@@ -258927,7 +258927,7 @@
   "offset": "16FC",
   "jp": "行動を決定したメンバーだけで開始します",
   "en": "Start turn without moving remaining characters.",
-  "zh": ""
+  "zh": "仅以已决定行动的队员开始回合"
  },
  {
   "id": "FMG/LINEHELP.FMG/30003",
@@ -258936,7 +258936,7 @@
   "offset": "1724",
   "jp": "自動で戦闘を行ないます",
   "en": "Fight automatically.",
-  "zh": ""
+  "zh": "自动进行战斗"
  },
  {
   "id": "FMG/LINEHELP.FMG/30004",
@@ -258945,7 +258945,7 @@
   "offset": "173C",
   "jp": "戦闘から確実に逃亡します",
   "en": "Run away from battle (100% success rate).",
-  "zh": ""
+  "zh": "必定从战斗中逃跑"
  },
  {
   "id": "FMG/LINEHELP.FMG/30005",
@@ -258954,7 +258954,7 @@
   "offset": "1756",
   "jp": "待機しているパーティと交代します",
   "en": "Switch with waiting characters.",
-  "zh": ""
+  "zh": "与待命队伍换人"
  },
  {
   "id": "FMG/LINEHELP.FMG/30006",
@@ -258963,7 +258963,7 @@
   "offset": "1778",
   "jp": "敵の情報を参照します",
   "en": "View enemy data.",
-  "zh": ""
+  "zh": "查看敌人信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/30101",
@@ -258972,7 +258972,7 @@
   "offset": "178E",
   "jp": "キャラクターを決定します",
   "en": "Select character.",
-  "zh": ""
+  "zh": "确定角色"
  },
  {
   "id": "FMG/LINEHELP.FMG/30102",
@@ -258981,7 +258981,7 @@
   "offset": "17A8",
   "jp": "移動位置を決定します",
   "en": "Select movement position.",
-  "zh": ""
+  "zh": "确定移动位置"
  },
  {
   "id": "FMG/LINEHELP.FMG/30103",
@@ -258990,7 +258990,7 @@
   "offset": "17BE",
   "jp": "攻撃位置を決定します",
   "en": "Select attack target.",
-  "zh": ""
+  "zh": "确定攻击位置"
  },
  {
   "id": "FMG/LINEHELP.FMG/30302",
@@ -258999,7 +258999,7 @@
   "offset": "17D4",
   "jp": "戦闘前からやり直します",
   "en": "Retry from the start of the battle.",
-  "zh": ""
+  "zh": "从战前重新开始"
  },
  {
   "id": "FMG/LINEHELP.FMG/30303",
@@ -259008,7 +259008,7 @@
   "offset": "17EC",
   "jp": "保存したゲームプレイを読み込みます",
   "en": "Load a previously saved game.",
-  "zh": ""
+  "zh": "读取已保存的存档"
  },
  {
   "id": "FMG/LINEHELP.FMG/30304",
@@ -259017,7 +259017,7 @@
   "offset": "1810",
   "jp": "ゲームを終了し、タイトルに戻ります",
   "en": "End the game and return to the title screen.",
-  "zh": ""
+  "zh": "结束游戏，返回标题画面"
  },
  {
   "id": "FMG/LINEHELP.FMG/30502",
@@ -259026,7 +259026,7 @@
   "offset": "1834",
   "jp": "大きな戦闘の流れについて説明します",
   "en": "Explains the overall flow of combat.",
-  "zh": ""
+  "zh": "解说战斗的大致流程"
  },
  {
   "id": "FMG/LINEHELP.FMG/30503",
@@ -259035,7 +259035,7 @@
   "offset": "1858",
   "jp": "画面に表示されている情報の意味と役割を説明します",
   "en": "Explains the meaning of all on-screen information.",
-  "zh": ""
+  "zh": "解说画面上所显示信息的含义与作用"
  },
  {
   "id": "FMG/LINEHELP.FMG/30504",
@@ -259044,7 +259044,7 @@
   "offset": "188A",
   "jp": "キャラクターへの指示の出し方を説明します",
   "en": "Explains how to give commands to your characters.",
-  "zh": ""
+  "zh": "解说对角色下达指令的方法"
  },
  {
   "id": "FMG/LINEHELP.FMG/30505",
@@ -259053,7 +259053,7 @@
   "offset": "18B4",
   "jp": "チュートリアルを終了します",
   "en": "Exit the tutorial.",
-  "zh": ""
+  "zh": "结束新手教学"
  },
  {
   "id": "FMG/LINEHELP.FMG/30512",
@@ -259062,7 +259062,7 @@
   "offset": "18D0",
   "jp": "ＥＸスキルの使い方について説明します",
   "en": "Explains how to use EX Skills.",
-  "zh": ""
+  "zh": "说明EX技能的使用方法"
  },
  {
   "id": "FMG/LINEHELP.FMG/30513",
@@ -259071,7 +259071,7 @@
   "offset": "18F6",
   "jp": "アイテムの使い方について説明します",
   "en": "Explains how to use items.",
-  "zh": ""
+  "zh": "说明道具的使用方法"
  },
  {
   "id": "FMG/LINEHELP.FMG/30514",
@@ -259080,7 +259080,7 @@
   "offset": "191A",
   "jp": "属性の役割と効果について説明します",
   "en": "Explains attributes and their properties.",
-  "zh": ""
+  "zh": "说明属性的作用与效果"
  },
  {
   "id": "FMG/LINEHELP.FMG/30515",
@@ -259089,7 +259089,7 @@
   "offset": "193E",
   "jp": "連携攻撃の出し方と効果について説明します",
   "en": "Explains all about combination attacks.",
-  "zh": ""
+  "zh": "说明连携攻击的发动方法与效果"
  },
  {
   "id": "FMG/LINEHELP.FMG/30516",
@@ -259098,7 +259098,7 @@
   "offset": "1968",
   "jp": "オーバーブレイクの出し方と効果について説明します",
   "en": "Explains all about over-breaks.",
-  "zh": ""
+  "zh": "说明极限破防的发动方法与效果"
  },
  {
   "id": "FMG/LINEHELP.FMG/30517",
@@ -259107,7 +259107,7 @@
   "offset": "199A",
   "jp": "直接攻撃スキルと間接攻撃スキルの違いについて説明します",
   "en": "Explains the difference between close and ranged attacks.",
-  "zh": ""
+  "zh": "说明直接攻击技能与间接攻击技能的区别"
  },
  {
   "id": "FMG/LINEHELP.FMG/30518",
@@ -259116,7 +259116,7 @@
   "offset": "19D2",
   "jp": "戦闘中にキャラクターのＨＰが０になったときの対処について説明します",
   "en": "Explains how to deal with a character's HP falling to 0.",
-  "zh": ""
+  "zh": "说明战斗中角色HP归0时的应对方法"
  },
  {
   "id": "FMG/LINEHELP.FMG/30519",
@@ -259125,7 +259125,7 @@
   "offset": "1A16",
   "jp": "全体コマンドについて説明します",
   "en": "Explains overall commands.",
-  "zh": ""
+  "zh": "说明全体指令"
  },
  {
   "id": "FMG/LINEHELP.FMG/30520",
@@ -259134,7 +259134,7 @@
   "offset": "1A36",
   "jp": "チュートリアルを終了します",
   "en": "Exit the tutorial.",
-  "zh": ""
+  "zh": "结束新手教程"
  },
  {
   "id": "FMG/LINEHELP.FMG/40101",
@@ -259143,7 +259143,7 @@
   "offset": "1A52",
   "jp": "アイテムを購入します",
   "en": "Buy items.",
-  "zh": ""
+  "zh": "购买道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/40102",
@@ -259152,7 +259152,7 @@
   "offset": "1A68",
   "jp": "スキルアイテムを購入します",
   "en": "Buy skills.",
-  "zh": ""
+  "zh": "购买技能道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/40103",
@@ -259161,7 +259161,7 @@
   "offset": "1A84",
   "jp": "コアマテリアルを購入します",
   "en": "Buy Core Material.",
-  "zh": ""
+  "zh": "购买核心材料"
  },
  {
   "id": "FMG/LINEHELP.FMG/40104",
@@ -259170,7 +259170,7 @@
   "offset": "1AA0",
   "jp": "所持しているアイテムを売却します",
   "en": "Sell held items.",
-  "zh": ""
+  "zh": "出售所持有的道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/40105",
@@ -259179,7 +259179,7 @@
   "offset": "1AC2",
   "jp": "ゴーレムを合成します",
   "en": "Synthesize Golems.",
-  "zh": ""
+  "zh": "合成魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/40106",
@@ -259188,7 +259188,7 @@
   "offset": "1AD8",
   "jp": "武器を合成します",
   "en": "Synthesize Weapons.",
-  "zh": ""
+  "zh": "合成武器"
  },
  {
   "id": "FMG/LINEHELP.FMG/40107",
@@ -259197,7 +259197,7 @@
   "offset": "1AEA",
   "jp": "連れて行くゴーレムを選択します",
   "en": "Select Golems to take with you.",
-  "zh": ""
+  "zh": "选择要随行的魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/40108",
@@ -259206,7 +259206,7 @@
   "offset": "1B0A",
   "jp": "ゴーレムの名称を変更します",
   "en": "Change Golem names.",
-  "zh": ""
+  "zh": "更改魔像的名称"
  },
  {
   "id": "FMG/LINEHELP.FMG/40301",
@@ -259215,7 +259215,7 @@
   "offset": "1B26",
   "jp": "購入する数を選択してください",
   "en": "Select amount to buy.",
-  "zh": ""
+  "zh": "请选择购买数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/40302",
@@ -259224,7 +259224,7 @@
   "offset": "1B44",
   "jp": "売却する数を選択してください",
   "en": "Select amount to sell.",
-  "zh": ""
+  "zh": "请选择出售数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41000",
@@ -259233,7 +259233,7 @@
   "offset": "1B62",
   "jp": "購入する数を選択してください",
   "en": "Select amount to buy.",
-  "zh": ""
+  "zh": "请选择购买数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41001",
@@ -259242,7 +259242,7 @@
   "offset": "1B80",
   "jp": "購入する数を選択してください",
   "en": "Select amount to buy.",
-  "zh": ""
+  "zh": "请选择购买数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41002",
@@ -259251,7 +259251,7 @@
   "offset": "1B9E",
   "jp": "購入する数を選択してください",
   "en": "Select amount to buy.",
-  "zh": ""
+  "zh": "请选择购买数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41003",
@@ -259260,7 +259260,7 @@
   "offset": "1BBC",
   "jp": "売却する数を選択してください",
   "en": "Select amount to sell.",
-  "zh": ""
+  "zh": "请选择出售数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41004",
@@ -259269,7 +259269,7 @@
   "offset": "1BDA",
   "jp": "交換する数を選択してください",
   "en": "Select amount to exchange.",
-  "zh": ""
+  "zh": "请选择兑换数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41005",
@@ -259278,7 +259278,7 @@
   "offset": "1BF8",
   "jp": "購入する数を選択してください",
   "en": "Select amount to buy.",
-  "zh": ""
+  "zh": "请选择购买数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/41020",
@@ -259287,7 +259287,7 @@
   "offset": "1C16",
   "jp": "並び替える方法を選択してください",
   "en": "Select sorting method.",
-  "zh": ""
+  "zh": "请选择排序方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/41021",
@@ -259296,7 +259296,7 @@
   "offset": "1C38",
   "jp": "並び替える方法を選択してください",
   "en": "Select sorting method.",
-  "zh": ""
+  "zh": "请选择排序方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/41022",
@@ -259305,7 +259305,7 @@
   "offset": "1C5A",
   "jp": "並び替える方法を選択してください",
   "en": "Select sorting method.",
-  "zh": ""
+  "zh": "请选择排序方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/41023",
@@ -259314,7 +259314,7 @@
   "offset": "1C7C",
   "jp": "並び替える方法を選択してください",
   "en": "Select sorting method.",
-  "zh": ""
+  "zh": "请选择排序方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/41024",
@@ -259323,7 +259323,7 @@
   "offset": "1C9E",
   "jp": "並び替える方法を選択してください",
   "en": "Select sorting method.",
-  "zh": ""
+  "zh": "请选择排序方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/41025",
@@ -259332,7 +259332,7 @@
   "offset": "1CC0",
   "jp": "並び替える方法を選択してください",
   "en": "Select sorting method.",
-  "zh": ""
+  "zh": "请选择排序方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/41030",
@@ -259341,7 +259341,7 @@
   "offset": "1CE2",
   "jp": "このアイテムを購入します",
   "en": "Buy this item.",
-  "zh": ""
+  "zh": "购买此道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/41031",
@@ -259350,7 +259350,7 @@
   "offset": "1CFC",
   "jp": "このコアアイテムを購入します",
   "en": "Buy this core item.",
-  "zh": ""
+  "zh": "购买此核心道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/41032",
@@ -259359,7 +259359,7 @@
   "offset": "1D1A",
   "jp": "このスキルを購入します",
   "en": "Buy this skill.",
-  "zh": ""
+  "zh": "购买此技能"
  },
  {
   "id": "FMG/LINEHELP.FMG/41033",
@@ -259368,7 +259368,7 @@
   "offset": "1D32",
   "jp": "このアイテムを売却します",
   "en": "Sell this item.",
-  "zh": ""
+  "zh": "出售此道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/50002",
@@ -259377,7 +259377,7 @@
   "offset": "1D4C",
   "jp": "強化を行います",
   "en": "Performs strengthening.",
-  "zh": ""
+  "zh": "进行强化"
  },
  {
   "id": "FMG/LINEHELP.FMG/50003",
@@ -259386,7 +259386,7 @@
   "offset": "1D5C",
   "jp": "コアマテリアルからゴーレムを作成します",
   "en": "Create a Golem from Core Material.",
-  "zh": ""
+  "zh": "用核心素材制造魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/50004",
@@ -259395,7 +259395,7 @@
   "offset": "1D84",
   "jp": "ゴーレムをコアマテリアルに戻します",
   "en": "Return a Golem to Core Material.",
-  "zh": ""
+  "zh": "将魔像还原为核心素材"
  },
  {
   "id": "FMG/LINEHELP.FMG/50005",
@@ -259404,7 +259404,7 @@
   "offset": "1DA8",
   "jp": "ゴーレムを作成するために必要な材料を表示します",
   "en": "Display Materials required to create a Golem.",
-  "zh": ""
+  "zh": "显示制造魔像所需的材料"
  },
  {
   "id": "FMG/LINEHELP.FMG/50006",
@@ -259413,7 +259413,7 @@
   "offset": "1DD8",
   "jp": "陣形の設定を変更します",
   "en": "Alter formation settings.",
-  "zh": ""
+  "zh": "更改阵形设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/50007",
@@ -259422,7 +259422,7 @@
   "offset": "1DF0",
   "jp": "投資を行います",
   "en": "Bet money.",
-  "zh": ""
+  "zh": "进行下注"
  },
  {
   "id": "FMG/LINEHELP.FMG/50008",
@@ -259431,7 +259431,7 @@
   "offset": "1E00",
   "jp": "コアマテリアルからアイテムを作成します",
   "en": "Create an item from Core Material.",
-  "zh": ""
+  "zh": "用核心素材制造道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/50009",
@@ -259440,7 +259440,7 @@
   "offset": "1E28",
   "jp": "アイテムをコアマテリアルに戻します",
   "en": "Return an item to Core Material.",
-  "zh": ""
+  "zh": "将道具还原为核心素材"
  },
  {
   "id": "FMG/LINEHELP.FMG/50010",
@@ -259449,7 +259449,7 @@
   "offset": "1E4C",
   "jp": "ゴーレムの強化を行います",
   "en": "Strengthen a Golem.",
-  "zh": ""
+  "zh": "强化魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/50011",
@@ -259458,7 +259458,7 @@
   "offset": "1E66",
   "jp": "アイテムの強化を行います",
   "en": "Strengthen an Item.",
-  "zh": ""
+  "zh": "强化道具"
  },
  {
   "id": "FMG/LINEHELP.FMG/50012",
@@ -259467,7 +259467,7 @@
   "offset": "1E80",
   "jp": "選択した武器を合成します",
   "en": "Synthesize selected weapon.",
-  "zh": ""
+  "zh": "合成所选武器"
  },
  {
   "id": "FMG/LINEHELP.FMG/50013",
@@ -259476,7 +259476,7 @@
   "offset": "1E9A",
   "jp": "ステータスの合計値が多い順に並べ替えます　",
   "en": "Sort in order of highest status.",
-  "zh": ""
+  "zh": "按能力值合计从高到低排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50016",
@@ -259485,7 +259485,7 @@
   "offset": "1EC6",
   "jp": "種類順に並べ替えます",
   "en": "Sort by type.",
-  "zh": ""
+  "zh": "按种类排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50020",
@@ -259494,7 +259494,7 @@
   "offset": "1EDC",
   "jp": "選択したゴーレムを入れ替えます",
   "en": "Swap selected Golem.",
-  "zh": ""
+  "zh": "替换所选魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/50021",
@@ -259503,7 +259503,7 @@
   "offset": "1EFC",
   "jp": "このゴーレムをパーティからはずし、ショップに預けます",
   "en": "Remove this Golem from the party and leave it at the Shop.",
-  "zh": ""
+  "zh": "将该魔像移出队伍，寄存在商店"
  },
  {
   "id": "FMG/LINEHELP.FMG/50122",
@@ -259512,7 +259512,7 @@
   "offset": "1F32",
   "jp": "このゴーレムを合成します",
   "en": "Synthesize this Golem.",
-  "zh": ""
+  "zh": "合成该魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/50123",
@@ -259521,7 +259521,7 @@
   "offset": "1F4C",
   "jp": "ゴーレムの詳細情報を確認します",
   "en": "View detailed information on this Golem.",
-  "zh": ""
+  "zh": "确认魔像的详细信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/50124",
@@ -259530,7 +259530,7 @@
   "offset": "1F6C",
   "jp": "このゴーレムの説明を見ます",
   "en": "View a description of this Golem.",
-  "zh": ""
+  "zh": "查看该魔像的说明"
  },
  {
   "id": "FMG/LINEHELP.FMG/50132",
@@ -259539,7 +259539,7 @@
   "offset": "1F88",
   "jp": "ステータスの合計値が多い順に並べ替えます　",
   "en": "Sort in order of highest status.",
-  "zh": ""
+  "zh": "按能力值合计从高到低排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50133",
@@ -259548,7 +259548,7 @@
   "offset": "1FB4",
   "jp": "合成に必要なマテリアル数が多い順に並べ替えます",
   "en": "Sort in order of most Material required to Synthesize.",
-  "zh": ""
+  "zh": "按合成所需素材数量从多到少排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50134",
@@ -259557,7 +259557,7 @@
   "offset": "1FE4",
   "jp": "名前順に並べ替えます",
   "en": "Sort by name.",
-  "zh": ""
+  "zh": "按名称排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50142",
@@ -259566,7 +259566,7 @@
   "offset": "1FFA",
   "jp": "このゴーレムをパーティからはずし、ショップに預けます",
   "en": "Remove this Golem from the party and leave it at the Shop.",
-  "zh": ""
+  "zh": "将该魔像移出队伍，寄存在商店"
  },
  {
   "id": "FMG/LINEHELP.FMG/50143",
@@ -259575,7 +259575,7 @@
   "offset": "2030",
   "jp": "預けておくゴーレムを種類順に並べ替えます",
   "en": "Sort Golems to leave behind by type.",
-  "zh": ""
+  "zh": "将寄存的魔像按种类排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50144",
@@ -259584,7 +259584,7 @@
   "offset": "205A",
   "jp": "預けておくゴーレムをLV順に並べ替えます",
   "en": "Sort Golems to leave behind by LV.",
-  "zh": ""
+  "zh": "将寄存的魔像按等级排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50145",
@@ -259593,7 +259593,7 @@
   "offset": "2084",
   "jp": "預けておくゴーレムをサイズ順に並べ替えます",
   "en": "Sort Golems to leave behind by size.",
-  "zh": ""
+  "zh": "将寄存的魔像按体型排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50146",
@@ -259602,7 +259602,7 @@
   "offset": "20B0",
   "jp": "預けておくゴーレムを名前順に並べ替えます",
   "en": "Sort Golems to leave behind by name.",
-  "zh": ""
+  "zh": "将寄存的魔像按名称排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50147",
@@ -259611,7 +259611,7 @@
   "offset": "20DA",
   "jp": "預けておくゴーレムを属性順に並べ替えます",
   "en": "Sort Golems to leave behind by attribute.",
-  "zh": ""
+  "zh": "将寄存的魔像按属性排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50152",
@@ -259620,7 +259620,7 @@
   "offset": "2104",
   "jp": "種類順に並べ替えます",
   "en": "Sort by type.",
-  "zh": ""
+  "zh": "按种类排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50153",
@@ -259629,7 +259629,7 @@
   "offset": "211A",
   "jp": "合成に必要なマテリアル数が多い順に並べ替えます",
   "en": "Sort in order of most Material required to Synthesize.",
-  "zh": ""
+  "zh": "按合成所需素材数量从多到少排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50154",
@@ -259638,7 +259638,7 @@
   "offset": "214A",
   "jp": "名前順に並べ替えます",
   "en": "Sort by name.",
-  "zh": ""
+  "zh": "按名称排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50155",
@@ -259647,7 +259647,7 @@
   "offset": "2160",
   "jp": "属性順に並べ替えます",
   "en": "Sort by attribute.",
-  "zh": ""
+  "zh": "按属性排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50162",
@@ -259656,7 +259656,7 @@
   "offset": "2176",
   "jp": "種類順に並べ替えます",
   "en": "Sort by type.",
-  "zh": ""
+  "zh": "按种类排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50163",
@@ -259665,7 +259665,7 @@
   "offset": "218C",
   "jp": "LV順に並べ替えます",
   "en": "Sort by LV.",
-  "zh": ""
+  "zh": "按等级排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50164",
@@ -259674,7 +259674,7 @@
   "offset": "21A2",
   "jp": "サイズ順に並べ替えます",
   "en": "Sort by size.",
-  "zh": ""
+  "zh": "按体型排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50165",
@@ -259683,7 +259683,7 @@
   "offset": "21BA",
   "jp": "名前順に並べ替えます",
   "en": "Sort by name.",
-  "zh": ""
+  "zh": "按名称排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50166",
@@ -259692,7 +259692,7 @@
   "offset": "21D0",
   "jp": "属性順に並べ替えます",
   "en": "Sort by attribute.",
-  "zh": ""
+  "zh": "按属性顺序重新排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/50301",
@@ -259701,7 +259701,7 @@
   "offset": "21E6",
   "jp": "ゴーレム生成中です",
   "en": "Synthesizing Golem...",
-  "zh": ""
+  "zh": "魔像生成中"
  },
  {
   "id": "FMG/LINEHELP.FMG/50302",
@@ -259710,7 +259710,7 @@
   "offset": "21FA",
   "jp": "ゴーレムを生成します",
   "en": "Synthesize Golem.",
-  "zh": ""
+  "zh": "生成魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/50304",
@@ -259719,7 +259719,7 @@
   "offset": "2210",
   "jp": "コアマテリアルを選択してゴーレムを作成します",
   "en": "Select Core Material and Synthesize Golem.",
-  "zh": ""
+  "zh": "选择核心素材制作魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/51601",
@@ -259728,7 +259728,7 @@
   "offset": "223E",
   "jp": "合成や詳細ステータスの確認をしたいゴーレムを選択してください",
   "en": "Select Golem to check info and synthesis details for.",
-  "zh": ""
+  "zh": "请选择想要进行合成或确认详细属性的魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/51602",
@@ -259737,7 +259737,7 @@
   "offset": "227C",
   "jp": "種類順に並べ替えます",
   "en": "Sort by type.",
-  "zh": ""
+  "zh": "按种类顺序重新排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/51603",
@@ -259746,7 +259746,7 @@
   "offset": "2292",
   "jp": "合成に必要なタブレット順に並べ替えます",
   "en": "Sort by TB required to synthesize.",
-  "zh": ""
+  "zh": "按合成所需石板排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/51604",
@@ -259755,7 +259755,7 @@
   "offset": "22BA",
   "jp": "合成に必要なマテリアル数が多い順に並べ替えます",
   "en": "Sort in order of most Material required to synthesize.",
-  "zh": ""
+  "zh": "按合成所需素材数量由多到少的顺序重新排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/51605",
@@ -259764,7 +259764,7 @@
   "offset": "22EA",
   "jp": "名前順に並べ替えます",
   "en": "Sort by name.",
-  "zh": ""
+  "zh": "按名称顺序重新排序"
  },
  {
   "id": "FMG/LINEHELP.FMG/51606",
@@ -259773,7 +259773,7 @@
   "offset": "2300",
   "jp": "選択したゴーレムを入替えます",
   "en": "Swap selected Golem.",
-  "zh": ""
+  "zh": "替换选中的魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/51607",
@@ -259782,7 +259782,7 @@
   "offset": "231E",
   "jp": "選択したゴーレムの名称を変更します",
   "en": "Change name of selected Golem.",
-  "zh": ""
+  "zh": "更改选中的魔像名称"
  },
  {
   "id": "FMG/LINEHELP.FMG/51608",
@@ -259791,7 +259791,7 @@
   "offset": "2342",
   "jp": "選択した武器を合成します",
   "en": "Synthesize the selected weapon.",
-  "zh": ""
+  "zh": "合成选中的武器"
  },
  {
   "id": "FMG/LINEHELP.FMG/51611",
@@ -259800,7 +259800,7 @@
   "offset": "235C",
   "jp": "このゴーレムを合成します",
   "en": "Synthesize the selected Golem.",
-  "zh": ""
+  "zh": "合成该魔像"
  },
  {
   "id": "FMG/LINEHELP.FMG/51612",
@@ -259809,7 +259809,7 @@
   "offset": "2376",
   "jp": "このゴーレムの詳細情報を確認します",
   "en": "View this Golem's details.",
-  "zh": ""
+  "zh": "确认该魔像的详细信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/51613",
@@ -259818,7 +259818,7 @@
   "offset": "239A",
   "jp": "このゴーレムの説明を見ます",
   "en": "View a description of this Golem.",
-  "zh": ""
+  "zh": "查看该魔像的说明"
  },
  {
   "id": "FMG/LINEHELP.FMG/51614",
@@ -259827,7 +259827,7 @@
   "offset": "23B6",
   "jp": "%sが仲間になりました",
   "en": "%s joined you!",
-  "zh": ""
+  "zh": "%s加入了队伍"
  },
  {
   "id": "FMG/LINEHELP.FMG/60102",
@@ -259836,7 +259836,7 @@
   "offset": "23CE",
   "jp": "音楽のボリュームを設定します",
   "en": "Change music volume.",
-  "zh": ""
+  "zh": "设置音乐音量"
  },
  {
   "id": "FMG/LINEHELP.FMG/60103",
@@ -259845,7 +259845,7 @@
   "offset": "23EC",
   "jp": "効果音のボリュームを設定します",
   "en": "Change sound effect volume.",
-  "zh": ""
+  "zh": "设置音效音量"
  },
  {
   "id": "FMG/LINEHELP.FMG/60104",
@@ -259854,7 +259854,7 @@
   "offset": "240C",
   "jp": "音声のボリュームを設定します",
   "en": "Change voice volume.",
-  "zh": ""
+  "zh": "设置语音音量"
  },
  {
   "id": "FMG/LINEHELP.FMG/60105",
@@ -259863,7 +259863,7 @@
   "offset": "242A",
   "jp": "音声の言語を設定します",
   "en": "Change voice language.",
-  "zh": ""
+  "zh": "设置语音语言"
  },
  {
   "id": "FMG/LINEHELP.FMG/60402",
@@ -259872,7 +259872,7 @@
   "offset": "2442",
   "jp": "画面の明るさを設定します",
   "en": "Change screen brightness.",
-  "zh": ""
+  "zh": "设置屏幕亮度"
  },
  {
   "id": "FMG/LINEHELP.FMG/60403",
@@ -259881,7 +259881,7 @@
   "offset": "245C",
   "jp": "文字の出力方法を設定します",
   "en": "Change message appearance settings.",
-  "zh": ""
+  "zh": "设置文字显示方式"
  },
  {
   "id": "FMG/LINEHELP.FMG/60404",
@@ -259890,7 +259890,7 @@
   "offset": "2478",
   "jp": "ノーマルでは ⑥ 入力の方向に、リバースでは反対方向に傾きます",
   "en": "\"Normal\" follows ⑥ input directly and \"Reverse\" reverses it.",
-  "zh": ""
+  "zh": "设为普通时视线向 ⑥ 输入的方向倾斜，设为反转时向反方向倾斜"
  },
  {
   "id": "FMG/LINEHELP.FMG/60405",
@@ -259899,7 +259899,7 @@
   "offset": "24B8",
   "jp": "ONにすると、戦闘時にカメラが近づく演出が入ります",
   "en": "When ON, the camera will move dynamically during battle.",
-  "zh": ""
+  "zh": "开启后，战斗中镜头会出现拉近的演出效果"
  },
  {
   "id": "FMG/LINEHELP.FMG/60406",
@@ -259908,7 +259908,7 @@
   "offset": "24EC",
   "jp": "メニューや戦闘でのカーソル位置を設定します",
   "en": "Cursor position settings on menus and during battle.",
-  "zh": ""
+  "zh": "设置菜单及战斗中的光标位置"
  },
  {
   "id": "FMG/LINEHELP.FMG/60407",
@@ -259917,7 +259917,7 @@
   "offset": "2518",
   "jp": "コントローラの傾きで、移動を可能にするかを設定します",
   "en": "Setting for movement by tilting the controller.",
-  "zh": ""
+  "zh": "设置是否允许通过倾斜手柄来进行移动"
  },
  {
   "id": "FMG/LINEHELP.FMG/80102",
@@ -259926,7 +259926,7 @@
   "offset": "254E",
   "jp": "ＣＰＵを相手に戦闘します",
   "en": "Battle against a CPU opponent.",
-  "zh": ""
+  "zh": "与电脑对手进行战斗"
  },
  {
   "id": "FMG/LINEHELP.FMG/80103",
@@ -259935,7 +259935,7 @@
   "offset": "2568",
   "jp": "Xbox Liveで戦闘します",
   "en": "Battle on Xbox Live.",
-  "zh": ""
+  "zh": "在Xbox Live上进行对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/80104",
@@ -259944,7 +259944,7 @@
   "offset": "2588",
   "jp": "終了します",
   "en": "Quit Xbox Live.",
-  "zh": ""
+  "zh": "退出"
  },
  {
   "id": "FMG/LINEHELP.FMG/80202",
@@ -259953,7 +259953,7 @@
   "offset": "2594",
   "jp": "バトルを開始します",
   "en": "Start battle.",
-  "zh": ""
+  "zh": "开始战斗"
  },
  {
   "id": "FMG/LINEHELP.FMG/80203",
@@ -259962,7 +259962,7 @@
   "offset": "25A8",
   "jp": "パーティを組むキャラクターを決定します",
   "en": "Select party characters.",
-  "zh": ""
+  "zh": "决定编入队伍的角色"
  },
  {
   "id": "FMG/LINEHELP.FMG/80204",
@@ -259971,7 +259971,7 @@
   "offset": "25D0",
   "jp": "相手の詳細情報を表示します",
   "en": "View data on opponent.",
-  "zh": ""
+  "zh": "显示对手的详细信息"
  },
  {
   "id": "FMG/LINEHELP.FMG/80302",
@@ -259980,7 +259980,7 @@
   "offset": "25EC",
   "jp": "結果がランキングに反映されない対戦を行います",
   "en": "Fight a battle that does not affect your ranking.",
-  "zh": ""
+  "zh": "进行战绩不计入排名的对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/80303",
@@ -259989,7 +259989,7 @@
   "offset": "261A",
   "jp": "結果がランキングに反映される対戦を行います",
   "en": "Fight a battle that affects your ranking.",
-  "zh": ""
+  "zh": "进行战绩计入排名的对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/80401",
@@ -259998,7 +259998,7 @@
   "offset": "2646",
   "jp": "対戦するパーティを選択してください",
   "en": "Select a party to battle.",
-  "zh": ""
+  "zh": "请选择出战队伍"
  },
  {
   "id": "FMG/LINEHELP.FMG/80402",
@@ -260007,7 +260007,7 @@
   "offset": "266A",
   "jp": "2",
   "en": "2",
-  "zh": ""
+  "zh": "2"
  },
  {
   "id": "FMG/LINEHELP.FMG/80403",
@@ -260016,7 +260016,7 @@
   "offset": "266E",
   "jp": "3",
   "en": "3",
-  "zh": ""
+  "zh": "3"
  },
  {
   "id": "FMG/LINEHELP.FMG/80501",
@@ -260025,7 +260025,7 @@
   "offset": "2672",
   "jp": "4",
   "en": "4",
-  "zh": ""
+  "zh": "4"
  },
  {
   "id": "FMG/LINEHELP.FMG/80502",
@@ -260034,7 +260034,7 @@
   "offset": "2676",
   "jp": "ゴーレムバトルをはじめます",
   "en": "Start the Golem battle.",
-  "zh": ""
+  "zh": "开始魔像对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/80503",
@@ -260043,7 +260043,7 @@
   "offset": "2692",
   "jp": "対戦相手のステータスを確認します",
   "en": "View opponent's status.",
-  "zh": ""
+  "zh": "确认对手的状态"
  },
  {
   "id": "FMG/LINEHELP.FMG/80504",
@@ -260052,7 +260052,7 @@
   "offset": "26B4",
   "jp": "パーティを組むキャラクターを決定します",
   "en": "Select party characters.",
-  "zh": ""
+  "zh": "决定组队的角色"
  },
  {
   "id": "FMG/LINEHELP.FMG/80505",
@@ -260061,7 +260061,7 @@
   "offset": "26DC",
   "jp": "選択したキャラクターの状態を確認します",
   "en": "View status for selected character.",
-  "zh": ""
+  "zh": "确认所选角色的状态"
  },
  {
   "id": "FMG/LINEHELP.FMG/80506",
@@ -260070,7 +260070,7 @@
   "offset": "2704",
   "jp": "ゴーレムバトルの結果です",
   "en": "Golem battle results.",
-  "zh": ""
+  "zh": "魔像对战的结果"
  },
  {
   "id": "FMG/LINEHELP.FMG/80602",
@@ -260079,7 +260079,7 @@
   "offset": "271E",
   "jp": "あらかじめ用意されたパーティーで戦います",
   "en": "Battle using a preset party.",
-  "zh": ""
+  "zh": "使用预设的队伍进行战斗"
  },
  {
   "id": "FMG/LINEHELP.FMG/80603",
@@ -260088,7 +260088,7 @@
   "offset": "2748",
   "jp": "Xbox Liveゴーレムバトルのためのデータをロードします",
   "en": "Load data for an Xbox Live Golem battle.",
-  "zh": ""
+  "zh": "读取Xbox Live魔像对战用的数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/80604",
@@ -260097,7 +260097,7 @@
   "offset": "2786",
   "jp": "Xbox Liveランクマッチのランキングデータを表示します",
   "en": "Display ranking data for Xbox Live Ranked Matches.",
-  "zh": ""
+  "zh": "显示Xbox Live排位赛的排行榜数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/81002",
@@ -260106,7 +260106,7 @@
   "offset": "27C4",
   "jp": "結果がランキングに反映されない対戦です",
   "en": "This battle will not affect your ranking.",
-  "zh": ""
+  "zh": "结果不会计入排名的对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/81003",
@@ -260115,7 +260115,7 @@
   "offset": "27EC",
   "jp": "結果がランキングに反映される対戦です",
   "en": "This battle will affect your ranking.",
-  "zh": ""
+  "zh": "结果会计入排名的对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/81102",
@@ -260124,7 +260124,7 @@
   "offset": "2812",
   "jp": "簡単に対戦相手を検索します",
   "en": "Quickly find an opponent.",
-  "zh": ""
+  "zh": "快速搜索对手"
  },
  {
   "id": "FMG/LINEHELP.FMG/81103",
@@ -260133,7 +260133,7 @@
   "offset": "282E",
   "jp": "詳細な条件で対戦相手を検索します",
   "en": "Search for an opponent using detailed criteria.",
-  "zh": ""
+  "zh": "按详细条件搜索对手"
  },
  {
   "id": "FMG/LINEHELP.FMG/81104",
@@ -260142,7 +260142,7 @@
   "offset": "2850",
   "jp": "対戦ルールを設定し、対戦相手を募集します",
   "en": "Set Match rules and gather opponents.",
-  "zh": ""
+  "zh": "设定对战规则，招募对手"
  },
  {
   "id": "FMG/LINEHELP.FMG/81213",
@@ -260151,7 +260151,7 @@
   "offset": "287A",
   "jp": "ゲームに参加できるゴーレムのレベルを制限します",
   "en": "Limit the upper level of Golems that can join the game.",
-  "zh": ""
+  "zh": "限制可参加游戏的魔像等级上限"
  },
  {
   "id": "FMG/LINEHELP.FMG/81215",
@@ -260160,7 +260160,7 @@
   "offset": "28AA",
   "jp": "ゲームのターン数の設定です",
   "en": "Set the number of turns for the game.",
-  "zh": ""
+  "zh": "设置游戏的回合数"
  },
  {
   "id": "FMG/LINEHELP.FMG/81230",
@@ -260169,7 +260169,7 @@
   "offset": "28C6",
   "jp": "誰でも参加できます",
   "en": "Anyone can join the game.",
-  "zh": ""
+  "zh": "任何人均可参加"
  },
  {
   "id": "FMG/LINEHELP.FMG/81231",
@@ -260178,7 +260178,7 @@
   "offset": "28DA",
   "jp": "招待したゲーマーのみ参加できます",
   "en": "Only invited gamers can join the game.",
-  "zh": ""
+  "zh": "仅受邀玩家可以参加"
  },
  {
   "id": "FMG/LINEHELP.FMG/81301",
@@ -260187,7 +260187,7 @@
   "offset": "28FC",
   "jp": "対戦するゲーマーを選択します",
   "en": "Select a gamer to batle.",
-  "zh": ""
+  "zh": "选择要对战的玩家"
  },
  {
   "id": "FMG/LINEHELP.FMG/91501",
@@ -260196,7 +260196,7 @@
   "offset": "291A",
   "jp": "賭けるチップを決定してください",
   "en": "Select chips to bet.",
-  "zh": ""
+  "zh": "请决定下注的筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/91502",
@@ -260205,7 +260205,7 @@
   "offset": "293A",
   "jp": "はじめます",
   "en": "Start!",
-  "zh": ""
+  "zh": "开始"
  },
  {
   "id": "FMG/LINEHELP.FMG/91503",
@@ -260214,7 +260214,7 @@
   "offset": "2946",
   "jp": "他の数字にも賭けます",
   "en": "Bet on another number.",
-  "zh": ""
+  "zh": "在其他数字上也下注"
  },
  {
   "id": "FMG/LINEHELP.FMG/91504",
@@ -260223,7 +260223,7 @@
   "offset": "295C",
   "jp": "賭ける数字を選びなおします",
   "en": "Select number to bet on.",
-  "zh": ""
+  "zh": "重新选择下注的数字"
  },
  {
   "id": "FMG/LINEHELP.FMG/91505",
@@ -260232,7 +260232,7 @@
   "offset": "2978",
   "jp": "ルーレットをはじめます",
   "en": "Start roulette.",
-  "zh": ""
+  "zh": "开始轮盘赌"
  },
  {
   "id": "FMG/LINEHELP.FMG/91506",
@@ -260241,7 +260241,7 @@
   "offset": "2990",
   "jp": "スロットゲームをはじめます",
   "en": "Start slot machine.",
-  "zh": ""
+  "zh": "开始老虎机游戏"
  },
  {
   "id": "FMG/LINEHELP.FMG/91507",
@@ -260250,7 +260250,7 @@
   "offset": "29AC",
   "jp": "ビンゴをはじめます",
   "en": "Start bingo.",
-  "zh": ""
+  "zh": "开始宾果游戏"
  },
  {
   "id": "FMG/LINEHELP.FMG/91508",
@@ -260259,7 +260259,7 @@
   "offset": "29C0",
   "jp": "賭けるチップに応じてラインが増えます",
   "en": "Bet more chips to increase the line.",
-  "zh": ""
+  "zh": "下注的筹码越多，有效赔率线也会增加"
  },
  {
   "id": "FMG/LINEHELP.FMG/92003",
@@ -260268,7 +260268,7 @@
   "offset": "29E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92004",
@@ -260277,7 +260277,7 @@
   "offset": "2A06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92005",
@@ -260286,7 +260286,7 @@
   "offset": "2A26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92006",
@@ -260295,7 +260295,7 @@
   "offset": "2A46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92007",
@@ -260304,7 +260304,7 @@
   "offset": "2A66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92008",
@@ -260313,7 +260313,7 @@
   "offset": "2A86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92009",
@@ -260322,7 +260322,7 @@
   "offset": "2AA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92010",
@@ -260331,7 +260331,7 @@
   "offset": "2AC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92011",
@@ -260340,7 +260340,7 @@
   "offset": "2AE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92012",
@@ -260349,7 +260349,7 @@
   "offset": "2B06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92013",
@@ -260358,7 +260358,7 @@
   "offset": "2B26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92014",
@@ -260367,7 +260367,7 @@
   "offset": "2B46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92015",
@@ -260376,7 +260376,7 @@
   "offset": "2B66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92016",
@@ -260385,7 +260385,7 @@
   "offset": "2B86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92017",
@@ -260394,7 +260394,7 @@
   "offset": "2BA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92018",
@@ -260403,7 +260403,7 @@
   "offset": "2BC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92019",
@@ -260412,7 +260412,7 @@
   "offset": "2BE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92020",
@@ -260421,7 +260421,7 @@
   "offset": "2C06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92021",
@@ -260430,7 +260430,7 @@
   "offset": "2C26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92022",
@@ -260439,7 +260439,7 @@
   "offset": "2C46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92023",
@@ -260448,7 +260448,7 @@
   "offset": "2C66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92024",
@@ -260457,7 +260457,7 @@
   "offset": "2C86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92025",
@@ -260466,7 +260466,7 @@
   "offset": "2CA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92026",
@@ -260475,7 +260475,7 @@
   "offset": "2CC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92027",
@@ -260484,7 +260484,7 @@
   "offset": "2CE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92028",
@@ -260493,7 +260493,7 @@
   "offset": "2D06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92029",
@@ -260502,7 +260502,7 @@
   "offset": "2D26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92030",
@@ -260511,7 +260511,7 @@
   "offset": "2D46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92031",
@@ -260520,7 +260520,7 @@
   "offset": "2D66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92032",
@@ -260529,7 +260529,7 @@
   "offset": "2D86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92033",
@@ -260538,7 +260538,7 @@
   "offset": "2DA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92034",
@@ -260547,7 +260547,7 @@
   "offset": "2DC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92035",
@@ -260556,7 +260556,7 @@
   "offset": "2DE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92036",
@@ -260565,7 +260565,7 @@
   "offset": "2E06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92037",
@@ -260574,7 +260574,7 @@
   "offset": "2E26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92038",
@@ -260583,7 +260583,7 @@
   "offset": "2E46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92039",
@@ -260592,7 +260592,7 @@
   "offset": "2E66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92040",
@@ -260601,7 +260601,7 @@
   "offset": "2E86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92041",
@@ -260610,7 +260610,7 @@
   "offset": "2EA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92042",
@@ -260619,7 +260619,7 @@
   "offset": "2EC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92043",
@@ -260628,7 +260628,7 @@
   "offset": "2EE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92044",
@@ -260637,7 +260637,7 @@
   "offset": "2F06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92045",
@@ -260646,7 +260646,7 @@
   "offset": "2F26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92046",
@@ -260655,7 +260655,7 @@
   "offset": "2F46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92047",
@@ -260664,7 +260664,7 @@
   "offset": "2F66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92048",
@@ -260673,7 +260673,7 @@
   "offset": "2F86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92049",
@@ -260682,7 +260682,7 @@
   "offset": "2FA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92050",
@@ -260691,7 +260691,7 @@
   "offset": "2FC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92051",
@@ -260700,7 +260700,7 @@
   "offset": "2FE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92052",
@@ -260709,7 +260709,7 @@
   "offset": "3006",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92053",
@@ -260718,7 +260718,7 @@
   "offset": "3026",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92054",
@@ -260727,7 +260727,7 @@
   "offset": "3046",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92055",
@@ -260736,7 +260736,7 @@
   "offset": "3066",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92056",
@@ -260745,7 +260745,7 @@
   "offset": "3086",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92057",
@@ -260754,7 +260754,7 @@
   "offset": "30A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92058",
@@ -260763,7 +260763,7 @@
   "offset": "30C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92059",
@@ -260772,7 +260772,7 @@
   "offset": "30E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92060",
@@ -260781,7 +260781,7 @@
   "offset": "3106",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92061",
@@ -260790,7 +260790,7 @@
   "offset": "3126",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92062",
@@ -260799,7 +260799,7 @@
   "offset": "3146",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92063",
@@ -260808,7 +260808,7 @@
   "offset": "3166",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92064",
@@ -260817,7 +260817,7 @@
   "offset": "3186",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92065",
@@ -260826,7 +260826,7 @@
   "offset": "31A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92066",
@@ -260835,7 +260835,7 @@
   "offset": "31C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92067",
@@ -260844,7 +260844,7 @@
   "offset": "31E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92068",
@@ -260853,7 +260853,7 @@
   "offset": "3206",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92069",
@@ -260862,7 +260862,7 @@
   "offset": "3226",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92070",
@@ -260871,7 +260871,7 @@
   "offset": "3246",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92071",
@@ -260880,7 +260880,7 @@
   "offset": "3266",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92072",
@@ -260889,7 +260889,7 @@
   "offset": "3286",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92073",
@@ -260898,7 +260898,7 @@
   "offset": "32A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92074",
@@ -260907,7 +260907,7 @@
   "offset": "32C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92075",
@@ -260916,7 +260916,7 @@
   "offset": "32E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92076",
@@ -260925,7 +260925,7 @@
   "offset": "3306",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92077",
@@ -260934,7 +260934,7 @@
   "offset": "3326",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92078",
@@ -260943,7 +260943,7 @@
   "offset": "3346",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92079",
@@ -260952,7 +260952,7 @@
   "offset": "3366",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92080",
@@ -260961,7 +260961,7 @@
   "offset": "3386",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92081",
@@ -260970,7 +260970,7 @@
   "offset": "33A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92082",
@@ -260979,7 +260979,7 @@
   "offset": "33C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92083",
@@ -260988,7 +260988,7 @@
   "offset": "33E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92084",
@@ -260997,7 +260997,7 @@
   "offset": "3406",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92085",
@@ -261006,7 +261006,7 @@
   "offset": "3426",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92086",
@@ -261015,7 +261015,7 @@
   "offset": "3446",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92087",
@@ -261024,7 +261024,7 @@
   "offset": "3466",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92088",
@@ -261033,7 +261033,7 @@
   "offset": "3486",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92089",
@@ -261042,7 +261042,7 @@
   "offset": "34A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92090",
@@ -261051,7 +261051,7 @@
   "offset": "34C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92091",
@@ -261060,7 +261060,7 @@
   "offset": "34E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92092",
@@ -261069,7 +261069,7 @@
   "offset": "3506",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92093",
@@ -261078,7 +261078,7 @@
   "offset": "3526",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92094",
@@ -261087,7 +261087,7 @@
   "offset": "3546",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92095",
@@ -261096,7 +261096,7 @@
   "offset": "3566",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92096",
@@ -261105,7 +261105,7 @@
   "offset": "3586",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92097",
@@ -261114,7 +261114,7 @@
   "offset": "35A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92098",
@@ -261123,7 +261123,7 @@
   "offset": "35C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92099",
@@ -261132,7 +261132,7 @@
   "offset": "35E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92100",
@@ -261141,7 +261141,7 @@
   "offset": "3606",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92101",
@@ -261150,7 +261150,7 @@
   "offset": "3626",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92102",
@@ -261159,7 +261159,7 @@
   "offset": "3646",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92103",
@@ -261168,7 +261168,7 @@
   "offset": "3666",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92104",
@@ -261177,7 +261177,7 @@
   "offset": "3686",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92105",
@@ -261186,7 +261186,7 @@
   "offset": "36A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92106",
@@ -261195,7 +261195,7 @@
   "offset": "36C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92107",
@@ -261204,7 +261204,7 @@
   "offset": "36E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92108",
@@ -261213,7 +261213,7 @@
   "offset": "3706",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92109",
@@ -261222,7 +261222,7 @@
   "offset": "3726",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92110",
@@ -261231,7 +261231,7 @@
   "offset": "3746",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92111",
@@ -261240,7 +261240,7 @@
   "offset": "3766",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92112",
@@ -261249,7 +261249,7 @@
   "offset": "3786",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92113",
@@ -261258,7 +261258,7 @@
   "offset": "37A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92114",
@@ -261267,7 +261267,7 @@
   "offset": "37C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92115",
@@ -261276,7 +261276,7 @@
   "offset": "37E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92116",
@@ -261285,7 +261285,7 @@
   "offset": "3806",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92117",
@@ -261294,7 +261294,7 @@
   "offset": "3826",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92118",
@@ -261303,7 +261303,7 @@
   "offset": "3846",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92119",
@@ -261312,7 +261312,7 @@
   "offset": "3866",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92120",
@@ -261321,7 +261321,7 @@
   "offset": "3886",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92121",
@@ -261330,7 +261330,7 @@
   "offset": "38A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92122",
@@ -261339,7 +261339,7 @@
   "offset": "38C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92123",
@@ -261348,7 +261348,7 @@
   "offset": "38E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92124",
@@ -261357,7 +261357,7 @@
   "offset": "3906",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92125",
@@ -261366,7 +261366,7 @@
   "offset": "3926",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92126",
@@ -261375,7 +261375,7 @@
   "offset": "3946",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92127",
@@ -261384,7 +261384,7 @@
   "offset": "3966",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92128",
@@ -261393,7 +261393,7 @@
   "offset": "3986",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92129",
@@ -261402,7 +261402,7 @@
   "offset": "39A6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92130",
@@ -261411,7 +261411,7 @@
   "offset": "39C6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92131",
@@ -261420,7 +261420,7 @@
   "offset": "39E6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92132",
@@ -261429,7 +261429,7 @@
   "offset": "3A06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92133",
@@ -261438,7 +261438,7 @@
   "offset": "3A26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92134",
@@ -261447,7 +261447,7 @@
   "offset": "3A46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92135",
@@ -261456,7 +261456,7 @@
   "offset": "3A66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92136",
@@ -261465,7 +261465,7 @@
   "offset": "3A86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92137",
@@ -261474,7 +261474,7 @@
   "offset": "3AA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92138",
@@ -261483,7 +261483,7 @@
   "offset": "3AC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92139",
@@ -261492,7 +261492,7 @@
   "offset": "3AE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92140",
@@ -261501,7 +261501,7 @@
   "offset": "3B06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92141",
@@ -261510,7 +261510,7 @@
   "offset": "3B26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92142",
@@ -261519,7 +261519,7 @@
   "offset": "3B46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92143",
@@ -261528,7 +261528,7 @@
   "offset": "3B66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92144",
@@ -261537,7 +261537,7 @@
   "offset": "3B86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92145",
@@ -261546,7 +261546,7 @@
   "offset": "3BA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92146",
@@ -261555,7 +261555,7 @@
   "offset": "3BC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92147",
@@ -261564,7 +261564,7 @@
   "offset": "3BE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92148",
@@ -261573,7 +261573,7 @@
   "offset": "3C06",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在选中的位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92149",
@@ -261582,7 +261582,7 @@
   "offset": "3C26",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92150",
@@ -261591,7 +261591,7 @@
   "offset": "3C46",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92151",
@@ -261600,7 +261600,7 @@
   "offset": "3C66",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92152",
@@ -261609,7 +261609,7 @@
   "offset": "3C86",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92153",
@@ -261618,7 +261618,7 @@
   "offset": "3CA6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92154",
@@ -261627,7 +261627,7 @@
   "offset": "3CC6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92155",
@@ -261636,7 +261636,7 @@
   "offset": "3CE6",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on the selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/92156",
@@ -261645,7 +261645,7 @@
   "offset": "3D06",
   "jp": "ゲームを開始します",
   "en": "Start the game.",
-  "zh": ""
+  "zh": "开始游戏"
  },
  {
   "id": "FMG/LINEHELP.FMG/92157",
@@ -261654,7 +261654,7 @@
   "offset": "3D1A",
   "jp": "抽選中です",
   "en": "Selecting...",
-  "zh": ""
+  "zh": "正在抽选"
  },
  {
   "id": "FMG/LINEHELP.FMG/96002",
@@ -261663,7 +261663,7 @@
   "offset": "3D26",
   "jp": "ゴーレムバトルの成績を確認します",
   "en": "View Golem battle results.",
-  "zh": ""
+  "zh": "查看魔像战成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96003",
@@ -261672,7 +261672,7 @@
   "offset": "3D48",
   "jp": "ビンゴの成績を確認します",
   "en": "View bingo results.",
-  "zh": ""
+  "zh": "查看宾果成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96004",
@@ -261681,7 +261681,7 @@
   "offset": "3D62",
   "jp": "スロットゲームの成績を確認します",
   "en": "View slot machine results.",
-  "zh": ""
+  "zh": "查看老虎机游戏成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96005",
@@ -261690,7 +261690,7 @@
   "offset": "3D84",
   "jp": "ルーレットの成績を確認します",
   "en": "View roulette results.",
-  "zh": ""
+  "zh": "查看轮盘赌成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96006",
@@ -261699,7 +261699,7 @@
   "offset": "3DA2",
   "jp": "アームレスリングの成績を確認します",
   "en": "View arm wrestling results.",
-  "zh": ""
+  "zh": "查看掰手腕成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96007",
@@ -261708,7 +261708,7 @@
   "offset": "3DC6",
   "jp": "クイズの成績を確認します",
   "en": "View quiz results.",
-  "zh": ""
+  "zh": "查看问答成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96047",
@@ -261717,7 +261717,7 @@
   "offset": "3DE0",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96048",
@@ -261726,7 +261726,7 @@
   "offset": "3E02",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96049",
@@ -261735,7 +261735,7 @@
   "offset": "3E24",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96050",
@@ -261744,7 +261744,7 @@
   "offset": "3E46",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96051",
@@ -261753,7 +261753,7 @@
   "offset": "3E68",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96052",
@@ -261762,7 +261762,7 @@
   "offset": "3E8A",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96053",
@@ -261771,7 +261771,7 @@
   "offset": "3EAC",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96054",
@@ -261780,7 +261780,7 @@
   "offset": "3ECE",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96055",
@@ -261789,7 +261789,7 @@
   "offset": "3EF0",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96056",
@@ -261798,7 +261798,7 @@
   "offset": "3F12",
   "jp": "各プレイヤーの順位を確認できます",
   "en": "Check player rankings.",
-  "zh": ""
+  "zh": "可以查看各玩家的排名"
  },
  {
   "id": "FMG/LINEHELP.FMG/96058",
@@ -261807,7 +261807,7 @@
   "offset": "3F34",
   "jp": "成績を表示します",
   "en": "View results.",
-  "zh": ""
+  "zh": "显示成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/96059",
@@ -261816,7 +261816,7 @@
   "offset": "3F46",
   "jp": "Xbox Liveランキングを表示します",
   "en": "View Xbox Live ranking.",
-  "zh": ""
+  "zh": "显示Xbox Live排行榜"
  },
  {
   "id": "FMG/LINEHELP.FMG/96060",
@@ -261825,7 +261825,7 @@
   "offset": "3F70",
   "jp": "ゴーレムバトルの成績です",
   "en": "Golem battle results.",
-  "zh": ""
+  "zh": "魔像战的成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/97001",
@@ -261834,7 +261834,7 @@
   "offset": "3F8A",
   "jp": "ビンゴのルールです",
   "en": "Bingo rules.",
-  "zh": ""
+  "zh": "宾果的规则"
  },
  {
   "id": "FMG/LINEHELP.FMG/97002",
@@ -261843,7 +261843,7 @@
   "offset": "3F9E",
   "jp": "チップを投入します",
   "en": "Bet chips.",
-  "zh": ""
+  "zh": "投入筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/97003",
@@ -261852,7 +261852,7 @@
   "offset": "3FB2",
   "jp": "抽選を開始します",
   "en": "Begin selection.",
-  "zh": ""
+  "zh": "开始抽选"
  },
  {
   "id": "FMG/LINEHELP.FMG/97004",
@@ -261861,7 +261861,7 @@
   "offset": "3FC4",
   "jp": "数字を抽選しています",
   "en": "Selecting numbers.",
-  "zh": ""
+  "zh": "正在抽选数字"
  },
  {
   "id": "FMG/LINEHELP.FMG/97005",
@@ -261870,7 +261870,7 @@
   "offset": "3FDA",
   "jp": "ビンゴの結果です",
   "en": "Bingo results.",
-  "zh": ""
+  "zh": "宾果的结果"
  },
  {
   "id": "FMG/LINEHELP.FMG/97006",
@@ -261879,7 +261879,7 @@
   "offset": "3FEC",
   "jp": "ビンゴの成績です",
   "en": "Bingo results.",
-  "zh": ""
+  "zh": "宾果的成绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/97101",
@@ -261888,7 +261888,7 @@
   "offset": "3FFE",
   "jp": "ルーレットのルールです",
   "en": "Roulette rules.",
-  "zh": ""
+  "zh": "轮盘赌的规则"
  },
  {
   "id": "FMG/LINEHELP.FMG/97102",
@@ -261897,7 +261897,7 @@
   "offset": "4016",
   "jp": "選択した場所にチップを賭けます",
   "en": "Bet chips on selected location.",
-  "zh": ""
+  "zh": "在所选位置下注筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/97103",
@@ -261906,7 +261906,7 @@
   "offset": "4036",
   "jp": "ベットするチップを決めます",
   "en": "Select chips to bet.",
-  "zh": ""
+  "zh": "决定下注的筹码数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/97104",
@@ -261915,7 +261915,7 @@
   "offset": "4052",
   "jp": "ルーレットの結果です",
   "en": "Roulette results.",
-  "zh": ""
+  "zh": "轮盘赌的结果"
  },
  {
   "id": "FMG/LINEHELP.FMG/97105",
@@ -261924,7 +261924,7 @@
   "offset": "4068",
   "jp": "ルーレットの成績です",
   "en": "Roulette results.",
-  "zh": ""
+  "zh": "轮盘赌的战绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/97201",
@@ -261933,7 +261933,7 @@
   "offset": "407E",
   "jp": "クイズのルールです",
   "en": "Quiz rules.",
-  "zh": ""
+  "zh": "问答竞赛的规则"
  },
  {
   "id": "FMG/LINEHELP.FMG/97202",
@@ -261942,7 +261942,7 @@
   "offset": "4092",
   "jp": "クイズを開始します",
   "en": "Start quiz.",
-  "zh": ""
+  "zh": "开始问答竞赛"
  },
  {
   "id": "FMG/LINEHELP.FMG/97203",
@@ -261951,7 +261951,7 @@
   "offset": "40A6",
   "jp": "出題問題を設定します",
   "en": "Select topic of questions.",
-  "zh": ""
+  "zh": "设置出题内容"
  },
  {
   "id": "FMG/LINEHELP.FMG/97204",
@@ -261960,7 +261960,7 @@
   "offset": "40BC",
   "jp": "挑戦する問題数を決めてください",
   "en": "Select number of questions to attempt.",
-  "zh": ""
+  "zh": "请决定挑战的题目数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/97205",
@@ -261969,7 +261969,7 @@
   "offset": "40DC",
   "jp": "人物に関する問題の出題設定です",
   "en": "Answer questions on people.",
-  "zh": ""
+  "zh": "人物相关问题的出题设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/97206",
@@ -261978,7 +261978,7 @@
   "offset": "40FC",
   "jp": "場所に関する問題の出題設定です",
   "en": "Answer questions on places.",
-  "zh": ""
+  "zh": "地点相关问题的出题设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/97207",
@@ -261987,7 +261987,7 @@
   "offset": "411C",
   "jp": "ゴーレムに関する問題の出題設定です",
   "en": "Answer questions on Golems.",
-  "zh": ""
+  "zh": "魔像相关问题的出题设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/97208",
@@ -261996,7 +261996,7 @@
   "offset": "4140",
   "jp": "出来事に関する問題の出題設定です",
   "en": "Answer questions on events.",
-  "zh": ""
+  "zh": "事件相关问题的出题设置"
  },
  {
   "id": "FMG/LINEHELP.FMG/97209",
@@ -262005,7 +262005,7 @@
   "offset": "4162",
   "jp": "ボタンを押して解答してください",
   "en": "Use the buttons to answer questions.",
-  "zh": ""
+  "zh": "请按按键作答"
  },
  {
   "id": "FMG/LINEHELP.FMG/97210",
@@ -262014,7 +262014,7 @@
   "offset": "4182",
   "jp": "エンチャントクイズの結果です",
   "en": "Enchant Quiz results.",
-  "zh": ""
+  "zh": "赋法问答的结果"
  },
  {
   "id": "FMG/LINEHELP.FMG/97211",
@@ -262023,7 +262023,7 @@
   "offset": "41A0",
   "jp": "エンチャントクイズの成績です",
   "en": "Enchant Quiz results.",
-  "zh": ""
+  "zh": "赋法问答的战绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/97301",
@@ -262032,7 +262032,7 @@
   "offset": "41BE",
   "jp": "アームレスリングのルールです",
   "en": "Arm wrestling rules.",
-  "zh": ""
+  "zh": "掰手腕的规则"
  },
  {
   "id": "FMG/LINEHELP.FMG/97302",
@@ -262041,7 +262041,7 @@
   "offset": "41DC",
   "jp": "選択した相手と試合をします",
   "en": "Wrestle selected opponent.",
-  "zh": ""
+  "zh": "与所选对手进行比赛"
  },
  {
   "id": "FMG/LINEHELP.FMG/97303",
@@ -262050,7 +262050,7 @@
   "offset": "41F8",
   "jp": "①を連打してください",
   "en": "Tap ① repeatedly.",
-  "zh": ""
+  "zh": "请连按①"
  },
  {
   "id": "FMG/LINEHELP.FMG/97304",
@@ -262059,7 +262059,7 @@
   "offset": "420E",
   "jp": "アームレスリングの結果です",
   "en": "Arm wrestling results.",
-  "zh": ""
+  "zh": "掰手腕的结果"
  },
  {
   "id": "FMG/LINEHELP.FMG/97305",
@@ -262068,7 +262068,7 @@
   "offset": "422A",
   "jp": "アームレスリングの成績です",
   "en": "Arm wrestling results.",
-  "zh": ""
+  "zh": "掰手腕的战绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/97401",
@@ -262077,7 +262077,7 @@
   "offset": "4246",
   "jp": "スロットゲームのルールです",
   "en": "Slot machine rules.",
-  "zh": ""
+  "zh": "老虎机游戏的规则"
  },
  {
   "id": "FMG/LINEHELP.FMG/97402",
@@ -262086,7 +262086,7 @@
   "offset": "4262",
   "jp": "ベットするチップを決めます",
   "en": "Select chips to bet.",
-  "zh": ""
+  "zh": "决定下注的筹码数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/97403",
@@ -262095,7 +262095,7 @@
   "offset": "427E",
   "jp": "①でリールを止めてください",
   "en": "Stop reels with ①.",
-  "zh": ""
+  "zh": "请用①停止滚轮"
  },
  {
   "id": "FMG/LINEHELP.FMG/97404",
@@ -262104,7 +262104,7 @@
   "offset": "429A",
   "jp": "スロットゲームの結果です",
   "en": "Slot machine results.",
-  "zh": ""
+  "zh": "老虎机游戏的结果"
  },
  {
   "id": "FMG/LINEHELP.FMG/97405",
@@ -262113,7 +262113,7 @@
   "offset": "42B4",
   "jp": "スロットゲームの成績です",
   "en": "Slot machine results.",
-  "zh": ""
+  "zh": "老虎机游戏的战绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/97406",
@@ -262122,7 +262122,7 @@
   "offset": "42CE",
   "jp": "ゴーレムバトルのルールです",
   "en": "Golem battle rules.",
-  "zh": ""
+  "zh": "魔像对战的规则"
  },
  {
   "id": "FMG/LINEHELP.FMG/101101",
@@ -262131,7 +262131,7 @@
   "offset": "42EA",
   "jp": "Xbox Liveゴーレムバトルのためのデータをロードします",
   "en": "Load data for Xbox Live Golem battle.",
-  "zh": ""
+  "zh": "读取Xbox Live魔像对战所用的数据"
  },
  {
   "id": "FMG/LINEHELP.FMG/101102",
@@ -262140,7 +262140,7 @@
   "offset": "4328",
   "jp": "あらかじめ用意されたパーティーで戦います",
   "en": "Fight with a preset party.",
-  "zh": ""
+  "zh": "使用预设队伍进行战斗"
  },
  {
   "id": "FMG/LINEHELP.FMG/103002",
@@ -262149,7 +262149,7 @@
   "offset": "4352",
   "jp": "チップを購入します",
   "en": "Buy chips.",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/103003",
@@ -262158,7 +262158,7 @@
   "offset": "4366",
   "jp": "チップと景品を交換します",
   "en": "Exchange chips for a prize.",
-  "zh": ""
+  "zh": "用筹码兑换奖品"
  },
  {
   "id": "FMG/LINEHELP.FMG/103004",
@@ -262167,7 +262167,7 @@
   "offset": "4380",
   "jp": "ゴーレムバトルで遊びます",
   "en": "Fight a Golem battle.",
-  "zh": ""
+  "zh": "游玩魔像对战"
  },
  {
   "id": "FMG/LINEHELP.FMG/103005",
@@ -262176,7 +262176,7 @@
   "offset": "439A",
   "jp": "ビンゴで遊びます",
   "en": "Play bingo.",
-  "zh": ""
+  "zh": "游玩宾果游戏"
  },
  {
   "id": "FMG/LINEHELP.FMG/103006",
@@ -262185,7 +262185,7 @@
   "offset": "43AC",
   "jp": "スロットゲームで遊びます",
   "en": "Play the slot machines.",
-  "zh": ""
+  "zh": "游玩老虎机游戏"
  },
  {
   "id": "FMG/LINEHELP.FMG/103007",
@@ -262194,7 +262194,7 @@
   "offset": "43C6",
   "jp": "ルーレットで遊びます",
   "en": "Play roulette.",
-  "zh": ""
+  "zh": "游玩轮盘赌"
  },
  {
   "id": "FMG/LINEHELP.FMG/103008",
@@ -262203,7 +262203,7 @@
   "offset": "43DC",
   "jp": "各ゲームの成績を確認します",
   "en": "View results for each game.",
-  "zh": ""
+  "zh": "查看各游戏的战绩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103009",
@@ -262212,7 +262212,7 @@
   "offset": "43F8",
   "jp": "アームレスリングをプレイします",
   "en": "Play arm wrestling.",
-  "zh": ""
+  "zh": "游玩掰手腕"
  },
  {
   "id": "FMG/LINEHELP.FMG/103010",
@@ -262221,7 +262221,7 @@
   "offset": "4418",
   "jp": "購入する数を変更します",
   "en": "Change the number of chips to purchase.",
-  "zh": ""
+  "zh": "更改购买数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/103011",
@@ -262230,7 +262230,7 @@
   "offset": "4430",
   "jp": "チップを購入します",
   "en": "Buy chips.",
-  "zh": ""
+  "zh": "购买筹码"
  },
  {
   "id": "FMG/LINEHELP.FMG/103012",
@@ -262239,7 +262239,7 @@
   "offset": "4444",
   "jp": "交換する数を変更します",
   "en": "Change the number to exchange.",
-  "zh": ""
+  "zh": "更改兑换数量"
  },
  {
   "id": "FMG/LINEHELP.FMG/103013",
@@ -262248,7 +262248,7 @@
   "offset": "445C",
   "jp": "この景品と交換します",
   "en": "Exchange for a prize.",
-  "zh": ""
+  "zh": "兑换此奖品"
  },
  {
   "id": "FMG/LINEHELP.FMG/103102",
@@ -262257,7 +262257,7 @@
   "offset": "4472",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103103",
@@ -262266,7 +262266,7 @@
   "offset": "448C",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103104",
@@ -262275,7 +262275,7 @@
   "offset": "44A6",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103105",
@@ -262284,7 +262284,7 @@
   "offset": "44C0",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103106",
@@ -262293,7 +262293,7 @@
   "offset": "44DA",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103107",
@@ -262302,7 +262302,7 @@
   "offset": "44F4",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103108",
@@ -262311,7 +262311,7 @@
   "offset": "450E",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103109",
@@ -262320,7 +262320,7 @@
   "offset": "4528",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/LINEHELP.FMG/103110",
@@ -262329,7 +262329,7 @@
   "offset": "4542",
   "jp": "選択した台でプレイします",
   "en": "Play using the selected machine.",
-  "zh": ""
+  "zh": "在选中的机台进行游玩"
  },
  {
   "id": "FMG/MENU.FMG/102",
