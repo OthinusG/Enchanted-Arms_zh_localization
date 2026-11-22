@@ -194136,7 +194136,7 @@
   "offset": "7C0",
   "jp": "昼食を食べるため\n下の階の#CFF666699カフェテリア#cへ向かおう",
   "en": "I'll go downstairs to the Cafeteria and\nhave lunch.",
-  "zh": ""
+  "zh": "为了吃午饭，\n去楼下的#CFF666699自助餐厅#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C9/0",
@@ -194145,7 +194145,7 @@
   "offset": "80C",
   "jp": "#CFF666699注文カウンター#cで#CFF666699昼食#cを買おう",
   "en": "I'll go to the counter and buy lunch.",
-  "zh": ""
+  "zh": "去#CFF666699点餐柜台#c买#CFF666699午饭#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/CA/0",
@@ -194154,7 +194154,7 @@
   "offset": "85C",
   "jp": "昼食を食べに\n#CFF666699トウヤ#cと#CFF666699マコト#cのところへ戻ろう",
   "en": "I'll go and eat lunch with Toya and\nMakoto.",
-  "zh": ""
+  "zh": "回#CFF666699托亚#c和#CFF666699马科托#c那里\n一起吃午饭吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/12C/0",
@@ -194163,7 +194163,7 @@
   "offset": "8BC",
   "jp": "カフェテリアの東の#CFF666699封鎖区画#cへ向かい\n#CFF666699コータ#cに昼食をあげよう",
   "en": "I'll head to the Sealed Ward east of the\nCafeteria, and feed Cota his lunch.",
-  "zh": ""
+  "zh": "去自助餐厅东边的#CFF666699封锁区#c，\n给#CFF666699柯达#c送午饭吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/190/0",
@@ -194172,7 +194172,7 @@
   "offset": "92A",
   "jp": "お祭りに参加するため\n#CFF666699南ホール#cから#CFF666699商業区#cへ向かおう",
   "en": "I'll go from the South Hall to the Trade\nDistrict, for the festival.",
-  "zh": ""
+  "zh": "为了参加庆典，\n从#CFF666699南大厅#c前往#CFF666699商业区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1F4/0",
@@ -194181,7 +194181,7 @@
   "offset": "990",
   "jp": "商業区の広場にある\n#CFF666699テント小屋#cへ向かおう",
   "en": "I'll head for the tent in the Trade\nDistrict Square.",
-  "zh": ""
+  "zh": "去商业区广场上的\n#CFF666699帐篷小屋#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1F5/0",
@@ -194190,7 +194190,7 @@
   "offset": "9D4",
   "jp": "テント小屋のとなりにある\n#CFF666699卵型の出店#cへ向かおう",
   "en": "I'll go to the egg-shaped shop next to\nthe tent.",
-  "zh": ""
+  "zh": "去帐篷小屋旁边的\n#CFF666699蛋形摊位#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1F6/0",
@@ -194199,7 +194199,7 @@
   "offset": "A1E",
   "jp": "商業区の人たちから#CFF666699ゴーレムチケット#cを\n#CFF666699４枚#c集めて、ゴーレムと交換しよう",
   "en": "I'll get four Golem Tickets from the Trade\nDistrict, and exchange them for a Golem.",
-  "zh": ""
+  "zh": "从商业区的人们那里收集#CFF666699４张#c\n#CFF666699魔像兑换券#c，去兑换魔像吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/258/0",
@@ -194208,7 +194208,7 @@
   "offset": "A98",
   "jp": "#CFF666699テント小屋#cへ向かい\nゴーレム賭け試合に参加しよう",
   "en": "I'll head for the tent to take part in\nthe Golem fights.",
-  "zh": ""
+  "zh": "去#CFF666699帐篷小屋#c，\n参加魔像下注比赛吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/259/0",
@@ -194217,7 +194217,7 @@
   "offset": "AE4",
   "jp": "ゴーレム賭け試合に参加して\nすべての試合に勝ち抜こう",
   "en": "I'll take part in the Golem fights and\nwin every bout.",
-  "zh": ""
+  "zh": "参加魔像下注比赛，\n赢下所有比赛吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/2BC/0",
@@ -194226,7 +194226,7 @@
   "offset": "B1C",
   "jp": "#CFF666699駅#cの辺りで襲われている人を\n助け出そう",
   "en": "I'll rescue someone being attacked near\nthe train station.",
-  "zh": ""
+  "zh": "去营救在#CFF666699车站#c附近\n遇袭的人吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/2BD/0",
@@ -194235,7 +194235,7 @@
   "offset": "B5E",
   "jp": "#CFF666699広場#cの辺りで襲われている人を\n助け出そう",
   "en": "I'll rescue someone being attacked near\nthe Square.",
-  "zh": ""
+  "zh": "去营救在#CFF666699广场#c附近\n遇袭的人吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/320/0",
@@ -194244,7 +194244,7 @@
   "offset": "BA2",
   "jp": "コータや逃げ遅れたみんなを助けるため\n#CFF666699学園#cへ戻ろう",
   "en": "I'll head back to school to save Cota\nand everyone else who is trapped there.",
-  "zh": ""
+  "zh": "为了救柯达和逃跑不及的大家，\n回#CFF666699学园#c去吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/321/0",
@@ -194253,7 +194253,7 @@
   "offset": "BF0",
   "jp": "コータや逃げ遅れたみんなを助けるため\n#CFF666699学園の中#cを調べよう",
   "en": "I'll search the school to save Cota\nand everyone else who is trapped there.",
-  "zh": ""
+  "zh": "为了救柯达和逃跑不及的大家，\n调查#CFF666699学园内部#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/322/0",
@@ -194262,7 +194262,7 @@
   "offset": "C44",
   "jp": "コータを追って、#CFF666699封鎖区画#cへ向かおう",
   "en": "I'll head for the Sealed Ward in pursuit\nof Cota.",
-  "zh": ""
+  "zh": "追赶柯达，前往#CFF666699封锁区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/384/0",
@@ -194271,7 +194271,7 @@
   "offset": "C82",
   "jp": "#CFF666699封鎖区画#cを探索し、コータを見つけ出そう",
   "en": "I'll search the Sealed Ward to find Cota.",
-  "zh": ""
+  "zh": "探索#CFF666699封锁区#c，找到柯达吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/385/0",
@@ -194280,7 +194280,7 @@
   "offset": "CC4",
   "jp": "出口を見つけ出すため\n#CFF666699封鎖区画の奥#cへ進もう",
   "en": "I'll go deep into the Sealed Ward to find\nthe way out.",
-  "zh": ""
+  "zh": "为了寻找出口，\n向#CFF666699封锁区深处#c前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/386/0",
@@ -194289,7 +194289,7 @@
   "offset": "D0A",
   "jp": "#CFF666699スイッチ#cを押して、ゴーレムを起動し\nふさがれた#CFF666699扉#cを開こう",
   "en": "I'll hit the switch to activate the Golem\nand open the barred door.",
-  "zh": ""
+  "zh": "按下#CFF666699开关#c启动魔像，\n打开被堵住的#CFF666699门#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/387/0",
@@ -194298,7 +194298,7 @@
   "offset": "D76",
   "jp": "出口を見つけ出すため\n#CFF666699封鎖区画の奥#cへ進もう",
   "en": "I'll go deep into the Sealed Ward to find\nthe way out.",
-  "zh": ""
+  "zh": "为了寻找出口，\n向#CFF666699封锁区深处#c前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/44C/0",
@@ -194307,7 +194307,7 @@
   "offset": "DBC",
   "jp": "あたりを調べて、状況を確認しよう",
   "en": "I'll search the area to check out the\nsituation.",
-  "zh": ""
+  "zh": "调查周围，确认情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/44D/0",
@@ -194316,7 +194316,7 @@
   "offset": "DE0",
   "jp": "仮病作戦の決行のため、#CFF666699番兵#cを呼ぼう",
   "en": "I'll call the guard as part of the plan to\nfake illness.",
-  "zh": ""
+  "zh": "为了实行装病作战，叫#CFF666699守卫#c过来吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/44E/0",
@@ -194325,7 +194325,7 @@
   "offset": "E1E",
   "jp": "牢屋から脱出するための手がかりを探そう",
   "en": "I'll look for clues to ways to escape the\nprison cell.",
-  "zh": ""
+  "zh": "寻找逃出牢房的线索吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/4B0/0",
@@ -194334,7 +194334,7 @@
   "offset": "E48",
   "jp": "#CFF666699地下牢#cを出て\nロンドンシティの#CFF666699市街地#cへ向かおう",
   "en": "I'll exit the prison cell and head for\ndowntown London City.",
-  "zh": ""
+  "zh": "离开#CFF666699地牢#c，\n前往伦敦市的#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/4B1/0",
@@ -194343,7 +194343,7 @@
   "offset": "EAA",
   "jp": "#CFF666699ダムの水路#cを抜けて\nロンドンシティの#CFF666699市街地#cへ向かおう",
   "en": "I'll traverse the waterways to get to\ndowntown London City.",
-  "zh": ""
+  "zh": "穿过#CFF666699大坝水路#c，\n前往伦敦市的#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/4B2/0",
@@ -194352,7 +194352,7 @@
   "offset": "F12",
   "jp": "#CFF666699地下水道#cを抜けて\nロンドンシティの#CFF666699市街地#cへ向かおう",
   "en": "I'll exit the sewers and emerge in \ndowntown London City.",
-  "zh": ""
+  "zh": "穿过#CFF666699地下水道#c，\n前往伦敦市的#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/514/0",
@@ -194361,7 +194361,7 @@
   "offset": "F78",
   "jp": "街の様子を確認するため\n#CFF666699ヨコハマシティ#cへ向かおう",
   "en": "I'll head for Yokohama City to find out\nhow things are going there.",
-  "zh": ""
+  "zh": "为了确认城里的情况，\n前往#CFF666699横滨市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/515/0",
@@ -194370,7 +194370,7 @@
   "offset": "FC4",
   "jp": "貧民街の#CFF666699広場#cのさわぎを見に行こう",
   "en": "I'll check out the commotion in the Square\nin the Inner City.",
-  "zh": ""
+  "zh": "去看看贫民街#CFF666699广场#c上的骚乱吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/516/0",
@@ -194379,7 +194379,7 @@
   "offset": "1000",
   "jp": "#CFF666699大階段の下#cにある出口から\nヨコハマシティへ向かおう",
   "en": "I'll head for Yokohama City via the exit\nat the base of the Grand Steps.",
-  "zh": ""
+  "zh": "从#CFF666699大阶梯下方#c的出口\n前往横滨市吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/517/0",
@@ -194388,7 +194388,7 @@
   "offset": "104E",
   "jp": "#CFF666699街道#cを進み、#CFF666699ヨコハマシティ#cへ向かおう",
   "en": "I'll take the highway to Yokohama City.",
-  "zh": ""
+  "zh": "沿着#CFF666699街道#c前进，前往#CFF666699横滨市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/518/0",
@@ -194397,7 +194397,7 @@
   "offset": "10A6",
   "jp": "#CFF666699街道#cから#CFF666699森#cを通って\nヨコハマシティへ向かおう",
   "en": "I'll cut through the forest on my way\nto Yokohama City.",
-  "zh": ""
+  "zh": "从#CFF666699街道#c穿过#CFF666699森林#c，\n前往横滨市吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/519/0",
@@ -194406,7 +194406,7 @@
   "offset": "1106",
   "jp": "#CFF666699軍道の地下#cから#CFF666699街道#cを抜けて\nヨコハマシティへ向かおう",
   "en": "I'll cut from the underground military\npath to the highway to Yokohama City.",
-  "zh": ""
+  "zh": "从#CFF666699军道地下#c穿过#CFF666699街道#c，\n前往横滨市吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/51A/0",
@@ -194415,7 +194415,7 @@
   "offset": "116E",
   "jp": "街道を進み、#CFF666699ヨコハマシティ#cへ向かおう",
   "en": "I'll take the highway to Yokohama City.",
-  "zh": ""
+  "zh": "沿着街道前进，前往#CFF666699横滨市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/51B/0",
@@ -194424,7 +194424,7 @@
   "offset": "11AE",
   "jp": "#CFF666699川岸#cから#CFF666699街道#c、#CFF666699岬#cを通って\nヨコハマシティへ向かおう",
   "en": "I'll follow the riverbank to the highway\nand the cape on my way to Yokohama City.",
-  "zh": ""
+  "zh": "从#CFF666699河岸#c穿过#CFF666699街道#c与#CFF666699海岬#c，\n前往横滨市吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/578/0",
@@ -194433,7 +194433,7 @@
   "offset": "122C",
   "jp": "#CFF666699埠頭#cを通って、ヨコハマシティの\n#CFF666699市街地#cへ向かおう",
   "en": "I'll go along the wharf to get to\ndowntown Yokohama City.",
-  "zh": ""
+  "zh": "穿过#CFF666699码头#c，前往横滨市的\n#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/579/0",
@@ -194442,7 +194442,7 @@
   "offset": "1290",
   "jp": "道をふさぐ#CFF666699氷山#cを破壊しよう",
   "en": "I'll destroy the iceberg blocking the\nroad.",
-  "zh": ""
+  "zh": "破坏挡住去路的#CFF666699冰山#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/57A/0",
@@ -194451,7 +194451,7 @@
   "offset": "12C6",
   "jp": "#CFF666699エーテル#cを注入し、#CFF666699軍船の砲台#cを起動しよう",
   "en": "I'll activate the warship's cannon by\nfueling them with Ether.",
-  "zh": ""
+  "zh": "注入#CFF666699以太#c，启动#CFF666699军舰的炮台#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/57B/0",
@@ -194460,7 +194460,7 @@
   "offset": "1322",
   "jp": "船首の#CFF666699砲台#cで、道をふさぐ#CFF666699氷山#cを破壊しよう",
   "en": "I'll destroy the iceberg blocking the road\nwith the ship's bow cannon.",
-  "zh": ""
+  "zh": "用船头的#CFF666699炮台#c，摧毁挡路的#CFF666699冰山#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/57C/0",
@@ -194469,7 +194469,7 @@
   "offset": "137E",
   "jp": "#CFF666699埠頭#cを通って、ヨコハマシティの\n#CFF666699市街地#cへ向かおう",
   "en": "I'll go along the wharf to get to\ndowntown Yokohama City.",
-  "zh": ""
+  "zh": "穿过#CFF666699码头#c，前往横滨市的\n#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/57D/0",
@@ -194478,7 +194478,7 @@
   "offset": "13E2",
   "jp": "#CFF666699倉庫#cを抜けて、ヨコハマシティの\n#CFF666699市街地#cへ向かおう",
   "en": "I'll cut through the warehouses to get to\ndowntown Yokohama City.",
-  "zh": ""
+  "zh": "穿过#CFF666699仓库#c，前往横滨市的\n#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/57E/0",
@@ -194487,7 +194487,7 @@
   "offset": "1446",
   "jp": "#CFF666699スイッチ#cを押して、#CFF666699クレーン#cを動かそう",
   "en": "I'll hit the switch that activates the\ncrane.",
-  "zh": ""
+  "zh": "按下#CFF666699开关#c，开动#CFF666699起重机#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/57F/0",
@@ -194496,7 +194496,7 @@
   "offset": "149E",
   "jp": "#CFF666699倉庫#cを抜けて、ヨコハマシティの\n#CFF666699市街地#cへ向かおう",
   "en": "I'll cut through the warehouses to get to\ndowntown Yokohama City.",
-  "zh": ""
+  "zh": "穿过#CFF666699仓库#c，前往横滨市的\n#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/580/0",
@@ -194505,7 +194505,7 @@
   "offset": "1502",
   "jp": "#CFF666699倉庫二階の扉#cから#CFF666699税関#cを通って\nヨコハマシティの#CFF666699市街地#cへ向かおう",
   "en": "I'll go from the 2nd floor warehouse door\nvia Customs to get to downtown Yokohama.",
-  "zh": ""
+  "zh": "从#CFF666699仓库二楼的门#c穿过#CFF666699海关#c，\n前往横滨市的#CFF666699市区#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/581/0",
@@ -194514,7 +194514,7 @@
   "offset": "158C",
   "jp": "トウヤとコータたちを助け出すため\n#CFF666699駅#cを通って、#CFF666699学園#cへ向かおう",
   "en": "I'll go by the train station to get to\nthe University, to rescue Toya and Cota.",
-  "zh": ""
+  "zh": "为了救出托亚和柯达他们，\n穿过#CFF666699车站#c，前往#CFF666699学院#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/582/0",
@@ -194523,7 +194523,7 @@
   "offset": "15FC",
   "jp": "#CFF666699学園#cを探索し\nトウヤとコータたちを助け出そう",
   "en": "I'll search the University to try to\nrescue Toya and Cota.",
-  "zh": ""
+  "zh": "探索#CFF666699学院#c，\n把托亚和柯达他们救出来吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/583/0",
@@ -194532,7 +194532,7 @@
   "offset": "1644",
   "jp": "トウヤとコータを助け出すため\n#CFF666699中央塔#cへ向かおう",
   "en": "I'll head for the Central Tower to try to\nrescue Toya and Cota.",
-  "zh": ""
+  "zh": "为了救出托亚和柯达，\n前往#CFF666699中央塔#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/584/0",
@@ -194541,7 +194541,7 @@
   "offset": "168E",
   "jp": "トウヤとコータを助け出すため\n#CFF666699図書館#cを探索しよう",
   "en": "I'll search the library to try to rescue\nToya and Cota.",
-  "zh": ""
+  "zh": "为了救出托亚和柯达，\n探索#CFF666699图书馆#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/585/0",
@@ -194550,7 +194550,7 @@
   "offset": "16DA",
   "jp": "トウヤとコータを助け出すため#CFF666699\n転送装置#cを使って、先へ進もう",
   "en": "I'll use the teleporter to keep up my\nsearch to rescue Toya and Cota.",
-  "zh": ""
+  "zh": "为了救出托亚和柯达，使用#CFF666699\n传送装置#c，继续前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/5DC/0",
@@ -194559,7 +194559,7 @@
   "offset": "1730",
   "jp": "#CFF666699研究施設#cを探索し\nトウヤとコータの居所を突き止めよう",
   "en": "I'll search the labs to try to find out\nwhere Toya and Cota are now.",
-  "zh": ""
+  "zh": "探索#CFF666699研究设施#c，\n查出托亚和柯达的下落吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/5DD/0",
@@ -194568,7 +194568,7 @@
   "offset": "1780",
   "jp": "コータの声を追って、#CFF666699研究施設の奥#cへ進もう",
   "en": "I'll head through the labs, following the\nCota's voice.",
-  "zh": ""
+  "zh": "循着柯达的声音，前往#CFF666699研究设施深处#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/640/0",
@@ -194577,7 +194577,7 @@
   "offset": "17C4",
   "jp": "#CFF666699ロンドン城#cの中を抜けて\n#CFF666699レジスタンスのアジト#cへ向かおう",
   "en": "I'll cut through London Castle to get to\nthe Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过#CFF666699伦敦城#c内部，\n前往#CFF666699反抗军的秘密基地#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6A4/0",
@@ -194586,7 +194586,7 @@
   "offset": "182E",
   "jp": "#CFF666699ロンドン城#cの中を抜けて\n#CFF666699レジスタンスのアジト#cへ向かおう",
   "en": "I'll cut through London Castle to get to\nthe Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过#CFF666699伦敦城#c内部，\n前往#CFF666699反抗军的秘密基地#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6A5/0",
@@ -194595,7 +194595,7 @@
   "offset": "1898",
   "jp": "#CFF666699大階段の上#cにある#CFF666699ロンドン城#cへ向かおう",
   "en": "I'll head up the Grand Steps to London\nCastle.",
-  "zh": ""
+  "zh": "前往#CFF666699大台阶上方#c的#CFF666699伦敦城#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6A6/0",
@@ -194604,7 +194604,7 @@
   "offset": "18F0",
   "jp": "#CFF666699ロンドン城#cの中を抜けて\n#CFF666699レジスタンスのアジト#cへ向かおう",
   "en": "I'll cut through London Castle to get to\nthe Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过#CFF666699伦敦城#c内部，\n前往#CFF666699反抗军的秘密基地#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6A7/0",
@@ -194613,7 +194613,7 @@
   "offset": "195A",
   "jp": "広間の#CFF666699西側の扉#cを通って\nロンドン城を抜けよう",
   "en": "I'll cut through London Castle via the\ndoor to the west of the Hall.",
-  "zh": ""
+  "zh": "穿过大厅的#CFF666699西侧大门#c，\n穿过伦敦城吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6A8/0",
@@ -194622,7 +194622,7 @@
   "offset": "19A2",
   "jp": "#CFF666699ロンドン城#cの中を抜けて\n#CFF666699レジスタンスのアジト#cへ向かおう",
   "en": "I'll cut through London Castle to get to\nthe Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过#CFF666699伦敦城#c内部，\n前往#CFF666699反抗军的秘密基地#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6A9/0",
@@ -194631,7 +194631,7 @@
   "offset": "1A0C",
   "jp": "西の#CFF666699廃坑道#cを抜けて\nレジスタンスのアジトへ向かおう",
   "en": "I'll cut through the abandoned mine to\nthe west to get to the Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过西边的#CFF666699废弃矿道#c，\n前往反抗军的秘密基地吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6AA/0",
@@ -194640,7 +194640,7 @@
   "offset": "1A5A",
   "jp": "西の#CFF666699廃坑道#cを抜けて\nレジスタンスのアジトへ向かおう",
   "en": "I'll cut through the abandoned mine to\nthe west to get to the Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过西边的#CFF666699废弃矿道#c，\n前往反抗军的秘密基地吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/6AB/0",
@@ -194649,7 +194649,7 @@
   "offset": "1AA8",
   "jp": "西の#CFF666699廃坑道#cを抜けて\nレジスタンスのアジトへ向かおう",
   "en": "I'll cut through the abandoned mine to\nthe west to get to the Resistance Hideout.",
-  "zh": ""
+  "zh": "穿过西边的#CFF666699废弃矿道#c，\n前往反抗军的秘密基地吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/708/0",
@@ -194658,7 +194658,7 @@
   "offset": "1AF6",
   "jp": "遺跡の広間にいる#CFF666699レジスタンスの\nリーダー#cに会おう",
   "en": "I'll meet the leader of the Resistance\nin the Hall in the ruins.",
-  "zh": ""
+  "zh": "去见遗迹大厅里的#CFF666699反抗军\n首领#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/709/0",
@@ -194667,7 +194667,7 @@
   "offset": "1B42",
   "jp": "#CFF666699遺跡の中#cを探索して\nレジスタンスの仲間から話を聞こう",
   "en": "I'll search the ruins and listen to what\nthe Resistance members have to say.",
-  "zh": ""
+  "zh": "探索#CFF666699遗迹内部#c，\n向反抗军的同伴们打听情报吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/70A/0",
@@ -194676,7 +194676,7 @@
   "offset": "1B92",
   "jp": "集会に参加するため、#CFF666699広間#cへ向かおう",
   "en": "I'll head for the Hall to take part in\nthe meeting.",
-  "zh": ""
+  "zh": "为了参加集会，前往#CFF666699大厅#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/76C/0",
@@ -194685,7 +194685,7 @@
   "offset": "1BD0",
   "jp": "#CFF666699カリンの手料理#cをごちそうになるため\n#CFF666699食堂#cへ向かおう",
   "en": "I'll head for the Refectory to have some\nof Karin's cooking.",
-  "zh": ""
+  "zh": "为了享用#CFF666699卡琳亲手做的料理#c，\n前往#CFF666699食堂#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/7D0/0",
@@ -194694,7 +194694,7 @@
   "offset": "1C36",
   "jp": "#CFF666699遺跡の中#cや#CFF666699外郭#cを探索して\nレジスタンスの仲間から話を聞こう",
   "en": "I'll search the ruins and the exterior,\nand hear what the Resistance members say.",
-  "zh": ""
+  "zh": "探索#CFF666699遗迹内部#c与#CFF666699外郭#c，\n向反抗军的同伴们打听情报吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/834/0",
@@ -194703,7 +194703,7 @@
   "offset": "1CA4",
   "jp": "#CFF666699騎士団の襲来#cを\nレジスタンスの仲間に知らせよう",
   "en": "I'll warn the Resistance of the onslaught\nof the Knights.",
-  "zh": ""
+  "zh": "把#CFF666699骑士团来袭#c的消息\n通知给反抗军的同伴们吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/835/0",
@@ -194712,7 +194712,7 @@
   "offset": "1CEE",
   "jp": "遺跡の#CFF666699外郭#cにせまる#CFF666699騎士団#cをすべて撃破し\n広間の守備に戻ろう",
   "en": "I'll defeat the Knights attacking the\nruins and exterior, then defend the Hall.",
-  "zh": ""
+  "zh": "消灭所有逼近遗迹#CFF666699外郭#c的#CFF666699骑士团#c，\n返回大厅防守吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/836/0",
@@ -194721,7 +194721,7 @@
   "offset": "1D5C",
   "jp": "遺跡の#CFF666699外郭#cにせまる#CFF666699騎士団#cをすべて撃破し\n広間の守備に戻ろう",
   "en": "I'll defeat the Knights attacking the\nruins and exterior, then defend the Hall.",
-  "zh": ""
+  "zh": "消灭所有逼近遗迹#CFF666699外郭#c的#CFF666699骑士团#c，\n返回大厅防守吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/898/0",
@@ -194730,7 +194730,7 @@
   "offset": "1DCA",
   "jp": "ライガのぬれ衣を晴らすため、#CFF666699遺跡内#cと#CFF666699外郭#cの\nレジスタンスの仲間から話を聞こう",
   "en": "I'll hear what the Resistance members say,\nin order to prove Raigar's innocence.",
-  "zh": ""
+  "zh": "为了洗清莱加的不白之冤，向#CFF666699遗迹内#c和#CFF666699外郭#c的\n反抗军同伴们打听情报吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/899/0",
@@ -194739,7 +194739,7 @@
   "offset": "1E4A",
   "jp": "#CFF666699ライガ#cの様子を見るため、#CFF666699宿坊#cへ向かおう",
   "en": "I'll head for the Dormitory to see how\nRaigar is doing.",
-  "zh": ""
+  "zh": "为了看看#CFF666699莱加#c的情况，前往#CFF666699宿宿房#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/89A/0",
@@ -194748,7 +194748,7 @@
   "offset": "1EA4",
   "jp": "#CFF666699ライガ#cと話をしよう",
   "en": "I'll talk to Raigar.",
-  "zh": ""
+  "zh": "和#CFF666699莱加#c谈谈吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/89B/0",
@@ -194757,7 +194757,7 @@
   "offset": "1ED2",
   "jp": "ひと眠りするため、#CFF666699宿坊のベッド#cへ向かおう",
   "en": "I'll climb into a bed at the Dormitory and\ntake a nap.",
-  "zh": ""
+  "zh": "为了小睡一会儿，前往#CFF666699宿舍的床铺#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/8FC/0",
@@ -194766,7 +194766,7 @@
   "offset": "1F16",
   "jp": "状況を確認するため、#CFF666699広間#cへ向かおう",
   "en": "I'll head for the Hall to check on the\nsituation.",
-  "zh": ""
+  "zh": "为了确认情况，前往#CFF666699大厅#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/8FD/0",
@@ -194775,7 +194775,7 @@
   "offset": "1F54",
   "jp": "#CFF666699カリン#cを助け出すため、#CFF666699廃坑道#cへ向かおう",
   "en": "I'll head for the abandoned mine to rescue\nKarin.",
-  "zh": ""
+  "zh": "为了救出#CFF666699卡琳#c，前往#CFF666699废弃矿道#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/8FE/0",
@@ -194784,7 +194784,7 @@
   "offset": "1FAE",
   "jp": "カリンを助け出すため、#CFF666699廃坑道#cの\n#CFF666699渓谷側の入り口付近#cへ向かおう",
   "en": "I'll head over by the gorge entrance to\nthe abandoned mine to rescue Karin.",
-  "zh": ""
+  "zh": "为了救出卡琳，前往#CFF666699废弃矿道#c的\n#CFF666699峡谷侧入口附近#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/960/0",
@@ -194793,7 +194793,7 @@
   "offset": "201E",
   "jp": "#CFF666699渓谷#cのどこかにあるはずの\n#CFF666699赤い魔導器#cを見つけ出そう",
   "en": "I'll search the gorge to find the red\nMagicore.",
-  "zh": ""
+  "zh": "去找出应该就在#CFF666699峡谷#c某处的\n#CFF666699红色魔导器#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/9C4/0",
@@ -194802,7 +194802,7 @@
   "offset": "2084",
   "jp": "クイーンオブアイスを追って\n#CFF666699ロンドンシティ#cへ急ごう",
   "en": "I'll race to London City in hot pursuit of\nthe Queen of Ice.",
-  "zh": ""
+  "zh": "追踪冰之女王，\n赶往#CFF666699伦敦市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/9C5/0",
@@ -194811,7 +194811,7 @@
   "offset": "20D2",
   "jp": "クイーンオブアイスを追って\n#CFF666699ロンドン城#cの#CFF666699謁見の間#cへ急ごう",
   "en": "I'll race to the London Castle Audience\nRoom in hot pursuit of the Queen of Ice.",
-  "zh": ""
+  "zh": "追踪冰之女王，\n赶往#CFF666699伦敦城#c的#CFF666699谒见之厅#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/A28/0",
@@ -194820,7 +194820,7 @@
   "offset": "213E",
   "jp": "クイーンオブアイスを追って#CFF666699\n執政室#cの先の#CFF666699炎帝神殿#cへ急ごう",
   "en": "I'll run through the Admin Chamber to the\nInferno Temple to pursue the Queen of Ice.",
-  "zh": ""
+  "zh": "追踪冰之女王，赶往#CFF666699\n执政室#c前方的#CFF666699炎帝神殿#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/A29/0",
@@ -194829,7 +194829,7 @@
   "offset": "21AA",
   "jp": "#CFF666699炎帝神殿#cを探索し、#CFF666699炎帝の間#cの\nクイーンオブアイスのもとへ急ごう",
   "en": "I'll search the Inferno Temple, and rush\nto the Queen of Ice in the Royal Chamber.",
-  "zh": ""
+  "zh": "探索#CFF666699炎帝神殿#c，赶往#CFF666699炎帝之厅#c的\n冰之女王身边吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/A2A/0",
@@ -194838,7 +194838,7 @@
   "offset": "221C",
   "jp": "クイーンオブアイスを追って\n#CFF666699神殿の最奥#cにある#CFF666699炎帝の間#cへ急ごう",
   "en": "I'll race through the Temple to the Royal\nChamber, to pursue the Queen of Ice.",
-  "zh": ""
+  "zh": "追踪冰之女王，\n赶往位于#CFF666699神殿最深处#c的#CFF666699炎帝之厅#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/A8C/0",
@@ -194847,7 +194847,7 @@
   "offset": "228C",
   "jp": "#CFF666699炎帝#cを倒し、#CFF666699カリン#cを救い出そう",
   "en": "I'll take out the Emperor of Fire, and\nrescue Karin.",
-  "zh": ""
+  "zh": "打倒#CFF666699炎帝#c，救出#CFF666699卡琳#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/AF0/0",
@@ -194856,7 +194856,7 @@
   "offset": "22DE",
   "jp": "復興の手伝いをするため\n貧民街の#CFF666699公園#cの#CFF666699カリン#cに会いに行こう",
   "en": "I'll go and see Karin in the park in the\nInner City, to help with the rebuilding.",
-  "zh": ""
+  "zh": "为了协助重建，\n去贫民街的#CFF666699公园#c见#CFF666699卡琳#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/B54/0",
@@ -194865,7 +194865,7 @@
   "offset": "234C",
   "jp": "復興の手伝いをするため\n貧民街の#CFF666699公園#cの#CFF666699カリン#cに会いに行こう",
   "en": "I'll go and see Karin in the park in the\nInner City, to help with the rebuilding.",
-  "zh": ""
+  "zh": "为了协助重建，\n去贫民街的#CFF666699公园#c见#CFF666699卡琳#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/B55/0",
@@ -194874,7 +194874,7 @@
   "offset": "23BA",
   "jp": "#CFF666699街の人#cに話を聞いて、#CFF666699物資#cの調達を手伝おう",
   "en": "I'll hear what the townspeople have to\nsay, and help to acquire resources.",
-  "zh": ""
+  "zh": "向#CFF666699街上的居民#c打听消息，帮忙筹集#CFF666699物资#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/BB8/0",
@@ -194883,7 +194883,7 @@
   "offset": "2416",
   "jp": "手伝いが終わったことを\n#CFF666699公園#cの#CFF666699カリン#cに報告しよう",
   "en": "Once I'm done helping out, I'll go and\nreport to Karin in the park.",
-  "zh": ""
+  "zh": "帮忙结束后，\n去向#CFF666699公园#c里的#CFF666699卡琳#c汇报吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/BB9/0",
@@ -194892,7 +194892,7 @@
   "offset": "247A",
   "jp": "#CFF666699ロンドン城#cの部屋に戻ろう",
   "en": "I'll go back to my room in London Castle.",
-  "zh": ""
+  "zh": "回#CFF666699伦敦城#c的房间吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/BBA/0",
@@ -194901,7 +194901,7 @@
   "offset": "24AE",
   "jp": "#CFF666699ロンドン城#cの#CFF666699二階の寝室#cに戻ろう",
   "en": "I'll go back to my bedroom on the second\nfloor of London Castle.",
-  "zh": ""
+  "zh": "回#CFF666699伦敦城#c的#CFF666699二楼卧室#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C1C/0",
@@ -194910,7 +194910,7 @@
   "offset": "2500",
   "jp": "秘術を習得するため\n#CFF666699城門#cから#CFF666699キョウトシティ#cへ向かおう",
   "en": "I'll head out the castle gate for Kyoto\nCity, to learn the secret art.",
-  "zh": ""
+  "zh": "为了习得秘术，\n从#CFF666699城门#c前往#CFF666699京都市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C1D/0",
@@ -194919,7 +194919,7 @@
   "offset": "2568",
   "jp": "#CFF666699街道#cと#CFF666699森#cを進み、#CFF666699ジャンクシティ#cへ向かおう",
   "en": "I'll head for Junk City by way of the\nhighway and the forest.",
-  "zh": ""
+  "zh": "穿过#CFF666699街道#c与#CFF666699森林#c，前往#CFF666699废品市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C1E/0",
@@ -194928,7 +194928,7 @@
   "offset": "25DC",
   "jp": "西へ続く#CFF666699街道#cと#CFF666699谷道#cを進み\n#CFF666699ジャンクシティ#cへ向かおう",
   "en": "I'll head for Junk City by way of the\nwest highway and the mountain path.",
-  "zh": ""
+  "zh": "沿着通往西方的#CFF666699街道#c与#CFF666699谷道#c前进，\n前往#CFF666699废品市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C1F/0",
@@ -194937,7 +194937,7 @@
   "offset": "265A",
   "jp": "街の様子を見て回ろう",
   "en": "I'll stroll around to see how things are\ngoing in town.",
-  "zh": ""
+  "zh": "在街上四处看看情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C20/0",
@@ -194946,7 +194946,7 @@
   "offset": "2672",
   "jp": "峡谷側の入口近くの#CFF666699オアシス（広場）#cで\n#CFF666699仲間#cと合流しよう",
   "en": "I'll meet up with my party at the Oasis\n(Square) near the mouth of the gorge.",
-  "zh": ""
+  "zh": "去峡谷侧入口附近的#CFF666699绿洲（广场）#c\n与#CFF666699同伴#c汇合吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C80/0",
@@ -194955,7 +194955,7 @@
   "offset": "26DC",
   "jp": "さわぎのあった街の南にある\n#CFF666699立派な家#cの様子を見に行こう",
   "en": "I'll go and check out the big mansion to\nthe south of town.",
-  "zh": ""
+  "zh": "去城镇南部发生骚乱的\n#CFF666699大宅邸#c看看情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C81/0",
@@ -194964,7 +194964,7 @@
   "offset": "272E",
   "jp": "盗難事件の真相を探るため\n#CFF666699街の人#cに#CFF666699聞き込み#cをしよう",
   "en": "I'll question the townspeople to try to\nget to the bottom of the burglary.",
-  "zh": ""
+  "zh": "为了探查失窃事件的真相，\n向#CFF666699街上的居民#c#CFF666699打听情况#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/C82/0",
@@ -194973,7 +194973,7 @@
   "offset": "2794",
   "jp": "盗難事件の真相を探るため\n街の北にある#CFF666699ユウキの家#cを調べよう",
   "en": "I'll visit Yuki's house at the north end\nof town, to find out about the burglary.",
-  "zh": ""
+  "zh": "为了探查失窃事件的真相，\n去调查位于城镇北部的#CFF666699勇树家#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/CE4/0",
@@ -194982,7 +194982,7 @@
   "offset": "27EA",
   "jp": "#CFF666699ゴーレム笛#cをもとの持ち主の\n#CFF666699ジャンク掘りの少年#cに返そう",
   "en": "I'll try to give the Golem Flute back to\nthe Junkyard Boy.",
-  "zh": ""
+  "zh": "把#CFF666699魔像笛#c归还给\n原主人#CFF666699淘废品的少年#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/CE5/0",
@@ -194991,7 +194991,7 @@
   "offset": "2854",
   "jp": "#CFF666699フバイル#cをこらしめて\n#CFF666699ユウキ#cを助け出そう",
   "en": "I'll scold Fubial and rescue Yuki.",
-  "zh": ""
+  "zh": "教训#CFF666699富拜尔#c，\n救出#CFF666699勇树#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/D48/0",
@@ -195000,7 +195000,7 @@
   "offset": "28B0",
   "jp": "#CFF666699ジャンク掘りの少年#cのもとに向かった\n#CFF666699ユウキ#cを追おう",
   "en": "Yuki is heading for the Junkyard Boy.\nI'll go after her.",
-  "zh": ""
+  "zh": "去追赶前往#CFF666699淘废品的少年#c那里的\n#CFF666699勇树#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/D49/0",
@@ -195009,7 +195009,7 @@
   "offset": "2916",
   "jp": "ユウキを追って、#CFF666699白い花畑#cへ向かおう",
   "en": "I'll pursue Yuki to the field of white\nflowers.",
-  "zh": ""
+  "zh": "去追赶勇树，前往#CFF666699白色花田#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/DAC/0",
@@ -195018,7 +195018,7 @@
   "offset": "2954",
   "jp": "#CFF666699砂漠#cを越えて\n#CFF666699西のキョウトシティ#cへ向かおう",
   "en": "I'll cross the desert, heading west to\nKyoto City.",
-  "zh": ""
+  "zh": "穿过#CFF666699沙漠#c，\n前往#CFF666699西方的京都市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/DAD/0",
@@ -195027,7 +195027,7 @@
   "offset": "29B2",
   "jp": "#CFF666699女剣士#cを助けよう",
   "en": "I'll save the swordswoman.",
-  "zh": ""
+  "zh": "去救#CFF666699女剑士#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/E10/0",
@@ -195036,7 +195036,7 @@
   "offset": "29DE",
   "jp": "クイーンオブアイスを追って\n#CFF666699東のキョウトシティ#cへ向かおう",
   "en": "I'll head east to Kyoto City, in pursuit\nof the Queen of Ice.",
-  "zh": ""
+  "zh": "追踪冰之女王，\n前往#CFF666699东方的京都市#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/E74/0",
@@ -195045,7 +195045,7 @@
   "offset": "2A32",
   "jp": "一休みするため、#CFF666699西のサヤカの里#cへ向かおう",
   "en": "I'll head west to Sayaka's village to take\na rest.",
-  "zh": ""
+  "zh": "为了稍作休息，前往#CFF666699西方的清香之里#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/E75/0",
@@ -195054,7 +195054,7 @@
   "offset": "2A76",
   "jp": "#CFF666699サヤカの父#cに会うため#CFF666699\n#c池の奥にある#CFF666699サヤカの家#cへ向かおう",
   "en": "I'll head to Sayaka's house beyond the\nlake, to meet her father.",
-  "zh": ""
+  "zh": "为了与#CFF666699清香的父亲#c见面，前往#CFF666699\n#c池塘深处的#CFF666699清香家#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/E76/0",
@@ -195063,7 +195063,7 @@
   "offset": "2AF8",
   "jp": "サヤカの父に会うため\n玄関のすぐそばにある#CFF666699茶室#cへ向かおう",
   "en": "I'll go to the tea room near the entrance\nto Sayaka's house, to meet her father.",
-  "zh": ""
+  "zh": "为了与清香的父亲见面，\n前往玄关旁的#CFF666699茶室#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/E77/0",
@@ -195072,7 +195072,7 @@
   "offset": "2B4C",
   "jp": "寝床の準備ができるまで\n里の中を散策しよう",
   "en": "I'll stroll through the village\nuntil I'm ready for bed.",
-  "zh": ""
+  "zh": "在床铺准备好之前，\n在村落里四处逛逛吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/E78/0",
@@ -195081,7 +195081,7 @@
   "offset": "2B7A",
   "jp": "#CFF666699家の外#cに様子を見に行こう",
   "en": "I'll go see how things are outside.",
-  "zh": ""
+  "zh": "去#CFF666699屋外#c看看情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/ED8/0",
@@ -195090,7 +195090,7 @@
   "offset": "2BAE",
   "jp": "#CFF666699ショウグン#cに会うため\n#CFF666699キョウトシティ#cへ向かおう",
   "en": "I'll head for Kyoto City to meet with\nthe Shogun.",
-  "zh": ""
+  "zh": "为了去见#CFF666699将军#c，\n向着#CFF666699京都城#c前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/ED9/0",
@@ -195099,7 +195099,7 @@
   "offset": "2C10",
   "jp": "#CFF666699サヤカ#cと合流するため\n階段の上にある#CFF666699城門#cへ向かおう",
   "en": "I'll head for the castle gate atop the\nstairs to rendezvous with Sayaka.",
-  "zh": ""
+  "zh": "为了与#CFF666699小百合#c汇合，\n前往台阶上方的#CFF666699城门#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/EDA/0",
@@ -195108,7 +195108,7 @@
   "offset": "2C76",
   "jp": "#CFF666699トキムネ#cに会うため\n#CFF666699城の天守閣#cにある#CFF666699謁見の間#cへ向かおう",
   "en": "I'll head for the Audience Room in the\nCastle Tower, to meet with Tokimune.",
-  "zh": ""
+  "zh": "为了去见#CFF666699时宗#c，\n前往#CFF666699城堡天守阁#c的#CFF666699觐见之间#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/F3C/0",
@@ -195117,7 +195117,7 @@
   "offset": "2CF8",
   "jp": "#CFF666699修験場のカギ#cを取りに、キョウトシティの\n南にある#CFF666699お寺#cへ向かおう",
   "en": "I'll head for the temple to the south of\nKyoto City to get the Ascetic Court Key.",
-  "zh": ""
+  "zh": "为了拿到#CFF666699修验场钥匙#c，前往京都城\n南边的#CFF666699寺庙#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/FA0/0",
@@ -195126,7 +195126,7 @@
   "offset": "2D6A",
   "jp": "#CFF666699カリン#cが連れ去られた屋敷へ向かうため\n#CFF666699川#cに下りよう",
   "en": "I'll head down the river to get to the\nmansion where Karin is being held.",
-  "zh": ""
+  "zh": "#CFF666699为了前往卡琳被掳去的宅邸，\n下到#CFF666699河里#c吧#c"
  },
  {
   "id": "OTHER/EVENT1.BIN/FA1/0",
@@ -195135,7 +195135,7 @@
   "offset": "2DD0",
   "jp": "#CFF666699川岸#cから川に入って、カリンが連れ去られた\n#CFF666699屋敷の門#cへ向かおう",
   "en": "I'll jump into the river, and head for the\nhideout where Karin is being held.",
-  "zh": ""
+  "zh": "从#CFF666699河岸#c下水，前往卡琳被掳去的\n#CFF666699宅邸大门#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/FA2/0",
@@ -195144,7 +195144,7 @@
   "offset": "2E40",
   "jp": "#CFF666699カリン#cを救い出すため\n#CFF666699ニンジャ屋敷#cに乗り込もう",
   "en": "I'll break into the Ninja Hideout to\nrescue Karin.",
-  "zh": ""
+  "zh": "为了救出#CFF666699卡琳#c，\n潜入#CFF666699忍者宅邸#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/FA3/0",
@@ -195153,7 +195153,7 @@
   "offset": "2EA2",
   "jp": "#CFF666699ニンジャ屋敷#cを探索し、#CFF666699カリン#cを救い出そう",
   "en": "I'll search the Ninja Hideout and rescue\nKarin.",
-  "zh": ""
+  "zh": "探索#CFF666699忍者宅邸#c，救出#CFF666699卡琳#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1004/0",
@@ -195162,7 +195162,7 @@
   "offset": "2EFE",
   "jp": "#CFF666699トキムネ#cから真相を聞き出すため\n#CFF666699キョウト城#cへ向かおう",
   "en": "I'll head for Kyoto Castle to get the\ntruth out of Tokimune.",
-  "zh": ""
+  "zh": "为了从#CFF666699时宗#c口中问出真相，\n前往#CFF666699京都城#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1068/0",
@@ -195171,7 +195171,7 @@
   "offset": "2F66",
   "jp": "#CFF666699修験場#cを訪ねるため\n#CFF666699サヤカの里#cへ向かおう",
   "en": "I'll head to Sayaka's village so I can\nvisit the Ascetic Court.",
-  "zh": ""
+  "zh": "为了前往#CFF666699修验场#c，\n向着#CFF666699小百合之里#c前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1069/0",
@@ -195180,7 +195180,7 @@
   "offset": "2FC2",
   "jp": "#CFF666699サヤカ#cと話をするため\n#CFF666699サヤカの家#cへ向かおう",
   "en": "I'll head to Sayaka's house so I can\nspeak with her.",
-  "zh": ""
+  "zh": "为了和#CFF666699小百合#c谈谈，\n前往#CFF666699小百合的家#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/106A/0",
@@ -195189,7 +195189,7 @@
   "offset": "3020",
   "jp": "修験場入口の前の#CFF666699祠#cでカギを使って\n#CFF666699修験場への門#cを開こう",
   "en": "I'll open the Ascetic Court gate by\ninserting the key in the small shrine.",
-  "zh": ""
+  "zh": "在修验场入口前的#CFF666699祠堂#c使用钥匙，\n打开#CFF666699通往修验场的大门#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/106B/0",
@@ -195198,7 +195198,7 @@
   "offset": "308A",
   "jp": "秘術を習得するため、#CFF666699修験場#cへ向かおう",
   "en": "I'll head for the Ascetic Court to learn\nthe secret art.",
-  "zh": ""
+  "zh": "为了习得秘术，向着#CFF666699修验场#c前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/10CC/0",
@@ -195207,7 +195207,7 @@
   "offset": "30CA",
   "jp": "#CFF666699シュゲンジャ#cに会うため\n修験場の奥へ進もう",
   "en": "I'll go through the whole Ascetic Court\nto find the Ascetic Monk.",
-  "zh": ""
+  "zh": "为了去见#CFF666699修验者#c，\n向修验场深处前进吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/10CD/0",
@@ -195216,7 +195216,7 @@
   "offset": "3110",
   "jp": "修行の準備ができたことを\n#CFF666699上#cで待つ#CFF666699シュゲンジャ#cに伝えよう",
   "en": "I'll go up top and tell the Ascetic Monk\nthat I'm done preparing for training.",
-  "zh": ""
+  "zh": "去告诉在#CFF666699上方#c等待的#CFF666699修验者#c，\n修行已经准备就绪了"
  },
  {
   "id": "OTHER/EVENT1.BIN/1130/0",
@@ -195225,7 +195225,7 @@
   "offset": "317C",
   "jp": "#CFF666699砦将の社#cの祭壇にある\n#CFF666699コアマテリアル#cを取りに行こう",
   "en": "I'll go and get the Core Material from the\naltar in the Earth Temple.",
-  "zh": ""
+  "zh": "去取#CFF666699砦将之社#c祭坛上的\n#CFF666699核心物质#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1131/0",
@@ -195234,7 +195234,7 @@
   "offset": "31E2",
   "jp": "#CFF666699エーテル#cを注入し、装置を作動させて\n#CFF666699砦将の社#cへ進もう",
   "en": "I'll fuel the device with Ether and use it\nto get to the Earth Temple.",
-  "zh": ""
+  "zh": "注入#CFF666699以太#c启动装置，\n前往#CFF666699砦将之社#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1132/0",
@@ -195243,7 +195243,7 @@
   "offset": "324A",
   "jp": "#CFF666699砦将の社#cの祭壇にある\n#CFF666699コママテリアル#cを取りに行こう",
   "en": "I'll go and get the Core Material from the\naltar in the Earth Temple.",
-  "zh": ""
+  "zh": "去取#CFF666699砦将之社#c祭坛上的\n#CFF666699核心物质#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1133/0",
@@ -195252,7 +195252,7 @@
   "offset": "32B0",
   "jp": "修行を終えたことを#CFF666699シュゲンジャ#cに伝えよう",
   "en": "I'll inform the Ascetic Monk that my\ntraining is complete.",
-  "zh": ""
+  "zh": "去告诉#CFF666699修验者#c修行已经完成吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1194/0",
@@ -195261,7 +195261,7 @@
   "offset": "32F4",
   "jp": "里の中にいる#CFF666699サヤカ#cを助け出そう",
   "en": "I'll go to Sayaka's village and rescue\nher.",
-  "zh": ""
+  "zh": "救出村里的#CFF666699小百合#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11F8/0",
@@ -195270,7 +195270,7 @@
   "offset": "332E",
   "jp": "砦将の復活を止めるため\n#CFF666699キョウト城#cの#CFF666699トキムネ#cのもとへ向かおう",
   "en": "I'll confront Tokimune at Kyoto Castle, to\nstop him from reviving the Lord of Earth.",
-  "zh": ""
+  "zh": "为了阻止砦将复活，\n前往#CFF666699京都城#c的#CFF666699时宗#c身边吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11F9/0",
@@ -195279,7 +195279,7 @@
   "offset": "339E",
   "jp": "#CFF666699謎の男#cに会うため\n#CFF666699キョウト城の城門前#cへ向かおう",
   "en": "I'll head for the gate of Kyoto Castle\nto meet with the Mystery Man.",
-  "zh": ""
+  "zh": "为了去见#CFF666699神秘男子#c，\n前往#CFF666699京都城的城门前#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11FA/0",
@@ -195288,7 +195288,7 @@
   "offset": "3400",
   "jp": "砦将の復活を止めるため\n#CFF666699キョウト城#cの#CFF666699トキムネ#cのもとへ向かおう",
   "en": "I'll confront Tokimune at Kyoto Castle, to\nstop him from reviving the Lord of Earth.",
-  "zh": ""
+  "zh": "为了阻止砦将复活，\n前往#CFF666699京都城#c的#CFF666699时宗#c身边吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11FB/0",
@@ -195297,7 +195297,7 @@
   "offset": "3470",
   "jp": "トキムネに会うため、#CFF666699謁見の間#cへ向かおう",
   "en": "I'll head for the Audience Room to meet\nwith Tokimune.",
-  "zh": ""
+  "zh": "为了去见时宗，前往#CFF666699觐见之间#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11FC/0",
@@ -195306,7 +195306,7 @@
   "offset": "34B2",
   "jp": "トキムネを追うため、#CFF666699抜け道#cを探そう",
   "en": "I'll look for the secret passage so we can\ngo after Tokimune.",
-  "zh": ""
+  "zh": "为了追赶时宗，寻找#CFF666699密道#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11FD/0",
@@ -195315,7 +195315,7 @@
   "offset": "34F0",
   "jp": "#CFF666699抜け道#cを通って、トキムネを追いかけよう",
   "en": "I'll take the secret passage to get on\nTokimune's trail.",
-  "zh": ""
+  "zh": "穿过#CFF666699密道#c，去追赶时宗吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/11FE/0",
@@ -195324,7 +195324,7 @@
   "offset": "3532",
   "jp": "クイーンオブアイスを追って\n#CFF666699砦将の社#cへ向かおう",
   "en": "I'll head for the Earth Temple, in pursuit\nof the Queen of Ice.",
-  "zh": ""
+  "zh": "追赶冰之女王，\n前往#CFF666699砦将之社#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/125C/0",
@@ -195333,7 +195333,7 @@
   "offset": "357C",
   "jp": "#CFF666699家の外#cに出て、気持ちを落ち着かせよう",
   "en": "I'll step outside and try to calm myself\ndown.",
-  "zh": ""
+  "zh": "走到#CFF666699屋外#c，平复一下心情吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/12C0/0",
@@ -195342,7 +195342,7 @@
   "offset": "35BC",
   "jp": "#CFF666699家の外#cに出て、気持ちを落ち着かせよう",
   "en": "I'll step outside and try to calm myself\ndown.",
-  "zh": ""
+  "zh": "走到#CFF666699屋外#c，平复一下心情吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1324/0",
@@ -195351,7 +195351,7 @@
   "offset": "35FC",
   "jp": "#CFF666699サヤカの家#cにいる仲間のもとに戻ろう",
   "en": "I'll go back to Sayaka's house, where my\nparty awaits.",
-  "zh": ""
+  "zh": "回到在#CFF666699小百合的家#c等待的同伴身边吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1325/0",
@@ -195360,7 +195360,7 @@
   "offset": "363A",
   "jp": "#CFF666699砂漠の北#cの#CFF666699火山道#cを抜けて\n#CFF666699賢者の塔#cへ向かおう",
   "en": "I'll take the Volcanic Path north of the\ndesert, heading for the Sage's Tower.",
-  "zh": ""
+  "zh": "穿过#CFF666699沙漠以北#c的#CFF666699火山道#c，\n前往#CFF666699贤者之塔#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1326/0",
@@ -195369,7 +195369,7 @@
   "offset": "36B2",
   "jp": "火山道をふさぐ#CFF666699ガラクタ#cをどかすため\n#CFF666699ジャンクシティ#cの#CFF666699少年#cに会おう",
   "en": "I'll find the Junk City boy and get him\nto move the rubble on the Volcanic Path.",
-  "zh": ""
+  "zh": "为了移开堵塞火山道的#CFF666699废弃残骸#c，\n去见#CFF666699废品城#c的#CFF666699少年#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1327/0",
@@ -195378,7 +195378,7 @@
   "offset": "373E",
   "jp": "#CFF666699火山道#cのガラクタとジャンクシティの少年を\n確かめに行こう",
   "en": "I'll go and check on the rubble on the\nVolcanic Path and the Junk City boy.",
-  "zh": ""
+  "zh": "去确认一下#CFF666699火山道#c的废弃残骸\n以及废品城的少年吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1328/0",
@@ -195387,7 +195387,7 @@
   "offset": "3792",
   "jp": "#CFF666699火山道#cを抜けて、#CFF666699賢者の塔#cへ向かおう",
   "en": "I'll take the Volcanic Path, heading for\nthe Sage's Tower.",
-  "zh": ""
+  "zh": "穿过#CFF666699火山道#c，前往#CFF666699贤者之塔#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1388/0",
@@ -195396,7 +195396,7 @@
   "offset": "37E8",
   "jp": "#CFF666699塔の頂上#cの#CFF666699庵#cにいる#CFF666699賢者#cに会おう",
   "en": "I'll meet with the Sage, in the chamber\nat the top of the Tower.",
-  "zh": ""
+  "zh": "去见见位于#CFF666699塔顶#c#CFF666699草庵#c里的#CFF666699贤者#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1389/0",
@@ -195405,7 +195405,7 @@
   "offset": "3852",
   "jp": "#CFF666699エーテル#cを注入し、装置を作動させて\n#CFF666699塔の頂上へ続く扉#cを開こう",
   "en": "I'll fuel the device with Ether and use it\nto open the door to the top of the Tower.",
-  "zh": ""
+  "zh": "注入#CFF666699以太#c启动装置，\n打开#CFF666699通往塔顶的门#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/138A/0",
@@ -195414,7 +195414,7 @@
   "offset": "38C2",
   "jp": "#CFF666699塔の頂上#cの#CFF666699庵#cにいる#CFF666699賢者#cに会おう",
   "en": "I'll meet with the Sage, in the chamber\nat the top of the Tower.",
-  "zh": ""
+  "zh": "去见见位于#CFF666699塔顶#c#CFF666699草庵#c里的#CFF666699贤者#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/138B/0",
@@ -195423,7 +195423,7 @@
   "offset": "392C",
   "jp": "#CFF666699賢者#cのご機嫌をうかがい\n話を聞いてもらおう",
   "en": "I'll talk to the Sage to try to get a\nmeasure of her temper.",
-  "zh": ""
+  "zh": "先去探探#CFF666699贤者#c的心情，\n让她听我们说明情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/13EC/0",
@@ -195432,7 +195432,7 @@
   "offset": "3972",
   "jp": "#CFF666699地ひびき#cの原因を探るため#CFF666699\n塔の頂上#cの様子を見に行こう",
   "en": "I'll check things out at the top of the\nTower to see what caused the rumbling.",
-  "zh": ""
+  "zh": "为了查明#CFF666699震动#c的原因，去#CFF666699\n塔顶#c看看情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/13ED/0",
@@ -195441,7 +195441,7 @@
   "offset": "39DA",
   "jp": "状況を説明するため\n#CFF666699庵#cにいる#CFF666699賢者#cのもとへ戻ろう",
   "en": "I'll return to the Sage in her chamber to\nexplain the situation.",
-  "zh": ""
+  "zh": "为了说明情况，\n回到#CFF666699草庵#c里的#CFF666699贤者#c身边吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/13EE/0",
@@ -195450,7 +195450,7 @@
   "offset": "3A3C",
   "jp": "#CFF666699庵#cに戻って、仲間たちと方針を相談しよう",
   "en": "I'll head back to the chamber, and discuss\nwith my party about what to do.",
-  "zh": ""
+  "zh": "回#CFF666699草庵#c去，和同伴们商量接下来的方针吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1450/0",
@@ -195459,7 +195459,7 @@
   "offset": "3A7E",
   "jp": "#CFF666699武具#cが完成するまで、塔の中を散策しよう",
   "en": "I'll stroll around the Tower and kill time\nuntil the weapon is finished.",
-  "zh": ""
+  "zh": "在#CFF666699武器防具#c完成之前，在塔里到处转转吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/14B4/0",
@@ -195468,7 +195468,7 @@
   "offset": "3AC0",
   "jp": "#CFF666699武具#cが完成するまで、塔の中を散策しよう",
   "en": "I'll stroll around the Tower and kill time\nuntil the weapon is finished.",
-  "zh": ""
+  "zh": "在#CFF666699武器防具#c完成之前，在塔里到处转转吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1518/0",
@@ -195477,7 +195477,7 @@
   "offset": "3B02",
   "jp": "塔の頂上の#CFF666699転送装置#cを使って\nクイーンオブアイスの城へ続く#CFF666699村#cへ向かおう",
   "en": "I'll use the Tower's teleporter to go to\nthe village of the Queen of Ice's castle.",
-  "zh": ""
+  "zh": "使用塔顶的#CFF666699传送装置#c，\n前往通往冰之女王城堡的#CFF666699村落#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1519/0",
@@ -195486,7 +195486,7 @@
   "offset": "3B7A",
   "jp": "クイーンオブアイスの城について\n#CFF666699村の人#cに話を聞こう",
   "en": "I'll speak with the villagers about the\nQueen of Ice's castle.",
-  "zh": ""
+  "zh": "向#CFF666699村民#c打听一下\n关于冰之女王城堡的事吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/157C/0",
@@ -195495,7 +195495,7 @@
   "offset": "3BC8",
   "jp": "#CFF666699中央の家#cに住む#CFF666699村の長老#cに\n門についての話を聞こう",
   "en": "I'll talk to the Village Elder about the\ngate, in her house in the village.",
-  "zh": ""
+  "zh": "向住在#CFF666699中央房屋#c里的#CFF666699村落长老#c\n打听关于大门的事吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/157D/0",
@@ -195504,7 +195504,7 @@
   "offset": "3C2C",
   "jp": "#CFF666699墓地#cにいる#CFF666699村の長老#cに話を聞こう",
   "en": "I'll go to the graveyard and speak with\nthe Village Elder.",
-  "zh": ""
+  "zh": "去向位于#CFF666699墓地#c的#CFF666699村落长老#c打听情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/15E0/0",
@@ -195513,7 +195513,7 @@
   "offset": "3C7E",
   "jp": "謎の男と会うため、#CFF666699門の前#cへ向かおう",
   "en": "I'll go to the castle gate to meet the\nMystery Man.",
-  "zh": ""
+  "zh": "为了与神秘男子会面，前往#CFF666699大门前#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1644/0",
@@ -195522,7 +195522,7 @@
   "offset": "3CBC",
   "jp": "#CFF666699気になる仲間#cがいれば、声をかけてから#CFF666699\n長老の家#cに戻って、最後の戦いに備えよう",
   "en": "I'll greet my friends, then return to the\nElder's house.",
-  "zh": ""
+  "zh": "若有#CFF666699在意的同伴#c就去打个招呼，然后返回#CFF666699\n长老家#c，为最后的战斗做好准备吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1645/0",
@@ -195531,7 +195531,7 @@
   "offset": "3D3C",
   "jp": "#CFF666699気になる仲間#cがいれば、声をかけてから#CFF666699\n長老の家#cに戻って、最後の戦いに備えよう",
   "en": "I'll greet my friends, then return to the\nElder's house.",
-  "zh": ""
+  "zh": "若有#CFF666699在意的同伴#c就去打个招呼，然后返回#CFF666699\n长老家#c，为最后的战斗做好准备吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/16A8/0",
@@ -195540,7 +195540,7 @@
   "offset": "3DBC",
   "jp": "村の奥の#CFF666699門#cを通って\n#CFF666699クイーンオブアイスの城#cへ向かおう",
   "en": "I'll go to the Queen of Ice's castle via\nthe gate at the far end of the village.",
-  "zh": ""
+  "zh": "穿过村子深处的#CFF666699大门#c，\n前往#CFF666699冰之女王的城堡#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/16A9/0",
@@ -195549,7 +195549,7 @@
   "offset": "3E24",
   "jp": "門を抜けて\n#CFF666699クイーンオブアイスの城#cへ向かおう",
   "en": "I'll pass through the gates, and head for\nthe Queen of Ice's castle.",
-  "zh": ""
+  "zh": "穿过大门，\n前往#CFF666699冰之女王的城堡#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/16AA/0",
@@ -195558,7 +195558,7 @@
   "offset": "3E6C",
   "jp": "クイーンオブアイスの#CFF666699氷の城#cへ進入しよう",
   "en": "I'll enter the Queen of Ice's castle.",
-  "zh": ""
+  "zh": "潜入冰之女王的#CFF666699寒冰之城#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/170C/0",
@@ -195567,7 +195567,7 @@
   "offset": "3EAE",
   "jp": "#CFF666699クイーンオブアイス#cを倒すため\n#CFF666699城の奥#cへ向かおう",
   "en": "I'll make for the depths of the castle,\nthere to defeat the Queen of Ice.",
-  "zh": ""
+  "zh": "为了打倒#CFF666699冰之女王#c，\n前往#CFF666699城堡深处#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1770/0",
@@ -195576,7 +195576,7 @@
   "offset": "3F10",
   "jp": "クイーンオブアイスを倒し\nトウヤを救うため、#CFF666699聖堂#cへ向かおう",
   "en": "I'll head for the shrine to take down\nthe Queen of Ice and save Toya.",
-  "zh": ""
+  "zh": "为了打倒冰之女王\n并救出托亚，前往#CFF666699圣堂#c吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/17D4/0",
@@ -195585,7 +195585,7 @@
   "offset": "3F66",
   "jp": "あたりの様子を確かめよう",
   "en": "I'll check the immediate situation.",
-  "zh": ""
+  "zh": "查看一下四周的情况吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1838/0",
@@ -195594,7 +195594,7 @@
   "offset": "3F82",
   "jp": "#CFF666699商業区#cにいるみんなに、集合場所を伝えよう",
   "en": "I'll find everyone in the Trade District,\nand tell them where we will be meeting.",
-  "zh": ""
+  "zh": "去通知在#CFF666699商业区#c的大家集合地点吧"
  },
  {
   "id": "OTHER/EVENT1.BIN/1839/0",
@@ -195603,7 +195603,7 @@
   "offset": "3FC6",
   "jp": "集合場所の#CFF666699噴水前#cで、みんなに合流しよう",
   "en": "I'll meet up with everyone at the\nfountain.",
-  "zh": ""
+  "zh": "去集合地点的#CFF666699喷水池前#c与大家汇合吧"
  },
  {
   "id": "OTHER/EVENT3.BIN/64/0",
