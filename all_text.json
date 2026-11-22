@@ -193722,7 +193722,7 @@
   "offset": "14",
   "jp": "・ルール\n\n　１．ビンゴカードには５×５の２５マスに\n　　　１～２４までの番号が振られています\n　　　中央のマスは常に当たりのマスです\n\n　２．数字を１つずつ１０回抽選します\n　　　抽選された数字はビンゴカードで\n　　　当たりとなります\n\n　３．縦横斜めのいずれかで\n　　　数字が５つそろえばビンゴです",
   "en": "• Rules\n 1. Numbers from 1-24 are randomly assigned\n    to 25 squares on a Bingo card. The square\n    in the middle always hits. \n\n 2. 10 numbers are drawn, one at a time.\n    A match with a square is a hit.\n\n 3. If 5 numbers hit on a straight line,\n    BINGO!",
-  "zh": ""
+  "zh": "・规则\n\n　１．宾果卡在５×５的２５个格子里\n　　　分配有１～２４的编号\n　　　正中央的格子固定为中奖格\n\n　２．每次抽取１个数字，共抽取１０次\n　　　抽出的数字在宾果卡上\n　　　会被视为命中\n\n　３．只要横、竖、斜任意方向\n　　　凑齐５个数字就算宾果"
  },
  {
   "id": "OTHER/BINGODESC.BIN/2/0",
@@ -193731,7 +193731,7 @@
   "offset": "144",
   "jp": "・遊び方\n\n　１．方向キーでベットするチップ数を選び\n　　　①で決定します\n\n　２．①で抽選が開始します",
   "en": "• How to Play \n\n 1. Use the left stick to select the number\n    of chips to bet. \n　  Confirm with ①.\n\n 2. When ① is pressed, numbers will be\n    drawn.",
-  "zh": ""
+  "zh": "・玩法\n\n　１．用方向键选择下注的筹码数\n　　　按①确认\n\n　２．按①开始抽选"
  },
  {
   "id": "OTHER/BLOCKADE.BIN/1/0",
