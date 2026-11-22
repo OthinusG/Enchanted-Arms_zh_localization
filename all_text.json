@@ -238515,7 +238515,7 @@
   "offset": "27B8",
   "jp": "何もなし（００番）",
   "en": "Nothing (00)",
-  "zh": ""
+  "zh": "无（00号）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/0/1",
@@ -238524,7 +238524,7 @@
   "offset": "27CC",
   "jp": "何もなし",
   "en": "Nothing",
-  "zh": ""
+  "zh": "无"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1/0",
@@ -238533,7 +238533,7 @@
   "offset": "27D6",
   "jp": "待機",
   "en": "Standby",
-  "zh": ""
+  "zh": "待机"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1/1",
@@ -238542,7 +238542,7 @@
   "offset": "27DC",
   "jp": "何も行動せずに、ＥＰを回復する",
   "en": "Take no action, recover EP",
-  "zh": ""
+  "zh": "不采取任何行动，恢复EP"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2/0",
@@ -238551,7 +238551,7 @@
   "offset": "27FC",
   "jp": "火属性攻撃無効化",
   "en": "",
-  "zh": ""
+  "zh": "火属性攻击无效化"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2/1",
@@ -238560,7 +238560,7 @@
   "offset": "280E",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3/0",
@@ -238569,7 +238569,7 @@
   "offset": "2816",
   "jp": "闇属性攻撃無効化",
   "en": "",
-  "zh": ""
+  "zh": "暗属性攻击无效化"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3/1",
@@ -238578,7 +238578,7 @@
   "offset": "2828",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4/0",
@@ -238587,7 +238587,7 @@
   "offset": "2830",
   "jp": "ザコアタック（地）",
   "en": "",
-  "zh": ""
+  "zh": "杂兵攻击（地）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4/1",
@@ -238596,7 +238596,7 @@
   "offset": "2844",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/5/0",
@@ -238605,7 +238605,7 @@
   "offset": "284C",
   "jp": "ＨＰ回復",
   "en": "",
-  "zh": ""
+  "zh": "HP恢复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/5/1",
@@ -238614,7 +238614,7 @@
   "offset": "2856",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/6/0",
@@ -238623,7 +238623,7 @@
   "offset": "285E",
   "jp": "ボスファイア（火）",
   "en": "",
-  "zh": ""
+  "zh": "Boss烈火（火）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/6/1",
@@ -238632,7 +238632,7 @@
   "offset": "2872",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/7/0",
@@ -238641,7 +238641,7 @@
   "offset": "287A",
   "jp": "眠り攻撃（闇）",
   "en": "",
-  "zh": ""
+  "zh": "催眠攻击（暗）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/7/1",
@@ -238650,7 +238650,7 @@
   "offset": "288A",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8/0",
@@ -238659,7 +238659,7 @@
   "offset": "2892",
   "jp": "ＳＰ回復",
   "en": "",
-  "zh": ""
+  "zh": "SP恢复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8/1",
@@ -238668,7 +238668,7 @@
   "offset": "289C",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/9/0",
@@ -238677,7 +238677,7 @@
   "offset": "28A4",
   "jp": "騎士通常",
   "en": "",
-  "zh": ""
+  "zh": "骑士普攻"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/9/1",
@@ -238686,7 +238686,7 @@
   "offset": "28AE",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/A/0",
@@ -238695,7 +238695,7 @@
   "offset": "28B6",
   "jp": "炎ゴレ通常",
   "en": "",
-  "zh": ""
+  "zh": "炎魔像普攻"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/A/1",
@@ -238704,7 +238704,7 @@
   "offset": "28C2",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B/0",
@@ -238713,7 +238713,7 @@
   "offset": "28CA",
   "jp": "炎ゴレ魔法",
   "en": "",
-  "zh": ""
+  "zh": "炎魔像魔法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B/1",
@@ -238722,7 +238722,7 @@
   "offset": "28D6",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C/0",
@@ -238731,7 +238731,7 @@
   "offset": "28DE",
   "jp": "通常攻撃",
   "en": "",
-  "zh": ""
+  "zh": "普通攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C/1",
@@ -238740,7 +238740,7 @@
   "offset": "28E8",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D/0",
@@ -238749,7 +238749,7 @@
   "offset": "28F0",
   "jp": "ボス通常攻撃",
   "en": "",
-  "zh": ""
+  "zh": "Boss普通攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D/1",
@@ -238758,7 +238758,7 @@
   "offset": "28FE",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/E/0",
@@ -238767,7 +238767,7 @@
   "offset": "2906",
   "jp": "アツマ連携攻撃（火）",
   "en": "",
-  "zh": ""
+  "zh": "阿茨玛连携攻击（火）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/E/1",
@@ -238776,7 +238776,7 @@
   "offset": "291C",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F/0",
@@ -238785,7 +238785,7 @@
   "offset": "2924",
   "jp": "ボス連携攻撃（火）",
   "en": "",
-  "zh": ""
+  "zh": "Boss连携攻击（火）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F/1",
@@ -238794,7 +238794,7 @@
   "offset": "2938",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10/0",
@@ -238803,7 +238803,7 @@
   "offset": "2940",
   "jp": "攻撃吸収特性（地）",
   "en": "",
-  "zh": ""
+  "zh": "攻击吸收特性（地）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10/1",
@@ -238812,7 +238812,7 @@
   "offset": "2954",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/11/0",
@@ -238821,7 +238821,7 @@
   "offset": "295C",
   "jp": "遠距離攻撃",
   "en": "",
-  "zh": ""
+  "zh": "远距离攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/11/1",
@@ -238830,7 +238830,7 @@
   "offset": "2968",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/12/0",
@@ -238839,7 +238839,7 @@
   "offset": "2970",
   "jp": "通常攻撃",
   "en": "",
-  "zh": ""
+  "zh": "普通攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/12/1",
@@ -238848,7 +238848,7 @@
   "offset": "297A",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/14/0",
@@ -238857,7 +238857,7 @@
   "offset": "2982",
   "jp": "単体攻撃",
   "en": "",
-  "zh": ""
+  "zh": "单体攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/14/1",
@@ -238866,7 +238866,7 @@
   "offset": "298C",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/15/0",
@@ -238875,7 +238875,7 @@
   "offset": "2994",
   "jp": "縦攻撃",
   "en": "",
-  "zh": ""
+  "zh": "纵列攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/15/1",
@@ -238884,7 +238884,7 @@
   "offset": "299C",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/16/0",
@@ -238893,7 +238893,7 @@
   "offset": "29A4",
   "jp": "横攻撃",
   "en": "",
-  "zh": ""
+  "zh": "横列攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/16/1",
@@ -238902,7 +238902,7 @@
   "offset": "29AC",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17/0",
@@ -238911,7 +238911,7 @@
   "offset": "29B4",
   "jp": "十字攻撃",
   "en": "",
-  "zh": ""
+  "zh": "十字攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17/1",
@@ -238920,7 +238920,7 @@
   "offset": "29BE",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18/0",
@@ -238929,7 +238929,7 @@
   "offset": "29C6",
   "jp": "×字攻撃",
   "en": "",
-  "zh": ""
+  "zh": "X字攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18/1",
@@ -238938,7 +238938,7 @@
   "offset": "29D0",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/19/0",
@@ -238947,7 +238947,7 @@
   "offset": "29D8",
   "jp": "範囲攻撃",
   "en": "",
-  "zh": ""
+  "zh": "范围攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/19/1",
@@ -238956,7 +238956,7 @@
   "offset": "29E2",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1A/0",
@@ -238965,7 +238965,7 @@
   "offset": "29EA",
   "jp": "全体攻撃",
   "en": "",
-  "zh": ""
+  "zh": "全体攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1A/1",
@@ -238974,7 +238974,7 @@
   "offset": "29F4",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3E8/0",
@@ -238983,7 +238983,7 @@
   "offset": "29FC",
   "jp": "フレアラッシュ",
   "en": "Flare Rush",
-  "zh": ""
+  "zh": "烈焰连拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3E8/1",
@@ -238992,7 +238992,7 @@
   "offset": "2A0C",
   "jp": "直接：敵１体に、火属性の弱パンチ連打",
   "en": "Direct: [Fire] Weak barrage on single enemy",
-  "zh": ""
+  "zh": "直接：对敌方单体施展火属性弱连拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3E9/0",
@@ -239001,7 +239001,7 @@
   "offset": "2A32",
   "jp": "ハイフレアラッシュ",
   "en": "High Flare Rush",
-  "zh": ""
+  "zh": "高阶烈焰连拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3E9/1",
@@ -239010,7 +239010,7 @@
   "offset": "2A46",
   "jp": "直接：敵１体に、火属性の中パンチ連打",
   "en": "Direct: [Fire] Medium barrage on single enemy",
-  "zh": ""
+  "zh": "直接：对敌方单体施展火属性中连拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3EA/0",
@@ -239019,7 +239019,7 @@
   "offset": "2A6C",
   "jp": "メガフレアラッシュ",
   "en": "Mega Flare Rush",
-  "zh": ""
+  "zh": "超阶烈焰连拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/3EA/1",
@@ -239028,7 +239028,7 @@
   "offset": "2A80",
   "jp": "直接：敵１体に、火属性の強パンチ連打",
   "en": "Direct: [Fire] Strong barrage on single enemy",
-  "zh": ""
+  "zh": "直接：对敌方单体施展火属性强连拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/41A/0",
@@ -239037,7 +239037,7 @@
   "offset": "2AA6",
   "jp": "ブロウ",
   "en": "Blow",
-  "zh": ""
+  "zh": "强击拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/41A/1",
@@ -239046,7 +239046,7 @@
   "offset": "2AAE",
   "jp": "直接：縦列の敵に、無属性の弱パンチ",
   "en": "Direct: Weak punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人施展无属性弱重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/41B/0",
@@ -239055,7 +239055,7 @@
   "offset": "2AD2",
   "jp": "ハイブロウ",
   "en": "High Blow",
-  "zh": ""
+  "zh": "高阶强击拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/41B/1",
@@ -239064,7 +239064,7 @@
   "offset": "2ADE",
   "jp": "直接：縦列の敵に、無属性の中パンチ",
   "en": "Direct: Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人施展无属性中重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/41C/0",
@@ -239073,7 +239073,7 @@
   "offset": "2B02",
   "jp": "メガブロウ",
   "en": "Mega Blow",
-  "zh": ""
+  "zh": "超阶强击拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/41C/1",
@@ -239082,7 +239082,7 @@
   "offset": "2B0E",
   "jp": "直接：縦列の敵に、無属性の強パンチ",
   "en": "Direct: Strong punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人施展无属性强重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44C/0",
@@ -239091,7 +239091,7 @@
   "offset": "2B32",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44C/1",
@@ -239100,7 +239100,7 @@
   "offset": "2B36",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44D/0",
@@ -239109,7 +239109,7 @@
   "offset": "2B3A",
   "jp": "アクアブロウ",
   "en": "Aqua Blow",
-  "zh": ""
+  "zh": "流水强击拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44D/1",
@@ -239118,7 +239118,7 @@
   "offset": "2B48",
   "jp": "直接：縦列の敵に、水属性の弱パンチ",
   "en": "Direct: [Water] Weak punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人施展水属性弱重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44E/0",
@@ -239127,7 +239127,7 @@
   "offset": "2B6C",
   "jp": "フレアブロウ",
   "en": "Flare Blow",
-  "zh": ""
+  "zh": "烈焰强击拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44E/1",
@@ -239136,7 +239136,7 @@
   "offset": "2B7A",
   "jp": "直接：縦列の敵に、火属性の弱パンチ",
   "en": "Direct: [Fire] Weak punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人施展火属性弱重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44F/0",
@@ -239145,7 +239145,7 @@
   "offset": "2B9E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/44F/1",
@@ -239154,7 +239154,7 @@
   "offset": "2BA2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/450/0",
@@ -239163,7 +239163,7 @@
   "offset": "2BA6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/450/1",
@@ -239172,7 +239172,7 @@
   "offset": "2BAA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/451/0",
@@ -239181,7 +239181,7 @@
   "offset": "2BAE",
   "jp": "ダークブロウ",
   "en": "Dark Blow",
-  "zh": ""
+  "zh": "暗黑重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/451/1",
@@ -239190,7 +239190,7 @@
   "offset": "2BBC",
   "jp": "直接：縦列の敵に、闇属性の弱パンチ",
   "en": "Direct: [Dark] Weak punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成暗属性弱打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/456/0",
@@ -239199,7 +239199,7 @@
   "offset": "2BE0",
   "jp": "ハイアースブロウ",
   "en": "High Earth Blow",
-  "zh": ""
+  "zh": "高阶大地重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/456/1",
@@ -239208,7 +239208,7 @@
   "offset": "2BF2",
   "jp": "直接：縦列の敵に、地属性の中パンチ",
   "en": "Direct: [Earth] Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成地属性中打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/457/0",
@@ -239217,7 +239217,7 @@
   "offset": "2C16",
   "jp": "ハイアクアブロウ",
   "en": "High Aqua Blow",
-  "zh": ""
+  "zh": "高阶流水重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/457/1",
@@ -239226,7 +239226,7 @@
   "offset": "2C28",
   "jp": "直接：縦列の敵に、水属性の中パンチ",
   "en": "Direct: [Water] Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成水属性中打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/458/0",
@@ -239235,7 +239235,7 @@
   "offset": "2C4C",
   "jp": "ハイフレアブロウ",
   "en": "High Flare Blow",
-  "zh": ""
+  "zh": "高阶烈焰重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/458/1",
@@ -239244,7 +239244,7 @@
   "offset": "2C5E",
   "jp": "直接：縦列の敵に、火属性の中パンチ",
   "en": "Direct: [Fire] Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成火属性中打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/459/0",
@@ -239253,7 +239253,7 @@
   "offset": "2C82",
   "jp": "ハイエアロブロウ",
   "en": "High Air Blow",
-  "zh": ""
+  "zh": "高阶疾风重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/459/1",
@@ -239262,7 +239262,7 @@
   "offset": "2C94",
   "jp": "直接：縦列の敵に、風属性の中パンチ",
   "en": "Direct: [Wind] Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成风属性中打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/45A/0",
@@ -239271,7 +239271,7 @@
   "offset": "2CB8",
   "jp": "ハイライトブロウ",
   "en": "High Light Blow",
-  "zh": ""
+  "zh": "高阶圣光重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/45A/1",
@@ -239280,7 +239280,7 @@
   "offset": "2CCA",
   "jp": "直接：縦列の敵に、光属性の中パンチ",
   "en": "Direct: [Light] Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成光属性中打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/45B/0",
@@ -239289,7 +239289,7 @@
   "offset": "2CEE",
   "jp": "ハイダークブロウ",
   "en": "High Dark Blow",
-  "zh": ""
+  "zh": "高阶暗黑重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/45B/1",
@@ -239298,7 +239298,7 @@
   "offset": "2D00",
   "jp": "直接：縦列の敵に、闇属性の中パンチ",
   "en": "Direct: [Dark] Medium punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成暗属性中打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/460/0",
@@ -239307,7 +239307,7 @@
   "offset": "2D24",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/460/1",
@@ -239316,7 +239316,7 @@
   "offset": "2D28",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/461/0",
@@ -239325,7 +239325,7 @@
   "offset": "2D2C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/461/1",
@@ -239334,7 +239334,7 @@
   "offset": "2D30",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/462/0",
@@ -239343,7 +239343,7 @@
   "offset": "2D34",
   "jp": "メガフレアブロウ",
   "en": "Mega Flare Blow",
-  "zh": ""
+  "zh": "超阶烈焰重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/462/1",
@@ -239352,7 +239352,7 @@
   "offset": "2D46",
   "jp": "直接：縦列の敵に、火属性の強パンチ",
   "en": "Direct: [Fire] Strong punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成火属性强打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/463/0",
@@ -239361,7 +239361,7 @@
   "offset": "2D6A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/463/1",
@@ -239370,7 +239370,7 @@
   "offset": "2D6E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/464/0",
@@ -239379,7 +239379,7 @@
   "offset": "2D72",
   "jp": "メガライトブロウ",
   "en": "Mega Light Blow",
-  "zh": ""
+  "zh": "超阶圣光重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/464/1",
@@ -239388,7 +239388,7 @@
   "offset": "2D84",
   "jp": "直接：縦列の敵に、光属性の強パンチ",
   "en": "Direct: [Light] Strong punch to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成光属性强打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/465/0",
@@ -239397,7 +239397,7 @@
   "offset": "2DA8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/465/1",
@@ -239406,7 +239406,7 @@
   "offset": "2DAC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/47E/0",
@@ -239415,7 +239415,7 @@
   "offset": "2DB0",
   "jp": "マイティブロウ",
   "en": "Mighty Blow",
-  "zh": ""
+  "zh": "强力重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/47E/1",
@@ -239424,7 +239424,7 @@
   "offset": "2DC0",
   "jp": "直接：敵１体に、無属性の超パンチ",
   "en": "Direct: Max power punch to single enemy",
-  "zh": ""
+  "zh": "直接：对敌方单体造成无属性超强打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4B0/0",
@@ -239433,7 +239433,7 @@
   "offset": "2DE2",
   "jp": "スタンプビート",
   "en": "Stampede",
-  "zh": ""
+  "zh": "践踏连击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4B0/1",
@@ -239442,7 +239442,7 @@
   "offset": "2DF2",
   "jp": "直接：範囲内の敵に、無属性の弱衝撃",
   "en": "Direct: Low impact attack on all enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人造成无属性弱冲击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4B1/0",
@@ -239451,7 +239451,7 @@
   "offset": "2E16",
   "jp": "ハイスタンプビート",
   "en": "High Stampede",
-  "zh": ""
+  "zh": "高阶践踏连击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4B1/1",
@@ -239460,7 +239460,7 @@
   "offset": "2E2A",
   "jp": "直接：範囲内の敵に、無属性の中衝撃",
   "en": "Direct: Medium impact attack on all enemy in range",
-  "zh": ""
+  "zh": "直接：范围内的敌人，无属性的中冲击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4B2/0",
@@ -239469,7 +239469,7 @@
   "offset": "2E4E",
   "jp": "メガスタンプビート",
   "en": "Mega Stampede",
-  "zh": ""
+  "zh": "百万践踏重击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4B2/1",
@@ -239478,7 +239478,7 @@
   "offset": "2E62",
   "jp": "直接：範囲内の敵に、無属性の強衝撃",
   "en": "Direct: High impact attack on all enemy in range",
-  "zh": ""
+  "zh": "直接：范围内的敌人，无属性的强冲击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4E2/0",
@@ -239487,7 +239487,7 @@
   "offset": "2E86",
   "jp": "ウェーブ",
   "en": "Wave",
-  "zh": ""
+  "zh": "波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4E2/1",
@@ -239496,7 +239496,7 @@
   "offset": "2E90",
   "jp": "直接：縦列の敵に、無属性の弱拳波",
   "en": "Direct: Weak shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，无属性的弱拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4E3/0",
@@ -239505,7 +239505,7 @@
   "offset": "2EB2",
   "jp": "メガウェーブ",
   "en": "Mega Wave",
-  "zh": ""
+  "zh": "百万波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/4E3/1",
@@ -239514,7 +239514,7 @@
   "offset": "2EC0",
   "jp": "直接：縦列の敵に、無属性の強拳波",
   "en": "Direct: Strong shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，无属性的强拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/514/0",
@@ -239523,7 +239523,7 @@
   "offset": "2EE2",
   "jp": "アースウェーブ",
   "en": "Earth Wave",
-  "zh": ""
+  "zh": "大地波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/514/1",
@@ -239532,7 +239532,7 @@
   "offset": "2EF2",
   "jp": "直接：縦列の敵に、地属性の弱拳波",
   "en": "Direct: [Earth] Weak shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，地属性的弱拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/515/0",
@@ -239541,7 +239541,7 @@
   "offset": "2F14",
   "jp": "アクアウェーブ",
   "en": "Aqua Wave",
-  "zh": ""
+  "zh": "水流波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/515/1",
@@ -239550,7 +239550,7 @@
   "offset": "2F24",
   "jp": "直接：縦列の敵に、水属性の弱拳波",
   "en": "Direct: [Water] Weak shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，水属性的弱拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/516/0",
@@ -239559,7 +239559,7 @@
   "offset": "2F46",
   "jp": "フレアウェーブ",
   "en": "Flare Wave",
-  "zh": ""
+  "zh": "烈焰波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/516/1",
@@ -239568,7 +239568,7 @@
   "offset": "2F56",
   "jp": "直接：縦列の敵に、火属性の弱拳波",
   "en": "Direct: [Fire] Weak shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，火属性的弱拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/517/0",
@@ -239577,7 +239577,7 @@
   "offset": "2F78",
   "jp": "エアロウェーブ",
   "en": "Aero Wave",
-  "zh": ""
+  "zh": "疾风波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/517/1",
@@ -239586,7 +239586,7 @@
   "offset": "2F88",
   "jp": "直接：縦列の敵に、風属性の弱拳波",
   "en": "Direct: [Wind] Weak shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，风属性的弱拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/518/0",
@@ -239595,7 +239595,7 @@
   "offset": "2FAA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/518/1",
@@ -239604,7 +239604,7 @@
   "offset": "2FAE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/519/0",
@@ -239613,7 +239613,7 @@
   "offset": "2FB2",
   "jp": "ダークウェーブ",
   "en": "Dark Wave",
-  "zh": ""
+  "zh": "暗黑波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/519/1",
@@ -239622,7 +239622,7 @@
   "offset": "2FC2",
   "jp": "直接：縦列の敵に、闇属性の弱拳波",
   "en": "Direct: [Dark] Weak shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，暗属性的弱拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/51E/0",
@@ -239631,7 +239631,7 @@
   "offset": "2FE4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/51E/1",
@@ -239640,7 +239640,7 @@
   "offset": "2FE8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/51F/0",
@@ -239649,7 +239649,7 @@
   "offset": "2FEC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/51F/1",
@@ -239658,7 +239658,7 @@
   "offset": "2FF0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/520/0",
@@ -239667,7 +239667,7 @@
   "offset": "2FF4",
   "jp": "メガフレアウェーブ",
   "en": "Mega Flare Wave",
-  "zh": ""
+  "zh": "百万烈焰波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/520/1",
@@ -239676,7 +239676,7 @@
   "offset": "3008",
   "jp": "直接：縦列の敵に、火属性の強拳波",
   "en": "Direct: [Fire] Strong shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，火属性的强拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/521/0",
@@ -239685,7 +239685,7 @@
   "offset": "302A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/521/1",
@@ -239694,7 +239694,7 @@
   "offset": "302E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/522/0",
@@ -239703,7 +239703,7 @@
   "offset": "3032",
   "jp": "メガライトウェーブ",
   "en": "Mega Light Wave",
-  "zh": ""
+  "zh": "百万光芒波动拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/522/1",
@@ -239712,7 +239712,7 @@
   "offset": "3046",
   "jp": "直接：縦列の敵に、光属性の強拳波",
   "en": "Direct: [Light] Strong shockwave on enemy column",
-  "zh": ""
+  "zh": "直接：纵列的敌人，光属性的强拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/523/0",
@@ -239721,7 +239721,7 @@
   "offset": "3068",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/523/1",
@@ -239730,7 +239730,7 @@
   "offset": "306C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/532/0",
@@ -239739,7 +239739,7 @@
   "offset": "3070",
   "jp": "グラブフォース",
   "en": "Grav-Force",
-  "zh": ""
+  "zh": "重力原力"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/532/1",
@@ -239748,7 +239748,7 @@
   "offset": "3080",
   "jp": "間接：敵１体を、“重力”にする弱気合拳",
   "en": "Ranged: Weak gravity grab on single enemy",
-  "zh": ""
+  "zh": "间接：使敌方１体附加“重力”的弱气合拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/533/0",
@@ -239757,7 +239757,7 @@
   "offset": "30A8",
   "jp": "ハイグラブフォース",
   "en": "High Grav-Force",
-  "zh": ""
+  "zh": "高级重力原力"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/533/1",
@@ -239766,7 +239766,7 @@
   "offset": "30BC",
   "jp": "間接：敵１体を、“重力”にする中気合拳",
   "en": "Ranged: Medium gravity grab on single enemy",
-  "zh": ""
+  "zh": "间接：使敌方１体附加“重力”的中气合拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53C/0",
@@ -239775,7 +239775,7 @@
   "offset": "30E4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53C/1",
@@ -239784,7 +239784,7 @@
   "offset": "30E8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53D/0",
@@ -239793,7 +239793,7 @@
   "offset": "30EC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53D/1",
@@ -239802,7 +239802,7 @@
   "offset": "30F0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53E/0",
@@ -239811,7 +239811,7 @@
   "offset": "30F4",
   "jp": "フレアフォース",
   "en": "Flare Force",
-  "zh": ""
+  "zh": "耀火魄劲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53E/1",
@@ -239820,7 +239820,7 @@
   "offset": "3104",
   "jp": "間接：敵１体に、火のエーテルを放つ気合拳",
   "en": "Ranged: Grab with Fire Ether discharge on single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体释放火以太的气合拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53F/0",
@@ -239829,7 +239829,7 @@
   "offset": "312E",
   "jp": "エアロフォース",
   "en": "Air Force",
-  "zh": ""
+  "zh": "气旋魄劲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/53F/1",
@@ -239838,7 +239838,7 @@
   "offset": "313E",
   "jp": "間接：敵１体に、風のエーテルを放つ気合拳",
   "en": "Ranged: Grab with Wind Ether discharge on single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体释放风以太的气合拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/540/0",
@@ -239847,7 +239847,7 @@
   "offset": "3168",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/540/1",
@@ -239856,7 +239856,7 @@
   "offset": "316C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/541/0",
@@ -239865,7 +239865,7 @@
   "offset": "3170",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/541/1",
@@ -239874,7 +239874,7 @@
   "offset": "3174",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/546/0",
@@ -239883,7 +239883,7 @@
   "offset": "3178",
   "jp": "リカバーボディ",
   "en": "Recover Body",
-  "zh": ""
+  "zh": "机体修复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/546/1",
@@ -239892,7 +239892,7 @@
   "offset": "3188",
   "jp": "援護：自分のＨＰとＥＰを、小回復",
   "en": "Cover: Light recovery of own HP and EP",
-  "zh": ""
+  "zh": "援护：少量回复自身的ＨＰ与ＥＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/547/0",
@@ -239901,7 +239901,7 @@
   "offset": "31AA",
   "jp": "ハイリカバーボディ",
   "en": "High Recover",
-  "zh": ""
+  "zh": "高阶机体修复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/547/1",
@@ -239910,7 +239910,7 @@
   "offset": "31BE",
   "jp": "援護：自分のＨＰとＥＰを、中回復",
   "en": "Cover: Medium recovery of own HP and EP",
-  "zh": ""
+  "zh": "援护：中量回复自身的ＨＰ与ＥＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/548/0",
@@ -239919,7 +239919,7 @@
   "offset": "31E0",
   "jp": "メガリカバーボディ",
   "en": "Mega Recover",
-  "zh": ""
+  "zh": "超阶机体修复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/548/1",
@@ -239928,7 +239928,7 @@
   "offset": "31F4",
   "jp": "援護：自分のＨＰとＥＰを、大回復",
   "en": "Cover: Heavy recovery of own HP and EP",
-  "zh": ""
+  "zh": "援护：大量回复自身的ＨＰ与ＥＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/578/0",
@@ -239937,7 +239937,7 @@
   "offset": "3216",
   "jp": "ＥＰドレインブロウ",
   "en": "EP Drain Blow",
-  "zh": ""
+  "zh": "ＥＰ汲取击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/578/1",
@@ -239946,7 +239946,7 @@
   "offset": "322A",
   "jp": "直接：範囲内の敵から、ＥＰを吸収するパンチ",
   "en": "Direct: Drains EP from all enemy in range",
-  "zh": ""
+  "zh": "直接：吸收范围内敌人ＥＰ的重拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/5AA/0",
@@ -239955,7 +239955,7 @@
   "offset": "3256",
   "jp": "ポイズンフォース",
   "en": "Poison Force",
-  "zh": ""
+  "zh": "淬毒魄劲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/5AA/1",
@@ -239964,7 +239964,7 @@
   "offset": "3268",
   "jp": "援護：縦列の敵を、“毒”にする気合拳",
   "en": "Cover: Fighting fist poisons all enemy column",
-  "zh": ""
+  "zh": "援护：使纵列敌人陷入“中毒”状态的气合拳"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/5DC/0",
@@ -239973,7 +239973,7 @@
   "offset": "328E",
   "jp": "挑発",
   "en": "Taunt",
-  "zh": ""
+  "zh": "挑衅"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/5DC/1",
@@ -239982,7 +239982,7 @@
   "offset": "3294",
   "jp": "援護：縦列の敵を、“怒り”にする",
   "en": "Cover: Enrages enemy column",
-  "zh": ""
+  "zh": "援护：使纵列敌人陷入“愤怒”状态"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/60E/0",
@@ -239991,7 +239991,7 @@
   "offset": "32B6",
   "jp": "ハイパワチャージ",
   "en": "High Charge",
-  "zh": ""
+  "zh": "高阶蓄力强化"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/60E/1",
@@ -240000,7 +240000,7 @@
   "offset": "32C8",
   "jp": "援護：自分の“パラメータ”を５０％アップ",
   "en": "Cover: Boosts parameters by 50%",
-  "zh": ""
+  "zh": "援护：自身“各项属性”提升５０％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/60F/0",
@@ -240009,7 +240009,7 @@
   "offset": "32F2",
   "jp": "メガパワチャージ",
   "en": "Mega Charge",
-  "zh": ""
+  "zh": "超阶蓄力强化"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/60F/1",
@@ -240018,7 +240018,7 @@
   "offset": "3304",
   "jp": "援護：自分の“パラメータ”を７５％アップ",
   "en": "Cover: Boosts parameters by 75%",
-  "zh": ""
+  "zh": "援护：自身“各项属性”提升７５％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/640/0",
@@ -240027,7 +240027,7 @@
   "offset": "332E",
   "jp": "パワチャージ＋",
   "en": "Power Charge +",
-  "zh": ""
+  "zh": "蓄力强化＋"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/640/1",
@@ -240036,7 +240036,7 @@
   "offset": "333E",
   "jp": "援護：自分＋両隣の味方の“パラメータ”を２５％アップ",
   "en": "Cover: Boosts own and nearby allies' parameters by 25%",
-  "zh": ""
+  "zh": "援护：自身及左右相邻队友的“各项属性”提升２５％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/641/0",
@@ -240045,7 +240045,7 @@
   "offset": "3374",
   "jp": "ハイパワチャージ＋",
   "en": "High Charge +",
-  "zh": ""
+  "zh": "高阶蓄力强化＋"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/641/1",
@@ -240054,7 +240054,7 @@
   "offset": "3388",
   "jp": "援護：自分＋両隣の味方の“パラメータ”を５０％アップ",
   "en": "Cover: Boosts own and nearby allies' parameters by 50%",
-  "zh": ""
+  "zh": "援护：自身及左右相邻队友的“各项属性”提升５０％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/64A/0",
@@ -240063,7 +240063,7 @@
   "offset": "33BE",
   "jp": "パワギガチャージ＋",
   "en": "Giga Charge +",
-  "zh": ""
+  "zh": "巨力充能＋"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/64A/1",
@@ -240072,7 +240072,7 @@
   "offset": "33D2",
   "jp": "援護：自分＋範囲内の味方の“パラメータ”を２５％アップ",
   "en": "Cover: Boosts own and in-range allies' parameters by 25%",
-  "zh": ""
+  "zh": "援护：自身及范围内队友的“各项属性”提升２５％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/672/0",
@@ -240081,7 +240081,7 @@
   "offset": "340A",
   "jp": "メテオラッシュ",
   "en": "Meteor Rush",
-  "zh": ""
+  "zh": "流星猛冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/672/1",
@@ -240090,7 +240090,7 @@
   "offset": "341A",
   "jp": "直接：敵１体に、無属性の超パンチ連打",
   "en": "Direct: Max power barrage on single enemy",
-  "zh": ""
+  "zh": "直接：对敌方单体发动无属性超连续拳击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/673/0",
@@ -240099,7 +240099,7 @@
   "offset": "3440",
   "jp": "アクアギガブロウ",
   "en": "Aqua Giga Blow",
-  "zh": ""
+  "zh": "水流重击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/673/1",
@@ -240108,7 +240108,7 @@
   "offset": "3452",
   "jp": "直接：範囲内の敵に、水属性のパンチ",
   "en": "Direct: [Water] Attack on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人发动水属性拳击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/674/0",
@@ -240117,7 +240117,7 @@
   "offset": "3476",
   "jp": "アイスギガブロウ",
   "en": "Ice Giga Blow",
-  "zh": ""
+  "zh": "冰霜重击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/674/1",
@@ -240126,7 +240126,7 @@
   "offset": "3488",
   "jp": "直接：範囲内の敵に、氷（水属性）のパンチ",
   "en": "Direct: Ice ([Water]) Attack on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人发动冰（水属性）拳击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/675/0",
@@ -240135,7 +240135,7 @@
   "offset": "34B2",
   "jp": "アクアギガウェーブ",
   "en": "Aqua Giga Wave",
-  "zh": ""
+  "zh": "水流冲击波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/675/1",
@@ -240144,7 +240144,7 @@
   "offset": "34C6",
   "jp": "直接：範囲内の敵に、水属性の拳波",
   "en": "Direct: [Water] Shockwave on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人发动水属性拳波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/76C/0",
@@ -240153,7 +240153,7 @@
   "offset": "34E8",
   "jp": "ディスオートキュア",
   "en": "Dis-Auto Cure",
-  "zh": ""
+  "zh": "消除自动治愈"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/76C/1",
@@ -240162,7 +240162,7 @@
   "offset": "34FC",
   "jp": "直接：縦列の敵の“ＨＰ・ＥＰオート回復”を半減させるパンチ",
   "en": "Direct: Halves auto HP/EP recovery on enemy in range",
-  "zh": ""
+  "zh": "直接：对纵列敌人发动使其“HP·EP自动回复”减半的拳击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/79E/0",
@@ -240171,7 +240171,7 @@
   "offset": "3538",
   "jp": "ハイスマッシュ",
   "en": "High Smash",
-  "zh": ""
+  "zh": "强力猛击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/79E/1",
@@ -240180,7 +240180,7 @@
   "offset": "3548",
   "jp": "直接：範囲内の敵に、無属性のパンチ",
   "en": "Direct: Generic punch to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人发动无属性拳击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/7D0/0",
@@ -240189,7 +240189,7 @@
   "offset": "356C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/7D0/1",
@@ -240198,7 +240198,7 @@
   "offset": "3570",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/7D1/0",
@@ -240207,7 +240207,7 @@
   "offset": "3574",
   "jp": "噛みつき（中）",
   "en": "",
-  "zh": ""
+  "zh": "咬碎（中）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/7D1/1",
@@ -240216,7 +240216,7 @@
   "offset": "3584",
   "jp": "直接：中レベルかみつき、無属性。",
   "en": "",
-  "zh": ""
+  "zh": "直接：中级撕咬，无属性。"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/802/0",
@@ -240225,7 +240225,7 @@
   "offset": "35A6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/802/1",
@@ -240234,7 +240234,7 @@
   "offset": "35AA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/803/0",
@@ -240243,7 +240243,7 @@
   "offset": "35AE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/803/1",
@@ -240252,7 +240252,7 @@
   "offset": "35B2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/804/0",
@@ -240261,7 +240261,7 @@
   "offset": "35B6",
   "jp": "フレアバイト",
   "en": "Flare Bite",
-  "zh": ""
+  "zh": "烈焰撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/804/1",
@@ -240270,7 +240270,7 @@
   "offset": "35C4",
   "jp": "直接：縦列の敵に、火属性の弱かみつき",
   "en": "Direct: [Fire] Weak bite on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人发动火属性轻度撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/805/0",
@@ -240279,7 +240279,7 @@
   "offset": "35EA",
   "jp": "エアロバイト",
   "en": "Aero Bite",
-  "zh": ""
+  "zh": "疾风撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/805/1",
@@ -240288,7 +240288,7 @@
   "offset": "35F8",
   "jp": "直接：縦列の敵に、風属性の弱かみつき",
   "en": "Direct: [Wind] Weak bite on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人发动风属性轻度撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/806/0",
@@ -240297,7 +240297,7 @@
   "offset": "361E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/806/1",
@@ -240306,7 +240306,7 @@
   "offset": "3622",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/807/0",
@@ -240315,7 +240315,7 @@
   "offset": "3626",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/807/1",
@@ -240324,7 +240324,7 @@
   "offset": "362A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80C/0",
@@ -240333,7 +240333,7 @@
   "offset": "362E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80C/1",
@@ -240342,7 +240342,7 @@
   "offset": "3632",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80D/0",
@@ -240351,7 +240351,7 @@
   "offset": "3636",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80D/1",
@@ -240360,7 +240360,7 @@
   "offset": "363A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80E/0",
@@ -240369,7 +240369,7 @@
   "offset": "363E",
   "jp": "ハイフレアバイト",
   "en": "High Flare Bite",
-  "zh": ""
+  "zh": "强力烈焰撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80E/1",
@@ -240378,7 +240378,7 @@
   "offset": "3650",
   "jp": "直接：縦列の敵に、火属性の中かみつき",
   "en": "Direct: [Fire] Medium bite on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人发动火属性中度撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80F/0",
@@ -240387,7 +240387,7 @@
   "offset": "3676",
   "jp": "風噛みつき（中）",
   "en": "",
-  "zh": ""
+  "zh": "风之撕咬（中）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/80F/1",
@@ -240396,7 +240396,7 @@
   "offset": "3688",
   "jp": "直接：中レベル噛みつき、風属性。",
   "en": "",
-  "zh": ""
+  "zh": "直接：中级撕咬，风属性。"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/810/0",
@@ -240405,7 +240405,7 @@
   "offset": "36AA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/810/1",
@@ -240414,7 +240414,7 @@
   "offset": "36AE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/811/0",
@@ -240423,7 +240423,7 @@
   "offset": "36B2",
   "jp": "ハイダークバイト",
   "en": "High Dark Bite",
-  "zh": ""
+  "zh": "高阶暗黑咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/811/1",
@@ -240432,7 +240432,7 @@
   "offset": "36C4",
   "jp": "直接：縦列の敵に、闇属性の中かみつき",
   "en": "Direct: [Dark] Medium bite on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人进行暗属性中度咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/834/0",
@@ -240441,7 +240441,7 @@
   "offset": "36EA",
   "jp": "ポイズンバイト",
   "en": "Poison Bite",
-  "zh": ""
+  "zh": "剧毒咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/834/1",
@@ -240450,7 +240450,7 @@
   "offset": "36FA",
   "jp": "直接：縦列の敵を、“毒”にするかみつき",
   "en": "Direct: Bite poisons enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“中毒”状态的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/835/0",
@@ -240459,7 +240459,7 @@
   "offset": "3722",
   "jp": "リバースバイト",
   "en": "Reverse Bite",
-  "zh": ""
+  "zh": "反转咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/835/1",
@@ -240468,7 +240468,7 @@
   "offset": "3732",
   "jp": "直接：縦列の敵を、“属性反転”させるかみつき",
   "en": "Direct: Reverse attribute bite on enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“属性反转”状态的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/836/0",
@@ -240477,7 +240477,7 @@
   "offset": "3760",
   "jp": "パラライズバイト",
   "en": "",
-  "zh": ""
+  "zh": "麻痹咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/836/1",
@@ -240486,7 +240486,7 @@
   "offset": "3772",
   "jp": "直接：縦列の敵を、“麻痺”させるかみつき",
   "en": "",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“麻痹”状态的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/837/0",
@@ -240495,7 +240495,7 @@
   "offset": "379C",
   "jp": "シールバイト",
   "en": "",
-  "zh": ""
+  "zh": "封印咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/837/1",
@@ -240504,7 +240504,7 @@
   "offset": "37AA",
   "jp": "直接：縦列の敵を、“封印”するかみつき",
   "en": "",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“封印”状态的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/838/0",
@@ -240513,7 +240513,7 @@
   "offset": "37D2",
   "jp": "グラビティバイト",
   "en": "Gravity Bite",
-  "zh": ""
+  "zh": "重力咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/838/1",
@@ -240522,7 +240522,7 @@
   "offset": "37E4",
   "jp": "直接：縦列の敵を、“重力”にするかみつき",
   "en": "Direct: Gravity powered bite on enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“重力”状态的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/839/0",
@@ -240531,7 +240531,7 @@
   "offset": "380E",
   "jp": "アンガーバイト",
   "en": "Anger Bite",
-  "zh": ""
+  "zh": "愤怒咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/839/1",
@@ -240540,7 +240540,7 @@
   "offset": "381E",
   "jp": "直接：縦列の敵を、“怒り”にするかみつき",
   "en": "Direct: Bite enrages enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“愤怒”状态的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/83A/0",
@@ -240549,7 +240549,7 @@
   "offset": "3848",
   "jp": "ＨＰドレインバイト",
   "en": "HP Drain Bite",
-  "zh": ""
+  "zh": "ＨＰ吸收咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/83A/1",
@@ -240558,7 +240558,7 @@
   "offset": "385C",
   "jp": "直接：縦列の敵から、ＨＰを吸収するかみつき",
   "en": "Direct: Bite drains HP from enemy column",
-  "zh": ""
+  "zh": "直接：吸收纵列敌人ＨＰ的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/83B/0",
@@ -240567,7 +240567,7 @@
   "offset": "3888",
   "jp": "ＥＰドレインバイト",
   "en": "EP Drain Bite",
-  "zh": ""
+  "zh": "ＥＰ吸收咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/83B/1",
@@ -240576,7 +240576,7 @@
   "offset": "389C",
   "jp": "直接：縦列の敵から、ＥＰを吸収するかみつき",
   "en": "Direct: Bite drains EP from enemy column",
-  "zh": ""
+  "zh": "直接：吸收纵列敌人ＥＰ的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/83C/0",
@@ -240585,7 +240585,7 @@
   "offset": "38C8",
   "jp": "アンリンクバイト",
   "en": "Unlink Bite",
-  "zh": ""
+  "zh": "断链咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/83C/1",
@@ -240594,7 +240594,7 @@
   "offset": "38DA",
   "jp": "直接：縦列の敵の“連携ゲージ”を０にするかみつき",
   "en": "Direct: Bite resets combination gauge of enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人的“连击槽”归０的咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/866/0",
@@ -240603,7 +240603,7 @@
   "offset": "390C",
   "jp": "サーベルファング",
   "en": "Sabertooth",
-  "zh": ""
+  "zh": "军刀利齿"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/866/1",
@@ -240612,7 +240612,7 @@
   "offset": "391E",
   "jp": "直接：敵１体に、無属性のかみつき",
   "en": "Direct: Bite single enemy",
-  "zh": ""
+  "zh": "直接：对敌方单体进行无属性咬击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/898/0",
@@ -240621,7 +240621,7 @@
   "offset": "3940",
   "jp": "アースロア",
   "en": "Earth Roar",
-  "zh": ""
+  "zh": "大地咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/898/1",
@@ -240630,7 +240630,7 @@
   "offset": "394C",
   "jp": "間接：縦列の敵に、地のエーテルを放つ遠吠え",
   "en": "Ranged: Roar hits enemy column with Earth Ether",
-  "zh": ""
+  "zh": "间接：向纵列敌人释放地以太的远吠"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/899/0",
@@ -240639,7 +240639,7 @@
   "offset": "3978",
   "jp": "アクアロア",
   "en": "Aqua Roar",
-  "zh": ""
+  "zh": "流水咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/899/1",
@@ -240648,7 +240648,7 @@
   "offset": "3984",
   "jp": "間接：縦列の敵に、水のエーテルを放つ遠吠え",
   "en": "Ranged: Roar hits enemy column with Water Ether",
-  "zh": ""
+  "zh": "间接：向纵列敌人释放水以太的远吠"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89A/0",
@@ -240657,7 +240657,7 @@
   "offset": "39B0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89A/1",
@@ -240666,7 +240666,7 @@
   "offset": "39B4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89B/0",
@@ -240675,7 +240675,7 @@
   "offset": "39B8",
   "jp": "エアロロア",
   "en": "Aero Roar",
-  "zh": ""
+  "zh": "疾风咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89B/1",
@@ -240684,7 +240684,7 @@
   "offset": "39C4",
   "jp": "間接：縦列の敵に、風のエーテルを放つ遠吠え",
   "en": "Ranged: Roar hits enemy column with Wind Ether",
-  "zh": ""
+  "zh": "间接：向纵列敌人释放风以太的远吠"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89C/0",
@@ -240693,7 +240693,7 @@
   "offset": "39F0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89C/1",
@@ -240702,7 +240702,7 @@
   "offset": "39F4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89D/0",
@@ -240711,7 +240711,7 @@
   "offset": "39F8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/89D/1",
@@ -240720,7 +240720,7 @@
   "offset": "39FC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8CA/0",
@@ -240729,7 +240729,7 @@
   "offset": "3A00",
   "jp": "グラブロア",
   "en": "Grav Roar",
-  "zh": ""
+  "zh": "重力咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8CA/1",
@@ -240738,7 +240738,7 @@
   "offset": "3A0C",
   "jp": "援護：縦列の敵を、“ノックバック”＋“重力”にする遠吠え",
   "en": "Cover: Roar with knockback and gravity on enemy column",
-  "zh": ""
+  "zh": "援护：使纵列敌人陷入“击退”＋“重力”状态的长嚎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8D4/0",
@@ -240747,7 +240747,7 @@
   "offset": "3A46",
   "jp": "ＨＰドレインロア",
   "en": "HP Drain Roar",
-  "zh": ""
+  "zh": "ＨＰ吸收咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8D4/1",
@@ -240756,7 +240756,7 @@
   "offset": "3A58",
   "jp": "援護：縦列の敵から、ＨＰを吸収する遠吠え",
   "en": "Cover: Roar drains HP from enemy column",
-  "zh": ""
+  "zh": "援护：吸收纵列敌人ＨＰ的长嚎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8DE/0",
@@ -240765,7 +240765,7 @@
   "offset": "3A82",
   "jp": "ＥＰドレインロア",
   "en": "EP Drain Roar",
-  "zh": ""
+  "zh": "ＥＰ吸收咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8DE/1",
@@ -240774,7 +240774,7 @@
   "offset": "3A94",
   "jp": "援護：縦列の敵から、ＥＰを吸収する遠吠え",
   "en": "Cover: Roar drains EP from enemy column",
-  "zh": ""
+  "zh": "援护：吸收纵列敌人ＥＰ的长嚎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8E8/0",
@@ -240783,7 +240783,7 @@
   "offset": "3ABE",
   "jp": "ポイズンロア",
   "en": "Poison Roar",
-  "zh": ""
+  "zh": "剧毒咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8E8/1",
@@ -240792,7 +240792,7 @@
   "offset": "3ACC",
   "jp": "援護：縦列の敵を、“毒”にする遠吠え",
   "en": "Cover: Roar poisons enemy column",
-  "zh": ""
+  "zh": "援护：使纵列敌人陷入“中毒”状态的长嚎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8F2/0",
@@ -240801,7 +240801,7 @@
   "offset": "3AF2",
   "jp": "ハイドロア",
   "en": "Hide Roar",
-  "zh": ""
+  "zh": "隐匿咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/8F2/1",
@@ -240810,7 +240810,7 @@
   "offset": "3AFE",
   "jp": "援護：自分を敵から狙われにくくする",
   "en": "Cover: Makes self harder to be targeted",
-  "zh": ""
+  "zh": "援护：让自己不易被敌人盯上"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B54/0",
@@ -240819,7 +240819,7 @@
   "offset": "3B22",
   "jp": "メテオファング",
   "en": "Meteor Fang",
-  "zh": ""
+  "zh": "陨星之牙"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B54/1",
@@ -240828,7 +240828,7 @@
   "offset": "3B32",
   "jp": "直接：敵１体を、“重力”にするかみつき",
   "en": "Direct: Gravity bite to single enemy",
-  "zh": ""
+  "zh": "直接：使单个敌人陷入“重力”状态的撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B55/0",
@@ -240837,7 +240837,7 @@
   "offset": "3B5A",
   "jp": "リバースロア",
   "en": "Reverse Roar",
-  "zh": ""
+  "zh": "反转咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B55/1",
@@ -240846,7 +240846,7 @@
   "offset": "3B68",
   "jp": "援護：横列の敵を、“属性反転”させる遠吠え",
   "en": "Cover: Reverse attribute roar on enemy rank ",
-  "zh": ""
+  "zh": "援护：使横列敌人的“属性反转”的长嚎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B56/0",
@@ -240855,7 +240855,7 @@
   "offset": "3B94",
   "jp": "アースグラブロア",
   "en": "Earth Grav Roar",
-  "zh": ""
+  "zh": "大地重力咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B56/1",
@@ -240864,7 +240864,7 @@
   "offset": "3BA6",
   "jp": "間接：縦列の敵を、“重力”にする大地の遠吠え",
   "en": "Ranged: Earth roar hits enemy column with gravity",
-  "zh": ""
+  "zh": "间接：使纵列敌人陷入“重力”状态的大地长嚎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B57/0",
@@ -240873,7 +240873,7 @@
   "offset": "3BD4",
   "jp": "ドレインファング",
   "en": "Drain Fang",
-  "zh": ""
+  "zh": "吸收之牙"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B57/1",
@@ -240882,7 +240882,7 @@
   "offset": "3BE6",
   "jp": "直接：縦列の敵から、ＨＰを吸収するかみつき",
   "en": "Direct: Bite drains HP from enemy column",
-  "zh": ""
+  "zh": "直接：吸收纵列敌人ＨＰ的撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B58/0",
@@ -240891,7 +240891,7 @@
   "offset": "3C12",
   "jp": "ギガバイト",
   "en": "Giga Bite",
-  "zh": ""
+  "zh": "千兆撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B58/1",
@@ -240900,7 +240900,7 @@
   "offset": "3C1E",
   "jp": "直接：範囲内の敵に、無属性のかみつき",
   "en": "Direct: Bite on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行无属性撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B59/0",
@@ -240909,7 +240909,7 @@
   "offset": "3C44",
   "jp": "ポイズンギガバイト",
   "en": "Poison Giga Bite",
-  "zh": ""
+  "zh": "剧毒千兆撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B59/1",
@@ -240918,7 +240918,7 @@
   "offset": "3C58",
   "jp": "直接：範囲内の敵を、“毒”にするかみつき",
   "en": "Direct: Bite poisons enemy in range",
-  "zh": ""
+  "zh": "直接：使范围内敌人陷入“中毒”状态的撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5A/0",
@@ -240927,7 +240927,7 @@
   "offset": "3C82",
   "jp": "メガヘルズファング",
   "en": "Mega Hell Fang",
-  "zh": ""
+  "zh": "超级冥狱之牙"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5A/1",
@@ -240936,7 +240936,7 @@
   "offset": "3C96",
   "jp": "直接：横列の敵に、無属性の強かみつき",
   "en": "Direct: Strong bite on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成无属性强力撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5B/0",
@@ -240945,7 +240945,7 @@
   "offset": "3CBC",
   "jp": "ハイヘルズファング",
   "en": "High Hell Fang",
-  "zh": ""
+  "zh": "高级冥狱之牙"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5B/1",
@@ -240954,7 +240954,7 @@
   "offset": "3CD0",
   "jp": "間接：横列の敵に、無属性の中かみつき",
   "en": "Ranged: Medium bite on enemy rank",
-  "zh": ""
+  "zh": "间接：对横列敌人造成无属性中度撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5C/0",
@@ -240963,7 +240963,7 @@
   "offset": "3CF6",
   "jp": "ヘルズファング",
   "en": "Hell Fang",
-  "zh": ""
+  "zh": "冥狱之牙"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5C/1",
@@ -240972,7 +240972,7 @@
   "offset": "3D06",
   "jp": "間接：横列の敵に、無属性の弱かみつき",
   "en": "Ranged: Weak bite on enemy rank",
-  "zh": ""
+  "zh": "间接：对横列敌人造成无属性轻微撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5D/0",
@@ -240981,7 +240981,7 @@
   "offset": "3D2C",
   "jp": "死なばもろとも",
   "en": "Spoilsport",
-  "zh": ""
+  "zh": "同归于尽"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5D/1",
@@ -240990,7 +240990,7 @@
   "offset": "3D3C",
   "jp": "直接：行動不能になった時、すべての敵に大ダメージ",
   "en": "Direct: Inflicts heavy damage on all enemy when immobile",
-  "zh": ""
+  "zh": "直接：无法行动时，对所有敌人造成巨大伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5E/0",
@@ -240999,7 +240999,7 @@
   "offset": "3D6E",
   "jp": "フレアギガバイト",
   "en": "Flare Giga Bite",
-  "zh": ""
+  "zh": "烈焰千兆撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/B5E/1",
@@ -241008,7 +241008,7 @@
   "offset": "3D80",
   "jp": "直接：範囲内の敵に、火属性のかみつき",
   "en": "Direct: A burning bite to all enemies in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成火属性撕咬"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BB8/0",
@@ -241017,7 +241017,7 @@
   "offset": "3DA6",
   "jp": "ブレイド",
   "en": "Blade",
-  "zh": ""
+  "zh": "刀刃斩"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BB8/1",
@@ -241026,7 +241026,7 @@
   "offset": "3DB0",
   "jp": "直接：横列の敵に、無属性の弱なぎ斬り",
   "en": "Direct: Weak cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成无属性轻度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BB9/0",
@@ -241035,7 +241035,7 @@
   "offset": "3DD6",
   "jp": "ハイブレイド",
   "en": "High Blade",
-  "zh": ""
+  "zh": "高阶利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BB9/1",
@@ -241044,7 +241044,7 @@
   "offset": "3DE4",
   "jp": "直接：横列の敵に、無属性の中なぎ斬り",
   "en": "Direct: Medium cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成无属性中度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BBA/0",
@@ -241053,7 +241053,7 @@
   "offset": "3E0A",
   "jp": "メガブレイド",
   "en": "Mega Blade",
-  "zh": ""
+  "zh": "强袭利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BBA/1",
@@ -241062,7 +241062,7 @@
   "offset": "3E18",
   "jp": "直接：横列の敵に、無属性の強なぎ斬り",
   "en": "Direct: Strong cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成无属性强力横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEA/0",
@@ -241071,7 +241071,7 @@
   "offset": "3E3E",
   "jp": "アースブレイド",
   "en": "Earth Blade",
-  "zh": ""
+  "zh": "大地利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEA/1",
@@ -241080,7 +241080,7 @@
   "offset": "3E4E",
   "jp": "直接：横列の敵に、地属性の弱なぎ斬り",
   "en": "Direct: [Earth] Weak cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成地属性轻度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEB/0",
@@ -241089,7 +241089,7 @@
   "offset": "3E74",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEB/1",
@@ -241098,7 +241098,7 @@
   "offset": "3E78",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEC/0",
@@ -241107,7 +241107,7 @@
   "offset": "3E7C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEC/1",
@@ -241116,7 +241116,7 @@
   "offset": "3E80",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BED/0",
@@ -241125,7 +241125,7 @@
   "offset": "3E84",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BED/1",
@@ -241134,7 +241134,7 @@
   "offset": "3E88",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEE/0",
@@ -241143,7 +241143,7 @@
   "offset": "3E8C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEE/1",
@@ -241152,7 +241152,7 @@
   "offset": "3E90",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEF/0",
@@ -241161,7 +241161,7 @@
   "offset": "3E94",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BEF/1",
@@ -241170,7 +241170,7 @@
   "offset": "3E98",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF4/0",
@@ -241179,7 +241179,7 @@
   "offset": "3E9C",
   "jp": "ハイアースブレイド",
   "en": "High Earth Blade",
-  "zh": ""
+  "zh": "高阶大地利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF4/1",
@@ -241188,7 +241188,7 @@
   "offset": "3EB0",
   "jp": "直接：横列の敵に、地属性の中なぎ斬り",
   "en": "Direct: [Earth] Medium cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成地属性中度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF5/0",
@@ -241197,7 +241197,7 @@
   "offset": "3ED6",
   "jp": "ハイアクアブレイド",
   "en": "High Aqua Blade",
-  "zh": ""
+  "zh": "高阶流水利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF5/1",
@@ -241206,7 +241206,7 @@
   "offset": "3EEA",
   "jp": "直接：横列の敵に、水属性の中なぎ斬り",
   "en": "Direct: [Water] Medium cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成水属性中度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF6/0",
@@ -241215,7 +241215,7 @@
   "offset": "3F10",
   "jp": "ハイフレアブレイド",
   "en": "High Flare Blade",
-  "zh": ""
+  "zh": "高阶烈焰利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF6/1",
@@ -241224,7 +241224,7 @@
   "offset": "3F24",
   "jp": "直接：横列の敵に、火属性の中なぎ斬り",
   "en": "Direct: [Fire] Medium cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成火属性中度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF7/0",
@@ -241233,7 +241233,7 @@
   "offset": "3F4A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF7/1",
@@ -241242,7 +241242,7 @@
   "offset": "3F4E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF8/0",
@@ -241251,7 +241251,7 @@
   "offset": "3F52",
   "jp": "ハイライトブレイド",
   "en": "High Light Blade",
-  "zh": ""
+  "zh": "高阶闪光利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF8/1",
@@ -241260,7 +241260,7 @@
   "offset": "3F66",
   "jp": "直接：横列の敵に、光属性の中なぎ斬り",
   "en": "Direct: [Light] Medium cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成光属性中度横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF9/0",
@@ -241269,7 +241269,7 @@
   "offset": "3F8C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BF9/1",
@@ -241278,7 +241278,7 @@
   "offset": "3F90",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BFE/0",
@@ -241287,7 +241287,7 @@
   "offset": "3F94",
   "jp": "メガアースブレイド",
   "en": "Mega Earth Blade",
-  "zh": ""
+  "zh": "强袭大地利刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BFE/1",
@@ -241296,7 +241296,7 @@
   "offset": "3FA8",
   "jp": "直接：横列の敵に、地属性の強なぎ斬り",
   "en": "Direct: [Earth] Strong cut on enemy rank",
-  "zh": ""
+  "zh": "直接：对横列敌人造成地属性强力横扫斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BFF/0",
@@ -241305,7 +241305,7 @@
   "offset": "3FCE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/BFF/1",
@@ -241314,7 +241314,7 @@
   "offset": "3FD2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C00/0",
@@ -241323,7 +241323,7 @@
   "offset": "3FD6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C00/1",
@@ -241332,7 +241332,7 @@
   "offset": "3FDA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C01/0",
@@ -241341,7 +241341,7 @@
   "offset": "3FDE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C01/1",
@@ -241350,7 +241350,7 @@
   "offset": "3FE2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C02/0",
@@ -241359,7 +241359,7 @@
   "offset": "3FE6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C02/1",
@@ -241368,7 +241368,7 @@
   "offset": "3FEA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C03/0",
@@ -241377,7 +241377,7 @@
   "offset": "3FEE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C03/1",
@@ -241386,7 +241386,7 @@
   "offset": "3FF2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C1C/0",
@@ -241395,7 +241395,7 @@
   "offset": "3FF6",
   "jp": "インパルス",
   "en": "Impulse",
-  "zh": ""
+  "zh": "インパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C1C/1",
@@ -241404,7 +241404,7 @@
   "offset": "4002",
   "jp": "直接：縦列の敵に、無属性の剣撃",
   "en": "Direct: Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、無属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C26/0",
@@ -241413,7 +241413,7 @@
   "offset": "4022",
   "jp": "アースインパルス",
   "en": "Earth Impulse",
-  "zh": ""
+  "zh": "アースインパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C26/1",
@@ -241422,7 +241422,7 @@
   "offset": "4034",
   "jp": "直接：縦列の敵に、地属性の剣撃",
   "en": "Direct: [Earth] Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、地属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C27/0",
@@ -241431,7 +241431,7 @@
   "offset": "4054",
   "jp": "アクアインパルス",
   "en": "Aqua Impulse",
-  "zh": ""
+  "zh": "アクアインパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C27/1",
@@ -241440,7 +241440,7 @@
   "offset": "4066",
   "jp": "直接：縦列の敵に、水属性の剣撃",
   "en": "Direct: [Water] Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、水属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C28/0",
@@ -241449,7 +241449,7 @@
   "offset": "4086",
   "jp": "フレアインパルス",
   "en": "Flare Impulse",
-  "zh": ""
+  "zh": "フレアインパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C28/1",
@@ -241458,7 +241458,7 @@
   "offset": "4098",
   "jp": "直接：縦列の敵に、火属性の剣撃",
   "en": "Direct: [Fire] Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、火属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C29/0",
@@ -241467,7 +241467,7 @@
   "offset": "40B8",
   "jp": "エアロインパルス",
   "en": "Aero Impulse",
-  "zh": ""
+  "zh": "エアロインパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C29/1",
@@ -241476,7 +241476,7 @@
   "offset": "40CA",
   "jp": "直接：縦列の敵に、風属性の剣撃",
   "en": "Direct: [Wind] Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、風属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C2A/0",
@@ -241485,7 +241485,7 @@
   "offset": "40EA",
   "jp": "ライトインパルス",
   "en": "Light Impulse",
-  "zh": ""
+  "zh": "ライトインパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C2A/1",
@@ -241494,7 +241494,7 @@
   "offset": "40FC",
   "jp": "直接：縦列の敵に、光属性の剣撃",
   "en": "Direct: [Light] Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、光属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C2B/0",
@@ -241503,7 +241503,7 @@
   "offset": "411C",
   "jp": "ダークインパルス",
   "en": "Dark Impulse",
-  "zh": ""
+  "zh": "ダークインパルス"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C2B/1",
@@ -241512,7 +241512,7 @@
   "offset": "412E",
   "jp": "直接：縦列の敵に、闇属性の剣撃",
   "en": "Direct: [Dark] Sword stroke on enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵に、闇属性の剣撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C4E/0",
@@ -241521,7 +241521,7 @@
   "offset": "414E",
   "jp": "スラッシュ",
   "en": "Slash",
-  "zh": ""
+  "zh": "スラッシュ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C4E/1",
@@ -241530,7 +241530,7 @@
   "offset": "415A",
   "jp": "直接：範囲内の敵に、無属性の弱斬り",
   "en": "Direct: Weak slash on enemy in range",
-  "zh": ""
+  "zh": "直接：範囲内の敵に、無属性の弱斬り"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C4F/0",
@@ -241539,7 +241539,7 @@
   "offset": "417E",
   "jp": "ハイスラッシュ",
   "en": "High Slash",
-  "zh": ""
+  "zh": "ハイスラッシュ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C4F/1",
@@ -241548,7 +241548,7 @@
   "offset": "418E",
   "jp": "直接：範囲内の敵に、無属性の中斬り",
   "en": "Direct: Medium slash on enemy in range",
-  "zh": ""
+  "zh": "直接：範囲内の敵に、無属性の中斬り"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C50/0",
@@ -241557,7 +241557,7 @@
   "offset": "41B2",
   "jp": "メガスラッシュ",
   "en": "Mega Slash",
-  "zh": ""
+  "zh": "メガスラッシュ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C50/1",
@@ -241566,7 +241566,7 @@
   "offset": "41C2",
   "jp": "直接：範囲内の敵に、無属性の強斬り",
   "en": "Direct: Strong slash on enemy in range",
-  "zh": ""
+  "zh": "直接：範囲内の敵に、無属性の強斬り"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C58/0",
@@ -241575,7 +241575,7 @@
   "offset": "41E6",
   "jp": "Ｘカッター",
   "en": "X Cutter",
-  "zh": ""
+  "zh": "Ｘカッター"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C58/1",
@@ -241584,7 +241584,7 @@
   "offset": "41F2",
   "jp": "直接：敵１体に、無属性の十字斬り",
   "en": "Direct: X-Shaped cut on single enemy",
-  "zh": ""
+  "zh": "直接：敵１体に、無属性の十字斬り"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C67/0",
@@ -241593,7 +241593,7 @@
   "offset": "4214",
   "jp": "ダークＸカッター",
   "en": "Dark X Cutter",
-  "zh": ""
+  "zh": "ダークＸカッター"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C67/1",
@@ -241602,7 +241602,7 @@
   "offset": "4226",
   "jp": "直接：敵１体に、闇属性の十字斬り",
   "en": "Direct: [Dark] X-Shaped cut on single enemy",
-  "zh": ""
+  "zh": "直接：敵１体に、闇属性の十字斬り"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C80/0",
@@ -241611,7 +241611,7 @@
   "offset": "4248",
   "jp": "ステータス異常無効化（毒）",
   "en": "",
-  "zh": ""
+  "zh": "ステータス異常無効化（毒）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C80/1",
@@ -241620,7 +241620,7 @@
   "offset": "4264",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "作成中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C81/0",
@@ -241629,7 +241629,7 @@
   "offset": "426C",
   "jp": "ステータス異常無効化（麻痺）",
   "en": "",
-  "zh": ""
+  "zh": "ステータス異常無効化（麻痺）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C81/1",
@@ -241638,7 +241638,7 @@
   "offset": "428A",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "作成中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C82/0",
@@ -241647,7 +241647,7 @@
   "offset": "4292",
   "jp": "ステータス異常無効化（封印）",
   "en": "",
-  "zh": ""
+  "zh": "ステータス異常無効化（封印）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C82/1",
@@ -241656,7 +241656,7 @@
   "offset": "42B0",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "作成中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C83/0",
@@ -241665,7 +241665,7 @@
   "offset": "42B8",
   "jp": "ステータス異常無効化（重力）",
   "en": "",
-  "zh": ""
+  "zh": "异常状态无效化（重力）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C83/1",
@@ -241674,7 +241674,7 @@
   "offset": "42D6",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C84/0",
@@ -241683,7 +241683,7 @@
   "offset": "42DE",
   "jp": "ステータス異常無効化（怒り）",
   "en": "",
-  "zh": ""
+  "zh": "异常状态无效化（愤怒）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/C84/1",
@@ -241692,7 +241692,7 @@
   "offset": "42FC",
   "jp": "作成中",
   "en": "",
-  "zh": ""
+  "zh": "制作中"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB2/0",
@@ -241701,7 +241701,7 @@
   "offset": "4304",
   "jp": "ポイズンブレイド",
   "en": "Poison Blade",
-  "zh": ""
+  "zh": "剧毒之刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB2/1",
@@ -241710,7 +241710,7 @@
   "offset": "4316",
   "jp": "直接：横列の敵を、“毒”にするなぎ斬り",
   "en": "Direct: Cut poisons enemy rank",
-  "zh": ""
+  "zh": "直接：横扫斩击，使横列的敌人陷入“中毒”状态"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB3/0",
@@ -241719,7 +241719,7 @@
   "offset": "433E",
   "jp": "グラビティブレイド",
   "en": "Gravity Blade",
-  "zh": ""
+  "zh": "重力之刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB3/1",
@@ -241728,7 +241728,7 @@
   "offset": "4352",
   "jp": "直接：横列の敵を、“重力”にするなぎ斬り",
   "en": "Direct: Cut hits enemy rank with gravity",
-  "zh": ""
+  "zh": "直接：横扫斩击，使横列的敌人陷入“重力”状态"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB4/0",
@@ -241737,7 +241737,7 @@
   "offset": "437C",
   "jp": "アンガーブレイド",
   "en": "Anger Blade",
-  "zh": ""
+  "zh": "狂怒之刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB4/1",
@@ -241746,7 +241746,7 @@
   "offset": "438E",
   "jp": "直接：横列の敵を、“怒り”にするなぎ斬り",
   "en": "Direct: Cut enrages enemy rank",
-  "zh": ""
+  "zh": "直接：横扫斩击，使横列的敌人陷入“愤怒”状态"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB5/0",
@@ -241755,7 +241755,7 @@
   "offset": "43B8",
   "jp": "アンバリアブレイド",
   "en": "No-Barrier Blade",
-  "zh": ""
+  "zh": "破障之刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CB5/1",
@@ -241764,7 +241764,7 @@
   "offset": "43CC",
   "jp": "直接：横列の敵の“ＨＰバリア”を解除するなぎ斬り",
   "en": "Direct: Cut negates HP barrier on enemy rank",
-  "zh": ""
+  "zh": "直接：横扫斩击，解除横列敌人的“HP护盾”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CE4/0",
@@ -241773,7 +241773,7 @@
   "offset": "43FE",
   "jp": "ハイドブレイド",
   "en": "Hide Blade",
-  "zh": ""
+  "zh": "潜行之刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CE4/1",
@@ -241782,7 +241782,7 @@
   "offset": "440E",
   "jp": "援護：自分を敵から狙われにくくする",
   "en": "Cover: Makes self harder to be targeted",
-  "zh": ""
+  "zh": "援护：使自身不易成为敌人的目标"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CEE/0",
@@ -241791,7 +241791,7 @@
   "offset": "4432",
   "jp": "ハイパワーアクセル",
   "en": "High Power Accel",
-  "zh": ""
+  "zh": "高阶强击加速"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CEE/1",
@@ -241800,7 +241800,7 @@
   "offset": "4446",
   "jp": "援護：自分の“パラメータ”を５０％アップ",
   "en": "Cover: Boosts own parameters by 50%",
-  "zh": ""
+  "zh": "援护：自身“各项属性”提升50%"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CEF/0",
@@ -241809,7 +241809,7 @@
   "offset": "4470",
   "jp": "メガパワーアクセル",
   "en": "Mega Power Accel",
-  "zh": ""
+  "zh": "百万强击加速"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CEF/1",
@@ -241818,7 +241818,7 @@
   "offset": "4484",
   "jp": "援護：自分の“パラメータ”を７５％アップ",
   "en": "Cover: Boosts own parameters by 75%",
-  "zh": ""
+  "zh": "援护：自身“各项属性”提升75%"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CF8/0",
@@ -241827,7 +241827,7 @@
   "offset": "44AE",
   "jp": "バリアアクセル",
   "en": "Barrier Accel",
-  "zh": ""
+  "zh": "护盾加速"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CF8/1",
@@ -241836,7 +241836,7 @@
   "offset": "44BE",
   "jp": "援護：自分＋範囲内の味方の“ＨＰダメージ”を２５％カット",
   "en": "Cover: Reduce HP damage to self and in-range allies by 25%",
-  "zh": ""
+  "zh": "援护：使自身＋范围内的同伴受到的“HP伤害”减少25%"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CF9/0",
@@ -241845,7 +241845,7 @@
   "offset": "44F8",
   "jp": "エーテルアーマー",
   "en": "Ethereal Armor",
-  "zh": ""
+  "zh": "以太战甲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/CF9/1",
@@ -241854,7 +241854,7 @@
   "offset": "450A",
   "jp": "援護：自分＋範囲内の味方の“ＨＰダメージ”を５０％カット",
   "en": "Cover: Reduce HP damage to self and in-range allies by 50%",
-  "zh": ""
+  "zh": "援护：使自身＋范围内的同伴受到的“HP伤害”减少50%"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D02/0",
@@ -241863,7 +241863,7 @@
   "offset": "4544",
   "jp": "プロテクトアクセル",
   "en": "Protection Accel",
-  "zh": ""
+  "zh": "守护加速"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D02/1",
@@ -241872,7 +241872,7 @@
   "offset": "4558",
   "jp": "援護：自分＋範囲内の味方の“ステータス異常”を防ぐ",
   "en": "Cover: Protects self+in-range allies from status problems",
-  "zh": ""
+  "zh": "援护：防止自身＋范围内的同伴陷入“异常状态”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D16/0",
@@ -241881,7 +241881,7 @@
   "offset": "458C",
   "jp": "斬鉄",
   "en": "Iron Cut",
-  "zh": ""
+  "zh": "斩铁"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D16/1",
@@ -241890,7 +241890,7 @@
   "offset": "4592",
   "jp": "直接：敵１体のＨＰを半減させる斬り下ろし",
   "en": "Direct: Stroke cuts down single enemy HP by half",
-  "zh": ""
+  "zh": "直接：下劈斩击，使敌方单体的HP减半"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D48/0",
@@ -241899,7 +241899,7 @@
   "offset": "45BC",
   "jp": "アースクラウド",
   "en": "Earth Cloud",
-  "zh": ""
+  "zh": "大地剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D48/1",
@@ -241908,7 +241908,7 @@
   "offset": "45CC",
   "jp": "間接：範囲内の敵に、地のエーテルを放つ弱剣気",
   "en": "Ranged: Weak Earth Ether attack on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放地属性以太的弱剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D49/0",
@@ -241917,7 +241917,7 @@
   "offset": "45FA",
   "jp": "ハイアースクラウド",
   "en": "High Earth Cloud",
-  "zh": ""
+  "zh": "高阶大地剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D49/1",
@@ -241926,7 +241926,7 @@
   "offset": "460E",
   "jp": "間接：範囲内の敵に、地のエーテルを放つ中剣気",
   "en": "Ranged: Medium Earth Ether attack on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放地属性以太的中剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D4A/0",
@@ -241935,7 +241935,7 @@
   "offset": "463C",
   "jp": "メガアースクラウド",
   "en": "Mega Earth Cloud",
-  "zh": ""
+  "zh": "百万大地剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D4A/1",
@@ -241944,7 +241944,7 @@
   "offset": "4650",
   "jp": "間接：範囲内の敵に、地のエーテルを放つ強剣気",
   "en": "Ranged: Strong Earth Ether attack on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放地属性以太的强剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D4B/0",
@@ -241953,7 +241953,7 @@
   "offset": "467E",
   "jp": "ハイエアロクラウド",
   "en": "High Aero Cloud",
-  "zh": ""
+  "zh": "高阶疾风剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/D4B/1",
@@ -241962,7 +241962,7 @@
   "offset": "4692",
   "jp": "間接：範囲内の敵に、風のエーテルを放つ中剣気",
   "en": "Ranged: Medium Wind Ether attack on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放风属性以太的中剑气"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3C/0",
@@ -241971,7 +241971,7 @@
   "offset": "46C0",
   "jp": "パワーアクセルΩ",
   "en": "Power Omega",
-  "zh": ""
+  "zh": "强击加速Ω"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3C/1",
@@ -241980,7 +241980,7 @@
   "offset": "46D2",
   "jp": "援護：自分の“パラメータ”を１００％アップ",
   "en": "Cover: Boosts own parameters by 100%",
-  "zh": ""
+  "zh": "援护：自身“各项属性”提升１００％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3D/0",
@@ -241989,7 +241989,7 @@
   "offset": "46FE",
   "jp": "バッドカットエッジ",
   "en": "Bad Edge Cut",
-  "zh": ""
+  "zh": "恶兆斩刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3D/1",
@@ -241998,7 +241998,7 @@
   "offset": "4712",
   "jp": "直接：範囲内の敵に、無属性の斬りつけ",
   "en": "Direct: Carves enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行无属性斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3E/0",
@@ -242007,7 +242007,7 @@
   "offset": "4738",
   "jp": "散桜",
   "en": "Falling Blossoms",
-  "zh": ""
+  "zh": "散樱"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3E/1",
@@ -242016,7 +242016,7 @@
   "offset": "473E",
   "jp": "直接：範囲内の敵に、無属性の十字斬り",
   "en": "Direct: X Cut on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行无属性十字斩"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3F/0",
@@ -242025,7 +242025,7 @@
   "offset": "4764",
   "jp": "ツバメ返し",
   "en": "",
-  "zh": ""
+  "zh": "燕返"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F3F/1",
@@ -242034,7 +242034,7 @@
   "offset": "4770",
   "jp": "直接：攻撃された敵に反撃（ＥＸ使用中は除く）",
   "en": "",
-  "zh": ""
+  "zh": "直接：对发起攻击的敌人进行反击（使用ＥＸ期间除外）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F40/0",
@@ -242043,7 +242043,7 @@
   "offset": "479E",
   "jp": "デススラッシュＲ",
   "en": "Death Rush R",
-  "zh": ""
+  "zh": "死亡斩击·右"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F40/1",
@@ -242052,7 +242052,7 @@
   "offset": "47B0",
   "jp": "直接：範囲内の敵の“パラメータアップ”を解除する、無属性の斬撃",
   "en": "Direct: Negates Parameter Up on enemy in range",
-  "zh": ""
+  "zh": "直接：解除范围内敌人的“属性提升”，并进行无属性斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F41/0",
@@ -242061,7 +242061,7 @@
   "offset": "47F0",
   "jp": "デススラッシュＬ",
   "en": "Death Rush L",
-  "zh": ""
+  "zh": "死亡斩击·左"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F41/1",
@@ -242070,7 +242070,7 @@
   "offset": "4802",
   "jp": "直接：範囲内の敵の“ＨＰバリア”を解除する、無属性の超強力な斬撃",
   "en": "Direct: Negates HP barrier on enemy in range",
-  "zh": ""
+  "zh": "直接：解除范围内敌人的“ＨＰ护盾”，并进行无属性超强力斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F42/0",
@@ -242079,7 +242079,7 @@
   "offset": "4844",
   "jp": "ゴッドスクリーム",
   "en": "God Scream",
-  "zh": ""
+  "zh": "神之怒啸"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F42/1",
@@ -242088,7 +242088,7 @@
   "offset": "4856",
   "jp": "間接：範囲内の敵を、“重力”にする超震動波",
   "en": "Ranged: Ultra high-power shockwave on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人附加“重力”状态的超震动波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F43/0",
@@ -242097,7 +242097,7 @@
   "offset": "4882",
   "jp": "バニシングエッジ",
   "en": "Burning Edge",
-  "zh": ""
+  "zh": "消灭斩刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F43/1",
@@ -242106,7 +242106,7 @@
   "offset": "4894",
   "jp": "直接：範囲内の敵に、無属性の超剣撃",
   "en": "Direct: Max carve on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行无属性超剑击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F44/0",
@@ -242115,7 +242115,7 @@
   "offset": "48B8",
   "jp": "二アデスエッジ",
   "en": "Near Death Edge",
-  "zh": ""
+  "zh": "濒死斩刃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F44/1",
@@ -242124,7 +242124,7 @@
   "offset": "48C8",
   "jp": "直接：範囲内の敵の“ＨＰバリア”を解除し、瀕死にする超斬り",
   "en": "Direct: Max stroke negates HP barrier on enemy in range",
-  "zh": ""
+  "zh": "直接：解除范围内敌人的“ＨＰ护盾”，并造成濒死状态的超斩击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F45/0",
@@ -242133,7 +242133,7 @@
   "offset": "4904",
   "jp": "ツバメ返し",
   "en": "Swallow's Return",
-  "zh": ""
+  "zh": "燕返"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F45/1",
@@ -242142,7 +242142,7 @@
   "offset": "4910",
   "jp": "直接：範囲内の敵に反撃（ＥＸ使用中は除く）",
   "en": "Direct: Strikes back enemy in range, except when using EX",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行反击（使用ＥＸ期间除外）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F46/0",
@@ -242151,7 +242151,7 @@
   "offset": "493C",
   "jp": "死なばもろとも",
   "en": "Spoilsport",
-  "zh": ""
+  "zh": "同归于尽"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F46/1",
@@ -242160,7 +242160,7 @@
   "offset": "494C",
   "jp": "直接：行動不能になった時、すべての敵に大ダメージ",
   "en": "Direct: Inflicts much damage on all enemy when immobile",
-  "zh": ""
+  "zh": "直接：陷入无法行动状态时，对所有敌人造成大伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F6E/0",
@@ -242169,7 +242169,7 @@
   "offset": "497E",
   "jp": "ハイアースシェイク",
   "en": "High Earth Shake",
-  "zh": ""
+  "zh": "高阶地裂震"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F6E/1",
@@ -242178,7 +242178,7 @@
   "offset": "4992",
   "jp": "直接：範囲内の敵に、地属性の中剣波",
   "en": "Direct: [Earth] Medium shockwave on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成地属性中剑波伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F6F/0",
@@ -242187,7 +242187,7 @@
   "offset": "49B6",
   "jp": "メガアースシェイク",
   "en": "Mega Earth Shake",
-  "zh": ""
+  "zh": "巨阶地裂震"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/F6F/1",
@@ -242196,7 +242196,7 @@
   "offset": "49CA",
   "jp": "直接：範囲内の敵に、地属性の強剣波",
   "en": "Direct: [Earth] Strong shockwave on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成地属性强剑波伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FA0/0",
@@ -242205,7 +242205,7 @@
   "offset": "49EE",
   "jp": "スピア",
   "en": "Spear",
-  "zh": ""
+  "zh": "长枪刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FA0/1",
@@ -242214,7 +242214,7 @@
   "offset": "49F6",
   "jp": "直接：縦列の敵に、無属性の弱突き",
   "en": "Direct: Weak spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行无属性弱突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FA1/0",
@@ -242223,7 +242223,7 @@
   "offset": "4A18",
   "jp": "ハイスピア",
   "en": "High Spear",
-  "zh": ""
+  "zh": "高阶长枪刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FA1/1",
@@ -242232,7 +242232,7 @@
   "offset": "4A24",
   "jp": "直接：縦列の敵に、無属性の中突き",
   "en": "Direct: Medium spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行无属性中突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FA2/0",
@@ -242241,7 +242241,7 @@
   "offset": "4A46",
   "jp": "メガスピア",
   "en": "Mega Spear",
-  "zh": ""
+  "zh": "巨阶长枪刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FA2/1",
@@ -242250,7 +242250,7 @@
   "offset": "4A52",
   "jp": "直接：縦列の敵に、無属性の強突き",
   "en": "Direct: Strong spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行无属性强突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD2/0",
@@ -242259,7 +242259,7 @@
   "offset": "4A74",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD2/1",
@@ -242268,7 +242268,7 @@
   "offset": "4A78",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD3/0",
@@ -242277,7 +242277,7 @@
   "offset": "4A7C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD3/1",
@@ -242286,7 +242286,7 @@
   "offset": "4A80",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD4/0",
@@ -242295,7 +242295,7 @@
   "offset": "4A84",
   "jp": "フレアスピア",
   "en": "Flare Spear",
-  "zh": ""
+  "zh": "火炎之枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD4/1",
@@ -242304,7 +242304,7 @@
   "offset": "4A92",
   "jp": "直接：縦列の敵に、火属性の弱突き",
   "en": "Direct: [Fire] Weak spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成火属性弱刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD5/0",
@@ -242313,7 +242313,7 @@
   "offset": "4AB4",
   "jp": "エアロスピア",
   "en": "Aero Spear",
-  "zh": ""
+  "zh": "疾风之枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD5/1",
@@ -242322,7 +242322,7 @@
   "offset": "4AC2",
   "jp": "直接：縦列の敵に、風属性の弱突き",
   "en": "Direct: [Wind] Weak spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成风属性弱刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD6/0",
@@ -242331,7 +242331,7 @@
   "offset": "4AE4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD6/1",
@@ -242340,7 +242340,7 @@
   "offset": "4AE8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD7/0",
@@ -242349,7 +242349,7 @@
   "offset": "4AEC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FD7/1",
@@ -242358,7 +242358,7 @@
   "offset": "4AF0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDC/0",
@@ -242367,7 +242367,7 @@
   "offset": "4AF4",
   "jp": "ハイアーススピア",
   "en": "High Earth Spear",
-  "zh": ""
+  "zh": "大地高阶枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDC/1",
@@ -242376,7 +242376,7 @@
   "offset": "4B06",
   "jp": "直接：縦列の敵に、地属性の中突き",
   "en": "Direct: [Earth] Medium spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成地属性中刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDD/0",
@@ -242385,7 +242385,7 @@
   "offset": "4B28",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDD/1",
@@ -242394,7 +242394,7 @@
   "offset": "4B2C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDE/0",
@@ -242403,7 +242403,7 @@
   "offset": "4B30",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDE/1",
@@ -242412,7 +242412,7 @@
   "offset": "4B34",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDF/0",
@@ -242421,7 +242421,7 @@
   "offset": "4B38",
   "jp": "ハイエアロスピア",
   "en": "High Aero Spear",
-  "zh": ""
+  "zh": "疾风高阶枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FDF/1",
@@ -242430,7 +242430,7 @@
   "offset": "4B4A",
   "jp": "直接：縦列の敵に、風属性の中突き",
   "en": "Direct: [Wind] Medium spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成风属性中刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE0/0",
@@ -242439,7 +242439,7 @@
   "offset": "4B6C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE0/1",
@@ -242448,7 +242448,7 @@
   "offset": "4B70",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE1/0",
@@ -242457,7 +242457,7 @@
   "offset": "4B74",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE1/1",
@@ -242466,7 +242466,7 @@
   "offset": "4B78",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE6/0",
@@ -242475,7 +242475,7 @@
   "offset": "4B7C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE6/1",
@@ -242484,7 +242484,7 @@
   "offset": "4B80",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE7/0",
@@ -242493,7 +242493,7 @@
   "offset": "4B84",
   "jp": "メガアクアスピア",
   "en": "Mega Aqua Spear",
-  "zh": ""
+  "zh": "流水超阶枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE7/1",
@@ -242502,7 +242502,7 @@
   "offset": "4B96",
   "jp": "直接：縦列の敵に、水属性の強突き",
   "en": "Direct: [Water] Strong spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成水属性强刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE8/0",
@@ -242511,7 +242511,7 @@
   "offset": "4BB8",
   "jp": "メガフレアスピア",
   "en": "Mega Flare Spear",
-  "zh": ""
+  "zh": "火炎超阶枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE8/1",
@@ -242520,7 +242520,7 @@
   "offset": "4BCA",
   "jp": "直接：縦列の敵に、火属性の強突き",
   "en": "Direct: [Fire] Strong spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成火属性强刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE9/0",
@@ -242529,7 +242529,7 @@
   "offset": "4BEC",
   "jp": "メガエアロスピア",
   "en": "Mega Aero Spear",
-  "zh": ""
+  "zh": "疾风超阶枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FE9/1",
@@ -242538,7 +242538,7 @@
   "offset": "4BFE",
   "jp": "直接：縦列の敵に、風属性の強突き",
   "en": "Direct: [Wind] Strong spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成风属性强刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FEA/0",
@@ -242547,7 +242547,7 @@
   "offset": "4C20",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FEA/1",
@@ -242556,7 +242556,7 @@
   "offset": "4C24",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FEB/0",
@@ -242565,7 +242565,7 @@
   "offset": "4C28",
   "jp": "メガダークスピア",
   "en": "Mega Dark Spear",
-  "zh": ""
+  "zh": "暗黑超阶枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/FEB/1",
@@ -242574,7 +242574,7 @@
   "offset": "4C3A",
   "jp": "直接：縦列の敵に、闇属性の強突き",
   "en": "Direct: [Dark] Strong spear thrust on enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成暗属性强刺击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1004/0",
@@ -242583,7 +242583,7 @@
   "offset": "4C5C",
   "jp": "アーススパイク",
   "en": "Earth Spike",
-  "zh": ""
+  "zh": "大地穿刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1004/1",
@@ -242592,7 +242592,7 @@
   "offset": "4C6C",
   "jp": "間接：範囲内の敵に、地のエーテルを放つ弱槍衝",
   "en": "Ranged: Weak stab with Earth Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内敌人释放地之以太的弱枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1005/0",
@@ -242601,7 +242601,7 @@
   "offset": "4C9A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1005/1",
@@ -242610,7 +242610,7 @@
   "offset": "4C9E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1006/0",
@@ -242619,7 +242619,7 @@
   "offset": "4CA2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1006/1",
@@ -242628,7 +242628,7 @@
   "offset": "4CA6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1007/0",
@@ -242637,7 +242637,7 @@
   "offset": "4CAA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1007/1",
@@ -242646,7 +242646,7 @@
   "offset": "4CAE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1008/0",
@@ -242655,7 +242655,7 @@
   "offset": "4CB2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1008/1",
@@ -242664,7 +242664,7 @@
   "offset": "4CB6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1009/0",
@@ -242673,7 +242673,7 @@
   "offset": "4CBA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1009/1",
@@ -242682,7 +242682,7 @@
   "offset": "4CBE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/100E/0",
@@ -242691,7 +242691,7 @@
   "offset": "4CC2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/100E/1",
@@ -242700,7 +242700,7 @@
   "offset": "4CC6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/100F/0",
@@ -242709,7 +242709,7 @@
   "offset": "4CCA",
   "jp": "ハイアクアスパイク",
   "en": "High Aqua Spike",
-  "zh": ""
+  "zh": "高级水流突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/100F/1",
@@ -242718,7 +242718,7 @@
   "offset": "4CDE",
   "jp": "間接：範囲内の敵に、水のエーテルを放つ中槍衝",
   "en": "Ranged: Medium stab with Water Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放水之以太的中枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1010/0",
@@ -242727,7 +242727,7 @@
   "offset": "4D0C",
   "jp": "ハイフレアスパイク",
   "en": "High Flare Spike",
-  "zh": ""
+  "zh": "高级火炎突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1010/1",
@@ -242736,7 +242736,7 @@
   "offset": "4D20",
   "jp": "間接：範囲内の敵に、火のエーテルを放つ中槍衝",
   "en": "Ranged: Weak stab with Fire Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放火之以太的中枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1011/0",
@@ -242745,7 +242745,7 @@
   "offset": "4D4E",
   "jp": "ハイエアロスパイク",
   "en": "High Aero Spike",
-  "zh": ""
+  "zh": "高级风刃突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1011/1",
@@ -242754,7 +242754,7 @@
   "offset": "4D62",
   "jp": "間接：範囲内の敵に、風のエーテルを放つ中槍衝",
   "en": "Ranged: Medium stab with Wind Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放风之以太的中枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1012/0",
@@ -242763,7 +242763,7 @@
   "offset": "4D90",
   "jp": "ハイライトスパイク",
   "en": "High Light Spike",
-  "zh": ""
+  "zh": "高级圣光突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1012/1",
@@ -242772,7 +242772,7 @@
   "offset": "4DA4",
   "jp": "間接：範囲内の敵に、光のエーテルを放つ中槍衝",
   "en": "Ranged: Weak stab with Light Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放光之以太的中枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1013/0",
@@ -242781,7 +242781,7 @@
   "offset": "4DD2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1013/1",
@@ -242790,7 +242790,7 @@
   "offset": "4DD6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1018/0",
@@ -242799,7 +242799,7 @@
   "offset": "4DDA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1018/1",
@@ -242808,7 +242808,7 @@
   "offset": "4DDE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1019/0",
@@ -242817,7 +242817,7 @@
   "offset": "4DE2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1019/1",
@@ -242826,7 +242826,7 @@
   "offset": "4DE6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101A/0",
@@ -242835,7 +242835,7 @@
   "offset": "4DEA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101A/1",
@@ -242844,7 +242844,7 @@
   "offset": "4DEE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101B/0",
@@ -242853,7 +242853,7 @@
   "offset": "4DF2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101B/1",
@@ -242862,7 +242862,7 @@
   "offset": "4DF6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101C/0",
@@ -242871,7 +242871,7 @@
   "offset": "4DFA",
   "jp": "メガライトスパイク",
   "en": "Mega Light Spike",
-  "zh": ""
+  "zh": "超级圣光突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101C/1",
@@ -242880,7 +242880,7 @@
   "offset": "4E0E",
   "jp": "間接：範囲内の敵に、光のエーテルを放つ強槍衝",
   "en": "Ranged: Strong stab with Light Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放光之以太的强枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101D/0",
@@ -242889,7 +242889,7 @@
   "offset": "4E3C",
   "jp": "メガダークスパイク",
   "en": "Mega Dark Spike",
-  "zh": ""
+  "zh": "超级暗黑突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/101D/1",
@@ -242898,7 +242898,7 @@
   "offset": "4E50",
   "jp": "間接：範囲内の敵に、闇のエーテルを放つ強槍衝",
   "en": "Ranged: Strong stab with Dark Ether on enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放暗之以太的强枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1036/0",
@@ -242907,7 +242907,7 @@
   "offset": "4E7E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1036/1",
@@ -242916,7 +242916,7 @@
   "offset": "4E82",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1037/0",
@@ -242925,7 +242925,7 @@
   "offset": "4E86",
   "jp": "ハイフラッシュ",
   "en": "High Flash",
-  "zh": ""
+  "zh": "高阶闪光"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1037/1",
@@ -242934,7 +242934,7 @@
   "offset": "4E96",
   "jp": "直接：範囲内の敵に、無属性の中刺突",
   "en": "Direct: Medium thrust on enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性中刺突"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1038/0",
@@ -242943,7 +242943,7 @@
   "offset": "4EBA",
   "jp": "メガフラッシュ",
   "en": "Mega Flash",
-  "zh": ""
+  "zh": "百万闪光"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1038/1",
@@ -242952,7 +242952,7 @@
   "offset": "4ECA",
   "jp": "直接：範囲内の敵に、無属性の強刺突",
   "en": "Direct: High power thrust to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性强刺突"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1040/0",
@@ -242961,7 +242961,7 @@
   "offset": "4EEE",
   "jp": "パワーライズ",
   "en": "Power Rise",
-  "zh": ""
+  "zh": "力量提升"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1040/1",
@@ -242970,7 +242970,7 @@
   "offset": "4EFC",
   "jp": "援護：自分の“パラメータ”を２５％アップ",
   "en": "Cover: Boosts own parameters by 25%",
-  "zh": ""
+  "zh": "援护：自身“各项能力”提升２５％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1068/0",
@@ -242979,7 +242979,7 @@
   "offset": "4F26",
   "jp": "グングニル",
   "en": "Gungnir",
-  "zh": ""
+  "zh": "永恒之枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1068/1",
@@ -242988,7 +242988,7 @@
   "offset": "4F32",
   "jp": "直接：縦列の敵に、無属性の超槍術",
   "en": "Direct: Max power stab to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人造成无属性超枪术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10A4/0",
@@ -242997,7 +242997,7 @@
   "offset": "4F54",
   "jp": "ソルジャーシールド",
   "en": "Soldier's Shield",
-  "zh": ""
+  "zh": "士兵之盾"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10A4/1",
@@ -243006,7 +243006,7 @@
   "offset": "4F68",
   "jp": "援護：自分＋範囲内の味方の“ＨＰダメージ”を５０％カット",
   "en": "Cover: Reduces HP damage to self + in-range allies by 50%",
-  "zh": ""
+  "zh": "援护：自身＋范围内同伴受到的“ＨＰ伤害”减轻５０％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10CC/0",
@@ -243015,7 +243015,7 @@
   "offset": "4FA2",
   "jp": "ＥＰドレインスピア",
   "en": "EP Drain Spear",
-  "zh": ""
+  "zh": "ＥＰ汲取枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10CC/1",
@@ -243024,7 +243024,7 @@
   "offset": "4FB6",
   "jp": "直接：縦列の敵にＨＰダメージ＋ＥＰ吸収する突き",
   "en": "Direct: Thrust HP damage + EP absorb to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人造成ＨＰ伤害＋吸收ＥＰ的突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10CD/0",
@@ -243033,7 +243033,7 @@
   "offset": "4FE6",
   "jp": "ＨＰドレインスピア",
   "en": "HP Drain Spear",
-  "zh": ""
+  "zh": "ＨＰ汲取枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/10CD/1",
@@ -243042,7 +243042,7 @@
   "offset": "4FFA",
   "jp": "直接：縦列の敵から、ＨＰを吸収する突き",
   "en": "Direct: Thrust drains HP from enemy column",
-  "zh": ""
+  "zh": "直接：从纵列的敌人身上吸收ＨＰ的突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1324/0",
@@ -243051,7 +243051,7 @@
   "offset": "5022",
   "jp": "ハイスピア",
   "en": "High Spear",
-  "zh": ""
+  "zh": "高阶标枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1324/1",
@@ -243060,7 +243060,7 @@
   "offset": "502E",
   "jp": "直接：縦列の敵に、無属性の中突き",
   "en": "Direct: Medium thrust to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人造成无属性中突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1325/0",
@@ -243069,7 +243069,7 @@
   "offset": "5050",
   "jp": "アクアスパイク",
   "en": "Aqua Spike",
-  "zh": ""
+  "zh": "水流尖刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1325/1",
@@ -243078,7 +243078,7 @@
   "offset": "5060",
   "jp": "間接：範囲内の敵に、水のエーテルを放つ弱槍衝",
   "en": "Ranged: Weak stab with Water Ether to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放水之以太的弱枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1326/0",
@@ -243087,7 +243087,7 @@
   "offset": "508E",
   "jp": "メガアクアスパイク",
   "en": "Mega Aqua Spike",
-  "zh": ""
+  "zh": "百万水流尖刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1326/1",
@@ -243096,7 +243096,7 @@
   "offset": "50A2",
   "jp": "間接：範囲内の敵に、水のエーテルを放つ強槍衝",
   "en": "Ranged: Strong stab with Water Ether to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放水之以太的强枪冲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1327/0",
@@ -243105,7 +243105,7 @@
   "offset": "50D0",
   "jp": "アンリンクスピア",
   "en": "Unlink Spear",
-  "zh": ""
+  "zh": "断链枪"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1327/1",
@@ -243114,7 +243114,7 @@
   "offset": "50E2",
   "jp": "直接：縦列の敵の“連携ゲージ”を０にする突き",
   "en": "Direct: Resets combination gauge of enemy in range",
-  "zh": ""
+  "zh": "直接：将纵列敌人的“连击计量表”清零的突刺"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1328/0",
@@ -243123,7 +243123,7 @@
   "offset": "5110",
   "jp": "スキルリフレクト",
   "en": "",
-  "zh": ""
+  "zh": "技能反射"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1328/1",
@@ -243132,7 +243132,7 @@
   "offset": "5122",
   "jp": "援護：敵のスキルをはね返す",
   "en": "",
-  "zh": ""
+  "zh": "援护：弹回敌人的技能"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1329/0",
@@ -243141,7 +243141,7 @@
   "offset": "513E",
   "jp": "ゲイボルグ",
   "en": "Gaybolg",
-  "zh": ""
+  "zh": "迦耶伯格"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1329/1",
@@ -243150,7 +243150,7 @@
   "offset": "514A",
   "jp": "直接：範囲内の敵に反撃",
   "en": "Direct: Delivers counterstroke against enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行反击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1388/0",
@@ -243159,7 +243159,7 @@
   "offset": "5162",
   "jp": "ハイクラッシュ",
   "en": "High Crush",
-  "zh": ""
+  "zh": "高阶粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1388/1",
@@ -243168,7 +243168,7 @@
   "offset": "5172",
   "jp": "直接：横列の敵を、“ノックバック”させる無属性の中振",
   "en": "Direct: Medium swing with knockback to enemy rank",
-  "zh": ""
+  "zh": "直接：击退横列敌人的无属性中度挥舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1389/0",
@@ -243177,7 +243177,7 @@
   "offset": "51A8",
   "jp": "メガクラッシュ",
   "en": "Mega Crush",
-  "zh": ""
+  "zh": "百万粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1389/1",
@@ -243186,7 +243186,7 @@
   "offset": "51B8",
   "jp": "直接：横列の敵を、“ノックバック”させる無属性の強振",
   "en": "Direct: High power swing with knockback to enemy rank",
-  "zh": ""
+  "zh": "直接：击退横列敌人的无属性强力挥舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BA/0",
@@ -243195,7 +243195,7 @@
   "offset": "51EE",
   "jp": "アースクラッシュ",
   "en": "Earth Crush",
-  "zh": ""
+  "zh": "大地粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BA/1",
@@ -243204,7 +243204,7 @@
   "offset": "5200",
   "jp": "直接：横列の敵を、“ノックバック”させる地属性の振り回し",
   "en": "Direct: [Earth] swing with knockback to enemy rank",
-  "zh": ""
+  "zh": "直接：击退横列敌人的地属性挥舞攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BB/0",
@@ -243213,7 +243213,7 @@
   "offset": "523A",
   "jp": "アクアクラッシュ",
   "en": "Aqua Crush",
-  "zh": ""
+  "zh": "流水粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BB/1",
@@ -243222,7 +243222,7 @@
   "offset": "524C",
   "jp": "直接：横列の敵を、“ノックバック”させる水属性の振り回し",
   "en": "Direct: [Water] swing with knockback to enemy rank",
-  "zh": ""
+  "zh": "直接：击退横列敌人的水属性挥舞攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BC/0",
@@ -243231,7 +243231,7 @@
   "offset": "5286",
   "jp": "フレアクラッシュ",
   "en": "Flare Crush",
-  "zh": ""
+  "zh": "烈焰粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BC/1",
@@ -243240,7 +243240,7 @@
   "offset": "5298",
   "jp": "直接：横列の敵を、“ノックバック”させる火属性の振り回し",
   "en": "Direct: [Fire] swing with knockback to enemy rank",
-  "zh": ""
+  "zh": "直接：使横列敌人“击退”的火属性挥击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BD/0",
@@ -243249,7 +243249,7 @@
   "offset": "52D2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BD/1",
@@ -243258,7 +243258,7 @@
   "offset": "52D6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BE/0",
@@ -243267,7 +243267,7 @@
   "offset": "52DA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BE/1",
@@ -243276,7 +243276,7 @@
   "offset": "52DE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BF/0",
@@ -243285,7 +243285,7 @@
   "offset": "52E2",
   "jp": "ダーククラッシュ",
   "en": "Dark Crush",
-  "zh": ""
+  "zh": "暗黑粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13BF/1",
@@ -243294,7 +243294,7 @@
   "offset": "52F4",
   "jp": "直接：横列の敵を、“ノックバック”させる闇属性の振り回し",
   "en": "Direct: [Dark] swing with knockback to enemy rank",
-  "zh": ""
+  "zh": "直接：使横列敌人“击退”的暗属性挥击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13EC/0",
@@ -243303,7 +243303,7 @@
   "offset": "532E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13EC/1",
@@ -243312,7 +243312,7 @@
   "offset": "5332",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13ED/0",
@@ -243321,7 +243321,7 @@
   "offset": "5336",
   "jp": "ハイハンマー",
   "en": "High Hammer",
-  "zh": ""
+  "zh": "高阶重锤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13ED/1",
@@ -243330,7 +243330,7 @@
   "offset": "5344",
   "jp": "直接：敵１体に、無属性の中打",
   "en": "Direct: Medium strike to single enemy",
-  "zh": ""
+  "zh": "直接：对单体敌人造成无属性中度打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13EE/0",
@@ -243339,7 +243339,7 @@
   "offset": "5362",
   "jp": "メガハンマー",
   "en": "Mega Hammer",
-  "zh": ""
+  "zh": "百万重锤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/13EE/1",
@@ -243348,7 +243348,7 @@
   "offset": "5370",
   "jp": "直接：敵１体に、無属性の強打",
   "en": "Direct: Strong strike to single enemy",
-  "zh": ""
+  "zh": "直接：对单体敌人造成无属性强力打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/141E/0",
@@ -243357,7 +243357,7 @@
   "offset": "538E",
   "jp": "ハイクエイク",
   "en": "High Quake",
-  "zh": ""
+  "zh": "高阶震地"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/141E/1",
@@ -243366,7 +243366,7 @@
   "offset": "539C",
   "jp": "直接：範囲内の敵に、無属性の中震動",
   "en": "Direct: Medium quake to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人造成无属性中度震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/141F/0",
@@ -243375,7 +243375,7 @@
   "offset": "53C0",
   "jp": "メガクエイク",
   "en": "Mega Quake",
-  "zh": ""
+  "zh": "百万震地"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/141F/1",
@@ -243384,7 +243384,7 @@
   "offset": "53CE",
   "jp": "直接：範囲内の敵に、無属性の強震動",
   "en": "Direct: High power quake to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人造成无属性强力震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1450/0",
@@ -243393,7 +243393,7 @@
   "offset": "53F2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1450/1",
@@ -243402,7 +243402,7 @@
   "offset": "53F6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1451/0",
@@ -243411,7 +243411,7 @@
   "offset": "53FA",
   "jp": "アクアクエイク",
   "en": "Aqua Quake",
-  "zh": ""
+  "zh": "流水震地"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1451/1",
@@ -243420,7 +243420,7 @@
   "offset": "540A",
   "jp": "直接：縦列の敵に、水属性の震動",
   "en": "Direct: [Water] Quake to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成水属性震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1452/0",
@@ -243429,7 +243429,7 @@
   "offset": "542A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1452/1",
@@ -243438,7 +243438,7 @@
   "offset": "542E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1453/0",
@@ -243447,7 +243447,7 @@
   "offset": "5432",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1453/1",
@@ -243456,7 +243456,7 @@
   "offset": "5436",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1454/0",
@@ -243465,7 +243465,7 @@
   "offset": "543A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1454/1",
@@ -243474,7 +243474,7 @@
   "offset": "543E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1455/0",
@@ -243483,7 +243483,7 @@
   "offset": "5442",
   "jp": "ダーククエイク",
   "en": "Dark Quake",
-  "zh": ""
+  "zh": "暗黑震地"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1455/1",
@@ -243492,7 +243492,7 @@
   "offset": "5452",
   "jp": "直接：縦列の敵に、闇属性の震動",
   "en": "Direct: [Dark] Quake to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成暗属性震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1482/0",
@@ -243501,7 +243501,7 @@
   "offset": "5472",
   "jp": "パラライズハンマー",
   "en": "",
-  "zh": ""
+  "zh": "麻痹重锤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1482/1",
@@ -243510,7 +243510,7 @@
   "offset": "5486",
   "jp": "直接：敵１体を、“麻痺”させる震動",
   "en": "",
-  "zh": ""
+  "zh": "直接：使单体敌人“麻痹”的震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1483/0",
@@ -243519,7 +243519,7 @@
   "offset": "54AA",
   "jp": "グラビティハンマー",
   "en": "Gravity Hammer",
-  "zh": ""
+  "zh": "重力重锤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1483/1",
@@ -243528,7 +243528,7 @@
   "offset": "54BE",
   "jp": "直接：縦列の敵を、“重力”にする震動",
   "en": "Direct: Gravity quake to enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人附加“重力”状态的震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1484/0",
@@ -243537,7 +243537,7 @@
   "offset": "54E4",
   "jp": "リバースハンマー",
   "en": "Reverse Hammer",
-  "zh": ""
+  "zh": "反转重锤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1484/1",
@@ -243546,7 +243546,7 @@
   "offset": "54F6",
   "jp": "直接：縦列の敵を、“属性反転”させる震動",
   "en": "Direct: Element Reverse quake to enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人“属性反转”的震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170C/0",
@@ -243555,7 +243555,7 @@
   "offset": "5520",
   "jp": "ブロウクラッシャー",
   "en": "Blow Crusher",
-  "zh": ""
+  "zh": "重击粉碎"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170C/1",
@@ -243564,7 +243564,7 @@
   "offset": "5534",
   "jp": "直接：範囲内の敵を、ノックバックさせる無属性の超震動",
   "en": "Direct: Hyper quake with knockback to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成带击退效果的无属性超震动"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170D/0",
@@ -243573,7 +243573,7 @@
   "offset": "556A",
   "jp": "ヘルファイアー",
   "en": "Hellfire",
-  "zh": ""
+  "zh": "地狱之火"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170D/1",
@@ -243582,7 +243582,7 @@
   "offset": "557A",
   "jp": "間接：範囲内の敵を、“重力”にする火炎撃",
   "en": "Ranged: Flame strike with gravity to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内的敌人陷入“重力”状态的火炎击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170E/0",
@@ -243591,7 +243591,7 @@
   "offset": "55A4",
   "jp": "リストラクション",
   "en": "Restoration",
-  "zh": ""
+  "zh": "复元"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170E/1",
@@ -243600,7 +243600,7 @@
   "offset": "55B6",
   "jp": "援護：自分のＨＰ・ＥＰ・ＥＸを、超回復",
   "en": "Cover: Recovers maximum HP, EP,and EX",
-  "zh": ""
+  "zh": "掩护：自身ＨＰ・ＥＰ・ＥＸ超恢复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170F/0",
@@ -243609,7 +243609,7 @@
   "offset": "55DE",
   "jp": "アクトユニット",
   "en": "Act Unit",
-  "zh": ""
+  "zh": "行动单元"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/170F/1",
@@ -243618,7 +243618,7 @@
   "offset": "55EE",
   "jp": "援護：取りこんだ人間を露出させる",
   "en": "Cover: Exposes absorbed humans",
-  "zh": ""
+  "zh": "掩护：露出摄入体内的人类"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1710/0",
@@ -243627,7 +243627,7 @@
   "offset": "5610",
   "jp": "メルトユニット",
   "en": "Melt Unit",
-  "zh": ""
+  "zh": "溶解单元"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1710/1",
@@ -243636,7 +243636,7 @@
   "offset": "5620",
   "jp": "援護：人間を自身に取りこむ",
   "en": "Cover: Absorbs humans into self",
-  "zh": ""
+  "zh": "掩护：将人类摄入自身体内"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1770/0",
@@ -243645,7 +243645,7 @@
   "offset": "563C",
   "jp": "ショット",
   "en": "Shot",
-  "zh": ""
+  "zh": "射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1770/1",
@@ -243654,7 +243654,7 @@
   "offset": "5646",
   "jp": "直接：縦列の敵に、無属性の弱撃ち",
   "en": "Direct: Weak shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行无属性弱射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1771/0",
@@ -243663,7 +243663,7 @@
   "offset": "5668",
   "jp": "ハイショット",
   "en": "High Shot",
-  "zh": ""
+  "zh": "强射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1771/1",
@@ -243672,7 +243672,7 @@
   "offset": "5676",
   "jp": "直接：縦列の敵に、無属性の中撃ち",
   "en": "Direct: Medium shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行无属性中射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1772/0",
@@ -243681,7 +243681,7 @@
   "offset": "5698",
   "jp": "メガショット",
   "en": "Mega Shot",
-  "zh": ""
+  "zh": "百万射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1772/1",
@@ -243690,7 +243690,7 @@
   "offset": "56A6",
   "jp": "直接：縦列の敵に、無属性の強撃ち",
   "en": "Direct: Strong shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行无属性强射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A2/0",
@@ -243699,7 +243699,7 @@
   "offset": "56C8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A2/1",
@@ -243708,7 +243708,7 @@
   "offset": "56CC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A3/0",
@@ -243717,7 +243717,7 @@
   "offset": "56D0",
   "jp": "ハイアクアショット",
   "en": "High Aqua Shot",
-  "zh": ""
+  "zh": "强水流射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A3/1",
@@ -243726,7 +243726,7 @@
   "offset": "56E4",
   "jp": "直接：縦列の敵に、水属性の中撃ち",
   "en": "Direct: [Water] Medium shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行水属性中射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A4/0",
@@ -243735,7 +243735,7 @@
   "offset": "5706",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A4/1",
@@ -243744,7 +243744,7 @@
   "offset": "570A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A5/0",
@@ -243753,7 +243753,7 @@
   "offset": "570E",
   "jp": "ハイエアロショット",
   "en": "High Aero Shot",
-  "zh": ""
+  "zh": "强疾风射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A5/1",
@@ -243762,7 +243762,7 @@
   "offset": "5722",
   "jp": "直接：縦列の敵に、風属性の中撃ち",
   "en": "Direct: [Wind] Medium shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行风属性中射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A6/0",
@@ -243771,7 +243771,7 @@
   "offset": "5744",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A6/1",
@@ -243780,7 +243780,7 @@
   "offset": "5748",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A7/0",
@@ -243789,7 +243789,7 @@
   "offset": "574C",
   "jp": "ハイダークショット",
   "en": "High Dark Shot",
-  "zh": ""
+  "zh": "强暗黑射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17A7/1",
@@ -243798,7 +243798,7 @@
   "offset": "5760",
   "jp": "直接：縦列の敵に、闇属性の中撃ち",
   "en": "Direct: [Dark] Medium shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人进行暗属性中射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AC/0",
@@ -243807,7 +243807,7 @@
   "offset": "5782",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AC/1",
@@ -243816,7 +243816,7 @@
   "offset": "5786",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AD/0",
@@ -243825,7 +243825,7 @@
   "offset": "578A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AD/1",
@@ -243834,7 +243834,7 @@
   "offset": "578E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AE/0",
@@ -243843,7 +243843,7 @@
   "offset": "5792",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AE/1",
@@ -243852,7 +243852,7 @@
   "offset": "5796",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AF/0",
@@ -243861,7 +243861,7 @@
   "offset": "579A",
   "jp": "メガエアロショット",
   "en": "Mega Aero Shot",
-  "zh": ""
+  "zh": "百万疾风射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17AF/1",
@@ -243870,7 +243870,7 @@
   "offset": "57AE",
   "jp": "直接：縦列の敵に、風属性の強撃ち",
   "en": "Direct: [Wind] Strong shot to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列的敌人造成风属性强力打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17B0/0",
@@ -243879,7 +243879,7 @@
   "offset": "57D0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17B0/1",
@@ -243888,7 +243888,7 @@
   "offset": "57D4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17B1/0",
@@ -243897,7 +243897,7 @@
   "offset": "57D8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17B1/1",
@@ -243906,7 +243906,7 @@
   "offset": "57DC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17D4/0",
@@ -243915,7 +243915,7 @@
   "offset": "57E0",
   "jp": "バースト",
   "en": "Burst",
-  "zh": ""
+  "zh": "爆裂射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17D4/1",
@@ -243924,7 +243924,7 @@
   "offset": "57EA",
   "jp": "直接：範囲内の敵に、無属性の弱射撃",
   "en": "Direct: Weak burst fire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性弱射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17D5/0",
@@ -243933,7 +243933,7 @@
   "offset": "580E",
   "jp": "ハイバースト",
   "en": "High Burst",
-  "zh": ""
+  "zh": "高阶爆裂射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17D5/1",
@@ -243942,7 +243942,7 @@
   "offset": "581C",
   "jp": "直接：範囲内の敵に、無属性の中射撃",
   "en": "Direct: Medium burst fire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性中射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17D6/0",
@@ -243951,7 +243951,7 @@
   "offset": "5840",
   "jp": "メガバースト",
   "en": "Mega Burst",
-  "zh": ""
+  "zh": "超量爆裂射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17D6/1",
@@ -243960,7 +243960,7 @@
   "offset": "584E",
   "jp": "直接：範囲内の敵に、無属性の強射撃",
   "en": "Direct: Strong burst fire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性强射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17DE/0",
@@ -243969,7 +243969,7 @@
   "offset": "5872",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17DE/1",
@@ -243978,7 +243978,7 @@
   "offset": "5876",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17DF/0",
@@ -243987,7 +243987,7 @@
   "offset": "587A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17DF/1",
@@ -243996,7 +243996,7 @@
   "offset": "587E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E0/0",
@@ -244005,7 +244005,7 @@
   "offset": "5882",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E0/1",
@@ -244014,7 +244014,7 @@
   "offset": "5886",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E1/0",
@@ -244023,7 +244023,7 @@
   "offset": "588A",
   "jp": "エアロバースト",
   "en": "Aero Burst",
-  "zh": ""
+  "zh": "风刃爆裂"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E1/1",
@@ -244032,7 +244032,7 @@
   "offset": "589A",
   "jp": "直接：範囲内の敵に、風属性の弱射撃",
   "en": "Direct: [Wind] Weak burst fire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成风属性弱射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E2/0",
@@ -244041,7 +244041,7 @@
   "offset": "58BE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E2/1",
@@ -244050,7 +244050,7 @@
   "offset": "58C2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E3/0",
@@ -244059,7 +244059,7 @@
   "offset": "58C6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E3/1",
@@ -244068,7 +244068,7 @@
   "offset": "58CA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E8/0",
@@ -244077,7 +244077,7 @@
   "offset": "58CE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E8/1",
@@ -244086,7 +244086,7 @@
   "offset": "58D2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E9/0",
@@ -244095,7 +244095,7 @@
   "offset": "58D6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17E9/1",
@@ -244104,7 +244104,7 @@
   "offset": "58DA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17EA/0",
@@ -244113,7 +244113,7 @@
   "offset": "58DE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17EA/1",
@@ -244122,7 +244122,7 @@
   "offset": "58E2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17EB/0",
@@ -244131,7 +244131,7 @@
   "offset": "58E6",
   "jp": "メガエアロバースト",
   "en": "Mega Aero Burst",
-  "zh": ""
+  "zh": "超量风刃爆裂"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17EB/1",
@@ -244140,7 +244140,7 @@
   "offset": "58FA",
   "jp": "直接：範囲内の敵に、風属性の強射撃",
   "en": "Direct: [Wind] Strong burst fire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成风属性强射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17EC/0",
@@ -244149,7 +244149,7 @@
   "offset": "591E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17EC/1",
@@ -244158,7 +244158,7 @@
   "offset": "5922",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17ED/0",
@@ -244167,7 +244167,7 @@
   "offset": "5926",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/17ED/1",
@@ -244176,7 +244176,7 @@
   "offset": "592A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1806/0",
@@ -244185,7 +244185,7 @@
   "offset": "592E",
   "jp": "グラビティショット",
   "en": "Gravity Shot",
-  "zh": ""
+  "zh": "グラビティショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1806/1",
@@ -244194,7 +244194,7 @@
   "offset": "5942",
   "jp": "直接：縦列の敵を、“重力”にする射撃",
   "en": "Direct: Burst fire with gravity to enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵を、“重力”にする射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1807/0",
@@ -244203,7 +244203,7 @@
   "offset": "5968",
   "jp": "ポイズンショット",
   "en": "Poison Shot",
-  "zh": ""
+  "zh": "ポイズンショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1807/1",
@@ -244212,7 +244212,7 @@
   "offset": "597A",
   "jp": "直接：縦列の敵を、“毒”にする射撃",
   "en": "Direct: Burst fire with poison to enemy column",
-  "zh": ""
+  "zh": "直接：縦列の敵を、“毒”にする射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1808/0",
@@ -244221,7 +244221,7 @@
   "offset": "599E",
   "jp": "シールショット",
   "en": "",
-  "zh": ""
+  "zh": "シールショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1808/1",
@@ -244230,7 +244230,7 @@
   "offset": "59AE",
   "jp": "直接：縦列の敵を、“封印”する射撃",
   "en": "",
-  "zh": ""
+  "zh": "直接：縦列の敵を、“封印”する射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1838/0",
@@ -244239,7 +244239,7 @@
   "offset": "59D2",
   "jp": "アンバリアショット",
   "en": "No-Barrier Shot",
-  "zh": ""
+  "zh": "アンバリアショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1838/1",
@@ -244248,7 +244248,7 @@
   "offset": "59E6",
   "jp": "援護：範囲内の敵の“ＨＰバリア”を解除する射撃",
   "en": "Cover: Salvo negates HP barrier of enemy in range",
-  "zh": ""
+  "zh": "援護：範囲内の敵の“ＨＰバリア”を解除する射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1839/0",
@@ -244257,7 +244257,7 @@
   "offset": "5A16",
   "jp": "アンプロトショット",
   "en": "No-Protect Shot",
-  "zh": ""
+  "zh": "アンプロトショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1839/1",
@@ -244266,7 +244266,7 @@
   "offset": "5A2A",
   "jp": "援護：範囲内の敵の“ステータスバリア”を解除する射撃",
   "en": "Cover: Salvo negates status barrier of enemy in range",
-  "zh": ""
+  "zh": "援護：範囲内の敵の“ステータスバリア”を解除する射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/183A/0",
@@ -244275,7 +244275,7 @@
   "offset": "5A60",
   "jp": "アンパワーショット",
   "en": "No-Power Shot",
-  "zh": ""
+  "zh": "アンパワーショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/183A/1",
@@ -244284,7 +244284,7 @@
   "offset": "5A74",
   "jp": "援護：範囲内の敵の“パラメータアップ”を解除する射撃",
   "en": "Cover: Salvo negates parameter boost of enemy in range",
-  "zh": ""
+  "zh": "援護：範囲内の敵の“パラメータアップ”を解除する射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1842/0",
@@ -244293,7 +244293,7 @@
   "offset": "5AAA",
   "jp": "アンリンクショット",
   "en": "No-Link Shot",
-  "zh": ""
+  "zh": "アンリンクショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1842/1",
@@ -244302,7 +244302,7 @@
   "offset": "5ABE",
   "jp": "援護：横列の敵の“連携ゲージ”を０にする射撃",
   "en": "Cover: Salvo resets combination gauge of enemy rank",
-  "zh": ""
+  "zh": "援護：横列の敵の“連携ゲージ”を０にする射撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/184C/0",
@@ -244311,7 +244311,7 @@
   "offset": "5AEC",
   "jp": "ハイパワーゲイン",
   "en": "Strong Gain",
-  "zh": ""
+  "zh": "ハイパワーゲイン"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/184C/1",
@@ -244320,7 +244320,7 @@
   "offset": "5AFE",
   "jp": "援護：自分＋両隣の味方の“パラメータ”を５０％アップ",
   "en": "Cover: Boosts own and nearby allies' parameters by 50%",
-  "zh": ""
+  "zh": "援護：自分＋両隣の味方の“パラメータ”を５０％アップ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1856/0",
@@ -244329,7 +244329,7 @@
   "offset": "5B34",
   "jp": "メガリンクゲイン",
   "en": "Mega Link Gain",
-  "zh": ""
+  "zh": "メガリンクゲイン"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1856/1",
@@ -244338,7 +244338,7 @@
   "offset": "5B46",
   "jp": "援護：自分＋範囲内の味方の“連携ゲージ”を最大にする",
   "en": "Cover: Maximize own and in-range allies' combination gauge",
-  "zh": ""
+  "zh": "援護：自分＋範囲内の味方の“連携ゲージ”を最大にする"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/186A/0",
@@ -244347,7 +244347,7 @@
   "offset": "5B7C",
   "jp": "ハッピートリガ",
   "en": "Happy Trigger",
-  "zh": ""
+  "zh": "ハッピートリガ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/186A/1",
@@ -244356,7 +244356,7 @@
   "offset": "5B8C",
   "jp": "直接：範囲内の敵に、無属性の超乱射",
   "en": "Direct: Max autofire to enemy in range",
-  "zh": ""
+  "zh": "直接：範囲内の敵に、無属性の超乱射"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1874/0",
@@ -244365,7 +244365,7 @@
   "offset": "5BB0",
   "jp": "スナイプショット",
   "en": "Sniper Shot",
-  "zh": ""
+  "zh": "スナイプショット"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1874/1",
@@ -244374,7 +244374,7 @@
   "offset": "5BC2",
   "jp": "間接：敵１体に狙いをしぼり、瀕死にする超狙撃",
   "en": "Ranged: Max power sniper shot kills single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に狙いをしぼり、瀕死にする超狙撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/189C/0",
@@ -244383,7 +244383,7 @@
   "offset": "5BF0",
   "jp": "キュアループ",
   "en": "Cure Loop",
-  "zh": ""
+  "zh": "キュアループ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/189C/1",
@@ -244392,7 +244392,7 @@
   "offset": "5BFE",
   "jp": "援護：自分＋両隣の味方のＨＰを、小回復",
   "en": "Cover: Recovers small amount of own and nearby allies' HP",
-  "zh": ""
+  "zh": "援護：自分＋両隣の味方のＨＰを、小回復"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18CE/0",
@@ -244401,7 +244401,7 @@
   "offset": "5C26",
   "jp": "エアロペイン",
   "en": "Aero Pain",
-  "zh": ""
+  "zh": "エアロペイン"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18CE/1",
@@ -244410,7 +244410,7 @@
   "offset": "5C34",
   "jp": "間接：敵１体に、風のエーテルを放つ狭銃鳴",
   "en": "Ranged: Narrow Wind Ether blast to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、風のエーテルを放つ狭銃鳴"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18CF/0",
@@ -244419,7 +244419,7 @@
   "offset": "5C5E",
   "jp": "ハイエアロペイン",
   "en": "High Aero Pain",
-  "zh": ""
+  "zh": "ハイエアロペイン"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18CF/1",
@@ -244428,7 +244428,7 @@
   "offset": "5C70",
   "jp": "間接：範囲内の敵に、風のエーテルを放つ中銃鳴",
   "en": "Ranged: Medium Wind Ether blast to enemy in range",
-  "zh": ""
+  "zh": "間接：範囲内の敵に、風のエーテルを放つ中銃鳴"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18D0/0",
@@ -244437,7 +244437,7 @@
   "offset": "5C9E",
   "jp": "メガエアロペイン",
   "en": "Mega Aero Pain",
-  "zh": ""
+  "zh": "メガエアロペイン"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/18D0/1",
@@ -244446,7 +244446,7 @@
   "offset": "5CB0",
   "jp": "間接：範囲内の敵に、風のエーテルを放つ広銃鳴",
   "en": "Ranged: Wide Wind Ether blast to enemy in range",
-  "zh": ""
+  "zh": "間接：範囲内の敵に、風のエーテルを放つ広銃鳴"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1AF4/0",
@@ -244455,7 +244455,7 @@
   "offset": "5CDE",
   "jp": "Ωスペクトラム",
   "en": "Omega Spectrum",
-  "zh": ""
+  "zh": "Ωスペクトラム"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1AF4/1",
@@ -244464,7 +244464,7 @@
   "offset": "5CEE",
   "jp": "直接：範囲内の敵の“ＨＰバリア”を解除する、無属性の強力なエーテル波攻撃",
   "en": "Direct: Ether Wave removes HP barrier from enemy in range",
-  "zh": ""
+  "zh": "直接：範囲内の敵の“ＨＰバリア”を解除する、無属性の強力なエーテル波攻撃"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1AF5/0",
@@ -244473,7 +244473,7 @@
   "offset": "5D38",
   "jp": "エーテルチャージ",
   "en": "Ether Charge",
-  "zh": ""
+  "zh": "エーテルチャージ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1AF5/1",
@@ -244482,7 +244482,7 @@
   "offset": "5D4A",
   "jp": "援護：範囲内の敵からＨＰ・ＥＰを吸収",
   "en": "Cover: Absorbs HP/EP from enemy in range",
-  "zh": ""
+  "zh": "援護：範囲内の敵からＨＰ・ＥＰを吸収"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B26/0",
@@ -244491,7 +244491,7 @@
   "offset": "5D70",
   "jp": "ハイドラムロール",
   "en": "High Drum Roll",
-  "zh": ""
+  "zh": "ハイドラムロール"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B26/1",
@@ -244500,7 +244500,7 @@
   "offset": "5D82",
   "jp": "直接：範囲内の敵に、無属性の中乱射",
   "en": "Direct: Medium autofire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性中度乱射伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B27/0",
@@ -244509,7 +244509,7 @@
   "offset": "5DA6",
   "jp": "メガドラムロール",
   "en": "Mega Drum Roll",
-  "zh": ""
+  "zh": "百万滚奏射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B27/1",
@@ -244518,7 +244518,7 @@
   "offset": "5DB8",
   "jp": "直接：範囲内の敵に、無属性の強乱射",
   "en": "Direct: Strong autofire to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人造成无属性强力乱射伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B28/0",
@@ -244527,7 +244527,7 @@
   "offset": "5DDC",
   "jp": "ポットショット",
   "en": "Potshot",
-  "zh": ""
+  "zh": "乱弹射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B28/1",
@@ -244536,7 +244536,7 @@
   "offset": "5DEC",
   "jp": "間接：敵１体に、無属性の弱狙撃",
   "en": "Ranged: Weak sniper shot to single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体造成无属性弱狙击伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B29/0",
@@ -244545,7 +244545,7 @@
   "offset": "5E0C",
   "jp": "ハイポットショット",
   "en": "High Potshot",
-  "zh": ""
+  "zh": "强力乱弹射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B29/1",
@@ -244554,7 +244554,7 @@
   "offset": "5E20",
   "jp": "間接：敵１体に、無属性の中狙撃",
   "en": "Ranged: Medium sniper shot to single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体造成无属性中度狙击伤害"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B58/0",
@@ -244563,7 +244563,7 @@
   "offset": "5E40",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B58/1",
@@ -244572,7 +244572,7 @@
   "offset": "5E44",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B59/0",
@@ -244581,7 +244581,7 @@
   "offset": "5E48",
   "jp": "ハイソニック",
   "en": "High Sonic",
-  "zh": ""
+  "zh": "高阶音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B59/1",
@@ -244590,7 +244590,7 @@
   "offset": "5E56",
   "jp": "間接：横列の敵に、無属性の音撃",
   "en": "Ranged: Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成无属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B62/0",
@@ -244599,7 +244599,7 @@
   "offset": "5E76",
   "jp": "アースソニック",
   "en": "Earth Sonic",
-  "zh": ""
+  "zh": "大地音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B62/1",
@@ -244608,7 +244608,7 @@
   "offset": "5E86",
   "jp": "間接：横列の敵に、地属性の音撃",
   "en": "Ranged: [Earth] Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成地属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B63/0",
@@ -244617,7 +244617,7 @@
   "offset": "5EA6",
   "jp": "アクアソニック",
   "en": "Aqua Sonic",
-  "zh": ""
+  "zh": "水流音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B63/1",
@@ -244626,7 +244626,7 @@
   "offset": "5EB6",
   "jp": "間接：横列の敵に、水属性の音撃",
   "en": "Ranged: [Water] Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成水属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B64/0",
@@ -244635,7 +244635,7 @@
   "offset": "5ED6",
   "jp": "フレアソニック",
   "en": "Flare Sonic",
-  "zh": ""
+  "zh": "烈焰音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B64/1",
@@ -244644,7 +244644,7 @@
   "offset": "5EE6",
   "jp": "間接：横列の敵に、火属性の音撃",
   "en": "Ranged: [Fire] Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成火属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B65/0",
@@ -244653,7 +244653,7 @@
   "offset": "5F06",
   "jp": "エアロソニック",
   "en": "Aero Sonic",
-  "zh": ""
+  "zh": "疾风音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B65/1",
@@ -244662,7 +244662,7 @@
   "offset": "5F16",
   "jp": "間接：横列の敵に、風属性の音撃",
   "en": "Ranged: [Wind] Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成风属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B66/0",
@@ -244671,7 +244671,7 @@
   "offset": "5F36",
   "jp": "ライトソニック",
   "en": "Light Sonic",
-  "zh": ""
+  "zh": "辉光音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B66/1",
@@ -244680,7 +244680,7 @@
   "offset": "5F46",
   "jp": "間接：横列の敵に、光属性の音撃",
   "en": "Ranged: [Light] Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成光属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B67/0",
@@ -244689,7 +244689,7 @@
   "offset": "5F66",
   "jp": "ダークソニック",
   "en": "Dark Sonic",
-  "zh": ""
+  "zh": "暗夜音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B67/1",
@@ -244698,7 +244698,7 @@
   "offset": "5F76",
   "jp": "間接：横列の敵に、闇属性の音撃",
   "en": "Ranged: [Dark] Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列的敌人造成暗属性音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B6C/0",
@@ -244707,7 +244707,7 @@
   "offset": "5F96",
   "jp": "アンバリアソニック",
   "en": "No-Barrier Sonic",
-  "zh": ""
+  "zh": "破障音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B6C/1",
@@ -244716,7 +244716,7 @@
   "offset": "5FAA",
   "jp": "間接：横列の敵の“ＨＰバリア”を解除する音撃",
   "en": "Ranged: Sonic blast negates HP barrier of enemy rank",
-  "zh": ""
+  "zh": "间接：解除横列敌人的“ＨＰ护障”的音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B6D/0",
@@ -244725,7 +244725,7 @@
   "offset": "5FD8",
   "jp": "アンプロトソニック",
   "en": "No-Protect Sonic",
-  "zh": ""
+  "zh": "破防音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B6D/1",
@@ -244734,7 +244734,7 @@
   "offset": "5FEC",
   "jp": "間接：横列の敵の“ステータスバリア”を解除する音撃",
   "en": "Ranged: Sonic blast negates status barrier of enemy rank",
-  "zh": ""
+  "zh": "间接：解除横列敌人的“状态护障”的音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B6E/0",
@@ -244743,7 +244743,7 @@
   "offset": "6020",
   "jp": "アンパワーソニック",
   "en": "No-Power Sonic",
-  "zh": ""
+  "zh": "破强音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B6E/1",
@@ -244752,7 +244752,7 @@
   "offset": "6034",
   "jp": "間接：横列の敵の“パラメータアップ”を解除する音撃",
   "en": "Ranged: Sonic blast negates parameter boost of enemy rank",
-  "zh": ""
+  "zh": "间接：解除横列敌人的“能力值提升”的音波攻击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B8A/0",
@@ -244761,7 +244761,7 @@
   "offset": "6068",
   "jp": "キュアボイス",
   "en": "Cure Voice",
-  "zh": ""
+  "zh": "治愈之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B8A/1",
@@ -244770,7 +244770,7 @@
   "offset": "6076",
   "jp": "援護：自分＋範囲内の味方のＨＰを、小回復",
   "en": "Cover: Recovers small amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：小幅恢复自身＋范围内同伴的ＨＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B8B/0",
@@ -244779,7 +244779,7 @@
   "offset": "60A0",
   "jp": "ハイキュアボイス",
   "en": "High Cure Voice",
-  "zh": ""
+  "zh": "高阶治愈之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B8B/1",
@@ -244788,7 +244788,7 @@
   "offset": "60B2",
   "jp": "援護：自分＋範囲内の味方のＨＰを、中回復",
   "en": "Cover: Recovers medium amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：中幅恢复自身＋范围内同伴的ＨＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B8C/0",
@@ -244797,7 +244797,7 @@
   "offset": "60DC",
   "jp": "メガキュアボイス",
   "en": "Mega Cure Voice",
-  "zh": ""
+  "zh": "百万治愈之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B8C/1",
@@ -244806,7 +244806,7 @@
   "offset": "60EE",
   "jp": "援護：自分＋範囲内の味方のＨＰを、大回復",
   "en": "Cover: Recovers large amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：大幅恢复自身＋范围内同伴的ＨＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B94/0",
@@ -244815,7 +244815,7 @@
   "offset": "6118",
   "jp": "キュアソング",
   "en": "Cure Song",
-  "zh": ""
+  "zh": "治愈之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B94/1",
@@ -244824,7 +244824,7 @@
   "offset": "6126",
   "jp": "援護：自分＋周囲の味方のＨＰを、小回復",
   "en": "Cover: Recovers small amount of own and nearby allies' HP",
-  "zh": ""
+  "zh": "援护：自身＋周围队友ＨＰ小回复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B95/0",
@@ -244833,7 +244833,7 @@
   "offset": "614E",
   "jp": "ハイキュアソング",
   "en": "High Cure Song",
-  "zh": ""
+  "zh": "高级治愈之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B95/1",
@@ -244842,7 +244842,7 @@
   "offset": "6160",
   "jp": "援護：自分＋周囲の味方のＨＰを、中回復",
   "en": "Cover: Recovers medium amount of own and nearby allies' HP",
-  "zh": ""
+  "zh": "援护：自身＋周围队友ＨＰ中回复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B96/0",
@@ -244851,7 +244851,7 @@
   "offset": "6188",
   "jp": "メガキュアソング",
   "en": "Mega Cure Song",
-  "zh": ""
+  "zh": "超级治愈之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B96/1",
@@ -244860,7 +244860,7 @@
   "offset": "619A",
   "jp": "援護：自分＋周囲の味方のＨＰを、大回復",
   "en": "Cover: Recovers large amount of own and nearby allies' HP",
-  "zh": ""
+  "zh": "援护：自身＋周围队友ＨＰ大回复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B9E/0",
@@ -244869,7 +244869,7 @@
   "offset": "61C2",
   "jp": "キュアメロディ",
   "en": "Cure Melody",
-  "zh": ""
+  "zh": "治愈旋律"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1B9E/1",
@@ -244878,7 +244878,7 @@
   "offset": "61D2",
   "jp": "援護：味方１体のＨＰを、全回復",
   "en": "Cover: Recovers one ally to full HP",
-  "zh": ""
+  "zh": "援护：１名队友ＨＰ全回复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BBC/0",
@@ -244887,7 +244887,7 @@
   "offset": "61F2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BBC/1",
@@ -244896,7 +244896,7 @@
   "offset": "61F6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BBD/0",
@@ -244905,7 +244905,7 @@
   "offset": "61FA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BBD/1",
@@ -244914,7 +244914,7 @@
   "offset": "61FE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BBE/0",
@@ -244923,7 +244923,7 @@
   "offset": "6202",
   "jp": "Ｓｑｕａｉｒ",
   "en": "Squair",
-  "zh": ""
+  "zh": "Ｓｑｕａｉｒ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BBE/1",
@@ -244932,7 +244932,7 @@
   "offset": "6210",
   "jp": "援護：自分＋範囲内の味方のＥＰを、大回復",
   "en": "Cover: Recovers large amount of own + in-range allies' EP",
-  "zh": ""
+  "zh": "援护：自身＋范围内队友ＥＰ大回复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BEE/0",
@@ -244941,7 +244941,7 @@
   "offset": "623A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BEE/1",
@@ -244950,7 +244950,7 @@
   "offset": "623E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BEF/0",
@@ -244959,7 +244959,7 @@
   "offset": "6242",
   "jp": "ハイリターンソング",
   "en": "High Return Song",
-  "zh": ""
+  "zh": "高级还魂之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BEF/1",
@@ -244968,7 +244968,7 @@
   "offset": "6256",
   "jp": "援護：前後の味方を、中回復して蘇生",
   "en": "Cover: Revives allies front and back with medium recovery",
-  "zh": ""
+  "zh": "援护：前后方队友中回复并复活"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF0/0",
@@ -244977,7 +244977,7 @@
   "offset": "627A",
   "jp": "メガリターンソング",
   "en": "Mega Return Song",
-  "zh": ""
+  "zh": "超级还魂之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF0/1",
@@ -244986,7 +244986,7 @@
   "offset": "628E",
   "jp": "援護：前後の味方を、大回復して蘇生",
   "en": "Cover: Revives allies front and back with high recovery",
-  "zh": ""
+  "zh": "援护：前后方队友大回复并复活"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF1/0",
@@ -244995,7 +244995,7 @@
   "offset": "62B2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF1/1",
@@ -245004,7 +245004,7 @@
   "offset": "62B6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF2/0",
@@ -245013,7 +245013,7 @@
   "offset": "62BA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF2/1",
@@ -245022,7 +245022,7 @@
   "offset": "62BE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF3/0",
@@ -245031,7 +245031,7 @@
   "offset": "62C2",
   "jp": "Ｒｅｂｏｒｎ",
   "en": "Reborn",
-  "zh": ""
+  "zh": "Ｒｅｂｏｒｎ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1BF3/1",
@@ -245040,7 +245040,7 @@
   "offset": "62D0",
   "jp": "援護：範囲内の味方を、大回復して蘇生",
   "en": "Cover: Revive allies in range with high recovery",
-  "zh": ""
+  "zh": "援护：范围内队友大回复并复活"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C20/0",
@@ -245049,7 +245049,7 @@
   "offset": "62F6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C20/1",
@@ -245058,7 +245058,7 @@
   "offset": "62FA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C21/0",
@@ -245067,7 +245067,7 @@
   "offset": "62FE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C21/1",
@@ -245076,7 +245076,7 @@
   "offset": "6302",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C52/0",
@@ -245085,7 +245085,7 @@
   "offset": "6306",
   "jp": "アイスソニック",
   "en": "Ice Sonic",
-  "zh": ""
+  "zh": "寒冰音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C52/1",
@@ -245094,7 +245094,7 @@
   "offset": "6316",
   "jp": "間接：範囲内の敵に、氷の音撃",
   "en": "Ranged: Ice sonic attack to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内敌人施展冰之音击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C5C/0",
@@ -245103,7 +245103,7 @@
   "offset": "6334",
   "jp": "リバースソニック",
   "en": "Reverse Sonic",
-  "zh": ""
+  "zh": "逆转音波"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C5C/1",
@@ -245112,7 +245112,7 @@
   "offset": "6346",
   "jp": "援護：横列の敵を、“属性反転”させる音撃",
   "en": "Cover: Reverse attribute sonic attack on enemy rank",
-  "zh": ""
+  "zh": "援护：使横排敌人“属性反转”的音击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C84/0",
@@ -245121,7 +245121,7 @@
   "offset": "6370",
   "jp": "パワーボイス",
   "en": "Power Voice",
-  "zh": ""
+  "zh": "强力之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C84/1",
@@ -245130,7 +245130,7 @@
   "offset": "637E",
   "jp": "援護：自分＋範囲内の味方の“パラメータ”を２５％アップ",
   "en": "Cover: Boosts own and in-range allied parameters by 25%",
-  "zh": ""
+  "zh": "援护：自身＋范围内同伴的“属性数值”提升２５％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C8E/0",
@@ -245139,7 +245139,7 @@
   "offset": "63B6",
   "jp": "メガリンクボイス",
   "en": "Mega Link Voice",
-  "zh": ""
+  "zh": "百万连击之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C8E/1",
@@ -245148,7 +245148,7 @@
   "offset": "63C8",
   "jp": "援護：自分＋周囲の味方の“連携ゲージ”を最大にする",
   "en": "Cover: Maximizes own and nearby allies' combination gauge",
-  "zh": ""
+  "zh": "援护：自身＋周围同伴的“连携槽”加至最大"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C98/0",
@@ -245157,7 +245157,7 @@
   "offset": "63FC",
   "jp": "プロテクトソング",
   "en": "Protection Link",
-  "zh": ""
+  "zh": "护体之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C98/1",
@@ -245166,7 +245166,7 @@
   "offset": "640E",
   "jp": "援護：自分＋範囲内の味方の“ステータス異常”を防ぐ",
   "en": "Cover: Protects self+in-range allies from status problems",
-  "zh": ""
+  "zh": "援护：防止自身＋范围内同伴陷入“异常状态”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C99/0",
@@ -245175,7 +245175,7 @@
   "offset": "6442",
   "jp": "バリアソング",
   "en": "Barrier Song",
-  "zh": ""
+  "zh": "结界之歌"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1C99/1",
@@ -245184,7 +245184,7 @@
   "offset": "6450",
   "jp": "援護：自分＋範囲内の味方の“ＨＰダメージ”を２５％カット",
   "en": "Cover: Reduces own and in-range allies' HP damage by 25%",
-  "zh": ""
+  "zh": "援护：自身＋范围内同伴受到的“ＨＰ伤害”减轻２５％"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1CA2/0",
@@ -245193,7 +245193,7 @@
   "offset": "648A",
   "jp": "ＨＰドレインボイス",
   "en": "HP Drain Voice",
-  "zh": ""
+  "zh": "ＨＰ吸收之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1CA2/1",
@@ -245202,7 +245202,7 @@
   "offset": "649E",
   "jp": "援護：範囲内の敵から、ＨＰを吸収する歌声",
   "en": "Cover: Song drains HP from enemy in range",
-  "zh": ""
+  "zh": "援护：从范围内敌人身上吸收ＨＰ的歌声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1CB6/0",
@@ -245211,7 +245211,7 @@
   "offset": "64C8",
   "jp": "クリアボイス",
   "en": "Clear Voice",
-  "zh": ""
+  "zh": "澄澈之声"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1CB6/1",
@@ -245220,7 +245220,7 @@
   "offset": "64D6",
   "jp": "援護：自分＋範囲内の味方の“全ステータス異常”を解除",
   "en": "Cover: Negates self and in-range allies' status problems",
-  "zh": ""
+  "zh": "援护：解除自身＋范围内同伴的“全异常状态”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1EDC/0",
@@ -245229,7 +245229,7 @@
   "offset": "650C",
   "jp": "ビートソニック",
   "en": "Beat Sonic",
-  "zh": ""
+  "zh": "音波节拍"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1EDC/1",
@@ -245238,7 +245238,7 @@
   "offset": "651C",
   "jp": "間接：横列の敵に、無属性の音撃",
   "en": "Ranged: Sonic blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列敌人造成无属性音击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1EDD/0",
@@ -245247,7 +245247,7 @@
   "offset": "653C",
   "jp": "キュアバラード",
   "en": "Cure Ballad",
-  "zh": ""
+  "zh": "治愈民谣"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1EDD/1",
@@ -245256,7 +245256,7 @@
   "offset": "654C",
   "jp": "援護：自分＋範囲内の味方のＨＰを、小回復",
   "en": "Cover: Recovers small amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：自身＋范围内同伴的ＨＰ小幅恢复"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1EDE/0",
@@ -245265,7 +245265,7 @@
   "offset": "6576",
   "jp": "スウィングコール",
   "en": "Swing Call",
-  "zh": ""
+  "zh": "摇摆呼唤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1EDE/1",
@@ -245274,7 +245274,7 @@
   "offset": "6588",
   "jp": "援護：Ｙｏ－Ｙｏを呼び出す",
   "en": "Cover: Calls Yo-Yo",
-  "zh": ""
+  "zh": "援护：召唤出Ｙｏ－Ｙｏ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F40/0",
@@ -245283,7 +245283,7 @@
   "offset": "65A4",
   "jp": "シュート",
   "en": "Shoot",
-  "zh": ""
+  "zh": "射击踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F40/1",
@@ -245292,7 +245292,7 @@
   "offset": "65AE",
   "jp": "直接：縦列の敵に、無属性の弱キック",
   "en": "Direct: Weak kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成无属性弱踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F41/0",
@@ -245301,7 +245301,7 @@
   "offset": "65D2",
   "jp": "ハイシュート",
   "en": "High Shoot",
-  "zh": ""
+  "zh": "高阶射击踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F41/1",
@@ -245310,7 +245310,7 @@
   "offset": "65E0",
   "jp": "直接：縦列の敵に、無属性の中キック",
   "en": "Direct: Medium kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成无属性中踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F42/0",
@@ -245319,7 +245319,7 @@
   "offset": "6604",
   "jp": "メガシュート",
   "en": "Mega Shoot",
-  "zh": ""
+  "zh": "百万射击踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F42/1",
@@ -245328,7 +245328,7 @@
   "offset": "6612",
   "jp": "直接：縦列の敵に、無属性の強キック",
   "en": "Direct: Strong kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成无属性强踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F72/0",
@@ -245337,7 +245337,7 @@
   "offset": "6636",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F72/1",
@@ -245346,7 +245346,7 @@
   "offset": "663A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F73/0",
@@ -245355,7 +245355,7 @@
   "offset": "663E",
   "jp": "アクアシュート",
   "en": "Aqua Shoot",
-  "zh": ""
+  "zh": "流水射击踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F73/1",
@@ -245364,7 +245364,7 @@
   "offset": "664E",
   "jp": "直接：縦列の敵に、水属性の弱キック",
   "en": "Direct: [Water] Weak kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成水属性弱踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F74/0",
@@ -245373,7 +245373,7 @@
   "offset": "6672",
   "jp": "フレアシュート",
   "en": "Flare Shoot",
-  "zh": ""
+  "zh": "烈焰射击踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F74/1",
@@ -245382,7 +245382,7 @@
   "offset": "6682",
   "jp": "直接：縦列の敵に、火属性の弱キック",
   "en": "Direct: [Fire] Weak kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成火属性弱踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F75/0",
@@ -245391,7 +245391,7 @@
   "offset": "66A6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F75/1",
@@ -245400,7 +245400,7 @@
   "offset": "66AA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F76/0",
@@ -245409,7 +245409,7 @@
   "offset": "66AE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F76/1",
@@ -245418,7 +245418,7 @@
   "offset": "66B2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F77/0",
@@ -245427,7 +245427,7 @@
   "offset": "66B6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F77/1",
@@ -245436,7 +245436,7 @@
   "offset": "66BA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7C/0",
@@ -245445,7 +245445,7 @@
   "offset": "66BE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7C/1",
@@ -245454,7 +245454,7 @@
   "offset": "66C2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7D/0",
@@ -245463,7 +245463,7 @@
   "offset": "66C6",
   "jp": "ハイアクアシュート",
   "en": "High Aqua Shoot",
-  "zh": ""
+  "zh": "高级水流射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7D/1",
@@ -245472,7 +245472,7 @@
   "offset": "66DA",
   "jp": "直接：縦列の敵に、水属性の中キック",
   "en": "Direct: [Water] Medium kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成水属性中度踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7E/0",
@@ -245481,7 +245481,7 @@
   "offset": "66FE",
   "jp": "火蹴り（中）",
   "en": "",
-  "zh": ""
+  "zh": "火炎踢（中）"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7E/1",
@@ -245490,7 +245490,7 @@
   "offset": "670C",
   "jp": "直接：中レベル蹴り。火属性。",
   "en": "",
-  "zh": ""
+  "zh": "直接：中级踢击。火属性。"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7F/0",
@@ -245499,7 +245499,7 @@
   "offset": "672A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F7F/1",
@@ -245508,7 +245508,7 @@
   "offset": "672E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F80/0",
@@ -245517,7 +245517,7 @@
   "offset": "6732",
   "jp": "ハイライトシュート",
   "en": "High Light Shoot",
-  "zh": ""
+  "zh": "高级光芒射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F80/1",
@@ -245526,7 +245526,7 @@
   "offset": "6746",
   "jp": "直接：縦列の敵に、光属性の中キック",
   "en": "Direct: [Light] Medium kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成光属性中度踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F81/0",
@@ -245535,7 +245535,7 @@
   "offset": "676A",
   "jp": "ハイダークシュート",
   "en": "High Dark Shoot",
-  "zh": ""
+  "zh": "高级暗黑射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F81/1",
@@ -245544,7 +245544,7 @@
   "offset": "677E",
   "jp": "直接：縦列の敵に、闇属性の中キック",
   "en": "Direct: [Dark] Medium kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成暗属性中度踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F86/0",
@@ -245553,7 +245553,7 @@
   "offset": "67A2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F86/1",
@@ -245562,7 +245562,7 @@
   "offset": "67A6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F87/0",
@@ -245571,7 +245571,7 @@
   "offset": "67AA",
   "jp": "メガアクアシュート",
   "en": "Mega Aqua Shoot",
-  "zh": ""
+  "zh": "超级水流射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F87/1",
@@ -245580,7 +245580,7 @@
   "offset": "67BE",
   "jp": "直接：縦列の敵に、水属性の強キック",
   "en": "Direct: [Water] Strong kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成水属性强力踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F88/0",
@@ -245589,7 +245589,7 @@
   "offset": "67E2",
   "jp": "メガフレアシュート",
   "en": "Mega Flare Shoot",
-  "zh": ""
+  "zh": "超级烈焰射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F88/1",
@@ -245598,7 +245598,7 @@
   "offset": "67F6",
   "jp": "直接：縦列の敵に、火属性の強キック",
   "en": "Direct: [Fire] Strong kick to enemy column",
-  "zh": ""
+  "zh": "直接：对纵列敌人造成火属性强力踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F89/0",
@@ -245607,7 +245607,7 @@
   "offset": "681A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F89/1",
@@ -245616,7 +245616,7 @@
   "offset": "681E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F8A/0",
@@ -245625,7 +245625,7 @@
   "offset": "6822",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F8A/1",
@@ -245634,7 +245634,7 @@
   "offset": "6826",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F8B/0",
@@ -245643,7 +245643,7 @@
   "offset": "682A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1F8B/1",
@@ -245652,7 +245652,7 @@
   "offset": "682E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FA4/0",
@@ -245661,7 +245661,7 @@
   "offset": "6832",
   "jp": "マッハシュート",
   "en": "Mach Shoot",
-  "zh": ""
+  "zh": "音速射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FA4/1",
@@ -245670,7 +245670,7 @@
   "offset": "6842",
   "jp": "直接：範囲内の敵に、無属性の弱キック連打",
   "en": "Direct: Weak flurry of kicks to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人造成无属性轻度连环踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FA5/0",
@@ -245679,7 +245679,7 @@
   "offset": "686C",
   "jp": "ハイマッハシュート",
   "en": "High Mach Shoot",
-  "zh": ""
+  "zh": "高级音速射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FA5/1",
@@ -245688,7 +245688,7 @@
   "offset": "6880",
   "jp": "直接：範囲内の敵に、無属性の中キック連打",
   "en": "Direct: Medium flurry of kicks to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人造成无属性中度连环踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FA6/0",
@@ -245697,7 +245697,7 @@
   "offset": "68AA",
   "jp": "メガマッハシュート",
   "en": "Mega Mach Shoot",
-  "zh": ""
+  "zh": "超级音速射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FA6/1",
@@ -245706,7 +245706,7 @@
   "offset": "68BE",
   "jp": "直接：範囲内の敵に、無属性の強キック連打",
   "en": "Direct: Strong flurry of kicks to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人造成无属性强力连环踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FD6/0",
@@ -245715,7 +245715,7 @@
   "offset": "68E8",
   "jp": "リターンダンス",
   "en": "Return Dance",
-  "zh": ""
+  "zh": "回归之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FD6/1",
@@ -245724,7 +245724,7 @@
   "offset": "68F8",
   "jp": "援護：範囲内の味方を、小回復して蘇生",
   "en": "Cover: Revives allies in range with low recovery",
-  "zh": ""
+  "zh": "援护：复活范围内同伴并小幅恢复HP"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FD7/0",
@@ -245733,7 +245733,7 @@
   "offset": "691E",
   "jp": "ハイリターンダンス",
   "en": "Hi-Return Dance",
-  "zh": ""
+  "zh": "高级回归之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FD7/1",
@@ -245742,7 +245742,7 @@
   "offset": "6932",
   "jp": "援護：範囲内の味方を、中回復して蘇生",
   "en": "Cover: Revives allies in range with medium recovery",
-  "zh": ""
+  "zh": "援护：复活范围内同伴并中幅恢复HP"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FD8/0",
@@ -245751,7 +245751,7 @@
   "offset": "6958",
   "jp": "レクイエム",
   "en": "Requiem",
-  "zh": ""
+  "zh": "安魂曲"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/1FD8/1",
@@ -245760,7 +245760,7 @@
   "offset": "6964",
   "jp": "援護：範囲内の味方を、大回復して蘇生",
   "en": "Cover: Revives allies in range with high recovery",
-  "zh": ""
+  "zh": "援护：大幅恢复范围内同伴并使其复活"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2008/0",
@@ -245769,7 +245769,7 @@
   "offset": "698A",
   "jp": "キュアダンス",
   "en": "Cure Dance",
-  "zh": ""
+  "zh": "治愈之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2008/1",
@@ -245778,7 +245778,7 @@
   "offset": "6998",
   "jp": "援護：自分＋範囲内の味方のＨＰを、小回復",
   "en": "Cover: Recovers small amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：小幅恢复自身＋范围内同伴的ＨＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2009/0",
@@ -245787,7 +245787,7 @@
   "offset": "69C2",
   "jp": "ハイキュアダンス",
   "en": "High Cure Dance",
-  "zh": ""
+  "zh": "强效治愈之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2009/1",
@@ -245796,7 +245796,7 @@
   "offset": "69D4",
   "jp": "援護：自分＋範囲内の味方のＨＰを、中回復",
   "en": "Cover: Recovers medium amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：中幅恢复自身＋范围内同伴的ＨＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/200A/0",
@@ -245805,7 +245805,7 @@
   "offset": "69FE",
   "jp": "メガキュアダンス",
   "en": "Mega Cure Dance",
-  "zh": ""
+  "zh": "超强治愈之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/200A/1",
@@ -245814,7 +245814,7 @@
   "offset": "6A10",
   "jp": "援護：自分＋範囲内の味方のＨＰを、大回復",
   "en": "Cover: Recovers large amount of own + in-range allies' HP",
-  "zh": ""
+  "zh": "援护：大幅恢复自身＋范围内同伴的ＨＰ"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/203A/0",
@@ -245823,7 +245823,7 @@
   "offset": "6A3A",
   "jp": "ＨＰドレインダンス",
   "en": "HP Drain Dance",
-  "zh": ""
+  "zh": "ＨＰ吸收之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/203A/1",
@@ -245832,7 +245832,7 @@
   "offset": "6A4E",
   "jp": "援護：範囲内の敵から、ＨＰを吸収する踊り",
   "en": "Cover: Dance drains HP from enemy in range",
-  "zh": ""
+  "zh": "援护：吸收范围内敌人ＨＰ的舞蹈"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/203B/0",
@@ -245841,7 +245841,7 @@
   "offset": "6A78",
   "jp": "ＥＰドレインダンス",
   "en": "EP Drain Dance",
-  "zh": ""
+  "zh": "ＥＰ吸收之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/203B/1",
@@ -245850,7 +245850,7 @@
   "offset": "6A8C",
   "jp": "援護：範囲内の敵から、ＥＰを吸収する踊り",
   "en": "Cover: Dance drains EP from enemy in range",
-  "zh": ""
+  "zh": "援护：吸收范围内敌人ＥＰ的舞蹈"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2044/0",
@@ -245859,7 +245859,7 @@
   "offset": "6AB6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2044/1",
@@ -245868,7 +245868,7 @@
   "offset": "6ABA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2045/0",
@@ -245877,7 +245877,7 @@
   "offset": "6ABE",
   "jp": "リバースダンス",
   "en": "Reverse Dance",
-  "zh": ""
+  "zh": "反转之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2045/1",
@@ -245886,7 +245886,7 @@
   "offset": "6ACE",
   "jp": "援護：縦列の敵を、“属性反転”させる踊り",
   "en": "Cover: Reverse attribute dance on enemy column",
-  "zh": ""
+  "zh": "援护：使纵列敌人陷入“属性反转”状态的舞蹈"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2046/0",
@@ -245895,7 +245895,7 @@
   "offset": "6AF8",
   "jp": "ハイドダンス",
   "en": "Hide Dance",
-  "zh": ""
+  "zh": "隐匿之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2046/1",
@@ -245904,7 +245904,7 @@
   "offset": "6B06",
   "jp": "援護：自分を敵から狙われにくくする",
   "en": "Cover: Makes self harder to be targeted",
-  "zh": ""
+  "zh": "援护：使自身难以被敌人选为目标"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2047/0",
@@ -245913,7 +245913,7 @@
   "offset": "6B2A",
   "jp": "パワーダンス",
   "en": "Power Dance",
-  "zh": ""
+  "zh": "力量之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2047/1",
@@ -245922,7 +245922,7 @@
   "offset": "6B38",
   "jp": "援護：自分＋範囲内の味方の“パラメータ”を２５％アップ",
   "en": "Cover: Boosts own and in-range allies' parameters by 25%",
-  "zh": ""
+  "zh": "援护：提升自身＋范围内同伴２５％的“能力参数”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2048/0",
@@ -245931,7 +245931,7 @@
   "offset": "6B70",
   "jp": "アンガーシュート",
   "en": "Anger Shoot",
-  "zh": ""
+  "zh": "愤怒踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2048/1",
@@ -245940,7 +245940,7 @@
   "offset": "6B82",
   "jp": "直接：縦列の敵を、“怒り”にするキック",
   "en": "Direct: Kick enrages enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“愤怒”状态的踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2049/0",
@@ -245949,7 +245949,7 @@
   "offset": "6BAA",
   "jp": "シールダンス",
   "en": "Sealing Dance",
-  "zh": ""
+  "zh": "封印之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2049/1",
@@ -245958,7 +245958,7 @@
   "offset": "6BB8",
   "jp": "援護：範囲内の敵を、“封印”する踊り",
   "en": "Cover: Dance seals enemy in range",
-  "zh": ""
+  "zh": "援护：使范围内敌人陷入“封印”状态的舞蹈"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/204A/0",
@@ -245967,7 +245967,7 @@
   "offset": "6BDE",
   "jp": "おたわむれ",
   "en": "Horseplay",
-  "zh": ""
+  "zh": "嬉戏调戏"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/204A/1",
@@ -245976,7 +245976,7 @@
   "offset": "6BEA",
   "jp": "援護：親衛隊にいたずらして、自分の“パラメータ”をアップ",
   "en": "Cover: Boosts own parameters by fooling bodyguards",
-  "zh": ""
+  "zh": "援护：戏弄亲卫队以提升自身的“能力参数”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/204B/0",
@@ -245985,7 +245985,7 @@
   "offset": "6C24",
   "jp": "グラビティダンス",
   "en": "Gravity Dance",
-  "zh": ""
+  "zh": "重力之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/204B/1",
@@ -245994,7 +245994,7 @@
   "offset": "6C36",
   "jp": "援護：敵１体を、“ノックバック”＋“重力”にする踊り",
   "en": "Cover: Dance with knockback and gravity to single enemy",
-  "zh": ""
+  "zh": "援护：对敌方单体造成“击退”＋使其陷入“重力”状态的舞蹈"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/204C/0",
@@ -246003,7 +246003,7 @@
   "offset": "6C6C",
   "jp": "メガリンクダンス",
   "en": "Mega Link Dance",
-  "zh": ""
+  "zh": "超强联手之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/204C/1",
@@ -246012,7 +246012,7 @@
   "offset": "6C7E",
   "jp": "援護：自分＋周囲の味方の“連携ゲージ”を最大にする",
   "en": "Cover: Maximizes own and nearby allies' combination gauge",
-  "zh": ""
+  "zh": "援护：使自身＋周围同伴的“连携槽”升至最大值"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/206C/0",
@@ -246021,7 +246021,7 @@
   "offset": "6CB2",
   "jp": "クリアダンス",
   "en": "Clear Dance",
-  "zh": ""
+  "zh": "净化之舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/206C/1",
@@ -246030,7 +246030,7 @@
   "offset": "6CC0",
   "jp": "援護：自分＋範囲内の味方の“全ステータス異常”を解除",
   "en": "Cover: Negates self and in-range allies' status problems",
-  "zh": ""
+  "zh": "援护：解除自身＋范围内同伴的“全部异常状态”"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/209E/0",
@@ -246039,7 +246039,7 @@
   "offset": "6CF6",
   "jp": "アクアミスト",
   "en": "Aqua Mist",
-  "zh": ""
+  "zh": "水雾轻舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/209E/1",
@@ -246048,7 +246048,7 @@
   "offset": "6D04",
   "jp": "間接：横列の敵に、水のエーテルを放つ弱乱舞",
   "en": "Ranged: Weak revel with Water Ether blast to enemy rank",
-  "zh": ""
+  "zh": "间接：向横列敌人释放水之以太的轻乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/209F/0",
@@ -246057,7 +246057,7 @@
   "offset": "6D30",
   "jp": "ライトミスト",
   "en": "Light Mist",
-  "zh": ""
+  "zh": "光雾乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/209F/1",
@@ -246066,7 +246066,7 @@
   "offset": "6D3E",
   "jp": "間接：横列の敵に、光のエーテルを放つ乱舞",
   "en": "Ranged: Revel with Light Ether blast to enemy rank",
-  "zh": ""
+  "zh": "间接：向横列敌人释放光之以太的乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A0/0",
@@ -246075,7 +246075,7 @@
   "offset": "6D68",
   "jp": "メガアクアミスト",
   "en": "Mega Aqua Mist",
-  "zh": ""
+  "zh": "巨量水雾"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A0/1",
@@ -246084,7 +246084,7 @@
   "offset": "6D7A",
   "jp": "間接：横列の敵に、水のエーテルを放つ強乱舞",
   "en": "Ranged: Strong revel with Water Ether blast to enemy rank",
-  "zh": ""
+  "zh": "间接：向横列敌人释放水之以太的强力乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A3/0",
@@ -246093,7 +246093,7 @@
   "offset": "6DA6",
   "jp": "ダークミスト",
   "en": "Dark Mist",
-  "zh": ""
+  "zh": "暗黑迷雾"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A3/1",
@@ -246102,7 +246102,7 @@
   "offset": "6DB4",
   "jp": "間接：横列の敵に、闇のエーテルを放つ弱乱舞",
   "en": "Ranged: Revel with Dark Ether blast to enemy rank",
-  "zh": ""
+  "zh": "间接：向横列敌人释放暗之以太的弱力乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A4/0",
@@ -246111,7 +246111,7 @@
   "offset": "6DE0",
   "jp": "ハイダークミスト",
   "en": "High Dark Mist",
-  "zh": ""
+  "zh": "高阶暗黑迷雾"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A4/1",
@@ -246120,7 +246120,7 @@
   "offset": "6DF2",
   "jp": "間接：横列の敵に、闇のエーテルを放つ中乱舞",
   "en": "Ranged: Strong revel with Dark Ether blast to enemy rank",
-  "zh": ""
+  "zh": "间接：向横列敌人释放暗之以太的中度乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A8/0",
@@ -246129,7 +246129,7 @@
   "offset": "6E1E",
   "jp": "ポイズンミスト",
   "en": "Poison Mist",
-  "zh": ""
+  "zh": "剧毒迷雾"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20A8/1",
@@ -246138,7 +246138,7 @@
   "offset": "6E2E",
   "jp": "間接：横列の敵を、“毒”にする水の乱舞",
   "en": "Ranged: Poison water revel to enemy rank",
-  "zh": ""
+  "zh": "间接：使横列敌人陷入“中毒”状态的水之乱舞"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20B2/0",
@@ -246147,7 +246147,7 @@
   "offset": "6E56",
   "jp": "ポイズンシュート",
   "en": "Poison Shoot",
-  "zh": ""
+  "zh": "剧毒踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/20B2/1",
@@ -246156,7 +246156,7 @@
   "offset": "6E68",
   "jp": "直接：縦列の敵を、“毒”にするキック",
   "en": "Direct: Poison kick to enemy column",
-  "zh": ""
+  "zh": "直接：使纵列敌人陷入“中毒”状态的踢击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/22F6/0",
@@ -246165,7 +246165,7 @@
   "offset": "6E8E",
   "jp": "ワイドシュート",
   "en": "Wide Shoot",
-  "zh": ""
+  "zh": "广域连踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/22F6/1",
@@ -246174,7 +246174,7 @@
   "offset": "6E9E",
   "jp": "直接：範囲内の敵に、無属性の弱キック連打",
   "en": "Direct: Weak flurry of kicks to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行无属性弱力踢击连打"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/22F7/0",
@@ -246183,7 +246183,7 @@
   "offset": "6EC8",
   "jp": "ハイワイドシュート",
   "en": "High Wide Shoot",
-  "zh": ""
+  "zh": "高阶广域连踢"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/22F7/1",
@@ -246192,7 +246192,7 @@
   "offset": "6EDC",
   "jp": "直接：範囲内の敵に、無属性の中キック連打",
   "en": "Direct: Medium flurry of kicks to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内的敌人进行无属性中度踢击连打"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2328/0",
@@ -246201,7 +246201,7 @@
   "offset": "6F06",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2328/1",
@@ -246210,7 +246210,7 @@
   "offset": "6F0A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2329/0",
@@ -246219,7 +246219,7 @@
   "offset": "6F0E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2329/1",
@@ -246228,7 +246228,7 @@
   "offset": "6F12",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232A/0",
@@ -246237,7 +246237,7 @@
   "offset": "6F16",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232A/1",
@@ -246246,7 +246246,7 @@
   "offset": "6F1A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232B/0",
@@ -246255,7 +246255,7 @@
   "offset": "6F1E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232B/1",
@@ -246264,7 +246264,7 @@
   "offset": "6F22",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232C/0",
@@ -246273,7 +246273,7 @@
   "offset": "6F26",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232C/1",
@@ -246282,7 +246282,7 @@
   "offset": "6F2A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232D/0",
@@ -246291,7 +246291,7 @@
   "offset": "6F2E",
   "jp": "ダークブレス",
   "en": "Dark Breath",
-  "zh": ""
+  "zh": "暗黑吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/232D/1",
@@ -246300,7 +246300,7 @@
   "offset": "6F3C",
   "jp": "間接：範囲内の敵に、闇属性のブレス",
   "en": "Ranged: [Dark] Blast of breath to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射暗属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2332/0",
@@ -246309,7 +246309,7 @@
   "offset": "6F60",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2332/1",
@@ -246318,7 +246318,7 @@
   "offset": "6F64",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2333/0",
@@ -246327,7 +246327,7 @@
   "offset": "6F68",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2333/1",
@@ -246336,7 +246336,7 @@
   "offset": "6F6C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2334/0",
@@ -246345,7 +246345,7 @@
   "offset": "6F70",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2334/1",
@@ -246354,7 +246354,7 @@
   "offset": "6F74",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2335/0",
@@ -246363,7 +246363,7 @@
   "offset": "6F78",
   "jp": "エアロブレス",
   "en": "Aero Breath",
-  "zh": ""
+  "zh": "疾风吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2335/1",
@@ -246372,7 +246372,7 @@
   "offset": "6F86",
   "jp": "間接：範囲内の敵に、風属性のブレス",
   "en": "Ranged: [Wind] Blast of breath to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射风属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2336/0",
@@ -246381,7 +246381,7 @@
   "offset": "6FAA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2336/1",
@@ -246390,7 +246390,7 @@
   "offset": "6FAE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2337/0",
@@ -246399,7 +246399,7 @@
   "offset": "6FB2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2337/1",
@@ -246408,7 +246408,7 @@
   "offset": "6FB6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233C/0",
@@ -246417,7 +246417,7 @@
   "offset": "6FBA",
   "jp": "アースボール",
   "en": "Earth Ball",
-  "zh": ""
+  "zh": "大地之球"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233C/1",
@@ -246426,7 +246426,7 @@
   "offset": "6FC8",
   "jp": "間接：横列の敵に、地のエーテル射撃",
   "en": "Ranged: Earth Ether blast to enemy rank",
-  "zh": ""
+  "zh": "间接：对横列敌人进行地属性以太射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233D/0",
@@ -246435,7 +246435,7 @@
   "offset": "6FEC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233D/1",
@@ -246444,7 +246444,7 @@
   "offset": "6FF0",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233E/0",
@@ -246453,7 +246453,7 @@
   "offset": "6FF4",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233E/1",
@@ -246462,7 +246462,7 @@
   "offset": "6FF8",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233F/0",
@@ -246471,7 +246471,7 @@
   "offset": "6FFC",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/233F/1",
@@ -246480,7 +246480,7 @@
   "offset": "7000",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2340/0",
@@ -246489,7 +246489,7 @@
   "offset": "7004",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2340/1",
@@ -246498,7 +246498,7 @@
   "offset": "7008",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2341/0",
@@ -246507,7 +246507,7 @@
   "offset": "700C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2341/1",
@@ -246516,7 +246516,7 @@
   "offset": "7010",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2346/0",
@@ -246525,7 +246525,7 @@
   "offset": "7014",
   "jp": "メガアースブレス",
   "en": "Mega Earth Gasp",
-  "zh": ""
+  "zh": "百万大地吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2346/1",
@@ -246534,7 +246534,7 @@
   "offset": "7026",
   "jp": "間接：範囲内の敵に、地属性の広ブレス",
   "en": "Ranged: [Earth] Wide breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射地属性广域吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2347/0",
@@ -246543,7 +246543,7 @@
   "offset": "704C",
   "jp": "メガアクアブレス",
   "en": "Mega Aqua Breath",
-  "zh": ""
+  "zh": "百万水流吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2347/1",
@@ -246552,7 +246552,7 @@
   "offset": "705E",
   "jp": "間接：範囲内の敵に、水属性の広ブレス",
   "en": "Ranged: [Water] Wide breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射水属性广域吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2348/0",
@@ -246561,7 +246561,7 @@
   "offset": "7084",
   "jp": "メガフレアブレス",
   "en": "Mega Flare Breath",
-  "zh": ""
+  "zh": "百万烈焰吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2348/1",
@@ -246570,7 +246570,7 @@
   "offset": "7096",
   "jp": "間接：範囲内の敵に、火属性の広ブレス",
   "en": "Ranged: [Fire] Wide breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射火属性广域吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2349/0",
@@ -246579,7 +246579,7 @@
   "offset": "70BC",
   "jp": "メガエアロブレス",
   "en": "Mega Aero Breath",
-  "zh": ""
+  "zh": "百万风刃吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2349/1",
@@ -246588,7 +246588,7 @@
   "offset": "70CE",
   "jp": "間接：範囲内の敵に、風属性の広ブレス",
   "en": "Ranged: [Wind] Wide breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射风属性广域吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/234A/0",
@@ -246597,7 +246597,7 @@
   "offset": "70F4",
   "jp": "メガライトブレス",
   "en": "Mega Light Breath",
-  "zh": ""
+  "zh": "百万光芒吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/234A/1",
@@ -246606,7 +246606,7 @@
   "offset": "7106",
   "jp": "間接：範囲内の敵に、光属性の広ブレス",
   "en": "Ranged: [Light] Wide breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人喷射光属性广域吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/235A/0",
@@ -246615,7 +246615,7 @@
   "offset": "712C",
   "jp": "ドレインバーク",
   "en": "Drain Bark",
-  "zh": ""
+  "zh": "吸取咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/235A/1",
@@ -246624,7 +246624,7 @@
   "offset": "713C",
   "jp": "援護：範囲内の敵から、ＨＰを吸収する雄叫び",
   "en": "Cover: Bark drains HP from enemy in range",
-  "zh": ""
+  "zh": "掩护：发出吸收范围内敌人HP的咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/235B/0",
@@ -246633,7 +246633,7 @@
   "offset": "7168",
   "jp": "アンバリアバーク",
   "en": "No-Barrier Bark",
-  "zh": ""
+  "zh": "破壁咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/235B/1",
@@ -246642,7 +246642,7 @@
   "offset": "717A",
   "jp": "援護：範囲内の敵の“ＨＰバリア”を解除する雄叫び",
   "en": "Cover: Bark negates HP barrier of enemy in range",
-  "zh": ""
+  "zh": "掩护：发出解除范围内敌人“HP护盾”的咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2364/0",
@@ -246651,7 +246651,7 @@
   "offset": "71AC",
   "jp": "グラビティブレス",
   "en": "Gravity Breath",
-  "zh": ""
+  "zh": "重力吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2364/1",
@@ -246660,7 +246660,7 @@
   "offset": "71BE",
   "jp": "間接：範囲内の敵を、“重力”にするブレス",
   "en": "Ranged: Gravity breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内的敌人陷入“重力”状态的吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/23B4/0",
@@ -246669,7 +246669,7 @@
   "offset": "71E8",
   "jp": "スノウギフト",
   "en": "Snow Gift",
-  "zh": ""
+  "zh": "冰雪赠礼"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/23B4/1",
@@ -246678,7 +246678,7 @@
   "offset": "71F6",
   "jp": "間接：すべての敵に、雪（水属性）のブレス",
   "en": "Ranged: [Water] Snow breath blast to all enemy",
-  "zh": ""
+  "zh": "间接：对所有敌人喷射雪（水属性）之吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/23BE/0",
@@ -246687,7 +246687,7 @@
   "offset": "7220",
   "jp": "スノウグラビティ",
   "en": "Snow Gravity",
-  "zh": ""
+  "zh": "冰雪重力"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/23BE/1",
@@ -246696,7 +246696,7 @@
   "offset": "7232",
   "jp": "間接：範囲内の敵を、“重力”にする雪（水属性）のブレス",
   "en": "Ranged: [Water] Gravity snow breath to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内的敌人陷入“重力”状态的雪（水属性）之吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/23C8/0",
@@ -246705,7 +246705,7 @@
   "offset": "726A",
   "jp": "リバースバーク",
   "en": "Reverse Bark",
-  "zh": ""
+  "zh": "反转咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/23C8/1",
@@ -246714,7 +246714,7 @@
   "offset": "727A",
   "jp": "援護：横列の敵を、“属性反転”させる雄叫び",
   "en": "Cover: Reverse attribute bark attack to enemy rank",
-  "zh": ""
+  "zh": "援护：使横列敌人“属性反转”的咆哮"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AC/0",
@@ -246723,7 +246723,7 @@
   "offset": "72A6",
   "jp": "エアログラビティ",
   "en": "Aero Gravity",
-  "zh": ""
+  "zh": "风重力"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AC/1",
@@ -246732,7 +246732,7 @@
   "offset": "72B8",
   "jp": "間接：敵１体を、“重力”にする風属性のブレス",
   "en": "Ranged: [Wind] Gravity breath blast to single enemy",
-  "zh": ""
+  "zh": "间接：使敌方单体陷入“重力”状态的风属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AD/0",
@@ -246741,7 +246741,7 @@
   "offset": "72E6",
   "jp": "エアロドレイン",
   "en": "Aero Drain",
-  "zh": ""
+  "zh": "风力吸取"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AD/1",
@@ -246750,7 +246750,7 @@
   "offset": "72F6",
   "jp": "間接：敵１体から、ＥＰを吸収する風属性のブレス",
   "en": "Ranged: [Wind] Breath blast drains EP from single enemy",
-  "zh": ""
+  "zh": "间接：从敌方单体吸收EP的风属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AE/0",
@@ -246759,7 +246759,7 @@
   "offset": "7326",
   "jp": "アースギガブレス",
   "en": "Giga Breath ",
-  "zh": ""
+  "zh": "大地千兆吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AE/1",
@@ -246768,7 +246768,7 @@
   "offset": "7338",
   "jp": "間接：範囲内の敵に、地属性のブレス",
   "en": "Ranged: [Earth] Breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内敌人施放地属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AF/0",
@@ -246777,7 +246777,7 @@
   "offset": "735C",
   "jp": "ボイズンボール",
   "en": "Poison Ball",
-  "zh": ""
+  "zh": "剧毒球"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26AF/1",
@@ -246786,7 +246786,7 @@
   "offset": "736C",
   "jp": "間接：範囲内の敵を、“毒”にする地のエーテル射撃",
   "en": "Ranged: Earth Ether poison blast to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内敌人陷入“中毒”状态的地以太射击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B0/0",
@@ -246795,7 +246795,7 @@
   "offset": "739E",
   "jp": "フレアギガブレス",
   "en": "Flare Giga Gasp",
-  "zh": ""
+  "zh": "烈焰千兆吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B0/1",
@@ -246804,7 +246804,7 @@
   "offset": "73B0",
   "jp": "間接：範囲内の敵に、火属性のブレス",
   "en": "Ranged: [Fire] Breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内敌人施放火属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B1/0",
@@ -246813,7 +246813,7 @@
   "offset": "73D4",
   "jp": "ギガハンマー",
   "en": "Giga Hammer",
-  "zh": ""
+  "zh": "千兆之锤"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B1/1",
@@ -246822,7 +246822,7 @@
   "offset": "73E2",
   "jp": "直接：範囲内の敵に、無属性の打撃",
   "en": "Direct: Shock to enemy in range",
-  "zh": ""
+  "zh": "直接：对范围内敌人施放无属性打击"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B2/0",
@@ -246831,7 +246831,7 @@
   "offset": "7404",
   "jp": "エアロギガブレス",
   "en": "Aero Giga Breath",
-  "zh": ""
+  "zh": "狂风千兆吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B2/1",
@@ -246840,7 +246840,7 @@
   "offset": "7416",
   "jp": "間接：範囲内の敵に、風属性のブレス",
   "en": "Ranged: [Wind] Breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内敌人施放风属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B3/0",
@@ -246849,7 +246849,7 @@
   "offset": "743A",
   "jp": "グラビティブレスΩ",
   "en": "Gravity Gasp",
-  "zh": ""
+  "zh": "重力吐息Ω"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B3/1",
@@ -246858,7 +246858,7 @@
   "offset": "744E",
   "jp": "間接：範囲内の敵を、“重力”にする広ブレス",
   "en": "Ranged: Wide gravity breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内敌人陷入“重力”状态的广域吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B4/0",
@@ -246867,7 +246867,7 @@
   "offset": "747A",
   "jp": "アースギガブレス",
   "en": "Earth Giga Gasp ",
-  "zh": ""
+  "zh": "大地千兆吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B4/1",
@@ -246876,7 +246876,7 @@
   "offset": "748C",
   "jp": "間接：範囲内の敵を、“ノックバック”させる地属性のブレス",
   "en": "Ranged: [Earth] Breath with knockback to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内敌人“击退”的地属性吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B5/0",
@@ -246885,7 +246885,7 @@
   "offset": "74C6",
   "jp": "ポイズンギガブレス",
   "en": "Poison Giga Gasp",
-  "zh": ""
+  "zh": "剧毒千兆吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/26B5/1",
@@ -246894,7 +246894,7 @@
   "offset": "74DA",
   "jp": "間接：範囲内の敵を、“毒”にするブレス",
   "en": "Ranged: Poison breath blast to enemy in range",
-  "zh": ""
+  "zh": "间接：使范围内敌人陷入“中毒”状态的吐息"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2710/0",
@@ -246903,7 +246903,7 @@
   "offset": "7502",
   "jp": "アースエナジー",
   "en": "Earth Energy",
-  "zh": ""
+  "zh": "地能量"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2710/1",
@@ -246912,7 +246912,7 @@
   "offset": "7512",
   "jp": "間接：敵１体に、地のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Earth Ether attack to single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体释放地以太的弱赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2711/0",
@@ -246921,7 +246921,7 @@
   "offset": "7544",
   "jp": "アクアエナジー",
   "en": "Aqua Energy",
-  "zh": ""
+  "zh": "水能量"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2711/1",
@@ -246930,7 +246930,7 @@
   "offset": "7554",
   "jp": "間接：敵１体に、水のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Water Ether attack to single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体释放水以太的弱赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2712/0",
@@ -246939,7 +246939,7 @@
   "offset": "7586",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2712/1",
@@ -246948,7 +246948,7 @@
   "offset": "758A",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2713/0",
@@ -246957,7 +246957,7 @@
   "offset": "758E",
   "jp": "エアロエナジー",
   "en": "Aero Energy",
-  "zh": ""
+  "zh": "风能量"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2713/1",
@@ -246966,7 +246966,7 @@
   "offset": "759E",
   "jp": "間接：敵１体に、風のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Wind Ether attack to single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体释放风以太的弱赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2714/0",
@@ -246975,7 +246975,7 @@
   "offset": "75D0",
   "jp": "ライトエナジー",
   "en": "Light Energy",
-  "zh": ""
+  "zh": "光能量"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2714/1",
@@ -246984,7 +246984,7 @@
   "offset": "75E0",
   "jp": "間接：敵１体に、光のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Light Ether attack to single enemy",
-  "zh": ""
+  "zh": "间接：对敌方单体释放光以太的弱赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2715/0",
@@ -246993,7 +246993,7 @@
   "offset": "7612",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2715/1",
@@ -247002,7 +247002,7 @@
   "offset": "7616",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271A/0",
@@ -247011,7 +247011,7 @@
   "offset": "761A",
   "jp": "ハイアースエナジー",
   "en": "High Earth Energy",
-  "zh": ""
+  "zh": "强地能量"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271A/1",
@@ -247020,7 +247020,7 @@
   "offset": "762E",
   "jp": "間接：敵１体に、地のエーテルを放つ中エンチャント",
   "en": "Ranged: Medium Enchant Earth Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、地のエーテルを放つ中エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271B/0",
@@ -247029,7 +247029,7 @@
   "offset": "7660",
   "jp": "ハイアクアエナジー",
   "en": "High Aqua Energy",
-  "zh": ""
+  "zh": "ハイアクアエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271B/1",
@@ -247038,7 +247038,7 @@
   "offset": "7674",
   "jp": "間接：敵１体に、水のエーテルを放つ中エンチャント",
   "en": "Ranged: Medium Enchant Water Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、水のエーテルを放つ中エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271C/0",
@@ -247047,7 +247047,7 @@
   "offset": "76A6",
   "jp": "ハイフレアエナジー",
   "en": "High Flare Energy",
-  "zh": ""
+  "zh": "ハイフレアエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271C/1",
@@ -247056,7 +247056,7 @@
   "offset": "76BA",
   "jp": "間接：敵１体に、火のエーテルを放つ中エンチャント",
   "en": "Ranged: Medium Enchant Fire Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、火のエーテルを放つ中エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271D/0",
@@ -247065,7 +247065,7 @@
   "offset": "76EC",
   "jp": "ハイエアロエナジー",
   "en": "High Aero Energy",
-  "zh": ""
+  "zh": "ハイエアロエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271D/1",
@@ -247074,7 +247074,7 @@
   "offset": "7700",
   "jp": "間接：敵１体に、風のエーテルを放つ中エンチャント",
   "en": "Ranged: Medium Enchant Wind Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、風のエーテルを放つ中エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271E/0",
@@ -247083,7 +247083,7 @@
   "offset": "7732",
   "jp": "ハイライトエナジー",
   "en": "High Light Force",
-  "zh": ""
+  "zh": "ハイライトエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271E/1",
@@ -247092,7 +247092,7 @@
   "offset": "7746",
   "jp": "間接：敵１体に、光のエーテルを放つ中エンチャント",
   "en": "Ranged: Medium Enchant Light Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、光のエーテルを放つ中エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271F/0",
@@ -247101,7 +247101,7 @@
   "offset": "7778",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/271F/1",
@@ -247110,7 +247110,7 @@
   "offset": "777C",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2724/0",
@@ -247119,7 +247119,7 @@
   "offset": "7780",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2724/1",
@@ -247128,7 +247128,7 @@
   "offset": "7784",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2725/0",
@@ -247137,7 +247137,7 @@
   "offset": "7788",
   "jp": "メガアクアエナジー",
   "en": "Mega Aqua Force",
-  "zh": ""
+  "zh": "メガアクアエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2725/1",
@@ -247146,7 +247146,7 @@
   "offset": "779C",
   "jp": "間接：敵１体に、水のエーテルを放つ強エンチャント",
   "en": "Ranged: Strong Enchant Water Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、水のエーテルを放つ強エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2726/0",
@@ -247155,7 +247155,7 @@
   "offset": "77CE",
   "jp": "メガフレアエナジー",
   "en": "Mega Flare Force",
-  "zh": ""
+  "zh": "メガフレアエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2726/1",
@@ -247164,7 +247164,7 @@
   "offset": "77E2",
   "jp": "間接：敵１体に、火のエーテルを放つ強エンチャント",
   "en": "Ranged: Strong Enchant Fire Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、火のエーテルを放つ強エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2727/0",
@@ -247173,7 +247173,7 @@
   "offset": "7814",
   "jp": "メガエアロエナジー",
   "en": "Mega Aero Force",
-  "zh": ""
+  "zh": "メガエアロエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2727/1",
@@ -247182,7 +247182,7 @@
   "offset": "7828",
   "jp": "間接：敵１体に、風のエーテルを放つ強エンチャント",
   "en": "Ranged: Strong Enchant Wind Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、風のエーテルを放つ強エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2728/0",
@@ -247191,7 +247191,7 @@
   "offset": "785A",
   "jp": "メガライトエナジー",
   "en": "Mega Light Force",
-  "zh": ""
+  "zh": "メガライトエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2728/1",
@@ -247200,7 +247200,7 @@
   "offset": "786E",
   "jp": "間接：敵１体に、光のエーテルを放つ強エンチャント",
   "en": "Ranged: Strong Enchant Light Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、光のエーテルを放つ強エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2729/0",
@@ -247209,7 +247209,7 @@
   "offset": "78A0",
   "jp": "メガダークエナジー",
   "en": "Mega Dark Force",
-  "zh": ""
+  "zh": "メガダークエナジー"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2729/1",
@@ -247218,7 +247218,7 @@
   "offset": "78B4",
   "jp": "間接：敵１体に、闇のエーテルを放つ強エンチャント",
   "en": "Ranged: Strong Enchant Dark Ether attack to single enemy",
-  "zh": ""
+  "zh": "間接：敵１体に、闇のエーテルを放つ強エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2742/0",
@@ -247227,7 +247227,7 @@
   "offset": "78E6",
   "jp": "アースサイト",
   "en": "Earth Sight",
-  "zh": ""
+  "zh": "アースサイト"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2742/1",
@@ -247236,7 +247236,7 @@
   "offset": "78F4",
   "jp": "間接：範囲内の敵に、地のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Earth Ether blast to enemy in range",
-  "zh": ""
+  "zh": "間接：範囲内の敵に、地のエーテルを放つ弱エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2743/0",
@@ -247245,7 +247245,7 @@
   "offset": "792A",
   "jp": "アクアサイト",
   "en": "Aqua Sight",
-  "zh": ""
+  "zh": "アクアサイト"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2743/1",
@@ -247254,7 +247254,7 @@
   "offset": "7938",
   "jp": "間接：範囲内の敵に、水のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Water Ether blast to enemy in range",
-  "zh": ""
+  "zh": "間接：範囲内の敵に、水のエーテルを放つ弱エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2744/0",
@@ -247263,7 +247263,7 @@
   "offset": "796E",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2744/1",
@@ -247272,7 +247272,7 @@
   "offset": "7972",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2745/0",
@@ -247281,7 +247281,7 @@
   "offset": "7976",
   "jp": "エアロサイト",
   "en": "Aero Sight",
-  "zh": ""
+  "zh": "エアロサイト"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2745/1",
@@ -247290,7 +247290,7 @@
   "offset": "7984",
   "jp": "間接：範囲内の敵に、風のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Wind Ether blast to enemy in range",
-  "zh": ""
+  "zh": "間接：範囲内の敵に、風のエーテルを放つ弱エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2746/0",
@@ -247299,7 +247299,7 @@
   "offset": "79BA",
   "jp": "ライトサイト",
   "en": "Light Sight",
-  "zh": ""
+  "zh": "ライトサイト"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2746/1",
@@ -247308,7 +247308,7 @@
   "offset": "79C8",
   "jp": "間接：範囲内の敵に、光のエーテルを放つ弱エンチャント",
   "en": "Ranged: Weak Enchant Light Ether blast to enemy in range",
-  "zh": ""
+  "zh": "間接：範囲内の敵に、光のエーテルを放つ弱エンチャント"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2747/0",
@@ -247317,7 +247317,7 @@
   "offset": "79FE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2747/1",
@@ -247326,7 +247326,7 @@
   "offset": "7A02",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274C/0",
@@ -247335,7 +247335,7 @@
   "offset": "7A06",
   "jp": "ハイアースサイト",
   "en": "High Earth Sight",
-  "zh": ""
+  "zh": "高级地瞄术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274C/1",
@@ -247344,7 +247344,7 @@
   "offset": "7A18",
   "jp": "間接：範囲内の敵に、地のエーテルを放つ中エンチャント",
   "en": "Ranged: Mid Enchant Earth Ether blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放地以太的中级赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274D/0",
@@ -247353,7 +247353,7 @@
   "offset": "7A4E",
   "jp": "ハイアクアサイト",
   "en": "High Aqua Sight",
-  "zh": ""
+  "zh": "高级水瞄术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274D/1",
@@ -247362,7 +247362,7 @@
   "offset": "7A60",
   "jp": "間接：範囲内の敵に、水のエーテルを放つ中エンチャント",
   "en": "Ranged: Mid Enchant Water Ether blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放水以太的中级赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274E/0",
@@ -247371,7 +247371,7 @@
   "offset": "7A96",
   "jp": "ハイフレアサイト",
   "en": "High Flare Sight",
-  "zh": ""
+  "zh": "高级火瞄术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274E/1",
@@ -247380,7 +247380,7 @@
   "offset": "7AA8",
   "jp": "間接：範囲内の敵に、火のエーテルを放つ中エンチャント",
   "en": "Ranged: Mid Enchant Fire Ether blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放火以太的中级赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274F/0",
@@ -247389,7 +247389,7 @@
   "offset": "7ADE",
   "jp": "ハイエアロサイト",
   "en": "High Aero Sight",
-  "zh": ""
+  "zh": "高级风瞄术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/274F/1",
@@ -247398,7 +247398,7 @@
   "offset": "7AF0",
   "jp": "間接：範囲内の敵に、風のエーテルを放つ中エンチャント",
   "en": "Ranged: Mid Enchant Wind Ether blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放风以太的中级赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2750/0",
@@ -247407,7 +247407,7 @@
   "offset": "7B26",
   "jp": "ハイライトサイト",
   "en": "High Light Sight",
-  "zh": ""
+  "zh": "高级光瞄术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2750/1",
@@ -247416,7 +247416,7 @@
   "offset": "7B38",
   "jp": "間接：範囲内の敵に、光のエーテルを放つ中エンチャント",
   "en": "Ranged: Mid Enchant Light Ether blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放光以太的中级赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2751/0",
@@ -247425,7 +247425,7 @@
   "offset": "7B6E",
   "jp": "ハイダークサイト",
   "en": "High Dark Sight",
-  "zh": ""
+  "zh": "高级暗瞄术"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2751/1",
@@ -247434,7 +247434,7 @@
   "offset": "7B80",
   "jp": "間接：範囲内の敵に、闇のエーテルを放つ中エンチャント",
   "en": "Ranged: Mid Enchant Dark Ether blast to enemy in range",
-  "zh": ""
+  "zh": "间接：对范围内的敌人释放暗以太的中级赋法"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2756/0",
@@ -247443,7 +247443,7 @@
   "offset": "7BB6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2756/1",
@@ -247452,7 +247452,7 @@
   "offset": "7BBA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2757/0",
@@ -247461,7 +247461,7 @@
   "offset": "7BBE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2757/1",
@@ -247470,7 +247470,7 @@
   "offset": "7BC2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2758/0",
@@ -247479,7 +247479,7 @@
   "offset": "7BC6",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2758/1",
@@ -247488,7 +247488,7 @@
   "offset": "7BCA",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2759/0",
@@ -247497,7 +247497,7 @@
   "offset": "7BCE",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/2759/1",
@@ -247506,7 +247506,7 @@
   "offset": "7BD2",
   "jp": "-",
   "en": "",
-  "zh": ""
+  "zh": "-"
  },
  {
   "id": "OTHER/SKILLLIST.TXT/275A/0",
