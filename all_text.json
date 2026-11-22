@@ -271338,7 +271338,7 @@
   "offset": "76AC",
   "jp": "ＳＰを使い、スキルを習得します\n習得したスキルは、「スキル装備」すると戦闘で使うことができます\n\nなお、スキルを習得できるのは“人間”だけです\nゴーレムは新たにスキルを習得することができません",
   "en": "Use SP to acquire a skill.\nAfter acquiring your skill, use \"Equip Skill\" to use it in battle.\n\nOnly \"humans\" can acquire skills.\nGolems do not have the ability to acquire new skills.",
-  "zh": ""
+  "zh": "消耗ＳＰ习得技能。\n习得的技能在“技能装备”中配置后即可在战斗中使用。\n\n另外，只有“人类”才能习得技能。\n魔像无法习得新技能。"
  },
  {
   "id": "FMG/MENU.FMG/120002",
@@ -271347,7 +271347,7 @@
   "offset": "776E",
   "jp": "習得済みのスキルから、戦闘で使うものを選びます\nカーソルでスキルを２つ選び、入れ替えてください\n\nなお装備スキルを変更できるのは“人間”だけです\nゴーレムはスキルの確認のみ行えます",
   "en": "Select a skill to use in battle from among your acquired skills.\nUse your cursor to select 2 skills and then exchange them.\n\nOnly \"humans\" can change equipped skills.\nFor golems, you can only confirm what their skill is.",
-  "zh": ""
+  "zh": "从已习得的技能中，选择在战斗中使用的技能。\n请用光标选中２个技能进行替换。\n\n另外，只有“人类”才能更改装备的技能。\n魔像仅能查看技能。"
  },
  {
   "id": "FMG/MENU.FMG/120003",
@@ -271356,7 +271356,7 @@
   "offset": "7824",
   "jp": "ＳＰを使い、パラメータを成長させます\n成長させたいパラメータを選択してください",
   "en": "Use SP to improve your character parameters.\nSelect a parameter that you want to improve.",
-  "zh": ""
+  "zh": "消耗ＳＰ提升属性数值。\n请选择想要提升的属性。"
  },
  {
   "id": "FMG/MENU.FMG/120004",
@@ -271365,7 +271365,7 @@
   "offset": "7874",
   "jp": "装備する武器を選択します\n\nなお、武器を変更できるのは“人間”だけです\nゴーレムは武器を変更できません",
   "en": "Select a weapon to equip.\n\nOnly human characters can equip weapons.\nGolems cannot equip weapons.",
-  "zh": ""
+  "zh": "选择要装备的武器。\n\n另外，只有“人类”才能更换武器。\n魔像无法更换武器。"
  },
  {
   "id": "FMG/MENU.FMG/120005",
@@ -271374,7 +271374,7 @@
   "offset": "78DC",
   "jp": "使用・確認するアイテムを選択します\nここで使用できるのは、ＶＰを回復するなどの“補助アイテム”だけです\n\nアイテムの種類の切替は⑪⑫で行なえます",
   "en": "Select an item to use or check.\nYou can only use VP healing and other support items from\nthis menu.\n\nUse ⑪ and ⑫ to move through item types.",
-  "zh": ""
+  "zh": "选择要使用或确认的道具。\n此处仅能使用恢复ＶＰ等“辅助道具”。\n\n可按⑪⑫切换道具种类。"
  },
  {
   "id": "FMG/MENU.FMG/120006",
@@ -271383,7 +271383,7 @@
   "offset": "796E",
   "jp": "戦闘で使用するアイテムを並べ替えます\nカーソルでアイテムを２つ選び、好きな順序に入れ替えてください\n\n④で自動的に並べ替えることもできます",
   "en": "Rearrange battle items.\nUse the cursor to freely arrange items.\n\nYou can also use ④ to automatically arrange them.",
-  "zh": ""
+  "zh": "整理在战斗中使用的道具顺序。\n请用光标选中２个道具，随心调整顺序。\n\n也可按④自动整理。"
  },
  {
   "id": "FMG/MENU.FMG/120007",
@@ -271392,7 +271392,7 @@
   "offset": "79FA",
   "jp": "行ったことのあるエリアの情報や\nすでに倒したことのある敵の情報を確認します\n\n敵の情報を見るには、エリアを選択後、①で決定してください",
   "en": "View information on areas you have visited and enemies\nyou have defeated.\n\nTo view enemy information press ① after selecting an\narea.",
-  "zh": ""
+  "zh": "确认曾去过的区域信息\n以及已击败过的敌人信息。\n\n若要查看敌人信息，请在选择区域后按①确定。"
  },
  {
   "id": "FMG/MENU.FMG/120008",
@@ -271401,7 +271401,7 @@
   "offset": "7A82",
   "jp": "今までに行なったイベントを確認します\n確認したいイベントを選択してください",
   "en": "Check over events that have occurred.\nSelect an event to check.",
-  "zh": ""
+  "zh": "回顾至今经历过的事件剧情。\n请选择想要查看的事件。"
  },
  {
   "id": "FMG/MENU.FMG/120009",
@@ -271410,7 +271410,7 @@
   "offset": "7ACE",
   "jp": "戦闘時などに使う消耗品を購入します\n購入したいものを選択した後に、購入個数を決定してください",
   "en": "Buy single-use items for use in battle.\nSelect an item and then a number to buy.",
-  "zh": ""
+  "zh": "购买战斗等场合使用的消耗品。\n请在选择要购买的物品后，确定购买数量。"
  },
  {
   "id": "FMG/MENU.FMG/120010",
@@ -271419,7 +271419,7 @@
   "offset": "7B2C",
   "jp": "習得できるスキルを増やします\n\nスキルを購入したら\n「スキル」で習得・装備してください",
   "en": "Increase the skills that characters can learn.\n\nAfter purchasing a skill, learn and equip it from\nthe \"Skill\" menu.",
-  "zh": ""
+  "zh": "增加可习得的技能。\n\n购买技能后，\n请在“技能”中进行习得与装备。"
  },
  {
   "id": "FMG/MENU.FMG/120011",
@@ -271428,7 +271428,7 @@
   "offset": "7B84",
   "jp": "ゴーレムや武器を合成するために必要なアイテムを購入します\n購入したいものを選択してください\n\nコアマテリアルを購入したら\n「ゴーレム合成」「武器合成」で合成してください",
   "en": "Buy items required to synthesize Golems and weapons\nSelect the item you wish to buy.\n\nOnce you have purchased a Core Material use Synthesize Golem\nor Synthesize Weapon to perform the synthesis.",
-  "zh": ""
+  "zh": "购买合成魔像或武器所需的道具。\n请选择想要购买的物品。\n\n购买核心材料后，\n请在“魔像合成”或“武器合成”中进行合成。"
  },
  {
   "id": "FMG/MENU.FMG/120012",
@@ -271437,7 +271437,7 @@
   "offset": "7C2E",
   "jp": "所持しているアイテムを売却します\n売却したいものを選択した後に、売却個数を決定してください\n\nなお、中には売却できないアイテムもあります",
   "en": "Sell items.\nSelect an item and then the number to sell.\n\nSome items cannot be sold.",
-  "zh": ""
+  "zh": "出售持有的道具。\n请在选择要出售的物品后，确定出售数量。\n\n另外，部分道具无法出售。"
  },
  {
   "id": "FMG/MENU.FMG/120013",
@@ -271446,7 +271446,7 @@
   "offset": "7CB8",
   "jp": "“ゴーレムコア”と“マテリアル”を使い、ゴーレムを合成します\n合成したいものを選択してください\n\nなお合成したゴーレムは\nメインメニューの「パーティ編成」でパーティに参加させることができます",
   "en": "Use a Golem Core and Material to synthesize a Golem.\nSelect the Golem that you wish to synthesize.\n\nA synthesized Golem can then be added to your party using\nthe \"Party\" command.",
-  "zh": ""
+  "zh": "使用“魔像核心”与“材料”合成魔像。\n请选择想要合成的目标。\n\n合成的魔像可在此后\n通过主菜单的“队伍编成”加入队伍。"
  },
  {
   "id": "FMG/MENU.FMG/120014",
@@ -271455,7 +271455,7 @@
   "offset": "7D78",
   "jp": "手に入れたゴーレムの中から、仲間として連れて行くものを選択します\nゴーレムをカーソルで選び、入れ替えてください\n\nゴーレムは、④で自動的に並べ替えることもできます",
   "en": "Select the Golems that will actually travel with you.\nUse the cursor to swap Golems into your party.\n\nYou can use ④ to automatically arrange the Golems.",
-  "zh": ""
+  "zh": "从已获得的魔像中，选择作为同伴同行的魔像。\n请用光标选中魔像进行替换。\n\n魔像也可按④自动排列。"
  },
  {
   "id": "FMG/MENU.FMG/120015",
@@ -271464,7 +271464,7 @@
   "offset": "7E1C",
   "jp": "“武器コア”と“マテリアル”を使い、武器を合成します\n合成したいものを選択してください\n\nキャラクターごとに、装備できる武器の種類が決まっています\n種類切替は⑪⑫で行なえます",
   "en": "Use a weapon Core and Materials to synthesize a weapon.\nSelect the weapon that you wish to synthesize.\n\nA synthesized Golem can then be added to your party using\nthe Swap Golem command.",
-  "zh": ""
+  "zh": "使用“武器核心”与“材料”合成武器。\n请选择想要合成的目标。\n\n每名角色可装备的武器种类各不相同。\n可按⑪⑫切换种类。"
  },
  {
   "id": "FMG/MENU.FMG/120016",
@@ -271473,7 +271473,7 @@
   "offset": "7ECC",
   "jp": "習得済みのスキルから、戦闘で使うものを選びます\nカーソルでスキルを２つ選び、入れ替えてください\n\nなお装備スキルを変更できるのは“人間”だけです\nゴーレムはスキルの確認のみ行えます",
   "en": "Select skills from those you have learned to use in combat.\nUse the cursor to swap two skills.\n\nOnly human characters can change their equipped skills.\nYou can only check, not alter, Golem skills.",
-  "zh": ""
+  "zh": "从已习得的技能中，选择在战斗中使用的技能。\n请用光标选中２个技能进行替换。\n\n另外，只有“人类”才能更改装备的技能。\n魔像仅能查看技能。"
  },
  {
   "id": "FMG/MENU.FMG/120017",
@@ -271482,7 +271482,7 @@
   "offset": "7F82",
   "jp": "習得済みのＥＸを確認します\n\nなおＥＸを持つのは“人間”だけです\nゴーレムはＥＸを持ちません",
   "en": "Check EX that you have learned.\n\nOnly human characters have EX attacks.\nGolems do not have EX attacks.",
-  "zh": ""
+  "zh": "确认已习得的ＥＸ技。\n\n另外，只有“人类”才拥有ＥＸ技。\n魔像没有ＥＸ技。"
  },
  {
   "id": "FMG/MENU.FMG/120021",
@@ -271491,7 +271491,7 @@
   "offset": "7FE0",
   "jp": "タイトル画面へ戻りますか？",
   "en": "",
-  "zh": ""
+  "zh": "要返回标题画面吗？"
  },
  {
   "id": "FMG/MENU.FMG/120030",
@@ -271500,7 +271500,7 @@
   "offset": "7FFC",
   "jp": "ゲームを開始する前に\nオプションの設定をします",
   "en": "Alter game options before starting the game.",
-  "zh": ""
+  "zh": "在开始游戏前\n进行选项设置。"
  },
  {
   "id": "FMG/MENU.FMG/120031",
@@ -271509,7 +271509,7 @@
   "offset": "802C",
   "jp": "システム設定を終了しますか？\n\nなお設定は、メインメニューでいつでも変更できます",
   "en": "Finish system settings?\n\nThese settings can be changed from the main menu at\nany time.",
-  "zh": ""
+  "zh": "要结束系统设置吗？\n\n设置随时可在主菜单中更改。"
  },
  {
   "id": "FMG/MENU.FMG/120033",
@@ -271518,7 +271518,7 @@
   "offset": "807E",
   "jp": "これまでプレイしたストーリーや戦闘の記録などを確認します\n見たい記録を選択してください",
   "en": "View records of the story and battles played so far.\nSelect the records you want to see.",
-  "zh": ""
+  "zh": "查看至今游玩的主线剧情及战斗记录等。\n请选择想要查看的记录。"
  },
  {
   "id": "FMG/MENU.FMG/120034",
@@ -271527,7 +271527,7 @@
   "offset": "80D6",
   "jp": "プレイに役立つ情報を確認します\n確認したい情報を選択してください",
   "en": "Check useful information to aid your play.\nSelect the information you want to see.",
-  "zh": ""
+  "zh": "查看有助于游玩的相关信息。\n请选择想要确认的信息。"
  },
  {
   "id": "FMG/MENU.FMG/120035",
@@ -271536,7 +271536,7 @@
   "offset": "8118",
   "jp": "PlayStation3 本体にLANケーブルが接続されていません\n接続をご確認の上、もう一度お試しください",
   "en": "No LAN cable connected to the PlayStation 3 console.\nReconnect the cable and try again.",
-  "zh": ""
+  "zh": "PlayStation3 主机未连接网线。\n请确认连接后再试一次。"
  },
  {
   "id": "FMG/MENU.FMG/120036",
@@ -271545,7 +271545,7 @@
   "offset": "8186",
   "jp": "サインアウトしました\nゲームを終了し、タイトル画面に戻ります",
   "en": "Signed out.\nReturning to the title screen.",
-  "zh": ""
+  "zh": "已登出。\n正在退出游戏并返回标题画面。"
  },
  {
   "id": "FMG/MENU.FMG/120037",
@@ -271554,7 +271554,7 @@
   "offset": "81C4",
   "jp": "NPへの接続に失敗しました\n設定を確認の上、もう一度お試しください",
   "en": "Failed to connect to the NP.\nCheck your settings and try again.",
-  "zh": ""
+  "zh": "连接至NP失败。\n请确认设置后再试一次。"
  },
  {
   "id": "FMG/MENU.FMG/120038",
@@ -271563,7 +271563,7 @@
   "offset": "8208",
   "jp": "データ%dのゲームプレイを削除します\nゲームプレイが失われますが、よろしいですか？",
   "en": "Delete game data %d.\nThis game data will be deleted permanently, okay?",
-  "zh": ""
+  "zh": "将删除数据%d的游玩存档。\n该游玩数据将会丢失，确定要删除吗？"
  },
  {
   "id": "FMG/MENU.FMG/120039",
@@ -271572,7 +271572,7 @@
   "offset": "825C",
   "jp": "データの削除中には、HDDアクセスランプが点滅しますので\nその間は本体の電源を切らないでください",
   "en": "The HDD access lamp is on while deleting data.\nDo not turn off the power while the lamp is on.",
-  "zh": ""
+  "zh": "删除数据期间，HDD读取指示灯将会闪烁，\n在此期间切勿关闭主机电源。"
  },
  {
   "id": "FMG/MENU.FMG/120040",
@@ -271581,7 +271581,7 @@
   "offset": "82BE",
   "jp": "ゲームプレイを正常に削除しました",
   "en": "Game data was deleted successfully.",
-  "zh": ""
+  "zh": "已成功删除游玩数据。"
  },
  {
   "id": "FMG/MENU.FMG/120041",
@@ -271590,7 +271590,7 @@
   "offset": "82E0",
   "jp": "ゲームプレイの削除に失敗しました",
   "en": "Failed to delete game data.",
-  "zh": ""
+  "zh": "删除游玩数据失败。"
  },
  {
   "id": "FMG/MENU.FMG/120042",
@@ -271599,7 +271599,7 @@
   "offset": "8302",
   "jp": "アクセスに失敗しました\nゲームを終了し、タイトル画面に戻ります",
   "en": "Access failed.\nReturning to the title screen.",
-  "zh": ""
+  "zh": "访问失败。\n正在退出游戏并返回标题画面。"
  },
  {
   "id": "FMG/MENU.FMG/120043",
@@ -271608,7 +271608,7 @@
   "offset": "8342",
   "jp": "ダウンロードに成功しました\n%sがショップに追加されます",
   "en": "Download was successful.\nAdded %s to the shop.",
-  "zh": ""
+  "zh": "下载成功。\n%s已添加到商店中。"
  },
  {
   "id": "FMG/MENU.FMG/120044",
@@ -271617,7 +271617,7 @@
   "offset": "837C",
   "jp": "ダウンロードに失敗しました",
   "en": "Download failed.",
-  "zh": ""
+  "zh": "下载失败。"
  },
  {
   "id": "FMG/MENU.FMG/120045",
@@ -271626,7 +271626,7 @@
   "offset": "8398",
   "jp": "サーバーとの接続が切断されました",
   "en": "",
-  "zh": ""
+  "zh": "与服务器的连接已断开。"
  },
  {
   "id": "FMG/MENU.FMG/120046",
@@ -271635,7 +271635,7 @@
   "offset": "83BA",
   "jp": "PLAYSTATION®Networkは一時停止しています",
   "en": "",
-  "zh": ""
+  "zh": "PLAYSTATION®Network服务已暂停。"
  },
  {
   "id": "FMG/MENU.FMG/120047",
@@ -271644,7 +271644,7 @@
   "offset": "83F6",
   "jp": "PLAYSTATION®Networkは終了しました",
   "en": "",
-  "zh": ""
+  "zh": "PLAYSTATION®Network已停止服务。"
  },
  {
   "id": "FMG/MENU.FMG/120048",
@@ -271653,7 +271653,7 @@
   "offset": "842C",
   "jp": "PLAYSTATION®Networkは現在非常に混雑しています\n時間を置いてもう一度接続してください",
   "en": "",
-  "zh": ""
+  "zh": "PLAYSTATION®Network当前非常拥挤\n请稍后再尝试连接"
  },
  {
   "id": "FMG/MENU.FMG/120049",
@@ -271662,7 +271662,7 @@
   "offset": "8494",
   "jp": "IDもしくはパスワードが不正なため、\nPLAYSTATION®Networkに接続できません",
   "en": "",
-  "zh": ""
+  "zh": "账号或密码错误，\n无法连接至PLAYSTATION®Network"
  },
  {
   "id": "FMG/MENU.FMG/120050",
@@ -271671,7 +271671,7 @@
   "offset": "84F2",
   "jp": "このアカウントは使用を一時停止されているため、\nPLAYSTATION®Networkに接続できません",
   "en": "",
-  "zh": ""
+  "zh": "该账号已被暂时停用，\n无法连接至PLAYSTATION®Network"
  },
  {
   "id": "FMG/MENU.FMG/120051",
@@ -271680,7 +271680,7 @@
   "offset": "855A",
   "jp": "このアカウントは使用を停止されているため、\nPLAYSTATION®Networkに接続できません",
   "en": "",
-  "zh": ""
+  "zh": "该账号已被停用，\n无法连接至PLAYSTATION®Network"
  },
  {
   "id": "FMG/MENU.FMG/120052",
@@ -271689,7 +271689,7 @@
   "offset": "85BE",
   "jp": "PLAYSTATION®Networkに接続できません\n一度ゲームを終了し、再度サインインしてください",
   "en": "",
-  "zh": ""
+  "zh": "无法连接至PLAYSTATION®Network\n请先退出游戏，然后重新登录"
  },
  {
   "id": "FMG/MENU.FMG/120053",
@@ -271698,7 +271698,7 @@
   "offset": "8626",
   "jp": "PLAYSTATION®3 がネットワークに接続されていないため、選択できません\n接続を確認の上、もう一度選択してください",
   "en": "",
-  "zh": ""
+  "zh": "由于PLAYSTATION®3未连接至网络，无法选择\n请确认连接后再次选择"
  },
  {
   "id": "FMG/MENU.FMG/130000",
@@ -271707,7 +271707,7 @@
   "offset": "86A2",
   "jp": "クリアボーナス　ケイオスコアを手に入れた！",
   "en": "Clear Bonus  Chaos Core obtained!",
-  "zh": ""
+  "zh": "通关奖励　获得了混沌核心！"
  },
  {
   "id": "QUIZ/100/question",
